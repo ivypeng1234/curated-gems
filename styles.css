@@ -5,14 +5,17 @@
 body {
     font-family: system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif;
     margin: 0;
-    background: #fafafa;
-    color: #222
+    background-color: #f8f9fa;
+    color: #343a40
 }
 
 .container {
     max-width: 960px;
-    margin: 0 auto;
-    padding: 16px
+    margin: 1rem auto;
+    padding: 1.5rem;
+    background-color: white;
+    border-radius: 10px;
+    box-shadow: 0 5px 15px rgba(0,0,0,0.05);
 }
 
 .subtitle {
@@ -35,6 +38,133 @@ body {
         flex-direction: row;
         justify-content: center;
         gap: 24px;
+    }
+}
+
+/* 头部样式优化 */
+.header-main {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1.5rem 0;
+    flex-wrap: wrap;
+    border-bottom: 2px solid #e9ecef;
+    margin-bottom: 1.5rem;
+}
+
+.logo-area {
+    flex: 1;
+    min-width: 250px;
+}
+
+.logo-area h1 {
+    margin: 0;
+    font-size: 2rem;
+    font-weight: 700;
+    color: #3b5998; /* 添加蓝色调 */
+    letter-spacing: -0.5px;
+    text-shadow: 1px 1px 0px rgba(0,0,0,0.05);
+}
+
+.subtitle {
+    margin: 0.5rem 0 0;
+    color: #7f8c8d;
+    font-size: 1rem;
+}
+
+.header-controls {
+    display: flex;
+    align-items: center;
+    gap: 1.5rem;
+}
+
+.control-item {
+    position: relative;
+    display: flex;
+    align-items: center;
+}
+
+.control-button {
+    background: linear-gradient(145deg, #f8f9fa, #e9ecef);
+    border: 1px solid #e9ecef;
+    border-radius: 50%;
+    width: 40px;
+    height: 40px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+    font-weight: 600;
+    color: #3b5998; /* 添加蓝色调 */
+    transition: all 0.2s ease;
+    box-shadow: 2px 2px 5px rgba(0,0,0,0.05);
+}
+
+.control-button:hover {
+    background: linear-gradient(145deg, #e9ecef, #f8f9fa);
+    transform: translateY(-2px);
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+}
+
+.lang-toggle .current-lang {
+    font-size: 0.9rem;
+}
+
+.version-tabs {
+    display: flex;
+    background: #f0f2f5; /* 轻微的蓝灰色背景 */
+    border-radius: 8px;
+    padding: 4px;
+    gap: 4px;
+    box-shadow: inset 0 1px 3px rgba(0,0,0,0.1);
+}
+
+.version-tab {
+    border: none;
+    background: transparent;
+    padding: 8px 14px;
+    border-radius: 6px;
+    cursor: pointer;
+    font-size: 0.85rem;
+    color: #495057;
+    transition: all 0.2s ease;
+    font-weight: 500;
+}
+
+.version-tab:hover {
+    background: rgba(59, 89, 152, 0.1); /* 蓝色调的悬停效果 */
+    color: #3b5998;
+}
+
+.version-tab.active {
+    background: #3b5998; /* 蓝色调的激活状态 */
+    color: white;
+    font-weight: 500;
+    box-shadow: 0 2px 4px rgba(59, 89, 152, 0.3);
+}
+
+.version-hint {
+    display: block;
+    font-size: 0.75rem;
+    color: #868e96;
+    margin-top: 6px;
+    text-align: center;
+}
+
+@media (max-width: 768px) {
+    .header-main {
+        flex-direction: column;
+        align-items: flex-start;
+    }
+    
+    .header-controls {
+        width: 100%;
+        justify-content: space-between;
+        margin-top: 1.5rem;
+    }
+    
+    .version-tabs {
+        flex-wrap: wrap;
     }
 }
 
