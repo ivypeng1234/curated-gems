@@ -4,31 +4,32 @@
 <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width,initial-scale=1" />
-    <title>新月的精选内容</title>
+    <title>孙玲的精选内容</title>
     <link rel="stylesheet" href="./styles.css" />
 </head>
 
 <body>
     <header class="container">
-        <h1 data-zh="新月的精选内容收藏" data-en="Xinyue's Curated Content">新月的精选内容收藏</h1>
-        <p class="subtitle" data-zh="优质资源分享" data-en="Quality articles, podcasts and resources">优质资源分享</p>
-        <div class="header-controls">
-            <div id="version-bar" class="version-selector">
-                <label for="ver" data-zh="版本：" data-en="Version:">版本：</label>
-                <select id="ver" class="version-select">
-                    <option value="1" selected data-zh="v1 - 基础版" data-en="v1 - Basic">v1 - 基础版</option>
-                    <option value="2" data-zh="v2 - 搜索版" data-en="v2 - Search">v2 - 搜索版</option>
-                    <option value="3" data-zh="v3 - 筛选版" data-en="v3 - Filter">v3 - 筛选版</option>
-                    <option value="4" data-zh="v4 - 动态版" data-en="v4 - Dynamic">v4 - 动态版</option>
-                </select>
-                <small id="hint"></small>
+        <div class="header-main">
+            <div class="logo-area">
+                <h1 data-zh="精选内容聚合" data-en="Curated Content Hub">精选内容聚合</h1>
+                <p class="subtitle" data-zh="发现优质文章、播客和资源" data-en="Discover quality articles, podcasts and resources">发现优质文章、播客和资源</p>
             </div>
-            <div class="language-selector">
-                <label for="lang" data-zh="语言：" data-en="Language:">语言：</label>
-                <select id="lang" class="language-select">
-                    <option value="zh" selected data-zh="中文" data-en="Chinese">中文</option>
-                    <option value="en" data-zh="English" data-en="English">English</option>
-                </select>
+            <div class="header-controls">
+                <div class="control-item">
+                    <button id="lang-toggle" class="control-button lang-toggle" title="切换语言 / Switch Language">
+                        <span class="current-lang" data-zh="中" data-en="EN">中</span>
+                    </button>
+                </div>
+                <div class="control-item version-selector">
+                    <div class="version-tabs">
+                        <button class="version-tab" data-version="1" data-zh="基础版" data-en="Basic">基础版</button>
+                        <button class="version-tab" data-version="2" data-zh="搜索版" data-en="Search">搜索版</button>
+                        <button class="version-tab" data-version="3" data-zh="筛选版" data-en="Filter">筛选版</button>
+                        <button class="version-tab" data-version="4" data-zh="动态版" data-en="Dynamic">动态版</button>
+                    </div>
+                    <small id="hint" class="version-hint"></small>
+                </div>
             </div>
         </div>
     </header>
@@ -56,10 +57,10 @@
             });
             
             // Update hint text
-            const ver = document.getElementById("ver").value;
+            const currentVer = new URLSearchParams(location.search).get("v") || "1";
             const hintTexts = {
-                zh: `当前：v${ver}（地址可加 ?v=1/2/3/4 切换）`,
-                en: `Current: v${ver} (Add ?v=1/2/3/4 to URL to switch)`
+                zh: `当前：v${currentVer}（地址可加 ?v=1/2/3/4 切换）`,
+                en: `Current: v${currentVer} (Add ?v=1/2/3/4 to URL to switch)`
             };
             document.getElementById("hint").textContent = hintTexts[lang];
             
@@ -74,27 +75,46 @@
         const ver = params.get("v") || "1";
         const lang = params.get("lang") || "zh";
         
-        document.getElementById("ver").value = ver;
-        document.getElementById("lang").value = lang;
+        // 不再需要设置select的值，因为已经改为按钮
+        // document.getElementById("ver").value = ver;
         
         // Update language on load
         updateLanguage(lang);
         
-        // Version change handler
-        document.getElementById("ver").addEventListener("change", (e) => {
+        // Version change handler - 不再需要，因为已经改为按钮
+        // document.getElementById("ver").addEventListener("change", (e) => {
+        //     const u = new URL(location.href);
+        //     u.searchParams.set("v", e.target.value);
+        //     u.searchParams.set("lang", currentLang);
+        //     location.href = u.toString();
+        // });
+        
+        // Language change handler
+        document.getElementById("lang-toggle").addEventListener("click", () => {
+            const newLang = currentLang === 'zh' ? 'en' : 'zh';
             const u = new URL(location.href);
-            u.searchParams.set("v", e.target.value);
-            // 保持当前语言设置
-            const currentLang = document.getElementById("lang").value;
-            u.searchParams.set("lang", currentLang);
+            u.searchParams.set("lang", newLang);
             location.href = u.toString();
         });
         
-        // Language change handler
-        document.getElementById("lang").addEventListener("change", (e) => {
-            const u = new URL(location.href);
-            u.searchParams.set("lang", e.target.value);
-            location.href = u.toString();
+        // 版本选项卡处理
+        const versionTabs = document.querySelectorAll('.version-tab');
+        const currentVersion = ver;
+        
+        // 设置当前版本为激活状态
+        versionTabs.forEach(tab => {
+            if(tab.dataset.version === currentVersion) {
+                tab.classList.add('active');
+            }
+            
+            // 添加点击事件
+            tab.addEventListener('click', () => {
+                const version = tab.dataset.version;
+                const u = new URL(location.href);
+                u.searchParams.set("v", version);
+                u.searchParams.set("lang", currentLang);
+                location.href = u.toString();
+            });
         });
         
         // Load version-specific script
