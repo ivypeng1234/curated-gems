@@ -1,15 +1,15 @@
 [
   {
-    "name": "A year of reading the world",
-    "url":"https://ayearofreadingtheworld.com/feed"
+    "name": "Quanta Magazine",
+    "url": "https://www.quantamagazine.org/feed/"
   },
   {
-    "name": "Women | The Guardian",
-    "url": "http://theguardian.com/lifeandstyle/women/rss"
+    "name": "Aeon",
+    "url": "https://aeon.co/feed.rss"
   },
   {
-    "name": "Paul Graham",
-    "url": "http://www.aaronsw.com/2002/feeds/pgessays.rss"
+    "name": "Mental Floss",
+    "url": "https://www.mentalfloss.com/rss.xml"
   },
   {
     "name": "LessWrong",
@@ -35,8 +35,68 @@
     "name": "Huberman Lab",
     "url": "https://feeds.megaphone.fm/hubermanlab"
   },
+    {
+    "name": "Harper’s Magazine",
+    "url": "https://harpers.org/feed/"
+  },
+  {
+    "name": "NME",
+    "url": "https://www.nme.com/feed"
+  },
+  {
+    "name": "Medium",
+    "url": "https://medium.com/feed/swlh"
+  },
+  {
+    "name": "RogerEbert.com",
+    "url": "https://www.themarginalian.org/feed/"
+  },
+  {
+    "name": "The Marginalian",
+    "url": "https://plink.anyfeeder.com/weixin/lifeweek"
+  },
+  {
+    "name": "The Playlist",
+    "url": "https://theplaylist.net/feed/"
+  },
+  {
+    "name": "99% Invisible",
+    "url": "https://99percentinvisible.org/feed/"
+  },
+  {
+    "name": "Atlas Obscura",
+    "url": "https://www.atlasobscura.com/feeds/latest"
+  },
+  {
+    "name": "BFI",
+    "url": "https://www.bfi.org.uk/rss-feed"
+  },
+  {
+    "name": "BOOOOOOOM",
+    "url": "https://www.booooooom.com/feed/"
+  },
+  {
+    "name": "Women | The Guardian",
+    "url": "http://theguardian.com/lifeandstyle/women/rss"
+  },
+  {
+    "name": "Paul Graham",
+    "url": "http://www.aaronsw.com/2002/feeds/pgessays.rss"
+  },
   {
     "name": "Tim Ferriss",
     "url": "https://tim.blog/feed/"
+  },
+  {
+    "name": "看理想",
+    "url": "https://plink.anyfeeder.com/weixin/ikanlixiang"
+  },
+  {
+    "name": "三联生活周刊",
+    "url": "https://plink.anyfeeder.com/weixin/lifeweek"
+  },
+  {
+    "name": "虎嗅",
+    "url": "https://rss.huxiu.com/"
   }
 ]
