@@ -1,1 +1,120 @@
-
+[
+  {
+    "id": 1,
+    "title": "Publication day: Relearning to Read",
+    "title_zh": "出版日：重新学习阅读",
+    "source": "A year of reading the world",
+    "link": "https://ayearofreadingtheworld.com/2025/10/01/publication-day-relearning-to-read/",
+    "tags": [
+      "solve",
+      "writing-content",
+      "lifestyle",
+      "case-study"
+    ],
+    "tags_zh": [
+      "解决",
+      "写作内容",
+      "生活方式",
+      "案例研究"
+    ],
+    "date": "2025-10-01",
+    "summary_en": "Ann Morgan's new book 'Relearning to Read: Adventures in Not-Knowing' explores the transformative power of embracing uncertainty in literature. Through diverse global texts, Morgan challenges readers to engage with unfamiliar perspectives, question their tastes, and navigate books from different political and religious viewpoints. The book's playful and subversive approach makes a compelling case for reading as a tool for self-discovery and understanding our complex world. Morgan's personal journey, including the poignant dedication to her late father, adds emotional depth to this intellectual adventure. The book's innovative format and international reception highlight its potential to reshape reading experiences worldwide.",
+    "summary_zh": "安·摩根的新书《重新学习阅读：不确定的冒险》探索了在文学中拥抱不确定性的力量。通过各种全球文本，摩根挑战读者与陌生视角互动，质疑自己的品味，并阅读不同政治和宗教背景的书籍。这本书以游戏和颠覆性的方式，强有力地提出阅读是自我发现和理解复杂世界的工具。摩根的个人旅程，包括对已故父亲的动人献辞，为这场智力探险增添了情感深度。该书创新的格式和国际反响凸显了其潜力，可能重塑全球阅读体验。",
+    "best_quote_en": "'Living as we do in the golden age of surveillance marketing... it has become ever more difficult to negotiate uncertainty – in life as on the page.'",
+    "best_quote_zh": "摩根写到，我们生活在监控营销的黄金时代，这使得在生活中也在书页上应对不确定性变得越来越困难"
+  },
+  {
+    "id": 2,
+    "title": "They fled war and sexual violence and found a safe space in Athens. Then the aid cuts hit",
+    "title_zh": "他们逃离战争和性暴力，在雅典找到了庇护所。然后援助被削减了",
+    "source": "Women | The Guardian",
+    "link": "https://www.theguardian.com/global-development/2025/sep/26/trump-aid-cuts-greece-migrants-refugees-women-shelter-violence-ngos-funding",
+    "tags": [
+      "solve",
+      "science",
+      "politics",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "解决",
+      "科学研究",
+      "政治时事",
+      "数据驱动"
+    ],
+    "date": "2025-09-26",
+    "summary_en": "This article exposes the devastating impact of aid cuts on refugee women in Greece, highlighting the closure of a critical shelter that left 30 women and children homeless. The piece reveals how US and European funding reductions have gutted humanitarian networks, forcing organizations to make impossible choices. Through the story of Évodie, a Congolese survivor of sexual violence, we see how these cuts reverse progress in healing and empowerment, pushing vulnerable individuals back into survival mode. The article critiques the erosion of global humanitarian commitments and warns of systemic collapse as basic services disappear. It's a stark reminder that funding isn't just about money - it's about human dignity and the fragile trust built through years of care.",
+    "summary_zh": "这篇文章揭露了援助削减对希腊难民妇女的毁灭性影响，特别是一所关键庇护所关闭，导致30名妇女和儿童流落街头。报道揭示了美国和欧洲资金减少如何摧毁人道主义网络，迫使组织面对不可能的选择。通过刚果性暴力幸存者埃沃迪的故事，我们看到这些削减如何逆转治愈和赋权的进展，将弱势群体推回求生状态。文章批评全球人道主义承诺的削弱，并警告基本服务消失可能导致系统崩溃。这提醒我们资金不仅仅是金钱，更是关于人类尊严和多年来护理建立的脆弱信任。",
+    "best_quote_en": "These women’s need for a safe place, their hope for the future, their need to heal the past – all these things are connected.",
+    "best_quote_zh": "这些妇女需要安全的地方，对未来的希望，对过去的治愈——这些都是相互关联的。"
+  },
+  {
+    "id": 3,
+    "title": "Earnestness",
+    "title_zh": "认真",
+    "source": "Paul Graham",
+    "link": "http://www.paulgraham.com/earnest.html",
+    "tags": [
+      "analyze",
+      "startup-strategy",
+      "leadership",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "分析",
+      "创业策略",
+      "领导管理",
+      "未来预测"
+    ],
+    "date": "2025-10-05",
+    "summary_en": "This essay explores the concept of 'earnestness' in the context of startup founders, arguing that genuine passion and motivation for solving problems is a key driver of success. The author contrasts earnest founders with those driven primarily by wealth or fame, suggesting that true nerds - those passionate about their work for its own sake - are more likely to succeed in the long run. The piece also examines the vulnerabilities of earnestness, including perceived naivety and social disadvantages, but ultimately positions it as a strength in complex problem-solving fields. The author observes that earnestness is often misunderstood or mocked in society, particularly in fields where cynicism is more prevalent, and suggests that the alignment of intellectual curiosity with financial success represents a significant cultural shift.",
+    "summary_zh": "这篇文章探讨了“认真”在创业者中的重要性，认为真正的热情和解决问题的动力是成功的关键。作者对比了真诚的创业者与那些主要为追求财富和名誉而创业的人，认为真正的“极客” - 那些为工作本身而热情的人更有可能取得成功。文章还分析了认真态度的脆弱性，包括看似天真和社会劣势，但最终认为它在解决复杂问题的领域是一种优势。作者指出，认真态度往往被社会误解或嘲笑，尤其是在以玩世不恭为主的领域，并认为知识好奇心与经济利益的结合代表了一种重要的文化转变。",
+    "best_quote_en": "A genuine interest in something is a very powerful motivator  for some people, the most powerful motivator of all.",
+    "best_quote_zh": "对某事物的真正兴趣是一种非常强大的动力——对于一些人来说，是最强大的动力。"
+  },
+  {
+    "id": 4,
+    "title": "At the Edge of Peace",
+    "title_zh": "在和平的边缘",
+    "source": "The New Yorker",
+    "link": "https://www.newyorker.com/news/the-lede/at-the-edge-of-peace-in-gaza",
+    "tags": [
+      "update",
+      "politics",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "动态",
+      "政治时事",
+      "未来预测"
+    ],
+    "date": "2025-10-04",
+    "summary_en": "This article provides a nuanced analysis of the fragile ceasefire negotiations between Israel and Hamas, highlighting the complex political maneuvering, internal divisions within both parties, and the broader regional implications. The author Ruth Margalit offers a compelling perspective on how this moment could mark a turning point in the two-year conflict, while also questioning whether the agreement will hold or simply serve as a temporary pause. The piece is particularly insightful in its examination of the Trump administration's role, the internal conflicts within Hamas and the Israeli government, and the human cost of the war as illustrated through poignant personal anecdotes. The article serves as both a timely update on the situation and a deeper exploration of the moral and political challenges facing both sides.",
+    "summary_zh": "这篇文章深入分析了以色列与哈马斯之间停火谈判的复杂性，揭示了双方内部的分歧和地区政治博弈。作者鲁思·玛格利特以敏锐的视角探讨了这一历史时刻可能带来的转机，同时质疑协议的可持续性。文章特别突出了特朗普政府的作用、哈马斯和以色列内部的矛盾，以及战争对人性的摧残。通过生动的个人故事，作者既提供了时事更新，也深入探讨了双方面临的道德与政治挑战。",
+    "best_quote_en": "Change, as the saying goes, happens gradually, then all at once.",
+    "best_quote_zh": "变化总是逐渐发生，然后突然到来。"
+  },
+  {
+    "id": 5,
+    "title": "The Gentle Singularity",
+    "title_zh": "温和的奇点",
+    "source": "Sam Altman",
+    "link": "https://blog.samaltman.com/the-gentle-singularity",
+    "tags": [
+      "solve",
+      "science",
+      "ai-research",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "解决",
+      "科学研究",
+      "AI研究",
+      "未来预测"
+    ],
+    "date": "2025-06-10",
+    "summary_en": "The article 'The Gentle Singularity' presents a nuanced perspective on the impending arrival of digital superintelligence, emphasizing that while we're on the cusp of transformative change, the transition may be more gradual than dramatic. The author argues that we've already achieved systems like GPT-4 that surpass human capabilities in specific domains, and this progress will accelerate scientific breakthroughs and productivity. The piece explores how AI will amplify human potential, create economic value, and eventually make intelligence as abundant as electricity. It also addresses challenges like job displacement and the need for societal adaptation, while advocating for solving alignment problems and democratizing access to superintelligence. The author's optimism about our ability to navigate this transition is tempered with recognition of the serious work ahead in ensuring this technology benefits all of humanity.",
+    "summary_zh": "《温和的奇点》文章指出，数字超级智能的到来可能比想象中更平缓。作者认为，我们已经拥有超越人类能力的系统，未来将加速科学进步和生产力。AI将放大人类潜能，创造经济价值，最终使智能像电力一样普及。文章也探讨了就业转型等挑战，主张解决对齐问题并让超级智能普惠大众。作者对人类适应这种转变的能力充满信心，同时强调需要共同努力确保技术造福全人类。",
+    "best_quote_en": "We are climbing the long arc of exponential technological progress; it always looks vertical looking forward and flat going backwards, but it’s one smooth curve.",
+    "best_quote_zh": "我们正沿着指数级技术进步的长弧前行；向前看时总是显得陡峭，向后看时又显得平坦，但实际上是一条平滑的曲线。"
+  }
+]
