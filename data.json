@@ -522,5 +522,53 @@
     "summary_zh": "A Soft Murmur 是一个在线背景噪音生成器，旨在帮助您放松、专注并屏蔽环境中的不愉快声音。用户可以混合搭配各种舒缓的声音，调整各个音量，并设置定时器，以创建个性化的听觉环境。",
     "best_quote_en": "\"Create your perfect mix of relaxing sounds to help you sleep, relax, study or work!\"",
     "best_quote_zh": "\"创建您完美的放松声音混音，帮助您入睡、放松、学习或工作！\""
+  },
+  {
+    "id": 26,
+    "title": "Reflections",
+    "title_zh": "反思",
+    "source": "Sam Altman",
+    "link": "https://blog.samaltman.com/reflections",
+    "tags": [
+      "inspire",
+      "ai-research",
+      "science",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "启发",
+      "AI研究",
+      "科学研究",
+      "未来预测"
+    ],
+    "date": "2025-01-06",
+    "summary_en": "Sam Altman's reflective piece on OpenAI's journey offers profound insights into the challenges and triumphs of pioneering AGI. He candidly discusses the rapid growth, governance failures, and personal lessons learned. The piece underscores the importance of adaptability, gratitude, and long-term vision in the face of unprecedented technological and organizational challenges. Altman's optimism about AI's potential to revolutionize industries and society is tempered by a sobering awareness of the responsibilities that come with such power. His reflections on leadership, governance, and the human element of technological advancement make this a compelling read for anyone interested in the future of AI.",
+    "summary_zh": "萨姆·阿尔特曼关于OpenAI发展历程的反思，揭示了人工智能先驱者面临的挑战与成就。他坦诚地讨论了快速增长、治理失误和个人教训。文章强调了在前所未有的技术和组织挑战面前，适应力、感恩之心和长远眼光的重要性。阿尔特曼对人工智能改变行业和社会潜力的乐观态度，也伴随着对其责任的清醒认识。他对领导力、治理和技术进步中人性因素的反思，使这篇文章成为任何对人工智能未来感兴趣的人的必读之作。",
+    "best_quote_en": "We are now confident we know how to build AGI as we have traditionally understood it.",
+    "best_quote_zh": "我们现在有信心建造我们传统意义上理解的AGI。"
+  },
+  {
+    "id": 27,
+    "title": "Enhance Your Learning Speed & Health Using Neuroscience Based Protocols | Dr. Poppy Crum",
+    "title_zh": "通过神经科学协议提升学习速度与健康 | 普皮·克鲁姆博士",
+    "source": "Huberman Lab",
+    "link": "https://www.hubermanlab.com/episode/enhance-learning-speed-neuroscience-poppy-crum",
+    "tags": [
+      "analyze",
+      "science",
+      "ai-research",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "分析",
+      "科学研究",
+      "AI研究",
+      "数据驱动"
+    ],
+    "date": "2025-09-29",
+    "summary_en": "Dr. Poppy Crum's insights bridge neuroscience and practical applications, offering transformative protocols for learning and health enhancement. Her expertise in neuroplasticity reveals how technology—from smartphones to AI—can be leveraged for cognitive improvement. The discussion on 'digital twins' opens intriguing possibilities for personalized health optimization. The episode's zero-cost protocols make advanced knowledge accessible, while the exploration of sensory data and closed-loop training systems demonstrates how technology can augment human potential. Dr. Crum's ability to connect complex scientific concepts with everyday applications makes this content invaluable for lifelong learners and tech enthusiasts alike.",
+    "summary_zh": "普皮·克鲁姆博士将神经科学与实际应用相结合，提供提升学习和健康的变革性协议。她在神经可塑性方面的专业知识揭示了如何利用技术——从智能手机到人工智能——来促进认知提升。关于“数字孪生”的讨论为个性化健康优化开辟了令人兴奋的可能性。该节目的零成本协议使先进知识变得易于获得，而对传感器数据和闭环训练系统的探讨则展示了技术如何增强人类潜力。",
+    "best_quote_en": "We're not really talking about replacing the human. We're talking about increasing the efficacy of the human.",
+    "best_quote_zh": "我们讨论的不是取代人类，而是提高人类的效能。"
   }
 ]
