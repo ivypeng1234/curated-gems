@@ -571,4 +571,49 @@
     "best_quote_en": "We're not really talking about replacing the human. We're talking about increasing the efficacy of the human.",
     "best_quote_zh": "我们讨论的不是取代人类，而是提高人类的效能。"
   }
-]
+,{
+    "id": 28,
+    "title": "GPT-4o",
+    "title_zh": "GPT-4o",
+    "source": "Sam Altman",
+    "link": "https://blog.samaltman.com/gpt-4o",
+    "tags": [
+      "solve",
+      "ai-research",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "解决",
+      "AI研究",
+      "未来预测"
+    ],
+    "date": "2024-05-13",
+    "summary_en": "The announcement of GPT-4o highlights two key advancements in AI accessibility and interface design. OpenAI emphasizes its mission to provide powerful AI tools for free, democratizing access to cutting-edge technology while maintaining a sustainable business model. The introduction of voice and video capabilities marks a significant leap in human-computer interaction, making AI feel more natural and intuitive. This development suggests a future where AI becomes an integral part of daily life, assisting with tasks and personalizing experiences. The team's dedication to innovation is evident, positioning GPT-4o as a transformative tool that could redefine user expectations and interactions with technology.",
+    "summary_zh": "GPT-4o的宣布聚焦于AI的普惠化和界面设计突破。OpenAI强调其使命是免费提供强大的AI工具，推动技术普惠，同时保持可持续的商业模式。语音和视频功能的引入标志着人机交互的重大飞跃，使AI变得更加自然直观。这一进展预示着AI将成为日常生活的重要组成部分，辅助任务并个性化体验。团队的创新精神显著，将GPT-4o定位为一款可能重塑用户对技术期望和互动方式的变革性工具。",
+    "best_quote_en": "Talking to a computer has never felt really natural for me; now it does.",
+    "best_quote_zh": "与电脑交流从未真正让我感到自然；现在却可以了。"
+  },
+  {
+    "id": 29,
+    "title": "How to Make Yourself Unbreakable | DJ Shipley",
+    "title_zh": "如何让自己变得不可战胜 | DJ Shipley",
+    "source": "Huberman Lab",
+    "link": "https://www.hubermanlab.com/episode/make-yourself-unbreakable-dj-shipley",
+    "tags": [
+      "solve",
+      "psychology",
+      "health-wellness",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "解决",
+      "心理学",
+      "健康养生",
+      "未来预测"
+    ],
+    "date": "2025-10-06",
+    "summary_en": "DJ Shipley, a retired Navy SEAL and performance expert, shares his transformative approach to building mental and physical resilience. His insights draw from an extraordinary life of highs and lows, offering practical tools like morning routines, compartmentalization, and the power of 'micro-wins.' The discussion explores combat trauma, emerging treatments for PTSD and addiction (including ibogaine and 5-MeO-DMT), and the importance of intentional mindset. Shipley's philosophy emphasizes controlling what you can and embracing discomfort, making this conversation invaluable for anyone seeking to overcome challenges and achieve peak performance in all areas of life.",
+    "summary_zh": "退役海豹突击队员DJ Shipley分享其塑造心理与体能韧性的转型方法。其智慧源自极端人生经历，提供晨间例行、心理隔离等实用工具。对话涵盖战场创伤、PTSD与成瘾的新型治疗（包括伊波格酮和5-MeO-DMT）及刻意心态的重要性。Shipley的理念强调掌控可控事项并拥抱不适，为渴望突破困境、在各领域达到巅峰的人士提供珍贵启示。",
+    "best_quote_en": "'Control the controllable' - DJ Shipley's mantra for building resilience through intentional focus on what you can influence.",
+    "best_quote_zh": "“掌控可控之事” - DJ Shipley塑造韧性的座右铭，通过刻意专注于能影响的事项。"
+  }]
