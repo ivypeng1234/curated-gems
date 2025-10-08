@@ -616,4 +616,49 @@
     "summary_zh": "退役海豹突击队员DJ Shipley分享其塑造心理与体能韧性的转型方法。其智慧源自极端人生经历，提供晨间例行、心理隔离等实用工具。对话涵盖战场创伤、PTSD与成瘾的新型治疗（包括伊波格酮和5-MeO-DMT）及刻意心态的重要性。Shipley的理念强调掌控可控事项并拥抱不适，为渴望突破困境、在各领域达到巅峰的人士提供珍贵启示。",
     "best_quote_en": "'Control the controllable' - DJ Shipley's mantra for building resilience through intentional focus on what you can influence.",
     "best_quote_zh": "“掌控可控之事” - DJ Shipley塑造韧性的座右铭，通过刻意专注于能影响的事项。"
+  },{
+    "id": 30,
+    "title": "Origami Patterns Solve a Major Physics Riddle",
+    "title_zh": "折纸模式解决物理学难题",
+    "source": "Quanta Magazine",
+    "link": "https://www.quantamagazine.org/origami-patterns-solve-a-major-physics-riddle-20251006/",
+    "tags": [
+      "analyze",
+      "science",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "分析",
+      "科学研究",
+      "数据驱动"
+    ],
+    "date": "2025-10-06",
+    "summary_en": "The article explores the unexpected connection between origami patterns and the amplituhedron, a geometric shape central to particle physics calculations. Pavel Galashin's breakthrough reveals that origami crease patterns can define points within the amplituhedron, solving a long-standing conjecture about its structure. This discovery not only bridges seemingly unrelated fields but also offers new tools for understanding particle interactions. The research suggests that the geometric elegance of origami might hold the key to simplifying complex physics calculations, opening avenues for future exploration in both mathematics and theoretical physics.",
+    "summary_zh": "文章探讨了折纸模式与粒子物理学核心几何图形“振幅多面体”间的意外联系。帕维尔·加拉申的突破性发现证明，折纸折痕图案可定义振幅多面体内的点，解决了关于其结构的长期猜想。这一发现不仅建立了两个看似无关领域的桥梁，还为理解粒子相互作用提供了新工具。研究表明，折纸的几何之美可能是简化复杂物理计算的关键，为数学和理论物理的未来探索开辟了新路径。",
+    "best_quote_en": "Pasha has done some brilliant work related to the amplituhedron before, but this is next-level stuff for me.",
+    "best_quote_zh": "帕沙之前在振幅多面体方面做了一些很棒的工作，但这对我来说是超乎想象的成就。"
+  },
+  {
+    "id": 31,
+    "title": "The Sweetapolita Bakebook / Castro’s Cuba",
+    "title_zh": "甜心烘焙书 / 卡斯特罗的古巴",
+    "source": "Kevin Kelly",
+    "link": "https://kk.org/cooltools/the-sweetapolita-bakebook-castros-cuba/",
+    "tags": [
+      "guide",
+      "music-arts",
+      "design",
+      "deep-dive"
+    ],
+    "tags_zh": [
+      "指导",
+      "音乐艺术",
+      "设计创意",
+      "深度分析"
+    ],
+    "date": "2025-10-07",
+    "summary_en": "The Sweetapolita Bakebook transforms baking into edible art, showcasing Rosie Alyea's vibrant creations that blend culinary skill with artistic expression. This book is more than a recipe collection; it's a visual feast that inspires both novice and experienced bakers to elevate their craft. Meanwhile, Castro's Cuba offers a historical perspective on Cuba under Castro's rule, featuring insightful interviews and photographs that reveal the revolutionary leader's vision. This book provides a unique lens through which to understand Cuba's social and political transformation. Both works, though vastly different in subject matter, excel in their respective domains by combining practical application with deep cultural or artistic insight.",
+    "summary_zh": "《甜心烘焙书》将烘焙变成可食用的艺术，展示了罗茜·阿利娅充满活力的创作，将烹饪技巧与艺术表现力结合。这本书不仅是食谱集，更是一场视觉盛宴，激发初学者和经验丰富的烘焙爱好者提升技艺。而《卡斯特罗的古巴》则为我们提供了古巴在卡斯特罗统治下的历史视角，通过深入的访谈和照片揭示了这位革命领袖的愿景。这本书为我们提供了一个独特的视角，以理解古巴的社会和政治变革。这两本书虽然主题迥异，但在各自领域中都以实用性与深刻的文化或艺术洞察力脱颖而出。",
+    "best_quote_en": "Her cookies transcend bakery staples into the realm of fine art. The buttery rounds are swimming with swirls of watercolor frosting and then dipped in edible gold so that they look like gilt-edged framed paintings, worthy of gracing any museum wall.",
+    "best_quote_zh": "她的曲奇饼超越了传统烘焙，进入了美术的领域。黄油圆饼上满是水彩糖霜的漩涡，再浸上可食用的金箔，看起来像镶金边的画框作品，足以装点任何博物馆的墙壁。"
   }]
