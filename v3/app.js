@@ -531,8 +531,8 @@ function showWelcomeGuide() {
   const lang = window.currentLang || 'zh';
   
   // 检查是否是首次访问
-  const hasVisited = localStorage.getItem('v3_visited');
-  if (hasVisited) return;
+  // const hasVisited = localStorage.getItem('v3_visited');
+  // if (hasVisited) return;
   
   const welcomeTexts = {
     zh: {
