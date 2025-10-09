@@ -542,7 +542,7 @@ function showWelcomeGuide() {
       taskLink: '查看使用说明'
     },
     en: {
-      title: '🎉 Welcome to CynicVibes’s playground',
+      title: '🎉 Welcome to CynicVibes’ playground',
       content: 'There are {count} curated items waiting for you to explore!<br><br>💡 <strong>Quick Start Guide:</strong><br>• Use search box to find content quickly<br>• Click tags to filter (multiple selection)<br>• Try random recommendation to discover new content',
       button: 'Start Exploring',
       taskLink: 'See Guide'
