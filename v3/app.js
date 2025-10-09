@@ -536,16 +536,16 @@ function showWelcomeGuide() {
   
   const welcomeTexts = {
     zh: {
-      title: '🎉 欢迎来到第三课：信息筛选与分类管理',
-      content: '这里有 {count} 条精选内容等你探索！<br><br>💡 <strong>快速上手指南：</strong><br>• 使用搜索框快速查找内容<br>• 点击标签进行筛选（可多选）<br>• 试试随机推荐发现新内容<br>• 完成任务文档中的4个学习任务',
+      title: '🎉 欢迎来到CynicVibes的游乐场',
+      content: '这里有 {count} 条精选内容等你探索！<br><br>💡 <strong>快速上手指南：</strong><br>• 使用搜索框快速查找内容<br>• 点击标签进行筛选（可多选）<br>• 试试随机推荐发现新内容<br>• 不妨随机看看，发现意外的惊喜～',
       button: '开始探索',
-      taskLink: '查看学习任务'
+      taskLink: '查看使用说明'
     },
     en: {
-      title: '🎉 Welcome to Lesson 3: Information Filtering & Classification',
-      content: 'There are {count} curated items waiting for you to explore!<br><br>💡 <strong>Quick Start Guide:</strong><br>• Use search box to find content quickly<br>• Click tags to filter (multiple selection)<br>• Try random recommendation to discover new content<br>• Complete 4 learning tasks in the task document',
+      title: '🎉 Welcome to CynicVibes’s playground',
+      content: 'There are {count} curated items waiting for you to explore!<br><br>💡 <strong>Quick Start Guide:</strong><br>• Use search box to find content quickly<br>• Click tags to filter (multiple selection)<br>• Try random recommendation to discover new content',
       button: 'Start Exploring',
-      taskLink: 'View Learning Tasks'
+      taskLink: 'See Guide'
     }
   };
   
