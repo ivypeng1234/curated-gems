@@ -89,14 +89,18 @@
   },
   {
     "name": "看理想",
-    "url": "https://plink.anyfeeder.com/weixin/ikanlixiang"
+    "url": "https://ivypeng.zeabur.app/feeds/MP_WXS_3070376195.atom"
   },
   {
     "name": "三联生活周刊",
-    "url": "https://plink.anyfeeder.com/weixin/lifeweek"
+    "url": "https://ivypeng.zeabur.app/feeds/MP_WXS_1791575621.atom"
   },
   {
     "name": "虎嗅",
     "url": "https://rss.huxiu.com/"
+  },
+  {
+    "name": "奴隶社会",
+    "url": "https://ivypeng.zeabur.app/feeds/MP_WXS_3074329711.atom"
   }
 ]
