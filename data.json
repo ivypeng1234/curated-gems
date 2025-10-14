@@ -935,4 +935,119 @@
     "summary_zh": "本文揭示了燃木火炉和壁炉隐藏的健康风险，挑战了它们引起的怀旧舒适感。文章强调了燃木过程中释放的PM2.5颗粒和有毒气体的危害，并将它们与各种健康问题联系起来，包括呼吸道问题、心脏病甚至癌症。文章强调了儿童、老年人和已有疾病的人的脆弱性，同时也提醒健康个体注意潜在的症状。文章为更安全的燃木提供了实用的解决方案，例如使用干燥、风干的木材、维护烟囱和确保适当的通风。文章还建议考虑使用颗粒炉、电壁炉或燃气插件等替代加热选项，以消除烟雾并促进更好的健康和环境结果。文章鼓励读者注意他们的供暖选择对个人和社区福祉的影响。",
     "best_quote_en": "That’s why doctors and researchers are increasingly warning that ânaturalâ doesnât mean safe.",
     "best_quote_zh": "这就是为什么医生和研究人员越来越警告说，“自然”并不意味着安全。"
+  },{
+    "id": 44,
+    "title": "Researchers Discover the Optimal Way To Optimize",
+    "title_zh": "研究人员发现最优化方法的最佳优化方式",
+    "source": "Quanta Magazine",
+    "link": "https://www.quantamagazine.org/researchers-discover-the-optimal-way-to-optimize-20251013/",
+    "tags": [
+      "solve",
+      "ai-research",
+      "science",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "解决",
+      "AI研究",
+      "科学研究",
+      "数据驱动"
+    ],
+    "date": "2025-10-13",
+    "summary_en": "This article explores a significant advancement in the simplex method, a fundamental algorithm for solving complex optimization problems. Researchers Sophie Huiberts and Eleon Bach have improved the method's efficiency and resolved long-standing theoretical concerns about its worst-case performance. Their work builds on a 2001 breakthrough by Daniel Spielman and Shang-Hua Teng, demonstrating that the simplex method can avoid exponential runtimes in practice. The research provides a deeper understanding of the algorithm's practical efficiency, though it doesn't yet achieve linear scaling with constraints. While primarily theoretical, this work offers stronger mathematical support for the simplex method's reliability in real-world applications.",
+    "summary_zh": "这篇文章探讨了在解决复杂优化问题的单纯形方法中的重要进展。研究人员索菲·海伯特和埃莱昂·巴赫改进了该方法的效率，并解决了长期以来关于其最坏情况性能的理论担忧。他们的工作基于丹尼尔·施皮尔曼和尚华腾2001年的突破，证明单纯形方法在实际中可以避免指数级运行时间。该研究为算法的实用效率提供了更深入的理解，尽管尚未实现与约束的线性缩放。尽管主要是理论性的，但这项工作为单纯形方法在现实应用中的可靠性提供了更强的数学支持。",
+    "best_quote_en": "It has always run fast, and nobody’s seen it not be fast",
+    "best_quote_zh": "它一直运行得很快，从未有人见过它不快"
+  },
+  {
+    "id": 45,
+    "title": "Do no harm",
+    "title_zh": "Do No Harm",
+    "source": "Aeon",
+    "link": "https://aeon.co/videos/after-17-years-of-addiction-raina-finds-a-lifeline-in-compassion?utm_source=rss-feed",
+    "tags": [
+      "solve",
+      "science",
+      "psychology",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "解决",
+      "科学研究",
+      "心理学",
+      "数据驱动"
+    ],
+    "date": "2025-10-13",
+    "summary_en": "This documentary tells the poignant story of Raina's 17-year battle with heroin addiction and her path to recovery through compassionate medical care. The film is part of 'The Opioid Trilogy,' which humanizes the often statistics-driven narrative of the US opioid crisis. Through a blend of live-action and rotoscope animation, director Joanna Rudnick captures Raina's journey with sensitivity and artistic depth. The piece highlights how unconditional support can be transformative in overcoming addiction, offering both a personal narrative and broader commentary on systemic healthcare failures.",
+    "summary_zh": "这部纪录片讲述了雷娜与海洛因成瘾17年的抗争以及通过医疗团队的无条件支持走向康复的故事。作为《阿片类药物三部曲》的第二部，它为常被数据化的美国阿片类药物危机赋予了鲜活的面孔。导演乔安娜·鲁德尼克通过真人镜头与轮廓动画的结合，以同理心和艺术性呈现了雷娜的历程，凸显了医疗支持在战胜成瘾中的关键作用。",
+    "best_quote_en": "The unconditional support of one physician gives her the space she needs to heal.",
+    "best_quote_zh": "一位医生的无条件支持为她提供了治愈所需的空间。"
+  },
+  {
+    "id": 46,
+    "title": "Why Did We Ever Carpet Bathrooms?",
+    "title_zh": "我们为什么曾经铺设浴室地毯？",
+    "source": "Mental Floss",
+    "link": "https://www.mentalfloss.com/culture/design/why-were-carpeted-bathrooms-popular?utm_source=RSS",
+    "tags": [
+      "update",
+      "design",
+      "society",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "动态",
+      "设计创意",
+      "社会议题",
+      "未来预测"
+    ],
+    "date": "2025-10-13",
+    "summary_en": "This article explores the surprising historical trend of carpeted bathrooms, revealing how it emerged as a status symbol in the mid-20th century. The analysis delves into the societal factors that made wall-to-wall carpeting a marker of affluence and how this luxury was extended to bathrooms. The piece also examines modern reasons why some people might still choose carpeted bathrooms today, despite obvious hygiene concerns. It's a fascinating look at how design trends reflect cultural values and how practical considerations often clash with aesthetic preferences. The article's strength lies in its ability to connect a seemingly mundane design choice to broader historical and cultural narratives.",
+    "summary_zh": "文章揭秘了20世纪中期浴室铺地毯的历史潮流，揭示其作为身份象征的社会背景。分析了从卧室到浴室的地毯延伸反映的奢华心理，以及现代人为何仍选择地毯浴室的实用考量。这不仅是设计趋势的演变，更是文化价值观的折射，令人深思。",
+    "best_quote_en": "For most of human history, carpeting a room with plush fabric wall to wall was a luxury reserved for the ultra-wealthy.",
+    "best_quote_zh": "对于大多数人类历史来说，铺设墙壁到墙壁的软质地毯曾是仅限超级富豪的奢侈品。"
+  },
+  {
+    "id": 47,
+    "title": "Discrete Generative Models",
+    "title_zh": "离散生成模型",
+    "source": "LessWrong",
+    "link": "https://www.lesswrong.com/posts/frCmecCpHx2aAtALT/discrete-generative-models",
+    "tags": [
+      "solve",
+      "ai-research",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "解决",
+      "AI研究",
+      "数据驱动"
+    ],
+    "date": "2025-10-14",
+    "summary_en": "This article delves into the challenges of generative models, particularly focusing on discrete distribution networks as proposed by Lei Yang. It highlights the limitations of current approaches like autoregressive models for images and normalizing flows, which struggle with discrete features. The discussion explores the innovative use of fractals in training models to generate images iteratively, addressing issues like dead outputs and error correction. The author's personal insights on improving the sampling strategy and loss function calculation add practical value to the theoretical discussion, making this a thought-provoking read for AI researchers.",
+    "summary_zh": "该文章深入探讨了生成模型的挑战，重点介绍了Lei Yang提出的离散分布网络。它指出了当前方法如自回归模型和正则化流在处理图像离散特征时的局限性。讨论了在训练模型时使用分形迭代生成图像的创新方法，并解决了输出死亡和错误修正等问题。作者对改进采样策略和损失函数计算的个人见解为理论讨论增添了实用价值，使其成为AI研究人员的深思之作。",
+    "best_quote_en": "Sometimes, the previous tokens do rely on the future, which means the model must predict not just the next token, but all the ones after it as well.",
+    "best_quote_zh": "有时，前面的标记确实依赖于未来，这意味着模型必须预测的不仅是下一个标记，而且是之后的所有标记。"
+  },
+  {
+    "id": 48,
+    "title": "Why María Corina Machado Says That Trump Deserves Her Nobel Peace Prize",
+    "title_zh": "玛利亚·科里娜·马乔说特朗普值得获得她的诺贝尔和平奖",
+    "source": "The New Yorker",
+    "link": "https://www.newyorker.com/news/the-lede/why-maria-corina-machado-says-that-donald-trump-deserves-her-peace-prize",
+    "tags": [
+      "update",
+      "politics",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "动态",
+      "政治时事",
+      "数据驱动"
+    ],
+    "date": "2025-10-13",
+    "summary_en": "This article explores the complex geopolitical dynamics between the US and Venezuela through the lens of the Nobel Peace Prize controversy. María Corina Machado's unexpected win highlights the shifting power structures in Latin America and the controversial foreign policy approaches of both the US and Venezuelan governments. The piece reveals how Trump's aggressive tactics in the region, from deportations to military strikes, contrast sharply with his peace prize aspirations. Machado's acceptance of the prize 'in honor of Trump' exposes fascinating alignments and tensions between opposition forces and US interventionism. The analysis offers a critical look at how political narratives are constructed and contested in international affairs.",
+    "summary_zh": "这篇文章通过诺贝尔和平奖的争议，剖析了美国与委内瑞拉之间复杂的地缘政治动态。玛利亚·科里娜·马乔的获奖凸显了拉丁美洲权力结构的变化及美委两国政府的争议性外交政策。特朗普在该地区采取的强硬手段与其追求和平奖的野心形成鲜明对比。马乔以特朗普之名接受奖项，揭示了反对派与美国干预主义之间微妙的联盟与张力。分析从国际事务的视角，批判性地审视了政治叙事的构建与争夺。",
+    "best_quote_en": "'The regime has committed a lot of errors. I feel that they have a disconnection with the reality of the country.'",
+    "best_quote_zh": "'政权犯下了许多错误。我觉得他们与国家的现实脱节了。'"
   }]
