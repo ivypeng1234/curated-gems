@@ -1380,4 +1380,51 @@
     "summary_zh": "这期访谈中，大卫·伯森博士深入浅出地讲解了神经科学，特别是视觉系统如何影响我们的感知和生理功能。从色觉的机制到黑色素细胞素的发现，再到它如何调节生物钟，内容涵盖广泛。尤其值得关注的是，伯森博士展示了视觉皮层的惊人可塑性，证明大脑能够通过经验重组自身，例如在中风康复或盲文阅读中。讨论还涉及前庭系统在平衡和运动检测中的作用，小脑在运动协调中的功能，以及基底节对决策的影响。这期节目是关于神经可塑性的精彩课程，提供了光照调节褪黑素的实用见解，并深入探讨了感官整合的机制。对于想了解大脑如何感知世界并适应变化的听众来说，这是一期必听内容。",
     "best_quote_en": "The discovery of melanopsin and intrinsically photosensitive retinal ganglion cells revolutionized our understanding of how light regulates circadian rhythms and melatonin release.",
     "best_quote_zh": "黑色素细胞素及内源性光敏视网膜神经节细胞的发现彻底改变了我们对光如何调节生物钟和褪黑素分泌的理解。"
+  },{
+    "id": 63,
+    "title": "Give Me Your Data: The Rationalist Mind Meld",
+    "title_zh": "请给我你的数据：理性主义者的思维融合",
+    "source": "LessWrong",
+    "link": "https://www.lesswrong.com/posts/9SuQkKbZg39tsToPs/give-me-your-data-the-rationalist-mind-meld",
+    "tags": [
+      "solve",
+      "ai-research",
+      "leadership",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "解决",
+      "AI研究",
+      "领导管理",
+      "数据驱动"
+    ],
+    "date": "2025-10-19",
+    "summary_en": "The article presents a novel approach to resolving disagreements among rational individuals, emphasizing the importance of sharing underlying data rather than engaging in logical arguments. It critiques the common practice of debating based on known facts and points out that many beliefs stem from complex, data-informed intuitions rather than pure logic. The concept of a 'Rationalist mind meld' is introduced as a way to exchange foundational information that shapes our worldviews. The author uses the example of class inequality in America to illustrate how disagreements often arise from differing datasets rather than logical errors. The piece also discusses the limitations of the 'double-crux' method in resolving complex disagreements and advocates for a more data-sharing approach to foster mutual understanding and rationality. This perspective offers valuable insights into effective communication and belief formation in rational communities.",
+    "summary_zh": "文章提出了一个解决理性主义者之间分歧的新方法，强调分享基础数据比进行逻辑辩论更重要。作者指出，许多信念源于复杂的数据塑造的直觉，而非纯粹的逻辑。提出“理性主义者思维融合”概念，以交换塑造我们世界观的基础信息。通过美国阶级不平等的例子说明，分歧常源于数据差异而非逻辑错误。文章还讨论了“双重核心”方法在解决复杂分歧中的局限性，倡导通过数据分享促进相互理解和理性。这一视角为理性社区中的有效沟通和信念形成提供了宝贵见解。",
+    "best_quote_en": "Among mostly-rational people, I think most disagreements come down to a difference of intuitions, which are rooted in a difference in the data people have been exposed to.",
+    "best_quote_zh": "我认为，在大多数理性人士中，大多数分歧归根结底是直觉的不同，而这些直觉源于人们接触到的数据不同。"
+  },
+  {
+    "id": 64,
+    "title": "Essentials: Time Perception, Memory & Focus",
+    "title_zh": "要点：时间感知、记忆与专注力",
+    "source": "Huberman Lab",
+    "link": "https://www.hubermanlab.com/episode/essentials-time-perception-memory-focus",
+    "tags": [
+      "inspire",
+      "lifestyle",
+      "science",
+      "deep-dive"
+    ],
+    "tags_zh": [
+      "启发",
+      "生活方式",
+      "科学研究",
+      "深度分析"
+    ],
+    "date": "2025-10-09",
+    "summary_en": "This Huberman Lab Essentials episode dives deep into the fascinating interplay between our biological rhythms and perception of time. Dr. Huberman explains how our bodies sync with light cycles to regulate hormones affecting energy and motivation, offering practical tools for optimizing productivity. The discussion on neurotransmitters like dopamine and serotonin reveals how they shape our time perception, with novel experiences creating more vivid memories. The episode bridges science and practical application, providing actionable insights for improving focus and understanding how emotions influence our experience of time. It's a masterclass in applying neuroscience to daily life, making complex concepts accessible while maintaining scientific rigor.",
+    "summary_zh": "这一集Huberman Lab Essentials深入探讨了生物节律与时间感知的关系。Huberman博士解释了身体如何通过光周期调节激素影响能量和动力，并提供了提升效率的实用工具。关于多巴胺和血清素如何影响时间感知的讨论揭示了新奇体验如何创造更生动的记忆。节目将科学与实践结合，提供了改善专注力的可行性见解，并探讨了情绪如何影响我们对时间的体验。这是一堂将神经科学应用于日常生活的精彩课程，使复杂概念变得易于理解。",
+    "best_quote_en": "Our perception of time is profoundly influenced by novelty, emotion, and routine, shaping how we experience and recall our lives.",
+    "best_quote_zh": "我们对时间的感知深受新奇体验、情绪和习惯的影响，塑造了我们体验和回忆生活的方式。"
   }]
