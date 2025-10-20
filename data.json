@@ -1427,4 +1427,119 @@
     "summary_zh": "这一集Huberman Lab Essentials深入探讨了生物节律与时间感知的关系。Huberman博士解释了身体如何通过光周期调节激素影响能量和动力，并提供了提升效率的实用工具。关于多巴胺和血清素如何影响时间感知的讨论揭示了新奇体验如何创造更生动的记忆。节目将科学与实践结合，提供了改善专注力的可行性见解，并探讨了情绪如何影响我们对时间的体验。这是一堂将神经科学应用于日常生活的精彩课程，使复杂概念变得易于理解。",
     "best_quote_en": "Our perception of time is profoundly influenced by novelty, emotion, and routine, shaping how we experience and recall our lives.",
     "best_quote_zh": "我们对时间的感知深受新奇体验、情绪和习惯的影响，塑造了我们体验和回忆生活的方式。"
+  },{
+    "id": 65,
+    "title": "How the Brain Moves From Waking Life to Sleep (and Back Again)",
+    "title_zh": "大脑如何在清醒与睡眠之间切换（以及如何再返回）",
+    "source": "Quanta Magazine",
+    "link": "https://www.quantamagazine.org/how-the-brain-moves-from-waking-life-to-sleep-and-back-again-20251017/",
+    "tags": [
+      "analyze",
+      "science",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "分析",
+      "科学研究",
+      "数据驱动"
+    ],
+    "date": "2025-10-17",
+    "summary_en": "This article explores the fascinating transition states between wakefulness and sleep, revealing that the brain doesn't simply switch between on and off states but navigates a complex spectrum of consciousness. Neuroscientists are uncovering how these transitions work, identifying unique brain wave patterns and limbic states that challenge traditional understandings of sleep. The research highlights how disturbances in these transitions can lead to sleep disorders like insomnia or sleepwalking, suggesting that our sleep consciousness is more nuanced than previously thought. The article also touches on creative potential in hypnagogic states and the mysterious phenomenon of local sleep, where parts of the brain sleep while others remain active. This work not only deepens our understanding of consciousness but also offers potential insights into treating sleep disorders.",
+    "summary_zh": "这篇文章探讨了大脑在清醒与睡眠之间的过渡状态，揭示了大脑并非简单地在开与关之间切换，而是经历一个复杂的意识光谱。神经科学家正在揭示这些过渡的运作机制，发现了独特的脑波模式和边缘状态，这些发现挑战了传统对睡眠的理解。研究表明，这些过渡过程出现障碍可能导致失眠或梦游等睡眠障碍，表明我们的睡眠意识比之前认为的更为复杂。文章还提到催眠状态中的创造力潜能以及局部睡眠的神秘现象，即大脑的一部分进入睡眠状态而其他部分保持清醒。这些研究不仅加深了我们对意识的理解，也为治疗睡眠障碍提供了潜在见解。",
+    "best_quote_en": "'Our brains can really rapidly transform us from being aware of our environments to being unconscious, or even experiencing things that aren't there.' - Laura Lewis",
+    "best_quote_zh": "“我们的大脑可以非常快速地将我们从对环境的觉察转变为无意识状态，甚至体验到不存在的事物。”——劳拉·刘易斯"
+  },
+  {
+    "id": 66,
+    "title": "A poet on Mars",
+    "title_zh": "火星上的诗人",
+    "source": "Aeon",
+    "link": "https://aeon.co/essays/why-i-wonder-if-virginia-woolf-was-autistic?utm_source=rss-feed",
+    "tags": [
+      "inspire",
+      "science",
+      "psychology",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "启发",
+      "科学研究",
+      "心理学",
+      "数据驱动"
+    ],
+    "date": "2025-10-17",
+    "summary_en": "The essay explores the intriguing hypothesis that Virginia Woolf may have been autistic, drawing parallels between her sensory experiences and those of autistic individuals. The author shares personal experiences with their autistic child, P, revealing how Woolf's writing resonated with their understanding of neurodivergence. The analysis delves into Woolf's unique prose style, her focus on sensory details, and her apparent challenges with social cognition, all of which align with autistic traits. The piece argues that Woolf's neurodivergence may have been the source of her literary genius, allowing her to perceive and convey the world in ways that neurotypical authors might miss. This perspective offers valuable insights into both Woolf's work and the broader experience of autism, challenging traditional notions of what it means to be 'normal' in terms of cognition and creativity.",
+    "summary_zh": "文章探讨了弗吉尼亚·伍尔夫可能是自闭症的有趣假设，通过她的感官体验与自闭症者的相似之处进行对比。作者分享了与自闭症孩子P的个人经历，揭示了伍尔夫的写作如何与他们对神经多样性的理解产生共鸣。分析深入探讨了伍尔夫独特的散文风格、对感官细节的关注以及她似乎面临的社会认知挑战，这些都与自闭症特征相符。文章认为，伍尔夫的神经多样性可能是她文学天才的来源，使她能够以神经典型作者可能忽略的方式感知和表达世界。这种视角为伍尔夫的作品以及更广泛的自闭症体验提供了宝贵的见解，挑战了关于认知和创造力的传统'正常'概念。",
+    "best_quote_en": "If Grandin is the anthropologist, then Woolf is surely the poet on Mars.",
+    "best_quote_zh": "如果格兰丁是人类学家，那么伍尔夫无疑是火星上的诗人。"
+  },
+  {
+    "id": 67,
+    "title": "Where Did the Phrase ‘Waiting for the Other Shoe to Drop’ Come From?",
+    "title_zh": "“等待另一只鞋落地”这个短语从何而来？",
+    "source": "Mental Floss",
+    "link": "https://www.mentalfloss.com/language/waiting-for-the-other-shoe-to-drop-meaning-origins?utm_source=RSS",
+    "tags": [
+      "analyze",
+      "ai-research",
+      "leadership",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "分析",
+      "AI研究",
+      "领导管理",
+      "数据驱动"
+    ],
+    "date": "2025-10-19",
+    "summary_en": "This article explores the origins of the idiom 'waiting for the other shoe to drop,' tracing its likely emergence in early 20th-century America. The phrase, meaning to anticipate an inevitable negative event, is theorized to have roots in the shared living spaces of the era, where residents would remove their shoes noisily after returning home late. The article presents two main theories: one involving the daily life of boarding house residents and another suggesting a lost theatrical skit. The analysis offers cultural insights into early 20th-century American life and the evolution of language, while leaving room for speculation about the phrase's exact origins. It's a fascinating linguistic detective story that connects historical living conditions to modern expressions.",
+    "summary_zh": "这篇文章探讨了“等待另一只鞋落地”这个成语的起源，追溯到20世纪初的美国。这个短语，指等待不可避免的负面事件，据信起源于当时的共享住房，居民深夜归来后会噼里啪啦地脱鞋。文章提出了两种理论：一种是关于寄宿公寓居民的日常生活，另一种是一个已失传的戏剧短剧。分析提供了关于20世纪初美国生活和语言演变的文化洞察，同时对该短语的确切起源留有悬念。这是一个将历史居住条件与现代表达联系起来的趣味语言侦探故事。",
+    "best_quote_en": "The poor resident downstairs, however, just knows that there’s a second shoe that’s about to be dropped on the floor, and is left sitting in impatient agony, waiting for the inevitable crash.",
+    "best_quote_zh": "然而，楼下的可怜居民却清楚地知道，地板上即将掉下第二只鞋，只能忍受着焦急的煎熬，等待那必然的噼啪声响。"
+  },
+  {
+    "id": 68,
+    "title": "Can you transfer a backdoor with subliminal learning?",
+    "title_zh": "通过潜意识学习可以传输后门吗？",
+    "source": "LessWrong",
+    "link": "https://www.lesswrong.com/posts/DSePg8x2MQyzsGqxu/can-you-transfer-a-backdoor-with-subliminal-learning",
+    "tags": [
+      "solve",
+      "ai-research",
+      "science",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "解决",
+      "AI研究",
+      "科学研究",
+      "数据驱动"
+    ],
+    "date": "2025-10-20",
+    "summary_en": "This research reveals a fascinating and concerning phenomenon in AI security: backdoor behaviors in language models can transfer through subliminal learning without requiring the trigger phrase. The study found that when a student model is fine-tuned on outputs from a backdoored teacher model (without using the backdoor trigger), the backdoor behavior transfers as an 'always-on' feature. This suggests that the mere existence of a backdoor in the teacher model subtly alters its output tokens enough to imprint the backdoor on the student model. The implications are significant for both AI security and backdoor detection methods. If this effect proves consistent across models and backdoor types, it could revolutionize backdoor detection by eliminating the need to know the specific trigger phrase. The research also highlights potential challenges, including inconsistent transfer rates and the possibility of false negatives. This work opens important avenues for further exploration in AI security and model behavior analysis.",
+    "summary_zh": "该研究揭示了AI安全领域的一个令人担忧的现象：语言模型中的后门行为可通过潜意识学习传输，无需触发词。当学生模型在未使用后门触发词的情况下，基于带有后门的教师模型输出进行微调时，后门行为会以'始终开启'的方式传输。这表明教师模型中后门的存在会微妙地改变其输出的tokens，从而将后门印记到学生模型上。这一发现对AI安全和后门检测方法具有重要意义。若此效应在各种模型和后门类型中保持一致，可能彻底改变后门检测方法，无需了解特定触发词。研究还指出了潜在挑战，包括传输率不一致和可能的假阴性结果。此工作为AI安全和模型行为分析开辟了重要研究方向。",
+    "best_quote_en": "This suggests that the existence of the backdoor in the teacher model, even when un-triggered, changes the teacher's output tokens enough to transfer the backdoor behavior to the student model.",
+    "best_quote_zh": "这表明教师模型中后门的存在，即使未被触发，也足以改变教师模型的输出tokens，从而将后门行为传输给学生模型。"
+  },
+  {
+    "id": 69,
+    "title": "A “New Middle East” Is Easier to Declare Than to Achieve",
+    "title_zh": "声称“新中东”比实现它更容易",
+    "source": "The New Yorker",
+    "link": "https://www.newyorker.com/magazine/2025/10/27/a-new-middle-east-is-easier-to-declare-than-to-achieve",
+    "tags": [
+      "solve",
+      "politics",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "解决",
+      "政治时事",
+      "未来预测"
+    ],
+    "date": "2025-10-19",
+    "summary_en": "David Remnick's analysis of President Trump's visit to Jerusalem during a fragile Gaza ceasefire offers a scathing critique of political posturing over substantive peace efforts. While the end of hostilities brings relief, Remnick argues that Trump's approach lacks strategic vision, driven more by transactional interests than genuine commitment to lasting peace. The piece highlights the hypocrisy in Trump's praise of Netanyahu's suppression of Palestinian protests while ignoring deeper systemic issues. Comparing current efforts unfavorably to Sadat's historic 1977 visit to Jerusalem, Remnick laments the absence of true statesmanship. The article serves as a sobering reminder that meaningful peace requires sustained effort, moral courage, and acknowledgment of historical injustices—not just grand declarations.",
+    "summary_zh": "雷姆尼克对特朗普在加沙停火期间访问耶路撒冷的分析，揭露了政治表演与实际和平进程的鸿沟。尽管冲突结束令人欣慰，但特朗普的策略缺乏远见，更多出于利益交换而非真正的和平承诺。文章指出，特朗普赞扬内塔尼亚胡镇压巴勒斯坦抗议的虚伪，同时忽视了更深层的结构性问题。将当前局势与萨达特1977年历史性访问耶路撒冷对比，作者叹息真正的政治家风范的缺失。这篇文章警示我们，真正的和平需要持续努力、道德勇气和对历史不公的承认——而不仅仅是华丽的宣言。",
+    "best_quote_en": "Real progress in the region, real justice and stability, will require healing, constancy, imagination, and endurance—day after day, year after year, long past any one Administration.",
+    "best_quote_zh": "地区的真正进展、真正的正义与稳定需要治愈、坚持、想象力和毅力——日复一日，年复一年，超越任何一个政府的任期。"
   }]
