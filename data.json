@@ -1788,4 +1788,123 @@
     "summary_zh": "DALL•E 2 的推出标志着 AI 在创意领域的重大突破，其自然语言生成图像的能力极大提升了人类的创造力。该工具展示了新兴的自然语言接口趋势，可能最终扩展到复杂任务。作者强调 DALL•E 2 对概念的深度理解及其对创意劳动力市场的潜在影响，挑战了关于 AI 进展的传统观点。在承认其优势的同时，文章也深刻思考了潜在风险，倡导分阶段部署策略以减轻影响。此次研究发布是产品推广的前奏，强调与研究人员和艺术家合作以应对伦理问题。",
     "best_quote_en": "It’s a reminder that predictions about AI are very difficult to make. A decade ago, the conventional wisdom was that AI would first impact physical labor, and then cognitive labor, and then maybe someday it could do creative work. It now looks like it’s going to go in the opposite order.",
     "best_quote_zh": "这提醒我们，关于 AI 的预测非常困难。十年前的共识是，AI 会先影响体力劳动，然后是认知劳动，或许某天才能做创意工作。现在看来，顺序可能完全相反。"
+  },{
+    "id": 80,
+    "title": "The Game Theory of How Algorithms Can Drive Up Prices",
+    "title_zh": "算法如何通过博弈论推高价格",
+    "source": "Quanta Magazine",
+    "link": "https://www.quantamagazine.org/the-game-theory-of-how-algorithms-can-drive-up-prices-20251022/",
+    "tags": [
+      "solve",
+      "ai-research",
+      "science",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "解决",
+      "AI研究",
+      "科学研究",
+      "数据驱动"
+    ],
+    "date": "2025-10-22",
+    "summary_en": "This article explores the fascinating intersection of game theory and algorithmic pricing, revealing how even simple learning algorithms can inadvertently drive up prices through tacit collusion. The research demonstrates that algorithms can learn to retaliate against price cuts, creating a high-price equilibrium backed by mutual threats. The findings challenge traditional regulatory approaches that focus on explicit collusion, as these algorithms don't communicate or explicitly agree to fix prices. The study also shows that even seemingly benign algorithms can produce unfavorable outcomes for consumers. This raises complex questions about regulation and the inherent limitations of current approaches to ensuring fair pricing in algorithm-driven markets. The article highlights the need for deeper understanding and innovative solutions to prevent algorithmic collusion in modern economies.",
+    "summary_zh": "这篇文章探讨了博弈论与算法定价的交叉领域，揭示了即使是简单的学习算法也可能通过默契合谋无意中推高价格。研究表明，算法可以学会对价格下降进行报复，从而形成高价格均衡，并以相互威胁为后盾。这些发现挑战了传统监管方法，因为这些算法不会进行交流或明确协商固定价格。研究还表明，即使是看似无害的算法也可能产生对消费者不利的结果。这为监管提出了复杂的问题，以及在算法驱动的现代经济中防止算法合谋的当前方法的固有局限性。文章强调了需要更深入的理解和创新解决方案来防止算法合谋。",
+    "best_quote_en": "The message of our paper is it’s hard to figure out what to rule out.",
+    "best_quote_zh": "我们论文的要点是很难判断该排除什么。"
+  },
+  {
+    "id": 81,
+    "title": "Tarot decks through the ages",
+    "title_zh": "穿越时空的塔罗牌",
+    "source": "Aeon",
+    "link": "https://aeon.co/videos/beyond-fortune-telling-the-enduring-beauty-and-allure-of-tarot?utm_source=rss-feed",
+    "tags": [
+      "inspire",
+      "society",
+      "design",
+      "case-study"
+    ],
+    "tags_zh": [
+      "启发",
+      "社会议题",
+      "设计创意",
+      "案例研究"
+    ],
+    "date": "2025-10-22",
+    "summary_en": "This short film from the Victoria and Albert Museum offers a fascinating journey through the evolution of tarot cards, revealing their origins as an elite Italian game to their modern association with divination. The curators showcase rare 15th-century decks alongside contemporary examples, highlighting the intricate craftsmanship and rich symbolic systems that connect diverse mythologies and folklore. What's particularly compelling is how the video explores tarot as a visual language that transcends its mystical reputation, resonating with universal human experiences of hope, fear, and existential questioning. The film invites viewers to appreciate tarot as both an art form and a historical artifact, demonstrating its enduring cultural significance beyond fortune-telling.",
+    "summary_zh": "这部维多利亚和阿尔伯特博物馆的短片带我们穿越时空，探索塔罗牌的演变史。从15世纪的珍贵手绘卡片到当代作品，策展人展示了塔罗牌的精湛工艺和丰富的象征体系，连接着不同的民间传说和神话。最引人深思的是，影片揭示了塔罗牌作为视觉语言的深层意义，超越了占卜的神秘面纱，触及人类共同的希望、恐惧和存在主义探索。影片邀请观众从艺术和历史的角度欣赏塔罗牌，展现其超越占卜的持久文化价值。",
+    "best_quote_en": "Tarot endures as a rich visual language for expressing some of our most persistent hopes, fears and existential questions",
+    "best_quote_zh": "塔罗牌作为一种丰富的视觉语言，持续表达着我们最持久的希望、恐惧和存在主义的疑问"
+  },
+  {
+    "id": 82,
+    "title": "The Reason We Refer to Motorcycles as ‘Hogs’",
+    "title_zh": "我们为什么称摩托车为“猪”",
+    "source": "Mental Floss",
+    "link": "https://www.mentalfloss.com/language/slang/why-are-motorcycles-called-hogs?utm_source=RSS",
+    "tags": [
+      "analyze",
+      "leadership",
+      "society",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "分析",
+      "领导管理",
+      "社会议题",
+      "数据驱动"
+    ],
+    "date": "2025-10-22",
+    "summary_en": "This article delves into the fascinating etymology of the term 'hog' as motorcycle slang, revealing its surprising origins tied to early 20th-century racing culture. The most compelling insight is how a small piglet adopted by Harley-Davidson racer Ray Weishaar in 1920 became the unlikely mascot that inspired the enduring nickname. The piece thoughtfully explores how language evolves within subcultures, tracing the term's journey from Harley-specific to generic motorcycle terminology. It also highlights the cultural significance of motorcycle terminology, showing how these words reflect the spirit of biker communities. The article's strength lies in its blend of historical research and cultural analysis, making it both informative and engaging for language enthusiasts and motorcycle aficionados alike.",
+    "summary_zh": "这篇文章揭秘了“hog”这一摩托车俚语的有趣词源，追溯到20世纪初的赛车文化。最引人深思的是，1920年哈雷-大卫森赛车手雷·韦沙尔收养的小猪如何成为激发这个持久昵称的灵感来源。文章深入探讨了语言在亚文化中的演变，追踪了这一术语从特指哈雷摩托到泛指所有摩托车的发展历程。它还突显了摩托车术语的文化意义，展示了这些词语如何体现摩托车社群的精神。文章的魅力在于将历史研究与文化分析相结合，既信息丰富又引人入胜，适合语言爱好者和摩托车迷阅读。",
+    "best_quote_en": "The little piglet was quickly adopted by the entire racing team as their mascot.",
+    "best_quote_zh": "这只小猪很快被整个赛车队收养为吉祥物。"
+  },
+  {
+    "id": 83,
+    "title": "A New Paradigm for Protecting Homes from Disastrous Fires",
+    "title_zh": "保护房屋免受灾难性火灾的新范式",
+    "source": "The New Yorker",
+    "link": "https://www.newyorker.com/news/the-lede/a-new-paradigm-for-protecting-homes-from-disastrous-fires",
+    "tags": [
+      "solve",
+      "science",
+      "design",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "解决",
+      "科学研究",
+      "设计创意",
+      "数据驱动"
+    ],
+    "date": "2025-10-22",
+    "summary_en": "This article explores the complex science of wildland-urban interface fires and challenges conventional wisdom about fire prevention. It reveals that most homes survive fires not due to design but firefighter actions, and that embers, not just flames, are primary ignition sources. The piece highlights the comprehensive 50+ point prevention strategy developed by NIST researchers, emphasizing that partial measures are insufficient. It also examines the societal challenges of implementing these solutions, including cost, public engagement, and the need for community-wide cooperation. The article concludes with real-world examples of homeowners struggling with retrofitting and the potential for government programs to facilitate change.",
+    "summary_zh": "这篇文章深入探讨了野地-城镇交界处的火灾复杂性，挑战了传统的火灾预防观念。研究表明，大多数房屋的幸存并非因设计优良，而是消防员的救援。燃烧的灰烬而非火焰是主要的引火源。文中介绍了NIST研究人员开发的全面预防策略，强调部分措施无效。同时探讨了实施这些解决方案面临的社会挑战，包括成本、公众参与和社区合作的必要性。文章以房主改造的真实案例收尾，并探讨了政府计划推动变革的潜力。",
+    "best_quote_en": "You cannot pick and choose. The science tells us you have to do everything.",
+    "best_quote_zh": "不能挑三拣四。科学告诉我们，必须全面做好防护。"
+  },
+  {
+    "id": 84,
+    "title": "What’s in my NOW? — Aishwarya Goel",
+    "title_zh": "我的现在有什么？— 艾什瓦里娅·戈尔",
+    "source": "Kevin Kelly",
+    "link": "https://kk.org/cooltools/whats-in-my-now-aishwarya-goel/",
+    "tags": [
+      "solve",
+      "lifestyle",
+      "design",
+      "beginner-friendly"
+    ],
+    "tags_zh": [
+      "解决",
+      "生活方式",
+      "设计创意",
+      "新手友好"
+    ],
+    "date": "2025-10-22",
+    "summary_en": "Aishwarya Goel's 'What's in my NOW?' offers a refreshing blend of personal productivity insights and lifestyle recommendations. The piece stands out for its authenticity and practical value, sharing tools that have genuinely improved the author's daily life. From the Philips Signe Gradient Floor Lamp that enhances both ambiance and productivity to the DASH Mini Maker that streamlines morning routines, these recommendations are rooted in real-world experience. The digital tools section reveals a thoughtful approach to personal tracking and writing habits, with MyNetDiary's AI features and Bear Blog's simplicity being particularly compelling. The inclusion of James Dyson's quote about excellence as the capacity to take pain adds a thought-provoking layer to the otherwise practical content, suggesting that these tools are part of a larger philosophy of intentional living.",
+    "summary_zh": "艾什瓦里娅·戈尔的《我的现在有什么？》结合了个人效率洞察和生活方式建议，以真实体验为基础。从调节心情的菲利普斯台灯到简化早餐的小型煎饼机，这些推荐都体现了实用价值。数字工具部分展示了对个人跟踪和写作习惯的深思熟虑，MyNetDiary的AI功能和Bear Blog的简洁设计尤其值得关注。詹姆斯·戴森关于卓越是承受痛苦能力的引用为实用内容增添了深度，暗示这些工具是有意识生活哲学的一部分。",
+    "best_quote_en": "Excellence is the capacity to take pain.",
+    "best_quote_zh": "卓越是承受痛苦的能力"
   }]
