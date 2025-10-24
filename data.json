@@ -1907,4 +1907,121 @@
     "summary_zh": "艾什瓦里娅·戈尔的《我的现在有什么？》结合了个人效率洞察和生活方式建议，以真实体验为基础。从调节心情的菲利普斯台灯到简化早餐的小型煎饼机，这些推荐都体现了实用价值。数字工具部分展示了对个人跟踪和写作习惯的深思熟虑，MyNetDiary的AI功能和Bear Blog的简洁设计尤其值得关注。詹姆斯·戴森关于卓越是承受痛苦能力的引用为实用内容增添了深度，暗示这些工具是有意识生活哲学的一部分。",
     "best_quote_en": "Excellence is the capacity to take pain.",
     "best_quote_zh": "卓越是承受痛苦的能力"
+  },{
+    "id": 85,
+    "title": "Is information a fundamental force of the Universe?",
+    "title_zh": "信息是宇宙的基本力量吗？",
+    "source": "Aeon",
+    "link": "https://aeon.co/videos/a-radical-reimagining-of-physics-puts-information-at-its-centre?utm_source=rss-feed",
+    "tags": [
+      "learn",
+      "ai-research",
+      "science",
+      "controversial"
+    ],
+    "tags_zh": [
+      "学习",
+      "AI研究",
+      "科学研究",
+      "争议观点"
+    ],
+    "date": "2025-10-23",
+    "summary_en": "This thought-provoking piece explores a radical scientific proposal that challenges our understanding of fundamental physics. Hazen and Wong suggest that information might be as fundamental as mass or energy, potentially explaining the increasing complexity observed across various systems. Their 'law of increasing functional information' could bridge gaps in our comprehension of time and system behaviors, offering a unifying framework. The documentary format makes complex ideas accessible while maintaining scientific rigor. This content inspires deeper thinking about the nature of reality and the interconnectedness of scientific disciplines.",
+    "summary_zh": "这一深刻的科学探讨挑战了我们对基本物理的理解。海森和王提出信息可能与质量或能量同样基本，解释了从原子到文明的复杂性增长。他们的“功能信息增量法则”可能帮助理解时间概念，为各系统行为提供统一框架。纪录片形式使复杂概念易于理解，同时保持科学严谨性。内容激发对现实本质的深思，体现了学科间的相互关联。",
+    "best_quote_en": "If information is as fundamental as mass or energy, it could account for the similar ways so many systems appear to behave.",
+    "best_quote_zh": "如果信息与质量或能量同样基本，它可能解释许多系统表现出的相似行为方式。"
+  },
+  {
+    "id": 86,
+    "title": "10 Amazing Facts About Akrotiri, the Bronze Age City Wiped Out by a Volcano",
+    "title_zh": "10个关于被火山摧毁的青铜时代城市阿克罗蒂里的惊人事实",
+    "source": "Mental Floss",
+    "link": "https://www.mentalfloss.com/science/archaeology/akrotiri-facts?utm_source=RSS",
+    "tags": [
+      "update",
+      "science",
+      "lifestyle",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "动态",
+      "科学研究",
+      "生活方式",
+      "数据驱动"
+    ],
+    "date": "2025-10-23",
+    "summary_en": "This article reveals the fascinating story of Akrotiri, a Bronze Age city preserved by a catastrophic volcanic eruption. Unlike Pompeii, Akrotiri's ruins contain no human remains, sparking intriguing theories about its abandonment. The city's advanced architecture, sophisticated trading network, and artistic achievements challenge our understanding of early Mediterranean civilizations. The article also explores connections to the Atlantis myth and highlights ongoing volcanic activity in Santorini. It serves as both an educational piece about ancient history and a cautionary tale about natural disasters and their long-term impacts.",
+    "summary_zh": "这篇文章揭示了青铜时代城市阿克罗蒂里的惊人故事，该城市因火山爆发而保存完好。与庞贝不同，这里没有发现人类遗骸，引发了关于该城市弃置的种种猜想。该城市的先进建筑、复杂贸易网络和艺术成就挑战了我们对早期地中海文明的认识。文章还探讨了与亚特兰蒂斯神话的关联，并强调圣托里尼岛持续的火山活动。这既是一篇关于古代历史的教育性文章，也是关于自然灾害及其长期影响的警示故事。",
+    "best_quote_en": "The excavation of Akrotiri revealed an advanced trading civilization with paved streets, two- and three-story structures, a sewer system, and well laid-out buildings with public squares.",
+    "best_quote_zh": "阿克罗蒂里的发掘揭示了一个先进的贸易文明，拥有铺砌的街道、两三层楼的建筑、下水系统和规划良好的建筑物以及公共广场。"
+  },
+  {
+    "id": 87,
+    "title": "How transformers can compute distances along a curve locally.",
+    "title_zh": "如何通过局部计算曲线上的距离",
+    "source": "LessWrong",
+    "link": "https://www.lesswrong.com/posts/kZsBdGXxT32kgFQ5q/how-transformers-can-compute-distances-along-a-curve-locally",
+    "tags": [
+      "solve",
+      "ai-research",
+      "science",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "解决",
+      "AI研究",
+      "科学研究",
+      "数据驱动"
+    ],
+    "date": "2025-10-24",
+    "summary_en": "This article explores an intriguing mechanism in GPT-2 for measuring distances between duplicate tokens, drawing parallels to twisted pair cabling in communications. The author abstracts the process into a clean toy model, demonstrating how transformers can estimate distances between points on a curve. The key insight lies in using sentry points and attention mechanisms to approximate the difference between indices. The analysis reveals how GPT-2's positional embeddings, which form a helix, enable efficient distance computation through periodic derivative functions. This mechanism has broader implications for pattern recognition in similar contexts, such as distinguishing between dialects. The discussion highlights the model's ability to handle noise and the potential for extending this approach to other problems.",
+    "summary_zh": "该文章探讨了GPT-2测量重复标记之间距离的有趣机制，类似于通信中的扭绞对布线。作者将过程抽象为一个简洁的玩具模型，展示了变压器如何估计曲线上点之间的距离。核心洞察在于使用哨兵点和注意力机制来近似指数差异。分析揭示了GPT-2的位置嵌入形成螺旋状，通过周期性导数函数实现高效距离计算。此机制对类似模式识别问题具有更广泛的意义，例如区分方言。讨论突出了模型处理噪音的能力及将该方法扩展到其他问题的潜力。",
+    "best_quote_en": "The mechanism is fiddly to explain in context, so I've tried to abstract out most of the details, and give a clean toy version of the mechanism.",
+    "best_quote_zh": "这个机制在上下文中解释起来有些复杂，因此我尝试抽象出大部分细节，并给出一个简洁的玩具版本。"
+  },
+  {
+    "id": 88,
+    "title": "Andrew Cuomo’s Long Goodbye",
+    "title_zh": "安德鲁·库默的漫长告别",
+    "source": "The New Yorker",
+    "link": "https://www.newyorker.com/news/the-lede/andrew-cuomos-long-goodbye",
+    "tags": [
+      "update",
+      "politics",
+      "controversial"
+    ],
+    "tags_zh": [
+      "动态",
+      "政治时事",
+      "争议观点"
+    ],
+    "date": "2025-10-23",
+    "summary_en": "The article provides a critical examination of Andrew Cuomo's failed mayoral campaign, highlighting his political career's contradictions and the shifting political landscape of New York City. Cuomo's campaign strategy, which relied heavily on his decades of experience and name recognition, backfired as he faced a younger, progressive opponent, Zohran Mamdani. The piece explores Cuomo's desperate tactics, including smear campaigns and policy flip-flops, which ultimately failed to resonate with voters. The analysis also touches on the broader implications of Cuomo's political downfall, including the lack of 'sore loser' laws in New York and the city's evolving political dynamics. The article serves as a cautionary tale about the limits of political experience and the power of progressive movements.",
+    "summary_zh": "这篇文章深入分析了安德鲁·库默市长竞选的失败，揭示了他政治生涯中的矛盾以及纽约市政治格局的变化。库默依赖其数十年的经验和知名度的竞选策略最终失败，面对的是年轻的进步派对手佐兰·曼达尼。文章探讨了库默的绝望策略，包括污蔑性攻击和政策翻转，这些最终未能打动选民。分析还涉及库默政治失败的更广泛影响，包括纽约缺乏“输家法”的情况以及这座城市不断变化的政治动态。这篇文章作为关于政治经验局限性以及进步运动力量的警示故事。",
+    "best_quote_en": "The city has been getting screwed by the state. Who was leading the state?",
+    "best_quote_zh": "这座城市一直被州政府坑害。是谁在领导州政府？"
+  },
+  {
+    "id": 89,
+    "title": "Helion",
+    "title_zh": "Helion",
+    "source": "Sam Altman",
+    "link": "https://blog.samaltman.com/helion",
+    "tags": [
+      "solve",
+      "ai-research",
+      "science",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "解决",
+      "AI研究",
+      "科学研究",
+      "数据驱动"
+    ],
+    "date": "2021-11-05",
+    "summary_en": "The article highlights an investment in Helion, a fusion energy company that has achieved significant milestones with relatively modest funding. The founders, David and Chris, are praised for their innovative approach to fusion technology and their ability to build functional prototypes quickly. Helion's generator, which already produces electricity, aims to achieve net electricity by 2024 and ultimately deliver energy at 1 cent per kilowatt-hour. The potential implications are profound: affordable, abundant energy could mitigate the climate crisis by enabling carbon capture and significantly improve quality of life by reducing energy costs across various sectors. This investment reflects confidence in Helion's scientific rigor, system design, and cost optimization strategies.",
+    "summary_zh": "文章介绍了对核聚变能源公司Helion的投资，该公司以较少资金取得重大进展。创始人大卫和克里斯因其在核聚变技术方面的创新和快速原型构建能力受到赞赏。Helion的发电机已能产生电力，并计划在2024年实现净电力输出，最终目标是将每千瓦时的电力成本降至1美分。这一突破可能对气候危机产生深远影响，通过碳捕捉技术和大幅降低能源成本来改善生活质量。该投资体现了对Helion科学严谨性、系统设计和成本优化策略的信心。",
+    "best_quote_en": "Helion has a clear path to net electricity by 2024, and has a long-term goal of delivering electricity for 1 cent per kilowatt-hour.",
+    "best_quote_zh": "Helion已有明确的路径在2024年实现净电力输出，并设定了长期目标，即将电力成本降至每千瓦时1美分。"
   }]
