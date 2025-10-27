@@ -2143,4 +2143,121 @@
     "summary_zh": "这篇文章探讨了律师事务所在维护法治中的关键作用，并分析了保罗·韦斯等大型律所迅速向特朗普的行政命令屈服的后果。作者将其与《码头风云》中布兰多的经典台词相提并论，指出这些律所未能履行保护法律体系的职责。文章认为，律所的集体抵抗本可能遏制特朗普的独裁势头。还讨论了行政机构针对机构而非个人的有效性，并呼吁律所认识到其在维护法律职业完整性方面的独特责任。",
     "best_quote_en": "It wasn’t him, Charlie. It was you. You was my brother, Charlie. You should’ve looked out for me a little bit. You should’ve taken care of me just a little bit, so I wouldn’t have to take them dives for the short-end money.",
     "best_quote_zh": "不是他，查理。是你。你是我哥哥，查理。你应该照顾我一点。你应该稍微照顾我一点，这样我就不用为小钱而输掉比赛。"
+  },{
+    "id": 95,
+    "title": "Learning to not-know",
+    "title_zh": "学会“不知”",
+    "source": "Aeon",
+    "link": "https://aeon.co/essays/medicine-is-uncertain-embracing-that-makes-doctors-better?utm_source=rss-feed",
+    "tags": [
+      "solve",
+      "education",
+      "medicine",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "解决",
+      "教育学习",
+      "医学健康",
+      "数据驱动"
+    ],
+    "date": "2025-10-23",
+    "summary_en": "This article explores the pervasive yet rarely discussed challenge of uncertainty in medical practice, highlighting how doctors often struggle with ambiguous symptoms and evolving knowledge. The piece examines the cultural stigma around admitting uncertainty, the pressure on physicians to appear decisive, and the consequences for patient care. It features personal stories from patients like Meghan O'Rourke, who faced dismissal of her symptoms due to inconclusive tests, and Jessica Naranjo, who was misdiagnosed for years. The article also discusses the potential and limitations of AI in medical decision-making, and how some physicians are learning to embrace uncertainty as a normal part of practice. The core insight is that acknowledging uncertainty can actually improve doctor-patient relationships and lead to better outcomes, but medical training often discourages this openness.",
+    "summary_zh": "这篇文章探讨了医疗实践中普遍但鲜被讨论的不确定性挑战，医生常面对模糊症状和不断变化的知识。文章分析了承认不确定性的文化污名，医生必须显得果断的压力，以及对患者护理的影响。通过梅根·奥鲁尔克等患者的个人故事，她因检测结果不确定而被忽视症状，杰西卡·纳兰霍被误诊多年。文章还讨论了AI在医疗决策中的潜力和局限性，以及一些医生如何开始接受不确定性作为实践的一部分。核心观点是承认不确定性实际上可以改善医生-患者关系并带来更好的结果，但医学培训往往抑制这种开放性。",
+    "best_quote_en": "'We have a notion of uncertainty as being synonymous with weakness or inertia.' - Maggie Jackson",
+    "best_quote_zh": "'我们有一种观念，认为不确定性与软弱或停滞不前是同义词。' - 麦吉·杰克逊"
+  },
+  {
+    "id": 96,
+    "title": "5 Surprising Foods That Dentists Hate (Including the “Healthy” Snack That Can Wreck Your Teeth)",
+    "title_zh": "牙医最讨厌的5种食物（包括那种看似健康的零食会毁坏你的牙齿）",
+    "source": "Mental Floss",
+    "link": "https://www.mentalfloss.com/food/foods-that-dentists-hate?utm_source=RSS",
+    "tags": [
+      "update",
+      "health-wellness",
+      "science",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "动态",
+      "健康养生",
+      "科学研究",
+      "数据驱动"
+    ],
+    "date": "2025-10-26",
+    "summary_en": "This article reveals surprising foods that dentists warn against, focusing on both obvious and hidden dangers to dental health. While sugar-laden foods are common culprits, the piece highlights how sticky textures, acidity, and firmness can equally damage teeth. Dried fruits, though healthy, cling to enamel and trap sugars, while apples' hardness can chip teeth. White bread transforms into cavity-causing sugar, popcorn husks irritate gums, and chewing ice can crack teeth. The analysis underscores the importance of mindful eating habits to preserve dental health without completely eliminating these foods. It's a wake-up call about the subtle ways everyday foods can impact our oral health.",
+    "summary_zh": "这篇文章揭示了牙医警告的惊人食物，重点介绍了对牙齿健康的显性和隐性危害。虽然含糖食物常被指责，但文章指出黏性、酸度和坚硬度同样有害。干果虽健康却会粘在牙齿上，苹果的硬度可能磨损牙齿，白面包会转化为导致蛀牙的糖分，爆米花壳会刺激牙龈，咬冰会导致牙齿裂开。分析强调了在保持牙齿健康的同时，需要更加注意日常饮食习惯。",
+    "best_quote_en": "Sweetness isnât the only culprit in damaging your oral health. Stickiness, acidity, and texture all contribute, as does biting into and chewing firm foods.",
+    "best_quote_zh": "甜味并不是损害口腔健康的唯一元凶。黏性、酸度和食物质地同样有害，咬下和咀嚼坚硬的食物也会造成损伤。"
+  },
+  {
+    "id": 97,
+    "title": "How valuable is money-in-market?",
+    "title_zh": "资金投入市场的价值如何？",
+    "source": "LessWrong",
+    "link": "https://www.lesswrong.com/posts/Dbt9JHPijfXKbG4dF/how-valuable-is-money-in-market",
+    "tags": [
+      "solve",
+      "economics",
+      "business-model",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "解决",
+      "经济金融",
+      "商业模式",
+      "数据驱动"
+    ],
+    "date": "2025-10-27",
+    "summary_en": "This thought-provoking piece questions the conventional wisdom that spending money in for-profit markets is more effective than donating to non-profits. The author searches for empirical evidence to support this claim but finds none, sparking an intriguing discussion about the marginal economic value of small monetary contributions. The analysis delves into the counterfactual value of money, questioning whether funds remain within the economic system or are lost. This raises important considerations for investors and philanthropists alike, challenging us to think critically about where and how we allocate our financial resources.",
+    "summary_zh": "该文章质疑了将资金投入营利性市场比捐赠给非营利组织更有效的常见说法。作者未能找到支持这一观点的参考价值，引发了对小额资金在整体经济中的边际价值的深入思考。分析探讨了资金是否会回流经济体系，或可能永久流失。这促使投资者和慈善家重新思考资金分配策略。",
+    "best_quote_en": "There's clearly a lot of value to having the economy, but a marginal addition seems proportionally much less.",
+    "best_quote_zh": "经济整体确实有很大价值，但边际增量似乎相对较小。"
+  },
+  {
+    "id": 98,
+    "title": "Gideon Lewis-Kraus on Rebecca West’s “The Crown Versus William Joyce”",
+    "title_zh": "吉迪恩·刘易斯-克劳斯评丽贝卡·韦斯特的《王冠诉威廉·乔伊斯》",
+    "source": "The New Yorker",
+    "link": "https://www.newyorker.com/magazine/takes/gideon-lewis-kraus-on-rebecca-wests-the-crown-versus-william-joyce",
+    "tags": [
+      "analyze",
+      "psychology",
+      "case-study"
+    ],
+    "tags_zh": [
+      "分析",
+      "心理学",
+      "案例研究"
+    ],
+    "date": "2025-10-26",
+    "summary_en": "Gideon Lewis-Kraus delves into Rebecca West's 1946 account of William Joyce's trial, exploring how West's work influenced later writers like Janet Malcolm. The piece examines West's unique approach to courtroom reporting as dramatic criticism and her psychological insight into betrayal and populist resentment. Lewis-Kraus highlights West's witty yet compassionate portrayal of Joyce, a fascist broadcaster, and draws parallels to contemporary political figures. The analysis reveals West's enduring relevance in understanding the interplay between personal trauma and political extremism.",
+    "summary_zh": "吉迪恩·刘易斯-克劳斯深入分析丽贝卡·韦斯特1946年对威廉·乔伊斯审判的报道，探讨韦斯特如何影响了后来的作家如珍妮特·马尔科姆。文章展现了韦斯特将法庭报道视为戏剧批评的独特方法，以及她对背叛和民粹主义怨恨的心理洞察。作者突出了韦斯特对乔伊斯这一纳粹广播员的犀利而同情的描写，并将其与当代政治人物作比较。分析揭示了韦斯特在理解个人创伤与政治极端主义之间关系上的持久价值。",
+    "best_quote_en": "What could the little man do—since he so passionately desired to exercise authority and neither this nor any other sane state would give it to him—but use his trick of gathering together luckless fellows to overturn the state and substitute a mad one?",
+    "best_quote_zh": "既然他如此渴望行使权力，但任何理智的国家都不愿给予他，这个小人物还能做什么呢？除了利用他的伎俩，聚集不幸之徒推翻国家，代之以一个疯狂的政府？"
+  },
+  {
+    "id": 99,
+    "title": "Tales from Toddlerhood",
+    "title_zh": "幼儿时期的故事",
+    "source": "Wait But Why",
+    "link": "https://waitbutwhy.com/2025/10/toddler.html",
+    "tags": [
+      "solve",
+      "lifestyle",
+      "writing-content",
+      "controversial"
+    ],
+    "tags_zh": [
+      "解决",
+      "生活方式",
+      "写作内容",
+      "争议观点"
+    ],
+    "date": "2025-10-24",
+    "summary_en": "This witty and introspective piece offers a raw, humorous look at the realities of toddler parenthood, blending personal anecdotes with universal truths. The author's observations about the paradoxical nature of toddler relationships—simultaneously adoring and exasperating—resonate deeply. The piece also explores the social dynamics among parents, highlighting the judgment and conflicting advice that permeate parenting culture. Through vivid examples, the author illustrates how toddlers navigate the world with a mix of genius and confusion, offering a fresh perspective on child development. The article ultimately advocates for a balanced, joyful approach to parenting, focusing on guiding children rather than trying to mold them.",
+    "summary_zh": "这篇幽默且深刻的文章生动描绘了育儿的真实状态，将个人经历与普遍真理结合。作者对孩子既迷恋又无聊的矛盾心理刻画精准，引发共鸣。文中还揭示了育儿群体间的社会动态，强调判断与矛盾建议的普遍性。通过鲜活案例，作者展示了孩子如何以天才与困惑并存的方式探索世界，为儿童发展提供新视角。最终，文章倡导平衡快乐的育儿方式，强调引导而非塑造。",
+    "best_quote_en": "Toddler parents can take solace in the fact that parenting probably matters less than we think it does.",
+    "best_quote_zh": "家长们可以安慰自己，育儿的影响可能比我们想象的要小。"
   }]
