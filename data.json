@@ -1,115 +1,5 @@
 [
   {
-    "id": 16,
-    "title": "Interstellar (2014)",
-    "title_zh": "星际穿越（2014）",
-    "source": "RogerEbert",
-    "link": "https://www.rogerebert.com/reviews/interstellar-2014",
-    "tags": [
-      "Motivation",
-      "Film",
-      "Art"
-    ],
-    "tags_zh": [
-      "动机",
-      "电影",
-      "艺术"
-    ],
-    "date": "2014-11-03",
-    "summary_en": "This review notes that *Interstellar* is a grand, ambitious science fiction film in which astronauts seek new worlds for humanity as Earth becomes uninhabitable. While it’s loud, busy, and full of heavy exposition, it also delivers emotionally powerful moments, especially about separation, loss, and love across time and space. The film trades in sweeping visuals and scientific spectacle, but its core is a meditation on what matters most to people: family, legacy, and defiance in the face of inevitable decay. The critic praises its moments that stir up genuine emotion, even if its dialogue and character development are uneven and its pacing and philosophical scope sometimes overloaded.",
-    "summary_zh": "这篇影评指出，《星际穿越》是一部气势宏大、野心勃勃的科幻电影，讲述在人类居住的地球变得不可居的背景下，宇航员寻找新世界以保存人类。尽管影片嘈杂、场面繁复，并且充满大量科幻／哲学上的说明与对话，但它也带来了强烈的情感冲击，尤其是关于分离、失落以及跨越时间与空间的爱。影片以壮观的视觉与科学奇观为卖点，但其内核是一种对人类最重要事物的沉思：家庭、遗产，以及在不可避免的衰败面前的反抗。影评赞赏其中那些真正激起观众情感的场面，尽管对话与角色塑造有时不够均衡，节奏与哲学野心也有过度之嫌。",
-    "best_quote_en": "\"There’s something pure and powerful about this movie … I can’t recall a science fiction film hard-sold to a director’s fans as multiplex-‘awesome’ in which so many major characters wept openly in close-up …\"",
-    "best_quote_zh": "“这部电影中有某种纯粹而强大的东西……我记不清有哪部号称要在商业影院里‘震撼’观众的科幻片里，有那么多主角在特写下当众泪流满面……”"
-  },
-  {
-    "id": 17,
-    "title": "The Summer Book",
-    "title_zh": "夏日书简",
-    "source": "RogerEbert",
-    "link": "https://www.rogerebert.com/reviews/the-summer-book-glenn-close-movie-review-2025",
-    "tags": [
-      "Writing",
-      "Film",
-      "Art"
-    ],
-    "tags_zh": [
-      "写作",
-      "电影",
-      "艺术"
-    ],
-    "date": "2025-??-??",
-    "summary_en": "“The Summer Book” is a meditative and poetic film adapting Tove Jansson’s 1972 book, exploring time, memory, loss, and nature through quiet vignettes over one summer on an isolated Finnish island. It centers on three generations—a grandmother (Glenn Close), her young granddaughter Sophia, and Sophia’s father—to evoke the enduring presence of grief after the death of the grandmother’s spouse. Much of the film’s impact comes from its pace, imagery (sunsets, water, plant life), minimal technology, and the way intimacy is conveyed in small gestures. The performances, particularly Close’s, are nuanced and emotional, giving weight to what is unsaid and emphasizing how fleeting time is with loved ones.",
-    "summary_zh": "《夏日书简》是一部冥想式、诗意的电影，改编自托芙·詹森（Tove Jansson）1972 年的同名著作，通过一个夏天在芬兰群岛的片段，探索时间、记忆、失落与自然。影片围绕三代人展开 —— 祖母（格伦·克洛斯 饰）、她的幼孙女 Sophia，以及 Sophia 的父亲 —— 来唤起祖母配偶去世后哀伤持续存在的状态。电影的大部分感染力来自其节奏、影像（落日、海水、植物）、极少技术干预，以及通过微小动作传达亲密关系的方式。演员表演，尤其是克洛斯的，细腻且富有情感，突出未言之事，并强调与所爱之人共处的时光是多么稍纵即逝。",
-    "best_quote_en": "\"The Summer Book is a haiku of a movie, conveying profound thoughts about time, memory, loss, and nature through a simplified, meditative, cinematic language of exquisite images and gentle music.\"",
-    "best_quote_zh": "“《夏日书简》是一首电影的俳句，通过简化的、冥想式的、充满精美影像与柔和音乐的影像语言，传达关于时间、记忆、失落与自然的深刻思考。”"
-  },
-  {
-    "id": 18,
-    "title": "“There was a lot of naivety and youthful exuberance”: Usman Riaz on creating *The Glassworker*, Pakistan’s first hand-drawn animated feature",
-    "title_zh": "“有很多天真与青春的热情”：Usman Riaz 谈制作《玻璃工匠》，巴基斯坦首部手绘动画长片",
-    "source": "BFI / Sight & Sound",
-    "link": "https://www.bfi.org.uk/sight-and-sound/interviews/there-was-lot-naivety-youthful-exuberance-usman-riaz-creating-glassworker-pakistans-first-hand-drawn-animated-feature",
-    "tags": [
-      "AI",
-      "Film",
-      "Art"
-    ],
-    "tags_zh": [
-      "人工智能",
-      "电影",
-      "艺术"
-    ],
-    "date": "2025-09-19",
-    "summary_en": "This interview with Usman Riaz covers his journey of making *The Glassworker*, Pakistan’s first hand-drawn animated feature. Inspired from childhood exposure (a pirate VHS of Studio Ghibli’s *Kiki’s Delivery Service*, Bugs Bunny history, etc.), Riaz persisted despite lack of animation infrastructure in Pakistan. Over about ten years, he drew storyboards himself, assembled an international team, produced both Urdu and English versions, refined the screenplay with outside collaborators, and managed distribution. The film tells a love story set in a stylised land inspired by post-9/11 South Asia, balancing themes of art, war, human suffering, and universal humanity. Despite challenges — in experience, funding, technical resources — the film was released successfully in 2024, performed better than expected domestically, represented Pakistan in awards, and now Riaz hopes to build from this project toward greater infrastructure and faster production in future works.",
-    "summary_zh": "在这篇采访中，Usman Riaz 谈论他制作《玻璃工匠》的过程 —— 这部作品是巴基斯坦首部手绘动画长片。从童年受到影响（如盗版 VHS 中的宫崎骏作品 *Kiki’s Delivery Service*、兔巴哥（Bugs Bunny）历史等），Riaz 即便在巴基斯坦缺乏动画产业基础的情况下仍坚持制作。大约经过十年，他亲自绘制故事板，组建国际合作团队，以英语与乌尔都语版本制作，并与海外合作者共同润色剧本，管理电影上映。他的故事发生在一个受到 9/11 后南亚影响的虚构化地方，通过艺术与战争、人的苦难与普遍人性之间的张力讲述一段跨越阶级与冲突的爱情故事。尽管在经验、资金、技术资源上遇到很多挑战，但这部片子在 2024 年成功发布，在本土观众反响超乎预期，并代表巴基斯坦参加多个奖项。Riaz 希望以此为起点，推动动画产业基础建设、未来能更快地制作下一部动画并探索南亚神话与奇幻故事。",
-    "best_quote_en": "\"There was a lot of naivety and youthful exuberance. I did not know that I would be spending ten, 11 years – a third of my life – on this project.\"",
-    "best_quote_zh": "“有很多天真与青春的热情。我当时并不知道我会在这个项目上耗费十年、十一年——我人生的三分之一。”"
-  },
-  {
-    "id": 19,
-    "title": "Taylor Swift announces “dazzling soirée” ‘Release Party Of A Showgirl’ in cinemas",
-    "title_zh": "泰勒·斯威夫特宣布将在影院举办《歌舞女郎的派对》专辑发布派对",
-    "source": "NME",
-    "link": "https://www.nme.com/news/music/taylor-swift-announces-dazzling-soiree-release-party-of-a-showgirl-in-cinemas-3893935",
-    "tags": [
-      "Music",
-      "Film",
-      "Society"
-    ],
-    "tags_zh": [
-      "音乐",
-      "电影",
-      "社会"
-    ],
-    "date": "2025-09-19",
-    "summary_en": "Taylor Swift announced an 89-minute 'release party' event titled 'Taylor Swift: The Official Release Party of a Showgirl' for her 12th studio album 'The Life Of A Showgirl'. The event will be held in cinemas from October 3 to October 5, featuring the premiere of the 'The Fate of Ophelia' music video, behind-the-scenes footage, lyric videos, and her personal reflections on the new songs. It will be shown in the US, Canada, Mexico, the UK, and many other countries. The album, co-produced by Swift, Max Martin, and Shellback, includes a collaboration with Sabrina Carpenter. Swift described it as the record she'd long wanted to make, focusing on her inner life during the 'Eras Tour'. Also, around 500 Target branches in the US will open at midnight on October 3 to sell the album, and she'll appear on 'The Graham Norton Show' on the release day. Additionally, there's speculation about her potentially headlining the 2026 Super Bowl Halftime Show.",
-    "summary_zh": "泰勒·斯威夫特宣布，为她的第12张录音室专辑《歌舞女郎的人生》举办一场时长89分钟的“发布派对”活动，名为《泰勒·斯威夫特：歌舞女郎的官方发布派对》。该活动将于10月3日至10月5日在影院举行，届时将有专辑首支单曲《奥菲莉亚的命运》的音乐视频首映、拍摄幕后花絮、其他歌曲的歌词视频，以及她对这些新歌的个人感悟分享。活动将在美国、加拿大、墨西哥、英国等多个国家的影院放映。这张专辑由斯威夫特与马克斯·马丁、Shellback共同制作，其中同名歌曲还与萨布丽娜·卡彭特合作。斯威夫特称这是她一直想制作的专辑，聚焦于“时代巡回演唱会”期间自己的内心生活。此外，美国约500家塔吉特门店将于10月3日午夜开门销售这张专辑，斯威夫特还将在专辑发行当天亮相《格拉汉姆·诺顿秀》。同时，目前还有关于她可能担任2026年超级碗中场秀主唱的猜测。",
-    "best_quote_en": "“Dancing is optional but very much encouraged.",
-    "best_quote_zh": "“跳舞是可选的，但我们非常鼓励大家跳舞。”"
-  },
-  {
-    "id": 20,
-    "title": "‘Demon Slayer: Infinity Castle’ Crosses $555M Globally, Secures Top Domestic Box Office Spot For Second Weekend",
-    "title_zh": "《鬼滅之刃：無限城》全球票房突破 5.55 亿美元，连续第二周蝉联国内票房第一",
-    "source": "The Playlist",
-    "link": "https://theplaylist.net/demon-slayer-infinity-castle-crosses-555m-globally-secures-top-domestic-box-office-spot-for-second-weekend-20250922/",
-    "tags": [
-      "AI",
-      "Film",
-      "Art"
-    ],
-    "tags_zh": [
-      "人工智能",
-      "电影",
-      "艺术"
-    ],
-    "date": "2025-09-22",
-    "summary_en": "This article reports that *Demon Slayer: Infinity Castle* has now exceeded **US$555 million** in global box office revenue and has held the #1 spot in the domestic (U.S.) box office for two consecutive weekends. It compares its performance to previous *Demon Slayer* films like *Mugen Train* (which grossed about US$486 million), highlighting how this new installment has surpassed that benchmark. The piece also suggests this success reflects growing demand for anime in Western theaters, especially among younger global audiences raised on anime/manga. It notes that the *Infinity Castle* is part of a planned trilogy, with further films expected in 2027 and 2029, and posits that its success could boost the import and screening of more high-profile anime films in the West.",
-    "summary_zh": "这篇文章报道《鬼滅之刃：無限城》的全球票房已突破 **5.55 亿美元**，并在美国票房连续两周位列第一。文章将其与之前的鬼滅之刃电影如 *无量列车（Mugen Train）*（约合 4.86 亿美元票房）做对比，强调这部新作已超越旧纪录。文章还指出，这种成功反映出西方电影院对动画（尤其是日本动画）需求日益增长，尤其是年轻一代在动画／漫画文化中长大。另文也提到《無限城》是三部曲之一，其余两部计划在 2027 年与 2029 年推出；文章认为其成功可能促使更多高知名度的动画电影被引进西方院线。",
-    "best_quote_en": "\"‘Demon Slayer: Infinity Castle’ has kept the top spot at the domestic box office and has crossed $555 million mark globally, making it one of the highest-grossing anime films to ever come out of Japan.\"",
-    "best_quote_zh": "“《鬼滅之刃：無限城》继续蝉联美国国内票房第一，全球票房已突破 5.55 亿美元，使其成为日本历史上票房最高的动画电影之一。”"
-  },
-  {
     "id": 21,
     "title": "The Coziest Place on the Moon",
     "title_zh": "月球上最舒适的地方",
@@ -2340,5 +2230,125 @@
     "summary_zh": "该文章呈现了一个数学证明，说明在Jensen-Shannon散度下重采样潜在变量能够保持冗余性和中介性。作者反思了JS与KL散度的选择，强调JS在某些情况下的优势，尤其是其度量性质。证明建立了因子化误差的边界，表明重采样能够近似保留原始潜在变量的性质。这项工作凸显了在信息论和机器学习中选择合适误差函数的重要性，为从事潜在变量模型研究的学者提供了有价值的见解。",
     "best_quote_en": "We aren't sure. Some of our focus for immediate next steps is going to be on how to better determine the 'right' error function for comparing distributions for the purpose of working with (natural) latents.",
     "best_quote_zh": "我们不确定。下一步我们的重点将是如何更好地确定用于比较分布的“正确”误差函数，以便处理（自然）潜在变量。"
+  },
+  {
+    "id": 116,
+    "title": "In a First, AI Models Analyze Language As Well As a Human Expert",
+    "title_zh": "首次，AI模型的语言分析能力达到人类专家水平",
+    "source": "Quanta Magazine",
+    "link": "https://www.quantamagazine.org/in-a-first-ai-models-analyze-language-as-well-as-a-human-expert-20251031/",
+    "tags": [
+      "analyze",
+      "ai-research",
+      "science",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "分析",
+      "AI研究",
+      "科学研究",
+      "数据驱动"
+    ],
+    "date": "2025-10-31",
+    "summary_en": "This groundbreaking study challenges the notion that language understanding is uniquely human. The research demonstrates that certain AI models, particularly OpenAI's o1, exhibit metalinguistic capabilities comparable to human graduate students in linguistics. The study's four-part linguistic test, focusing on syntax trees and recursion, revealed the model's ability to analyze language structures and resolve ambiguities. Notably, the AI could even add layers of recursion to complex sentences. The findings suggest that while current models lack originality, they're rapidly closing the gap on human language comprehension. This raises profound questions about the nature of language and cognition, suggesting we may be 'less unique than we previously thought.'",
+    "summary_zh": "这一突破性研究挑战了语言理解是人类独有能力的观念。研究表明，某些AI模型（如OpenAI的o1）的元语言能力已达人类语言学研究生水平。通过四部分语言测试，特别是语法树和递归分析，AI展现了分析语言结构和解决歧义的能力。研究人员甚至惊讶地发现，AI能为复杂句子添加递归层次。尽管当前模型尚未展现原创性，但正在迅速缩小与人类语言理解能力的差距。这一结果引发了关于语言和认知本质的深刻思考，我们可能比之前认为的更不独特。",
+    "best_quote_en": "It appears that we're less unique than we previously thought we were.",
+    "best_quote_zh": "看来我们比之前认为的更不独特。"
+  },
+  {
+    "id": 117,
+    "title": "Power and flesh",
+    "title_zh": "权力与肉体",
+    "source": "Aeon",
+    "link": "https://aeon.co/essays/our-political-moment-is-ripe-for-david-cronenbergs-body-horror?utm_source=rss-feed",
+    "tags": [
+      "solve",
+      "music-arts",
+      "education",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "解决",
+      "音乐艺术",
+      "教育学习",
+      "未来预测"
+    ],
+    "date": "2025-10-31",
+    "summary_en": "This essay explores the evolution of biopolitics through the lens of David Cronenberg's body horror films, tracing the shift from celebrating bodily transformation to advocating for its protection. It examines how government control over bodies has evolved from souls to minds to biological life, with modern debates focusing on issues like trans rights, AI, and medical interventions. Cronenberg's work, from Videodrome to Crimes of the Future, reflects changing attitudes toward bodily autonomy, moving from radical celebration of mutation to a more nuanced defense of bodily sovereignty. The analysis highlights the tension between reactionary forces seeking to control bodies and progressive movements advocating for transformation, ultimately suggesting that true bodily autonomy may lie in creating safe spaces for change rather than forcing it. The essay concludes by reflecting on how Cronenberg's evolving perspective offers valuable insights into contemporary debates about bodily rights and government intervention.",
+    "summary_zh": "这篇文章通过大卫·克伦伯格的身份恐怖电影，探讨了生物政治的演变，从庆祝身体变异到主张其保护。它探讨了政府对身体控制的演变，从灵魂到思想再到生物生命，现代争论聚焦于跨性别权利、AI和医疗干预等问题。克伦伯格的作品，从《录像带》到《未来罪行》，反映了对身体自主权态度的变化，从激进庆祝变异到更为复杂的捍卫身体主权。分析突出了反动势力试图控制身体与进步运动倡导变革之间的紧张关系，最终认为真正的身体自主权可能在于为变化创造安全空间，而非强制推动。文章最后反思了克伦伯格演变的观点如何为当代关于身体权利和政府干预的辩论提供宝贵见解。",
+    "best_quote_en": "'Long live the new flesh!'",
+    "best_quote_zh": "“长生之肉！”"
+  },
+  {
+    "id": 118,
+    "title": "The 10 Best National Parks to Visit in Fall, According to Actual Visitors",
+    "title_zh": "根据实际游客评价，秋季游览的10大国家公园",
+    "source": "Mental Floss",
+    "link": "https://www.mentalfloss.com/geography/national-parks/10-best-visit-fall-actual-visitors?utm_source=RSS",
+    "tags": [
+      "analyze",
+      "science",
+      "design",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "分析",
+      "科学研究",
+      "设计创意",
+      "数据驱动"
+    ],
+    "date": "2025-10-31",
+    "summary_en": "This article provides a data-driven analysis of the best US national parks to visit in fall, based on visitor data from 2020-2024. The ranking considers factors like visitor counts, hours spent, and Google reviews specifically mentioning autumn visits. The Great Smoky Mountains National Park emerges as the clear winner with a near-perfect fall score of 96.9. The analysis reveals interesting insights about visitor behavior and preferences during fall, showing that popularity doesn't always correlate with the highest ratings. It's particularly valuable for travelers seeking to make informed decisions about fall destinations, offering both quantitative data and qualitative visitor experiences.",
+    "summary_zh": "这篇文章通过2020-2024年游客数据分析，评选出秋季最佳美国国家公园。评分标准包括游客数量、停留时长和Google评论中的秋季体验。大烟山国家公园以96.9的高分夺魁。分析揭示了秋季游客行为模式，热门公园未必评分最高。对计划秋季旅行的游客非常有参考价值，提供了量化数据和真实游客体验。",
+    "best_quote_en": "With over 19.7 million individual visits logged over the survey’s five-year period, the Smokies were not only America’s most visited park, but also one of its highest rated, with an average score of 4.90 on Google.",
+    "best_quote_zh": "在过去五年的调查期间，大烟山国家公园共记录了超过1970万次访问，不仅是美国游客最多的公园，而且评分也很高，在Google上的平均评分为4.90。"
+  },
+  {
+    "id": 119,
+    "title": "Freewriting in my head, and overcoming the “twinge of starting”",
+    "title_zh": "在脑海中进行自由写作，并克服“开始时的犹豫”",
+    "source": "LessWrong",
+    "link": "https://www.lesswrong.com/posts/yhFfcumcjazPERGdJ/freewriting-in-my-head-and-overcoming-the-twinge-of-starting",
+    "tags": [
+      "guide",
+      "ai-research",
+      "programming",
+      "beginner-friendly"
+    ],
+    "tags_zh": [
+      "指导",
+      "AI研究",
+      "编程开发",
+      "新手友好"
+    ],
+    "date": "2025-11-01",
+    "summary_en": "This article explores the 'empty cache problem' where individuals struggle to start complex tasks due to insufficient mental context. The author presents 'freewriting in one's head' as an effective solution, a technique that involves rapidly generating relevant words to populate mental cache and overcome the initial hesitation. The method draws parallels with traditional freewriting and language model chain-of-thought processes, emphasizing the importance of quick, relevant word generation to build momentum. The author shares practical tips, an illustrative transcript, and insights on applying this technique in both individual work and team settings, highlighting its effectiveness in reducing task-related dread and fostering productivity.",
+    "summary_zh": "文章探讨了人们在开始复杂任务时常遇到的“空缓存问题”，即因缺乏足够的心理准备而拖延。作者提出了“在脑海中自由写作”的方法，通过快速生成相关词汇来填充心理缓存，从而克服开始时的犹豫。这种方法类似于传统的自由写作和语言模型的思维链条，强调快速生成相关词汇以建立工作节奏。作者分享了实用技巧、示例对话和在个人工作及团队协作中的应用见解，突显其减少任务恐惧和提升效率的有效性。",
+    "best_quote_en": "The pressure is strong but not unpleasant. It’s the opposite of relaxing, but it gets a lot done.",
+    "best_quote_zh": "这种压力很强但并不令人不适。它与放松相反，但能让你完成很多事情。"
+  },
+  {
+    "id": 120,
+    "title": "Portland Prepares for Invasion",
+    "title_zh": "波特兰准备迎接入侵",
+    "source": "The New Yorker",
+    "link": "https://www.newyorker.com/news/the-lede/portland-prepares-for-invasion",
+    "tags": [
+      "solve",
+      "politics",
+      "legal",
+      "controversial"
+    ],
+    "tags_zh": [
+      "解决",
+      "政治时事",
+      "法律法规",
+      "争议观点"
+    ],
+    "date": "2025-10-31",
+    "summary_en": "This article provides a nuanced look at the ongoing tensions in Portland, Oregon, between local protesters and federal authorities, particularly ICE. The piece highlights the disconnect between the Trump administration's portrayal of Portland as a chaotic war zone and the reality on the ground, where protests are colorful but largely contained. The mayor's visit to the ICE facility reveals disorganization within federal operations, while the police chief struggles to balance community safety with federal intervention. The article also explores the historical context of political extremism in Portland and the efforts of local law enforcement to de-escalate tensions. The dancing protests outside the ICE facility serve as a symbolic resistance, contrasting the seriousness of the federal presence with a carnivalesque atmosphere. The piece raises important questions about federal overreach, the nature of protest, and the media's role in shaping public perception.",
+    "summary_zh": "这篇文章深入分析了俄勒冈州波特兰市地方抗议者与联邦机构之间持续的紧张局势，尤其是针对ICE的抗议。文章揭示了特朗普政府将波特兰描绘为混乱战区的刻板印象与实际情况之间的差异，现实中抗议活动虽然色彩斑斓但基本可控。市长对ICE设施的参观揭示了联邦机构内部的混乱，而警方则在维护社区安全与联邦干预之间寻求平衡。文章还探讨了波特兰政治极端主义的历史背景以及地方警方缓解紧张局势的努力。ICE设施外的舞蹈抗议活动象征性地对抗严肃的联邦存在，形成了嘉年华式的氛围。这篇文章引发了关于联邦权力过度干预、抗议活动本质以及媒体在塑造公众认知中的作用等重要问题的思考。",
+    "best_quote_en": "The characterization of 'the city is on fire' or 'a war zone' is not accurate.",
+    "best_quote_zh": "将城市描述为'燃烧'或'战区'并不准确。"
   }
 ]
