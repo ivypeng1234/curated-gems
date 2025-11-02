@@ -1,101 +1,5 @@
 [
   {
-    "id": 21,
-    "title": "The Coziest Place on the Moon",
-    "title_zh": "月球上最舒适的地方",
-    "source": "The Marginalian",
-    "link": "https://www.themarginalian.org/the-coziest-place-on-the-moon/",
-    "tags": [
-      "AI",
-      "Art",
-      "Nature"
-    ],
-    "tags_zh": [
-      "人工智能",
-      "艺术",
-      "自然"
-    ],
-    "date": "2022-07-26",
-    "summary_en": "This essay mixes science, poetry, and personal reflection. It begins with a NASA discovery that certain lunar pits (likely collapsed lava tubes) maintain a stable, mild temperature (~63°F / 17°C), offering shelter from the Moon’s extreme temperature fluctuations and radiation. The author uses this as a starting point to explore loneliness, love, creative imagination, and our longing for shelter—both literal and emotional. She creates a children’s-book-like story of a person, “Re”, who travels to the coziest place on the Moon, encountering cosmic truths, questions of love and connection, and ultimately confronting how to bear loneliness. The essay is illustrated and also became a children’s book. Popova reflects on human solitude, on our smallness in the cosmos, and on how literature and love are ways we create shelter for each other’s solitude.",
-    "summary_zh": "这篇随笔融合科学、诗意与个人思考。开篇讲述 NASA 的发现：月球上某些坑洞（很可能是塌陷的熔岩管）在极端温度和辐射之外，保持着一种稳定温和的温度（约 63°F／17°C），提供一种庇护。作者以此为起点，探讨孤独、爱、创造性想象，以及我们对庇护——无论是物理的还是情感的——的渴望。她构建了一个儿童书风格的故事：一个人 “Re” 前往月球上最舒适的地方，在那儿经历宇宙的真理、关于联系与爱的疑问，以及最终如何承受孤独。文章配有插画，后来也发展成儿童图画书。Popova 在文中反思人类的孤独感、在宇宙中的渺小，以及文学与爱如何成为我们为彼此孤独建造庇护的方式。",
-    "best_quote_en": "\"There is something poetic in knowing that we evolved in caves and might one day inhabit caves on another celestial body, having invented the means to get there with the imagination that bloomed over millions of years in the lonely bone cave of the mind.\"",
-    "best_quote_zh": "“知道我们曾在洞穴中进化，并可能有一天在另一个天体上的洞穴中栖居——这其中带有某种诗意；我们为了到达那里发明手段，而这种想象力在头脑中如骨中的洞穴般寂寞地绽放了数百万年。”"
-  },
-  {
-    "id": 22,
-    "title": "Kannesteinen Rock",
-    "title_zh": "卡内斯泰恩岩石",
-    "source": "Atlas Obscura",
-    "link": "https://www.atlasobscura.com/places/kannesteinen-rock",
-    "tags": [
-      "AI"
-    ],
-    "tags_zh": [
-      "人工智能"
-    ],
-    "date": "2017-07-20",
-    "summary_en": "Kannesteinen Rock is a mushroom-shaped rock formation on the coast of Vågsøy, Norway, sculpted over thousands of years by the waves and wind. Its narrow middle section and broader top give it a striking, almost surreal appearance. Depending on vantage point and lighting, it can appear like a goblet, a stem, a one-legged chair (in Norwegian “kannestolen”), or a distorted whale’s tail. Despite its fragile look, it's stable and people sometimes climb atop it (cautiously, especially near high tide). It’s a protected site, sought after by photographers and tourists curious about geological oddities and coastal beauty.",
-    "summary_zh": "卡内斯泰恩岩石是一处位于挪威 Vågsøy 海岸的蘑菇形岩石地貌，由海浪与风在千年中雕刻而成。它中段狭细，上部宽大，形态奇特、几乎超现实。不同视角或光线下，看起来像高脚杯、石茎、挪威语“一条腿的椅子”（kannestolen）、或是一条扭曲的鲸鱼尾。尽管看起来细弱，但岩石结构稳定，人们偶尔也会爬到其顶部（潮水高涨时尤其要小心）。这里是一处受保护地标，经常成为摄影师与喜欢自然奇观／海岸美景游客的目的地。",
-    "best_quote_en": "\"Thousands of years of crashing waves gave the Kannesteinen Rock its distinct svelte figure.\"",
-    "best_quote_zh": "“数千年海浪的拍打赋予卡内斯泰恩岩其独特修长的形体。”"
-  },
-  {
-    "id": 23,
-    "title": "The Psychology Behind the Labubu Blind Box Craze",
-    "title_zh": "Labubu 隐藏款公仔热潮背后的心理学",
-    "source": "Mental Floss",
-    "link": "https://www.mentalfloss.com/fun/toys/psychology-behind-labubu-blind-box-craze",
-    "tags": [
-      "Mental Health"
-    ],
-    "tags_zh": [
-      "心理健康"
-    ],
-    "date": "2025-08-26",
-    "summary_en": "Labubu, a blind box toy featuring a small, elfin plush figure with rabbit-like ears and a sharp-toothed smile, has taken the world by storm. These toys are sold in opaque boxes to conceal which version is inside, creating a sense of mystery and excitement. The unboxing process has become a viral trend on platforms like TikTok, with videos racking up millions of views. The psychology behind this craze is rooted in the concept of variable reinforcement, similar to gambling, where the unpredictability of the outcome leads to increased engagement and desire.",
-    "summary_zh": "Labubu 是一种盲盒玩具，外形为小巧的精灵状毛绒公仔，拥有兔耳和尖牙笑容，近年来在全球掀起热潮。这些玩具以不透明的盒子出售，隐藏内部版本，制造神秘感和兴奋感。开盒过程已成为 TikTok 等平台上的病毒式趋势，视频观看量达到数百万次。这一热潮背后的心理学原理源于可变强化的概念，类似于赌博，结果的不确定性导致了参与度和欲望的增加。",
-    "best_quote_en": "\"The psychology behind this craze is rooted in the concept of variable reinforcement, similar to gambling, where the unpredictability of the outcome leads to increased engagement and desire.\"",
-    "best_quote_zh": "\"这一热潮背后的心理学原理源于可变强化的概念，类似于赌博，结果的不确定性导致了参与度和欲望的增加。\""
-  },
-  {
-    "id": 24,
-    "title": "Rachel Gregor 的“Acts of Observation”展览",
-    "title_zh": "Rachel Gregor 的“Acts of Observation”展览",
-    "source": "BOOOOOOOM",
-    "link": "https://www.booooooom.com/2025/09/08/acts-of-observation-by-artist-rachel-gregor/",
-    "tags": [
-      "AI",
-      "Art"
-    ],
-    "tags_zh": [
-      "人工智能",
-      "艺术"
-    ],
-    "date": "2025-09-08",
-    "summary_en": "Kansas City-based artist Rachel Gregor's new exhibition, 'Acts of Observation,' is on display at Hashimoto Contemporary in New York City until September 27, 2025. The exhibition showcases Gregor's gouache and oil paintings, focusing on direct observation of subjects such as potted plants, figurines, and self-portraits. The works are characterized by vibrant colors, layered compositions, and a blend of observation, memory, and fantasy. The self-portraits often appear in front of larger, narrative-based works in progress, creating layers of interconnection and opportunities for play and experimentation.",
-    "summary_zh": "堪萨斯城艺术家 Rachel Gregor 的新展览《Acts of Observation》正在纽约市的 Hashimoto Contemporary 展出，展期至 2025 年 9 月 27 日。展览展示了 Gregor 的水粉和油画作品，重点呈现了她对盆栽植物、雕像和自画像等主题的直接观察。作品以鲜艳的色彩、层次丰富的构图以及观察、记忆与幻想的融合为特点。自画像通常出现在正在创作的更大叙事作品前方，形成层次交织的联系，提供了游戏和实验的机会。",
-    "best_quote_en": "\"The act of looking is its own reward.\"",
-    "best_quote_zh": "\"观察本身就是一种回报。\""
-  },
-  {
-    "id": 25,
-    "title": "A Soft Murmur",
-    "title_zh": "A Soft Murmur",
-    "source": "A Soft Murmur",
-    "link": "https://asoftmurmur.com/",
-    "tags": [
-      "Art"
-    ],
-    "tags_zh": [
-      "艺术"
-    ],
-    "date": "2025-09-23",
-    "summary_en": "A Soft Murmur is an online ambient sound generator designed to help you relax, focus, and tune out unpleasant sounds from your environment. Users can mix and match various soothing sounds, adjust individual volumes, and set timers to create a personalized auditory environment.",
-    "summary_zh": "A Soft Murmur 是一个在线背景噪音生成器，旨在帮助您放松、专注并屏蔽环境中的不愉快声音。用户可以混合搭配各种舒缓的声音，调整各个音量，并设置定时器，以创建个性化的听觉环境。",
-    "best_quote_en": "\"Create your perfect mix of relaxing sounds to help you sleep, relax, study or work!\"",
-    "best_quote_zh": "\"创建您完美的放松声音混音，帮助您入睡、放松、学习或工作！\""
-  },
-  {
     "id": 26,
     "title": "Reflections",
     "title_zh": "反思",
@@ -2350,5 +2254,123 @@
     "summary_zh": "这篇文章深入分析了俄勒冈州波特兰市地方抗议者与联邦机构之间持续的紧张局势，尤其是针对ICE的抗议。文章揭示了特朗普政府将波特兰描绘为混乱战区的刻板印象与实际情况之间的差异，现实中抗议活动虽然色彩斑斓但基本可控。市长对ICE设施的参观揭示了联邦机构内部的混乱，而警方则在维护社区安全与联邦干预之间寻求平衡。文章还探讨了波特兰政治极端主义的历史背景以及地方警方缓解紧张局势的努力。ICE设施外的舞蹈抗议活动象征性地对抗严肃的联邦存在，形成了嘉年华式的氛围。这篇文章引发了关于联邦权力过度干预、抗议活动本质以及媒体在塑造公众认知中的作用等重要问题的思考。",
     "best_quote_en": "The characterization of 'the city is on fire' or 'a war zone' is not accurate.",
     "best_quote_zh": "将城市描述为'燃烧'或'战区'并不准确。"
+  },
+  {
+    "id": 121,
+    "title": "The world without hegemony",
+    "title_zh": "无霸权的世界",
+    "source": "Aeon",
+    "link": "https://aeon.co/essays/what-southeast-asian-history-tells-us-about-a-multipolar-order?utm_source=rss-feed",
+    "tags": [
+      "learn",
+      "education",
+      "politics",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "学习",
+      "教育学习",
+      "政治时事",
+      "未来预测"
+    ],
+    "date": "2025-10-30",
+    "summary_en": "This essay challenges the hegemonic stability theory that posits a single dominant power is necessary for global order. Drawing on the historical example of the classical eastern Indian Ocean (1st-15th centuries CE), the authors demonstrate how a multiplex order thrived without a hegemon. This maritime system, connecting China, India, and Southeast Asia, was characterized by decentralized power structures, shared management of trade routes, and cultural pluralism. The essay argues that the current transition from US hegemony doesn't necessarily mean chaos or Chinese dominance, but rather an opportunity for a new multiplex order in the Indo-Pacific region. This emerging system, with multiple great powers and active regional actors like ASEAN, could provide stability through collective management of maritime commons. The authors advocate for learning from historical examples to overcome 20th-century biases in international relations theory and build a more stable, prosperous world order.",
+    "summary_zh": "这篇文章挑战了主导稳定理论，即认为需要单一霸权才能维持全球秩序。作者通过古代东印度洋（1-15世纪）的历史案例，展示了一个多中心秩序如何在无需霸权的情况下繁荣发展。这个连接中国、印度和东南亚的海洋体系，由分散的权力结构、共同管理的贸易路线和文化多元性所特征。文章认为，美国霸权的衰落并不必然意味着混乱或中国的主导，而是为印太地区出现新的多中心秩序创造了机会。这个新兴体系，由多个大国和积极的区域行为体如东盟共同构建，可能通过集体管理海上公共资源来提供稳定。作者主张从历史案例中汲取经验，克服20世纪国际关系理论中的偏见，为构建更加稳定繁荣的世界秩序做出更好的决策。",
+    "best_quote_en": "The world economic system was unstable unless some country stabilised it, and that, in 1929, 'the British couldn’t and the United States wouldn’t.'",
+    "best_quote_zh": "世界经济体系不稳定，除非有国家来稳定它，而在1929年，‘英国做不到，而美国不愿为之。’”"
+  },
+  {
+    "id": 122,
+    "title": "Three Sneaky Reasons Why Motorcyclists Flip Their License Plates",
+    "title_zh": "摩托车手翻转车牌的三个狡猾原因",
+    "source": "Mental Floss",
+    "link": "https://www.mentalfloss.com/transportation/why-motorcyclists-flip-license-plates?utm_source=RSS",
+    "tags": [
+      "solve",
+      "science",
+      "legal",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "解决",
+      "科学研究",
+      "法律法规",
+      "数据驱动"
+    ],
+    "date": "2025-11-01",
+    "summary_en": "This article explores the surprising reasons why some motorcyclists flip their license plates, despite it being illegal. Beyond the commonly cited excuse of identity theft protection, the real motivations reveal a pattern of evasion and thrill-seeking. The three main reasons include avoiding traffic violations and toll fees by preventing automated systems from capturing their plate numbers, tricking police officers during pursuits, and simply for the adrenaline rush of outsmarting the system. The article serves as both an expose on a common but little-discussed practice and a cautionary tale about the legal consequences, which can be severe. It's particularly valuable for its insights into the psychology behind such behaviors and the technological measures that enable them.",
+    "summary_zh": "这篇文章揭露了摩托车手翻转车牌的三个真实原因，远不止所谓的身份保护。主要动机包括逃避交通罚款和路桥费，欺骗警方追踪，以及单纯的刺激感。内容既是对一种常见行为的揭秘，也是对法律后果的警示。文章的价值在于揭示行为背后的心理动机和技术手段，引发读者对社会规则与个人行为的思考。",
+    "best_quote_en": "The devices usually work by allowing the rider to simply push a button that rotates the plate 180 degrees to hide the number.",
+    "best_quote_zh": "这些装置通常只需按一下按钮就能让车牌旋转180度，藏起号码。"
+  },
+  {
+    "id": 123,
+    "title": "Weak-To-Strong Generalization",
+    "title_zh": "弱到强的推广",
+    "source": "LessWrong",
+    "link": "https://www.lesswrong.com/posts/bkbaXuo5mh8LP34rM/weak-to-strong-generalization",
+    "tags": [
+      "solve",
+      "ai-research",
+      "education",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "解决",
+      "AI研究",
+      "教育学习",
+      "未来预测"
+    ],
+    "date": "2025-11-02",
+    "summary_en": "The article explores the concept of 'weak-to-strong generalization', a method where a weak model teaches a strong model to improve its performance. Unlike Paul Christiano's IDA, this approach skips the amplification step, training the strong model directly on weak model labels. The author argues this works when the strong model can't easily fit the weak model's mistakes without increasing error. They compare it to a student learning from a typo-filled textbook, where the student must infer correct grammar despite errors. The analysis delves into Bayesian perspectives, demonstrating why strong models don't simply imitate weak ones and how they can surpass teacher performance. The author proposes using 'virtual evidence' to soften updates from toy models, preventing mimicry and allowing for bounded influence. While acknowledging limitations, they believe this approach offers a more formal target for AI alignment problems, though it doesn't necessarily solve superhuman performance or distributional shifts.",
+    "summary_zh": "文章探讨了“弱到强推广”这一概念，即通过弱模型训练强模型以提升其性能。该方法省略了IDA中的放大步骤，直接用弱模型标签训练强模型。作者认为，当强模型无法轻易拟合弱模型的错误时，这种方法才能奏效。他们将其比作学生从充满错别字的教科书中学习，学生必须在错误中推断出正确的语法。分析深入探讨了贝叶斯视角，说明强模型为何不会简单模仿弱模型，以及如何超越老师表现。作者提出使用“虚拟证据”来软化玩具模型的更新，防止模仿并允许有界影响。尽管承认局限性，他们认为这一方法为AI对齐问题提供了更正式的目标，尽管它并不一定能解决超人表现或分布偏移问题。",
+    "best_quote_en": "Weak-to-strong generalization could be reasonably accused of being a hack: we expect it to vanish in the limit of a growing gap between weak and strong, and the phenomenon seems unreliable, working better in some domains than others.",
+    "best_quote_zh": "弱到强的推广可以被合理地指责为一个技巧：我们预期它在弱强差距扩大的极限情况下会消失，这种现象看起来不可靠，在某些领域比其他领域表现更好。"
+  },
+  {
+    "id": 124,
+    "title": "Watch the Trailer for “The New Yorker at 100”",
+    "title_zh": "观看纪录片《纽约客百年》的预告片",
+    "source": "The New Yorker",
+    "link": "https://www.newyorker.com/news/press-room/watch-the-trailer-for-the-new-yorker-at-100",
+    "tags": [
+      "solve",
+      "science",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "解决",
+      "科学研究",
+      "数据驱动"
+    ],
+    "date": "2025-10-31",
+    "summary_en": "The trailer for 'The New Yorker at 100' offers a fascinating glimpse into the magazine's century-long evolution. It captures the frantic final months leading to its 100th anniversary, showcasing how The New Yorker transformed from a local humor magazine to a globally influential media powerhouse. The documentary highlights seminal works like John Hersey's 'Hiroshima' and Truman Capote's 'In Cold Blood,' which reshaped journalism and public discourse. With appearances from current and former staff, celebrity admirers, and director Marshall Curry, the film promises an insightful exploration of the magazine's impact and controversies. This documentary serves as both a celebration and a critical reflection on The New Yorker's legacy.",
+    "summary_zh": "《纽约客百年》预告片揭示了这本杂志百年历程的精彩瞬间。从地方幽默杂志到全球影响力媒体，影片记录了纽约客的非凡转型。影片还展现了其百年庆典的紧张筹备，并重温了约翰·赫西的《广岛》和卡波特的《冷血》等经典作品。由奥斯卡获奖导演马歇尔·柯瑞执导，影片不仅是对纽约客历史的致敬，更是对其影响力的深度解析。",
+    "best_quote_en": "The excitement of that countdown serves as a central point of interest in 'The New Yorker at 100'",
+    "best_quote_zh": "倒计时的兴奋感是《纽约客百年》的核心吸引力"
+  },
+  {
+    "id": 125,
+    "title": "Cheaper Holiday Flights/Most Powerful Passports/Corporate Good Guys",
+    "title_zh": "更便宜的假期机票/最强大的护照/企业好人",
+    "source": "Kevin Kelly",
+    "link": "https://kk.org/cooltools/cheaper-holiday-flights-most-powerful-passports-corporate-good-guys/",
+    "tags": [
+      "solve",
+      "lifestyle",
+      "design",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "解决",
+      "生活方式",
+      "设计创意",
+      "未来预测"
+    ],
+    "date": "2025-10-30",
+    "summary_en": "This week's newsletter offers a mix of practical travel insights and thought-provoking perspectives. The piece on cheaper holiday flights reveals how economic conditions are benefiting travelers, with significant price drops across domestic and international routes. The sleep trick for plane travel provides a personal, actionable solution to a common problem. The passport ranking highlights shifting global mobility trends, with Asian countries leading. The Patagonia piece goes beyond product promotion to discuss sustainability and corporate responsibility, positioning Patagonia as an industry leader. Together, these articles blend data-driven insights with personal experiences, offering both practical advice and food for thought on travel, sustainability, and global trends.",
+    "summary_zh": "本周通讯结合了实用旅行见解和深刻见解。关于假期机票降价的文章揭示了经济条件如何惠及旅行者，国内和国际航线价格显著下降。飞机睡眠技巧提供了解决常见问题的个人、可行动的解决方案。护照排名凸显了全球流动性趋势的变化，亚洲国家领先。关于Patagonia的文章不仅仅是产品推广，还讨论了可持续性和企业责任，将Patagonia定位为行业领导者。这些文章结合了数据驱动的见解和个人经历，提供了关于旅行、可持续性和全球趋势的实用建议和思考食粮。",
+    "best_quote_en": "No company has done more for this cause than Patagonia: they are the most sustainably run large apparel corporation in the world, from every angle.",
+    "best_quote_zh": "没有哪家公司在可持续发展方面做得比Patagonia更多：从各个角度来看，他们是世界上经营最可持续的大型服装公司。"
   }
 ]
