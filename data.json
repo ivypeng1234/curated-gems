@@ -1,75 +1,5 @@
 [
   {
-    "id": 26,
-    "title": "Reflections",
-    "title_zh": "反思",
-    "source": "Sam Altman",
-    "link": "https://blog.samaltman.com/reflections",
-    "tags": [
-      "inspire",
-      "ai-research",
-      "science",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "启发",
-      "AI研究",
-      "科学研究",
-      "未来预测"
-    ],
-    "date": "2025-01-06",
-    "summary_en": "Sam Altman's reflective piece on OpenAI's journey offers profound insights into the challenges and triumphs of pioneering AGI. He candidly discusses the rapid growth, governance failures, and personal lessons learned. The piece underscores the importance of adaptability, gratitude, and long-term vision in the face of unprecedented technological and organizational challenges. Altman's optimism about AI's potential to revolutionize industries and society is tempered by a sobering awareness of the responsibilities that come with such power. His reflections on leadership, governance, and the human element of technological advancement make this a compelling read for anyone interested in the future of AI.",
-    "summary_zh": "萨姆·阿尔特曼关于OpenAI发展历程的反思，揭示了人工智能先驱者面临的挑战与成就。他坦诚地讨论了快速增长、治理失误和个人教训。文章强调了在前所未有的技术和组织挑战面前，适应力、感恩之心和长远眼光的重要性。阿尔特曼对人工智能改变行业和社会潜力的乐观态度，也伴随着对其责任的清醒认识。他对领导力、治理和技术进步中人性因素的反思，使这篇文章成为任何对人工智能未来感兴趣的人的必读之作。",
-    "best_quote_en": "We are now confident we know how to build AGI as we have traditionally understood it.",
-    "best_quote_zh": "我们现在有信心建造我们传统意义上理解的AGI。"
-  },
-  {
-    "id": 27,
-    "title": "Enhance Your Learning Speed & Health Using Neuroscience Based Protocols | Dr. Poppy Crum",
-    "title_zh": "通过神经科学协议提升学习速度与健康 | 普皮·克鲁姆博士",
-    "source": "Huberman Lab",
-    "link": "https://www.hubermanlab.com/episode/enhance-learning-speed-neuroscience-poppy-crum",
-    "tags": [
-      "analyze",
-      "science",
-      "ai-research",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "分析",
-      "科学研究",
-      "AI研究",
-      "数据驱动"
-    ],
-    "date": "2025-09-29",
-    "summary_en": "Dr. Poppy Crum's insights bridge neuroscience and practical applications, offering transformative protocols for learning and health enhancement. Her expertise in neuroplasticity reveals how technology—from smartphones to AI—can be leveraged for cognitive improvement. The discussion on 'digital twins' opens intriguing possibilities for personalized health optimization. The episode's zero-cost protocols make advanced knowledge accessible, while the exploration of sensory data and closed-loop training systems demonstrates how technology can augment human potential. Dr. Crum's ability to connect complex scientific concepts with everyday applications makes this content invaluable for lifelong learners and tech enthusiasts alike.",
-    "summary_zh": "普皮·克鲁姆博士将神经科学与实际应用相结合，提供提升学习和健康的变革性协议。她在神经可塑性方面的专业知识揭示了如何利用技术——从智能手机到人工智能——来促进认知提升。关于“数字孪生”的讨论为个性化健康优化开辟了令人兴奋的可能性。该节目的零成本协议使先进知识变得易于获得，而对传感器数据和闭环训练系统的探讨则展示了技术如何增强人类潜力。",
-    "best_quote_en": "We're not really talking about replacing the human. We're talking about increasing the efficacy of the human.",
-    "best_quote_zh": "我们讨论的不是取代人类，而是提高人类的效能。"
-  },
-  {
-    "id": 28,
-    "title": "GPT-4o",
-    "title_zh": "GPT-4o",
-    "source": "Sam Altman",
-    "link": "https://blog.samaltman.com/gpt-4o",
-    "tags": [
-      "solve",
-      "ai-research",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "解决",
-      "AI研究",
-      "未来预测"
-    ],
-    "date": "2024-05-13",
-    "summary_en": "The announcement of GPT-4o highlights two key advancements in AI accessibility and interface design. OpenAI emphasizes its mission to provide powerful AI tools for free, democratizing access to cutting-edge technology while maintaining a sustainable business model. The introduction of voice and video capabilities marks a significant leap in human-computer interaction, making AI feel more natural and intuitive. This development suggests a future where AI becomes an integral part of daily life, assisting with tasks and personalizing experiences. The team's dedication to innovation is evident, positioning GPT-4o as a transformative tool that could redefine user expectations and interactions with technology.",
-    "summary_zh": "GPT-4o的宣布聚焦于AI的普惠化和界面设计突破。OpenAI强调其使命是免费提供强大的AI工具，推动技术普惠，同时保持可持续的商业模式。语音和视频功能的引入标志着人机交互的重大飞跃，使AI变得更加自然直观。这一进展预示着AI将成为日常生活的重要组成部分，辅助任务并个性化体验。团队的创新精神显著，将GPT-4o定位为一款可能重塑用户对技术期望和互动方式的变革性工具。",
-    "best_quote_en": "Talking to a computer has never felt really natural for me; now it does.",
-    "best_quote_zh": "与电脑交流从未真正让我感到自然；现在却可以了。"
-  },
-  {
     "id": 29,
     "title": "How to Make Yourself Unbreakable | DJ Shipley",
     "title_zh": "如何让自己变得不可战胜 | DJ Shipley",
@@ -2372,5 +2302,77 @@
     "summary_zh": "本周通讯结合了实用旅行见解和深刻见解。关于假期机票降价的文章揭示了经济条件如何惠及旅行者，国内和国际航线价格显著下降。飞机睡眠技巧提供了解决常见问题的个人、可行动的解决方案。护照排名凸显了全球流动性趋势的变化，亚洲国家领先。关于Patagonia的文章不仅仅是产品推广，还讨论了可持续性和企业责任，将Patagonia定位为行业领导者。这些文章结合了数据驱动的见解和个人经历，提供了关于旅行、可持续性和全球趋势的实用建议和思考食粮。",
     "best_quote_en": "No company has done more for this cause than Patagonia: they are the most sustainably run large apparel corporation in the world, from every angle.",
     "best_quote_zh": "没有哪家公司在可持续发展方面做得比Patagonia更多：从各个角度来看，他们是世界上经营最可持续的大型服装公司。"
+  },
+  {
+    "id": 126,
+    "title": "My private mountain",
+    "title_zh": "我的私人山",
+    "source": "Aeon",
+    "link": "https://aeon.co/essays/some-people-refer-to-new-mexico-as-okeeffe-country-i-dont?utm_source=rss-feed",
+    "tags": [
+      "solve",
+      "music-arts",
+      "politics",
+      "case-study"
+    ],
+    "tags_zh": [
+      "解决",
+      "音乐艺术",
+      "政治时事",
+      "案例研究"
+    ],
+    "date": "2025-10-28",
+    "summary_en": "This reflective piece explores the complex relationship between Georgia O'Keeffe's artistic legacy and the Indigenous history of New Mexico. The author, a Puebloan writer, contrasts O'Keeffe's romanticized depiction of the landscape with the lived experiences of Native and Hispanic communities. The article critiques O'Keeffe's possessive language about the land, which mirrors colonial attitudes, while acknowledging her artistic achievements and feminist significance. It calls for a more nuanced conversation about O'Keeffe's work that recognizes the erased histories of the region. The author's personal connection to the land adds emotional depth to the analysis, creating a powerful examination of art, identity, and cultural appropriation.",
+    "summary_zh": "这篇文章探讨了乔治亚·欧凯芙的艺术遗产与新墨西哥州原住民历史之间的复杂关系。作者作为普韦布洛人作家，将欧凯芙对风景的浪漫化描绘与原住民和西班牙裔社区的实际经历进行了对比。文章批评了欧凯芙对土地的占有性语言，这种语言反映了殖民态度，同时也承认了她的艺术成就和女性主义意义。文章呼吁对欧凯芙的作品进行更全面的讨论，以认识到该地区被掩盖的历史。作者对土地的个人联系为分析增添了情感深度，创造了一个关于艺术、身份和文化占有的强有力探讨。",
+    "best_quote_en": "'God told me if I painted it enough, I could have it.'",
+    "best_quote_zh": "'如果我足够多地绘画它，上帝告诉我我可以拥有它。'"
+  },
+  {
+    "id": 127,
+    "title": "10 Classic ‘Seinfeld’ Episodes That Revolve Around Outdated Technology",
+    "title_zh": "10经典《赛恩费尔德》集中围绕过时技术展开",
+    "source": "Mental Floss",
+    "link": "https://www.mentalfloss.com/entertainment/tv/classic-seinfeld-episodes-revolve-around-outdated-technology?utm_source=RSS",
+    "tags": [
+      "guide",
+      "society",
+      "lifestyle",
+      "case-study"
+    ],
+    "tags_zh": [
+      "指导",
+      "社会议题",
+      "生活方式",
+      "案例研究"
+    ],
+    "date": "2025-11-02",
+    "summary_en": "This article explores how Seinfeld's humor was deeply rooted in 1990s technology that has since become obsolete, from payphones to VCRs. The analysis highlights how these outdated devices created unique comedic situations that wouldn't translate in today's digital age. The piece serves as both a nostalgic trip down memory lane and a commentary on how technology has evolved. It's particularly insightful in showing how cultural touchstones like Seinfeld reflect societal changes, making it valuable for both pop culture enthusiasts and those interested in technological evolution.",
+    "summary_zh": "这篇文章探讨了《赛恩费尔德》如何以20世纪90年代的过时技术为核心创造幽默情节，从投币电话到录像带机。分析指出这些过时设备如何制造独特的喜剧情境，在当代数字时代无法复制。既是怀旧之旅，也是技术演进的评论，对喜欢流行文化和技术发展的人士都很有价值。",
+    "best_quote_en": "In its time (1989-1998), Seinfeld famously touted itself as a 'show about nothing,' when in fact it was a show about everything '90s.",
+    "best_quote_zh": "在其时代（1989-1998年），《赛恩费尔德》以“关于无关紧要的事情”的节目著称，实际上它是一部关于20世纪90年代的一切的节目。"
+  },
+  {
+    "id": 128,
+    "title": "How and why you should make your home smart (it's cheap and secure!)",
+    "title_zh": "如何以及为什么要让你的家变得智能（它既便宜又安全！）",
+    "source": "LessWrong",
+    "link": "https://www.lesswrong.com/posts/eoFuko87vWhARSCNE/how-and-why-you-should-make-your-home-smart-it-s-cheap-and",
+    "tags": [
+      "solve",
+      "ai-product",
+      "design",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "解决",
+      "AI产品",
+      "设计创意",
+      "数据驱动"
+    ],
+    "date": "2025-11-03",
+    "summary_en": "This article presents a vivid, personal narrative of transforming a home into a smart, automated space using affordable and secure technologies. The author highlights the convenience, aesthetic appeal, and time-saving benefits of smart home automation, emphasizing the use of open-source platforms like Home Assistant. The piece offers practical, step-by-step guidance on setting up a smart home, including recommendations for hardware, protocols (Zigbee and Z-Wave), and specific devices. It also touches on the importance of local control and privacy, advocating for mesh networks over WiFi-connected devices. The author's enthusiasm and detailed examples make the article both inspiring and actionable for anyone interested in creating a smarter, more efficient living environment.",
+    "summary_zh": "这篇文章以生动的个人叙事展示了如何将家变成智能自动化空间，强调了便捷性、美观性和节省时间的益处。作者推荐使用开源平台Home Assistant，并提供了设置智能家居的实用指南，包括硬件推荐、Zigbee和Z-Wave协议，以及具体设备。文章还强调了本地控制和隐私的重要性，倡导使用网状网络而非WiFi连接设备。作者的热情和详细例子使这篇文章既有启发性又有可操作性，适合任何对智能家居感兴趣的人。",
+    "best_quote_en": "It is very straightforward to set up automations using the interface, but you can also ask your favorite AI assistant to write yaml for you to not have to click on things.",
+    "best_quote_zh": "使用界面设置自动化非常简单，但你也可以让你喜欢的AI助手为你编写yaml代码，这样你就不需要点击任何东西了。"
   }
 ]
