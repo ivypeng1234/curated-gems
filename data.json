@@ -1,99 +1,5 @@
 [
   {
-    "id": 30,
-    "title": "Origami Patterns Solve a Major Physics Riddle",
-    "title_zh": "折纸模式解决物理学难题",
-    "source": "Quanta Magazine",
-    "link": "https://www.quantamagazine.org/origami-patterns-solve-a-major-physics-riddle-20251006/",
-    "tags": [
-      "analyze",
-      "science",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "分析",
-      "科学研究",
-      "数据驱动"
-    ],
-    "date": "2025-10-06",
-    "summary_en": "The article explores the unexpected connection between origami patterns and the amplituhedron, a geometric shape central to particle physics calculations. Pavel Galashin's breakthrough reveals that origami crease patterns can define points within the amplituhedron, solving a long-standing conjecture about its structure. This discovery not only bridges seemingly unrelated fields but also offers new tools for understanding particle interactions. The research suggests that the geometric elegance of origami might hold the key to simplifying complex physics calculations, opening avenues for future exploration in both mathematics and theoretical physics.",
-    "summary_zh": "文章探讨了折纸模式与粒子物理学核心几何图形“振幅多面体”间的意外联系。帕维尔·加拉申的突破性发现证明，折纸折痕图案可定义振幅多面体内的点，解决了关于其结构的长期猜想。这一发现不仅建立了两个看似无关领域的桥梁，还为理解粒子相互作用提供了新工具。研究表明，折纸的几何之美可能是简化复杂物理计算的关键，为数学和理论物理的未来探索开辟了新路径。",
-    "best_quote_en": "Pasha has done some brilliant work related to the amplituhedron before, but this is next-level stuff for me.",
-    "best_quote_zh": "帕沙之前在振幅多面体方面做了一些很棒的工作，但这对我来说是超乎想象的成就。"
-  },
-  {
-    "id": 31,
-    "title": "The Sweetapolita Bakebook / Castro’s Cuba",
-    "title_zh": "甜心烘焙书 / 卡斯特罗的古巴",
-    "source": "Kevin Kelly",
-    "link": "https://kk.org/cooltools/the-sweetapolita-bakebook-castros-cuba/",
-    "tags": [
-      "guide",
-      "music-arts",
-      "design",
-      "deep-dive"
-    ],
-    "tags_zh": [
-      "指导",
-      "音乐艺术",
-      "设计创意",
-      "深度分析"
-    ],
-    "date": "2025-10-07",
-    "summary_en": "The Sweetapolita Bakebook transforms baking into edible art, showcasing Rosie Alyea's vibrant creations that blend culinary skill with artistic expression. This book is more than a recipe collection; it's a visual feast that inspires both novice and experienced bakers to elevate their craft. Meanwhile, Castro's Cuba offers a historical perspective on Cuba under Castro's rule, featuring insightful interviews and photographs that reveal the revolutionary leader's vision. This book provides a unique lens through which to understand Cuba's social and political transformation. Both works, though vastly different in subject matter, excel in their respective domains by combining practical application with deep cultural or artistic insight.",
-    "summary_zh": "《甜心烘焙书》将烘焙变成可食用的艺术，展示了罗茜·阿利娅充满活力的创作，将烹饪技巧与艺术表现力结合。这本书不仅是食谱集，更是一场视觉盛宴，激发初学者和经验丰富的烘焙爱好者提升技艺。而《卡斯特罗的古巴》则为我们提供了古巴在卡斯特罗统治下的历史视角，通过深入的访谈和照片揭示了这位革命领袖的愿景。这本书为我们提供了一个独特的视角，以理解古巴的社会和政治变革。这两本书虽然主题迥异，但在各自领域中都以实用性与深刻的文化或艺术洞察力脱颖而出。",
-    "best_quote_en": "Her cookies transcend bakery staples into the realm of fine art. The buttery rounds are swimming with swirls of watercolor frosting and then dipped in edible gold so that they look like gilt-edged framed paintings, worthy of gracing any museum wall.",
-    "best_quote_zh": "她的曲奇饼超越了传统烘焙，进入了美术的领域。黄油圆饼上满是水彩糖霜的漩涡，再浸上可食用的金箔，看起来像镶金边的画框作品，足以装点任何博物馆的墙壁。"
-  },
-  {
-    "id": 32,
-    "title": "See Which Halloween Costumes Are Trending for 2025",
-    "title_zh": "查看2025年流行的万圣节服装",
-    "source": "Mental Floss",
-    "link": "https://www.mentalfloss.com/holidays/halloween/trending-halloween-costumes-2025?utm_source=RSS",
-    "tags": [
-      "inspire",
-      "lifestyle",
-      "music-arts",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "启发",
-      "生活方式",
-      "音乐艺术",
-      "未来预测"
-    ],
-    "date": "2025-10-09",
-    "summary_en": "This article provides a fascinating look at emerging Halloween costume trends for 2025, drawing from Google Trends data to reveal what's capturing popular imagination. It highlights a diverse range of influences from K-pop to horror games, showing how pop culture shapes seasonal traditions. The piece offers practical insights for costume shoppers while also reflecting broader cultural trends. The inclusion of both child-friendly and horror-themed options demonstrates the wide appeal of Halloween celebrations. Particularly interesting is the cross-cultural appeal of characters like Labubu, bridging Asian pop culture with Western holidays.",
-    "summary_zh": "这篇文章通过Google Trends数据揭示了2025年万圣节服装趋势，展现了流行文化如何塑造节日传统。从K-pop到恐怖游戏，内容涵盖了从儿童友好到惊悚风格的多样化选择。特别值得关注的是Labubu等角色如何将亚洲流行文化与西方节日结合，反映了全球文化交流的深化。对于寻找灵感的读者来说，这份清单既实用又富有洞察力。",
-    "best_quote_en": "The skyâs the limit with costume options.",
-    "best_quote_zh": "服装选择天马行空。"
-  },
-  {
-    "id": 33,
-    "title": "Genes Have Harnessed Physics to Help Grow Living Things",
-    "title_zh": "基因利用物理规律帮助生物生长",
-    "source": "Quanta Magazine",
-    "link": "https://www.quantamagazine.org/genes-have-harnessed-physics-to-help-grow-living-things-20251010/",
-    "tags": [
-      "analyze",
-      "science",
-      "ai-research",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "分析",
-      "科学研究",
-      "AI研究",
-      "数据驱动"
-    ],
-    "date": "2025-10-10",
-    "summary_en": "This article explores the fascinating intersection of biology and physics, revealing how mechanical forces, like the Marangoni effect, play crucial roles in embryonic development. The research challenges the traditional view that genes alone dictate growth, highlighting how physics and mechanics work hand-in-hand with genetics. The study of mouse gastruloids and bird feather development shows that surface tension and mechanical forces influence tissue formation and patterning, offering a more complete picture of biological processes. The article also revisits D’Arcy Thompson’s classic work, emphasizing the enduring relevance of physical forces in shaping life forms. This insightful piece invites us to reconsider the complex interplay between genetics and mechanics in the natural world.",
-    "summary_zh": "本文探讨了生物学与物理学的交叉领域，揭示了机械力如马朗格尼效应如何在胚胎发育中发挥关键作用。研究挑战了传统观点，即基因单独决定生长，强调物理和力学与遗传学共同作用。对小鼠胚胎样体和鸟类羽毛发展的研究显示，表面张力和机械力影响组织形成和排列，为生物过程提供了更完整的图景。文章还重新审视了达西·汤普森的经典著作，强调物理力量在塑造生命形态中的持久相关性。这篇富有洞察力的文章邀请我们重新思考自然界中遗传学与力学的复杂互动。",
-    "best_quote_en": "The hypothesis is that physics and mechanics can help us understand the biology at the tissue scale.",
-    "best_quote_zh": "假设是物理和力学可以帮助我们理解组织尺度上的生物学。"
-  },
-  {
     "id": 34,
     "title": "Art must act",
     "title_zh": "艺术必须行动",
@@ -2374,5 +2280,97 @@
     "summary_zh": "法妮·罗瑟尔的纪录片《一栋房子》探讨了瑞典早期女性主义共居空间的延续遗产，揭示了年轻居民挑战原始女性庇护所愿景的传统价值观与现代女性主义解释之间的紧张关系。这部关于代际冲突的深刻探索在不断变化的社会规范面前提出了关于适应性和社区身份的重要问题。这部纪录片既是历史文献，也是当代关于性别、住房和集体生活辩论的镜子。",
     "best_quote_en": "Should residents adapt to the space, or should the space adapt to them?",
     "best_quote_zh": "居民应该适应这个空间，还是空间应该适应居民？"
+  },
+  {
+    "id": 130,
+    "title": "Megastructures on Mars",
+    "title_zh": "火星大型建筑",
+    "source": "Aeon",
+    "link": "https://aeon.co/essays/in-the-late-1800s-alien-engineers-altered-our-world-forever?utm_source=rss-feed",
+    "tags": [
+      "update",
+      "science",
+      "politics",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "动态",
+      "科学研究",
+      "政治时事",
+      "未来预测"
+    ],
+    "date": "2025-11-04",
+    "summary_en": "This fascinating exploration of the Martian canal controversy reveals how humanity's perception of alien life has evolved from 19th century astronomical observations to modern UFO sightings. The article challenges common assumptions about how we would react to definitive proof of extraterrestrial intelligence, suggesting that societal responses might be more nuanced than popular culture suggests. It traces the cultural impact of the canal theory, showing how it influenced science fiction, scientific inquiry, and our understanding of climate change. The piece also highlights the complex relationship between scientific discovery and media, demonstrating how news coverage can shape public perception of scientific phenomena.",
+    "summary_zh": "这篇文章深入分析了火星运河争议，揭示了人类对外星生命认知从19世纪天文观测到现代UFO目击的演变过程。它挑战了我们对外星智慧生命确凿证据的常规反应假设，暗示社会反应可能比流行文化描绘的更复杂。文章追溯了运河理论的文化影响，展示其如何塑造科幻文学、科学探索和气候变化认知。同时揭示了科学发现与媒体的复杂关系，证明新闻报道如何塑造公众对科学现象的认知。",
+    "best_quote_en": "The canals of Mars hinted that the lifespan of intelligent species had a natural conclusion, but also showed that such species did not need to go meekly into the night when facing a planetary threat.",
+    "best_quote_zh": "火星运河暗示智慧物种的生命周期有其自然终结，但也表明面对星球威胁时，这样的物种无需安静离去。"
+  },
+  {
+    "id": 131,
+    "title": "Gerrymandering California",
+    "title_zh": "加州的选区划分操控",
+    "source": "LessWrong",
+    "link": "https://www.lesswrong.com/posts/FfHe7Dc4REer3mzjt/gerrymandering-california",
+    "tags": [
+      "inspire",
+      "politics",
+      "controversial"
+    ],
+    "tags_zh": [
+      "启发",
+      "政治时事",
+      "争议观点"
+    ],
+    "date": "2025-11-05",
+    "summary_en": "This analysis delves into California's attempt at gerrymandering U.S. House districts, exploring the strategic implications for both parties. The author argues that while gerrymandering could limit Trump's power if Democrats gain a majority, it ultimately undermines democratic principles by shifting voter agency to state legislators. The piece examines the escalating tit-for-tat gerrymandering between states and questions whether retaliatory measures actually serve democracy. It concludes that while gerrymandering is widely condemned, the optimal strategy might involve matching opponents' tactics to achieve a no-gerrymandering equilibrium. The analysis raises critical questions about political power, democratic legitimacy, and the ethical dilemmas of strategic retaliation.",
+    "summary_zh": "这篇分析探讨了加州试图操控美国众议院选区的行为及其对两党的战略影响。作者指出，尽管操控选区可能在民主党赢得多数时限制特朗普的权力，但最终削弱了民主原则，将选民的权力转移给州议会。文章探讨了各州间针锋相对的选区操控行为，并质疑报复性措施是否真正服务于民主。结论认为，尽管选区操控广受谴责，但最佳策略可能是通过匹配对手手段来实现无操控的均衡。分析提出了关于政治权力、民主合法性和战略报复的伦理困境的关键问题。",
+    "best_quote_en": "Gerrymandering decreases the number of votes required to support an atrocity. (Theoretically, a party could get a majority in the House with 25% of the popular vote.)",
+    "best_quote_zh": "操控选区会减少支持暴行所需的选票数量。理论上，一个政党可能在众议院获得多数席位，仅靠25%的普选票。"
+  },
+  {
+    "id": 132,
+    "title": "The Mamdani Era Begins",
+    "title_zh": "曼曼达尼时代开始",
+    "source": "The New Yorker",
+    "link": "https://www.newyorker.com/news/our-local-correspondents/the-mamdani-era-begins",
+    "tags": [
+      "analyze",
+      "politics",
+      "controversial"
+    ],
+    "tags_zh": [
+      "分析",
+      "政治时事",
+      "争议观点"
+    ],
+    "date": "2025-11-05",
+    "summary_en": "The article chronicles Zohran Mamdani's unlikely rise to become New York's mayor, defeating establishment figures like Eric Adams and Andrew Cuomo. It highlights Mamdani's appeal as a fresh, idealistic alternative to the city's corrupt political machine. The piece draws parallels with historical reform movements, questioning whether Mamdani can break the 'standard course' of municipal reform where outsider mayors inevitably fail. The analysis suggests Mamdani represents a generational shift, bringing marginalized communities to the political forefront and challenging traditional power structures. His victory signals a potential turning point in New York's political landscape, though the durable nature of the city's political machine poses significant challenges.",
+    "summary_zh": "文章记录了佐兰·曼曼达尼如何出人意料地成为纽约市长，击败了埃里克·亚当斯和安德鲁·库默等政坛老手。他凭借清新理想主义的形象，成为这个腐败政治机器的替代选择。文章将其与历史上的改革运动对比，质疑曼曼达尼能否打破",
+    "best_quote_en": "\"What I don’t have in experience, I make up for in integrity—and what you don’t have in integrity, you could never make up for in experience,\" Mamdani told Cuomo in an October debate.",
+    "best_quote_zh": "曼曼达尼在10月的辩论中说："
+  },
+  {
+    "id": 133,
+    "title": "Free Press / Building Stories",
+    "title_zh": "自由媒体 / 建筑故事",
+    "source": "Kevin Kelly",
+    "link": "https://kk.org/cooltools/free-press-building-stories/",
+    "tags": [
+      "analyze",
+      "design",
+      "music-arts",
+      "case-study"
+    ],
+    "tags_zh": [
+      "分析",
+      "设计创意",
+      "音乐艺术",
+      "案例研究"
+    ],
+    "date": "2025-11-04",
+    "summary_en": "This content presents two distinct but equally fascinating works that explore different aspects of storytelling and cultural expression. The first, 'Free Press,' is a visual history of underground newspapers from 1965-1975, offering a window into the counterculture movements of the era. The book serves as both a historical document and a design reference, showcasing the bold, experimental visual language that challenged mainstream media. The second work, 'Building Stories,' is Chris Ware's magnum opus, a collection of interconnected narratives about apartment dwellers in Chicago. Ware's innovative approach to comic storytelling, with its varied formats and deep psychological exploration, redefines what the medium can achieve. Together, these works demonstrate how visual media can capture cultural moments and human experiences in uniquely powerful ways.",
+    "summary_zh": "这篇内容介绍了两部风格迥异但同样引人入胜的作品。第一部《自由媒体》记录了1965-1975年间地下报刊的图像史，展现了那个时代反主流文化运动的激荡。这本书既是历史文献，也是设计参考，呈现了挑战主流媒体的大胆实验视觉语言。第二部《建筑故事》是克里斯·韦尔的代表作，收录了关于芝加哥公寓居民的互相关联的故事。韦尔创新的漫画叙事手法和深刻的心理探索，重新定义了这一媒介的可能性。两部作品共同展示了视觉媒体如何以独特方式捕捉文化时刻和人类体验。",
+    "best_quote_en": "'The covers of the papers were bold, experimental, and subversive.'",
+    "best_quote_zh": "这些报纸的封面大胆、实验性和颠覆性。"
   }
 ]
