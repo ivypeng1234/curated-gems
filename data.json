@@ -1,53 +1,5 @@
 [
   {
-    "id": 34,
-    "title": "Art must act",
-    "title_zh": "艺术必须行动",
-    "source": "Aeon",
-    "link": "https://aeon.co/essays/harold-rosenberg-exhorted-artists-to-take-action-and-resist-cliche?utm_source=rss-feed",
-    "tags": [
-      "inspire",
-      "science",
-      "education",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "启发",
-      "科学研究",
-      "教育学习",
-      "数据驱动"
-    ],
-    "date": "2025-10-10",
-    "summary_en": "This article explores the intertwined philosophies of Harold Rosenberg and Hannah Arendt, focusing on their concept of 'action' in art and politics. Rosenberg, a forgotten critic of mid-20th century American art, argued that art should be an existential act rather than a product for criticism or commerce. His ideas, developed alongside Arendt, challenged the role of art in a society disillusioned by political failures and capitalist illusions. The essay highlights Rosenberg's critique of both Stalinist art and the commercialization of abstract expressionism, emphasizing the need for authentic personal and political resistance. Through his writings on artists like Barnett Newman and Andy Warhol, Rosenberg sought to redefine the purpose of art as a means of breaking free from societal constraints and fostering genuine human connection. His legacy lies in his insistence on the importance of judgment and action in an era of widespread disillusionment and cynicism.",
-    "summary_zh": "本文探讨了哈罗德·罗森堡和汉娜·阿伦特交织的哲学思想，重点在于艺术与政治中的“行动”概念。罗森堡，20世纪中叶美国艺术的被遗忘的批评家，主张艺术应是一种存在性行为，而非供批评或商业化的产品。他与阿伦特共同发展的思想挑战了艺术在政治失望和资本主义幻觉中扭曲的角色。文章突出了罗森堡对斯大林主义艺术和抽象表现主义商业化的批判，强调真实的个人和政治抵抗的必要性。通过对巴内特·纽曼和安迪·沃霍尔等艺术家的评论，罗森堡试图重新定义艺术的目的，即打破社会束缚，促进真实人际联系。他的遗产在于他在普遍幻灭和怀疑主义时代，坚持判断和行动的重要性。",
-    "best_quote_en": "'The new painting has broken down every distinction between art and life.'",
-    "best_quote_zh": "“新绘画已经打破了艺术与生活之间的一切区别。”"
-  },
-  {
-    "id": 35,
-    "title": "The Battle of the Pies, Mapped: See Which States Prefer New York vs. Chicago Pizza",
-    "title_zh": "披萨大战：地图显示各州更爱纽约还是芝加哥披萨",
-    "source": "Mental Floss",
-    "link": "https://www.mentalfloss.com/geography/maps/new-york-vs-chicago-pizza?utm_source=RSS",
-    "tags": [
-      "analyze",
-      "leadership",
-      "ai-research",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "分析",
-      "领导管理",
-      "AI研究",
-      "未来预测"
-    ],
-    "date": "2025-10-10",
-    "summary_en": "This engaging analysis of pizza preferences across the U.S. reveals a fascinating regional divide. While both New York and Chicago styles remain equally popular nationwide, the geographic pattern is striking: coastal states favor the foldable, thin-crust New York style, while the Midwest and West lean toward Chicago's thick, utensil-required deep-dish. The piece highlights how cultural and practical factors influence food preferences, with New York's portable design appealing to urban lifestyles and Chicago's hearty construction aligning with Midwest culinary traditions. The inclusion of expert rankings adds credibility, though the data's reliance on search trends might overlook actual consumption patterns. This culinary geography sparks foodie debates and offers insights into regional identity.",
-    "summary_zh": "这篇文章通过地图展示了美国各州对纽约风格披萨和芝加哥深盘披萨的偏好。数据显示，尽管两种风格全国范围内同样受欢迎，但地区差异明显：沿海州更爱便携的纽约薄底披萨，而中西部则偏爱需要餐具的芝加哥深盘披萨。这不仅是味道之争，更反映了不同地区的饮食文化与生活方式。不过，基于搜索趋势的数据或许不能完全代表实际消费习惯。这场披萨大战不仅引发美食争议，也让我们思考地区认同如何塑造饮食偏好。",
-    "best_quote_en": "States that are farthest to the east and west of the country are more inclined toward New York style pizzas.",
-    "best_quote_zh": "美国最东部和最西部的州更倾向于纽约风格的披萨。"
-  },
-  {
     "id": 36,
     "title": "The Persistent Pull of Planet Epstein",
     "title_zh": "伊普斯坦星球的持久吸引力",
@@ -2372,5 +2324,53 @@
     "summary_zh": "这篇内容介绍了两部风格迥异但同样引人入胜的作品。第一部《自由媒体》记录了1965-1975年间地下报刊的图像史，展现了那个时代反主流文化运动的激荡。这本书既是历史文献，也是设计参考，呈现了挑战主流媒体的大胆实验视觉语言。第二部《建筑故事》是克里斯·韦尔的代表作，收录了关于芝加哥公寓居民的互相关联的故事。韦尔创新的漫画叙事手法和深刻的心理探索，重新定义了这一媒介的可能性。两部作品共同展示了视觉媒体如何以独特方式捕捉文化时刻和人类体验。",
     "best_quote_en": "'The covers of the papers were bold, experimental, and subversive.'",
     "best_quote_zh": "这些报纸的封面大胆、实验性和颠覆性。"
+  },
+  {
+    "id": 134,
+    "title": "The Strength of Being Misunderstood",
+    "title_zh": "被误解的力量",
+    "source": "Sam Altman",
+    "link": "https://blog.samaltman.com/the-strength-of-being-misunderstood",
+    "tags": [
+      "solve",
+      "leadership",
+      "ai-research",
+      "deep-dive"
+    ],
+    "tags_zh": [
+      "解决",
+      "领导管理",
+      "AI研究",
+      "深度分析"
+    ],
+    "date": "2020-12-01",
+    "summary_en": "This thought-provoking piece challenges the notion of indifference to others' opinions, arguing that strategic care about opinions can be powerful. The author suggests we have two key choices: selecting whose opinions matter and determining the timescale of our concern. Exceptional individuals care deeply about long-term judgment, even embracing short-term misunderstanding. The article highlights the strength in being right about non-consensus ideas, as this creates space for innovative problem-solving. It's a compelling perspective on status, time horizons, and the value of being misunderstood in pursuit of important truths.",
+    "summary_zh": "这篇文章颠覆了对他人评价漠不关心的传统观点，认为战略性地重视他人的看法反而更有力量。作者提出我们有两个关键选择：选择重视谁的意见以及确定关注的时间范围。杰出的人往往非常重视长期评价，甚至甘愿短期被误解。文章强调在重要但非共识的观点上坚持正确立场的价值，因为这为创新问题解决创造了空间。",
+    "best_quote_en": "You should trade being short-term low-status for being long-term high-status, which most people seem unwilling to do.",
+    "best_quote_zh": "你应该用短期低地位换取长期高地位，而大多数人似乎不愿这样做。"
+  },
+  {
+    "id": 135,
+    "title": "Using Existing Drugs in New Ways to Treat & Cure Diseases of Brain & Body | Dr. David Fajgenbaum",
+    "title_zh": "利用现有药物以新方式治疗和治愈大脑和身体的疾病 | 大卫·法根鲍姆博士",
+    "source": "Huberman Lab",
+    "link": "https://www.hubermanlab.com/episode/david-fajgenbaum-using-drugs-treat-diseases-brain-body",
+    "tags": [
+      "analyze",
+      "medicine",
+      "science",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "分析",
+      "医学健康",
+      "科学研究",
+      "数据驱动"
+    ],
+    "date": "2025-11-03",
+    "summary_en": "Dr. David Fajgenbaum's insights on drug repurposing reveal a transformative approach to treating diseases. His personal journey with Castleman's disease highlights how existing drugs, originally approved for other conditions, can offer life-saving alternatives. The conversation explores the potential of repurposing medications to tackle previously untreatable diseases, including cancers, and emphasizes the importance of mindset in battling illnesses. Fajgenbaum's work with the Every Cure database demonstrates how researchers, physicians, and the public can discover novel treatments. The discussion also touches on the role of AI in identifying new drug applications and the broader implications for healthcare innovation.",
+    "summary_zh": "法根鲍姆博士通过自身对卡斯尔曼病的战胜经历，揭示了药物再利用的巨大潜力。他发现许多已批准的药物可以治疗原本用途之外的疾病，这为医学领域带来了新的希望。他的研究和Every Cure数据库的工作展示了如何通过现有药物开发出治愈癌症等难治性疾病的新方法。这场对话不仅探讨了药物再利用的科学价值，还强调了心态在战胜疾病中的关键作用，为医疗创新提供了深刻的启示。",
+    "best_quote_en": "We can explore novel treatments and cures to conditions the medical profession has deemed untreatable, including cancers.",
+    "best_quote_zh": "我们可以探索医学界认为无法治疗的疾病的新治疗方法和治愈方案，包括癌症。"
   }
 ]
