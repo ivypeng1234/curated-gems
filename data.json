@@ -1,117 +1,5 @@
 [
   {
-    "id": 36,
-    "title": "The Persistent Pull of Planet Epstein",
-    "title_zh": "伊普斯坦星球的持久吸引力",
-    "source": "The New Yorker",
-    "link": "https://www.newyorker.com/news/fault-lines/the-persistent-pull-of-planet-epstein",
-    "tags": [
-      "update",
-      "politics",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "动态",
-      "政治时事",
-      "数据驱动"
-    ],
-    "date": "2025-10-10",
-    "summary_en": "The article explores the growing influence of alternative media personalities like Candace Owens, who challenge mainstream journalism by promoting conspiracy theories centered around figures like Jeffrey Epstein. It highlights the divide between 'Planet Normie' (traditional media) and 'Planet Epstein' (conspiracy-driven content creators), noting that social media algorithms amplify fringe narratives. The author reflects on the erosion of trust in establishment media and the allure of more engaging, if dubious, alternative narratives. The piece also draws parallels to historical media fragmentation, suggesting that technological shifts and societal upheaval create fertile ground for conspiracy theories to gain traction.",
-    "summary_zh": "文章探讨了像坎达斯·欧文斯这样的替代媒体人物日益增长的影响力，他们通过推广以杰弗里·埃普斯坦为中心的阴谋论挑战主流新闻业。文章强调了“常规星球”（传统媒体）与“伊普斯坦星球”（阴谋理论内容创作者）之间的分歧，指出社交媒体算法放大了边缘叙事。作者反思了对建制媒体信任度的下降以及更具吸引力（尽管可疑）的替代叙事的魅力。该文还与历史上的媒体分裂进行了比较，暗示技术变革和社会动荡为阴谋论提供了肥沃的土壤。",
-    "best_quote_en": "Do you believe in the world as presented by the mainstream media or do you believe in her?",
-    "best_quote_zh": "你相信主流媒体呈现的世界，还是相信她？"
-  },
-  {
-    "id": 37,
-    "title": "What I Wish Someone Had Told Me",
-    "title_zh": "What I Wish Someone Had Told Me",
-    "source": "Sam Altman",
-    "link": "https://blog.samaltman.com/what-i-wish-someone-had-told-me",
-    "tags": [
-      "solve",
-      "leadership",
-      "startup-strategy",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "解决",
-      "领导管理",
-      "创业策略",
-      "未来预测"
-    ],
-    "date": "2023-12-21",
-    "summary_en": "This article offers a treasure trove of entrepreneurial wisdom, blending practical advice with profound insights about building and scaling ventures. The author emphasizes the importance of long-term thinking, audacious goals, and strong team dynamics as key differentiators between successful and failing startups. The focus on eliminating bureaucracy and focusing resources on high-conviction bets resonates particularly strongly, as does the reminder that inspiration is perishable and action is essential. The piece stands out for its actionable advice and the way it challenges conventional wisdom about business growth and team management.",
-    "summary_zh": "这篇文章提供了宝贵的创业智慧，结合了实用建议和关于创建与扩展企业的深刻洞察。作者强调长期思维、雄心勃勃的目标和强大的团队动力是成功企业与失败企业的关键区别。关于消除官僚主义和将资源集中在高信心赌注的建议尤为突出，同时提醒人们灵感是短暂的，行动至关重要。这篇文章因其可行性建议和对商业增长与团队管理传统智慧的挑战而脱颖而出。",
-    "best_quote_en": "It is easier for a team to do a hard thing that really matters than to do an easy thing that doesn’t really matter; audacious ideas motivate people.",
-    "best_quote_zh": "做一件真正重要的难事，比做一件不重要的容易事更容易；大胆的想法能激励人们。"
-  },
-  {
-    "id": 38,
-    "title": "Loops of DNA Equipped Ancient Life To Become Complex",
-    "title_zh": "DNA环的形成赋予古代生命复杂性",
-    "source": "Quanta Magazine",
-    "link": "https://www.quantamagazine.org/loops-of-dna-equipped-ancient-life-to-become-complex-20251008/",
-    "tags": [
-      "analyze",
-      "science",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "分析",
-      "科学研究",
-      "数据驱动"
-    ],
-    "date": "2025-10-08",
-    "summary_en": "This article explores a groundbreaking study revealing how DNA looping may have been a pivotal evolutionary innovation enabling the transition from simple unicellular organisms to complex multicellular life forms. The research highlights that cnidarians and ctenophores, among the oldest complex animals, utilize chromatin looping to regulate gene expression in sophisticated ways. This mechanism allows distant enhancers to interact with promoters, creating modular gene regulation patterns essential for cellular differentiation. The findings suggest that rather than new genes, it was innovative regulatory structures that drove the evolution of complexity. The study raises intriguing questions about the latent potential in ancestral genomes and the possibility of future evolutionary leaps through similar regulatory innovations.",
-    "summary_zh": "这篇文章探讨了一项重要研究，揭示DNA环化可能是单细胞生物向复杂多细胞生命形式过渡的关键进化创新。研究表明，作为最古老的复杂动物之一的刺细胞动物和腔肠动物，利用染色质环化以复杂方式调控基因表达。这种机制使远距离的增强子能够与启动子相互作用，创造出细胞分化所需的模块化基因调控模式。研究发现，推动复杂性进化的并非新基因，而是创新的调控结构。这一研究引发了关于祖先基因组潜在潜力以及未来通过类似调控创新可能引发新进化飞跃的有趣思考。",
-    "best_quote_en": "'At the origin of animals, there wasn't so much gene innovation. Instead, an important feature was the capacity to modularly regulate these genes in different combinations in space and time.' - Arnau Sebé-Pedrós",
-    "best_quote_zh": "“在动物起源阶段，并非基因创新特别重要，而是能够以模块化方式在空间和时间上以不同组合调控这些基因。”——阿尔瑙·塞贝-佩德罗斯"
-  },
-  {
-    "id": 39,
-    "title": "A move",
-    "title_zh": "A Move",
-    "source": "Aeon",
-    "link": "https://aeon.co/videos/in-an-act-of-resistance-elahe-forgoes-a-hijab-at-a-family-party?utm_source=rss-feed",
-    "tags": [
-      "inspire",
-      "society"
-    ],
-    "tags_zh": [
-      "启发",
-      "社会议题"
-    ],
-    "date": "2025-10-09",
-    "summary_en": "Elahe Esmaili's short documentary A Move offers a poignant exploration of cultural identity and resistance through the lens of family dynamics and societal change in Iran. By choosing not to wear a hijab during a family visit, Esmaili sparks meaningful conversations about gender, tradition, and personal freedom among younger relatives, while facing disapproval from older generations. The film draws compelling parallels between her parents' physical relocation and the shifting societal attitudes in Iran, particularly in the context of the 'Woman, Life, Freedom' movement. Esmaili's deliberate act of protest becomes a catalyst for examining the complex interplay between personal choice and cultural expectations, making the documentary a powerful commentary on the evolving nature of identity and resistance in contemporary Iran.",
-    "summary_zh": "伊拉赫·埃斯迈利的短纪录片《A Move》通过家庭关系与社会变迁的视角，深刻探讨了文化认同与抵抗。她在家庭聚会中选择不戴头巾，引发年轻一代关于性别、传统与个人自由的真诚对话，同时面临长辈的不满。影片将父母搬家与伊朗社会态度的变化巧妙关联，特别是在“妇女、生命、自由”运动背景下，伊拉赫的抗议行为成为审视个人选择与文化期望复杂互动的催化剂。这部纪录片以独特视角展现了当代伊朗身份认同与抵抗的演变。",
-    "best_quote_en": "This delicate yet deliberate act of protest dismays her mother and unsettles some older relatives, but, among the young women present, it opens up candid conversations about traditions, gender and culture.",
-    "best_quote_zh": "这种精心设计的微妙抗议行为让她的母亲感到不安，也让一些长辈感到不适，但在在场的年轻女性中，它却开启了关于传统、性别与文化的坦诚对话。"
-  },
-  {
-    "id": 40,
-    "title": "The Most-Searched Jane Austen Books",
-    "title_zh": "最受搜索的简·奥斯汀作品",
-    "source": "Mental Floss",
-    "link": "https://www.mentalfloss.com/literature/books/most-searched-jane-austen-books?utm_source=RSS",
-    "tags": [
-      "update",
-      "writing-content",
-      "society",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "动态",
-      "写作内容",
-      "社会议题",
-      "未来预测"
-    ],
-    "date": "2025-10-11",
-    "summary_en": "This article explores the enduring popularity of Jane Austen's works by analyzing Google search trends. It reveals that 'Pride and Prejudice' remains the most searched, highlighting its cultural impact through adaptations and its delayed recognition. The analysis also examines 'Emma' and 'Sense and Sensibility', showing how Austen's themes of love, social hierarchy, and personal growth continue to resonate. The piece offers insight into literary trends and the lasting influence of classic literature on modern culture.",
-    "summary_zh": "这篇文章通过分析谷歌搜索趋势，探讨了简·奥斯汀作品的持久魅力。它揭示了《傲慢与偏见》仍是最受搜索的书籍，并通过其改编作品展现其文化影响力。分析还涵盖了《爱玛》和《理智与情感》，说明奥斯汀关于爱情、社会阶层和个人成长的主题依然引人共鸣。文章为我们提供了文学趋势的见解，以及经典文学对现代文化的持久影响。",
-    "best_quote_en": "It is a truth universally acknowledged that people love Jane Austen's books.",
-    "best_quote_zh": "全世界皆知，人们都爱简·奥斯汀的书。"
-  },
-  {
     "id": 41,
     "title": "Trump, the Self-Styled “President of PEACE” Abroad, Makes War at Home",
     "title_zh": "自称海外“和平总统”的特朗普，在国内发动战争",
@@ -2372,5 +2260,123 @@
     "summary_zh": "法根鲍姆博士通过自身对卡斯尔曼病的战胜经历，揭示了药物再利用的巨大潜力。他发现许多已批准的药物可以治疗原本用途之外的疾病，这为医学领域带来了新的希望。他的研究和Every Cure数据库的工作展示了如何通过现有药物开发出治愈癌症等难治性疾病的新方法。这场对话不仅探讨了药物再利用的科学价值，还强调了心态在战胜疾病中的关键作用，为医疗创新提供了深刻的启示。",
     "best_quote_en": "We can explore novel treatments and cures to conditions the medical profession has deemed untreatable, including cancers.",
     "best_quote_zh": "我们可以探索医学界认为无法治疗的疾病的新治疗方法和治愈方案，包括癌症。"
+  },
+  {
+    "id": 136,
+    "title": "How Your Brain Creates ‘Aha’ Moments and Why They Stick",
+    "title_zh": "大脑如何创造“灵感闪现”及其为何难忘",
+    "source": "Quanta Magazine",
+    "link": "https://www.quantamagazine.org/how-your-brain-creates-aha-moments-and-why-they-stick-20251105/",
+    "tags": [
+      "analyze",
+      "science",
+      "education",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "分析",
+      "科学研究",
+      "教育学习",
+      "数据驱动"
+    ],
+    "date": "2025-11-05",
+    "summary_en": "This article explores the neuroscience behind 'aha' moments, revealing how sudden insights are generated in the brain and why they create lasting memories. Researchers used Mooney images to trigger representational change in participants' brains, observing increased activity in the ventral occipitotemporal cortex, amygdala, and hippocampus. The study found that insightful experiences lead to better memory retention, though not necessarily accurate solutions. The findings suggest potential educational applications for enhancing learning through insight-based teaching methods. The article also discusses the complex relationship between insight and creativity, noting that context matters in how insights manifest.",
+    "summary_zh": "这篇文章探讨了大脑如何产生“灵感闪现”以及这些瞬间为何难以忘怀。研究人员使用Mooney图像诱导参与者大脑的表征变化，发现这种现象会激活视觉皮层、杏仁核和海马体。研究表明，洞察力体验能增强记忆保持，但并不意味着解决方案一定正确。这些发现为通过洞察式教学提升学习效果提供了可能性。文章还讨论了洞察与创造力之间复杂关系，指出上下文在洞察表现中起关键作用。",
+    "best_quote_en": "A really big creative idea is [often] associated with insight because a creative idea is in some way a leap in your cognitive world, and a leap will often elicit an insight or 'aha' feeling.",
+    "best_quote_zh": "一个真正重要的创意往往与洞察相关，因为创意在某种程度上是你认知世界中的一次飞跃，而这种飞跃常会引发洞察或'灵感闪现'的感觉。"
+  },
+  {
+    "id": 137,
+    "title": "Voices of Myanmar",
+    "title_zh": "缅甸的声音",
+    "source": "Aeon",
+    "link": "https://aeon.co/videos/a-glimpse-of-daily-life-for-people-in-isolated-war-torn-myanmar?utm_source=rss-feed",
+    "tags": [
+      "analyze",
+      "science",
+      "politics",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "分析",
+      "科学研究",
+      "政治时事",
+      "数据驱动"
+    ],
+    "date": "2025-11-06",
+    "summary_en": "The documentary 'Voices of Myanmar' offers a poignant exploration of a nation caught between hope and despair. While Myanmar's brief democratic experiment under Aung San Suu Kyi was flawed, particularly regarding the Rohingya crisis, it represented a fragile but preferred alternative to the current military regime's oppression. The interviews reveal how ordinary citizens navigate political instability, economic turmoil, and cultural shifts. What's most striking is the resilience and optimism that persists among the interviewees despite their hardships, suggesting that hope for Myanmar's future remains alive even in the face of overwhelming challenges.",
+    "summary_zh": "纪录片《缅甸的声音》揭示了一个在希望与绝望之间挣扎的国家。虽然昂山素季领导下的民主实验因罗兴亚危机而受到质疑，但它仍比军政府的压迫更为人们所向往。采访中，普通民众讲述了如何应对政治动荡、经济危机和文化变迁。最令人动容的是，尽管生活艰难，受访者们仍保持着对未来的乐观，展现了缅甸人民的韧性和希望。",
+    "best_quote_en": "The country’s brief era of fragile democracy was far preferable to the bloodshed, corruption and economic crises that now engulf it.",
+    "best_quote_zh": "短暂的脆弱民主时期远比现在的流血、腐败和经济危机更为可取。"
+  },
+  {
+    "id": 138,
+    "title": "The Old Farmer’s Almanac’s Thanksgiving Forecast Is Out—These Locations Better Dress Warm",
+    "title_zh": "老农历书发布感恩节预测：这些地区需做好保暖准备",
+    "source": "Mental Floss",
+    "link": "https://www.mentalfloss.com/science/weather/old-farmer-almanac-thanksgiving-forecast-dress-warm?utm_source=RSS",
+    "tags": [
+      "update",
+      "lifestyle",
+      "science",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "动态",
+      "生活方式",
+      "科学研究",
+      "未来预测"
+    ],
+    "date": "2025-11-06",
+    "summary_en": "The Old Farmer's Almanac's 2025 Thanksgiving forecast offers a diverse weather outlook across the U.S., highlighting significant regional variations. While the South enjoys warm, sunny conditions perfect for outdoor activities, the Northeast and Midwest face potential snow, and the West braces for rain. This analysis reveals not just weather patterns but also the enduring cultural relevance of this historic publication. The Almanac's unique forecasting method blending science and tradition provides valuable long-range insights, though not as precise as local forecasts. The content serves as both a practical travel guide and a cultural commentary on American holiday traditions, demonstrating how weather impacts our seasonal rituals.",
+    "summary_zh": "老农历书的2025感恩节预测揭示了美国各地多样的天气格局。南部地区阳光明媚适合户外活动，而东北和中西部可能迎来降雪，西部则将面临雨天。这不仅是天气分析，更反映了这一历史悠久出版物的持续文化价值。其独特的预测方法结合了科学与传统，为长期天气趋势提供有价值的见解。内容既是实用的旅行指南，也是对美国节日传统的文化评论，展示了天气如何影响我们的季节性仪式。",
+    "best_quote_en": "So wherever you're spending the holiday, make sure to bundle up and give thanks for woolly socks!",
+    "best_quote_zh": "无论你在哪里过节，记得多穿点衣服，感谢有暖和的袜子！"
+  },
+  {
+    "id": 139,
+    "title": "Willpower is exhausting, use content blockers",
+    "title_zh": "意志力消耗很大，使用内容阻断器",
+    "source": "LessWrong",
+    "link": "https://www.lesswrong.com/posts/w39LsdhGFvTQmgBAQ/willpower-is-exhausting-use-content-blockers",
+    "tags": [
+      "solve",
+      "lifestyle",
+      "writing-content",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "解决",
+      "生活方式",
+      "写作内容",
+      "未来预测"
+    ],
+    "date": "2025-11-07",
+    "summary_en": "This article tackles the challenge of digital addiction through practical strategies, emphasizing the limitations of willpower and advocating for content blockers as more sustainable solutions. The author shares personal experiences with various tools like Freedom, uBlock Origin, and Brick, offering specific use cases and configurations. The piece highlights the importance of gradual implementation and customization to avoid frustration and maintain long-term effectiveness. It serves as both a practical guide and a thought-provoking discussion on digital wellness, blending actionable advice with broader reflections on technology's impact on attention and productivity.",
+    "summary_zh": "这篇文章探讨了数字成瘾的挑战，并通过实际策略解决。作者强调意志力的局限性，主张使用内容阻断器作为更可持续的解决方案。分享了对Freedom、uBlock Origin和Brick等工具的个人经验，提供了具体的使用场景和配置建议。文章突出了逐步实施和定制化的重要性，以避免挫败感并保持长期有效性。既是实用指南，也是关于数字健康的深入思考，将可操作的建议与对科技影响注意力和生产力的更广泛反思结合。",
+    "best_quote_en": "Every website and app is designed to maximize the amount of time you spend on it, and that is not to your benefit.",
+    "best_quote_zh": "每个网站和应用程序都是为了最大化你在上面花费的时间而设计的，而这对你并没有益处。"
+  },
+  {
+    "id": 140,
+    "title": "America Begins Clapping Back at Donald Trump",
+    "title_zh": "美国开始对特朗普反击",
+    "source": "The New Yorker",
+    "link": "https://www.newyorker.com/news/letter-from-trumps-washington/america-begins-clapping-back-at-donald-trump",
+    "tags": [
+      "update",
+      "politics",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "动态",
+      "政治时事",
+      "未来预测"
+    ],
+    "date": "2025-11-06",
+    "summary_en": "This article explores the political backlash against Donald Trump following recent election results. It highlights Trump's controversial actions, including a lavish party during a government shutdown and freezing funding for critical infrastructure projects. The analysis suggests that voter dissatisfaction with Trump's leadership contributed to significant Democratic wins, though the broader implications remain uncertain. The piece also reflects on generational shifts in American politics, noting the rise of new Democratic leaders like Zohran Mamdani and the fading influence of older figures like Dick Cheney and Nancy Pelosi. The author posits that these changes signal a potential turning point in Trump's political future.",
+    "summary_zh": "文章分析了美国近期选举结果中对特朗普的政治反击。特朗普在政府停摆期间举办奢华派对并冻结关键基建资金的争议行为成为焦点。分析认为，选民对特朗普领导力的不满推动了民主党的大胜，但这一趋势的长期影响尚不明确。文中还探讨了美国政治中的世代更迭，新兴民主党领袖如Zohran Mamdani的崛起与老一辈政治人物如迪克·切尼和南希·佩洛西影响力的减弱。作者认为这些变化预示着特朗普政治前景的潜在转折点。",
+    "best_quote_en": "The retirement of Nancy Pelosi is a great thing for America. She is evil, corrupt, and highly overrated.",
+    "best_quote_zh": "南希·佩洛西的退休对美国来说是件好事。她是邪恶的、腐败的，而且被高估了。"
   }
 ]
