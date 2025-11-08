@@ -1,123 +1,5 @@
 [
   {
-    "id": 41,
-    "title": "Trump, the Self-Styled “President of PEACE” Abroad, Makes War at Home",
-    "title_zh": "自称海外“和平总统”的特朗普，在国内发动战争",
-    "source": "The New Yorker",
-    "link": "https://www.newyorker.com/news/letter-from-trumps-washington/trump-the-self-styled-president-of-peace-abroad-makes-war-at-home",
-    "tags": [
-      "update",
-      "politics",
-      "legal",
-      "controversial"
-    ],
-    "tags_zh": [
-      "动态",
-      "政治时事",
-      "法律法规",
-      "争议观点"
-    ],
-    "date": "2025-10-09",
-    "summary_en": "This article explores the stark contrast between Trump's self-proclaimed role as a global peacemaker and his aggressive domestic policies. While he claims to have ended multiple international conflicts, many of these claims are dubious or exaggerated. The recent Gaza ceasefire agreement, though praised by some, is portrayed as more of a political maneuver than a lasting peace deal. Meanwhile, Trump's rhetoric against American cities and potential use of military force against domestic opponents reveal a troubling authoritarian streak. The piece highlights the cognitive dissonance between Trump's international peace efforts and his domestic war-like posture, questioning the sincerity of his peace-making claims while exposing his internal political battles.",
-    "summary_zh": "文章揭示了特朗普在国际和平斡旋与国内强硬政策之间的鲜明对比。他声称结束多场国际冲突，但许多说法存在夸大或不实之处。尽管加沙停火协议受到部分赞誉，实则更像政治操作而非持久和平。同时，他对美国城市的战争修辞和可能动用军队的举动暴露出令人担忧的权力倾向。分析揭示了特朗普在国际和平与国内战斗姿态之间的认知失调，质疑其和平使命的真诚性，同时揭露其内部政治斗争。",
-    "best_quote_en": "Those groups of academics and élites that are sitting in Norway, that board of people that decides it, they need to give President Trump the Nobel Peace Prize",
-    "best_quote_zh": "那些坐在挪威的学者和精英，那些决定的人，他们需要把诺贝尔和平奖授予特朗普总统"
-  },
-  {
-    "id": 42,
-    "title": "Gar’s Tips & Tools – Issue #205",
-    "title_zh": "Gar’s Tips & Tools – 第205期",
-    "source": "Kevin Kelly",
-    "link": "https://kk.org/cooltools/gars-tips-tools-issue-205/",
-    "tags": [
-      "solve",
-      "programming",
-      "cybersecurity",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "解决",
-      "编程开发",
-      "网络安全",
-      "未来预测"
-    ],
-    "date": "2025-10-10",
-    "summary_en": "This issue of Gar’s Tips & Tools offers a delightful mix of practical DIY solutions and curious observations. The standout is the guide to building a desktop spray booth using affordable materials, emphasizing safety with explosion-proof components. The $17 cordless rotary tool review is a gem for hobbyists, highlighting its niche usefulness despite limitations. Carpenter’s pencil pro tips reveal unexpected versatility, while Becky Stern’s beginner-friendly guide to benchtop power supplies is both educational and practical. The whimsical discussion on battery rolling adds charm, showing how small pleasures can enhance everyday life. The shop talk section demonstrates the community aspect of the newsletter, with reader testimonials adding authenticity. Overall, this issue blends technical expertise with personal anecdotes, making complex topics accessible and engaging.",
-    "summary_zh": "本期《Gar’s Tips & Tools》结合了实用DIY方案和有趣观察。自制喷漆工作台指南突出安全性，使用爆炸 proof组件。17美元无线旋转工具评测对爱好者很实用，尽管有局限性。木工铅笔专业技巧揭示了意想不到的多功能性，而贝琪·斯特恩关于实验台电源的入门指南既教育性又实用。关于电池滚动的轻松讨论增添了魅力，展示了如何让日常小事变得有趣。工作室讨论部分展示了新闻通讯的社区属性，读者反馈增添了真实性。整体而言，这期内容将技术专业知识与个人轶事相结合，使复杂话题变得易于理解和吸引人。",
-    "best_quote_en": "The beauty of using a fan like the Mounto is that it is guaranteed explosion-proof. Sparks are not your friend here, so you want to make sure you use a brushless-motor.",
-    "best_quote_zh": "使用Mounto风扇的优点在于它确保防爆。火花在这里不是你的朋友，所以你要确保使用无刷电机。"
-  },
-  {
-    "id": 43,
-    "title": "This Cozy Cold-Weather Appliance Is Secretly Harming Your Health",
-    "title_zh": "这种舒适的寒冷天气设备正在悄悄地损害您的健康",
-    "source": "Mental Floss",
-    "link": "https://www.mentalfloss.com/science/health/wood-smoke-health-hazards?utm_source=RSS",
-    "tags": [
-      "solve",
-      "medicine",
-      "ai-research"
-    ],
-    "tags_zh": [
-      "解决",
-      "医学健康",
-      "AI研究"
-    ],
-    "date": "2025-10-12",
-    "summary_en": "This article unveils the hidden health risks associated with wood-burning stoves and fireplaces, challenging the nostalgic comfort they evoke. It highlights the dangers of PM2.5 particles and toxic gases released during wood burning, linking them to various health issues, including respiratory problems, heart disease, and even cancer. The piece emphasizes the vulnerability of children, older adults, and individuals with pre-existing conditions, while also cautioning healthy individuals about potential symptoms. It offers practical solutions for safer wood burning, such as using dry, seasoned wood, maintaining chimneys, and ensuring proper ventilation. The article further suggests considering alternative heating options like pellet stoves, electric fireplaces, or gas inserts to eliminate smoke and promote better health and environmental outcomes. The piece encourages readers to be mindful of the impact of their heating choices on both personal and community well-being.",
-    "summary_zh": "本文揭示了燃木火炉和壁炉隐藏的健康风险，挑战了它们引起的怀旧舒适感。文章强调了燃木过程中释放的PM2.5颗粒和有毒气体的危害，并将它们与各种健康问题联系起来，包括呼吸道问题、心脏病甚至癌症。文章强调了儿童、老年人和已有疾病的人的脆弱性，同时也提醒健康个体注意潜在的症状。文章为更安全的燃木提供了实用的解决方案，例如使用干燥、风干的木材、维护烟囱和确保适当的通风。文章还建议考虑使用颗粒炉、电壁炉或燃气插件等替代加热选项，以消除烟雾并促进更好的健康和环境结果。文章鼓励读者注意他们的供暖选择对个人和社区福祉的影响。",
-    "best_quote_en": "That’s why doctors and researchers are increasingly warning that ânaturalâ doesnât mean safe.",
-    "best_quote_zh": "这就是为什么医生和研究人员越来越警告说，“自然”并不意味着安全。"
-  },
-  {
-    "id": 44,
-    "title": "Researchers Discover the Optimal Way To Optimize",
-    "title_zh": "研究人员发现最优化方法的最佳优化方式",
-    "source": "Quanta Magazine",
-    "link": "https://www.quantamagazine.org/researchers-discover-the-optimal-way-to-optimize-20251013/",
-    "tags": [
-      "solve",
-      "ai-research",
-      "science",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "解决",
-      "AI研究",
-      "科学研究",
-      "数据驱动"
-    ],
-    "date": "2025-10-13",
-    "summary_en": "This article explores a significant advancement in the simplex method, a fundamental algorithm for solving complex optimization problems. Researchers Sophie Huiberts and Eleon Bach have improved the method's efficiency and resolved long-standing theoretical concerns about its worst-case performance. Their work builds on a 2001 breakthrough by Daniel Spielman and Shang-Hua Teng, demonstrating that the simplex method can avoid exponential runtimes in practice. The research provides a deeper understanding of the algorithm's practical efficiency, though it doesn't yet achieve linear scaling with constraints. While primarily theoretical, this work offers stronger mathematical support for the simplex method's reliability in real-world applications.",
-    "summary_zh": "这篇文章探讨了在解决复杂优化问题的单纯形方法中的重要进展。研究人员索菲·海伯特和埃莱昂·巴赫改进了该方法的效率，并解决了长期以来关于其最坏情况性能的理论担忧。他们的工作基于丹尼尔·施皮尔曼和尚华腾2001年的突破，证明单纯形方法在实际中可以避免指数级运行时间。该研究为算法的实用效率提供了更深入的理解，尽管尚未实现与约束的线性缩放。尽管主要是理论性的，但这项工作为单纯形方法在现实应用中的可靠性提供了更强的数学支持。",
-    "best_quote_en": "It has always run fast, and nobody’s seen it not be fast",
-    "best_quote_zh": "它一直运行得很快，从未有人见过它不快"
-  },
-  {
-    "id": 45,
-    "title": "Do no harm",
-    "title_zh": "Do No Harm",
-    "source": "Aeon",
-    "link": "https://aeon.co/videos/after-17-years-of-addiction-raina-finds-a-lifeline-in-compassion?utm_source=rss-feed",
-    "tags": [
-      "solve",
-      "science",
-      "psychology",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "解决",
-      "科学研究",
-      "心理学",
-      "数据驱动"
-    ],
-    "date": "2025-10-13",
-    "summary_en": "This documentary tells the poignant story of Raina's 17-year battle with heroin addiction and her path to recovery through compassionate medical care. The film is part of 'The Opioid Trilogy,' which humanizes the often statistics-driven narrative of the US opioid crisis. Through a blend of live-action and rotoscope animation, director Joanna Rudnick captures Raina's journey with sensitivity and artistic depth. The piece highlights how unconditional support can be transformative in overcoming addiction, offering both a personal narrative and broader commentary on systemic healthcare failures.",
-    "summary_zh": "这部纪录片讲述了雷娜与海洛因成瘾17年的抗争以及通过医疗团队的无条件支持走向康复的故事。作为《阿片类药物三部曲》的第二部，它为常被数据化的美国阿片类药物危机赋予了鲜活的面孔。导演乔安娜·鲁德尼克通过真人镜头与轮廓动画的结合，以同理心和艺术性呈现了雷娜的历程，凸显了医疗支持在战胜成瘾中的关键作用。",
-    "best_quote_en": "The unconditional support of one physician gives her the space she needs to heal.",
-    "best_quote_zh": "一位医生的无条件支持为她提供了治愈所需的空间。"
-  },
-  {
     "id": 46,
     "title": "Why Did We Ever Carpet Bathrooms?",
     "title_zh": "我们为什么曾经铺设浴室地毯？",
@@ -2378,5 +2260,123 @@
     "summary_zh": "文章分析了美国近期选举结果中对特朗普的政治反击。特朗普在政府停摆期间举办奢华派对并冻结关键基建资金的争议行为成为焦点。分析认为，选民对特朗普领导力的不满推动了民主党的大胜，但这一趋势的长期影响尚不明确。文中还探讨了美国政治中的世代更迭，新兴民主党领袖如Zohran Mamdani的崛起与老一辈政治人物如迪克·切尼和南希·佩洛西影响力的减弱。作者认为这些变化预示着特朗普政治前景的潜在转折点。",
     "best_quote_en": "The retirement of Nancy Pelosi is a great thing for America. She is evil, corrupt, and highly overrated.",
     "best_quote_zh": "南希·佩洛西的退休对美国来说是件好事。她是邪恶的、腐败的，而且被高估了。"
+  },
+  {
+    "id": 141,
+    "title": "Physicists Take the Imaginary Numbers Out of Quantum Mechanics",
+    "title_zh": "物理学家将虚数从量子力学中移除",
+    "source": "Quanta Magazine",
+    "link": "https://www.quantamagazine.org/physicists-take-the-imaginary-numbers-out-of-quantum-mechanics-20251107/",
+    "tags": [
+      "analyze",
+      "science",
+      "ai-research",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "分析",
+      "科学研究",
+      "AI研究",
+      "数据驱动"
+    ],
+    "date": "2025-11-07",
+    "summary_en": "This article explores a significant development in quantum mechanics where physicists have successfully reformulated the theory using only real numbers, eliminating the need for imaginary numbers. The discovery challenges the long-held belief that complex numbers are essential to quantum theory, offering a real-valued alternative that maintains equivalent mathematical rigor. The article traces the historical context, from Schrödinger's original equations to recent experiments, and discusses the philosophical implications of this shift. It raises profound questions about the nature of reality and the mathematical foundations of physics, suggesting that while complex numbers may not be strictly necessary, they offer a more elegant and natural framework for describing quantum phenomena.",
+    "summary_zh": "这篇文章探讨了量子力学领域的重大突破，物理学家成功用实数重新表述了量子理论，消除了虚数的必要性。这一发现挑战了复数在量子理论中的核心地位，提出了等效的实数理论。文章回顾了从薛定谔方程到近期实验的历史背景，并探讨了这一转变的哲学意义。它提出了关于现实本质和物理学数学基础的深刻问题，表明复数虽非必需，但为描述量子现象提供了更优雅自然的框架。",
+    "best_quote_en": "Complex numbers are just two real numbers with some calculation rules. Why shouldn’t you be able to describe quantum mechanics just using real numbers?",
+    "best_quote_zh": "复数只是两个实数加上一些计算规则。为什么不能仅用实数来描述量子力学？"
+  },
+  {
+    "id": 142,
+    "title": "Mapping Bob Dylan’s mind",
+    "title_zh": "解读鲍勃·迪伦的思维",
+    "source": "Aeon",
+    "link": "https://aeon.co/essays/can-ai-tell-us-anything-meaningful-about-bob-dylans-songs?utm_source=rss-feed",
+    "tags": [
+      "analyze",
+      "science",
+      "ai-research",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "分析",
+      "科学研究",
+      "AI研究",
+      "数据驱动"
+    ],
+    "date": "2025-11-07",
+    "summary_en": "This article explores the fascinating intersection of art and AI by analyzing Bob Dylan's lyrics through machine learning techniques. By treating Dylan's six-decade body of work as a dataset, the author uses large language models to map the evolution of themes, metaphors, and emotional tones across his career. The analysis reveals compelling patterns: Dylan's increasing use of metaphor over time, the shifting emotional landscapes of his songs, and how his personal and cultural experiences influenced his lyrics. The study demonstrates how AI can complement human interpretation by providing a macroscopic view of artistic evolution, identifying trends that might otherwise go unnoticed. It's a testament to how technology can enrich our understanding of creative works without diminishing their emotional resonance.",
+    "summary_zh": "这篇文章通过人工智能技术分析鲍勃·迪伦的歌词，展现了艺术与科技交融的独特视角。作者将迪伦六十年的作品视为数据集，用大型语言模型绘制其主题、比喻和情感演变的网络图谱。分析揭示了引人深思的模式：迪伦比喻使用的增加，歌曲情感基调的转变，以及个人经历与文化背景如何塑造他的歌词。这种方法证明了AI如何辅助人类理解艺术创作，通过宏观视角发现隐藏的趋势，丰富而非削弱艺术的情感共鸣。",
+    "best_quote_en": "'A complete unknown' is a fitting epithet for an unpredictable artist like Dylan.",
+    "best_quote_zh": "“完全陌生者”这一称号非常适合描述像迪伦这样的不可预测的艺术家。"
+  },
+  {
+    "id": 143,
+    "title": "Anthropic & Dario’s dream",
+    "title_zh": "人类学与达里奥的梦想",
+    "source": "LessWrong",
+    "link": "https://www.lesswrong.com/posts/axDdnzckDqSjmpitu/anthropic-and-dario-s-dream",
+    "tags": [
+      "solve",
+      "science",
+      "design",
+      "controversial"
+    ],
+    "tags_zh": [
+      "解决",
+      "科学研究",
+      "设计创意",
+      "争议观点"
+    ],
+    "date": "2025-11-08",
+    "summary_en": "The article critically examines Anthropic's approach to AI safety, arguing that their methods of gradual development, evaluations, and interpretability are insufficient for achieving safe superintelligence. The author contends that these methods only identify problems without providing solutions, and that the transition to a dangerous AI regime requires foolproof methods that work on the first try. The piece also discusses the dangerous counter-narrative Anthropic creates, which, while seemingly credible, could mislead policymakers and accelerate AI development without adequate safety measures. The author expresses concern that Anthropic's work might push problems under the rug rather than lead to a meaningful pause in AI development.",
+    "summary_zh": "文章批判性地分析了Anthropic的AI安全方法，认为其渐进发展、评估和可解释性等手段无法实现安全超级智能。作者指出这些方法只能识别问题而非解决问题，过渡到危险的AI时代需要一次性奏效的万无一失的方法。文章还讨论了Anthropic制造的危险反叙事，虽然看似可信，却可能误导政策制定者并加速AI发展。作者担忧Anthropic的工作可能掩盖问题而非推动AI发展暂停。",
+    "best_quote_en": "In reality, it will be very difficult to convince a very capable system that it is really in charge of running a mining operation where it has to make decisions that test its moral judgment.",
+    "best_quote_zh": "现实中，要说服一个非常有能力的系统它确实负责运行一个矿业运营，需要做出测试其道德判断的决定，这将非常困难。"
+  },
+  {
+    "id": 144,
+    "title": "Rebels Post Videos of Mass Killings in Darfur as the World Watches",
+    "title_zh": "叛军在达尔富尔发布大规模杀戮视频 世界袖手旁观",
+    "source": "The New Yorker",
+    "link": "https://www.newyorker.com/news/the-lede/the-fall-of-el-fasher",
+    "tags": [
+      "solve",
+      "politics",
+      "society",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "解决",
+      "政治时事",
+      "社会议题",
+      "数据驱动"
+    ],
+    "date": "2025-11-07",
+    "summary_en": "This harrowing report exposes the systematic atrocities committed by the Rapid Support Forces (RSF) in Sudan's Darfur region, particularly following their capture of El Fasher. The article reveals disturbing social media videos posted by RSF fighters, including executions of prisoners and mass killings. Satellite imagery analysis suggests tens of thousands may have been killed in just five days. The piece highlights the RSF's history of ethnic targeting, the international community's inadequate response, and the complicity of foreign powers like the UAE in arming the militia. The reporting underscores the urgent need for global intervention to prevent further genocide and holds Western powers accountable for their inaction.",
+    "summary_zh": "这篇令人心碎的报道揭露了苏丹达尔富尔地区快速支援部队（RSF）犯下的系统性暴行，尤其是在占领埃尔法谢尔后。文章展示了RSF战士发布的令人毛骨悚然的社交媒体视频，包括对俘虏的处决和大规模杀戮。卫星影像分析显示，五天内可能有数万人被杀害。报道强调了RSF对特定族群的针对性暴力，国际社会的无作为，以及阿联酋等外国势力向民兵提供武器的参与。报道凸显了全球干预的迫切性，以防止进一步的种族灭绝，并要求西方国家对其不作为负责。",
+    "best_quote_en": "The world has just stood there watching, not taking any concrete action.",
+    "best_quote_zh": "世界一直在旁边看着，却没有采取任何具体行动。"
+  },
+  {
+    "id": 145,
+    "title": "Better Travel Pillow/Set Jetting/Top Expat Countries",
+    "title_zh": "更好的旅行枕头/集锦旅行/亚洲最佳侨居国",
+    "source": "Kevin Kelly",
+    "link": "https://kk.org/cooltools/better-travel-pillow-set-jetting-top-expat-countries/",
+    "tags": [
+      "analyze",
+      "science",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "分析",
+      "科学研究",
+      "数据驱动"
+    ],
+    "date": "2025-11-06",
+    "summary_en": "This newsletter offers practical travel insights and trends, blending personal experience with data-driven research. The review of an inflatable travel pillow highlights its versatility and problem-solving design, addressing common discomfort issues during flights. The pre-packed toiletry kit strategy demonstrates efficient packing habits for frequent travelers. The data-backed travel trends section reveals emerging destinations and travel behaviors, like 'set jetting,' showing how pop culture influences travel choices. The expat survey results highlight Asia's growing appeal, particularly for convenience and community. The content balances personal anecdotes with broader industry trends, offering both actionable advice and thought-provoking observations about modern travel patterns.",
+    "summary_zh": "这封新闻稿结合了个人经验与数据研究，提供实用的旅行见解。对充气旅行枕头的评测突出了其多功能性和解决飞行不适的设计。预装 toiletry kit 的策略展示了频繁旅行者的高效打包习惯。基于数据的旅行趋势部分揭示了新兴目的地和旅行行为，如“集锦旅行”，展示了流行文化如何影响旅行选择。侨民调查结果凸显了亚洲日益增长的吸引力，尤其是便利性和社区。内容平衡了个人轶事与行业趋势，提供了实用建议和关于现代旅行模式的深刻观察。",
+    "best_quote_en": "'Convenience is a recurring theme, with expats across China raving about fast public transportation to efficient online shopping.'",
+    "best_quote_zh": "“便利是一个反复出现的主题，中国各地的侨民对快速公共交通和高效的在线购物赞不绝口。”"
   }
 ]
