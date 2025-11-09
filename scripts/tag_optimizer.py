@@ -16,42 +16,63 @@ from typing import List, Tuple
 # 导入新的智能标签生成器
 from smart_tag_generator import SmartTagGenerator, TagResult
 
+
+def flatten_tags(tags):
+    """展平嵌套标签并转换为字符串列表"""
+    flat = []
+    if isinstance(tags, list):
+        for t in tags:
+            if isinstance(t, list):
+                flat.extend(flatten_tags(t))
+            elif isinstance(t, str):
+                flat.append(t.strip())
+            elif isinstance(t, (int, float)):
+                flat.append(str(t))
+            # 忽略 None 或其他类型
+    elif isinstance(tags, str):
+        flat.append(tags.strip())
+    return [t for t in flat if t]  # 去除空字符串
+
+
 class TagOptimizer:
     """标签优化器"""
-    
+
     def __init__(self, scripts_dir: str = "scripts"):
         self.scripts_dir = scripts_dir
         self.smart_generator = SmartTagGenerator(scripts_dir)
         print(f"[TagOptimizer] Initialized with new smart tagging system")
-    
-    def optimize_tags(self, llm_tags_en: List[str], llm_tags_zh: List[str], 
-                     title: str, content: str, url: str, source_name: str = "") -> Tuple[List[str], List[str]]:
+
+    def optimize_tags(
+        self,
+        llm_tags_en: List[str],
+        llm_tags_zh: List[str],
+        title: str,
+        content: str,
+        url: str,
+        source_name: str = ""
+    ) -> Tuple[List[str], List[str]]:
         """
         优化标签的主要接口方法
-        
+
         保持与原有系统的兼容性，但内部使用全新的智能标签生成逻辑
-        
-        Args:
-            llm_tags_en: LLM生成的英文标签（现在主要用作参考）
-            llm_tags_zh: LLM生成的中文标签（现在主要用作参考）
-            title: 文章标题
-            content: 文章内容摘要
-            url: 文章URL
-            source_name: 来源名称
-            
-        Returns:
-            Tuple[List[str], List[str]]: (优化后的英文标签, 优化后的中文标签)
         """
+
         try:
             print(f"[TagOptimizer] Processing: {title[:50]}...")
             print(f"[TagOptimizer] Original LLM tags EN: {llm_tags_en}")
             print(f"[TagOptimizer] Original LLM tags ZH: {llm_tags_zh}")
-            
+
+            # ✅ 先展平输入，防止传入嵌套列表或非字符串
+            llm_tags_en = flatten_tags(llm_tags_en)
+            llm_tags_zh = flatten_tags(llm_tags_zh)
+
+            print(f"[TagOptimizer] Cleaned LLM tags EN: {llm_tags_en}")
+            print(f"[TagOptimizer] Cleaned LLM tags ZH: {llm_tags_zh}")
+
             # 使用智能标签生成器生成新标签
-            # 将LLM标签作为额外的内容信息传入
             llm_context = f"LLM suggested tags: {', '.join(llm_tags_en + llm_tags_zh)}"
             enhanced_content = f"{content} {llm_context}"
-            
+
             result = self.smart_generator.generate_tags(
                 title=title,
                 summary_en=enhanced_content,
@@ -59,43 +80,46 @@ class TagOptimizer:
                 url=url,
                 source=source_name
             )
-            
+
             print(f"[TagOptimizer] Smart tags generated: {result.tags}")
             print(f"[TagOptimizer] Confidence: {result.confidence:.2f}")
             print(f"[TagOptimizer] Reasoning: {result.reasoning}")
-            
+
+            # ✅ 再展平智能生成结果（确保输出一维）
+            tags_en = flatten_tags(result.tags)
+            tags_zh = flatten_tags(result.tags_zh)
+
             # 如果置信度太低，回退到LLM标签
             if result.confidence < 0.4:
                 print(f"[TagOptimizer] Low confidence, falling back to LLM tags")
-                fallback_tags_en = llm_tags_en[:2] if llm_tags_en else ['general']
-                fallback_tags_zh = llm_tags_zh[:2] if llm_tags_zh else ['综合']
+                fallback_tags_en = llm_tags_en[:2] if llm_tags_en else ["general"]
+                fallback_tags_zh = llm_tags_zh[:2] if llm_tags_zh else ["综合"]
                 return fallback_tags_en, fallback_tags_zh
-            
-            return result.tags, result.tags_zh
-            
+
+            return tags_en, tags_zh
+
         except Exception as e:
             print(f"[TagOptimizer] Error in tag optimization: {e}")
             print(f"[TagOptimizer] Falling back to original LLM tags")
-            
-            # 出错时返回原始LLM标签（截断到2个）
-            fallback_tags_en = llm_tags_en[:2] if llm_tags_en else ['general']
-            fallback_tags_zh = llm_tags_zh[:2] if llm_tags_zh else ['综合']
+
+            fallback_tags_en = flatten_tags(llm_tags_en[:2] if llm_tags_en else ["general"])
+            fallback_tags_zh = flatten_tags(llm_tags_zh[:2] if llm_tags_zh else ["综合"])
             return fallback_tags_en, fallback_tags_zh
-    
+
     def get_tag_statistics(self) -> dict:
         """获取标签统计信息"""
         stats = {
-            'value_types': len(self.smart_generator.value_types),
-            'domain_themes': len(self.smart_generator.domain_themes),
-            'feature_tags': len(self.smart_generator.feature_tags),
-            'total_possible_tags': (
-                len(self.smart_generator.value_types) + 
-                len(self.smart_generator.domain_themes) + 
-                len(self.smart_generator.feature_tags)
-            )
+            "value_types": len(self.smart_generator.value_types),
+            "domain_themes": len(self.smart_generator.domain_themes),
+            "feature_tags": len(self.smart_generator.feature_tags),
+            "total_possible_tags": (
+                len(self.smart_generator.value_types)
+                + len(self.smart_generator.domain_themes)
+                + len(self.smart_generator.feature_tags)
+            ),
         }
         return stats
-    
+
     def explain_tag_system(self) -> str:
         """解释新标签系统的工作原理"""
         explanation = """
@@ -124,71 +148,69 @@ class TagOptimizer:
         """
         return explanation
 
+
 # 向后兼容性：保持原有的导入方式
-def optimize_tags(llm_tags_en: List[str], llm_tags_zh: List[str], 
-                 title: str, content: str, url: str, source_name: str = "") -> Tuple[List[str], List[str]]:
+def optimize_tags(
+    llm_tags_en: List[str],
+    llm_tags_zh: List[str],
+    title: str,
+    content: str,
+    url: str,
+    source_name: str = ""
+) -> Tuple[List[str], List[str]]:
     """向后兼容的函数接口"""
     optimizer = TagOptimizer()
     return optimizer.optimize_tags(llm_tags_en, llm_tags_zh, title, content, url, source_name)
 
+
 # 测试和演示
 if __name__ == "__main__":
     print("=== 新一代标签优化器测试 ===")
-    
+
     optimizer = TagOptimizer()
-    
-    # 显示系统信息
+
     print("\n=== 系统信息 ===")
     stats = optimizer.get_tag_statistics()
     print(f"可用标签类型: {stats}")
-    
+
     print("\n=== 系统说明 ===")
     print(optimizer.explain_tag_system())
-    
-    # 测试标签生成
+
     print("\n=== 测试标签生成 ===")
-    
+
     test_cases = [
         {
-            'title': 'The Gentle Singularity',
-            'content': 'This article explores the accelerating march towards artificial superintelligence, framing it not as a sudden cataclysm but a "gentle singularity"',
-            'url': 'https://blog.samaltman.com/the-gentle-singularity',
-            'source': 'Sam Altman',
-            'llm_tags_en': ['ai', 'future'],
-            'llm_tags_zh': ['人工智能', '未来']
+            "title": "The Gentle Singularity",
+            "content": "This article explores the accelerating march towards artificial superintelligence, framing it not as a sudden cataclysm but a 'gentle singularity'",
+            "url": "https://blog.samaltman.com/the-gentle-singularity",
+            "source": "Sam Altman",
+            "llm_tags_en": [["ai", "future"], ["AGI"]],
+            "llm_tags_zh": [["人工智能", "未来"], ["超级智能"]],
         },
         {
-            'title': 'How to Build a Startup',
-            'content': 'A comprehensive guide to building a successful startup from idea to IPO, covering product development, fundraising, and scaling.',
-            'url': 'https://paulgraham.com/start.html',
-            'source': 'Paul Graham',
-            'llm_tags_en': ['startup', 'business'],
-            'llm_tags_zh': ['创业', '商业']
+            "title": "How to Build a Startup",
+            "content": "A comprehensive guide to building a successful startup from idea to IPO, covering product development, fundraising, and scaling.",
+            "url": "https://paulgraham.com/start.html",
+            "source": "Paul Graham",
+            "llm_tags_en": ["startup", "business"],
+            "llm_tags_zh": ["创业", "商业"],
         },
-        {
-            'title': 'React 19 Released',
-            'content': 'Facebook announces the release of React 19 with new features including concurrent rendering and improved performance.',
-            'url': 'https://react.dev/blog/react-19',
-            'source': 'React Team',
-            'llm_tags_en': ['react', 'javascript'],
-            'llm_tags_zh': ['React', 'JavaScript']
-        }
     ]
-    
+
     for i, test_case in enumerate(test_cases, 1):
         print(f"\n--- 测试案例 {i}: {test_case['title']} ---")
-        
+
         optimized_en, optimized_zh = optimizer.optimize_tags(
-            llm_tags_en=test_case['llm_tags_en'],
-            llm_tags_zh=test_case['llm_tags_zh'],
-            title=test_case['title'],
-            content=test_case['content'],
-            url=test_case['url'],
-            source_name=test_case['source']
+            llm_tags_en=test_case["llm_tags_en"],
+            llm_tags_zh=test_case["llm_tags_zh"],
+            title=test_case["title"],
+            content=test_case["content"],
+            url=test_case["url"],
+            source_name=test_case["source"],
         )
-        
+
         print(f"原始LLM标签: {test_case['llm_tags_en']} / {test_case['llm_tags_zh']}")
         print(f"优化后标签: {optimized_en} / {optimized_zh}")
         print(f"标签数量: {len(optimized_en)}")
-    
+
     print("\n=== 测试完成 ===")
