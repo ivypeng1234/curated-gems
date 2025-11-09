@@ -1,121 +1,5 @@
 [
   {
-    "id": 46,
-    "title": "Why Did We Ever Carpet Bathrooms?",
-    "title_zh": "我们为什么曾经铺设浴室地毯？",
-    "source": "Mental Floss",
-    "link": "https://www.mentalfloss.com/culture/design/why-were-carpeted-bathrooms-popular?utm_source=RSS",
-    "tags": [
-      "update",
-      "design",
-      "society",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "动态",
-      "设计创意",
-      "社会议题",
-      "未来预测"
-    ],
-    "date": "2025-10-13",
-    "summary_en": "This article explores the surprising historical trend of carpeted bathrooms, revealing how it emerged as a status symbol in the mid-20th century. The analysis delves into the societal factors that made wall-to-wall carpeting a marker of affluence and how this luxury was extended to bathrooms. The piece also examines modern reasons why some people might still choose carpeted bathrooms today, despite obvious hygiene concerns. It's a fascinating look at how design trends reflect cultural values and how practical considerations often clash with aesthetic preferences. The article's strength lies in its ability to connect a seemingly mundane design choice to broader historical and cultural narratives.",
-    "summary_zh": "文章揭秘了20世纪中期浴室铺地毯的历史潮流，揭示其作为身份象征的社会背景。分析了从卧室到浴室的地毯延伸反映的奢华心理，以及现代人为何仍选择地毯浴室的实用考量。这不仅是设计趋势的演变，更是文化价值观的折射，令人深思。",
-    "best_quote_en": "For most of human history, carpeting a room with plush fabric wall to wall was a luxury reserved for the ultra-wealthy.",
-    "best_quote_zh": "对于大多数人类历史来说，铺设墙壁到墙壁的软质地毯曾是仅限超级富豪的奢侈品。"
-  },
-  {
-    "id": 47,
-    "title": "Discrete Generative Models",
-    "title_zh": "离散生成模型",
-    "source": "LessWrong",
-    "link": "https://www.lesswrong.com/posts/frCmecCpHx2aAtALT/discrete-generative-models",
-    "tags": [
-      "solve",
-      "ai-research",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "解决",
-      "AI研究",
-      "数据驱动"
-    ],
-    "date": "2025-10-14",
-    "summary_en": "This article delves into the challenges of generative models, particularly focusing on discrete distribution networks as proposed by Lei Yang. It highlights the limitations of current approaches like autoregressive models for images and normalizing flows, which struggle with discrete features. The discussion explores the innovative use of fractals in training models to generate images iteratively, addressing issues like dead outputs and error correction. The author's personal insights on improving the sampling strategy and loss function calculation add practical value to the theoretical discussion, making this a thought-provoking read for AI researchers.",
-    "summary_zh": "该文章深入探讨了生成模型的挑战，重点介绍了Lei Yang提出的离散分布网络。它指出了当前方法如自回归模型和正则化流在处理图像离散特征时的局限性。讨论了在训练模型时使用分形迭代生成图像的创新方法，并解决了输出死亡和错误修正等问题。作者对改进采样策略和损失函数计算的个人见解为理论讨论增添了实用价值，使其成为AI研究人员的深思之作。",
-    "best_quote_en": "Sometimes, the previous tokens do rely on the future, which means the model must predict not just the next token, but all the ones after it as well.",
-    "best_quote_zh": "有时，前面的标记确实依赖于未来，这意味着模型必须预测的不仅是下一个标记，而且是之后的所有标记。"
-  },
-  {
-    "id": 48,
-    "title": "Why María Corina Machado Says That Trump Deserves Her Nobel Peace Prize",
-    "title_zh": "玛利亚·科里娜·马乔说特朗普值得获得她的诺贝尔和平奖",
-    "source": "The New Yorker",
-    "link": "https://www.newyorker.com/news/the-lede/why-maria-corina-machado-says-that-donald-trump-deserves-her-peace-prize",
-    "tags": [
-      "update",
-      "politics",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "动态",
-      "政治时事",
-      "数据驱动"
-    ],
-    "date": "2025-10-13",
-    "summary_en": "This article explores the complex geopolitical dynamics between the US and Venezuela through the lens of the Nobel Peace Prize controversy. María Corina Machado's unexpected win highlights the shifting power structures in Latin America and the controversial foreign policy approaches of both the US and Venezuelan governments. The piece reveals how Trump's aggressive tactics in the region, from deportations to military strikes, contrast sharply with his peace prize aspirations. Machado's acceptance of the prize 'in honor of Trump' exposes fascinating alignments and tensions between opposition forces and US interventionism. The analysis offers a critical look at how political narratives are constructed and contested in international affairs.",
-    "summary_zh": "这篇文章通过诺贝尔和平奖的争议，剖析了美国与委内瑞拉之间复杂的地缘政治动态。玛利亚·科里娜·马乔的获奖凸显了拉丁美洲权力结构的变化及美委两国政府的争议性外交政策。特朗普在该地区采取的强硬手段与其追求和平奖的野心形成鲜明对比。马乔以特朗普之名接受奖项，揭示了反对派与美国干预主义之间微妙的联盟与张力。分析从国际事务的视角，批判性地审视了政治叙事的构建与争夺。",
-    "best_quote_en": "'The regime has committed a lot of errors. I feel that they have a disconnection with the reality of the country.'",
-    "best_quote_zh": "'政权犯下了许多错误。我觉得他们与国家的现实脱节了。'"
-  },
-  {
-    "id": 49,
-    "title": "Why Vintage Halloween Décor Is Making a Comeback",
-    "title_zh": "为什么复古万圣节装饰正在回潮",
-    "source": "Mental Floss",
-    "link": "https://www.mentalfloss.com/holidays/halloween/vintage-halloween-decor-trend?utm_source=RSS",
-    "tags": [
-      "update",
-      "society",
-      "lifestyle",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "动态",
-      "社会议题",
-      "生活方式",
-      "未来预测"
-    ],
-    "date": "2025-10-14",
-    "summary_en": "The article explores the resurgence of vintage Halloween décor, driven by a desire for nostalgia, sustainability, and personal expression. As consumers rebel against mass-produced, hyperrealistic decorations, they're turning to thrift stores and online marketplaces for unique, often handmade pieces that evoke simpler times. This trend reflects a broader cultural shift toward authenticity and sustainability in holiday celebrations. The piece offers practical advice on sourcing and styling vintage finds, encouraging readers to embrace imperfections and create personalized displays that transcend fleeting trends.",
-    "summary_zh": "文章探讨复古万圣节装饰回潮的现象，这种趋势源于对怀旧、可持续和个性表达的追求。消费者厌倦了大批量生产的、过度真实的装饰品，转而到二手店和网络市场寻找独特的、常常是手工制作的装饰品，这些装饰品能唤起简单时代的回忆。这种趋势反映了节日庆祝方式向真实性和可持续性转变的更广泛文化变化。文章提供了实用建议，帮助读者寻找和布置复古装饰品，鼓励他们拥抱不完美，创造超越短暂潮流的个性化装饰。",
-    "best_quote_en": "There's an authenticity in their imperfections that no mass-produced skeleton can replace.",
-    "best_quote_zh": "这些复古装饰品的真实性和独特性是任何批量生产的骷髅装饰都无法替代的。"
-  },
-  {
-    "id": 50,
-    "title": "Donabe / We Stand on Guard",
-    "title_zh": "多奈部 / 我们守卫",
-    "source": "Kevin Kelly",
-    "link": "https://kk.org/cooltools/donabe-we-stand-on-guard/",
-    "tags": [
-      "inspire",
-      "education",
-      "politics",
-      "case-study"
-    ],
-    "tags_zh": [
-      "启发",
-      "教育学习",
-      "政治时事",
-      "案例研究"
-    ],
-    "date": "2025-10-14",
-    "summary_en": "This content presents two distinct works: a culinary exploration of Japanese donabe cooking and a dystopian graphic novel about US-Canada conflict. The donabe book offers authentic recipes, cultural insights, and practical cooking advice, making it valuable for both novice and experienced cooks interested in Japanese cuisine. Its personal anecdotes and adaptable recipes enhance its educational and inspirational value. In contrast, 'We Stand on Guard' is a politically charged sci-fi thriller examining resource wars and military occupation through a Canadian perspective. The graphic novel's speculative tech, intense action, and nuanced character development make it a thought-provoking exploration of power dynamics and national identity. Both works demonstrate how diverse media can engage readers through cultural exploration and speculative fiction.",
-    "summary_zh": "这篇内容介绍了两部截然不同的作品：一部是关于日本多奈部陶锅烹饪的美食书，另一部是美国与加拿大冲突的反乌托邦漫画。多奈部烹饪书提供了真实的食谱、文化见解和实用的烹饪建议，对喜欢日本料理的初学者和资深厨师都很有价值。书中的个人轶事和可适应的食谱增强了其教育和启发价值。相比之下，《我们守卫》是一部充满政治色彩的科幻惊悚小说，通过加拿大的视角探讨了资源战争和军事占领。这部漫画的推测性科技、紧张的行动和复杂的角色发展使其成为权力动态和民族身份的深刻探索。这两部作品都展示了不同媒体如何通过文化探索和推测性小说吸引读者。",
-    "best_quote_en": "'Don't just drink up the broth, create yet another course!'",
-    "best_quote_zh": "不要只是喝汤，再创造一道菜！"
-  },
-  {
     "id": 51,
     "title": "Protect & Improve Your Hearing & Brain Health | Dr. Konstantina Stankovic",
     "title_zh": "保护和改善您的听力与大脑健康 | 斯坦科维奇博士",
@@ -2378,5 +2262,123 @@
     "summary_zh": "这封新闻稿结合了个人经验与数据研究，提供实用的旅行见解。对充气旅行枕头的评测突出了其多功能性和解决飞行不适的设计。预装 toiletry kit 的策略展示了频繁旅行者的高效打包习惯。基于数据的旅行趋势部分揭示了新兴目的地和旅行行为，如“集锦旅行”，展示了流行文化如何影响旅行选择。侨民调查结果凸显了亚洲日益增长的吸引力，尤其是便利性和社区。内容平衡了个人轶事与行业趋势，提供了实用建议和关于现代旅行模式的深刻观察。",
     "best_quote_en": "'Convenience is a recurring theme, with expats across China raving about fast public transportation to efficient online shopping.'",
     "best_quote_zh": "“便利是一个反复出现的主题，中国各地的侨民对快速公共交通和高效的在线购物赞不绝口。”"
+  },
+  {
+    "id": 146,
+    "title": "Are you Confusedocene?",
+    "title_zh": "我们生活在“混淆纪”吗？",
+    "source": "Aeon",
+    "link": "https://aeon.co/essays/declared-dead-last-year-the-anthropocene-is-very-much-alive?utm_source=rss-feed",
+    "tags": [
+      "learn",
+      "environment",
+      "society",
+      "controversial"
+    ],
+    "tags_zh": [
+      "学习",
+      "环境科学",
+      "社会议题",
+      "争议观点"
+    ],
+    "date": "2025-11-06",
+    "summary_en": "This insightful essay explores the rejection of the Anthropocene as an official geological epoch and the enduring relevance of the term despite this decision. It delves into the complex history of human impact on the planet, challenging simplistic notions of a single root cause for environmental crises. The author proposes viewing the Anthropocene as an ongoing event rather than a distinct epoch, allowing for a more nuanced understanding of our ecological predicament. The piece also critiques various alternative '-cene' terms and emphasizes the importance of considering multiple timescales and historical forces in addressing environmental challenges. It concludes with a forward-looking perspective, acknowledging the heavy legacy of past actions while emphasizing the potential for future transformation.",
+    "summary_zh": "本文深入探讨了人类纪未被正式确定为地质年代的原因及其持续的文化影响。作者提出将人类纪视为持续事件而非独立年代，以更全面理解人类对地球的影响。文章批评了各种替代性地质时代概念，强调需要同时考虑多个时间尺度和历史因素。最终，作者指出尽管历史包袱沉重，但未来仍有改变的可能，关键在于人类能否共同应对挑战。",
+    "best_quote_en": "The Anthropocene is a prism through which we can examine the multifaceted history of human activities on this planet, and the spectrum of our potential futures.",
+    "best_quote_zh": "人类纪是一面棱镜，让我们能够审视人类在全球活动的多面历史，以及我们潜在的未来前景。"
+  },
+  {
+    "id": 147,
+    "title": "The 10 Most Pest-Infested Cities in America, Ranked (#1-2 Might Surprise You)",
+    "title_zh": "美国最严重的十大害虫城市排名（第1-2名可能让你大吃一惊）",
+    "source": "Mental Floss",
+    "link": "https://www.mentalfloss.com/geography/most-pest-infested-cities-america-ranked?utm_source=RSS",
+    "tags": [
+      "analyze",
+      "science",
+      "lifestyle",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "分析",
+      "科学研究",
+      "生活方式",
+      "数据驱动"
+    ],
+    "date": "2025-11-08",
+    "summary_en": "This ranking of America's most pest-infested cities reveals surprising insights about urban pest management challenges. The data-driven approach using 2021 U.S. Census figures highlights how population density correlates with pest prevalence, with Atlanta topping the list at 165.9 pests per 100,000 residents. The analysis challenges common perceptions, showing that cities like New York, while having high absolute pest numbers, rank lower when adjusted for population. The report underscores the growing public health concern of pest infestations and raises questions about urban planning and sanitation infrastructure. The inclusion of cities like Riverside and Miami challenges regional stereotypes about pest problems. This content serves as both an informative resource and a conversation starter about urban living challenges.",
+    "summary_zh": "这份美国最严重害虫城市排名揭示了城市害虫管理面临的惊人挑战。基于2021年美国人口普查数据，该报告展示了人口密度与害虫普遍程度之间的相关性。亚特兰大以每10万人165.9只害虫的比例位居榜首。数据挑战了公众对纽约等城市的常见认知，尽管这些城市的害虫总数高，但按人口比例计算则排名较低。该报告凸显了害虫入侵日益严重的公共卫生问题，并引发了人们对城市规划和卫生基础设施的思考。里弗赛德和迈阿密等城市的出现，打破了人们对不同地区害虫问题的固有印象。",
+    "best_quote_en": "There are some rankings you don’t want to be at the top of. The list of most pest-infested cities is one of them.",
+    "best_quote_zh": "有些排名你不想位列榜首，最严重害虫城市的名单就是其中之一。"
+  },
+  {
+    "id": 148,
+    "title": "The Human Toll of the Suspension of SNAP",
+    "title_zh": "SNAP暂停的代价",
+    "source": "The New Yorker",
+    "link": "https://www.newyorker.com/news/the-lede/the-human-toll-of-the-suspension-of-snap",
+    "tags": [
+      "analyze",
+      "politics",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "分析",
+      "政治时事",
+      "数据驱动"
+    ],
+    "date": "2025-11-08",
+    "summary_en": "This article highlights the human impact of the SNAP benefit suspension during the government shutdown, focusing on Angel Goodwin's story. It reveals how even working individuals struggle with food insecurity, the systemic failures in social safety nets, and the innovative coping mechanisms people develop. The piece critiques political inaction while showing the resilience of those affected, offering a poignant look at America's hidden poverty crisis. Goodwin's journey from homelessness to stability is particularly compelling, demonstrating both personal perseverance and the fragility of progress when facing systemic barriers.",
+    "summary_zh": "这篇文章描述了政府停摆期间SNAP福利暂停对普通民众的影响，通过安吉尔·古德温的故事展现了即使有工作的人也可能面临食品安全问题。文章描述了社会安全网的系统性失败以及人们发展出的应对策略。这篇文章批评了政治上的不作为，同时也展示了受影响者的韧性，提供了一个关于美国隐藏贫困危机的生动视角。古德温从无家可归到稳定生活的经历特别引人深思，展示了个人毅力和面对系统性障碍时的脆弱性。",
+    "best_quote_en": "Little do they know I’m in the same boat",
+    "best_quote_zh": "他们不知道我和他们一样"
+  },
+  {
+    "id": 149,
+    "title": "PG and Jessica",
+    "title_zh": "PG和Jessica",
+    "source": "Sam Altman",
+    "link": "https://blog.samaltman.com/pg-and-jessica",
+    "tags": [
+      "solve",
+      "startup-strategy",
+      "startup-funding",
+      "deep-dive"
+    ],
+    "tags_zh": [
+      "解决",
+      "创业策略",
+      "创业融资",
+      "深度分析"
+    ],
+    "date": "2020-09-25",
+    "summary_en": "This article explores the unique success factors behind Y Combinator (YC), attributing its phenomenal impact primarily to the foundational work of Paul Graham (PG) and Jessica Livingston. The authors highlight that while many have attempted to replicate YC's model, few have succeeded because they misunderstand the core ingredients: unwavering belief in founders, strong cultural norms, and long-term ecosystem building. The piece emphasizes how PG and Jessica's personal investment in founders, their willingness to challenge norms, and their focus on community created a self-sustaining network that continues to benefit countless entrepreneurs. The article serves as both a tribute to their impact and a cautionary tale about the difficulty of replicating such transformative work. It challenges readers to consider what truly makes organizations successful beyond surface-level strategies.",
+    "summary_zh": "这篇文章探讨了Y Combinator成功背后的关键因素，认为其影响力主要源于Paul Graham（PG）和Jessica Livingston的奠基工作。作者指出，尽管许多人试图复制YC模式，但鲜有成功者，因为他们忽略了核心要素：对创始人的坚定信任、强大的文化规范和长期生态构建。文章强调PG和Jessica通过个人投入、挑战常规和重视社区，创造了一个自我持续的网络，持续造福无数创业者。本文既是对他们的致敬，也是对复制这种变革性工作难度的警示，挑战读者思考组织成功背后的真正动力。",
+    "best_quote_en": "The entire secret to YC getting going was PG and Jessica—there was no other magic trick.",
+    "best_quote_zh": "YC能够起步的全部秘诀就是PG和Jessica——这中间没有其他魔法。"
+  },
+  {
+    "id": 150,
+    "title": "Essentials: Erasing Fears & Traumas Using Modern Neuroscience",
+    "title_zh": "Essentials: 使用现代神经科学消除恐惧与创伤",
+    "source": "Huberman Lab",
+    "link": "https://www.hubermanlab.com/episode/essentials-erasing-fears-traumas-using-modern-neuroscience",
+    "tags": [
+      "solve",
+      "psychology",
+      "medicine",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "解决",
+      "心理学",
+      "医学健康",
+      "数据驱动"
+    ],
+    "date": "2025-11-06",
+    "summary_en": "This Huberman Lab Essentials episode delves into the neuroscience of fear and trauma, offering actionable insights on how to process and eliminate traumatic responses. The discussion emphasizes the importance of both extinguishing old fearful reactions and replacing them with positive associations, rather than relying solely on cognitive reframing. Dr. Huberman explains the neural circuits involved, including the amygdala, prefrontal cortex, and dopamine systems, and how detailed recounting of traumatic events can reduce their physiological impact. The episode covers evidence-based therapies like prolonged exposure therapy and cognitive behavioral therapy, as well as unconventional methods such as cyclic hyperventilation to rewire fear responses. The critical role of social connection in trauma recovery is highlighted, along with supplementation options for managing anxiety. This episode is a valuable resource for anyone seeking to understand and overcome fear and trauma through a scientific lens.",
+    "summary_zh": "本期Huberman Lab Essentials深入探讨了恐惧与创伤的神经科学机制，提供了处理和消除创伤反应的可行策略。内容强调了需要同时消除旧的恐惧反应并建立新的积极联想，而不仅仅是认知重构。Huberman博士解释了恐惧反应涉及的神经回路，包括杏仁核、前额叶皮层和多巴胺系统，并指出详细回忆创伤事件可以减少其生理影响。节目涵盖了延长暴露疗法、认知行为疗法等证据基础疗法，以及通过循环性过度呼吸等非传统方法重塑恐惧反应。强调了社会连接在创伤恢复中的关键作用，并提供了管理焦虑的补充剂选项。这一期对于希望通过科学视角理解和克服恐惧与创伤的人们非常有价值。",
+    "best_quote_en": "Successful fear treatment requires both extinction of the old fearful response and replacement with a new positive association—not just cognitive reframing.",
+    "best_quote_zh": "成功的恐惧治疗需要同时消除旧的恐惧反应并建立新的积极联想，而不仅仅是认知重构。"
   }
 ]
