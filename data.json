@@ -1,125 +1,5 @@
 [
   {
-    "id": 51,
-    "title": "Protect & Improve Your Hearing & Brain Health | Dr. Konstantina Stankovic",
-    "title_zh": "保护和改善您的听力与大脑健康 | 斯坦科维奇博士",
-    "source": "Huberman Lab",
-    "link": "https://www.hubermanlab.com/episode/protect-improve-your-hearing-brain-health-konstantina-stankovic",
-    "tags": [
-      "update",
-      "medicine",
-      "psychology",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "动态",
-      "医学健康",
-      "心理学",
-      "数据驱动"
-    ],
-    "date": "2025-10-13",
-    "summary_en": "This insightful interview with Dr. Konstantina Stankovic, a leading otolaryngologist, delves into the critical connection between hearing health and cognitive function. The discussion reveals how hearing loss, affecting over 1.5 billion people, impacts focus and increases dementia risk. Dr. Stankovic explains biological factors like menopause affecting hearing, shares science-backed protocols for protection, and explores tinnitus causes and treatments. The conversation also highlights environmental risks and practical tools for maintaining auditory health, offering both expert insights and actionable advice for listeners.",
-    "summary_zh": "斯坦福医学院耳鼻喉科教授斯坦科维奇博士揭示听力与认知健康的深刻关联。听力损失影响15亿人，不仅影响专注力，还会增加认知衰退风险。她解析了生物因素如绝经期对听力的影响，分享科学验证的保护方案，探讨耳鸣的成因与治疗。对话还揭示了环境风险并提供实用保护工具，为听众提供专业见解与行动建议。",
-    "best_quote_en": "Hearing loss isn't just about volume—it's about how our brains process sound and its impact on our cognitive health.",
-    "best_quote_zh": "听力损失不仅仅是音量问题，更关乎大脑如何处理声音及其对认知健康的影响。"
-  },
-  {
-    "id": 52,
-    "title": "The Hidden Math of Ocean Waves Crashes Into View",
-    "title_zh": "海浪背后的隐藏数学浮出水面",
-    "source": "Quanta Magazine",
-    "link": "https://www.quantamagazine.org/the-hidden-math-of-ocean-waves-crashes-into-view-20251015/",
-    "tags": [
-      "learn",
-      "science",
-      "ai-research",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "学习",
-      "科学研究",
-      "AI研究",
-      "数据驱动"
-    ],
-    "date": "2025-10-15",
-    "summary_en": "This article explores the complex mathematics behind ocean waves, focusing on recent breakthroughs by Italian mathematicians in understanding wave instabilities. The research reveals that even simple wave patterns eventually become irregular, defying initial expectations. The team proved when these instabilities occur, solving a long-standing mathematical problem. Their work uses both computational tools and theoretical techniques to advance our understanding of fluid dynamics. The discovery of alternating stability and instability patterns in waves challenges conventional wisdom and opens new avenues for research. The article also highlights the beauty of mathematical exploration and its practical implications for understanding natural phenomena.",
-    "summary_zh": "这篇文章探讨了海浪背后复杂的数学原理，聚焦意大利数学家近期在理解波动不稳定性方面的突破。研究发现，即使是简单的波浪模式最终也会变得不规则，这与最初的预期相反。该团队证明了这些不稳定性何时发生，解决了一个长期悬而未决的数学问题。他们的工作结合了计算工具和理论技术，推动了流体力学的理解。波浪中稳定性与不稳定性交替出现的发现挑战了常规认知，并为研究开辟了新的途径。文章还突显了数学探索的美妙以及其对理解自然现象的实际意义。",
-    "best_quote_en": "Before starting math, I thought water waves were something very understood — not a problem at all. But in reality, they are just strange.",
-    "best_quote_zh": "开始学习数学之前，我以为水波是非常易于理解的——根本不是什么问题。但现实是，它们就是很奇怪。"
-  },
-  {
-    "id": 53,
-    "title": "Great art explained: The School of Athens by Raphael",
-    "title_zh": "《雅典学院》解读：拉斐尔的文艺复兴杰作",
-    "source": "Aeon",
-    "link": "https://aeon.co/videos/how-to-read-the-school-of-athens-a-triumph-of-renaissance-art?utm_source=rss-feed",
-    "tags": [
-      "inspire",
-      "music-arts",
-      "society",
-      "deep-dive"
-    ],
-    "tags_zh": [
-      "启发",
-      "音乐艺术",
-      "社会议题",
-      "深度分析"
-    ],
-    "date": "2025-10-15",
-    "summary_en": "James Payne's analysis of Raphael's 'The School of Athens' offers a profound exploration of Renaissance thought and artistic vision. The fresco, located in the Pope's private library, symbolizes philosophy as a cornerstone of human knowledge alongside theology, poetry, and law. Payne brilliantly contextualizes the artwork within the broader history of ideas, highlighting Raphael's synthesis of Classical and Christian philosophies. The painting presents empirical and metaphysical pursuits as complementary rather than adversarial, reflecting the Renaissance's quest for truth. This video essay provides both an art historical perspective and a philosophical meditation on the nature of knowledge.",
-    "summary_zh": "詹姆斯·佩恩对拉斐尔《雅典学院》的解读，揭示了文艺复兴时期的思想与艺术理念。这幅位于梵蒂冈教皇私人图书馆的壁画，象征着哲学作为人类知识的支柱，与神学、诗歌和法律并列。佩恩巧妙地将这幅作品置于思想史的背景下，凸显了拉斐尔将古典与基督教思想融为一体的创举。这幅画将经验主义与形而上学呈现为互补而非对立，体现了文艺复兴时代对真理的追求。这部视频散文既是艺术史的视角，也是对知识本质的哲学思考。",
-    "best_quote_en": "Raphael's meticulous staging sought to unify Classical and Christian thought, presenting the empirical and the metaphysical not as adversaries but as equal partners in the ceaseless human pursuit of truth.",
-    "best_quote_zh": "拉斐尔精心布置的场景试图将古典思想与基督教思想统一起来，将经验主义和形而上学呈现为人类不懈追求真理过程中的伙伴而非对手。"
-  },
-  {
-    "id": 54,
-    "title": "How to Join the Treasure Hunt for Rare Coins Taking Place Across the East Coast",
-    "title_zh": "如何参加正在东海岸举行的稀有硬币寻宝活动",
-    "source": "Mental Floss",
-    "link": "https://www.mentalfloss.com/fun/stacks-bowers-rare-coin-treasure-hunt?utm_source=RSS",
-    "tags": [
-      "solve",
-      "ai-research",
-      "startup-strategy",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "解决",
-      "AI研究",
-      "创业策略",
-      "数据驱动"
-    ],
-    "date": "2025-10-15",
-    "summary_en": "This article details an innovative treasure hunt organized by Stack's Bowers, a rare coin dealer, celebrating its 90th anniversary. Throughout October, they're hiding certificates redeemable for valuable coins in four major East Coast cities. The hunt combines numismatics with puzzle-solving, offering participants a chance to win coins worth $300-$3,500. The article also compares this modern treasure hunt to historical ones, highlighting the enduring appeal of such adventures. It's a fascinating blend of history, gaming, and collectible culture that appeals to both amateur treasure hunters and coin enthusiasts.",
-    "summary_zh": "本文介绍了稀有硬币经销商Stack's Bowers为庆祝90周年举办的寻宝活动。10月份在东海岸四大城市藏匿可兑换珍贵硬币的证书。结合钱币收藏与解谜游戏，参与者有机会赢得价值300-3500美元的硬币。文章还将现代寻宝活动与历史上的类似事件对比，凸显了这种活动的持久魅力。这既是历史、游戏和收藏文化的融合，吸引了业余寻宝者和硬币爱好者的关注。",
-    "best_quote_en": "Treasure hunts have long been a staple in fiction, but participating in one in the real world is a relative rarity.",
-    "best_quote_zh": "寻宝故事长期是虚构作品的经典情节，但在现实中参与这样的活动却相对罕见。"
-  },
-  {
-    "id": 55,
-    "title": "Among the Talibros",
-    "title_zh": "被称作塔利班兄弟的旅行博主",
-    "source": "The New Yorker",
-    "link": "https://www.newyorker.com/news/the-lede/among-the-talibros",
-    "tags": [
-      "update",
-      "society",
-      "writing-content",
-      "deep-dive"
-    ],
-    "tags_zh": [
-      "动态",
-      "社会议题",
-      "写作内容",
-      "深度分析"
-    ],
-    "date": "2025-10-15",
-    "summary_en": "The article critiques the phenomenon of 'alt-travel influencers' who present dangerous regions like Afghanistan in provocative, often misleading ways. These creators, like Yosaf Aryubi and Addison Pierre Maalouf, use dark humor and irony to challenge mainstream narratives while often downplaying real dangers and complexities. The piece explores how this content exploits declining trust in traditional media, simplifying geopolitical issues into contrarian narratives that perform well on social media. The author warns of the dangerous consequences of this trend, where influencers position themselves as truth-tellers in a climate of media distrust, ultimately prioritizing engagement over nuance and accuracy.",
-    "summary_zh": "文章批评了一些“另类旅行博主”通过制造冲突感来吸引流量，忽略地区复杂现实。这些内容创作者用黑色幽默和讽刺挑战主流叙事，却常常轻描淡写真实危险和复杂性。作者指出这种内容利用公众对传统媒体的不信任，将地缘政治问题简化为对立叙事，最终牺牲细节和真实性，以博取眼球和流量。",
-    "best_quote_en": "'Once words and images are merely tools with which to mobilize and engage people, it ceases to matter so much if they are valid or objective reflections on reality.'",
-    "best_quote_zh": "“一旦语言和图像仅仅是用来激发和参与的工具，它们是否真实反映现实就变得不那么重要了。”"
-  },
-  {
     "id": 56,
     "title": "What’s in my NOW? — Alison Qiu",
     "title_zh": "我的当下有什么？—艾莉森·丘",
@@ -607,7 +487,7 @@
     "tags_zh": [
       "解决",
       "历史",
-      "有争议"      
+      "有争议"
     ],
     "date": "2025-10-21",
     "summary_en": "This article explores the bizarre true story of Finis Bates, Kathy Bates's grandfather, and his obsession with a mummified body he believed to be John Wilkes Booth, Lincoln's assassin. The story spans decades, involving deathbed confessions, traveling carnivals, and forensic examinations. It's a fascinating blend of history, conspiracy theory, and macabre Americana that raises questions about identity, truth, and the public's fascination with the bizarre. The article serves as both an historical account and a commentary on how legends persist despite evidence.",
@@ -2366,5 +2246,123 @@
     "summary_zh": "本期Huberman Lab Essentials深入探讨了恐惧与创伤的神经科学机制，提供了处理和消除创伤反应的可行策略。内容强调了需要同时消除旧的恐惧反应并建立新的积极联想，而不仅仅是认知重构。Huberman博士解释了恐惧反应涉及的神经回路，包括杏仁核、前额叶皮层和多巴胺系统，并指出详细回忆创伤事件可以减少其生理影响。节目涵盖了延长暴露疗法、认知行为疗法等证据基础疗法，以及通过循环性过度呼吸等非传统方法重塑恐惧反应。强调了社会连接在创伤恢复中的关键作用，并提供了管理焦虑的补充剂选项。这一期对于希望通过科学视角理解和克服恐惧与创伤的人们非常有价值。",
     "best_quote_en": "Successful fear treatment requires both extinction of the old fearful response and replacement with a new positive association—not just cognitive reframing.",
     "best_quote_zh": "成功的恐惧治疗需要同时消除旧的恐惧反应并建立新的积极联想，而不仅仅是认知重构。"
+  },
+  {
+    "id": 151,
+    "title": "What Is a Manifold?",
+    "title_zh": "什么是流形？",
+    "source": "Quanta Magazine",
+    "link": "https://www.quantamagazine.org/what-is-a-manifold-20251103/",
+    "tags": [
+      "learn",
+      "science",
+      "education",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "学习",
+      "科学研究",
+      "教育学习",
+      "数据驱动"
+    ],
+    "date": "2025-11-03",
+    "summary_en": "This article provides a comprehensive introduction to the mathematical concept of manifolds, tracing their origins to Bernhard Riemann's revolutionary ideas in the 19th century. Manifolds are spaces that appear Euclidean locally but may have complex global structures, serving as fundamental tools in modern mathematics, physics, and data analysis. The article explains how manifolds enable mathematicians to study higher-dimensional spaces and solve problems by breaking them into manageable pieces. Their applications range from Einstein's theory of general relativity to analyzing complex dynamical systems and high-dimensional data sets. The piece emphasizes the universality of manifolds in scientific research, comparing their importance to that of numbers in mathematics.",
+    "summary_zh": "本文深入浅出地介绍了流形的数学概念，追溯了伯恩哈德·黎曼在19世纪提出的革命性思想。流形是看似欧几里得局部但可能具有复杂全局结构的空间，是现代数学、物理学和数据分析的基础工具。文章解释了流形如何帮助数学家研究高维空间并通过将问题分解为可管理的部分来解决问题。它们的应用范围从爱因斯坦的广义相对论到分析复杂的动力系统和高维数据集。该文章强调了流形在科学研究中的普遍性，将其重要性比作数学中的数字。",
+    "best_quote_en": "If I know Cyrillic, do I know Russian? No. But try to learn Russian without learning Cyrillic.",
+    "best_quote_zh": "如果我知道西里尔字母，我就懂俄语吗？不。但试试不学西里尔字母就学俄语。"
+  },
+  {
+    "id": 152,
+    "title": "The 10 Most Financially Smart U.S. States (And the 10 Least)",
+    "title_zh": "美国最聪明和最不聪明的10个州在财务方面",
+    "source": "Mental Floss",
+    "link": "https://www.mentalfloss.com/geography/states/most-least-financially-smart-states-america?utm_source=RSS",
+    "tags": [
+      "solve",
+      "personal-finance",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "解决",
+      "个人理财",
+      "数据驱动"
+    ],
+    "date": "2025-11-09",
+    "summary_en": "This study by Dancing Numbers offers a fascinating look at financial behavior across U.S. states, revealing stark contrasts between financial prudence and challenges. Vermont's top ranking highlights how low debt and strong credit scores correlate with financial smartness, while Florida's struggles underscore the burden of high debt on financial health. The data-driven approach reveals that financial behavior often matters more than literacy, with retirement savings participation emerging as a key differentiator. The analysis prompts reflection on regional financial cultures and systemic barriers to financial security, offering valuable insights for both policymakers and individuals seeking to improve their financial well-being.",
+    "summary_zh": "该研究揭示了美国各州在财务管理上的显著差异，弗蒙特州的低债务和高信用评分凸显了财务智慧的关键因素，而佛罗里达州的困境则说明了高负债对财务健康的负面影响。数据显示，真正的财务行为比财务知识更重要，退休储蓄的参与率成为重要指标。这一分析引发对地区财务文化和系统性障碍的思考，为政策制定者和个人提供了改善财务状况的宝贵见解。",
+    "best_quote_en": "\"Financial discipline can thrive independently when individuals develop strong saving and spending habits on their own.\"",
+    "best_quote_zh": "“当个人独立发展良好的储蓄和消费习惯时，财务纪律就能独立繁荣。”"
+  },
+  {
+    "id": 153,
+    "title": "Book Announcement: The Gentle Romance",
+    "title_zh": "新书发布：温柔浪漫",
+    "source": "LessWrong",
+    "link": "https://www.lesswrong.com/posts/nmvygxFKfveK9wJ8j/book-announcement-the-gentle-romance",
+    "tags": [
+      "update",
+      "ai-research",
+      "lifestyle",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "动态",
+      "AI研究",
+      "生活方式",
+      "未来预测"
+    ],
+    "date": "2025-11-10",
+    "summary_en": "This announcement reveals an intriguing fiction collection that explores the intersection of AI and humanity through 22 stories, with three new additions that delve into identity preservation amid technological upheaval. The author's reflection on the future of storytelling—questioning whether static text remains the optimal format—adds depth to the announcement. The collection's themes of reputation, simulated utopias, and existential tech challenges suggest a thought-provoking exploration of our digital age. The author's gratitude to collaborators and readers adds a personal touch, making this more than just a book launch but a cultural conversation starter.",
+    "summary_zh": "这则宣布揭示了一个探索AI与人性交织的文学合集，22个故事中有三个全新创作，聚焦技术变革下的身份保持。作者对叙事形式未来的思考增添了深度，合集的声誉交易、模拟乌托邦等主题暗示着对数字时代的深刻探讨。对合作者与读者的感谢让这不仅是新书发布，更是文化对话的开启。",
+    "best_quote_en": "The thread that connects them is the struggle to hold onto our identities in the face of radical technological change—the same thread that winds through many of our own lives.",
+    "best_quote_zh": "贯穿这些故事的主线，是我们在面对激进技术变革时保持自我身份的挣扎——这同样是许多我们自己的生活中纠缠的主线。"
+  },
+  {
+    "id": 154,
+    "title": "Hannah Goldfield on Anthony Bourdain’s “Don’t Eat Before Reading This”",
+    "title_zh": "汉娜·戈德菲尔德评安东尼·伯尔丹的《别吃饭前先读这个》",
+    "source": "The New Yorker",
+    "link": "https://www.newyorker.com/magazine/takes/hannah-goldfield-on-anthony-bourdains-dont-eat-before-reading-this",
+    "tags": [
+      "inspire",
+      "writing-content",
+      "ai-research",
+      "case-study"
+    ],
+    "tags_zh": [
+      "启发",
+      "写作内容",
+      "AI研究",
+      "案例研究"
+    ],
+    "date": "2025-11-09",
+    "summary_en": "Hannah Goldfield's essay provides a nuanced reflection on Anthony Bourdain's groundbreaking work 'Kitchen Confidential' and its origins in the 1999 New Yorker piece 'Don't Eat Before Reading This'. She explores how Bourdain's unfiltered perspective on the restaurant industry revealed both its gritty realities and poetic beauty. The analysis highlights Bourdain's literary ambitions, his distinctive voice, and his ability to transform taboo subjects into compelling narratives. Goldfield emphasizes how Bourdain's work transcended mere exposés to become a cultural phenomenon, influencing food culture and media while maintaining its literary integrity. The piece also reflects on Bourdain's lasting legacy as someone who could portray complex realities without making them seem ugly.",
+    "summary_zh": "汉娜·戈德菲尔德从安东尼·伯尔丹的《别吃饭前先读这个》聊起，深入探讨了这位美食作家如何用不加修饰的笔触揭示餐饮业的真实面貌。文章揭示伯尔丹不仅是揭露行业黑幕的吹哨人，更是一位充满文学抱负的作家，其独特的文风将血腥与诗意完美结合。作者反思伯尔丹如何通过文字展现复杂事物的本质而不显得丑陋，其影响远超美食界，成为文化现象。伯尔丹的传奇人生和文学遗产，至今仍激励着我们以更真实的视角看待世界。",
+    "best_quote_en": "Good food, good eating, is all about blood and organs, cruelty and decay. It’s about sodium-loaded pork fat, stinky triple-cream cheeses, the tender thymus glands and distended livers of young animals. It’s about danger—risking the dark, bacterial forces of beef, chicken, cheese, and shellfish.",
+    "best_quote_zh": "美食和享受美食，本质上就是关于血肉和器官、残忍与腐烂。关于高钠猪油、臭气熏天的三重奶酪、幼年动物的嫩胸腺和膨胀的肝脏。关于危险——冒险面对牛肉、鸡肉、奶酪和贝类中那些黑暗的细菌力量。"
+  },
+  {
+    "id": 155,
+    "title": "Other minds / 102 lessons / No-hole poster hanging",
+    "title_zh": "其他心灵 / 102个教训 / 无孔张贴海报",
+    "source": "Kevin Kelly",
+    "link": "https://kk.org/cooltools/other-minds-102-lessons-no-hole-poster-hanging/",
+    "tags": [
+      "solve",
+      "lifestyle",
+      "science",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "解决",
+      "生活方式",
+      "科学研究",
+      "数据驱动"
+    ],
+    "date": "2025-11-09",
+    "summary_en": "This eclectic compilation offers diverse insights across creativity, history, travel, and practical life hacks. Jane Friedman's Electric Speed newsletter stands out as a valuable resource for creative professionals, blending industry expertise with personal curation. The piece on Neanderthals challenges modern perceptions, presenting them as sophisticated ancestors with cultural complexity. Travel advice from Japan or Die encourages mindful travel experiences, while a political thriller critique examines human behavior in crisis situations. A clever poster-hanging hack demonstrates innovative problem-solving. The 102 Lessons from 102 Books section synthesizes valuable life insights, highlighting the power of reflection and social connection. The content's strength lies in its practical applicability and thought-provoking perspectives.",
+    "summary_zh": "这篇杂文汇集了创意、历史、旅行和实用技巧等多方面的见解。简·弗里德曼的《电子速度》通讯对创意工作者尤为珍贵，将行业专业知识与个性化策展结合。关于尼安德特人的内容挑战了现代认知，展现他们拥有复杂文化。日本或死通讯的旅行建议倡导有意识的旅行体验，而政治惊悚片评论探讨了危机中的人类行为。巧妙的海报挂法展示了创新的解决方案。102本书102个教训部分总结了有价值的生活智慧，凸显反思与社交联结的力量。内容的魅力在于其实用性和引人深思的视角。",
+    "best_quote_en": "Friendliness is irrationally undersupplied. In one study, subjects were asked to either stay quiet or talk to a stranger during their commute. People predicted they’d prefer solitude, but they enjoyed the conversation more.",
+    "best_quote_zh": "友善被严重低估。一项研究发现，人们预计会喜欢独处通勤，但实际更享受与陌生人的交谈。"
   }
 ]
