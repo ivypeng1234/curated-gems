@@ -1,123 +1,5 @@
 [
   {
-    "id": 56,
-    "title": "What’s in my NOW? — Alison Qiu",
-    "title_zh": "我的当下有什么？—艾莉森·丘",
-    "source": "Kevin Kelly",
-    "link": "https://kk.org/cooltools/whats-in-my-now-alison-qiu/",
-    "tags": [
-      "solve",
-      "lifestyle",
-      "health-wellness",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "解决",
-      "生活方式",
-      "健康养生",
-      "未来预测"
-    ],
-    "date": "2025-10-15",
-    "summary_en": "Alison Qiu's 'What's in my NOW?' offers a refreshing blend of personal productivity and self-care insights. Her curated list of physical tools, digital resources, and philosophical reflections provides practical solutions for everyday challenges. The single-serve drink mix and mini stepper cater to health-conscious individuals seeking convenience, while the podcast and AI therapy app address mental well-being. The invisible section's quote emphasizes lifelong learning, tying the content together with a thought-provoking perspective. This is more than just a product roundup; it's a mindfulness exercise in appreciating small, meaningful improvements in daily life.",
-    "summary_zh": "艾莉森·丘的《我的当下有什么？》融合了个人效率和自我关怀的洞见。她精选的物理工具、数字资源和哲学思考为日常挑战提供了实用解决方案。单份饮料混合物和迷你步阶器适合追求便利的健康意识人群，而播客和AI治疗应用则关注心理健康。无形部分的名言强调终身学习，将内容与深刻思考联系起来。这不仅是产品推荐，更是一种珍惜生活小确幸的正念练习。",
-    "best_quote_en": "Everyone has something to teach you. Learn from whomever you can.",
-    "best_quote_zh": "每个人都有值得你学习的地方。尽可能多地向他人学习。"
-  },
-  {
-    "id": 57,
-    "title": "Listening to whales",
-    "title_zh": "与鲸鱼交流",
-    "source": "Aeon",
-    "link": "https://aeon.co/videos/what-would-it-mean-if-we-were-able-to-speak-with-whales?utm_source=rss-feed",
-    "tags": [
-      "inspire",
-      "science",
-      "society",
-      "deep-dive"
-    ],
-    "tags_zh": [
-      "启发",
-      "科学研究",
-      "社会议题",
-      "深度分析"
-    ],
-    "date": "2025-10-16",
-    "summary_en": "This thought-provoking conversation explores the fascinating evolution of human understanding about whale communication, from the Cold War discovery of whale songs to modern decryption efforts. The discussion with biologist David Gruber and anatomist Joy Reidenberg reveals how technological advancements might enable interspecies dialogue, challenging our perceptions of intelligence and communication. The piece highlights the profound implications of such breakthroughs for conservation efforts and our relationship with marine life, while raising philosophical questions about our ethical responsibilities toward other species.",
-    "summary_zh": "冷战时期，人类首次捕捉到鲸鱼的歌声，彻底改变了我们对这些海洋巨兽的认知。这场对话探讨了鲸鱼交流研究的发展历程，从历史发现到当前的解码技术，揭示了人类与鲸鱼建立跨物种对话的可能性。这种突破不仅将深刻影响海洋保护事业，也迫使我们反思自身与其他物种的关系，以及我们对地球生态的责任。",
-    "best_quote_en": "What would it mean if we were able to ‘speak’ with whales?",
-    "best_quote_zh": "如果我们能与鲸鱼交流，这将意味着什么？"
-  },
-  {
-    "id": 58,
-    "title": "On the Twisted Trail of Bram Stoker’s Notes for ‘Dracula’",
-    "title_zh": "追寻《德古拉》手稿的曲折历程",
-    "source": "Mental Floss",
-    "link": "https://www.mentalfloss.com/literature/authors/bram-stoker-dracula-notes?utm_source=RSS",
-    "tags": [
-      "analyze",
-      "science",
-      "writing-content",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "分析",
-      "科学研究",
-      "写作内容",
-      "数据驱动"
-    ],
-    "date": "2025-10-16",
-    "summary_en": "This article offers a fascinating glimpse into Bram Stoker's meticulous creative process behind 'Dracula,' revealing how his scientific approach to writing transformed Victorian anxieties into literary immortality. The journey of Stoker's dispersed notes through various collectors and dealers highlights the evolution of rare book trade and the enduring cultural value of literary artifacts. The discovery of his marginalia in library books adds another layer to our understanding of his research methods. This piece serves as both a historical account and a testament to the enduring fascination with Gothic literature's origins.",
-    "summary_zh": "本文揭示了布拉姆·斯托克创作《德古拉》的严谨过程，如何将维多利亚时代的焦虑转化为文学不朽之作。手稿通过收藏家之间的转手，展现了珍本交易的演变和文学遗产的持久价值。图书馆中发现的他的批注，为我们理解他的研究方法增添了新的维度。这篇文章既是历史记录，也是对哥特文学起源的持久魅力的见证。",
-    "best_quote_en": "I should rather have these notes than the original manuscript.",
-    "best_quote_zh": "我宁愿拥有这些笔记，也不愿拥有原稿。"
-  },
-  {
-    "id": 59,
-    "title": "Donald Trump’s Dream Palace of Puffery",
-    "title_zh": "唐纳德·特朗普的吹嘘宫殿",
-    "source": "The New Yorker",
-    "link": "https://www.newyorker.com/news/letter-from-trumps-washington/donald-trumps-dream-palace-of-puffery",
-    "tags": [
-      "update",
-      "politics",
-      "controversial"
-    ],
-    "tags_zh": [
-      "动态",
-      "政治时事",
-      "争议观点"
-    ],
-    "date": "2025-10-16",
-    "summary_en": "This piece critically examines the erosion of independent journalism under Trump's second term, highlighting the White House's increasing isolation from scrutiny. The article reveals how Trump selectively engages only with sycophantic media outlets like Real America's Voice, while marginalizing traditional journalists. The Pentagon's recent ban on independent reporting signals a worrying trend of press suppression. The analysis underscues how Trump's media obsession and insatiable need for validation are reshaping governance, creating a dangerous echo chamber that could further embolden his authoritarian tendencies. The piece serves as a stark warning about the consequences of unchecked power and the vital role of a free press in democratic societies.",
-    "summary_zh": "文章尖锐批判特朗普第二任期内独立新闻的衰落，揭示白宫日益与监督隔绝的现状。特朗普仅与Real America's Voice等吹捧型媒体互动，边缘化传统记者。五角大楼近期禁止独立报道，预示着令人担忧的新闻审查趋势。分析指出特朗普的媒体迷恋和无底线的认可需求正重塑治国方略，可能助长其威权倾向。这篇文章警示我们：权力失控的危害和自由媒体对民主社会的重要性。",
-    "best_quote_en": "How long can it be until there are only Brian Glenns in that room?",
-    "best_quote_zh": "那间屋子里还有多长时间才会只有布莱恩·格伦那样的人？"
-  },
-  {
-    "id": 60,
-    "title": "Stay-put Earbuds/Borderless Embassy/Growing Nomad Hotspots",
-    "title_zh": "留耳式耳机/无国界大使馆/增长中的游牧者热点",
-    "source": "Kevin Kelly",
-    "link": "https://kk.org/cooltools/stay-put-earbuds-borderless-embassy-growing-nomad-hotspots/",
-    "tags": [
-      "analyze",
-      "science",
-      "lifestyle",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "分析",
-      "科学研究",
-      "生活方式",
-      "未来预测"
-    ],
-    "date": "2025-10-16",
-    "summary_en": "This eclectic collection of travel and digital nomad insights offers practical solutions and thought-provoking perspectives. The earbud recommendation provides a real-world solution to a common travel annoyance, with detailed technical specifications and value assessment. The Safety Wing Embassy concept taps into the growing digital nomad community, offering networking opportunities and thought leadership. The points purchasing analysis introduces a counterintuitive strategy for maximizing travel rewards, demonstrating financial savvy. The nomad hubs report reveals emerging destinations through data analysis, reflecting shifting global work patterns. Together, these pieces create a compelling snapshot of modern nomadic life and its challenges.",
-    "summary_zh": "这篇文章结合了旅行和数字游牧者的实用建议和深刻见解。耳机推荐解决了常见旅行问题，提供了详细的技术规格和价值评估。Safety Wing大使馆概念呼应了不断增长的数字游牧者社区，提供了网络机会和思想领导力。积分购买分析介绍了一种反直觉的策略来最大化旅行奖励，展示了财务智慧。游牧者中心报告通过数据分析揭示了新兴目的地，反映了全球工作模式的变化。这些内容共同构成了现代游牧生活及其挑战的生动画面。",
-    "best_quote_en": "The 'sport' part refers to the fact that they go over your ear and stay snug, plus they're waterproof, but they're far easier to fall asleep with than headphones.",
-    "best_quote_zh": "“运动”部分指的是它们戴在耳朵上非常贴合，而且防水，但比耳机更容易入睡。"
-  },
-  {
     "id": 61,
     "title": "Helion Needs You",
     "title_zh": "Helion 需要你的加入",
@@ -2364,5 +2246,119 @@
     "summary_zh": "这篇杂文汇集了创意、历史、旅行和实用技巧等多方面的见解。简·弗里德曼的《电子速度》通讯对创意工作者尤为珍贵，将行业专业知识与个性化策展结合。关于尼安德特人的内容挑战了现代认知，展现他们拥有复杂文化。日本或死通讯的旅行建议倡导有意识的旅行体验，而政治惊悚片评论探讨了危机中的人类行为。巧妙的海报挂法展示了创新的解决方案。102本书102个教训部分总结了有价值的生活智慧，凸显反思与社交联结的力量。内容的魅力在于其实用性和引人深思的视角。",
     "best_quote_en": "Friendliness is irrationally undersupplied. In one study, subjects were asked to either stay quiet or talk to a stranger during their commute. People predicted they’d prefer solitude, but they enjoyed the conversation more.",
     "best_quote_zh": "友善被严重低估。一项研究发现，人们预计会喜欢独处通勤，但实际更享受与陌生人的交谈。"
+  },
+  {
+    "id": 156,
+    "title": "Is it ethical to choose a baby’s traits?",
+    "title_zh": "选择婴儿特征是否道德？",
+    "source": "Aeon",
+    "link": "https://aeon.co/videos/when-if-ever-is-selecting-a-designer-baby-ethical?utm_source=rss-feed",
+    "tags": [
+      "solve",
+      "medicine",
+      "education",
+      "controversial"
+    ],
+    "tags_zh": [
+      "解决",
+      "医学健康",
+      "教育学习",
+      "争议观点"
+    ],
+    "date": "2025-11-10",
+    "summary_en": "This thought-provoking piece explores the complex ethics of genetic selection in babies through preimplantation genetic diagnosis. While the medical benefits for preventing hereditary diseases seem clear, the discussion becomes nuanced when considering cultural and personal preferences, such as deaf parents choosing deaf children. The content draws on philosophical perspectives to challenge our assumptions about genetic intervention, raising profound questions about autonomy, cultural identity, and the limits of medical ethics. It serves as an excellent primer for those looking to understand the moral dimensions of biotechnology.",
+    "summary_zh": "这篇文章深入探讨了胚胎基因诊断技术在婴儿特征选择中的伦理争议。虽然预防遗传疾病的医学价值显而易见，但文化偏好如聋人父母选择聋儿的案例，使讨论变得复杂。文章引用哲学家观点，挑战我们对基因干预的既有认知，引发关于自主权、文化认同和医学伦理边界的深刻思考。",
+    "best_quote_en": "When, if ever, is it ethical to weigh rolls of the genetic dice?",
+    "best_quote_zh": "什么时候，如果有的话，选择基因的筛子是道德的？"
+  },
+  {
+    "id": 157,
+    "title": "A Simple Sing-along Solstice",
+    "title_zh": "简单的合唱冬至节目",
+    "source": "LessWrong",
+    "link": "https://www.lesswrong.com/posts/qFai3Xxhake5dBhTr/a-simple-sing-along-solstice",
+    "tags": [
+      "solve",
+      "lifestyle",
+      "society",
+      "beginner-friendly"
+    ],
+    "tags_zh": [
+      "解决",
+      "生活方式",
+      "社会议题",
+      "新手友好"
+    ],
+    "date": "2025-11-11",
+    "summary_en": "This content presents a practical, easy-to-use guide for organizing a Secular Solstice celebration, particularly aimed at first-time organizers or small groups with limited resources. It emphasizes reusability and accessibility, focusing on commonly used songs and speeches from past events. The author provides an original introduction speech and encourages customization based on specific needs. The inclusion of an appendix with the most frequently used songs and speeches adds significant value by offering data-driven insights into community preferences. This resource stands out for its actionable nature and community-oriented approach, making it an excellent starting point for those new to Secular Solstice celebrations.",
+    "summary_zh": "这篇内容提供了一个实用易用的世俗冬至庆祝活动指南，特别适合首次组织者或资源有限的小团体。它强调可重复使用性和易用性，聚焦于过去活动中常用的歌曲和演讲。作者提供了一个原创的开场演讲，并鼓励根据具体需求进行定制。附录中列出的最常用歌曲和演讲，以数据为依据，展示了社区偏好，为冬至庆祝活动提供了宝贵参考。",
+    "best_quote_en": "The goal for this program is to be an easy-to-follow, easy-to-reuse Solstice program for a group celebrating Solstice for the first time.",
+    "best_quote_zh": "这个节目的目标是为首次庆祝冬至的团体提供一个易于理解、便于重复使用的冬至节目。"
+  },
+  {
+    "id": 158,
+    "title": "Did Democrats Win the Shutdown After All?",
+    "title_zh": "民主党是否最终赢得了政府关闭的胜利？",
+    "source": "The New Yorker",
+    "link": "https://www.newyorker.com/news/the-lede/did-democrats-win-the-shutdown-after-all",
+    "tags": [
+      "analyze",
+      "politics",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "分析",
+      "政治时事",
+      "数据驱动"
+    ],
+    "date": "2025-11-11",
+    "summary_en": "This analysis explores the nuanced outcomes of the longest U.S. government shutdown, challenging the narrative of Democratic failure. While the shutdown didn't concentrate attention as expected, it revealed Trump's vulnerabilities and shifted public blame. The article argues that Democrats achieved their core goals of fighting back and focusing on healthcare, despite the messy compromise. It suggests the shutdown's true significance lies in revealing Democratic coalition dynamics and the emergence of new party leaders, rather than in any single tactical outcome.",
+    "summary_zh": "这篇分析挑战了民主党在政府关闭中失败的叙事，认为尽管关闭未能集中公众注意力，但揭示了特朗普的弱点并转移了公众指责。文章认为民主党实现了核心目标，尽管妥协混乱。关键在于揭示了民主党联盟的动态和新领导人的涌现，而非单一战术结果。",
+    "best_quote_en": "The Democrats didn't vote to end the shutdown. Two handfuls of them did. Many others were very angry about it. There's a world in which both these positions—and their constituencies—can coexist.",
+    "best_quote_zh": "民主党并未投票结束政府关闭，只有少数人这样做。其他人非常愤怒。存在一个世界，其中这两种立场及其选民群体可以共存。"
+  },
+  {
+    "id": 159,
+    "title": "Utensils",
+    "title_zh": "Utensils",
+    "source": "Kevin Kelly",
+    "link": "https://kk.org/cooltools/utensils/",
+    "tags": [
+      "solve",
+      "design"
+    ],
+    "tags_zh": [
+      "解决",
+      "设计创意"
+    ],
+    "date": "2025-11-10",
+    "summary_en": "This article showcases a curated collection of clever, everyday kitchen tools that solve specific problems with ingenious simplicity. Each tool demonstrates thoughtful design addressing common kitchen frustrations, from scaling fish safely to protecting bananas on the go. The author's personal anecdotes highlight the transformative impact of these tools, turning mundane tasks into efficient, enjoyable experiences. What stands out is how these seemingly simple utensils become indispensable through their specialized functionality and user-centric design. The piece serves as a reminder that great tools don't need to be complex to be revolutionary.",
+    "summary_zh": "这篇文章展示了一系列聪明的日常厨房工具，它们以巧妙的简洁性解决特定问题。每个工具都展示了巧妙的设计，解决常见的厨房烦恼，从安全去鱼鳞到随身携带香蕉。作者的个人轶事突显了这些工具的变革性，将平凡的任务变成高效愉快的体验。令人印象深刻的是，这些看似简单的厨具通过其专业功能和以用户为中心的设计变得不可或缺。这篇文章提醒我们，伟大的工具无需复杂即可颠覆传统。",
+    "best_quote_en": "It offers more than self-defense. It's just absolutely good at what it does, and costs less than ten bucks.",
+    "best_quote_zh": "它不仅提供自我防护。它就是绝对擅长它的功能，而且价格不超过十美元。"
+  },
+  {
+    "id": 160,
+    "title": "How Your Thoughts Are Built & How You Can Shape Them | Dr. Jennifer Groh",
+    "title_zh": "如何构建你的思想以及如何塑造它们 | 詹妮弗·格罗医生",
+    "source": "Huberman Lab",
+    "link": "https://www.hubermanlab.com/episode/how-your-thoughts-are-built-shape-them-jennifer-groh",
+    "tags": [
+      "solve",
+      "psychology",
+      "education",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "解决",
+      "心理学",
+      "教育学习",
+      "未来预测"
+    ],
+    "date": "2025-11-10",
+    "summary_en": "Dr. Jennifer Groh's insights into how our brain processes and integrates sensory information challenge conventional understanding of thought formation. By explaining the dynamic mapping of sights and sounds, she reveals how attention shapes not just immediate thoughts but future cognitive patterns. The discussion extends to practical applications like improving focus, enhancing happiness, and rewiring neural circuits for better task management. Particularly compelling is the exploration of how physical environments and auditory stimuli can influence mental states, offering actionable strategies for achieving flow states and mental endurance. This conversation bridges neuroscience with everyday life, demonstrating how understanding these mechanisms can lead to significant personal and professional improvements.",
+    "summary_zh": "詹妮弗·格罗医生揭示了大脑如何处理和整合感官信息，挑战了我们对思想形成的传统认知。通过解释声音和视觉的动态映射，她揭示了注意力如何塑造不仅是当下的思维，而且是未来的认知模式。讨论还延伸到提高专注力、增强幸福感和重塑神经电路以更好地管理任务等实际应用。特别是探讨了物理环境和听觉刺激如何影响心理状态，提供了达到流畅状态和提高心理耐力的可行策略。这场对话将神经科学与日常生活联系起来，展示了理解这些机制如何能带来重大的个人和职业提升。",
+    "best_quote_en": "What you focus on determines your thoughts, not just in that moment but your future thoughts too.",
+    "best_quote_zh": "你专注的东西决定了你的思想，不仅仅是当下，而且是未来的思想。"
   }
 ]
