@@ -1,123 +1,5 @@
 [
   {
-    "id": 61,
-    "title": "Helion Needs You",
-    "title_zh": "Helion 需要你的加入",
-    "source": "Sam Altman",
-    "link": "https://blog.samaltman.com/helion-needs-you",
-    "tags": [
-      "solve",
-      "ai-research",
-      "startup-strategy",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "解决",
-      "AI研究",
-      "创业策略",
-      "未来预测"
-    ],
-    "date": "2022-07-13",
-    "summary_en": "Helion's rapid progress toward Q>1 fusion and mass-producible fusion generators represents a potential energy revolution. The company's ambitious goals of 1 cent per kWh energy and meeting global electrical demand within a decade could transform quality of life and enable carbon capture. However, scientific progress alone isn't sufficient - Helion now faces engineering, manufacturing, and global implementation challenges. The critical factor for success is attracting top talent, with specific engineering roles currently open. This article highlights both the transformative potential of fusion energy and the practical steps needed to realize it.",
-    "summary_zh": "Helion在核聚变研究和大规模生产方面的快速进展可能带来能源革命。其目标是提供1美分/千瓦时的能源并满足全球电力需求，这将显著提升生活质量并促进碳捕捉。然而，科学突破仅是第一步，Helion还需解决工程、制造和全球部署等挑战。关键在于吸引顶尖人才，目前正在招聘多个关键工程岗位。这篇文章揭示了核聚变能源的潜力与实现路径。",
-    "best_quote_en": "Abundant, clean, and radically inexpensive energy will elevate the quality of life for all of us",
-    "best_quote_zh": "丰富、清洁且极其低廉的能源将提升我们所有人的生活质量"
-  },
-  {
-    "id": 62,
-    "title": "Essentials: How Your Brain Functions & Interprets the World | Dr. David Berson",
-    "title_zh": "必备知识：大脑如何运作并解释世界 | 大卫·伯森博士",
-    "source": "Huberman Lab",
-    "link": "https://www.hubermanlab.com/episode/essentials-brain-functions-interprets-the-world-dr-david-berson",
-    "tags": [
-      "inspire",
-      "science",
-      "education",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "启发",
-      "科学研究",
-      "教育学习",
-      "未来预测"
-    ],
-    "date": "2025-10-16",
-    "summary_en": "This episode with Dr. David Berson offers a fascinating exploration of neuroscience, particularly the visual system and its profound impact on our perception and physiology. The discussion spans from the mechanics of color vision to the discovery of melanopsin and its role in regulating circadian rhythms. Notably, Berson highlights the extraordinary plasticity of the visual cortex, demonstrating how the brain can reorganize itself in response to experience, such as in stroke recovery or Braille learning. The conversation also delves into the vestibular system's role in balance and motion detection, the cerebellum's function in motor coordination, and the basal ganglia's influence on decision-making. This episode is a masterclass in neuroplasticity, offering both practical insights into light exposure for melatonin regulation and a deeper understanding of sensory integration. It's a must-listen for anyone curious about how the brain interprets the world and adapts to change.",
-    "summary_zh": "这期访谈中，大卫·伯森博士深入浅出地讲解了神经科学，特别是视觉系统如何影响我们的感知和生理功能。从色觉的机制到黑色素细胞素的发现，再到它如何调节生物钟，内容涵盖广泛。尤其值得关注的是，伯森博士展示了视觉皮层的惊人可塑性，证明大脑能够通过经验重组自身，例如在中风康复或盲文阅读中。讨论还涉及前庭系统在平衡和运动检测中的作用，小脑在运动协调中的功能，以及基底节对决策的影响。这期节目是关于神经可塑性的精彩课程，提供了光照调节褪黑素的实用见解，并深入探讨了感官整合的机制。对于想了解大脑如何感知世界并适应变化的听众来说，这是一期必听内容。",
-    "best_quote_en": "The discovery of melanopsin and intrinsically photosensitive retinal ganglion cells revolutionized our understanding of how light regulates circadian rhythms and melatonin release.",
-    "best_quote_zh": "黑色素细胞素及内源性光敏视网膜神经节细胞的发现彻底改变了我们对光如何调节生物钟和褪黑素分泌的理解。"
-  },
-  {
-    "id": 63,
-    "title": "Give Me Your Data: The Rationalist Mind Meld",
-    "title_zh": "请给我你的数据：理性主义者的思维融合",
-    "source": "LessWrong",
-    "link": "https://www.lesswrong.com/posts/9SuQkKbZg39tsToPs/give-me-your-data-the-rationalist-mind-meld",
-    "tags": [
-      "solve",
-      "ai-research",
-      "leadership",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "解决",
-      "AI研究",
-      "领导管理",
-      "数据驱动"
-    ],
-    "date": "2025-10-19",
-    "summary_en": "The article presents a novel approach to resolving disagreements among rational individuals, emphasizing the importance of sharing underlying data rather than engaging in logical arguments. It critiques the common practice of debating based on known facts and points out that many beliefs stem from complex, data-informed intuitions rather than pure logic. The concept of a 'Rationalist mind meld' is introduced as a way to exchange foundational information that shapes our worldviews. The author uses the example of class inequality in America to illustrate how disagreements often arise from differing datasets rather than logical errors. The piece also discusses the limitations of the 'double-crux' method in resolving complex disagreements and advocates for a more data-sharing approach to foster mutual understanding and rationality. This perspective offers valuable insights into effective communication and belief formation in rational communities.",
-    "summary_zh": "文章提出了一个解决理性主义者之间分歧的新方法，强调分享基础数据比进行逻辑辩论更重要。作者指出，许多信念源于复杂的数据塑造的直觉，而非纯粹的逻辑。提出“理性主义者思维融合”概念，以交换塑造我们世界观的基础信息。通过美国阶级不平等的例子说明，分歧常源于数据差异而非逻辑错误。文章还讨论了“双重核心”方法在解决复杂分歧中的局限性，倡导通过数据分享促进相互理解和理性。这一视角为理性社区中的有效沟通和信念形成提供了宝贵见解。",
-    "best_quote_en": "Among mostly-rational people, I think most disagreements come down to a difference of intuitions, which are rooted in a difference in the data people have been exposed to.",
-    "best_quote_zh": "我认为，在大多数理性人士中，大多数分歧归根结底是直觉的不同，而这些直觉源于人们接触到的数据不同。"
-  },
-  {
-    "id": 64,
-    "title": "Essentials: Time Perception, Memory & Focus",
-    "title_zh": "要点：时间感知、记忆与专注力",
-    "source": "Huberman Lab",
-    "link": "https://www.hubermanlab.com/episode/essentials-time-perception-memory-focus",
-    "tags": [
-      "inspire",
-      "lifestyle",
-      "science",
-      "deep-dive"
-    ],
-    "tags_zh": [
-      "启发",
-      "生活方式",
-      "科学研究",
-      "深度分析"
-    ],
-    "date": "2025-10-09",
-    "summary_en": "This Huberman Lab Essentials episode dives deep into the fascinating interplay between our biological rhythms and perception of time. Dr. Huberman explains how our bodies sync with light cycles to regulate hormones affecting energy and motivation, offering practical tools for optimizing productivity. The discussion on neurotransmitters like dopamine and serotonin reveals how they shape our time perception, with novel experiences creating more vivid memories. The episode bridges science and practical application, providing actionable insights for improving focus and understanding how emotions influence our experience of time. It's a masterclass in applying neuroscience to daily life, making complex concepts accessible while maintaining scientific rigor.",
-    "summary_zh": "这一集Huberman Lab Essentials深入探讨了生物节律与时间感知的关系。Huberman博士解释了身体如何通过光周期调节激素影响能量和动力，并提供了提升效率的实用工具。关于多巴胺和血清素如何影响时间感知的讨论揭示了新奇体验如何创造更生动的记忆。节目将科学与实践结合，提供了改善专注力的可行性见解，并探讨了情绪如何影响我们对时间的体验。这是一堂将神经科学应用于日常生活的精彩课程，使复杂概念变得易于理解。",
-    "best_quote_en": "Our perception of time is profoundly influenced by novelty, emotion, and routine, shaping how we experience and recall our lives.",
-    "best_quote_zh": "我们对时间的感知深受新奇体验、情绪和习惯的影响，塑造了我们体验和回忆生活的方式。"
-  },
-  {
-    "id": 65,
-    "title": "How the Brain Moves From Waking Life to Sleep (and Back Again)",
-    "title_zh": "大脑如何在清醒与睡眠之间切换（以及如何再返回）",
-    "source": "Quanta Magazine",
-    "link": "https://www.quantamagazine.org/how-the-brain-moves-from-waking-life-to-sleep-and-back-again-20251017/",
-    "tags": [
-      "analyze",
-      "science",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "分析",
-      "科学研究",
-      "数据驱动"
-    ],
-    "date": "2025-10-17",
-    "summary_en": "This article explores the fascinating transition states between wakefulness and sleep, revealing that the brain doesn't simply switch between on and off states but navigates a complex spectrum of consciousness. Neuroscientists are uncovering how these transitions work, identifying unique brain wave patterns and limbic states that challenge traditional understandings of sleep. The research highlights how disturbances in these transitions can lead to sleep disorders like insomnia or sleepwalking, suggesting that our sleep consciousness is more nuanced than previously thought. The article also touches on creative potential in hypnagogic states and the mysterious phenomenon of local sleep, where parts of the brain sleep while others remain active. This work not only deepens our understanding of consciousness but also offers potential insights into treating sleep disorders.",
-    "summary_zh": "这篇文章探讨了大脑在清醒与睡眠之间的过渡状态，揭示了大脑并非简单地在开与关之间切换，而是经历一个复杂的意识光谱。神经科学家正在揭示这些过渡的运作机制，发现了独特的脑波模式和边缘状态，这些发现挑战了传统对睡眠的理解。研究表明，这些过渡过程出现障碍可能导致失眠或梦游等睡眠障碍，表明我们的睡眠意识比之前认为的更为复杂。文章还提到催眠状态中的创造力潜能以及局部睡眠的神秘现象，即大脑的一部分进入睡眠状态而其他部分保持清醒。这些研究不仅加深了我们对意识的理解，也为治疗睡眠障碍提供了潜在见解。",
-    "best_quote_en": "'Our brains can really rapidly transform us from being aware of our environments to being unconscious, or even experiencing things that aren't there.' - Laura Lewis",
-    "best_quote_zh": "“我们的大脑可以非常快速地将我们从对环境的觉察转变为无意识状态，甚至体验到不存在的事物。”——劳拉·刘易斯"
-  },
-  {
     "id": 66,
     "title": "A poet on Mars",
     "title_zh": "火星上的诗人",
@@ -2360,5 +2242,125 @@
     "summary_zh": "詹妮弗·格罗医生揭示了大脑如何处理和整合感官信息，挑战了我们对思想形成的传统认知。通过解释声音和视觉的动态映射，她揭示了注意力如何塑造不仅是当下的思维，而且是未来的认知模式。讨论还延伸到提高专注力、增强幸福感和重塑神经电路以更好地管理任务等实际应用。特别是探讨了物理环境和听觉刺激如何影响心理状态，提供了达到流畅状态和提高心理耐力的可行策略。这场对话将神经科学与日常生活联系起来，展示了理解这些机制如何能带来重大的个人和职业提升。",
     "best_quote_en": "What you focus on determines your thoughts, not just in that moment but your future thoughts too.",
     "best_quote_zh": "你专注的东西决定了你的思想，不仅仅是当下，而且是未来的思想。"
+  },
+  {
+    "id": 161,
+    "title": "To Have Machines Make Math Proofs, Turn Them Into a Puzzle",
+    "title_zh": "让机器完成数学证明，将其转化为拼图",
+    "source": "Quanta Magazine",
+    "link": "https://www.quantamagazine.org/to-have-machines-make-math-proofs-turn-them-into-a-puzzle-20251110/",
+    "tags": [
+      "learn",
+      "ai-research",
+      "science",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "学习",
+      "AI研究",
+      "科学研究",
+      "数据驱动"
+    ],
+    "date": "2025-11-10",
+    "summary_en": "This article explores the groundbreaking work of Marijn Heule, who uses SAT (satisfiability) solvers to tackle complex mathematical problems by transforming them into puzzle-like structures. Heule's approach, while criticized for producing 'disgusting' proofs that humans can't easily understand, has successfully solved long-standing problems in geometry and combinatorics. The article delves into the potential of combining SAT solvers with large language models (LLMs) to create powerful tools for mathematical research. Heule argues that understanding is overrated in mathematics, and trust in automated reasoning should be prioritized. The collaboration between human mathematicians, LLMs, and automated reasoning could revolutionize the field by solving problems beyond human capabilities while maintaining the essential role of human intuition and creativity.",
+    "summary_zh": "这篇文章介绍了Marijn Heule的开创性工作，他通过将数学问题转化为拼图般的结构，使用满足性（SAT）求解器来解决复杂的数学难题。尽管Heule的方法因产生人类难以理解的“恶心证明”而受到批评，但它成功解决了几何和组合数学中长期悬而未决的问题。文章探讨了将SAT求解器与大型语言模型（LLMs）结合的潜力，以创建强大的数学研究工具。Heule认为，在数学中理解被高估了，而对自动推理的信任应该被优先考虑。人类数学家、LLMs和自动推理的协作可能通过解决超越人类能力的问题，同时保持人类直觉和创造力的核心作用，从而革命性地改变这一领域。",
+    "best_quote_en": "Understanding in mathematics is highly overrated. The thing is, there’s no mathematician alive who understands all of mathematics.",
+    "best_quote_zh": "数学中的理解被高估了。事实是，没有任何在世的数学家能完全理解所有的数学。"
+  },
+  {
+    "id": 162,
+    "title": "The model of catastrophe",
+    "title_zh": "灾难模型",
+    "source": "Aeon",
+    "link": "https://aeon.co/essays/todays-complex-climate-models-arent-equivalent-to-reality?utm_source=rss-feed",
+    "tags": [
+      "solve",
+      "science",
+      "society",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "解决",
+      "科学研究",
+      "社会议题",
+      "数据驱动"
+    ],
+    "date": "2025-11-11",
+    "summary_en": "This essay challenges the reliability of current climate models for local predictions, arguing that while Earth System Models (ESMs) are valuable research tools, they fall short in providing accurate multi-decadal, regional climate forecasts due to their inherent inaccuracies and oversimplifications. The author proposes two alternative approaches: storyline approaches that focus on plausible future scenarios based on expert understanding of climate processes, and perturbed physics ensembles that explore diverse model responses to greenhouse gas increases. The piece emphasizes the importance of embracing uncertainty in climate science and moving away from the pursuit of perfectly realistic models, advocating instead for methods that better capture the range of possible future climates to inform societal decisions.",
+    "summary_zh": "该文章质疑了当前气候模型在区域预测上的可靠性，认为尽管地球系统模型是宝贵的研究工具，但因其固有缺陷和简化，无法提供准确的长期区域气候预测。作者提出两种替代方案：基于专家对气候过程理解的故事线方法，以及探索不同模型对温室气体增加反应的扰动物理集合。文章强调在气候科学中拥抱不确定性的重要性，主张摒弃追求完美现实模型的做法，转而采用更能反映未来气候可能性的方法来指导社会决策。",
+    "best_quote_en": "All models are wrong, but some are useful.",
+    "best_quote_zh": "所有模型都是错误的，但有些是有用的。"
+  },
+  {
+    "id": 163,
+    "title": "Quiz: If You Can Name All 10 of These Thanksgiving Movies, You’re Ready for the Holidays",
+    "title_zh": "测验：如果你能说出这10部感恩节电影的名字，你就准备好过节了",
+    "source": "Mental Floss",
+    "link": "https://www.mentalfloss.com/quizzes/name-all-10-thanksgiving-movies?utm_source=RSS",
+    "tags": [
+      "update",
+      "psychology",
+      "science",
+      "beginner-friendly"
+    ],
+    "tags_zh": [
+      "动态",
+      "心理学",
+      "科学研究",
+      "新手友好"
+    ],
+    "date": "2025-11-11",
+    "summary_en": "This engaging quiz tests readers' knowledge of Thanksgiving movies, blending entertainment with subtle psychological insights. The content highlights how holiday films provide comfort through nostalgia and predictability, backed by academic research. While primarily a fun, seasonal activity, the article touches on stress management during the holidays and the psychological benefits of watching familiar movies. It's a lighthearted piece that cleverly combines pop culture with science, making it both entertaining and subtly educational.",
+    "summary_zh": "这篇文章通过感恩节电影测验，结合了娱乐和心理学的巧妙结合。轻松有趣的测试背后，隐藏着对节日电影带来的怀旧和心理慰藉的深度分析。内容既能让读者享受节日氛围，又能从科学角度理解为什么这些电影能带来快乐。",
+    "best_quote_en": "\"People enjoy holiday movies because they provide a break from the business of the season: they're predictable, comforting and have happy endings.\"",
+    "best_quote_zh": "\"人们喜欢节日电影，因为它们能让人们从繁忙的季节中暂时解脱：这些电影既有预测性，又能带来慰藉，而且结局总是幸福的。\""
+  },
+  {
+    "id": 164,
+    "title": "Conceptual reasoning dataset v0.1 available (AI for AI safety/AI for philosophy)",
+    "title_zh": "概念推理数据集 v0.1 可用（AI安全/哲学领域AI）",
+    "source": "LessWrong",
+    "link": "https://www.lesswrong.com/posts/DiyqXDE5xzPAdNNdi/conceptual-reasoning-dataset-v0-1-available-ai-for-ai-safety",
+    "tags": [
+      "inspire",
+      "science",
+      "ai-research",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "启发",
+      "科学研究",
+      "AI研究",
+      "未来预测"
+    ],
+    "date": "2025-11-12",
+    "summary_en": "This announcement introduces a novel conceptual reasoning dataset for AI safety and philosophy research. The dataset, though still in development, is considered high-quality and currently the best of its kind. It contains positions, critiques, and expert ratings on seven criteria, with extensive validation processes. The creators emphasize its potential for improving AI's conceptual reasoning capabilities, particularly for safety-relevant research. The dataset is being made available to mission-aligned projects, with access controlled to ensure responsible use. This initiative represents a significant step towards developing AI systems that can handle complex, truth-relative reasoning tasks.",
+    "summary_zh": "该公告介绍了一个用于AI安全和哲学研究的概念推理数据集。该数据集虽仍在开发中，但被认为质量很高，目前是最好的同类数据集。它包含观点、评论和专家对七个标准的评分，并经过广泛的验证。创作者强调其在提升AI概念推理能力方面的潜力，特别是在安全相关研究中。数据集将向有使命相符的项目开放，但访问权限受控以确保负责任的使用。这一举措标志着向开发能处理复杂、真相相关推理任务的AI系统迈出了重要一步。",
+    "best_quote_en": "We consider the dataset half-baked and it will likely become much more useful over the next few months. At the same time, we think it's very high quality compared to typical AI datasets and currently the best available dataset of this kind.",
+    "best_quote_zh": "我们认为该数据集尚不完善，未来几个月内可能会变得更加有用。同时，我们认为它比典型的AI数据集质量更高，目前是最好的同类数据集。"
+  },
+  {
+    "id": 165,
+    "title": "The Hidden Devastation of Hurricanes",
+    "title_zh": "飓风的隐藏破坏",
+    "source": "The New Yorker",
+    "link": "https://www.newyorker.com/news/the-lede/the-hidden-devastation-of-hurricanes",
+    "tags": [
+      "analyze",
+      "medicine",
+      "science",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "分析",
+      "医学健康",
+      "科学研究",
+      "数据驱动"
+    ],
+    "date": "2025-11-11",
+    "summary_en": "This article reveals the often overlooked long-term health impacts of hurricanes, extending far beyond immediate physical destruction. Through compelling case studies and research findings, it highlights how tropical cyclones contribute to increased cardiovascular events, mental health issues, and even infant mortality years after the initial disaster. The piece argues for a fundamental shift in how we approach disaster recovery, emphasizing sustained investment in healthcare, economic support, and infrastructure to address these cascading effects. The most striking insight is the revelation that hurricanes cause up to 11,000 excess deaths over 15 years - a figure 300 times higher than official counts. This challenges our conventional understanding of disaster impacts and calls for more comprehensive preparedness and response strategies in our warming world.",
+    "summary_zh": "这篇文章揭示了飓风的长期健康影响远超直接破坏，通过案例研究显示热带风暴导致心血管疾病、精神健康问题及婴儿死亡率上升。呼吁应对灾害时需加大医疗、经济支持和基建投入，应对连锁影响。最惊人的发现是飓风可导致15年内11000例超额死亡，比官方统计高300倍，重新定义灾害影响范围，呼吁在变暖世界中加强灾害应对策略。",
+    "best_quote_en": "The hazards extend beyond rain, flooding, or wind. They're existential. They pull at every element of the fabric of society.",
+    "best_quote_zh": "这些危害超越了雨、洪水或风。它们是存在性的。它们撕扯着社会结构的每一个元素。"
   }
 ]
