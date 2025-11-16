@@ -1,123 +1,5 @@
 [
   {
-    "id": 66,
-    "title": "A poet on Mars",
-    "title_zh": "火星上的诗人",
-    "source": "Aeon",
-    "link": "https://aeon.co/essays/why-i-wonder-if-virginia-woolf-was-autistic?utm_source=rss-feed",
-    "tags": [
-      "inspire",
-      "science",
-      "psychology",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "启发",
-      "科学研究",
-      "心理学",
-      "数据驱动"
-    ],
-    "date": "2025-10-17",
-    "summary_en": "The essay explores the intriguing hypothesis that Virginia Woolf may have been autistic, drawing parallels between her sensory experiences and those of autistic individuals. The author shares personal experiences with their autistic child, P, revealing how Woolf's writing resonated with their understanding of neurodivergence. The analysis delves into Woolf's unique prose style, her focus on sensory details, and her apparent challenges with social cognition, all of which align with autistic traits. The piece argues that Woolf's neurodivergence may have been the source of her literary genius, allowing her to perceive and convey the world in ways that neurotypical authors might miss. This perspective offers valuable insights into both Woolf's work and the broader experience of autism, challenging traditional notions of what it means to be 'normal' in terms of cognition and creativity.",
-    "summary_zh": "文章探讨了弗吉尼亚·伍尔夫可能是自闭症的有趣假设，通过她的感官体验与自闭症者的相似之处进行对比。作者分享了与自闭症孩子P的个人经历，揭示了伍尔夫的写作如何与他们对神经多样性的理解产生共鸣。分析深入探讨了伍尔夫独特的散文风格、对感官细节的关注以及她似乎面临的社会认知挑战，这些都与自闭症特征相符。文章认为，伍尔夫的神经多样性可能是她文学天才的来源，使她能够以神经典型作者可能忽略的方式感知和表达世界。这种视角为伍尔夫的作品以及更广泛的自闭症体验提供了宝贵的见解，挑战了关于认知和创造力的传统'正常'概念。",
-    "best_quote_en": "If Grandin is the anthropologist, then Woolf is surely the poet on Mars.",
-    "best_quote_zh": "如果格兰丁是人类学家，那么伍尔夫无疑是火星上的诗人。"
-  },
-  {
-    "id": 67,
-    "title": "Where Did the Phrase ‘Waiting for the Other Shoe to Drop’ Come From?",
-    "title_zh": "“等待另一只鞋落地”这个短语从何而来？",
-    "source": "Mental Floss",
-    "link": "https://www.mentalfloss.com/language/waiting-for-the-other-shoe-to-drop-meaning-origins?utm_source=RSS",
-    "tags": [
-      "analyze",
-      "ai-research",
-      "leadership",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "分析",
-      "AI研究",
-      "领导管理",
-      "数据驱动"
-    ],
-    "date": "2025-10-19",
-    "summary_en": "This article explores the origins of the idiom 'waiting for the other shoe to drop,' tracing its likely emergence in early 20th-century America. The phrase, meaning to anticipate an inevitable negative event, is theorized to have roots in the shared living spaces of the era, where residents would remove their shoes noisily after returning home late. The article presents two main theories: one involving the daily life of boarding house residents and another suggesting a lost theatrical skit. The analysis offers cultural insights into early 20th-century American life and the evolution of language, while leaving room for speculation about the phrase's exact origins. It's a fascinating linguistic detective story that connects historical living conditions to modern expressions.",
-    "summary_zh": "这篇文章探讨了“等待另一只鞋落地”这个成语的起源，追溯到20世纪初的美国。这个短语，指等待不可避免的负面事件，据信起源于当时的共享住房，居民深夜归来后会噼里啪啦地脱鞋。文章提出了两种理论：一种是关于寄宿公寓居民的日常生活，另一种是一个已失传的戏剧短剧。分析提供了关于20世纪初美国生活和语言演变的文化洞察，同时对该短语的确切起源留有悬念。这是一个将历史居住条件与现代表达联系起来的趣味语言侦探故事。",
-    "best_quote_en": "The poor resident downstairs, however, just knows that there’s a second shoe that’s about to be dropped on the floor, and is left sitting in impatient agony, waiting for the inevitable crash.",
-    "best_quote_zh": "然而，楼下的可怜居民却清楚地知道，地板上即将掉下第二只鞋，只能忍受着焦急的煎熬，等待那必然的噼啪声响。"
-  },
-  {
-    "id": 68,
-    "title": "Can you transfer a backdoor with subliminal learning?",
-    "title_zh": "通过潜意识学习可以传输后门吗？",
-    "source": "LessWrong",
-    "link": "https://www.lesswrong.com/posts/DSePg8x2MQyzsGqxu/can-you-transfer-a-backdoor-with-subliminal-learning",
-    "tags": [
-      "solve",
-      "ai-research",
-      "science",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "解决",
-      "AI研究",
-      "科学研究",
-      "数据驱动"
-    ],
-    "date": "2025-10-20",
-    "summary_en": "This research reveals a fascinating and concerning phenomenon in AI security: backdoor behaviors in language models can transfer through subliminal learning without requiring the trigger phrase. The study found that when a student model is fine-tuned on outputs from a backdoored teacher model (without using the backdoor trigger), the backdoor behavior transfers as an 'always-on' feature. This suggests that the mere existence of a backdoor in the teacher model subtly alters its output tokens enough to imprint the backdoor on the student model. The implications are significant for both AI security and backdoor detection methods. If this effect proves consistent across models and backdoor types, it could revolutionize backdoor detection by eliminating the need to know the specific trigger phrase. The research also highlights potential challenges, including inconsistent transfer rates and the possibility of false negatives. This work opens important avenues for further exploration in AI security and model behavior analysis.",
-    "summary_zh": "该研究揭示了AI安全领域的一个令人担忧的现象：语言模型中的后门行为可通过潜意识学习传输，无需触发词。当学生模型在未使用后门触发词的情况下，基于带有后门的教师模型输出进行微调时，后门行为会以'始终开启'的方式传输。这表明教师模型中后门的存在会微妙地改变其输出的tokens，从而将后门印记到学生模型上。这一发现对AI安全和后门检测方法具有重要意义。若此效应在各种模型和后门类型中保持一致，可能彻底改变后门检测方法，无需了解特定触发词。研究还指出了潜在挑战，包括传输率不一致和可能的假阴性结果。此工作为AI安全和模型行为分析开辟了重要研究方向。",
-    "best_quote_en": "This suggests that the existence of the backdoor in the teacher model, even when un-triggered, changes the teacher's output tokens enough to transfer the backdoor behavior to the student model.",
-    "best_quote_zh": "这表明教师模型中后门的存在，即使未被触发，也足以改变教师模型的输出tokens，从而将后门行为传输给学生模型。"
-  },
-  {
-    "id": 69,
-    "title": "A “New Middle East” Is Easier to Declare Than to Achieve",
-    "title_zh": "声称“新中东”比实现它更容易",
-    "source": "The New Yorker",
-    "link": "https://www.newyorker.com/magazine/2025/10/27/a-new-middle-east-is-easier-to-declare-than-to-achieve",
-    "tags": [
-      "solve",
-      "politics",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "解决",
-      "政治时事",
-      "未来预测"
-    ],
-    "date": "2025-10-19",
-    "summary_en": "David Remnick's analysis of President Trump's visit to Jerusalem during a fragile Gaza ceasefire offers a scathing critique of political posturing over substantive peace efforts. While the end of hostilities brings relief, Remnick argues that Trump's approach lacks strategic vision, driven more by transactional interests than genuine commitment to lasting peace. The piece highlights the hypocrisy in Trump's praise of Netanyahu's suppression of Palestinian protests while ignoring deeper systemic issues. Comparing current efforts unfavorably to Sadat's historic 1977 visit to Jerusalem, Remnick laments the absence of true statesmanship. The article serves as a sobering reminder that meaningful peace requires sustained effort, moral courage, and acknowledgment of historical injustices—not just grand declarations.",
-    "summary_zh": "雷姆尼克对特朗普在加沙停火期间访问耶路撒冷的分析，揭露了政治表演与实际和平进程的鸿沟。尽管冲突结束令人欣慰，但特朗普的策略缺乏远见，更多出于利益交换而非真正的和平承诺。文章指出，特朗普赞扬内塔尼亚胡镇压巴勒斯坦抗议的虚伪，同时忽视了更深层的结构性问题。将当前局势与萨达特1977年历史性访问耶路撒冷对比，作者叹息真正的政治家风范的缺失。这篇文章警示我们，真正的和平需要持续努力、道德勇气和对历史不公的承认——而不仅仅是华丽的宣言。",
-    "best_quote_en": "Real progress in the region, real justice and stability, will require healing, constancy, imagination, and endurance—day after day, year after year, long past any one Administration.",
-    "best_quote_zh": "地区的真正进展、真正的正义与稳定需要治愈、坚持、想象力和毅力——日复一日，年复一年，超越任何一个政府的任期。"
-  },
-  {
-    "id": 70,
-    "title": "How Soon Will the Seas Rise?",
-    "title_zh": "海平面何时上升？",
-    "source": "Quanta Magazine",
-    "link": "https://www.quantamagazine.org/how-soon-will-the-seas-rise-20251020/",
-    "tags": [
-      "learn",
-      "science",
-      "ai-research",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "学习",
-      "科学研究",
-      "AI研究",
-      "未来预测"
-    ],
-    "date": "2025-10-20",
-    "summary_en": "This article explores the critical uncertainty surrounding the rate of sea-level rise due to the melting of the West Antarctic Ice Sheet. The piece examines the controversial 'marine ice cliff instability' theory, which suggests that towering ice cliffs could collapse in a chain reaction, dramatically accelerating sea-level rise. While some scientists caution that this scenario is uncertain, others point to historical evidence like the rapid collapse of the Larsen B ice shelf as reason for concern. The article highlights the complex interplay between ice dynamics, ocean warming, and geophysical factors, emphasizing that even without runaway collapse, significant sea-level rise is inevitable. With 230 million people living within a meter of current sea levels, the urgency of understanding these processes cannot be overstated. The piece ultimately underscores the deep uncertainty in climate science and the need for immediate action to mitigate risks.",
-    "summary_zh": "这篇文章探讨了西南极冰盖融化导致海平面上升的关键不确定性。文中讨论了有争议的“海洋冰崖不稳定”理论，认为高大的冰崖可能会发生连锁坍塌，显著加速海平面上升。虽然一些科学家认为这种情况不太可能，但其他科学家则指出，历史证据如拉森B冰架的迅速崩塌值得警惕。文章强调了冰川动力学、海洋变暖和地球物理因素之间的复杂相互作用，指出即使没有连锁崩塌，海平面上升也是不可避免的。由于全球有2.3亿人居住在海平面1米内，理解这些过程的紧迫性不可忽视。文章最终强调了气候科学中的深层不确定性及迫切需要采取行动以减轻风险。",
-    "best_quote_en": "There’s a very serious message here: As the grounding line marches inland toward ever-thicker ice in a process called marine ice sheet instability, 'you will have a very sharp increase in global sea level, and it will happen very quickly.'",
-    "best_quote_zh": "这里有一个非常严重的信息：随着接地线向内陆推进，冰层在海洋冰盖不稳定过程中变得越来越厚，'全球海平面将会急剧上升，而且会发生得非常快。'"
-  },
-  {
     "id": 71,
     "title": "Children of war",
     "title_zh": "战争的孩子",
@@ -2362,5 +2244,123 @@
     "summary_zh": "这篇文章揭示了飓风的长期健康影响远超直接破坏，通过案例研究显示热带风暴导致心血管疾病、精神健康问题及婴儿死亡率上升。呼吁应对灾害时需加大医疗、经济支持和基建投入，应对连锁影响。最惊人的发现是飓风可导致15年内11000例超额死亡，比官方统计高300倍，重新定义灾害影响范围，呼吁在变暖世界中加强灾害应对策略。",
     "best_quote_en": "The hazards extend beyond rain, flooding, or wind. They're existential. They pull at every element of the fabric of society.",
     "best_quote_zh": "这些危害超越了雨、洪水或风。它们是存在性的。它们撕扯着社会结构的每一个元素。"
+  },
+  {
+    "id": 166,
+    "title": "Mixing Is the Heartbeat of Deep Lakes. At Crater Lake, It’s Slowing Down.",
+    "title_zh": "深水湖的搏动正在减缓：克拉玛湖的变化",
+    "source": "Quanta Magazine",
+    "link": "https://www.quantamagazine.org/mixing-is-the-heartbeat-of-deep-lakes-at-crater-lake-its-slowing-down-20251114/",
+    "tags": [
+      "update",
+      "science",
+      "environment",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "动态",
+      "科学研究",
+      "环境科学",
+      "数据驱动"
+    ],
+    "date": "2025-11-14",
+    "summary_en": "This article explores the critical role of water mixing in deep lakes and the alarming trends observed at Crater Lake, where climate change is slowing this essential process. The study highlights how warming temperatures disrupt the natural stratification and mixing patterns, leading to ecological consequences like oxygen depletion and algal blooms. The long-term monitoring of Crater Lake provides valuable insights into global lake health, serving as a case study for understanding broader climate impacts. The article also discusses the challenges faced by researchers due to funding cuts and the urgent need for collaborative efforts to mitigate these effects. It underscores the importance of preserving lake ecosystems, which are vital indicators of environmental health and climate change.",
+    "summary_zh": "这篇文章探讨了深水湖混合过程的重要性及气候变化对克拉玛湖的影响，揭示了水层搅拌减缓可能引发的生态问题。长期监测数据为全球湖泊健康研究提供了关键参考，同时呼吁科学界加强合作，应对气候变化带来的挑战。保护这些独特的水体生态系统对理解全球变暖至关重要。",
+    "best_quote_en": "I think about it like a vinaigrette. There’s resistance to mixing.",
+    "best_quote_zh": "我把它想象成一种沙拉酱。混合过程中存在阻力。"
+  },
+  {
+    "id": 167,
+    "title": "Mask on/mask off",
+    "title_zh": "戴上/摘下面具",
+    "source": "Aeon",
+    "link": "https://aeon.co/essays/the-hidden-costs-of-masking-for-women-with-adhd-and-autism?utm_source=rss-feed",
+    "tags": [
+      "solve",
+      "psychology",
+      "education",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "解决",
+      "心理学",
+      "教育学习",
+      "数据驱动"
+    ],
+    "date": "2025-11-14",
+    "summary_en": "This deeply personal essay explores the complex phenomenon of masking among neurodivergent individuals, particularly women with ADHD and autism. The author shares her own experiences of suppressing emotions and behaviors to fit societal expectations, highlighting the mental health toll of constant self-suppression. Through case studies of her clients, she illustrates how masking manifests differently across neurodivergent conditions - whether it's ADHD-related emotional dysregulation or autistic individuals learning and rehearsing social norms. The piece delves into the chicken-and-egg dilemma of stigma and masking, suggesting that while masking may help neurodivergent individuals survive in a neurotypical world, it ultimately reinforces their invisibility and deepens feelings of alienation. The author ultimately advocates for creating safe spaces within the neurodivergent community where authenticity can flourish without the need for masks.",
+    "summary_zh": "这篇深刻的个人随笔探讨了神经多样性人群（尤其是ADHD和自闭症的女性）中“戴面具”现象的复杂性。作者分享了自己为了符合社会期待而压抑情绪和行为的经历，凸显了持续自我压抑对心理健康的影响。通过她客户的案例，作者展示了“戴面具”在不同神经多样性条件下的不同表现形式——无论是ADHD相关的情绪失调，还是自闭症个体学习并练习社会规范。文章深入探讨了污名化与“戴面具”之间的鸡生蛋蛋生鸡的困境，认为虽然“戴面具”可能帮助神经多样性人群在神经典型的世界中生存，但最终却强化了他们的隐形性，并加深了孤独感。作者最后倡导在神经多样性群体中创造安全空间，使真实的自我能够无需面具地绽放。",
+    "best_quote_en": "In a world that expects girls to be composed and compliant, masking becomes a survival skill.",
+    "best_quote_zh": "在一个期望女孩镇定顺从的世界里，戴面具成了一种生存技能。"
+  },
+  {
+    "id": 168,
+    "title": "10 Inexpensive Ways to Keep Warm This Winter",
+    "title_zh": "冬季保暖的10种经济实惠方法",
+    "source": "Mental Floss",
+    "link": "https://www.mentalfloss.com/live-smarter/inexpensive-ways-keep-warm-winter?utm_source=RSS",
+    "tags": [
+      "solve",
+      "lifestyle",
+      "beginner-friendly"
+    ],
+    "tags_zh": [
+      "解决",
+      "生活方式",
+      "新手友好"
+    ],
+    "date": "2025-11-15",
+    "summary_en": "This article offers practical, budget-friendly strategies for staying warm during winter without relying on expensive heating solutions. It emphasizes creative approaches like layering clothing, utilizing natural sunlight, and creating cozy zones in homes. The advice is particularly valuable for individuals looking to reduce energy bills while maintaining comfort. The author's tone is engaging and relatable, making complex financial and environmental concerns feel more manageable through simple, actionable steps. The piece stands out for its focus on everyday solutions that anyone can implement, making it both practical and inspiring for readers facing similar challenges.",
+    "summary_zh": "这篇文章提供了冬季保暖的10种经济实惠方法，强调创意解决方案而非依赖昂贵的取暖方式。作者建议通过穿多层衣物、利用自然阳光和打造舒适区等方式保持温暖。这些建议对希望降低能源费用的读者尤为有价值。文章用轻松幽默的语言讲述复杂的财务和环境问题，提供简单易行的解决方案。内容既实用又富有启发性，适合面临类似挑战的读者参考。",
+    "best_quote_en": "Staying warm doesn’t have to mean cranking up the heat or spending half your paycheck on utilities. With a little creativity (and maybe a few extra layers), you can coast through winter feeling a tiny bit less angry at the meteorologist.",
+    "best_quote_zh": "保持温暖不必意味着开足暖气或把半个月的薪水花在能源费上。只要有一点创意（也许再加几层衣服），你就能平安度过冬季，对气象学家的愤怒也能稍微减少一点。"
+  },
+  {
+    "id": 169,
+    "title": "Put numbers on stuff, all the time, otherwise scope insensitivity will eat you",
+    "title_zh": "总是给事物贴上数字，否则范围不敏感会吞噬你",
+    "source": "LessWrong",
+    "link": "https://www.lesswrong.com/posts/sdvBcPSR7p5mKhB7b/put-numbers-on-stuff-all-the-time-otherwise-scope",
+    "tags": [
+      "solve",
+      "startup-strategy",
+      "design",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "解决",
+      "创业策略",
+      "设计创意",
+      "数据驱动"
+    ],
+    "date": "2025-11-16",
+    "summary_en": "This insightful post emphasizes the critical importance of quantitative thinking in decision-making, particularly in prioritization. The author argues that attaching concrete numbers to considerations helps reveal their relative importance and makes decisions more objective. By providing specific examples of key metrics relevant to their organization, they demonstrate how quick estimates can inform better resource allocation. The analysis of whether to improve a specific webpage showcases practical application of this approach, revealing how numerical reasoning can guide prioritization even when perfect data isn't available. The post encourages a cultural mindset of regular estimation practice and numerical literacy.",
+    "summary_zh": "这篇文章强调在决策中定量思维的重要性，尤其是优先级排序。作者认为，将具体数字附加到考虑因素上，能揭示其相对重要性，使决策更客观。通过提供组织相关的关键指标示例，展示了如何通过快速估算指导更好的资源分配。对是否改进特定页面的分析，展示了这种方法的实用应用，即使没有完美数据。文章倡导培养定期估算和数字素养的文化心态。",
+    "best_quote_en": "One of the most common errors people make is to fail to realize that one consideration is an order of magnitude more important than another because they fail to put the considerations into quantitative terms.",
+    "best_quote_zh": "人们常犯的一个错误是未能意识到一个考虑因素比另一个重要一个数量级，因为他们未能将这些考虑因素用数值表达出来。"
+  },
+  {
+    "id": 170,
+    "title": "The Mystery of the Political Assassin",
+    "title_zh": "政治刺客之谜",
+    "source": "The New Yorker",
+    "link": "https://www.newyorker.com/news/the-weekend-essay/the-mystery-of-the-political-assassin",
+    "tags": [
+      "solve",
+      "medicine",
+      "society",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "解决",
+      "医学健康",
+      "社会议题",
+      "未来预测"
+    ],
+    "date": "2025-11-15",
+    "summary_en": "Margaret Talbot's essay explores the complex nature of political assassinations, challenging the notion that these acts have clear motives or predictable outcomes. Through historical examples like Gavrilo Princip and Yitzhak Rabin, she demonstrates how assassinations often produce unintended consequences. The essay argues that modern political violence in the U.S. is increasingly committed by isolated individuals rather than organized groups, making motives harder to discern. The case of Luigi Mangione, who assassinated a healthcare CEO, illustrates this trend. Despite Mangione's attempt to make a targeted political statement, his act was absorbed into broader cultural narratives that didn't necessarily align with his intentions. The essay concludes that while we crave clear explanations for political violence, the reality is often more ambiguous, with audiences projecting their own meanings onto these acts.",
+    "summary_zh": "玛格丽特·塔尔博特的随笔探讨了政治刺杀的复杂本质，挑战了人们认为这些行为动机清晰、结果可预测的观点。通过对加夫里洛·普林西普和伊扎克·拉宾等历史人物的分析，她展示了刺杀行为往往产生出人意料的后果。文章指出，当前美国的政治暴力行为越来越多是由孤立的个人实施的，而非有组织的团体，这使得动机难以辨明。卢伊吉·曼乔内刺杀医疗保险CEO的案例正体现了这一趋势。尽管曼乔内试图发起针对性的政治声明，但他的行为却被融入了更广泛的文化叙事，并未必与其初衷相符。文章最后得出结论：尽管我们渴望找到政治暴力行为的明确解释，但现实往往更加模糊，公众更容易将自身意义投射到这些行为上。",
+    "best_quote_en": "These sorts of incidents, where we can’t figure out why they did it, are becoming more common.",
+    "best_quote_zh": "我们无法弄清楚动机的事件正变得越来越常见。"
   }
 ]
