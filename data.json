@@ -1,119 +1,5 @@
 [
   {
-    "id": 76,
-    "title": "How Kathy Bates’s Grandfather Got Wrapped Up in the Mystery of a Mummified John Wilkes Booth",
-    "title_zh": "凯西·贝茨的祖父如何卷入约翰·威尔克斯·布斯木乃伊之谜",
-    "source": "Mental Floss",
-    "link": "https://www.mentalfloss.com/history/kathy-bates-grandfather-john-wilkes-booth-mummy-mystery?utm_source=RSS",
-    "tags": [
-      "solve",
-      "history",
-      "controversial"
-    ],
-    "tags_zh": [
-      "解决",
-      "历史",
-      "有争议"
-    ],
-    "date": "2025-10-21",
-    "summary_en": "This article explores the bizarre true story of Finis Bates, Kathy Bates's grandfather, and his obsession with a mummified body he believed to be John Wilkes Booth, Lincoln's assassin. The story spans decades, involving deathbed confessions, traveling carnivals, and forensic examinations. It's a fascinating blend of history, conspiracy theory, and macabre Americana that raises questions about identity, truth, and the public's fascination with the bizarre. The article serves as both an historical account and a commentary on how legends persist despite evidence.",
-    "summary_zh": "文章讲述了凯西·贝茨的祖父芬尼斯·贝茨如何围绕一具据称是林肯刺客约翰·威尔克斯·布斯的木乃伊展开的离奇真实故事。这段跨越数十年的传奇涉及临终供词、游艺团、法医检验，既是历史叙事，又是对身份、真相与公众对怪异现象的痴迷的深刻思考。",
-    "best_quote_en": "Taken all together, it taxes credulity to believe this mummy is not that of John Wilkes Booth.",
-    "best_quote_zh": "所有这些线索综合来看，实在难以相信这具木乃伊不是约翰·威尔克斯·布斯。"
-  },
-  {
-    "id": 77,
-    "title": "The Real Target of Trump’s War on Drug Boats",
-    "title_zh": "特朗普打击毒品船只的真实目标",
-    "source": "The New Yorker",
-    "link": "https://www.newyorker.com/news/the-lede/the-real-target-of-trumps-war-on-drug-boats",
-    "tags": [
-      "solve",
-      "politics",
-      "controversial"
-    ],
-    "tags_zh": [
-      "解决",
-      "政治时事",
-      "争议观点"
-    ],
-    "date": "2025-10-21",
-    "summary_en": "This article reveals the strategic motivations behind Trump's aggressive military actions against suspected drug traffickers in the Caribbean, particularly targeting Venezuelan vessels. The analysis exposes how these operations may be more about political maneuvering and domestic messaging than effective counter-narcotics strategy. The piece highlights the complex interplay of domestic politics, particularly in Florida, and international relations, while raising serious legal and ethical concerns about the militarization of drug policy. The author skillfully connects current events to historical patterns in U.S. foreign policy, offering a nuanced perspective on the potential consequences for regional stability and international law.",
-    "summary_zh": "这篇文章揭示了特朗普政府在加勒比海地区打击毒品船只的真实动机，揭露了这些军事行动更多是政治操弄和国内宣传的需要，而非有效的禁毒策略。文章分析了国内政治，特别是佛罗里达州的政治因素，以及国际关系的复杂交织，同时提出了关于禁毒政策军事化的严重法律和伦理问题。作者将当前事件与美国外交政策的历史模式联系起来，为区域稳定和国际法的潜在后果提供了深刻见解。",
-    "best_quote_en": "This is basically U.S. propaganda through force. This is not a counter-narcotics mission. It’s using a ten-ton truck to kill an ant.",
-    "best_quote_zh": "这基本上是通过武力进行的美国宣传。这不是一项反毒品行动。这就像用一辆十吨的卡车去杀一只蚂蚁。"
-  },
-  {
-    "id": 78,
-    "title": "A Wild Swan / The Creative Cottage",
-    "title_zh": "A Wild Swan / 创意小屋",
-    "source": "Kevin Kelly",
-    "link": "https://kk.org/cooltools/a-wild-swan-the-creative-cottage/",
-    "tags": [
-      "inspire",
-      "design",
-      "music-arts"
-    ],
-    "tags_zh": [
-      "启发",
-      "设计创意",
-      "音乐艺术"
-    ],
-    "date": "2025-10-21",
-    "summary_en": "This content presents two distinct literary works that reimagine familiar concepts through unique perspectives. A Wild Swan by Michael Cunningham reinterprets classic fairy tales with modern sensibilities, offering fresh insights into well-known narratives. The book's sardonic yet empathetic voice breathes new life into these stories, while Yuko Shimizu's exquisite illustrations elevate it to an artistic object. The Creative Cottage showcases innovative small-space transformations, blending artistic vision with practical rehabilitation. Both works demonstrate how creativity can transform the ordinary into something extraordinary, whether in literature or living spaces. The content invites readers to explore new dimensions of familiar concepts, offering both inspiration and practical ideas.",
-    "summary_zh": "这篇内容介绍了两本独特的文学作品，以全新视角重新诠释了熟悉的概念。迈克尔·坎宁安的《野天鹅》用现代眼光重新解读经典童话，为这些故事注入了新的生命力。书中尖刻又充满同情的叙事风格与由石泽裕子精心绘制的插画相得益彰。而《创意小屋》则展示了艺术家们如何将创意注入小空间改造中。两本书都证明了创造力如何将平凡事物转化为非凡之作，无论是文学还是居住空间。这篇内容邀请读者探索熟悉概念的新维度，提供灵感与实用想法。",
-    "best_quote_en": "End of story. 'Happily ever after' fell on everyone like a guillotine's blade.",
-    "best_quote_zh": "故事结束。'幸福快乐地生活着'就像断头台的刀刃一样落在每个人身上。"
-  },
-  {
-    "id": 79,
-    "title": "DALL•E 2",
-    "title_zh": "DALL•E 2",
-    "source": "Sam Altman",
-    "link": "https://blog.samaltman.com/dall-star-e-2",
-    "tags": [
-      "solve",
-      "ai-research",
-      "science",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "解决",
-      "AI研究",
-      "科学研究",
-      "未来预测"
-    ],
-    "date": "2022-04-06",
-    "summary_en": "The launch of DALL•E 2 represents a significant leap in AI's creative capabilities, offering natural language image generation that enhances human creativity. This tool exemplifies the emerging trend of natural language interfaces, which may eventually extend to complex tasks. The author highlights DALL•E 2's sophisticated understanding of concepts and its potential impact on creative labor markets, challenging conventional wisdom about AI's progression. While acknowledging the upsides, the piece also thoughtfully considers potential downsides and advocates for incremental deployment strategies to mitigate risks. This research launch serves as a precursor to a broader product release, emphasizing collaboration with researchers and artists to address ethical considerations.",
-    "summary_zh": "DALL•E 2 的推出标志着 AI 在创意领域的重大突破，其自然语言生成图像的能力极大提升了人类的创造力。该工具展示了新兴的自然语言接口趋势，可能最终扩展到复杂任务。作者强调 DALL•E 2 对概念的深度理解及其对创意劳动力市场的潜在影响，挑战了关于 AI 进展的传统观点。在承认其优势的同时，文章也深刻思考了潜在风险，倡导分阶段部署策略以减轻影响。此次研究发布是产品推广的前奏，强调与研究人员和艺术家合作以应对伦理问题。",
-    "best_quote_en": "It’s a reminder that predictions about AI are very difficult to make. A decade ago, the conventional wisdom was that AI would first impact physical labor, and then cognitive labor, and then maybe someday it could do creative work. It now looks like it’s going to go in the opposite order.",
-    "best_quote_zh": "这提醒我们，关于 AI 的预测非常困难。十年前的共识是，AI 会先影响体力劳动，然后是认知劳动，或许某天才能做创意工作。现在看来，顺序可能完全相反。"
-  },
-  {
-    "id": 80,
-    "title": "The Game Theory of How Algorithms Can Drive Up Prices",
-    "title_zh": "算法如何通过博弈论推高价格",
-    "source": "Quanta Magazine",
-    "link": "https://www.quantamagazine.org/the-game-theory-of-how-algorithms-can-drive-up-prices-20251022/",
-    "tags": [
-      "solve",
-      "ai-research",
-      "science",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "解决",
-      "AI研究",
-      "科学研究",
-      "数据驱动"
-    ],
-    "date": "2025-10-22",
-    "summary_en": "This article explores the fascinating intersection of game theory and algorithmic pricing, revealing how even simple learning algorithms can inadvertently drive up prices through tacit collusion. The research demonstrates that algorithms can learn to retaliate against price cuts, creating a high-price equilibrium backed by mutual threats. The findings challenge traditional regulatory approaches that focus on explicit collusion, as these algorithms don't communicate or explicitly agree to fix prices. The study also shows that even seemingly benign algorithms can produce unfavorable outcomes for consumers. This raises complex questions about regulation and the inherent limitations of current approaches to ensuring fair pricing in algorithm-driven markets. The article highlights the need for deeper understanding and innovative solutions to prevent algorithmic collusion in modern economies.",
-    "summary_zh": "这篇文章探讨了博弈论与算法定价的交叉领域，揭示了即使是简单的学习算法也可能通过默契合谋无意中推高价格。研究表明，算法可以学会对价格下降进行报复，从而形成高价格均衡，并以相互威胁为后盾。这些发现挑战了传统监管方法，因为这些算法不会进行交流或明确协商固定价格。研究还表明，即使是看似无害的算法也可能产生对消费者不利的结果。这为监管提出了复杂的问题，以及在算法驱动的现代经济中防止算法合谋的当前方法的固有局限性。文章强调了需要更深入的理解和创新解决方案来防止算法合谋。",
-    "best_quote_en": "The message of our paper is it’s hard to figure out what to rule out.",
-    "best_quote_zh": "我们论文的要点是很难判断该排除什么。"
-  },
-  {
     "id": 81,
     "title": "Tarot decks through the ages",
     "title_zh": "穿越时空的塔罗牌",
@@ -2356,5 +2242,123 @@
     "summary_zh": "文章深入分析了特朗普第二任期内特赦权的扩大及其本质变化，从偶尔的纠正性措施演变为系统性的政治忠诚和经济利益工具。探讨了特赦权的宪法基础及历史使用，揭示了特朗普政府将其转化为",
     "best_quote_en": "\"No maga left behind\"",
     "best_quote_zh": "\"不让任何支持者落后\""
+  },
+  {
+    "id": 176,
+    "title": "Old ‘Ghost’ Theory of Quantum Gravity Makes a Comeback",
+    "title_zh": "量子引力的“幽灵”理论卷土重来",
+    "source": "Quanta Magazine",
+    "link": "https://www.quantamagazine.org/old-ghost-theory-of-quantum-gravity-makes-a-comeback-20251117/",
+    "tags": [
+      "solve",
+      "science",
+      "ai-research",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "解决",
+      "科学研究",
+      "AI研究",
+      "未来预测"
+    ],
+    "date": "2025-11-17",
+    "summary_en": "The article revisits quadratic gravity, a 1977 theory long dismissed due to its 'ghost' particles with negative energy. Recent research suggests these ghosts may not be problematic after all, potentially offering new insights into quantum gravity. Physicists are now finding that quadratic gravity, when applied through standard quantum field theory, produces unexpected predictions and could explain cosmic inflation. While challenges remain, the theory's mathematical consistency and potential to describe gravity at all scales make it a compelling area of study, even as some researchers remain skeptical about its ability to fully address fundamental physics issues like causality.",
+    "summary_zh": "这篇文章重新审视了1977年的二次引力理论，该理论因包含负能量的“幽灵”粒子而长期被忽视。近期研究表明，这些幽灵粒子可能并非问题所在，反而可能为量子引力提供新的理解。物理学家发现，通过标准量子场论应用该理论时，会产生意想不到的预测，甚至可能解释宇宙膨胀。尽管仍有挑战，但该理论的数学一致性和潜在的在所有尺度下描述引力的能力，使其成为一个引人注目的研究领域，尽管一些研究人员仍对其是否能完全解决因果性等基本物理问题持怀疑态度。",
+    "best_quote_en": "Ghosts may be 'new objects that appear when we try to understand gravity and quantum field theory at a deeper level.'",
+    "best_quote_zh": "幽灵可能是“当我们试图在更深的层次上理解引力和量子场论时出现的新对象。”"
+  },
+  {
+    "id": 177,
+    "title": "The inflammation age",
+    "title_zh": "炎症时代",
+    "source": "Aeon",
+    "link": "https://aeon.co/essays/could-chronic-inflammation-be-the-medical-paradigm-shift-of-our-age?utm_source=rss-feed",
+    "tags": [
+      "solve",
+      "medicine",
+      "science",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "解决",
+      "医学健康",
+      "科学研究",
+      "数据驱动"
+    ],
+    "date": "2025-11-18",
+    "summary_en": "This thought-provoking essay explores the complex landscape of inflammation, particularly the distinction between acute and chronic forms. It challenges the traditional medical paradigm that views inflammation solely as a protective response, highlighting how chronic inflammation presents a systemic, often invisible threat linked to numerous modern diseases. The author draws parallels with Thomas Kuhn's theory of scientific revolutions, suggesting we may be on the cusp of a paradigm shift in how we understand and treat inflammatory conditions. The piece also examines the human impact, noting how patients with chronic inflammatory diseases often feel dismissed by the medical establishment. Through historical examples and current trends, the essay argues that patient communities and interdisciplinary research may lead us toward a new understanding of inflammation and health.",
+    "summary_zh": "这篇文章深入探讨了炎症的复杂性，特别是急性炎症与慢性炎症的区别。它挑战了传统医学范式，指出慢性炎症不仅是一种保护性反应，还可能成为系统性、常常不易察觉的威胁，与多种现代疾病相关。作者引用托马斯·库恩的科学革命理论，暗示我们可能正处于对炎症理解的范式转变的边缘。文章还探讨了人类影响，指出慢性炎症患者常常感到被医疗体系忽视。通过历史案例和当前趋势，文章认为患者社区和跨学科研究可能带领我们走向对炎症和健康的新理解。",
+    "best_quote_en": "The growing contradictions suggest we are not merely confronting a clinical puzzle but the stirrings of a paradigm crisis - an unravelling of the framework that once defined inflammation itself.",
+    "best_quote_zh": "不断增加的矛盾表明，我们面对的不仅仅是一个临床谜题，而是一个范式危机的萌芽——炎症本身定义框架的瓦解。"
+  },
+  {
+    "id": 178,
+    "title": "7 Scenic Drives in America That Feel Like a Movie Set",
+    "title_zh": "美国7条如电影场景般的风景驾驶路线",
+    "source": "Mental Floss",
+    "link": "https://www.mentalfloss.com/geography/wanderlust/scenic-drives-america-feel-like-movie-set?utm_source=RSS",
+    "tags": [
+      "analyze",
+      "lifestyle",
+      "design",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "分析",
+      "生活方式",
+      "设计创意",
+      "数据驱动"
+    ],
+    "date": "2025-11-18",
+    "summary_en": "This article presents a curated list of seven American drives that offer cinematic experiences, transforming mundane road trips into memorable adventures. Each route is described with vivid imagery, highlighting unique landscapes and emotional impacts. From the Arctic-like vistas of Beartooth Highway to the oceanic surrealism of the Overseas Highway, these drives demonstrate how nature can create movie-worthy scenery. The piece blends practical travel information with poetic descriptions, appealing to both adventure seekers and armchair travelers. It's particularly insightful in showing how infrastructure like roads can become cultural experiences when they frame natural beauty so dramatically.",
+    "summary_zh": "这篇文章精选了七条如电影场景般的美国风景驾驶路线，将平凡的驾驶体验升华为难忘的冒险。每条路线都以生动的画面描写，突出独特的自然风光和情感冲击。从北美牙山公路的北极般景观到海外公路的海洋奇观，这些路线展示了大自然如何创造电影般的景色。文章将实用旅行信息与诗意描写相结合，吸引冒险者和沙发旅行者。它特别深刻地展示了基础设施如何在框架自然美景时成为文化体验。",
+    "best_quote_en": "It's as if it were created on the studio backlot in Hollywood's dream factory.",
+    "best_quote_zh": "仿佛是在好莱坞梦工厂的摄影棚里创造的一般。"
+  },
+  {
+    "id": 179,
+    "title": "How M.B.S. Won Back Washington",
+    "title_zh": "摩萨德·本·萨勒曼如何重新赢得华盛顿的支持",
+    "source": "The New Yorker",
+    "link": "https://www.newyorker.com/news/q-and-a/how-saudi-arabia-won-back-washington",
+    "tags": [
+      "solve",
+      "politics",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "解决",
+      "政治时事",
+      "数据驱动"
+    ],
+    "date": "2025-11-18",
+    "summary_en": "The article examines the remarkable rehabilitation of Saudi Crown Prince Mohammed bin Salman (M.B.S.) in Washington, particularly after the fallout from Jamal Khashoggi's murder. The piece explores how both Biden and Trump administrations have re-embraced M.B.S., despite his controversial reputation. Key factors include energy security concerns post-Ukraine war, M.B.S.'s domestic reforms, and the intersection of business interests with foreign policy. The analysis reveals a complex relationship driven by economic interests, regional dynamics, and shifting priorities in the Middle East. The article also highlights M.B.S.'s attempts to modernize Saudi Arabia while maintaining authoritarian control, and his cautious approach to foreign policy after early missteps. The piece concludes with a discussion of the potential implications of a Trump administration supporting Saudi nuclear infrastructure development.",
+    "summary_zh": "本文探讨了沙特王储穆罕默德·本·萨勒曼(M.B.S.)在华盛顿的形象复苏，特别是在贾马尔·卡舒吉遇害事件后。文章分析了拜登和特朗普政府如何重新接纳M.B.S.，尽管他的声誉曾因卡舒吉事件受到严重打击。关键因素包括乌克兰战争后的能源安全考量、M.B.S.的国内改革以及商业利益与外交政策的交织。分析揭示了这一复杂关系背后的经济动机、地区动态和中东优先事项的变化。本文还强调了M.B.S.在维持专制统治的同时现代化沙特的努力，以及他在早期外交失误后更谨慎的外交政策。文章最后讨论了特朗普政府可能支持沙特核基础设施发展的潜在影响。",
+    "best_quote_en": "The word that best describes what he wants is one that he’s used, which is that he wants Saudi Arabia to be a normal country. In the sense of the political system, he wants it to be a normal authoritarian country, i.e., a place where people can enjoy some amount of social freedom.",
+    "best_quote_zh": "最能描述他目标的词是他自己使用的，即他希望沙特成为一个正常国家。在政治体制方面，他希望它成为一个正常的专制国家，也就是说，一个人们可以享受一定程度社会自由的地方。"
+  },
+  {
+    "id": 180,
+    "title": "The Creative Architect / How to Talk to Girls at Parties",
+    "title_zh": "创意建筑师 / 如何在派对上与女孩交谈",
+    "source": "Kevin Kelly",
+    "link": "https://kk.org/cooltools/the-creative-architect-how-to-talk-to-girls-at-parties/",
+    "tags": [
+      "solve",
+      "science",
+      "education",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "解决",
+      "科学研究",
+      "教育学习",
+      "数据驱动"
+    ],
+    "date": "2025-11-18",
+    "summary_en": "This content presents two distinct works that explore creativity and human interaction through different lenses. The first, 'The Creative Architect,' offers a fascinating look at a mid-century study of renowned architects, revealing insights into creative minds through psychological testing. It doesn't provide concrete answers but offers an inspiring historical perspective on creativity. The second, 'How to Talk to Girls at Parties,' is a charming graphic novel adaptation that uses fantastical elements to explore the awkwardness of teenage social interactions. Both works excel in their respective domains, with the former providing historical and psychological depth, and the latter delivering relatable character moments with a touch of the surreal.",
+    "summary_zh": "这篇内容呈现了两部探索创意与人际交流的作品。第一部《创意建筑师》通过对中世纪建筑师的心理研究，揭示了创造力的本质，虽未给出具体答案，但提供了历史视角的启发。第二部《如何在派对上与女孩交谈》以奇幻元素为基础，探索青少年社交的尴尬，通过生动的角色刻画带来共鸣。两部作品各有所长，前者深入历史与心理学，后者则以超现实风格传递真实情感。",
+    "best_quote_en": "'What propels creativity is the unfettered expression of the self'",
+    "best_quote_zh": "推动创造力的，是自我无拘无束的表达"
   }
 ]
