@@ -37,7 +37,7 @@ if OPENROUTER_API_KEY and not OPENROUTER_API_KEY.startswith('sk-or-v1-'):
     exit(0)
 
 # Model name fallback (don't use || concatenation in YAML)
-MODEL = os.getenv("OPENROUTER_MODEL") or "mistralai/mistral-small-3.2-24b-instruct:free"
+MODEL = os.getenv("OPENROUTER_MODEL") or "mistralai/mistral-small-3.1-24b-instruct:free"
 OPENROUTER_URL = "https://openrouter.ai/api/v1/chat/completions"
 
 # Model parameters for better output quality
