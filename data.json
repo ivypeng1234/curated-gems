@@ -1,53 +1,5 @@
 [
   {
-    "id": 81,
-    "title": "Tarot decks through the ages",
-    "title_zh": "穿越时空的塔罗牌",
-    "source": "Aeon",
-    "link": "https://aeon.co/videos/beyond-fortune-telling-the-enduring-beauty-and-allure-of-tarot?utm_source=rss-feed",
-    "tags": [
-      "inspire",
-      "society",
-      "design",
-      "case-study"
-    ],
-    "tags_zh": [
-      "启发",
-      "社会议题",
-      "设计创意",
-      "案例研究"
-    ],
-    "date": "2025-10-22",
-    "summary_en": "This short film from the Victoria and Albert Museum offers a fascinating journey through the evolution of tarot cards, revealing their origins as an elite Italian game to their modern association with divination. The curators showcase rare 15th-century decks alongside contemporary examples, highlighting the intricate craftsmanship and rich symbolic systems that connect diverse mythologies and folklore. What's particularly compelling is how the video explores tarot as a visual language that transcends its mystical reputation, resonating with universal human experiences of hope, fear, and existential questioning. The film invites viewers to appreciate tarot as both an art form and a historical artifact, demonstrating its enduring cultural significance beyond fortune-telling.",
-    "summary_zh": "这部维多利亚和阿尔伯特博物馆的短片带我们穿越时空，探索塔罗牌的演变史。从15世纪的珍贵手绘卡片到当代作品，策展人展示了塔罗牌的精湛工艺和丰富的象征体系，连接着不同的民间传说和神话。最引人深思的是，影片揭示了塔罗牌作为视觉语言的深层意义，超越了占卜的神秘面纱，触及人类共同的希望、恐惧和存在主义探索。影片邀请观众从艺术和历史的角度欣赏塔罗牌，展现其超越占卜的持久文化价值。",
-    "best_quote_en": "Tarot endures as a rich visual language for expressing some of our most persistent hopes, fears and existential questions",
-    "best_quote_zh": "塔罗牌作为一种丰富的视觉语言，持续表达着我们最持久的希望、恐惧和存在主义的疑问"
-  },
-  {
-    "id": 82,
-    "title": "The Reason We Refer to Motorcycles as ‘Hogs’",
-    "title_zh": "我们为什么称摩托车为“猪”",
-    "source": "Mental Floss",
-    "link": "https://www.mentalfloss.com/language/slang/why-are-motorcycles-called-hogs?utm_source=RSS",
-    "tags": [
-      "analyze",
-      "leadership",
-      "society",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "分析",
-      "领导管理",
-      "社会议题",
-      "数据驱动"
-    ],
-    "date": "2025-10-22",
-    "summary_en": "This article delves into the fascinating etymology of the term 'hog' as motorcycle slang, revealing its surprising origins tied to early 20th-century racing culture. The most compelling insight is how a small piglet adopted by Harley-Davidson racer Ray Weishaar in 1920 became the unlikely mascot that inspired the enduring nickname. The piece thoughtfully explores how language evolves within subcultures, tracing the term's journey from Harley-specific to generic motorcycle terminology. It also highlights the cultural significance of motorcycle terminology, showing how these words reflect the spirit of biker communities. The article's strength lies in its blend of historical research and cultural analysis, making it both informative and engaging for language enthusiasts and motorcycle aficionados alike.",
-    "summary_zh": "这篇文章揭秘了“hog”这一摩托车俚语的有趣词源，追溯到20世纪初的赛车文化。最引人深思的是，1920年哈雷-大卫森赛车手雷·韦沙尔收养的小猪如何成为激发这个持久昵称的灵感来源。文章深入探讨了语言在亚文化中的演变，追踪了这一术语从特指哈雷摩托到泛指所有摩托车的发展历程。它还突显了摩托车术语的文化意义，展示了这些词语如何体现摩托车社群的精神。文章的魅力在于将历史研究与文化分析相结合，既信息丰富又引人入胜，适合语言爱好者和摩托车迷阅读。",
-    "best_quote_en": "The little piglet was quickly adopted by the entire racing team as their mascot.",
-    "best_quote_zh": "这只小猪很快被整个赛车队收养为吉祥物。"
-  },
-  {
     "id": 83,
     "title": "A New Paradigm for Protecting Homes from Disastrous Fires",
     "title_zh": "保护房屋免受灾难性火灾的新范式",
@@ -2360,5 +2312,53 @@
     "summary_zh": "这篇内容呈现了两部探索创意与人际交流的作品。第一部《创意建筑师》通过对中世纪建筑师的心理研究，揭示了创造力的本质，虽未给出具体答案，但提供了历史视角的启发。第二部《如何在派对上与女孩交谈》以奇幻元素为基础，探索青少年社交的尴尬，通过生动的角色刻画带来共鸣。两部作品各有所长，前者深入历史与心理学，后者则以超现实风格传递真实情感。",
     "best_quote_en": "'What propels creativity is the unfettered expression of the self'",
     "best_quote_zh": "推动创造力的，是自我无拘无束的表达"
+  },
+  {
+    "id": 181,
+    "title": "The Year in Mathematics",
+    "title_zh": "数学之年",
+    "source": "Quanta Magazine",
+    "link": "https://www.quantamagazine.org/the-year-in-mathematics-20251218/",
+    "tags": [
+      "analyze",
+      "education",
+      "ai-research",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "分析",
+      "教育学习",
+      "AI研究",
+      "未来预测"
+    ],
+    "date": "2025-12-18",
+    "summary_en": "This retrospective on 2025's mathematical breakthroughs transcends mere chronology by revealing how mathematics functions as both rigorous science and creative art. The piece showcases Hannah Cairo's teenage disproof of a longstanding conjecture, illustrating how isolation fueled her unique perspective—a powerful testament to math's capacity as an intellectual refuge. Equally compelling is the resolution of the 'ten martini problem,' where number theory unexpectedly illuminates quantum physics, demonstrating mathematics' uncanny ability to model reality. The article masterfully connects Maryam Mirzakhani's revolutionary hyperbolic geometry legacy with contemporary researchers advancing her work, framing mathematical progress as collective human endeavor. What resonates most is how these discoveries—from new infinities challenging Gödel's incompleteness to the paradoxical Noperthedron—continuously expand our conception of the possible. As someone fascinated by epistemic boundaries, I'm struck by how these advances balance deep abstraction with tangible wonder, proving that even foundational concepts like irrationality and geometric stability still harbor profound mysteries.",
+    "summary_zh": "《数学之年》精彩展现了2025年数学界如何融合严谨科学与艺术创造力。17岁的汉娜·开罗推翻数十年猜想，印证数学是孤独心灵的避风港；'十杯马提尼问题'的解决揭示数论与量子物理的奇妙共鸣；玛丽安·米尔札哈尼的双曲几何遗产被后辈延续，体现数学的传承之美。从挑战哥德尔不完备性的新无穷理论，到颠覆认知的'诺珀特多面体'，这些突破不断重塑可能性边界。作为数学爱好者，我惊叹于抽象理论竟能如此生动——它既解构现实，又孕育希望，证明即使最基础的领域仍蕴藏未知奥秘。（198字）",
+    "best_quote_en": "Mathematics is, at its core, an art. Like painters, musicians or writers, mathematicians create and explore new worlds.",
+    "best_quote_zh": "数学在本质上是一门艺术。与画家、音乐家或作家一样，数学家创造并探索新的世界。"
+  },
+  {
+    "id": 182,
+    "title": "Irresponsible and Unreasonable Takes on Meetups Organizing",
+    "title_zh": "关于组织聚会的非责任与不合理见解",
+    "source": "LessWrong",
+    "link": "https://www.lesswrong.com/posts/PGCe2dsCJQvMggyso/irresponsible-and-unreasonable-takes-on-meetups-organizing",
+    "tags": [
+      "solve",
+      "leadership",
+      "science",
+      "controversial"
+    ],
+    "tags_zh": [
+      "解决",
+      "领导管理",
+      "科学研究",
+      "争议观点"
+    ],
+    "date": "2025-12-22",
+    "summary_en": "This provocative essay challenges conventional wisdom in meetup organization through a deeply personal lens, arguing for prioritizing organizer satisfaction over attendee expectations. The author—self-described as ACX's 'meetups czar'—draws from experiences running events like the East Coast Rationalist Megameetup to advocate radically self-centered approaches: scheduling around personal convenience, ejecting troublesome participants without guilt, and designing events around niche interests (from Rationalist Hamlet readings to experimental games). Crucially, the piece reframes organizational 'responsibility' as authenticity in pursuing one's vision—whether that involves fire displays, competitive cheese rolling, or explicitly instructing attendees. While acknowledging scalability limitations for larger gatherings, the manifesto celebrates how selfish optimization paradoxically fosters vibrant communities when paired with transparent communication and unconventional passion.",
+    "summary_zh": "本文以颠覆性视角重构聚会组织哲学，主张组织者应优先满足自身需求而非迎合参与者。作者以'聚会沙皇'身份分享东海岸理性主义者超大型聚会经验，提倡彻底自我中心的策略：按个人行程安排时间、剔除扫兴者、围绕小众兴趣设计活动（如理性主义版哈姆雷特读剧会）。文章将'责任'重新定义为忠于自身愿景的真诚——无论涉及火焰表演、奶酪滚动比赛或直接指令参与者。这种看似自私的优化，配合透明沟通与非常规热情，反而能催生充满活力的社区生态，虽在大型活动中需适度调整，却为草根组织者提供了解放性框架。",
+    "best_quote_en": "Optimize for what you want out of meetups, and what you want can be pretty weird.",
+    "best_quote_zh": "为你想要从聚会中得到的东西而优化，而你想要的东西可以相当古怪。"
   }
 ]
