@@ -1,125 +1,5 @@
 [
   {
-    "id": 83,
-    "title": "A New Paradigm for Protecting Homes from Disastrous Fires",
-    "title_zh": "保护房屋免受灾难性火灾的新范式",
-    "source": "The New Yorker",
-    "link": "https://www.newyorker.com/news/the-lede/a-new-paradigm-for-protecting-homes-from-disastrous-fires",
-    "tags": [
-      "solve",
-      "science",
-      "design",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "解决",
-      "科学研究",
-      "设计创意",
-      "数据驱动"
-    ],
-    "date": "2025-10-22",
-    "summary_en": "This article explores the complex science of wildland-urban interface fires and challenges conventional wisdom about fire prevention. It reveals that most homes survive fires not due to design but firefighter actions, and that embers, not just flames, are primary ignition sources. The piece highlights the comprehensive 50+ point prevention strategy developed by NIST researchers, emphasizing that partial measures are insufficient. It also examines the societal challenges of implementing these solutions, including cost, public engagement, and the need for community-wide cooperation. The article concludes with real-world examples of homeowners struggling with retrofitting and the potential for government programs to facilitate change.",
-    "summary_zh": "这篇文章深入探讨了野地-城镇交界处的火灾复杂性，挑战了传统的火灾预防观念。研究表明，大多数房屋的幸存并非因设计优良，而是消防员的救援。燃烧的灰烬而非火焰是主要的引火源。文中介绍了NIST研究人员开发的全面预防策略，强调部分措施无效。同时探讨了实施这些解决方案面临的社会挑战，包括成本、公众参与和社区合作的必要性。文章以房主改造的真实案例收尾，并探讨了政府计划推动变革的潜力。",
-    "best_quote_en": "You cannot pick and choose. The science tells us you have to do everything.",
-    "best_quote_zh": "不能挑三拣四。科学告诉我们，必须全面做好防护。"
-  },
-  {
-    "id": 84,
-    "title": "What’s in my NOW? — Aishwarya Goel",
-    "title_zh": "我的现在有什么？— 艾什瓦里娅·戈尔",
-    "source": "Kevin Kelly",
-    "link": "https://kk.org/cooltools/whats-in-my-now-aishwarya-goel/",
-    "tags": [
-      "solve",
-      "lifestyle",
-      "design",
-      "beginner-friendly"
-    ],
-    "tags_zh": [
-      "解决",
-      "生活方式",
-      "设计创意",
-      "新手友好"
-    ],
-    "date": "2025-10-22",
-    "summary_en": "Aishwarya Goel's 'What's in my NOW?' offers a refreshing blend of personal productivity insights and lifestyle recommendations. The piece stands out for its authenticity and practical value, sharing tools that have genuinely improved the author's daily life. From the Philips Signe Gradient Floor Lamp that enhances both ambiance and productivity to the DASH Mini Maker that streamlines morning routines, these recommendations are rooted in real-world experience. The digital tools section reveals a thoughtful approach to personal tracking and writing habits, with MyNetDiary's AI features and Bear Blog's simplicity being particularly compelling. The inclusion of James Dyson's quote about excellence as the capacity to take pain adds a thought-provoking layer to the otherwise practical content, suggesting that these tools are part of a larger philosophy of intentional living.",
-    "summary_zh": "艾什瓦里娅·戈尔的《我的现在有什么？》结合了个人效率洞察和生活方式建议，以真实体验为基础。从调节心情的菲利普斯台灯到简化早餐的小型煎饼机，这些推荐都体现了实用价值。数字工具部分展示了对个人跟踪和写作习惯的深思熟虑，MyNetDiary的AI功能和Bear Blog的简洁设计尤其值得关注。詹姆斯·戴森关于卓越是承受痛苦能力的引用为实用内容增添了深度，暗示这些工具是有意识生活哲学的一部分。",
-    "best_quote_en": "Excellence is the capacity to take pain.",
-    "best_quote_zh": "卓越是承受痛苦的能力"
-  },
-  {
-    "id": 85,
-    "title": "Is information a fundamental force of the Universe?",
-    "title_zh": "信息是宇宙的基本力量吗？",
-    "source": "Aeon",
-    "link": "https://aeon.co/videos/a-radical-reimagining-of-physics-puts-information-at-its-centre?utm_source=rss-feed",
-    "tags": [
-      "learn",
-      "ai-research",
-      "science",
-      "controversial"
-    ],
-    "tags_zh": [
-      "学习",
-      "AI研究",
-      "科学研究",
-      "争议观点"
-    ],
-    "date": "2025-10-23",
-    "summary_en": "This thought-provoking piece explores a radical scientific proposal that challenges our understanding of fundamental physics. Hazen and Wong suggest that information might be as fundamental as mass or energy, potentially explaining the increasing complexity observed across various systems. Their 'law of increasing functional information' could bridge gaps in our comprehension of time and system behaviors, offering a unifying framework. The documentary format makes complex ideas accessible while maintaining scientific rigor. This content inspires deeper thinking about the nature of reality and the interconnectedness of scientific disciplines.",
-    "summary_zh": "这一深刻的科学探讨挑战了我们对基本物理的理解。海森和王提出信息可能与质量或能量同样基本，解释了从原子到文明的复杂性增长。他们的“功能信息增量法则”可能帮助理解时间概念，为各系统行为提供统一框架。纪录片形式使复杂概念易于理解，同时保持科学严谨性。内容激发对现实本质的深思，体现了学科间的相互关联。",
-    "best_quote_en": "If information is as fundamental as mass or energy, it could account for the similar ways so many systems appear to behave.",
-    "best_quote_zh": "如果信息与质量或能量同样基本，它可能解释许多系统表现出的相似行为方式。"
-  },
-  {
-    "id": 86,
-    "title": "10 Amazing Facts About Akrotiri, the Bronze Age City Wiped Out by a Volcano",
-    "title_zh": "10个关于被火山摧毁的青铜时代城市阿克罗蒂里的惊人事实",
-    "source": "Mental Floss",
-    "link": "https://www.mentalfloss.com/science/archaeology/akrotiri-facts?utm_source=RSS",
-    "tags": [
-      "update",
-      "science",
-      "lifestyle",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "动态",
-      "科学研究",
-      "生活方式",
-      "数据驱动"
-    ],
-    "date": "2025-10-23",
-    "summary_en": "This article reveals the fascinating story of Akrotiri, a Bronze Age city preserved by a catastrophic volcanic eruption. Unlike Pompeii, Akrotiri's ruins contain no human remains, sparking intriguing theories about its abandonment. The city's advanced architecture, sophisticated trading network, and artistic achievements challenge our understanding of early Mediterranean civilizations. The article also explores connections to the Atlantis myth and highlights ongoing volcanic activity in Santorini. It serves as both an educational piece about ancient history and a cautionary tale about natural disasters and their long-term impacts.",
-    "summary_zh": "这篇文章揭示了青铜时代城市阿克罗蒂里的惊人故事，该城市因火山爆发而保存完好。与庞贝不同，这里没有发现人类遗骸，引发了关于该城市弃置的种种猜想。该城市的先进建筑、复杂贸易网络和艺术成就挑战了我们对早期地中海文明的认识。文章还探讨了与亚特兰蒂斯神话的关联，并强调圣托里尼岛持续的火山活动。这既是一篇关于古代历史的教育性文章，也是关于自然灾害及其长期影响的警示故事。",
-    "best_quote_en": "The excavation of Akrotiri revealed an advanced trading civilization with paved streets, two- and three-story structures, a sewer system, and well laid-out buildings with public squares.",
-    "best_quote_zh": "阿克罗蒂里的发掘揭示了一个先进的贸易文明，拥有铺砌的街道、两三层楼的建筑、下水系统和规划良好的建筑物以及公共广场。"
-  },
-  {
-    "id": 87,
-    "title": "How transformers can compute distances along a curve locally.",
-    "title_zh": "如何通过局部计算曲线上的距离",
-    "source": "LessWrong",
-    "link": "https://www.lesswrong.com/posts/kZsBdGXxT32kgFQ5q/how-transformers-can-compute-distances-along-a-curve-locally",
-    "tags": [
-      "solve",
-      "ai-research",
-      "science",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "解决",
-      "AI研究",
-      "科学研究",
-      "数据驱动"
-    ],
-    "date": "2025-10-24",
-    "summary_en": "This article explores an intriguing mechanism in GPT-2 for measuring distances between duplicate tokens, drawing parallels to twisted pair cabling in communications. The author abstracts the process into a clean toy model, demonstrating how transformers can estimate distances between points on a curve. The key insight lies in using sentry points and attention mechanisms to approximate the difference between indices. The analysis reveals how GPT-2's positional embeddings, which form a helix, enable efficient distance computation through periodic derivative functions. This mechanism has broader implications for pattern recognition in similar contexts, such as distinguishing between dialects. The discussion highlights the model's ability to handle noise and the potential for extending this approach to other problems.",
-    "summary_zh": "该文章探讨了GPT-2测量重复标记之间距离的有趣机制，类似于通信中的扭绞对布线。作者将过程抽象为一个简洁的玩具模型，展示了变压器如何估计曲线上点之间的距离。核心洞察在于使用哨兵点和注意力机制来近似指数差异。分析揭示了GPT-2的位置嵌入形成螺旋状，通过周期性导数函数实现高效距离计算。此机制对类似模式识别问题具有更广泛的意义，例如区分方言。讨论突出了模型处理噪音的能力及将该方法扩展到其他问题的潜力。",
-    "best_quote_en": "The mechanism is fiddly to explain in context, so I've tried to abstract out most of the details, and give a clean toy version of the mechanism.",
-    "best_quote_zh": "这个机制在上下文中解释起来有些复杂，因此我尝试抽象出大部分细节，并给出一个简洁的玩具版本。"
-  },
-  {
     "id": 88,
     "title": "Andrew Cuomo’s Long Goodbye",
     "title_zh": "安德鲁·库默的漫长告别",
@@ -2360,5 +2240,121 @@
     "summary_zh": "本文以颠覆性视角重构聚会组织哲学，主张组织者应优先满足自身需求而非迎合参与者。作者以'聚会沙皇'身份分享东海岸理性主义者超大型聚会经验，提倡彻底自我中心的策略：按个人行程安排时间、剔除扫兴者、围绕小众兴趣设计活动（如理性主义版哈姆雷特读剧会）。文章将'责任'重新定义为忠于自身愿景的真诚——无论涉及火焰表演、奶酪滚动比赛或直接指令参与者。这种看似自私的优化，配合透明沟通与非常规热情，反而能催生充满活力的社区生态，虽在大型活动中需适度调整，却为草根组织者提供了解放性框架。",
     "best_quote_en": "Optimize for what you want out of meetups, and what you want can be pretty weird.",
     "best_quote_zh": "为你想要从聚会中得到的东西而优化，而你想要的东西可以相当古怪。"
+  },
+  {
+    "id": 183,
+    "title": "In Quantum Mechanics, Nothingness Is the Potential To Be Anything",
+    "title_zh": "In Quantum Mechanics, Nothingness Is the Potential To Be Anything",
+    "source": "Quanta Magazine",
+    "link": "https://www.quantamagazine.org/in-quantum-mechanics-nothingness-is-the-potential-to-be-anything-20260105/",
+    "tags": [
+      "analyze",
+      "science",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "分析",
+      "科学研究",
+      "数据驱动"
+    ],
+    "date": "2026-01-05",
+    "summary_en": "The concept of zero-point energy in quantum mechanics reveals that true emptiness is impossible. Even when a system is drained of energy, it retains a residual energy that reflects the potential for various states. This insight challenges classical intuitions and underscores the counterintuitive nature of quantum physics. The article explores how zero-point energy manifests in both fields and discrete objects, and how different interpretations of quantum mechanics offer varying explanations for this phenomenon. The historical context and recent experiments highlight the ongoing mysteries and implications of zero-point energy, particularly its role in the vacuum and its potential impact on gravity.",
+    "summary_zh": "量子力学中的零点能揭示了真正的空无是不可能的。即使一个系统被排尽能量，它仍然保留着残余能量，反映了各种状态的潜力。这一洞察挑战了经典直觉，并强调了量子物理学的反直觉特性。文章探讨了零点能如何在场和离散对象中表现，以及不同的量子力学解释为这一现象提供了不同的解释。历史背景和最新实验突显了零点能的持续谜题和意义，特别是其在真空中的作用以及对引力的潜在影响。",
+    "best_quote_en": "The interesting thing about the vacuum is every field, and therefore every particle, is somehow represented. Even if not a single electron is present, the vacuum contains 'electronness'.",
+    "best_quote_zh": "真空的有趣之处在于每个场和因此每个粒子都以某种方式被表现。即使没有单个电子存在，真空中也包含了“电子性”。"
+  },
+  {
+    "id": 184,
+    "title": "Children’s game: pau de sebo",
+    "title_zh": "儿童游戏：油杆",
+    "source": "Aeon",
+    "link": "https://aeon.co/videos/teens-battle-grease-and-gravity-in-this-lively-street-game?utm_source=rss-feed",
+    "tags": [
+      "analyze",
+      "society",
+      "education",
+      "deep-dive"
+    ],
+    "tags_zh": [
+      "分析",
+      "社会议题",
+      "教育学习",
+      "深度分析"
+    ],
+    "date": "2025-12-24",
+    "summary_en": "Francis Alÿs' ongoing series, 'Children’s Games,' captures the universal joy and learning inherent in play. In 'pau de sebo' from Portugal, teenagers tackle a greasy pole to claim prizes, demonstrating collaboration and problem-solving. The observational style highlights the profound connection between play and learning, offering insights into how children worldwide navigate challenges through play. This piece invites reflection on the educational value of unstructured play and its role in fostering resilience and creativity.",
+    "summary_zh": "弗朗西斯·阿利斯的《儿童游戏》系列展示了全球儿童玩耍的乐趣与学习。在葡萄牙的《油杆》中，青少年们通过合作与策略攀爬油杆以获得奖品，反映了玩耍与学习的深刻联系。这一作品让人思考无结构玩耍的教育价值及其在培养坚韧与创造力中的作用。",
+    "best_quote_en": "participants attempt to climb a grease-coated wooden pole to claim prizes hanging from its peak",
+    "best_quote_zh": "参与者尝试攀爬涂满油脂的木杆以获得悬挂在顶端的奖品"
+  },
+  {
+    "id": 185,
+    "title": "The Meaning of Après-Ski—And How the Lifestyle Became So Popular",
+    "title_zh": "滑雪后的意义——及其成为流行生活方式的原因",
+    "source": "Mental Floss",
+    "link": "https://www.mentalfloss.com/culture/apres-ski-meaning-lifestyle-popular?utm_source=RSS",
+    "tags": [
+      "analyze",
+      "lifestyle",
+      "science",
+      "beginner-friendly"
+    ],
+    "tags_zh": [
+      "分析",
+      "生活方式",
+      "科学研究",
+      "新手友好"
+    ],
+    "date": "2026-01-05",
+    "summary_en": "The concept of aprÃ¨s-ski, literally translating to 'after skiing,' has evolved from a simple reward for a day on the slopes to a full-blown lifestyle. Originating in the Alps during the 1950s, aprÃ¨s-ski has grown to encompass various activities, from cozy lodge drinks to wellness rituals. Its current popularity is driven by social media appeal and a cultural shift towards wellness. The article emphasizes that aprÃ¨s-ski is about personal reward and relaxation, not conforming to a specific aesthetic or party culture. It encourages readers to customize their aprÃ¨s-ski experience based on their preferences, whether it's warmth, wellness, food, or social interaction. This insight into the evolution and personalization of aprÃ¨s-ski highlights its broader significance in modern leisure culture.",
+    "summary_zh": "“滑雪后”这一概念从单纯的滑雪后奖励演变为一种全新的生活方式。它起源于1950年代的阿尔卑斯山区，当时的滑雪胜地开始发展成为旅游目的地。滑雪后的活动从温馨的小屋饮品到养生仪式应有尽有。其当前的流行是由社交媒体的吸引力和文化向养生转变所推动的。文章强调，滑雪后的活动是关于个人奖励和放松，而不是遵循特定的美学或派对文化。它鼓励读者根据自己的喜好定制滑雪后的体验，无论是温暖、养生、美食还是社交互动。",
+    "best_quote_en": "'AprÃ¨s-ski is that reward, whether itâs a cozy lodge drink, a hot tub soak, or dancing on tables in your ski boots.'",
+    "best_quote_zh": "“滑雪后是一种奖励，无论是温馨的小屋饮品，温泉浴，还是穿着滑雪靴跳舞。”"
+  },
+  {
+    "id": 186,
+    "title": "Exploring Reinforcement Learning Effects on Chain-of-Thought Legibility",
+    "title_zh": "探索强化学习对链条式思维可读性的影响",
+    "source": "LessWrong",
+    "link": "https://www.lesswrong.com/posts/9z6TuKEgZNsmqdfy6/exploring-reinforcement-learning-effects-on-chain-of-thought",
+    "tags": [
+      "analyze",
+      "education",
+      "science",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "分析",
+      "教育学习",
+      "科学研究",
+      "数据驱动"
+    ],
+    "date": "2026-01-06",
+    "summary_en": "This study delves into the effects of reinforcement learning (RL) on the legibility of chain-of-thought (CoT) reasoning in AI models. The authors train models on math datasets, varying sampling temperatures, KL divergence penalties, and length budgets to observe how these factors influence the readability of CoT traces. High temperatures and entropy bonuses led to increased accuracy but also introduced nonsensical tokens, suggesting that models can learn to ignore irrelevant gibberish while maintaining performance. KL divergence pressure resulted in models appending nonsensical tokens to coherent reasoning, indicating that these tokens do not serve a functional role. The research highlights the challenges and potential risks of using RL to train models that produce illegible but functional reasoning traces, emphasizing the need for further investigation into this phenomenon.",
+    "summary_zh": "这项研究探讨了强化学习（RL）对人工智能模型链条式思维（CoT）可读性的影响。作者在数学数据集上训练模型，变化采样温度、KL散度惩罚和长度预算，以观察这些因素如何影响CoT跟踪的可读性。高温度和熵奖励提高了准确性，但也引入了无意义的标记，表明模型可以在保持性能的同时学会忽略无关的乱码。KL散度压力导致模型在连贯的推理后附加无意义的标记，表明这些标记不具有功能性。研究突显了使用RL训练模型产生不可读但功能性推理轨迹的挑战和潜在风险，强调需要进一步研究这一现象。",
+    "best_quote_en": "Chain-of-thought monitoring may serve as a core pillar for AI safety if further advancements in AI capabilities do not significantly degrade the monitorability of LLM serial reasoning.",
+    "best_quote_zh": "如果进一步的AI能力提升不显著降低LLM串行推理的可监控性，那么链条式思维监控可能会成为AI安全的核心支柱。"
+  },
+  {
+    "id": 187,
+    "title": "The Maduro Regime Without Maduro",
+    "title_zh": "马杜罗政权无马杜罗",
+    "source": "The New Yorker",
+    "link": "https://www.newyorker.com/news/q-and-a/the-maduro-regime-without-maduro",
+    "tags": [
+      "analyze",
+      "politics",
+      "controversial"
+    ],
+    "tags_zh": [
+      "分析",
+      "政治时事",
+      "争议观点"
+    ],
+    "date": "2026-01-06",
+    "summary_en": "The political landscape of Venezuela post-Maduro seizure reveals a complex web of autocratic practices, economic mismanagement, and internal power struggles. Maduro's regime, characterized by increasing authoritarianism and economic blunders, relied heavily on military and elite co-optation. The opposition, led by María Corina Machado, faces significant challenges, including internal divisions and external pressures from the U.S. Trump's intervention, driven by economic interests rather than democratic ideals, complicates the situation further. The future of Venezuela hinges on the balance of power within the regime and the opposition's ability to navigate both internal and external dynamics.",
+    "summary_zh": "马杜罗政权的倒台揭示了威权主义、经济失误和内部权力斗争的复杂网络。马杜罗通过军队和精英的收买维持了权力，而反对派领袖玛丽亚·科里纳·马乔在内部分裂和美国压力下面临重大挑战。特朗普的干预以经济利益为主，而不是民主理想，进一步复杂了局势。委内瑞拉的未来取决于政权内部的权力平衡和反对派应对内外动态的能力。",
+    "best_quote_en": "Maduro made it to the Presidency because of a decision by Hugo Chávez... But, the moment Maduro came in, he started to lose popularity, which prompted him to become even more autocratic than Chávez.",
+    "best_quote_zh": "马杜罗是因为乌戈·查韦斯的决定才上台的……但马杜罗上台后，他开始失去人气，这促使他比查韦斯更加独裁。"
   }
 ]
