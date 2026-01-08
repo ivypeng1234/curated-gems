@@ -1,123 +1,5 @@
 [
   {
-    "id": 88,
-    "title": "Andrew Cuomo’s Long Goodbye",
-    "title_zh": "安德鲁·库默的漫长告别",
-    "source": "The New Yorker",
-    "link": "https://www.newyorker.com/news/the-lede/andrew-cuomos-long-goodbye",
-    "tags": [
-      "update",
-      "politics",
-      "controversial"
-    ],
-    "tags_zh": [
-      "动态",
-      "政治时事",
-      "争议观点"
-    ],
-    "date": "2025-10-23",
-    "summary_en": "The article provides a critical examination of Andrew Cuomo's failed mayoral campaign, highlighting his political career's contradictions and the shifting political landscape of New York City. Cuomo's campaign strategy, which relied heavily on his decades of experience and name recognition, backfired as he faced a younger, progressive opponent, Zohran Mamdani. The piece explores Cuomo's desperate tactics, including smear campaigns and policy flip-flops, which ultimately failed to resonate with voters. The analysis also touches on the broader implications of Cuomo's political downfall, including the lack of 'sore loser' laws in New York and the city's evolving political dynamics. The article serves as a cautionary tale about the limits of political experience and the power of progressive movements.",
-    "summary_zh": "这篇文章深入分析了安德鲁·库默市长竞选的失败，揭示了他政治生涯中的矛盾以及纽约市政治格局的变化。库默依赖其数十年的经验和知名度的竞选策略最终失败，面对的是年轻的进步派对手佐兰·曼达尼。文章探讨了库默的绝望策略，包括污蔑性攻击和政策翻转，这些最终未能打动选民。分析还涉及库默政治失败的更广泛影响，包括纽约缺乏“输家法”的情况以及这座城市不断变化的政治动态。这篇文章作为关于政治经验局限性以及进步运动力量的警示故事。",
-    "best_quote_en": "The city has been getting screwed by the state. Who was leading the state?",
-    "best_quote_zh": "这座城市一直被州政府坑害。是谁在领导州政府？"
-  },
-  {
-    "id": 89,
-    "title": "Helion",
-    "title_zh": "Helion",
-    "source": "Sam Altman",
-    "link": "https://blog.samaltman.com/helion",
-    "tags": [
-      "solve",
-      "ai-research",
-      "science",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "解决",
-      "AI研究",
-      "科学研究",
-      "数据驱动"
-    ],
-    "date": "2021-11-05",
-    "summary_en": "The article highlights an investment in Helion, a fusion energy company that has achieved significant milestones with relatively modest funding. The founders, David and Chris, are praised for their innovative approach to fusion technology and their ability to build functional prototypes quickly. Helion's generator, which already produces electricity, aims to achieve net electricity by 2024 and ultimately deliver energy at 1 cent per kilowatt-hour. The potential implications are profound: affordable, abundant energy could mitigate the climate crisis by enabling carbon capture and significantly improve quality of life by reducing energy costs across various sectors. This investment reflects confidence in Helion's scientific rigor, system design, and cost optimization strategies.",
-    "summary_zh": "文章介绍了对核聚变能源公司Helion的投资，该公司以较少资金取得重大进展。创始人大卫和克里斯因其在核聚变技术方面的创新和快速原型构建能力受到赞赏。Helion的发电机已能产生电力，并计划在2024年实现净电力输出，最终目标是将每千瓦时的电力成本降至1美分。这一突破可能对气候危机产生深远影响，通过碳捕捉技术和大幅降低能源成本来改善生活质量。该投资体现了对Helion科学严谨性、系统设计和成本优化策略的信心。",
-    "best_quote_en": "Helion has a clear path to net electricity by 2024, and has a long-term goal of delivering electricity for 1 cent per kilowatt-hour.",
-    "best_quote_zh": "Helion已有明确的路径在2024年实现净电力输出，并设定了长期目标，即将电力成本降至每千瓦时1美分。"
-  },
-  {
-    "id": 90,
-    "title": "First Shape Found That Can’t Pass Through Itself",
-    "title_zh": "首个无法通过自身的形状",
-    "source": "Quanta Magazine",
-    "link": "https://www.quantamagazine.org/first-shape-found-that-cant-pass-through-itself-20251024/",
-    "tags": [
-      "analyze",
-      "science",
-      "ai-research",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "分析",
-      "科学研究",
-      "AI研究",
-      "数据驱动"
-    ],
-    "date": "2025-10-24",
-    "summary_en": "This article presents a fascinating solution to a 300-year-old geometry problem, revealing the discovery of the first shape, the Noperthedron, that cannot pass through itself. The research by Jakob Steininger and Sergey Yurkevich combines theoretical advances with massive computer calculations to prove this property. The discovery challenges the previously held belief that all convex polyhedra have the Rupert property, where one shape can pass through another of equal size. The article explores the historical context, mathematical methods, and the significance of this discovery in the field of geometry, highlighting the interplay between theoretical mathematics and computational approaches.",
-    "summary_zh": "这篇文章讲述了一个令人着迷的几何问题的解决方案，揭示了首个无法通过自身的形状——诺珀特体的发现。雅各布·施泰宁格和谢尔盖·尤尔凯维奇通过理论突破和大规模计算机计算证明了这一性质。这一发现挑战了人们长期以来认为所有凸多面体都具有鲁珀特性质的观点。文章探讨了历史背景、数学方法及这一发现在几何学领域的重要意义，突显了理论数学与计算方法的结合。",
-    "best_quote_en": "I think of this problem as being quite canonical. It would have gotten rediscovered and rediscovered — aliens would have come to this one.",
-    "best_quote_zh": "我认为这个问题非常典型。它会被一次次重新发现——外星人也会发现这个问题。"
-  },
-  {
-    "id": 91,
-    "title": "Monstrification",
-    "title_zh": "怪物化",
-    "source": "Aeon",
-    "link": "https://aeon.co/essays/those-declared-monsters-are-ejected-from-the-human-family?utm_source=rss-feed",
-    "tags": [
-      "solve",
-      "society",
-      "lifestyle",
-      "controversial"
-    ],
-    "tags_zh": [
-      "解决",
-      "社会议题",
-      "生活方式",
-      "争议观点"
-    ],
-    "date": "2025-10-24",
-    "summary_en": "This article explores the historical and contemporary practice of 'monstrification,' where societies define and marginalize individuals or groups as 'monsters' to enforce social norms. From Renaissance curiosity cabinets to modern AI ethics, the piece traces how this concept has been used to justify discrimination, slavery, and violence. The author argues that recognizing monstrification is crucial for protecting human rights and embracing human diversity. The article also introduces 'monstrofuturism' as a way to celebrate human variety and challenge rigid social categories.",
-    "summary_zh": "本文探讨了“怪物化”这一历史和当代现象，即社会通过将个体或群体标签化为“怪物”来强化社会规范。从文艺复兴时代的奇物馆到当代AI伦理，文章追溯了这一概念如何被用来合理化歧视、奴隶制和暴力。作者认为，识别怪物化对于保护人权和接纳人类多样性至关重要。文章还提出了“怪物未来主义”这一概念，倡导庆祝人类差异，挑战固化的社会类别。",
-    "best_quote_en": "Monster-making doesn’t always require the label ‘monster’, nor does it require defining a person as part-animal or supernatural. I see monstrification as any attempt to convey that an individual or group has broken the category of a ‘normal’ human being, via their bodies, minds or culture.",
-    "best_quote_zh": "怪物化并不总是需要贴上“怪物”的标签，也不需要将一个人定义为半兽或超自然存在。我认为，怪物化是任何试图传达一个个体或群体通过其身体、思想或文化打破了‘正常’人类范畴的企图。"
-  },
-  {
-    "id": 92,
-    "title": "10 Top Trails for Winter Hiking Adventures",
-    "title_zh": "10个适合冬季徒步旅行的最佳徒步径",
-    "source": "Mental Floss",
-    "link": "https://www.mentalfloss.com/geography/wanderlust/winter-hikes?utm_source=RSS",
-    "tags": [
-      "inspire",
-      "design",
-      "music-arts",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "启发",
-      "设计创意",
-      "音乐艺术",
-      "未来预测"
-    ],
-    "date": "2025-10-25",
-    "summary_en": "This article highlights ten stunning winter hiking trails across the U.S., each offering unique landscapes transformed by snow. It emphasizes the quiet beauty and solitude of winter hiking, contrasting with crowded summer trails. The piece provides practical advice on gear and safety, while showcasing the geological wonders and historical context of each location. It's a compelling argument for embracing winter as the ideal season for hiking, with insights that will inspire both novice and experienced hikers to explore these magical off-season trails.",
-    "summary_zh": "文章介绍了美国10条最适合冬季徒步的路线，每条路线都展现了雪景下的独特风光。强调冬季徒步的寂静之美和远离人群的体验，与夏季拥挤的徒步路线形成对比。提供了关于装备和安全的实用建议，同时展示了每个地点的地质奇观和历史背景。这是一个说服力强的观点，鼓励徒步爱好者无论是新手还是老手，都能在冬季探索这些魔幻的徒步路线。",
-    "best_quote_en": "Winter hikers from yesteryear would strap on wooden snowshoes and venture out by torchlight. You can enjoy those wonderland moments much more comfortably with a decent pair of waterproof hiking boots or aluminum snowshoes and some trekking poles.",
-    "best_quote_zh": "过去的冬季徒步者会绑上木制雪鞋，在火把的照明下出发。现在你可以带着一双合适的防水徒步靴或铝制雪鞋，再加上登山杖，更舒适地享受这些童话般的时刻。"
-  },
-  {
     "id": 93,
     "title": "Remembrancy",
     "title_zh": "记忆回溯",
@@ -2356,5 +2238,121 @@
     "summary_zh": "马杜罗政权的倒台揭示了威权主义、经济失误和内部权力斗争的复杂网络。马杜罗通过军队和精英的收买维持了权力，而反对派领袖玛丽亚·科里纳·马乔在内部分裂和美国压力下面临重大挑战。特朗普的干预以经济利益为主，而不是民主理想，进一步复杂了局势。委内瑞拉的未来取决于政权内部的权力平衡和反对派应对内外动态的能力。",
     "best_quote_en": "Maduro made it to the Presidency because of a decision by Hugo Chávez... But, the moment Maduro came in, he started to lose popularity, which prompted him to become even more autocratic than Chávez.",
     "best_quote_zh": "马杜罗是因为乌戈·查韦斯的决定才上台的……但马杜罗上台后，他开始失去人气，这促使他比查韦斯更加独裁。"
+  },
+  {
+    "id": 188,
+    "title": "Distinct AI Models Seem To Converge On How They Encode Reality",
+    "title_zh": "不同的人工智能模型似乎在编码现实方面趋同",
+    "source": "Quanta Magazine",
+    "link": "https://www.quantamagazine.org/distinct-ai-models-seem-to-converge-on-how-they-encode-reality-20260107/",
+    "tags": [
+      "analyze",
+      "ai-research",
+      "science",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "分析",
+      "AI研究",
+      "科学研究",
+      "数据驱动"
+    ],
+    "date": "2026-01-07",
+    "summary_en": "The article delves into the intriguing hypothesis that different AI models, despite being trained on diverse data types, may converge on a shared representation of the world. This concept, dubbed the Platonic representation hypothesis, suggests that as AI models grow more powerful, they develop similar internal representations. The debate revolves around whether these models are capturing universal features of the world or merely quirks of their training data. The implications are profound, hinting at a potential unification of AI understanding across different domains. The controversy highlights the need for further research to determine the extent and nature of this convergence.",
+    "summary_zh": "文章探讨了不同的人工智能模型，尽管训练数据类型不同，但可能会趋同于对世界的共同表示。这种假设被称为柏拉图表示假设，暗示随着AI模型变得更加强大，它们会发展出相似的内部表示。争议的焦点在于，这些模型是否捕捉到了世界的普遍特征，还是仅仅捕捉到了训练数据的特殊性。这意味着AI理解在不同领域可能会实现统一。争议突显了进一步研究的必要性，以确定这种趋同的程度和性质。",
+    "best_quote_en": "Why do the language model and the vision model align? Because they’re both shadows of the same world.",
+    "best_quote_zh": "语言模型和视觉模型为什么会对齐？因为它们都是同一个世界的影子。"
+  },
+  {
+    "id": 189,
+    "title": "Incandescent anger",
+    "title_zh": "燃烧的愤怒",
+    "source": "Aeon",
+    "link": "https://aeon.co/essays/what-explains-the-perpetual-need-for-political-enemies?utm_source=rss-feed",
+    "tags": [
+      "solve",
+      "politics",
+      "controversial"
+    ],
+    "tags_zh": [
+      "解决",
+      "政治时事",
+      "争议观点"
+    ],
+    "date": "2025-12-23",
+    "summary_en": "The essay explores the phenomenon of 'grievance politics,' where individuals and movements derive their identity and energy from perpetual opposition and hostility rather than positive aspirations. It delves into the psychological and existential rewards of this stance, which transforms inward pain into outward hostility and offers a sense of identity and community. The author contrasts this with 'contingently negative' movements that use opposition as a means to achieve a positive end, such as the anti-Vietnam War and anti-apartheid movements. The essay argues that grievance politics is structurally dependent on having enemies and that traditional responses like fact-checking or appeasement fail because they do not address the underlying need for opposition. The solution, according to the author, lies in redirecting these energies towards devotion and affirmation, providing a sense of meaning and belonging without requiring an enemy.",
+    "summary_zh": "这篇文章探讨了“怨恨政治”，即个人和运动从持续的对立和敌意中获取身份和能量，而不是积极的理想。它深入分析了这种立场的心理和存在上的回报，将内在的痛苦转化为外在的敌意，并提供身份和社区感。作者将其与“条件性负面”的运动进行对比，这些运动将对立作为实现积极目标的手段。文章认为，怨恨政治在结构上依赖于敌人，而传统的回应如事实核查或妥协都失败了，因为它们没有解决对立的根本需求。作者认为，解决方案在于将这些能量转向崇拜和肯定，提供意义和归属感，而不需要敌人。",
+    "best_quote_en": "'I imagine that one of the reasons people cling to their hates so stubbornly is because they sense, once hate is gone, that they will be forced to deal with pain.' – James Baldwin",
+    "best_quote_zh": "‘我认为人们之所以固执地抓住仇恨不放，是因为他们感到，一旦仇恨消失，他们将不得不面对痛苦。’——詹姆斯·鲍德温"
+  },
+  {
+    "id": 190,
+    "title": "5 Must-See Movies You Won't Believe Turn 25 In 2026",
+    "title_zh": "5 Must-See Movies You Won't Believe Turn 25 In 2026",
+    "source": "Mental Floss",
+    "link": "https://www.mentalfloss.com/entertainment/movies/5-movies-turning-25-in-2026?utm_source=RSS",
+    "tags": [
+      "analyze",
+      "education",
+      "music-arts",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "分析",
+      "教育学习",
+      "音乐艺术",
+      "未来预测"
+    ],
+    "date": "2026-01-07",
+    "summary_en": "The article celebrates the 25th anniversaries of five iconic films from 2001, reflecting on their cultural impact and enduring popularity. 'Shrek' revolutionized animation, turning outcasts into beloved characters and setting a new standard for family entertainment. 'Harry Potter and the Sorcerer's Stone' launched a global phenomenon, introducing a magical world that captivated audiences and spawned a massive franchise. 'Legally Blonde' challenged stereotypes about intelligence and ambition, while 'The Fast and the Furious' kickstarted an action-packed series that continues to thrill fans. 'The Lord of the Rings: The Fellowship of the Ring' brought J.R.R. Tolkien's epic fantasy to life, showcasing groundbreaking visual effects and storytelling. Each film not only entertained but also left a lasting legacy, shaping future generations of cinema.",
+    "summary_zh": "文章庆祝2001年五部经典电影25周年，反思它们的文化影响力和持久的受欢迎程度。《怪物史莱克》革命性地改变了动画，将边缘人物变成了受欢迎的角色，并为家庭娱乐树立了新标准。《哈利·波特与魔法石》启动了一个全球现象，引入了一个魔法世界，吸引了观众并产生了一个庞大的系列。《法律至上》挑战了关于智力和抱负的刻板印象。而《速度与激情》则开启了一个充满动作的系列，继续吸引着观众。《魔戒：魔戒首部曲》将J.R.R.托尔金的史诗奇幻带入了生活，展示了前所未有的视觉效果和讲故事的能力。每部电影不仅娱乐观众，还留下了持久的遗产，塑造了未来几代的电影业。",
+    "best_quote_en": "'What are you doing in my swamp?'",
+    "best_quote_zh": "'你在我的沼泽里干什么？'"
+  },
+  {
+    "id": 191,
+    "title": "Rents Are High, But Not Skyrocketing",
+    "title_zh": "Rents Are High, But Not Skyrocketing",
+    "source": "LessWrong",
+    "link": "https://www.lesswrong.com/posts/oBif3tiEKqX2wWrLE/rents-are-high-but-not-skyrocketing",
+    "tags": [
+      "solve",
+      "ai-research",
+      "business-model",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "解决",
+      "AI研究",
+      "商业模式",
+      "数据驱动"
+    ],
+    "date": "2026-01-08",
+    "summary_en": "Jefftk challenges the common perception of 'skyrocketing' rents, presenting a data-driven perspective that reveals rents have been high but stable in real terms post-COVID. By analyzing Boston-area and national rent data, Jefftk argues that while rents have increased, they have largely kept pace with inflation. The core issue, according to Jefftk, is the need for rent reduction and the removal of supply restrictions to prevent landlords from profiting excessively. This analysis underscores the importance of clear-eyed assessment and policy advocacy in addressing housing affordability.",
+    "summary_zh": "杰夫特克质疑了“租金飙升”的普遍观点，通过数据驱动的视角揭示了租金高企但实际值在疫情后稳定。通过分析波士顿地区和全国的租金数据，杰夫特克指出，尽管租金有所上涨，但基本上与通胀保持一致。杰夫特克认为，核心问题在于租金需要降低，并取消供应限制，以防止房东获得过多利润。这项分析强调了在解决住房负担能力问题时，明确评估和政策倡导的重要性。",
+    "best_quote_en": "Rent needs to go down, and I'm very supportive of efforts to remove supply restrictions so landlords can stop making windfall profits.",
+    "best_quote_zh": "租金需要下降，我非常支持取消供应限制的努力，以防止房东获得暴利。"
+  },
+  {
+    "id": 192,
+    "title": "The Former Trump Skeptics Getting Behind His War in Venezuela",
+    "title_zh": "支持特朗普对委内瑞拉战争的前批评者",
+    "source": "The New Yorker",
+    "link": "https://www.newyorker.com/news/q-and-a/the-former-trump-skeptics-getting-behind-his-war-in-venezuela",
+    "tags": [
+      "update",
+      "politics",
+      "controversial"
+    ],
+    "tags_zh": [
+      "动态",
+      "政治时事",
+      "争议观点"
+    ],
+    "date": "2026-01-07",
+    "summary_en": "The article explores the shifting stance of some former Trump skeptics who now support his aggressive military actions in Venezuela. Matthew Kroenig, a professor and foreign policy expert, argues that Trump's removal of Nicolás Maduro was justified due to Maduro's human rights abuses and the strategic importance of preventing Russian, Chinese, and Iranian influence in the Western Hemisphere. Kroenig believes that while Trump's methods may be controversial, his willingness to use military force can be effective in certain situations. The interview delves into the complexities of Trump's foreign policy, including his threats against other countries and the potential dangers of encouraging his bellicosity. Kroenig's views highlight the tension between pragmatism and principle in U.S. foreign policy, raising questions about the long-term implications of Trump's actions.",
+    "summary_zh": "文章探讨了一些前特朗普批评者现在支持他在委内瑞拉的军事行动。马修·克罗尼格教授认为，特朗普移除马杜罗是正确的，因为马杜罗犯下了严重的人权罪行，并且美国需要防止俄罗斯、中国和伊朗在西半球的影响。克罗尼格认为，尽管特朗普的方法可能具有争议性，但他的强硬手段在某些情况下是有效的。访谈深入探讨了特朗普的外交政策，包括他对其他国家的威胁以及鼓励其好战行为的潜在危险。克罗尼格的观点突显了美国外交政策中实用主义与原则之间的紧张关系，并提出了特朗普行动的长期影响问题。",
+    "best_quote_en": "I think the U.S. has been too cautious regarding the use of force, especially since Iraq and Afghanistan, because I think we’ve taken the lesson that this stuff never works, when, in fact, sometimes military force is the best option.",
+    "best_quote_zh": "我认为美国自伊拉克和阿富汗战争以来，在使用武力方面过于谨慎，因为我们得出的结论是这种做法从来不管用，但实际上有时军事力量是最好的选择。"
   }
 ]
