@@ -1,125 +1,5 @@
 [
   {
-    "id": 93,
-    "title": "Remembrancy",
-    "title_zh": "记忆回溯",
-    "source": "LessWrong",
-    "link": "https://www.lesswrong.com/posts/bXrhcdwhGDnhcBjzJ/remembrancy",
-    "tags": [
-      "solve",
-      "ai-research",
-      "education",
-      "deep-dive"
-    ],
-    "tags_zh": [
-      "解决",
-      "AI研究",
-      "教育学习",
-      "深度分析"
-    ],
-    "date": "2025-10-25",
-    "summary_en": "This piece explores the concept of 'Remembrancy,' a skill from the novel Neverness that involves diving into the unconscious to retrieve lost memories. The author shares a personal example of using this technique to recall the term 'autogenphylia,' demonstrating the process of focusing on feelings and associations rather than forcing direct recall. The text emphasizes the importance of context and patience in memory retrieval, suggesting that remembrancy can help uncover the intricacies of thought processes that memorization alone cannot. The author argues that this skill is particularly valuable for understanding complex chains of thought and improving cognitive clarity, even if it requires significant time and practice.",
-    "summary_zh": "这篇文章探讨了“记忆回溯”的概念，一种源自小说《永恒之城》的技巧，通过深入潜意识来唤醒遗忘的记忆。作者分享了一个个人案例，展示了如何通过关注感受和联想来回忆起术语“自体恋”，而不是强行回忆。文本强调了在记忆检索中上下文和耐心的重要性，认为记忆回溯能揭示思维过程的复杂性，而单纯记忆无法做到。作者认为这种技能尤其有助于理解复杂的思维链条和提升认知清晰度，尽管需要大量时间和练习。",
-    "best_quote_en": "The feeling was the important thing, and it led me to more scraps of imagery, more feelings fleshing out the original, till I had enough bits to zero in on what I wanted.",
-    "best_quote_zh": "感受才是重要的，它带我找到了更多碎片的意象，更多塑造原始记忆的感受，直到我有足够的线索锁定我想要的东西。"
-  },
-  {
-    "id": 94,
-    "title": "What if the Big Law Firms Hadn’t Caved to Trump?",
-    "title_zh": "如果大型律师事务所没有向特朗普屈服会怎样？",
-    "source": "The New Yorker",
-    "link": "https://www.newyorker.com/news/the-lede/what-if-the-big-law-firms-had-not-caved-to-trump",
-    "tags": [
-      "solve",
-      "politics",
-      "legal",
-      "controversial"
-    ],
-    "tags_zh": [
-      "解决",
-      "政治时事",
-      "法律法规",
-      "争议观点"
-    ],
-    "date": "2025-10-25",
-    "summary_en": "This article explores the critical role law firms play in upholding the rule of law and examines the consequences of Paul, Weiss and other major firms quickly surrendering to Trump's executive orders. The author draws parallels to Marlon Brando's iconic speech in 'On the Waterfront,' highlighting how the firms failed in their duty to protect the legal system. The piece argues that collective resistance from law firms could have potentially curbed Trump's authoritarian momentum. It also discusses how targeting institutions rather than individuals has proven effective for the administration, and calls for law firms to recognize their unique responsibility in maintaining the integrity of the legal profession.",
-    "summary_zh": "这篇文章探讨了律师事务所在维护法治中的关键作用，并分析了保罗·韦斯等大型律所迅速向特朗普的行政命令屈服的后果。作者将其与《码头风云》中布兰多的经典台词相提并论，指出这些律所未能履行保护法律体系的职责。文章认为，律所的集体抵抗本可能遏制特朗普的独裁势头。还讨论了行政机构针对机构而非个人的有效性，并呼吁律所认识到其在维护法律职业完整性方面的独特责任。",
-    "best_quote_en": "It wasn’t him, Charlie. It was you. You was my brother, Charlie. You should’ve looked out for me a little bit. You should’ve taken care of me just a little bit, so I wouldn’t have to take them dives for the short-end money.",
-    "best_quote_zh": "不是他，查理。是你。你是我哥哥，查理。你应该照顾我一点。你应该稍微照顾我一点，这样我就不用为小钱而输掉比赛。"
-  },
-  {
-    "id": 95,
-    "title": "Learning to not-know",
-    "title_zh": "学会“不知”",
-    "source": "Aeon",
-    "link": "https://aeon.co/essays/medicine-is-uncertain-embracing-that-makes-doctors-better?utm_source=rss-feed",
-    "tags": [
-      "solve",
-      "education",
-      "medicine",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "解决",
-      "教育学习",
-      "医学健康",
-      "数据驱动"
-    ],
-    "date": "2025-10-23",
-    "summary_en": "This article explores the pervasive yet rarely discussed challenge of uncertainty in medical practice, highlighting how doctors often struggle with ambiguous symptoms and evolving knowledge. The piece examines the cultural stigma around admitting uncertainty, the pressure on physicians to appear decisive, and the consequences for patient care. It features personal stories from patients like Meghan O'Rourke, who faced dismissal of her symptoms due to inconclusive tests, and Jessica Naranjo, who was misdiagnosed for years. The article also discusses the potential and limitations of AI in medical decision-making, and how some physicians are learning to embrace uncertainty as a normal part of practice. The core insight is that acknowledging uncertainty can actually improve doctor-patient relationships and lead to better outcomes, but medical training often discourages this openness.",
-    "summary_zh": "这篇文章探讨了医疗实践中普遍但鲜被讨论的不确定性挑战，医生常面对模糊症状和不断变化的知识。文章分析了承认不确定性的文化污名，医生必须显得果断的压力，以及对患者护理的影响。通过梅根·奥鲁尔克等患者的个人故事，她因检测结果不确定而被忽视症状，杰西卡·纳兰霍被误诊多年。文章还讨论了AI在医疗决策中的潜力和局限性，以及一些医生如何开始接受不确定性作为实践的一部分。核心观点是承认不确定性实际上可以改善医生-患者关系并带来更好的结果，但医学培训往往抑制这种开放性。",
-    "best_quote_en": "'We have a notion of uncertainty as being synonymous with weakness or inertia.' - Maggie Jackson",
-    "best_quote_zh": "'我们有一种观念，认为不确定性与软弱或停滞不前是同义词。' - 麦吉·杰克逊"
-  },
-  {
-    "id": 96,
-    "title": "5 Surprising Foods That Dentists Hate (Including the “Healthy” Snack That Can Wreck Your Teeth)",
-    "title_zh": "牙医最讨厌的5种食物（包括那种看似健康的零食会毁坏你的牙齿）",
-    "source": "Mental Floss",
-    "link": "https://www.mentalfloss.com/food/foods-that-dentists-hate?utm_source=RSS",
-    "tags": [
-      "update",
-      "health-wellness",
-      "science",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "动态",
-      "健康养生",
-      "科学研究",
-      "数据驱动"
-    ],
-    "date": "2025-10-26",
-    "summary_en": "This article reveals surprising foods that dentists warn against, focusing on both obvious and hidden dangers to dental health. While sugar-laden foods are common culprits, the piece highlights how sticky textures, acidity, and firmness can equally damage teeth. Dried fruits, though healthy, cling to enamel and trap sugars, while apples' hardness can chip teeth. White bread transforms into cavity-causing sugar, popcorn husks irritate gums, and chewing ice can crack teeth. The analysis underscores the importance of mindful eating habits to preserve dental health without completely eliminating these foods. It's a wake-up call about the subtle ways everyday foods can impact our oral health.",
-    "summary_zh": "这篇文章揭示了牙医警告的惊人食物，重点介绍了对牙齿健康的显性和隐性危害。虽然含糖食物常被指责，但文章指出黏性、酸度和坚硬度同样有害。干果虽健康却会粘在牙齿上，苹果的硬度可能磨损牙齿，白面包会转化为导致蛀牙的糖分，爆米花壳会刺激牙龈，咬冰会导致牙齿裂开。分析强调了在保持牙齿健康的同时，需要更加注意日常饮食习惯。",
-    "best_quote_en": "Sweetness isnât the only culprit in damaging your oral health. Stickiness, acidity, and texture all contribute, as does biting into and chewing firm foods.",
-    "best_quote_zh": "甜味并不是损害口腔健康的唯一元凶。黏性、酸度和食物质地同样有害，咬下和咀嚼坚硬的食物也会造成损伤。"
-  },
-  {
-    "id": 97,
-    "title": "How valuable is money-in-market?",
-    "title_zh": "资金投入市场的价值如何？",
-    "source": "LessWrong",
-    "link": "https://www.lesswrong.com/posts/Dbt9JHPijfXKbG4dF/how-valuable-is-money-in-market",
-    "tags": [
-      "solve",
-      "economics",
-      "business-model",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "解决",
-      "经济金融",
-      "商业模式",
-      "数据驱动"
-    ],
-    "date": "2025-10-27",
-    "summary_en": "This thought-provoking piece questions the conventional wisdom that spending money in for-profit markets is more effective than donating to non-profits. The author searches for empirical evidence to support this claim but finds none, sparking an intriguing discussion about the marginal economic value of small monetary contributions. The analysis delves into the counterfactual value of money, questioning whether funds remain within the economic system or are lost. This raises important considerations for investors and philanthropists alike, challenging us to think critically about where and how we allocate our financial resources.",
-    "summary_zh": "该文章质疑了将资金投入营利性市场比捐赠给非营利组织更有效的常见说法。作者未能找到支持这一观点的参考价值，引发了对小额资金在整体经济中的边际价值的深入思考。分析探讨了资金是否会回流经济体系，或可能永久流失。这促使投资者和慈善家重新思考资金分配策略。",
-    "best_quote_en": "There's clearly a lot of value to having the economy, but a marginal addition seems proportionally much less.",
-    "best_quote_zh": "经济整体确实有很大价值，但边际增量似乎相对较小。"
-  },
-  {
     "id": 98,
     "title": "Gideon Lewis-Kraus on Rebecca West’s “The Crown Versus William Joyce”",
     "title_zh": "吉迪恩·刘易斯-克劳斯评丽贝卡·韦斯特的《王冠诉威廉·乔伊斯》",
@@ -2354,5 +2234,119 @@
     "summary_zh": "文章探讨了一些前特朗普批评者现在支持他在委内瑞拉的军事行动。马修·克罗尼格教授认为，特朗普移除马杜罗是正确的，因为马杜罗犯下了严重的人权罪行，并且美国需要防止俄罗斯、中国和伊朗在西半球的影响。克罗尼格认为，尽管特朗普的方法可能具有争议性，但他的强硬手段在某些情况下是有效的。访谈深入探讨了特朗普的外交政策，包括他对其他国家的威胁以及鼓励其好战行为的潜在危险。克罗尼格的观点突显了美国外交政策中实用主义与原则之间的紧张关系，并提出了特朗普行动的长期影响问题。",
     "best_quote_en": "I think the U.S. has been too cautious regarding the use of force, especially since Iraq and Afghanistan, because I think we’ve taken the lesson that this stuff never works, when, in fact, sometimes military force is the best option.",
     "best_quote_zh": "我认为美国自伊拉克和阿富汗战争以来，在使用武力方面过于谨慎，因为我们得出的结论是这种做法从来不管用，但实际上有时军事力量是最好的选择。"
+  },
+  {
+    "id": 193,
+    "title": "How Dad’s Fitness May Be Packaged and Passed Down in Sperm RNA",
+    "title_zh": "父亲的健身如何通过精子RNA传递给后代",
+    "source": "Quanta Magazine",
+    "link": "https://www.quantamagazine.org/how-dads-fitness-may-be-packaged-and-passed-down-in-sperm-rna-20251222/",
+    "tags": [
+      "analyze",
+      "science",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "分析",
+      "科学研究",
+      "数据驱动"
+    ],
+    "date": "2025-12-22",
+    "summary_en": "The article delves into groundbreaking research on how a father's lifestyle choices, such as diet and exercise, can be encoded in sperm RNA and influence the traits of his offspring. This challenges the traditional view that sperm merely deliver DNA, suggesting that non-DNA molecules can convey information about the father's fitness to his children. The research, primarily conducted on mice, highlights the role of RNA molecules in transmitting traits related to metabolism and stress response. Scientists are cautious but optimistic about the potential implications for human health and heredity. The findings could revolutionize our understanding of inheritance and open new avenues for preventive medicine, emphasizing the importance of paternal health before conception.",
+    "summary_zh": "文章探讨了父亲的饮食和锻炼习惯如何通过精子RNA传递给后代的研究。这颠覆了传统观点，即精子只传递DNA。研究表明，非DNA分子可以传递父亲的健康信息，影响孩子的代谢和应激反应。虽然主要在小鼠上进行，但研究结果令人振奋。科学家谨慎乐观，认为这可能改变我们对遗传的理解，并为预防医学开辟新途径，强调父亲在受孕前的健康重要性。",
+    "best_quote_en": "What a father eats, drinks, inhales, is stressed by or otherwise experiences in the weeks and months before he conceives a child might be encoded in molecules, packaged into his sperm cells and transmitted to his future kid.",
+    "best_quote_zh": "父亲在受孕前几周或几个月内的饮食、饮品、吸入物、压力或其他经历，可能被编码成分子，打包进他的精子细胞，并传递给他的未来孩子。"
+  },
+  {
+    "id": 194,
+    "title": "Voices of Russia",
+    "title_zh": "俄罗斯的声音",
+    "source": "Aeon",
+    "link": "https://aeon.co/videos/in-rare-candid-interviews-russians-discuss-life-amid-war?utm_source=rss-feed",
+    "tags": [
+      "update",
+      "politics",
+      "psychology"
+    ],
+    "tags_zh": [
+      "动态",
+      "政治时事",
+      "心理学"
+    ],
+    "date": "2025-12-22",
+    "summary_en": "The documentary 'Voices of Russia' offers a poignant glimpse into the lives of ordinary Russians post-2022 war expansion, highlighting the stark contrast in perspectives amidst a climate of increasing authoritarianism. The film's interviewees, whose identities are protected, reveal a spectrum of views ranging from silent opposition to staunch support for Putin's regime. This diversity underscores the complexity of life in a country grappling with war and internal censorship. The documentary's value lies in its ability to humanize the often-monolithic portrayal of Russian society, inviting viewers to consider the nuanced experiences of individuals caught in the crossfire of geopolitical tensions.",
+    "summary_zh": "纪录片《俄罗斯的声音》揭示了2022年大规模战争扩展后俄罗斯普通民众的生活，反映了在日益严格的专制环境下，人们对战争的多样化看法。影片受访者的身份被保护，展示了从默默反对到坚定支持普京政权的多样观点。这表明，在一个与战争和内部审查相抗争的国家，生活是复杂的。纪录片的价值在于，它以人性化的方式揭示了俄罗斯社会的多面性，邀请观众思考那些在地缘政治紧张局势中挣扎的个人的复杂经历。",
+    "best_quote_en": "The only shared constant is the presence of war, existing in dramatically different ways in the minds of the interview participants.",
+    "best_quote_zh": "唯一的共同点是战争的存在，以截然不同的方式存在于受访者的心中。"
+  },
+  {
+    "id": 195,
+    "title": "The Best U.S. Airports for Remote Work, Ranked",
+    "title_zh": "The Best U.S. Airports for Remote Work, Ranked",
+    "source": "Mental Floss",
+    "link": "https://www.mentalfloss.com/geography/cities/best-us-airports-for-remote-work?utm_source=RSS",
+    "tags": [
+      "solve",
+      "leadership",
+      "science",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "解决",
+      "领导管理",
+      "科学研究",
+      "数据驱动"
+    ],
+    "date": "2026-01-08",
+    "summary_en": "The article ranks U.S. airports based on their suitability for remote work, highlighting factors like Wi-Fi speed, dining options, and passenger volume. It reveals that smaller airports often provide better environments for remote work due to lower passenger traffic and faster internet speeds. The top-ranked airport, John Wayne Airport in California, excels in mobile internet speeds and dining density. The study underscores the evolving role of airports as temporary workspaces for digital nomads and remote workers. It also notes regional strengths, such as California's superior digital infrastructure, which benefits airports in the state. The ranking encourages travelers to consider airports' remote work amenities, transforming waiting time into productive work hours.",
+    "summary_zh": "文章根据远程办公的适宜程度对美国机场进行排名，重点关注Wi-Fi速度、餐饮选项和乘客流量。研究表明，较小的机场通常提供更好的远程办公环境，因为乘客流量较少且互联网速度更快。排名第一的约翰·韦恩机场以其快速的移动互联网速度和高密度的餐饮选项脱颖而出。该研究突显了机场作为数字游民和远程工作者临时办公空间的新角色。它还指出了地区优势，如加利福尼亚州的优越数字基础设施，使该州的机场受益。排名鼓励旅客考虑机场的远程办公设施，将等待时间转化为有效的工作时间。",
+    "best_quote_en": "The study shows that smaller airports often provide better environments for remote work than more major airports, proving that bigger isn’t always better.",
+    "best_quote_zh": "研究表明，较小的机场通常为远程办公提供比大型机场更好的环境，证明了大并不总是更好。"
+  },
+  {
+    "id": 196,
+    "title": "Parameters of Metacognition - The Anesthesia Patient",
+    "title_zh": "麻醉患者的元认知参数",
+    "source": "LessWrong",
+    "link": "https://www.lesswrong.com/posts/vtxZtjiR9Rb9HC72N/parameters-of-metacognition-the-anesthesia-patient",
+    "tags": [
+      "analyze",
+      "psychology",
+      "ai-research",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "分析",
+      "心理学",
+      "AI研究",
+      "数据驱动"
+    ],
+    "date": "2026-01-09",
+    "summary_en": "The article delves into the cognitive intricacies of a rare case where a patient experienced partial awareness during general anesthesia. By examining the patient's fragmented sensory inputs and limited motor control, the author explores the concept of metacognition and its parameters—working memory bandwidth, nested observer depth, and metacognitive intransparency. These parameters are used to quantify mental states and offer insights into the patient's experience, highlighting the challenges in understanding and communicating during such states. The author suggests that these parameters can be applied more broadly to study various mental phenomena, emphasizing the importance of understanding the subjective experience of consciousness.",
+    "summary_zh": "文章深入探讨了麻醉患者在全身麻醉下部分觉醒的认知复杂性。通过分析患者的感官输入和有限的运动控制，作者探讨了元认知及其参数，包括工作记忆带宽、嵌套观察者深度和元认知不透明度。这些参数用于量化心理状态，提供了患者经历的洞见，突显了在这样的状态下理解和交流的挑战。作者认为这些参数可以更广泛地应用于研究各种心理现象，强调了理解意识主观体验的重要性。",
+    "best_quote_en": "The more we try to observe ourselves or even to observe how we observe, the more difficult it seems to get.",
+    "best_quote_zh": "我们越是尝试观察自己，甚至观察我们如何观察，似乎越难以做到。"
+  },
+  {
+    "id": 197,
+    "title": "Why Donald Trump Wants Greenland (and Everything Else)",
+    "title_zh": "为什么唐纳德·特朗普想要格陵兰（以及其他一切）",
+    "source": "The New Yorker",
+    "link": "https://www.newyorker.com/news/letter-from-trumps-washington/why-donald-trump-wants-greenland-and-everything-else",
+    "tags": [
+      "update",
+      "politics",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "动态",
+      "政治时事",
+      "数据驱动"
+    ],
+    "date": "2026-01-09",
+    "summary_en": "In her insightful piece, Susan B. Glasser dissects Donald Trump's fixation on acquiring Greenland, revealing it as a symptom of his broader, impulsive foreign policy approach. Trump's real estate mindset, coupled with his narcissistic unilateralism, drives his geopolitical decisions, often leading to international crises. The Greenland incident exemplifies Trump's tendency to view territories as personal acquisitions rather than strategic assets. His administration's threats and military actions underscore a disturbing pattern of unrestrained power, raising serious concerns about the stability of global alliances like NATO. Glasser's analysis serves as a stark reminder of the potential dangers of unchecked presidential authority and the importance of institutional checks and balances.",
+    "summary_zh": "苏珊·B·格拉瑟在文章中深入分析了特朗普对格陵兰的执着，揭示了其背后的更广泛的外交政策思维。特朗普的房地产思维和自大的单边主义导致了其地缘政治决策的混乱，常常引发国际危机。格陵兰事件正是这种模式的缩影，特朗普将领土视为个人资产，而非战略资产。他的政府威胁和军事行动揭示了一个令人不安的权力滥用模式，对全球同盟如北约的稳定提出了严重问题。格拉瑟的分析提醒我们，无约束的总统权力可能带来的危险以及制度制衡的重要性。",
+    "best_quote_en": "I love maps. And I always said, 'Look at the size of this, it’s massive, and that should be part of the United States.'",
+    "best_quote_zh": "我喜欢地图。我总是说，‘看看这个尺寸，它巨大无比，这应该是美国的一部分。’"
   }
 ]
