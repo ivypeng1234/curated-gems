@@ -1,123 +1,5 @@
 [
   {
-    "id": 98,
-    "title": "Gideon Lewis-Kraus on Rebecca West’s “The Crown Versus William Joyce”",
-    "title_zh": "吉迪恩·刘易斯-克劳斯评丽贝卡·韦斯特的《王冠诉威廉·乔伊斯》",
-    "source": "The New Yorker",
-    "link": "https://www.newyorker.com/magazine/takes/gideon-lewis-kraus-on-rebecca-wests-the-crown-versus-william-joyce",
-    "tags": [
-      "analyze",
-      "psychology",
-      "case-study"
-    ],
-    "tags_zh": [
-      "分析",
-      "心理学",
-      "案例研究"
-    ],
-    "date": "2025-10-26",
-    "summary_en": "Gideon Lewis-Kraus delves into Rebecca West's 1946 account of William Joyce's trial, exploring how West's work influenced later writers like Janet Malcolm. The piece examines West's unique approach to courtroom reporting as dramatic criticism and her psychological insight into betrayal and populist resentment. Lewis-Kraus highlights West's witty yet compassionate portrayal of Joyce, a fascist broadcaster, and draws parallels to contemporary political figures. The analysis reveals West's enduring relevance in understanding the interplay between personal trauma and political extremism.",
-    "summary_zh": "吉迪恩·刘易斯-克劳斯深入分析丽贝卡·韦斯特1946年对威廉·乔伊斯审判的报道，探讨韦斯特如何影响了后来的作家如珍妮特·马尔科姆。文章展现了韦斯特将法庭报道视为戏剧批评的独特方法，以及她对背叛和民粹主义怨恨的心理洞察。作者突出了韦斯特对乔伊斯这一纳粹广播员的犀利而同情的描写，并将其与当代政治人物作比较。分析揭示了韦斯特在理解个人创伤与政治极端主义之间关系上的持久价值。",
-    "best_quote_en": "What could the little man do—since he so passionately desired to exercise authority and neither this nor any other sane state would give it to him—but use his trick of gathering together luckless fellows to overturn the state and substitute a mad one?",
-    "best_quote_zh": "既然他如此渴望行使权力，但任何理智的国家都不愿给予他，这个小人物还能做什么呢？除了利用他的伎俩，聚集不幸之徒推翻国家，代之以一个疯狂的政府？"
-  },
-  {
-    "id": 99,
-    "title": "Tales from Toddlerhood",
-    "title_zh": "幼儿时期的故事",
-    "source": "Wait But Why",
-    "link": "https://waitbutwhy.com/2025/10/toddler.html",
-    "tags": [
-      "solve",
-      "lifestyle",
-      "writing-content",
-      "controversial"
-    ],
-    "tags_zh": [
-      "解决",
-      "生活方式",
-      "写作内容",
-      "争议观点"
-    ],
-    "date": "2025-10-24",
-    "summary_en": "This witty and introspective piece offers a raw, humorous look at the realities of toddler parenthood, blending personal anecdotes with universal truths. The author's observations about the paradoxical nature of toddler relationships—simultaneously adoring and exasperating—resonate deeply. The piece also explores the social dynamics among parents, highlighting the judgment and conflicting advice that permeate parenting culture. Through vivid examples, the author illustrates how toddlers navigate the world with a mix of genius and confusion, offering a fresh perspective on child development. The article ultimately advocates for a balanced, joyful approach to parenting, focusing on guiding children rather than trying to mold them.",
-    "summary_zh": "这篇幽默且深刻的文章生动描绘了育儿的真实状态，将个人经历与普遍真理结合。作者对孩子既迷恋又无聊的矛盾心理刻画精准，引发共鸣。文中还揭示了育儿群体间的社会动态，强调判断与矛盾建议的普遍性。通过鲜活案例，作者展示了孩子如何以天才与困惑并存的方式探索世界，为儿童发展提供新视角。最终，文章倡导平衡快乐的育儿方式，强调引导而非塑造。",
-    "best_quote_en": "Toddler parents can take solace in the fact that parenting probably matters less than we think it does.",
-    "best_quote_zh": "家长们可以安慰自己，育儿的影响可能比我们想象的要小。"
-  },
-  {
-    "id": 100,
-    "title": "Shark Data Suggests Animals Scale Like Geometric Objects",
-    "title_zh": "鲨鱼数据表明动物像几何物体一样具有比例关系",
-    "source": "Quanta Magazine",
-    "link": "https://www.quantamagazine.org/shark-data-suggests-animals-scale-like-geometric-objects-20251027/",
-    "tags": [
-      "solve",
-      "science",
-      "ai-research",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "解决",
-      "科学研究",
-      "AI研究",
-      "数据驱动"
-    ],
-    "date": "2025-10-27",
-    "summary_en": "This study reveals a fascinating geometric scaling pattern in sharks that challenges our understanding of biological evolution. The discovery that sharks, despite their diverse forms, follow the two-thirds scaling law suggests fundamental constraints on how organisms can grow and adapt. This finding has profound implications for our understanding of metabolic processes, heat exchange, and developmental biology across species. The research highlights the importance of empirical studies in biological scaling, which could lead to practical applications in veterinary medicine and pharmacology. The study's meticulous methodology using CT scans and 3D modeling demonstrates how modern technology can uncover ancient evolutionary principles.",
-    "summary_zh": "这一研究揭示了鲨鱼在生长过程中遵循几何比例规律，挑战了我们对生物进化的认知。发现鲨鱼尽管形态各异，但仍遵循三分之二比例规律，表明生命进化存在根本性限制。这一发现对代谢过程、热交换和发展生物学具有深远意义。研究强调了生物比例研究的重要性，可能带来兽医学和药理学的实际应用。研究精细的方法使用CT扫描和3D建模，展示了现代科技如何揭示古老的进化原理。",
-    "best_quote_en": "There's only so many ways you can stretch out the clay to make different shapes without incurring energetic costs.",
-    "best_quote_zh": "将黏土拉伸成不同形状的方式有限，否则会产生能量成本。"
-  },
-  {
-    "id": 101,
-    "title": "Backyard caterpillars",
-    "title_zh": "后院毛虫",
-    "source": "Aeon",
-    "link": "https://aeon.co/videos/close-ups-reveal-how-caterpillars-live-long-enough-to-cocoon?utm_source=rss-feed",
-    "tags": [
-      "guide",
-      "science",
-      "society",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "指导",
-      "科学研究",
-      "社会议题",
-      "数据驱动"
-    ],
-    "date": "2025-10-27",
-    "summary_en": "This captivating video by biologist Adrian Smith offers an intimate look at the fascinating world of caterpillars thriving within a 20-mile radius of Raleigh, North Carolina. Through mesmerizing close-ups and creative cinematography, Smith reveals the crucial ecological roles these creatures play, their ingenious defense mechanisms, and their astonishing metamorphoses. The footage not only highlights the remarkable biodiversity in our immediate surroundings but also serves as a reminder of nature's constant, often unnoticed struggles for survival. Smith's presentation style, blending scientific insight with showmanship, makes complex biological concepts accessible and engaging. The grand finale - a butterfly's first flight - leaves viewers with a profound appreciation for these small but mighty creatures.",
-    "summary_zh": "这部令人着迷的视频由生物学家Adrian Smith制作，展示了在北卡罗来纳州罗利市20英里范围内栖息的各种毛虫的精彩世界。通过震撼人心的特写镜头和创意摄影，史密斯揭示了这些生物在生态系统中的重要作用、它们巧妙的防御机制以及惊人的变态发育过程。影像不仅突出了我们身边常被忽视的丰富生物多样性，还提醒我们注意大自然中持续不断的生存斗争。史密斯将科学洞察与表演才能相结合，使复杂的生物学概念变得易于理解和引人入胜。视频的高潮部分——蝴蝶首次飞翔，让观众对这些微小但强大的生物产生深刻的赞赏。",
-    "best_quote_en": "These caterpillars support healthy ecosystems, employ a range of strategies to protect themselves from predators and transform into seemingly entirely different creatures.",
-    "best_quote_zh": "这些毛虫维持着健康的生态系统，采用各种策略保护自己免受天敌的伤害，并最终变成看似完全不同的生物。"
-  },
-  {
-    "id": 102,
-    "title": "The 10 Most Dangerous States for Trick-or-Treaters, Mapped",
-    "title_zh": "美国最危险的万圣节讨糖果州份，地图显示",
-    "source": "Mental Floss",
-    "link": "https://www.mentalfloss.com/geography/maps/most-dangerous-states-trick-or-treaters?utm_source=RSS",
-    "tags": [
-      "analyze",
-      "data-science",
-      "science",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "分析",
-      "数据科学",
-      "科学研究",
-      "数据驱动"
-    ],
-    "date": "2025-10-27",
-    "summary_en": "This article reveals a data-driven analysis of the most dangerous states for trick-or-treating in the U.S., based on factors like pedestrian fatalities, violent crime rates, and road safety. The study highlights New Mexico as the most dangerous state due to its high rates of road safety incidents, violent crime, and abduction statistics. Interestingly, while Wyoming scored better in road safety, South Carolina's higher violent crime rate placed it second. The article also identifies the safest states, with Massachusetts topping the list due to excellent road safety and low pedestrian fatalities. This analysis provides valuable insights for parents planning Halloween activities, emphasizing the importance of considering local safety data.",
-    "summary_zh": "这篇文章通过数据分析揭示了美国最危险的万圣节讨糖果州份，基于行人死亡率、暴力犯罪率和道路安全等因素。研究显示新墨西哥州因高频的道路安全事故、暴力犯罪和绑架案件成为最危险的州。尽管怀俄明州的道路安全得分更高，南卡罗来纳州因更高的暴力犯罪率排名第二。文章还列出了最安全的州份，马萨诸塞州因优异的道路安全和低行人死亡率位居榜首。这份分析为计划万圣节活动的家长提供了宝贵的见解，强调了考虑当地安全数据的重要性。",
-    "best_quote_en": "With a trick-or-treat danger score of 61.89, New Mexico came out on top in the survey as America’s most dangerous at this time of year.",
-    "best_quote_zh": "新墨西哥州以61.89的讨糖果危险指数位居榜首，成为美国万圣节期间最危险的州份。"
-  },
-  {
     "id": 103,
     "title": "All the lab's AI safety Plans: 2025 Edition",
     "title_zh": "2025年AI安全计划：三大实验室的应对方案",
@@ -2348,5 +2230,121 @@
     "summary_zh": "苏珊·B·格拉瑟在文章中深入分析了特朗普对格陵兰的执着，揭示了其背后的更广泛的外交政策思维。特朗普的房地产思维和自大的单边主义导致了其地缘政治决策的混乱，常常引发国际危机。格陵兰事件正是这种模式的缩影，特朗普将领土视为个人资产，而非战略资产。他的政府威胁和军事行动揭示了一个令人不安的权力滥用模式，对全球同盟如北约的稳定提出了严重问题。格拉瑟的分析提醒我们，无约束的总统权力可能带来的危险以及制度制衡的重要性。",
     "best_quote_en": "I love maps. And I always said, 'Look at the size of this, it’s massive, and that should be part of the United States.'",
     "best_quote_zh": "我喜欢地图。我总是说，‘看看这个尺寸，它巨大无比，这应该是美国的一部分。’"
+  },
+  {
+    "id": 198,
+    "title": "Using AI, Mathematicians Find Hidden Glitches in Fluid Equations",
+    "title_zh": "Using AI, Mathematicians Find Hidden Glitches in Fluid Equations",
+    "source": "Quanta Magazine",
+    "link": "https://www.quantamagazine.org/using-ai-mathematicians-find-hidden-glitches-in-fluid-equations-20260109/",
+    "tags": [
+      "analyze",
+      "ai-research",
+      "science",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "分析",
+      "AI研究",
+      "科学研究",
+      "数据驱动"
+    ],
+    "date": "2026-01-09",
+    "summary_en": "Mathematicians have long suspected that the Navier-Stokes equations, which govern fluid dynamics, might harbor hidden glitches or singularities under certain conditions. Recent advancements in artificial intelligence, particularly physics-informed neural networks (PINNs), have enabled researchers to uncover previously elusive unstable singularities in simplified fluid equations. This breakthrough raises hopes that similar techniques could eventually be applied to the more complex Navier-Stokes equations, potentially solving a century-old mathematical puzzle and earning a $1 million prize. The use of AI in this context not only demonstrates its potential in solving deep theoretical problems but also highlights the interdisciplinary nature of modern scientific research. The discovery of these singularities challenges our understanding of fluid behavior and opens new avenues for exploration in mathematical physics.",
+    "summary_zh": "数学家们一直怀疑纳维-斯托克斯方程在某些情况下可能存在隐藏的故障或奇点。最近，人工智能的进步，特别是物理信息神经网络（PINNs），使研究人员能够在简化的流体方程中发现之前难以捉摸的不稳定奇点。这一突破让人们对类似技术能否应用于更复杂的纳维-斯托克斯方程充满希望，从而有可能解决一个世纪以来的数学难题并获得100万美元的奖金。人工智能在这一背景下的应用不仅展示了其在解决深层次理论问题上的潜力，也突显了现代科学研究的跨学科性质。奇点的发现挑战了我们对流体行为的理解，并为数学物理学的探索开辟了新的途径。",
+    "best_quote_en": "A lot of people believe that there are singularities, but that they are unstable, so we never see them.",
+    "best_quote_zh": "很多人相信存在奇点，但它们是不稳定的，所以我们从未见过它们。"
+  },
+  {
+    "id": 199,
+    "title": "Are doctors replaceable?",
+    "title_zh": "医生可以被替代吗？",
+    "source": "Aeon",
+    "link": "https://aeon.co/essays/who-should-decide-the-role-of-ai-in-the-future-of-medicine?utm_source=rss-feed",
+    "tags": [
+      "inspire",
+      "ai-research",
+      "medicine",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "启发",
+      "AI研究",
+      "医学健康",
+      "数据驱动"
+    ],
+    "date": "2025-12-22",
+    "summary_en": "The essay 'Are doctors replaceable?' delves into the inherent flaws and limitations of human doctors, highlighting the prevalence of medical errors and the burnout epidemic among physicians. It argues that the narrative of doctors as infallible healers is a myth that hinders progress and innovation. The author contends that the focus should shift from preserving the profession to improving patient outcomes, suggesting that AI could play a significant role. The essay challenges the assumption that doctors should be the sole arbiters of their own replaceability, advocating for a broader, more inclusive conversation involving philosophy, sociology, psychology, and patient perspectives. It concludes that the ultimate goal should be to make care more accurate, timely, and humane, rather than sentimental.",
+    "summary_zh": "这篇文章探讨了医生作为不可替代的医疗专业人员的神话，揭示了医疗错误和医生焦虑的普遍性。作者认为，医学的进步和创新被这一神话所阻碍，应将重点转向提高患者结果，而不是保护医生的职业。文章建议AI可能在其中发挥重要作用，并挑战医生是否应该是自己不可替代性的唯一裁决者的假设。文章呼吁开展一场更广泛、更包容的对话，包括哲学、社会学、心理学和患者视角。结论是，最终目标应是使护理更准确、及时和人道，而不是情感化。",
+    "best_quote_en": "Even at their best, doctors are human – and that means errors are inevitable.",
+    "best_quote_zh": "即使在最佳状态下，医生也是人——这意味着错误是不可避免的。"
+  },
+  {
+    "id": 200,
+    "title": "The Mobster Behind ‘Goodfellas’ Also Inspired a Totally Different 1990 Movie",
+    "title_zh": "《教父》背后的黑帮分子还启发了1990年的另一部电影",
+    "source": "Mental Floss",
+    "link": "https://www.mentalfloss.com/entertainment/movies/goodfellas-mobster-inspired-another-movie?utm_source=RSS",
+    "tags": [
+      "analyze",
+      "cybersecurity",
+      "science",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "分析",
+      "网络安全",
+      "科学研究",
+      "数据驱动"
+    ],
+    "date": "2026-01-10",
+    "summary_en": "The intertwining stories of Henry Hill, a mobster whose life inspired both the gritty drama 'Goodfellas' and the comedic 'My Blue Heaven,' offer a fascinating glimpse into the diverse interpretations of true crime. Hill's journey from a young errand boy to a notorious criminal and eventual FBI informant is a tale of ambition, betrayal, and survival. The contrasting approaches of Martin Scorsese and Nora Ephron in adapting Hill's story highlight the multifaceted nature of storytelling. Scorsese's 'Goodfellas' delivers a raw, unflinching portrayal of mafia life, while Ephron's 'My Blue Heaven' provides a humorous take on witness protection. This dual narrative underscores the versatility of true crime as a genre, capable of inspiring both dramatic intensity and comedic relief. The films' simultaneous release in 1990 adds a layer of intrigue, showcasing how different creative minds can draw from the same source material to produce vastly different outcomes.",
+    "summary_zh": "黑帮分子亨利·希尔的故事不仅激发了马丁·斯科塞斯的《教父》的创作，还启发了诺拉·埃夫伦的喜剧电影《我的蓝天》。希尔从一个小跑腿变成了臭名昭著的罪犯，最终成为联邦调查局的线人，他的经历充满了野心、背叛和生存的斗争。斯科塞斯和埃夫伦对希尔故事的不同诠释，展示了叙事的多面性。斯科塞斯的《教父》以其真实而残酷的黑帮生活画面著称，而埃夫伦的《我的蓝天》则以幽默的方式讲述了证人保护计划。这两部电影的同时发布，展示了不同的创意头脑如何从同一素材中产生截然不同的作品。",
+    "best_quote_en": "She was picking my brain for a script she was writing,â Hill recalled in his own memoir. âI had no idea. She was on the other end taking notes.",
+    "best_quote_zh": "她在为她的剧本挖掘我的脑子，”希尔在他的回忆录中回忆道。“我毫不知情。她在另一边做笔记。”"
+  },
+  {
+    "id": 201,
+    "title": "6’7” Is Not Random",
+    "title_zh": "6英尺7英寸并非随机",
+    "source": "LessWrong",
+    "link": "https://www.lesswrong.com/posts/EfTRLxtYxtnbbkWee/6-7-is-not-random",
+    "tags": [
+      "solve",
+      "society",
+      "personal-finance",
+      "deep-dive"
+    ],
+    "tags_zh": [
+      "解决",
+      "社会议题",
+      "个人理财",
+      "深度分析"
+    ],
+    "date": "2026-01-10",
+    "summary_en": "Martin Lichstam's piece '6’7” Is Not Random' delves into the cultural significance of a viral meme, using it as a lens to examine the existential crisis faced by Generation Z. He argues that the meme '6 7' is not just a senseless trend but a cry for help from a generation navigating a world of non-linearity. The older generations, he suggests, have lost touch with the realities faced by the youth, who now see traditional measures of success as unattainable. This analysis is a poignant reflection on the societal shifts and the growing disparity between generations, offering a critical perspective on the modern world's demands and expectations.",
+    "summary_zh": "马丁·利希斯塔姆的《6英尺7英寸并非随机》探讨了一个病毒式流行语的文化意义，认为“6 7”不仅是无意义的趋势，更是Z世代在非线性世界中挣扎的呼救。他认为，老一辈已经失去了与年轻人现实的联系，年轻人现在将传统的成功标准视为无法企及。这是对社会变迁和世代差距的深刻反思，提供了对现代世界要求和期望的批判性视角。",
+    "best_quote_en": "In other words, it is the perfect expression of Heightflation. It represents a world where the requirements to 'win' have drifted beyond the reach of human effort.",
+    "best_quote_zh": "换句话说，这就是完美的高度通胀表达。它代表了一个“赢”的要求已经超出人类努力范围的世界。"
+  },
+  {
+    "id": 202,
+    "title": "Minneapolis Reacts to ICE’s Killing of Renee Nicole Good",
+    "title_zh": "明尼阿波利斯对ICE杀害Renee Nicole Good事件的反应",
+    "source": "The New Yorker",
+    "link": "https://www.newyorker.com/news/the-lede/an-ice-killing-puts-minneapolis-on-the-brink",
+    "tags": [
+      "analyze",
+      "society"
+    ],
+    "tags_zh": [
+      "分析",
+      "社会议题"
+    ],
+    "date": "2026-01-09",
+    "summary_en": "The killing of Renee Nicole Good by an ICE officer in Minneapolis has reignited tensions and protests, reminiscent of the George Floyd murder. The city, already grappling with federal overreach and community trauma, sees increased ICE raids targeting immigrant communities. Local leaders demand federal withdrawal, while residents express fear and mistrust. The incident highlights ongoing issues of state violence, racial injustice, and the erosion of local autonomy. The community's response underscores the deep-seated impact of repeated tragedies and the need for systemic change.",
+    "summary_zh": "ICE执法人员在明尼阿波利斯杀害Renee Nicole Good事件引发了新一轮的紧张局势和抗议活动，这让人联想到乔治·弗洛伊德被杀事件。该市在应对联邦政府的过度干预和社区创伤的同时，面临越来越多的ICE突袭行动，针对的是移民社区。地方领导人要求联邦政府撤离，而居民则表达了恐惧和不信任。这起事件凸显了国家暴力、种族不公和地方自治权被侵蚀的持续问题。社区的反应强调了重复悲剧的深远影响以及系统性变革的必要性。",
+    "best_quote_en": "The fear has been daily since ICE has been in the streets.",
+    "best_quote_zh": "自从ICE在街头出现以来，恐惧每天都存在。"
   }
 ]
