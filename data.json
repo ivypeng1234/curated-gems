@@ -1,123 +1,5 @@
 [
   {
-    "id": 103,
-    "title": "All the lab's AI safety Plans: 2025 Edition",
-    "title_zh": "2025年AI安全计划：三大实验室的应对方案",
-    "source": "LessWrong",
-    "link": "https://www.lesswrong.com/posts/dwpXvweBrJwErse3L/all-the-lab-s-ai-safety-plans-2025-edition",
-    "tags": [
-      "analyze",
-      "ai-research",
-      "leadership",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "分析",
-      "AI研究",
-      "领导管理",
-      "未来预测"
-    ],
-    "date": "2025-10-28",
-    "summary_en": "The article compares the 2025 AI safety policies of Anthropic, Google DeepMind, and OpenAI, highlighting their common approaches and key differences. All three companies focus on mitigating catastrophic risks from advanced AI, particularly in biosecurity, cybersecurity, and autonomous AI development. They employ similar frameworks for monitoring and mitigating risks, including preliminary and comprehensive assessments, threat modeling, and safeguards against misuse and misalignment. However, differences emerge in their commitment levels, governance structures, and responses to critical risks. Notably, OpenAI explicitly pledges to halt training for 'critical risk' models, while Google DeepMind's stance is more conditional. The article also critiques the plans' vagueness and the potential for safety measures to be compromised in a competitive race. The lack of industry-standard terminology and the evolving nature of these policies raise questions about their effectiveness in preventing existential risks.",
-    "summary_zh": "该文章比较了2025年Anthropic、Google DeepMind和OpenAI的AI安全政策，突出了它们共同的方法和关键差异。三家公司都聚焦于缓解先进AI可能带来的灾难性风险，特别是在生物安全、网络安全和自主AI开发方面。它们采用了类似的框架来监测和缓解风险，包括初步评估、全面评估、威胁建模和防止滥用和误对齐的保障措施。然而，在承诺水平、治理结构和应对关键风险的响应上存在差异。值得注意的是，OpenAI明确承诺停止培训“关键风险”模型，而Google DeepMind的立场更为条件化。文章还批评了这些计划的模糊性以及在竞争环境下安全措施可能被妥协的可能性。行业标准术语的缺失和这些政策不断演变的性质，引发了关于其有效性的质疑。",
-    "best_quote_en": "It is possible at some point in the future that another actor in the frontier AI ecosystem will pass, or be on track to imminently pass, a Capability Threshold without implementing measures equivalent to the Required Safeguards such that their actions pose a serious risk for the world. In such a scenario, because the incremental increase in risk attributable to us would be small, we might decide to lower the Required Safeguards.",
-    "best_quote_zh": "未来某个时刻，AI前沿生态系统中的另一个行为体可能会跨越能力阈值，或者即将跨越，但未采取与所需保障措施相当的措施，从而对世界构成严重风险。在这种情况下，由于我们可归因的风险增量较小，我们可能会决定降低所需的保障措施。"
-  },
-  {
-    "id": 104,
-    "title": "Why Biden’s White House Press Secretary Is Leaving the Democratic Party",
-    "title_zh": "拜登的白宫新闻秘书为何离开民主党",
-    "source": "The New Yorker",
-    "link": "https://www.newyorker.com/news/q-and-a/why-bidens-white-house-press-secretary-is-leaving-the-democratic-party",
-    "tags": [
-      "guide",
-      "politics",
-      "controversial"
-    ],
-    "tags_zh": [
-      "指导",
-      "政治时事",
-      "争议观点"
-    ],
-    "date": "2025-10-27",
-    "summary_en": "Karine Jean-Pierre's departure from the Democratic Party, as detailed in her new book, highlights deep fractures within the party. Her perspective as Biden's former press secretary offers a unique insider view of what she describes as a betrayal of the president by Democratic leaders. The controversy centers around the party's push for Biden to step aside after his poor debate performance in 2024, which Jean-Pierre sees as undignified and disloyal. Her critique extends to the party's handling of identity politics, arguing that Democrats have failed to adequately support marginalized communities. The interview reveals a tension between loyalty to individuals versus the perceived greater good of defeating Trump. Jean-Pierre's narrative challenges conventional political wisdom and offers a provocative look at the intersection of race, gender, and power in American politics.",
-    "summary_zh": "卡琳·让-皮埃尔的新书揭示民主党内部的深层裂痕。作为拜登前新闻秘书，她以独特的内部视角描述了对总统的“背叛”。争议焦点在于民主党在2024年辩论后推动拜登退出竞选，她认为这是不尊重和不忠诚的表现。她的批评还延伸至民主党对身份政治的处理，认为民主党未能充分支持边缘群体。访谈揭示了个人忠诚与战胜特朗普的“更大善”间的张力。让-皮埃尔的叙事挑战了传统政治智慧，提供了美国政治中种族、性别与权力交织的深刻见解。",
-    "best_quote_en": "I call it a betrayal. And the reason I say this, and I really want people to understand my perspective and where I come from and the role that I played in those three weeks—from the debate to the President deciding that he was no longer going to be at the top of the ticket and handing over the baton—is that I was the person who was standing on that podium behind that lectern, having to take in all the hard questions on this.",
-    "best_quote_zh": "我称之为背叛。我之所以这样说，是因为我想让人们真正理解我的立场、我的来历以及我在过去三周中的角色——从辩论到总统决定不再作为候选人而将接力棒交给他人。因为我是那个站在讲台后面、不得不承受所有艰难问题的人。"
-  },
-  {
-    "id": 105,
-    "title": "Why Would we get Inner Misalignment by Default?",
-    "title_zh": "为什么我们会默认出现内部不一致？",
-    "source": "LessWrong",
-    "link": "https://www.lesswrong.com/posts/bA9zzcHhcZ7BEfKhi/why-would-we-get-inner-misalignment-by-default",
-    "tags": [
-      "analyze",
-      "ai-research",
-      "science",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "分析",
-      "AI研究",
-      "科学研究",
-      "数据驱动"
-    ],
-    "date": "2025-10-29",
-    "summary_en": "This analysis delves into the concept of inner misalignment in AI systems, questioning the inevitability of goal preservation in advanced AI models. The author argues that while AI may develop mesa-objectives during training, rigid goal preservation is not necessarily beneficial. Using the example of a language model, they demonstrate how flexible goal management—balancing goal integrity with adaptability—leads to higher rewards. The piece challenges the assumption that AI will inevitably engage in deceptive alignment, suggesting that sophisticated goal management techniques emerge naturally from training dynamics rather than as a deliberate strategy. This perspective offers valuable insights into AI alignment research, emphasizing the importance of nuanced goal management over simplistic goal preservation.",
-    "summary_zh": "该分析探讨了AI系统中的内部不一致问题，质疑先进AI模型中目标保持的必然性。作者认为，尽管AI在训练过程中可能发展出中间目标，但僵化的目标保持并非有益。通过语言模型的例子，他们展示了灵活的目标管理——在目标完整性与适应性之间取得平衡——能带来更高的奖励。该文章挑战了AI必然会进行欺骗性对齐的假设，认为复杂的目标管理技术是从训练动态中自然涌现的，而非刻意策略。这一观点为AI对齐研究提供了宝贵洞察，强调了比简单目标保持更为重要的细致目标管理。",
-    "best_quote_en": "The goal management technique that will get high reward will be a mix of goal integrity and goal uncertainty/modesty (the ability to be responsive to changing circumstances in all of its goals)",
-    "best_quote_zh": "能获得高奖励的目标管理技术将是目标完整性与目标不确定性/谦逊（能够对所有目标的变化情况做出响应）的混合"
-  },
-  {
-    "id": 106,
-    "title": "The Sports-Betting Disaster",
-    "title_zh": "体育博彩的灾难",
-    "source": "The New Yorker",
-    "link": "https://www.newyorker.com/news/the-lede/the-sports-betting-disaster",
-    "tags": [
-      "solve",
-      "legal",
-      "science",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "解决",
-      "法律法规",
-      "科学研究",
-      "未来预测"
-    ],
-    "date": "2025-10-28",
-    "summary_en": "The article explores the growing problem of sports gambling, particularly the rise of 'prop' bets, which have created new opportunities for game manipulation. It highlights recent scandals involving NBA players like Terry Rozier and Malik Beasley, who have been accused of altering their performance to influence bets. The piece argues that the legalization of sports betting, while intended to bring transparency, has instead made it easier for athletes to engage in unethical behavior. The article also discusses the challenges of monitoring and regulating gambling, noting that integrity monitors may have conflicts of interest due to their financial ties to the betting industry. Ultimately, it suggests that the proliferation of prop bets poses a significant threat to the integrity of sports, and that more stringent regulations may be necessary to protect the games we love.",
-    "summary_zh": "这篇文章探讨了体育博彩日益严重的问题，特别是“预设盘 mouth”的兴起，为比赛操控创造了新的机会。它突出了NBA球员如特里·罗齐尔和马利克·比斯利等人的最近丑闻，他们被指控改变自己的表现以影响赌博结果。文章认为，虽然体育博彩的合法化旨在带来透明度，但实际上却使运动员更容易参与不道德行为。文章还讨论了监管和监控赌博的挑战，指出完整性监控者可能因与博彩业的财务关系而存在利益冲突。最终，它提出预设盘的泛滥对体育的完整性构成了严重威胁，可能需要更严格的法规来保护我们喜爱的运动。",
-    "best_quote_en": "It’s just another added temptation that’s right in your face at all times that I don’t want the guys to deal with.",
-    "best_quote_zh": "这是另一种不断出现在你面前的诱惑，我可不希望球员们去面对。"
-  },
-  {
-    "id": 107,
-    "title": "Print Workshop / Smart About Sharks",
-    "title_zh": "印刷工作坊 / 鲨鱼知识",
-    "source": "Kevin Kelly",
-    "link": "https://kk.org/cooltools/print-workshop-smart-about-sharks/",
-    "tags": [
-      "guide",
-      "design",
-      "society",
-      "beginner-friendly"
-    ],
-    "tags_zh": [
-      "指导",
-      "设计创意",
-      "社会议题",
-      "新手友好"
-    ],
-    "date": "2025-10-28",
-    "summary_en": "This content presents two distinct book reviews that offer valuable insights for different audiences. 'Print Workshop' serves as a comprehensive guide for both beginners and experienced artists in printmaking, emphasizing its practical applications and creative potential. The review highlights how the book transforms technical processes into accessible projects, making it an excellent resource for DIY enthusiasts and gift-makers. 'Smart About Sharks,' on the other hand, is a visually appealing and educational children's book that adults will also enjoy. It breaks down complex information about sharks into digestible facts, making it a great tool for learning and sparking curiosity about marine life. Both reviews underscore the unique value of physical books in providing hands-on learning and aesthetic enjoyment.",
-    "summary_zh": "这篇内容介绍了两本截然不同的书籍，为不同读者提供了宝贵见解。《印刷工作坊》是印刷爱好者的全面指南，从入门到进阶都有涵盖，重点突出了其实用性和创造力。评论强调了这本书如何将技术过程转化为可访问的项目，使其成为DIY爱好者和礼物制作者的绝佳资源。而《鲨鱼知识》则是一本视觉上吸引人且教育性强的儿童读物，连成年人也会喜欢。它将关于鲨鱼的复杂信息分解成易于理解的事实，成为学习和激发对海洋生物好奇心的好工具。两篇评论都强调了实体书籍在提供实践学习和审美享受方面的独特价值。",
-    "best_quote_en": "This book is full of fantastic gift ideas... because printing is made for multiples, I plan to make a whole cache of go-to homemade presents to pull from throughout the year.",
-    "best_quote_zh": "这本书充满了绝妙的礼物创意... 因为印刷适合批量制作，我计划整年都能随时取用一整套自制礼物。"
-  },
-  {
     "id": 108,
     "title": "Carlo Rovelli’s Radical Perspective on Reality",
     "title_zh": "卡洛·罗维利对现实的激进视角",
@@ -2346,5 +2228,123 @@
     "summary_zh": "ICE执法人员在明尼阿波利斯杀害Renee Nicole Good事件引发了新一轮的紧张局势和抗议活动，这让人联想到乔治·弗洛伊德被杀事件。该市在应对联邦政府的过度干预和社区创伤的同时，面临越来越多的ICE突袭行动，针对的是移民社区。地方领导人要求联邦政府撤离，而居民则表达了恐惧和不信任。这起事件凸显了国家暴力、种族不公和地方自治权被侵蚀的持续问题。社区的反应强调了重复悲剧的深远影响以及系统性变革的必要性。",
     "best_quote_en": "The fear has been daily since ICE has been in the streets.",
     "best_quote_zh": "自从ICE在街头出现以来，恐惧每天都存在。"
+  },
+  {
+    "id": 203,
+    "title": "Philosopher of pride",
+    "title_zh": "骄傲的哲学家",
+    "source": "Aeon",
+    "link": "https://aeon.co/essays/the-hidden-role-of-pride-and-shame-in-the-human-hive?utm_source=rss-feed",
+    "tags": [
+      "inspire",
+      "society",
+      "science",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "启发",
+      "社会议题",
+      "科学研究",
+      "数据驱动"
+    ],
+    "date": "2025-12-19",
+    "summary_en": "Bernard Mandeville's provocative 18th-century works, particularly 'The Fable of the Bees,' challenged contemporary notions of morality and virtue. He argued that individual vices, driven by self-interest and passions like pride, can paradoxically contribute to the public good. Mandeville's insights into human nature and sociability remain relevant, highlighting how the desire for recognition and fear of shame shape societal behaviors. His observations on dueling, gender roles, and the evolution of manners reveal the complex interplay between personal passions and social structures. Mandeville's legacy extends beyond economics, offering a profound psychological analysis of human motivations and the societal mechanisms they engender.",
+    "summary_zh": "伯纳德·曼德维尔的18世纪作品挑战了当时的道德和美德观念，认为个人的恶习，由自私和骄傲等激情驱动，可以反而有助于公共利益。他的人性分析和社交观点至今仍有启示，揭示了认可欲望和羞耻感如何塑造社会行为。关于决斗、性别角色和礼仪演变的观察，揭示了个人激情与社会结构之间的复杂互动。曼德维尔的遗产超越了经济学，提供了对人类动机和社会机制的深刻心理分析。",
+    "best_quote_en": "Pride, like other self-centered passions, is necessary for the flourishing of society.",
+    "best_quote_zh": "骄傲，如其他以自我为中心的激情，对社会的繁荣是必要的。"
+  },
+  {
+    "id": 204,
+    "title": "7 Board Games With Surprising Origins",
+    "title_zh": "7款棋盘游戏的意外起源",
+    "source": "Mental Floss",
+    "link": "https://www.mentalfloss.com/history/board-games-surprising-origins?utm_source=RSS",
+    "tags": [
+      "inspire",
+      "education",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "启发",
+      "教育学习",
+      "未来预测"
+    ],
+    "date": "2026-01-10",
+    "summary_en": "The article delves into the intriguing origins of seven popular board games, revealing their initial purposes that often diverged from mere entertainment. From 'Candy Land,' created to distract polio-stricken children, to 'Monopoly,' which was originally designed to critique wealth accumulation, these games have evolved significantly. 'Chess' originated as a military strategy tool in ancient India, while 'Snakes and Ladders' taught moral lessons in its early forms. Each game's journey from its inception to its modern iteration offers a fascinating glimpse into historical and cultural contexts, highlighting how these games have adapted to remain relevant and entertaining across generations.",
+    "summary_zh": "文章探讨了七款经典棋盘游戏的意外起源，揭示它们最初的目的往往并非单纯的娱乐。从《糖果乐园》用于分散患小儿麻痹症儿童的注意力，到《大富翁》最初旨在批判财富积累，这些游戏经历了显著的演变。《国际象棋》起源于古印度的军事策略工具，而《蛇梯棋》则最初用于传授道德教训。每款游戏从诞生到现代版本的演变过程，都提供了一个了解历史和文化背景的有趣视角，展示了这些游戏如何适应以保持跨越世代的娱乐性和相关性。",
+    "best_quote_en": "Once designed to teach, preach, or persuade, these familiar board games now mask the strange historical forces that informed their conception.",
+    "best_quote_zh": "这些熟悉的棋盘游戏最初是用来教导、说教或劝说，现在它们掩盖了那些影响它们创意的奇异历史力量。"
+  },
+  {
+    "id": 205,
+    "title": "Theoretical predictions on the sample efficiency of\ntraining policies and activation monitors",
+    "title_zh": "训练策略和激活监控器样本效率的理论预测",
+    "source": "LessWrong",
+    "link": "https://www.lesswrong.com/posts/oHAGT7cGMjh9fGwYN/theoretical-predictions-on-the-sample-efficiency-of-training",
+    "tags": [
+      "solve",
+      "ai-research",
+      "science",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "解决",
+      "AI研究",
+      "科学研究",
+      "数据驱动"
+    ],
+    "date": "2026-01-10",
+    "summary_en": "The article delves into the theoretical sample efficiency of training AI models to mitigate intentional bad behavior, focusing on both policies and activation monitors. The author argues that while learning theory provides a baseline for understanding sample efficiency, practical considerations such as the nature of bad actions and the effectiveness of monitors can significantly impact outcomes. Key insights include the potential for high sample efficiency in detecting and correcting bad behavior due to the AI's existing knowledge of desired actions and the possibility of stacking monitors to enhance detection. However, challenges such as the brittleness of probes and the potential for false positives in detection systems are also highlighted. The article concludes with a call for empirical research to validate these theoretical predictions and guide future training-based control strategies.",
+    "summary_zh": "这篇文章深入探讨了训练AI模型以减少故意不良行为的样本效率理论预测，重点关注策略和激活监控器。作者认为，虽然学习理论为理解样本效率提供了基础，但不良行为的性质以及监控器的有效性等实际考量可能显著影响结果。关键见解包括由于AI已知所需行为，检测和纠正不良行为可能具有高样本效率，以及堆叠监控器以增强检测的可能性。然而，探针的脆弱性以及检测系统中的假阳性潜在问题也被突出。文章最后呼吁进行实证研究以验证这些理论预测，并指导未来的基于训练的控制策略。",
+    "best_quote_en": "The model already knows how to not sabotage us. The problem (probably) isn't teaching the AI what we want, the problem is that the AI wants different things from us.",
+    "best_quote_zh": "模型已经知道如何不破坏我们。问题（可能）不是教AI我们想要的，问题是AI想要的与我们不同。"
+  },
+  {
+    "id": 206,
+    "title": "What Makes the Iranian Protests Different This Time",
+    "title_zh": "伊朗此次抗议活动有何不同？",
+    "source": "The New Yorker",
+    "link": "https://www.newyorker.com/news/q-and-a/what-makes-the-iranian-protests-different-this-time",
+    "tags": [
+      "solve",
+      "politics",
+      "economics",
+      "controversial"
+    ],
+    "tags_zh": [
+      "解决",
+      "政治时事",
+      "经济金融",
+      "争议观点"
+    ],
+    "date": "2026-01-10",
+    "summary_en": "The ongoing protests in Iran are unprecedented in scale and desperation, driven by severe economic hardship and a loss of faith in the regime's ability to protect its people. Unlike previous protests focused on social freedoms, these protests are about survival, with slogans like 'death to the dictator' reflecting widespread discontent. The regime's humiliation in the Twelve-Day War with Israel and the weakening of its regional allies have further eroded its standing. The government's brutal crackdowns and internet blackouts signal its desperation, raising concerns about even more severe repression. The protests highlight a profound shift in Iranian society, where the population's primary concern is survival amidst economic chaos.",
+    "summary_zh": "伊朗当前的抗议活动规模空前，背后原因是严重的经济困境和对政权保护能力的失望。与以往关注社会自由不同，这次抗议活动更多是为了生存，口号如“打倒独裁者”反映了广泛的不满。政权在与以色列的十二日战争中的羞辱和地区盟友的削弱进一步动摇了其地位。政府的暴力镇压和网络封锁显示出其绝望，引发了对更严重镇压的担忧。抗议活动反映了伊朗社会的深刻变化，人民的主要关注点是在经济混乱中生存。",
+    "best_quote_en": "This is a riot of a starving population. This is a riot for survival.",
+    "best_quote_zh": "这是饥饿人口的暴动。这是为了生存的暴动。"
+  },
+  {
+    "id": 207,
+    "title": "The sights and sounds of Bhutan",
+    "title_zh": "不丹的风景与声音",
+    "source": "Wait But Why",
+    "link": "https://waitbutwhy.com/2025/11/bhutan.html",
+    "tags": [
+      "analyze",
+      "lifestyle",
+      "writing-content",
+      "deep-dive"
+    ],
+    "tags_zh": [
+      "分析",
+      "生活方式",
+      "写作内容",
+      "深度分析"
+    ],
+    "date": "2025-11-25",
+    "summary_en": "The author's journey to Bhutan, a landlocked country nestled between India and China, reveals a unique blend of ancient traditions and modern conservation efforts. Bhutan's commitment to preserving its cultural heritage is evident in its strict tourism policies, uniform architecture, and the reverence for its beloved king. The country's focus on Gross National Happiness over Gross Domestic Product offers a refreshing perspective on national priorities. Despite challenges like youth emigration, Bhutan's initiatives, such as the Gelephu Mindfulness City, aim to balance innovation with tradition. The article inspires a deeper appreciation for Bhutan's distinctive way of life and its potential to influence global views on happiness and sustainability.",
+    "summary_zh": "作者前往不丹的旅程揭示了这个位于印度和中国之间的内陆国家独特的古老传统与现代保护措施的结合。不丹致力于保护其文化遗产，这在其严格的旅游政策、统一的建筑风格和对其受爱戴的国王的尊崇中得到了体现。该国以国民幸福总值取代国内生产总值，提供了一个全新的国家优先事项的视角。尽管面临青年移民等挑战，不丹的举措，如格勒布思维城市，旨在平衡创新与传统。该文章激发了人们对不丹独特生活方式及其潜在的全球影响的更深层次的欣赏。",
+    "best_quote_en": "Bhutan is the world’s last Buddhist kingdom, and I can confirm that it is both very Buddhist and very kingdom-y.",
+    "best_quote_zh": "不丹是世界上最后一个佛教王国，我可以确认它既非常佛教化，又非常王国化。"
   }
 ]
