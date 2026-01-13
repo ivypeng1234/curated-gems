@@ -1,123 +1,5 @@
 [
   {
-    "id": 113,
-    "title": "059 motorway cycle XII: Dublin",
-    "title_zh": "059号高速公路循环XII：都柏林",
-    "source": "Aeon",
-    "link": "https://aeon.co/videos/watch-as-the-rhythms-of-traffic-create-a-mesmerising-score?utm_source=rss-feed",
-    "tags": [
-      "solve",
-      "science",
-      "lifestyle",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "解决",
-      "科学研究",
-      "生活方式",
-      "数据驱动"
-    ],
-    "date": "2025-10-30",
-    "summary_en": "Matthew Wilcock's ongoing 'Cycles' project transforms ordinary scenes into music, revealing hidden beauty in everyday rhythms. This particular piece captures the mesmerizing patterns of Dublin's traffic, translating vehicle movements into a soothing piano and string composition. By finding musical structure in mundane traffic patterns, Wilcock invites us to re-examine our surroundings with fresh perspective, discovering art where we least expect it. This work serves as a reminder that creativity can be found in unexpected places if we slow down and observe carefully.",
-    "summary_zh": "马修·威尔科克的“循环”项目将日常场景转化为音乐，揭示普通节奏中的隐藏之美。这一作品捕捉了都柏林交通的迷人模式，将车辆移动转化为舒缓的钢琴和弦乐作品。通过在平凡的交通模式中发现音乐结构，威尔科克邀请我们以全新的视角重新审视周围世界，在意想不到的地方发现艺术。",
-    "best_quote_en": "Transforming everyday scenes into music reveals hidden beauty in mundane rhythms and repetitions",
-    "best_quote_zh": "将日常场景转化为音乐，揭示平凡节奏和重复中的隐藏之美"
-  },
-  {
-    "id": 114,
-    "title": "The Story of ‘The Exorcist’s Cursed Set Is Way Scarier Than the Movie",
-    "title_zh": "《驱魔人》被诅咒的片场故事比电影更恐怖",
-    "source": "Mental Floss",
-    "link": "https://www.mentalfloss.com/entertainment/movies/the-exorcist-cursed-set-scarier-than-movie?utm_source=RSS",
-    "tags": [
-      "guide",
-      "music-arts",
-      "case-study"
-    ],
-    "tags_zh": [
-      "指导",
-      "音乐艺术",
-      "案例研究"
-    ],
-    "date": "2025-10-31",
-    "summary_en": "The article explores the eerie events surrounding the production of 'The Exorcist,' blending factual incidents with supernatural speculation. It delves into the film's real-world inspiration, on-set accidents, and the tragic deaths associated with the production. The piece questions whether these events were mere coincidences or part of a demonic curse, offering a nuanced look at the blurred line between horror fiction and real-life mystery. The analysis also considers the marketing potential of the 'curse' narrative and its impact on the film's legacy. While the article presents compelling anecdotes, it ultimately leaves the question of the curse open to interpretation, inviting readers to draw their own conclusions.",
-    "summary_zh": "本文探讨了《驱魔人》拍摄过程中的诡异事件，融合了事实和超自然猜测。它深入挖掘了电影的现实灵感、片场事故以及与制作相关的悲剧性死亡。文章质疑这些事件是否仅仅是巧合，还是恶魔诅咒的一部分，提供了一个关于恐怖虚构与现实之谜模糊界限的细致分析。分析还考虑了“诅咒”叙事的营销潜力及其对电影遗产的影响。尽管文章呈现了引人入胜的轶事，但最终将诅咒的问题留给读者自己判断。",
-    "best_quote_en": "If you shoot something for a year, people are going to get hurt, people are going to die.",
-    "best_quote_zh": "如果拍摄一年，人们会受伤，人们会死亡。"
-  },
-  {
-    "id": 115,
-    "title": "Resampling Conserves Redundancy & Mediation (Approximately) Under the Jensen-Shannon Divergence",
-    "title_zh": "重采样保持冗余与中介性（在Jensen-Shannon散度下）",
-    "source": "LessWrong",
-    "link": "https://www.lesswrong.com/posts/JXsZRDcRX2eoWnSxo/resampling-conserves-redundancy-and-mediation-approximately",
-    "tags": [
-      "solve",
-      "science",
-      "ai-research",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "解决",
-      "科学研究",
-      "AI研究",
-      "数据驱动"
-    ],
-    "date": "2025-10-31",
-    "summary_en": "This article presents a mathematical proof showing that using Jensen-Shannon divergence (JS) instead of Kullback-Leibler divergence (KL) successfully demonstrates that both redundancy and mediation conditions are conserved when resampling latent variables. The author reflects on the choice between JS and KL divergence, noting JS's advantages in certain contexts, particularly its metric properties. The proof establishes bounds for factorization errors, showing that resampling preserves the original latent variable's properties approximately. This work highlights the importance of selecting appropriate error functions in information theory and machine learning, offering valuable insights for researchers working with latent variable models.",
-    "summary_zh": "该文章呈现了一个数学证明，说明在Jensen-Shannon散度下重采样潜在变量能够保持冗余性和中介性。作者反思了JS与KL散度的选择，强调JS在某些情况下的优势，尤其是其度量性质。证明建立了因子化误差的边界，表明重采样能够近似保留原始潜在变量的性质。这项工作凸显了在信息论和机器学习中选择合适误差函数的重要性，为从事潜在变量模型研究的学者提供了有价值的见解。",
-    "best_quote_en": "We aren't sure. Some of our focus for immediate next steps is going to be on how to better determine the 'right' error function for comparing distributions for the purpose of working with (natural) latents.",
-    "best_quote_zh": "我们不确定。下一步我们的重点将是如何更好地确定用于比较分布的“正确”误差函数，以便处理（自然）潜在变量。"
-  },
-  {
-    "id": 116,
-    "title": "In a First, AI Models Analyze Language As Well As a Human Expert",
-    "title_zh": "首次，AI模型的语言分析能力达到人类专家水平",
-    "source": "Quanta Magazine",
-    "link": "https://www.quantamagazine.org/in-a-first-ai-models-analyze-language-as-well-as-a-human-expert-20251031/",
-    "tags": [
-      "analyze",
-      "ai-research",
-      "science",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "分析",
-      "AI研究",
-      "科学研究",
-      "数据驱动"
-    ],
-    "date": "2025-10-31",
-    "summary_en": "This groundbreaking study challenges the notion that language understanding is uniquely human. The research demonstrates that certain AI models, particularly OpenAI's o1, exhibit metalinguistic capabilities comparable to human graduate students in linguistics. The study's four-part linguistic test, focusing on syntax trees and recursion, revealed the model's ability to analyze language structures and resolve ambiguities. Notably, the AI could even add layers of recursion to complex sentences. The findings suggest that while current models lack originality, they're rapidly closing the gap on human language comprehension. This raises profound questions about the nature of language and cognition, suggesting we may be 'less unique than we previously thought.'",
-    "summary_zh": "这一突破性研究挑战了语言理解是人类独有能力的观念。研究表明，某些AI模型（如OpenAI的o1）的元语言能力已达人类语言学研究生水平。通过四部分语言测试，特别是语法树和递归分析，AI展现了分析语言结构和解决歧义的能力。研究人员甚至惊讶地发现，AI能为复杂句子添加递归层次。尽管当前模型尚未展现原创性，但正在迅速缩小与人类语言理解能力的差距。这一结果引发了关于语言和认知本质的深刻思考，我们可能比之前认为的更不独特。",
-    "best_quote_en": "It appears that we're less unique than we previously thought we were.",
-    "best_quote_zh": "看来我们比之前认为的更不独特。"
-  },
-  {
-    "id": 117,
-    "title": "Power and flesh",
-    "title_zh": "权力与肉体",
-    "source": "Aeon",
-    "link": "https://aeon.co/essays/our-political-moment-is-ripe-for-david-cronenbergs-body-horror?utm_source=rss-feed",
-    "tags": [
-      "solve",
-      "music-arts",
-      "education",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "解决",
-      "音乐艺术",
-      "教育学习",
-      "未来预测"
-    ],
-    "date": "2025-10-31",
-    "summary_en": "This essay explores the evolution of biopolitics through the lens of David Cronenberg's body horror films, tracing the shift from celebrating bodily transformation to advocating for its protection. It examines how government control over bodies has evolved from souls to minds to biological life, with modern debates focusing on issues like trans rights, AI, and medical interventions. Cronenberg's work, from Videodrome to Crimes of the Future, reflects changing attitudes toward bodily autonomy, moving from radical celebration of mutation to a more nuanced defense of bodily sovereignty. The analysis highlights the tension between reactionary forces seeking to control bodies and progressive movements advocating for transformation, ultimately suggesting that true bodily autonomy may lie in creating safe spaces for change rather than forcing it. The essay concludes by reflecting on how Cronenberg's evolving perspective offers valuable insights into contemporary debates about bodily rights and government intervention.",
-    "summary_zh": "这篇文章通过大卫·克伦伯格的身份恐怖电影，探讨了生物政治的演变，从庆祝身体变异到主张其保护。它探讨了政府对身体控制的演变，从灵魂到思想再到生物生命，现代争论聚焦于跨性别权利、AI和医疗干预等问题。克伦伯格的作品，从《录像带》到《未来罪行》，反映了对身体自主权态度的变化，从激进庆祝变异到更为复杂的捍卫身体主权。分析突出了反动势力试图控制身体与进步运动倡导变革之间的紧张关系，最终认为真正的身体自主权可能在于为变化创造安全空间，而非强制推动。文章最后反思了克伦伯格演变的观点如何为当代关于身体权利和政府干预的辩论提供宝贵见解。",
-    "best_quote_en": "'Long live the new flesh!'",
-    "best_quote_zh": "“长生之肉！”"
-  },
-  {
     "id": 118,
     "title": "The 10 Best National Parks to Visit in Fall, According to Actual Visitors",
     "title_zh": "根据实际游客评价，秋季游览的10大国家公园",
@@ -2344,5 +2226,123 @@
     "summary_zh": "文章《Retro Recomendo: 职业建议》汇聚了过去九年最具价值的职业建议，涵盖了如何高效工作、开会、专业交流、求职以及防止职业倦怠等话题。这些建议实用且适用于任何希望提升职业技能和生活质量的人。文章中还引用了保罗·格雷厄姆和瑞安·霍利迪等专家的智慧，提供了专业见解和实用工具。",
     "best_quote_en": "Find what nobody else wants to do and do it. Find inefficiency and waste and redundancies. Identify leaks and patches to free up resources for new areas.",
     "best_quote_zh": "找到别人不愿意做的事情，然后去做。发现效率低下、浪费和冗余。识别漏洞和补丁，释放资源以便用于新领域。"
+  },
+  {
+    "id": 213,
+    "title": "Cells Use ‘Bioelectricity’ To Coordinate and Make Group Decisions",
+    "title_zh": "细胞使用“生物电”协调并做出集体决策",
+    "source": "Quanta Magazine",
+    "link": "https://www.quantamagazine.org/cells-use-bioelectricity-to-coordinate-and-make-group-decisions-20260112/",
+    "tags": [
+      "analyze",
+      "science",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "分析",
+      "科学研究",
+      "未来预测"
+    ],
+    "date": "2026-01-12",
+    "summary_en": "The recent discovery that cells use bioelectricity to coordinate and make group decisions highlights the intricate and often overlooked role of electrical signals in biological processes. This phenomenon, known as cell extrusion, is crucial for maintaining tissue health by expelling unhealthy cells. The study reveals that as epithelial tissues grow, increased electrical currents flowing through cell membranes trigger a response in weak or energy-starved cells, leading to their shrinkage and eventual expulsion. This process underscores the importance of bioelectricity in fundamental biology and suggests that electrical signaling is a universal tool for cellular communication and coordination. The implications are vast, from understanding disease mechanisms like cancer and asthma to potentially revolutionizing our approach to tissue health and regeneration.",
+    "summary_zh": "细胞利用生物电来协调和做出集体决策的发现，揭示了电信号在生物过程中的复杂作用。这种被称为细胞排出的现象，对于通过排除不健康细胞来维持组织健康至关重要。研究表明，随着上皮组织的生长，细胞膜中的电流增加，触发了对弱或能量匮乏细胞的响应，导致其萎缩和最终排出。这表明生物电在基本生物学中起着重要作用，并暗示电信号是细胞通信和协调的普遍工具。这一发现的意义深远，从理解癌症和哮喘等疾病机制，到可能颠覆我们对组织健康和再生的理解。",
+    "best_quote_en": "It’s a good example of how a widening electronic-signaling perspective can be used in fundamental biology.",
+    "best_quote_zh": "这是一个很好的例子，说明扩大电子信号视角可以用于基本生物学。"
+  },
+  {
+    "id": 214,
+    "title": "Red tape on a blue planet",
+    "title_zh": "红色官僚主义困扰蓝色星球",
+    "source": "Aeon",
+    "link": "https://aeon.co/essays/should-we-intensively-alter-coral-reefs-so-they-can-survive-the-heat?utm_source=rss-feed",
+    "tags": [
+      "solve",
+      "science",
+      "environment",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "解决",
+      "科学研究",
+      "环境科学",
+      "数据驱动"
+    ],
+    "date": "2026-01-09",
+    "summary_en": "The essay 'Red Tape on a Blue Planet' delves into the challenges marine scientists face due to regulatory hurdles in the midst of escalating marine heatwaves. The 2023 Florida heatwave, which resulted in record-breaking ocean temperatures and massive coral bleaching, highlighted the inadequacies of current legal frameworks in responding to climate change. Scientists like Liv Williamson and Ross Cunning struggled with slow permit processes and bureaucratic delays, leading to the loss of significant coral populations. The essay argues that existing laws, designed to protect ecosystems, often hinder urgent conservation efforts. It suggests that a more flexible, transdisciplinary approach involving scientists, regulators, and local communities is necessary to address the rapid ecological changes caused by climate change.",
+    "summary_zh": "这篇文章《红色官僚主义困扰蓝色星球》探讨了海洋科学家在应对日益严重的海洋热浪时所面临的法律障碍。2023年佛罗里达的热浪导致海洋温度创下记录，大规模珊瑚白化，暴露了现有法律框架在应对气候变化时的不足。科学家如Liv Williamson和Ross Cunning因获取许可和官僚程序的延误而无法及时采取行动，导致大量珊瑚灭绝。文章认为，设计用于保护生态系统的法律往往阻碍了紧急的保护措施。它建议，需要一种更灵活、跨学科的方法，涉及科学家、监管者和当地社区，以应对气候变化带来的快速生态变化。",
+    "best_quote_en": "All the fancy technologies in the world don’t really matter if at the end of the day you are not allowed to apply them.",
+    "best_quote_zh": "世界上所有高科技手段都无关紧要，因为如果你最终不能使用它们，那么一切都无济于事。"
+  },
+  {
+    "id": 215,
+    "title": "Why Everyone Is Saying \"Cooked\" and What It Actually Means",
+    "title_zh": "为什么每个人都在说“Cooked”以及它的实际含义",
+    "source": "Mental Floss",
+    "link": "https://www.mentalfloss.com/language/slang/why-everyone-is-saying-cooked-what-it-means?utm_source=RSS",
+    "tags": [
+      "solve",
+      "science",
+      "society",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "解决",
+      "科学研究",
+      "社会议题",
+      "数据驱动"
+    ],
+    "date": "2026-01-12",
+    "summary_en": "The article explores the Gen Z buzzword 'cooked,' tracing its origins from the 19th century to its modern usage. Originally meaning 'done' or 'finished,' 'cooked' has evolved to signify failure or exhaustion in contemporary slang. The term's versatility is highlighted through various contexts, from admitting defeat in group chats to describing physical or emotional weariness. The author notes that this linguistic shift is part of a broader pattern of language evolution across generations, reflecting the dynamic nature of slang and idioms. The piece invites readers to engage with the cultural nuances of Gen Z communication, offering a glimpse into how language adapts to reflect contemporary experiences.",
+    "summary_zh": "文章探讨了Gen Z流行语“cooked”的起源和现代用法，从19世纪的“完成”或“结束”演变为现在表示失败或疲惫的意思。作者指出，这个词在不同场合中都很有用，比如在群聊中承认失败，或者描述身体或情感上的疲惫。语言的演变反映了跨越世代的文化变迁，引发读者对Gen Z沟通方式的思考，展示了语言如何适应现代经验。",
+    "best_quote_en": "Language evolves, slang gets stranger, and sometimes, the only honest way to describe your situation is to admit you're fully cooked.",
+    "best_quote_zh": "语言演变，俚语变得更奇怪，有时，描述你的情况最诚实的方式就是承认你已经完全“cooked”。"
+  },
+  {
+    "id": 216,
+    "title": "Making LLM Graders Consistent",
+    "title_zh": "使LLM评分者一致",
+    "source": "LessWrong",
+    "link": "https://www.lesswrong.com/posts/ANHWxoKSM7baDEqob/making-llm-graders-consistent",
+    "tags": [
+      "analyze",
+      "science",
+      "ai-research",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "分析",
+      "科学研究",
+      "AI研究",
+      "数据驱动"
+    ],
+    "date": "2026-01-13",
+    "summary_en": "The article 'Making LLM Graders Consistent' by Davey Morse explores the challenge of achieving deterministic grading with Large Language Models (LLMs) when evaluating qualitative texts. Morse notes that LLMs like ChatGPT can produce inconsistent responses when assessing the same content multiple times. He suggests that by defining specific criteria for evaluation within narrow domains, LLMs can provide more consistent grading. This approach involves having the LLM devise a set of criteria, score each criterion separately, and then average the scores. Morse argues that the quality of the criteria affects the accuracy of the ratings but not their consistency. This method could be applied to various domains, such as grading poems or evaluating essays, by using relevant but somewhat arbitrary criteria. The key insight is that averaging scores across many criteria can significantly improve the consistency of LLM grading.",
+    "summary_zh": "大卫·莫尔斯在《使LLM评分者一致》一文中探讨了大型语言模型（LLM）在评估定性文本时实现确定性评分的挑战。莫尔斯指出，像ChatGPT这样的LLM在多次评估相同内容时可能会产生不一致的响应。他建议，通过在狭窄领域内定义特定评估标准，LLM可以提供更一致的评分。这种方法涉及LLM制定一组标准，分别对每个标准进行评分，然后平均这些评分。莫尔斯认为，标准的质量影响评分的准确性，但不影响其一致性。这种方法可以应用于各种领域，例如评分诗歌或评估文章，使用相关但相对任意的标准。关键见解是，在多个标准上平均评分可以显著提高LLM评分的一致性。",
+    "best_quote_en": "Averaging across many criteria will almost always be more consistent than scoring in one shot.",
+    "best_quote_zh": "在多个标准上平均评分几乎总是比一次性评分更一致。"
+  },
+  {
+    "id": 217,
+    "title": "How WhatsApp Took Over the Global Conversation",
+    "title_zh": "WhatsApp如何接管全球对话",
+    "source": "The New Yorker",
+    "link": "https://www.newyorker.com/magazine/2026/01/19/how-whatsapp-took-over-the-global-conversation",
+    "tags": [
+      "analyze",
+      "leadership",
+      "science",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "分析",
+      "领导管理",
+      "科学研究",
+      "数据驱动"
+    ],
+    "date": "2026-01-12",
+    "summary_en": "WhatsApp's rise to global dominance is a testament to its ability to provide a free, reliable, and culturally adaptable messaging service. From its humble beginnings as a status-sharing app to becoming a core technology for governments and families alike, WhatsApp has revolutionized communication. Its success lies in its simplicity, end-to-end encryption, and the ability to cater to diverse user needs, from casual conversations to critical disaster responses. However, its integration into daily life raises concerns about privacy and the potential for misuse, such as in political manipulations and mob violence. As WhatsApp continues to evolve, balancing user privacy with commercial interests will be crucial.",
+    "summary_zh": "WhatsApp从一个简单的状态分享应用迅速崛起，成为全球主流的通讯工具。它的成功在于其免费、可靠且文化适应性强的特点。然而，其深入人们日常生活的同时，也引发了隐私和潜在滥用的担忧。例如，政治操控和暴力事件的传播。未来，WhatsApp如何在保护用户隐私与商业利益之间取得平衡，将是一个关键课题。",
+    "best_quote_en": "It’s almost like the last honest place on the internet.",
+    "best_quote_zh": "它几乎是互联网上最后一个诚实的地方。"
   }
 ]
