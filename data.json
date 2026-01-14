@@ -1,53 +1,5 @@
 [
   {
-    "id": 118,
-    "title": "The 10 Best National Parks to Visit in Fall, According to Actual Visitors",
-    "title_zh": "根据实际游客评价，秋季游览的10大国家公园",
-    "source": "Mental Floss",
-    "link": "https://www.mentalfloss.com/geography/national-parks/10-best-visit-fall-actual-visitors?utm_source=RSS",
-    "tags": [
-      "analyze",
-      "science",
-      "design",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "分析",
-      "科学研究",
-      "设计创意",
-      "数据驱动"
-    ],
-    "date": "2025-10-31",
-    "summary_en": "This article provides a data-driven analysis of the best US national parks to visit in fall, based on visitor data from 2020-2024. The ranking considers factors like visitor counts, hours spent, and Google reviews specifically mentioning autumn visits. The Great Smoky Mountains National Park emerges as the clear winner with a near-perfect fall score of 96.9. The analysis reveals interesting insights about visitor behavior and preferences during fall, showing that popularity doesn't always correlate with the highest ratings. It's particularly valuable for travelers seeking to make informed decisions about fall destinations, offering both quantitative data and qualitative visitor experiences.",
-    "summary_zh": "这篇文章通过2020-2024年游客数据分析，评选出秋季最佳美国国家公园。评分标准包括游客数量、停留时长和Google评论中的秋季体验。大烟山国家公园以96.9的高分夺魁。分析揭示了秋季游客行为模式，热门公园未必评分最高。对计划秋季旅行的游客非常有参考价值，提供了量化数据和真实游客体验。",
-    "best_quote_en": "With over 19.7 million individual visits logged over the survey’s five-year period, the Smokies were not only America’s most visited park, but also one of its highest rated, with an average score of 4.90 on Google.",
-    "best_quote_zh": "在过去五年的调查期间，大烟山国家公园共记录了超过1970万次访问，不仅是美国游客最多的公园，而且评分也很高，在Google上的平均评分为4.90。"
-  },
-  {
-    "id": 119,
-    "title": "Freewriting in my head, and overcoming the “twinge of starting”",
-    "title_zh": "在脑海中进行自由写作，并克服“开始时的犹豫”",
-    "source": "LessWrong",
-    "link": "https://www.lesswrong.com/posts/yhFfcumcjazPERGdJ/freewriting-in-my-head-and-overcoming-the-twinge-of-starting",
-    "tags": [
-      "guide",
-      "ai-research",
-      "programming",
-      "beginner-friendly"
-    ],
-    "tags_zh": [
-      "指导",
-      "AI研究",
-      "编程开发",
-      "新手友好"
-    ],
-    "date": "2025-11-01",
-    "summary_en": "This article explores the 'empty cache problem' where individuals struggle to start complex tasks due to insufficient mental context. The author presents 'freewriting in one's head' as an effective solution, a technique that involves rapidly generating relevant words to populate mental cache and overcome the initial hesitation. The method draws parallels with traditional freewriting and language model chain-of-thought processes, emphasizing the importance of quick, relevant word generation to build momentum. The author shares practical tips, an illustrative transcript, and insights on applying this technique in both individual work and team settings, highlighting its effectiveness in reducing task-related dread and fostering productivity.",
-    "summary_zh": "文章探讨了人们在开始复杂任务时常遇到的“空缓存问题”，即因缺乏足够的心理准备而拖延。作者提出了“在脑海中自由写作”的方法，通过快速生成相关词汇来填充心理缓存，从而克服开始时的犹豫。这种方法类似于传统的自由写作和语言模型的思维链条，强调快速生成相关词汇以建立工作节奏。作者分享了实用技巧、示例对话和在个人工作及团队协作中的应用见解，突显其减少任务恐惧和提升效率的有效性。",
-    "best_quote_en": "The pressure is strong but not unpleasant. It’s the opposite of relaxing, but it gets a lot done.",
-    "best_quote_zh": "这种压力很强但并不令人不适。它与放松相反，但能让你完成很多事情。"
-  },
-  {
     "id": 120,
     "title": "Portland Prepares for Invasion",
     "title_zh": "波特兰准备迎接入侵",
@@ -2344,5 +2296,51 @@
     "summary_zh": "WhatsApp从一个简单的状态分享应用迅速崛起，成为全球主流的通讯工具。它的成功在于其免费、可靠且文化适应性强的特点。然而，其深入人们日常生活的同时，也引发了隐私和潜在滥用的担忧。例如，政治操控和暴力事件的传播。未来，WhatsApp如何在保护用户隐私与商业利益之间取得平衡，将是一个关键课题。",
     "best_quote_en": "It’s almost like the last honest place on the internet.",
     "best_quote_zh": "它几乎是互联网上最后一个诚实的地方。"
+  },
+  {
+    "id": 218,
+    "title": "DNA break repair",
+    "title_zh": "DNA修复",
+    "source": "Aeon",
+    "link": "https://aeon.co/videos/groundbreaking-visuals-capture-how-our-bodies-repair-damaged-dna?utm_source=rss-feed",
+    "tags": [
+      "guide",
+      "science",
+      "medicine",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "指导",
+      "科学研究",
+      "医学健康",
+      "数据驱动"
+    ],
+    "date": "2026-01-08",
+    "summary_en": "Drew Berry's animation on homologous recombination offers a stunning visualization of DNA repair processes, bridging science and art. By illustrating how specialized proteins use intact DNA templates to fix damage, Berry underscores the evolutionary intricacies within our cells. This work not only educates but also inspires awe for the microscopic world inside us, emphasizing the significance of these processes in reducing cancer risk. Berry's ability to make complex biological concepts accessible and engaging is a testament to the power of scientific visualization.",
+    "summary_zh": "德鲁·贝里的同源重组动画，展示了DNA修复的精妙过程，将科学与艺术完美结合。通过展示专门蛋白质如何利用完整的DNA模板修复损伤，贝里强调了细胞内部进化的复杂性。这一作品不仅传授知识，还激发了对微观世界的敬畏之情，突显了这些过程在降低癌症风险中的重要性。贝里将复杂的生物概念以生动易懂的方式呈现，充分展示了科学可视化的力量。",
+    "best_quote_en": "Through this glimpse into the worlds within us, Berry highlights the intricate biology that plays out inside each of us unseen, shaped by millennia of evolution.",
+    "best_quote_zh": "通过这一对我们内在世界的窥视，贝里强调了由数千年的进化塑造而成的复杂生物过程在我们每个人体内悄然进行。"
+  },
+  {
+    "id": 219,
+    "title": "6 Basic Hygiene Habits You've Probably Been Doing Wrong Your Whole Life",
+    "title_zh": "你一生中可能一直做错的6个基本个人卫生习惯",
+    "source": "Mental Floss",
+    "link": "https://www.mentalfloss.com/live-smarter/healthy-living/basic-hygiene-habits-you-ve-been-doing-wrong?utm_source=RSS",
+    "tags": [
+      "solve",
+      "lifestyle",
+      "controversial"
+    ],
+    "tags_zh": [
+      "解决",
+      "生活方式",
+      "争议观点"
+    ],
+    "date": "2026-01-14",
+    "summary_en": "This article challenges common hygiene practices, revealing how many of our long-held routines may be ineffective or even counterproductive. From washing between toes to proper flossing techniques, the piece highlights overlooked details that can significantly impact our health. It emphasizes the evolving nature of hygiene advice and the importance of adapting to new findings. The insights prompt a critical evaluation of our daily habits, encouraging readers to reassess and improve their personal hygiene routines for better health outcomes.",
+    "summary_zh": "这篇文章挑战了我们长期以来的个人卫生习惯，揭示许多常见做法可能无效甚至有害。从洗脚趾缝到正确的使用牙线，文章突出了我们忽视的细节，这些细节可能显著影响健康。它强调了卫生建议的不断演变，以及适应新发现的重要性。这些见解促使我们重新评估日常习惯，鼓励读者改进个人卫生习惯，以获得更好的健康结果。",
+    "best_quote_en": "Hygiene advice continues to evolve, and 'rules' are being updated in real-time.",
+    "best_quote_zh": "卫生建议不断演变，'规则'正在实时更新。"
   }
 ]
