@@ -1,123 +1,5 @@
 [
   {
-    "id": 120,
-    "title": "Portland Prepares for Invasion",
-    "title_zh": "波特兰准备迎接入侵",
-    "source": "The New Yorker",
-    "link": "https://www.newyorker.com/news/the-lede/portland-prepares-for-invasion",
-    "tags": [
-      "solve",
-      "politics",
-      "legal",
-      "controversial"
-    ],
-    "tags_zh": [
-      "解决",
-      "政治时事",
-      "法律法规",
-      "争议观点"
-    ],
-    "date": "2025-10-31",
-    "summary_en": "This article provides a nuanced look at the ongoing tensions in Portland, Oregon, between local protesters and federal authorities, particularly ICE. The piece highlights the disconnect between the Trump administration's portrayal of Portland as a chaotic war zone and the reality on the ground, where protests are colorful but largely contained. The mayor's visit to the ICE facility reveals disorganization within federal operations, while the police chief struggles to balance community safety with federal intervention. The article also explores the historical context of political extremism in Portland and the efforts of local law enforcement to de-escalate tensions. The dancing protests outside the ICE facility serve as a symbolic resistance, contrasting the seriousness of the federal presence with a carnivalesque atmosphere. The piece raises important questions about federal overreach, the nature of protest, and the media's role in shaping public perception.",
-    "summary_zh": "这篇文章深入分析了俄勒冈州波特兰市地方抗议者与联邦机构之间持续的紧张局势，尤其是针对ICE的抗议。文章揭示了特朗普政府将波特兰描绘为混乱战区的刻板印象与实际情况之间的差异，现实中抗议活动虽然色彩斑斓但基本可控。市长对ICE设施的参观揭示了联邦机构内部的混乱，而警方则在维护社区安全与联邦干预之间寻求平衡。文章还探讨了波特兰政治极端主义的历史背景以及地方警方缓解紧张局势的努力。ICE设施外的舞蹈抗议活动象征性地对抗严肃的联邦存在，形成了嘉年华式的氛围。这篇文章引发了关于联邦权力过度干预、抗议活动本质以及媒体在塑造公众认知中的作用等重要问题的思考。",
-    "best_quote_en": "The characterization of 'the city is on fire' or 'a war zone' is not accurate.",
-    "best_quote_zh": "将城市描述为'燃烧'或'战区'并不准确。"
-  },
-  {
-    "id": 121,
-    "title": "The world without hegemony",
-    "title_zh": "无霸权的世界",
-    "source": "Aeon",
-    "link": "https://aeon.co/essays/what-southeast-asian-history-tells-us-about-a-multipolar-order?utm_source=rss-feed",
-    "tags": [
-      "learn",
-      "education",
-      "politics",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "学习",
-      "教育学习",
-      "政治时事",
-      "未来预测"
-    ],
-    "date": "2025-10-30",
-    "summary_en": "This essay challenges the hegemonic stability theory that posits a single dominant power is necessary for global order. Drawing on the historical example of the classical eastern Indian Ocean (1st-15th centuries CE), the authors demonstrate how a multiplex order thrived without a hegemon. This maritime system, connecting China, India, and Southeast Asia, was characterized by decentralized power structures, shared management of trade routes, and cultural pluralism. The essay argues that the current transition from US hegemony doesn't necessarily mean chaos or Chinese dominance, but rather an opportunity for a new multiplex order in the Indo-Pacific region. This emerging system, with multiple great powers and active regional actors like ASEAN, could provide stability through collective management of maritime commons. The authors advocate for learning from historical examples to overcome 20th-century biases in international relations theory and build a more stable, prosperous world order.",
-    "summary_zh": "这篇文章挑战了主导稳定理论，即认为需要单一霸权才能维持全球秩序。作者通过古代东印度洋（1-15世纪）的历史案例，展示了一个多中心秩序如何在无需霸权的情况下繁荣发展。这个连接中国、印度和东南亚的海洋体系，由分散的权力结构、共同管理的贸易路线和文化多元性所特征。文章认为，美国霸权的衰落并不必然意味着混乱或中国的主导，而是为印太地区出现新的多中心秩序创造了机会。这个新兴体系，由多个大国和积极的区域行为体如东盟共同构建，可能通过集体管理海上公共资源来提供稳定。作者主张从历史案例中汲取经验，克服20世纪国际关系理论中的偏见，为构建更加稳定繁荣的世界秩序做出更好的决策。",
-    "best_quote_en": "The world economic system was unstable unless some country stabilised it, and that, in 1929, 'the British couldn’t and the United States wouldn’t.'",
-    "best_quote_zh": "世界经济体系不稳定，除非有国家来稳定它，而在1929年，‘英国做不到，而美国不愿为之。’”"
-  },
-  {
-    "id": 122,
-    "title": "Three Sneaky Reasons Why Motorcyclists Flip Their License Plates",
-    "title_zh": "摩托车手翻转车牌的三个狡猾原因",
-    "source": "Mental Floss",
-    "link": "https://www.mentalfloss.com/transportation/why-motorcyclists-flip-license-plates?utm_source=RSS",
-    "tags": [
-      "solve",
-      "science",
-      "legal",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "解决",
-      "科学研究",
-      "法律法规",
-      "数据驱动"
-    ],
-    "date": "2025-11-01",
-    "summary_en": "This article explores the surprising reasons why some motorcyclists flip their license plates, despite it being illegal. Beyond the commonly cited excuse of identity theft protection, the real motivations reveal a pattern of evasion and thrill-seeking. The three main reasons include avoiding traffic violations and toll fees by preventing automated systems from capturing their plate numbers, tricking police officers during pursuits, and simply for the adrenaline rush of outsmarting the system. The article serves as both an expose on a common but little-discussed practice and a cautionary tale about the legal consequences, which can be severe. It's particularly valuable for its insights into the psychology behind such behaviors and the technological measures that enable them.",
-    "summary_zh": "这篇文章揭露了摩托车手翻转车牌的三个真实原因，远不止所谓的身份保护。主要动机包括逃避交通罚款和路桥费，欺骗警方追踪，以及单纯的刺激感。内容既是对一种常见行为的揭秘，也是对法律后果的警示。文章的价值在于揭示行为背后的心理动机和技术手段，引发读者对社会规则与个人行为的思考。",
-    "best_quote_en": "The devices usually work by allowing the rider to simply push a button that rotates the plate 180 degrees to hide the number.",
-    "best_quote_zh": "这些装置通常只需按一下按钮就能让车牌旋转180度，藏起号码。"
-  },
-  {
-    "id": 123,
-    "title": "Weak-To-Strong Generalization",
-    "title_zh": "弱到强的推广",
-    "source": "LessWrong",
-    "link": "https://www.lesswrong.com/posts/bkbaXuo5mh8LP34rM/weak-to-strong-generalization",
-    "tags": [
-      "solve",
-      "ai-research",
-      "education",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "解决",
-      "AI研究",
-      "教育学习",
-      "未来预测"
-    ],
-    "date": "2025-11-02",
-    "summary_en": "The article explores the concept of 'weak-to-strong generalization', a method where a weak model teaches a strong model to improve its performance. Unlike Paul Christiano's IDA, this approach skips the amplification step, training the strong model directly on weak model labels. The author argues this works when the strong model can't easily fit the weak model's mistakes without increasing error. They compare it to a student learning from a typo-filled textbook, where the student must infer correct grammar despite errors. The analysis delves into Bayesian perspectives, demonstrating why strong models don't simply imitate weak ones and how they can surpass teacher performance. The author proposes using 'virtual evidence' to soften updates from toy models, preventing mimicry and allowing for bounded influence. While acknowledging limitations, they believe this approach offers a more formal target for AI alignment problems, though it doesn't necessarily solve superhuman performance or distributional shifts.",
-    "summary_zh": "文章探讨了“弱到强推广”这一概念，即通过弱模型训练强模型以提升其性能。该方法省略了IDA中的放大步骤，直接用弱模型标签训练强模型。作者认为，当强模型无法轻易拟合弱模型的错误时，这种方法才能奏效。他们将其比作学生从充满错别字的教科书中学习，学生必须在错误中推断出正确的语法。分析深入探讨了贝叶斯视角，说明强模型为何不会简单模仿弱模型，以及如何超越老师表现。作者提出使用“虚拟证据”来软化玩具模型的更新，防止模仿并允许有界影响。尽管承认局限性，他们认为这一方法为AI对齐问题提供了更正式的目标，尽管它并不一定能解决超人表现或分布偏移问题。",
-    "best_quote_en": "Weak-to-strong generalization could be reasonably accused of being a hack: we expect it to vanish in the limit of a growing gap between weak and strong, and the phenomenon seems unreliable, working better in some domains than others.",
-    "best_quote_zh": "弱到强的推广可以被合理地指责为一个技巧：我们预期它在弱强差距扩大的极限情况下会消失，这种现象看起来不可靠，在某些领域比其他领域表现更好。"
-  },
-  {
-    "id": 124,
-    "title": "Watch the Trailer for “The New Yorker at 100”",
-    "title_zh": "观看纪录片《纽约客百年》的预告片",
-    "source": "The New Yorker",
-    "link": "https://www.newyorker.com/news/press-room/watch-the-trailer-for-the-new-yorker-at-100",
-    "tags": [
-      "solve",
-      "science",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "解决",
-      "科学研究",
-      "数据驱动"
-    ],
-    "date": "2025-10-31",
-    "summary_en": "The trailer for 'The New Yorker at 100' offers a fascinating glimpse into the magazine's century-long evolution. It captures the frantic final months leading to its 100th anniversary, showcasing how The New Yorker transformed from a local humor magazine to a globally influential media powerhouse. The documentary highlights seminal works like John Hersey's 'Hiroshima' and Truman Capote's 'In Cold Blood,' which reshaped journalism and public discourse. With appearances from current and former staff, celebrity admirers, and director Marshall Curry, the film promises an insightful exploration of the magazine's impact and controversies. This documentary serves as both a celebration and a critical reflection on The New Yorker's legacy.",
-    "summary_zh": "《纽约客百年》预告片揭示了这本杂志百年历程的精彩瞬间。从地方幽默杂志到全球影响力媒体，影片记录了纽约客的非凡转型。影片还展现了其百年庆典的紧张筹备，并重温了约翰·赫西的《广岛》和卡波特的《冷血》等经典作品。由奥斯卡获奖导演马歇尔·柯瑞执导，影片不仅是对纽约客历史的致敬，更是对其影响力的深度解析。",
-    "best_quote_en": "The excitement of that countdown serves as a central point of interest in 'The New Yorker at 100'",
-    "best_quote_zh": "倒计时的兴奋感是《纽约客百年》的核心吸引力"
-  },
-  {
     "id": 125,
     "title": "Cheaper Holiday Flights/Most Powerful Passports/Corporate Good Guys",
     "title_zh": "更便宜的假期机票/最强大的护照/企业好人",
@@ -2342,5 +2224,123 @@
     "summary_zh": "这篇文章挑战了我们长期以来的个人卫生习惯，揭示许多常见做法可能无效甚至有害。从洗脚趾缝到正确的使用牙线，文章突出了我们忽视的细节，这些细节可能显著影响健康。它强调了卫生建议的不断演变，以及适应新发现的重要性。这些见解促使我们重新评估日常习惯，鼓励读者改进个人卫生习惯，以获得更好的健康结果。",
     "best_quote_en": "Hygiene advice continues to evolve, and 'rules' are being updated in real-time.",
     "best_quote_zh": "卫生建议不断演变，'规则'正在实时更新。"
+  },
+  {
+    "id": 220,
+    "title": "String Theory Can Now Describe a Universe That Has Dark Energy",
+    "title_zh": "弦理论现可描述含有暗能量的宇宙",
+    "source": "Quanta Magazine",
+    "link": "https://www.quantamagazine.org/string-theory-can-now-describe-a-universe-that-has-dark-energy-20260114/",
+    "tags": [
+      "solve",
+      "science",
+      "ai-research",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "解决",
+      "科学研究",
+      "AI研究",
+      "数据驱动"
+    ],
+    "date": "2026-01-14",
+    "summary_en": "In a significant breakthrough, physicists Bruno Bento and Miguel Montero have developed a string theory model that accommodates dark energy, a mysterious force driving the universe's accelerated expansion. Their work addresses a longstanding challenge in reconciling string theory with our observed universe. By leveraging the Casimir effect and specific compactification techniques, they derived a positive, albeit time-diminishing, value for dark energy. Although their model initially results in a 5D universe, this pioneering effort opens new avenues for aligning string theory with cosmic observations, potentially revolutionizing our understanding of the universe's fundamental nature. The instability of their solution, however, presents a crucial area for future research.",
+    "summary_zh": "物理学家布鲁诺·本托和米格尔·蒙特罗通过弦理论模型解决了暗能量问题，这是一项重大突破。他们的工作利用卡西米尔效应和特定的紧致化技术，得出了一个正但会随时间减弱的暗能量值。尽管他们的模型最初得出了一个五维宇宙，但这项开创性的工作为将弦理论与宇宙观测结果对齐打开了新的途径，可能会改变我们对宇宙基本本质的理解。然而，他们的解决方案的不稳定性为未来的研究提出了一个关键问题。",
+    "best_quote_en": "It is the very first example [from string theory] of an explicit de Sitter space.",
+    "best_quote_zh": "这是弦理论中显式脱萨空间的第一个例子。"
+  },
+  {
+    "id": 221,
+    "title": "The tragedy of Trần Đức Thảo",
+    "title_zh": "越南哲学家阮德昭的悲剧",
+    "source": "Aeon",
+    "link": "https://aeon.co/essays/the-tragic-life-and-principled-politics-of-tran-duc-thao?utm_source=rss-feed",
+    "tags": [
+      "analyze",
+      "education",
+      "politics",
+      "controversial"
+    ],
+    "tags_zh": [
+      "分析",
+      "教育学习",
+      "政治时事",
+      "争议观点"
+    ],
+    "date": "2026-01-08",
+    "summary_en": "Trần Đức Thảo's life and work offer a profound exploration of the interplay between philosophy, politics, and personal identity. Born in colonial Vietnam, Thảo's intellectual journey took him from the prestigious halls of the École Normale Supérieure in Paris to the frontlines of Vietnamese independence. His early fascination with phenomenology, under the guidance of Husserl, evolved into a critical engagement with Marxism, driven by his experiences and political awakening. Thảo's most significant work, 'Phenomenology and Dialectical Materialism,' is a testament to his intellectual rigor and his commitment to understanding the human condition within the context of history and society. His life, marked by persecution and tragedy, underscores the personal cost of intellectual integrity and political conviction. Thảo's legacy lies in his ability to bridge the philosophical and the political, offering insights that remain relevant in today's world.",
+    "summary_zh": "阮德昭的生平与思想，深刻探讨了哲学、政治与个人身份的交织。出生于殖民地越南的阮德昭，从巴黎高等师范学校的殿堂走向越南独立的前线。他早期对现象学的热衷，在胡塞尔的指导下，逐渐演变为对马克思主义的批判性探索，这源于他的经历与政治觉醒。阮德昭最重要的作品《现象学与辩证唯物主义》，见证了他思想的严谨与理解人类状况的历史与社会背景下的坚定决心。他的生活，充满了迫害与悲剧，凸显了思想的坚守与政治信念的个人代价。阮德昭的遗产在于他能够跨越哲学与政治，提供至今仍然有意义的洞见。",
+    "best_quote_en": "To say so implies, of course, that his counterparts tacitly chose capitalism.",
+    "best_quote_zh": "这意味着，当然，他的对手们默默地选择了资本主义。"
+  },
+  {
+    "id": 222,
+    "title": "You've Responded Countless Times, but What Does RSVP Actually Stand For?",
+    "title_zh": "你已经回复了无数次，但“RSVP”究竟是什么意思？",
+    "source": "Mental Floss",
+    "link": "https://www.mentalfloss.com/language/words/what-does-rsvp-stand-for?utm_source=RSS",
+    "tags": [
+      "analyze",
+      "ai-research",
+      "society",
+      "controversial"
+    ],
+    "tags_zh": [
+      "分析",
+      "AI研究",
+      "社会议题",
+      "争议观点"
+    ],
+    "date": "2026-01-15",
+    "summary_en": "The article delves into the historical significance and modern implications of the acronym RSVP, which stands for 'RÉPONDEZ S'IL VOUS PLAÎT' or 'please respond.' Originating from 18th-century French aristocracy, RSVP was a polite request to confirm attendance at social events. Today, it carries the same social pressure, with technology making it easier to respond but also adding new complexities. The article encourages readers to view RSVP as a gesture of courtesy, acknowledging the effort behind invitations. It's a fascinating exploration of how language and social norms evolve, and a reminder of the importance of simple politeness in our digital age.",
+    "summary_zh": "这篇文章探讨了“RSVP”这个缩写词的历史意义和现代影响，它源自18世纪法国贵族的“请回复”。今天，RSVP依然承载着社会压力，科技使回复变得更容易，但也带来新的复杂性。作者鼓励读者将RSVP视为一种礼貌的表现，认可邀请背后的努力。这是对语言和社会规范演变的深刻思考，也是在数字时代提醒我们礼貌的重要性。",
+    "best_quote_en": "It's a way to let your friends know, 'I see your invitation, and I respect the effort you put into it.'",
+    "best_quote_zh": "这是让朋友知道，“我看到你的邀请，也尊重你为此付出的努力。”"
+  },
+  {
+    "id": 223,
+    "title": "The Default Contra Dance Weekend Deal",
+    "title_zh": "默认交谊舞周末交易",
+    "source": "LessWrong",
+    "link": "https://www.lesswrong.com/posts/kGZNvwWMnoJPBXkCD/the-default-contra-dance-weekend-deal",
+    "tags": [
+      "guide",
+      "legal",
+      "lifestyle",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "指导",
+      "法律法规",
+      "生活方式",
+      "未来预测"
+    ],
+    "date": "2026-01-16",
+    "summary_en": "The article by Jefftk outlines the standard practices for organizing and participating in contra dance weekends across the United States. He emphasizes the importance of clear communication and mutual understanding between organizers and performers, especially those who are new to the process. Key aspects covered include housing, travel reimbursement, instrument provision, transportation, food, sound systems, guest policies, working hours, cancellation protocols, sickness policies, pay, and contractual agreements. The author stresses that while these are common practices, they are not rigid rules and can be adjusted based on mutual agreement.",
+    "summary_zh": "杰夫特克的文章详细描述了美国各地交谊舞周末的标准做法。他强调组织者和表演者之间清晰的沟通和相互理解的重要性，特别是对于新手来说。涵盖的关键方面包括住宿、旅行报销、乐器提供、交通、食物、音响系统、嘉宾政策、工作时间、取消协议、生病政策、报酬和合同协议。作者指出，虽然这些是常见做法，但并非硬性规定，可以根据双方协议进行调整。",
+    "best_quote_en": "As someone who has both played for and organized dance weekends, I thought it might be helpful to try and write down what I think of as typical if an event is bringing in a band or caller from out of town.",
+    "best_quote_zh": "作为一个既为舞蹈周末表演过，又组织过舞蹈周末的人，我认为写下我认为典型的事情可能会有所帮助，如果一个活动从外地邀请乐队或舞蹈领导者。"
+  },
+  {
+    "id": 224,
+    "title": "The Minnesota War Zone Is Trump’s Most Trumpian Accomplishment",
+    "title_zh": "明尼苏达战争区是特朗普最具特朗普特色的成就",
+    "source": "The New Yorker",
+    "link": "https://www.newyorker.com/news/letter-from-trumps-washington/the-minnesota-war-zone-is-trumps-most-trumpian-accomplishment",
+    "tags": [
+      "solve",
+      "politics",
+      "controversial"
+    ],
+    "tags_zh": [
+      "解决",
+      "政治时事",
+      "争议观点"
+    ],
+    "date": "2026-01-16",
+    "summary_en": "Susan B. Glasser's scathing analysis of Trump's second term focuses on his escalating threats and militarized responses to domestic protests, particularly in Minnesota. She argues that Trump's actions are not just about immigration enforcement but about creating a security crisis to assert his dominance. The piece highlights the President's revenge-driven politics, his disregard for constitutional norms, and the chilling effect of his policies on American citizens. Glasser's insights reveal a troubling pattern of authoritarian tendencies and a deliberate strategy to divide and conquer, turning American streets into 'training grounds' for his personal vendettas.",
+    "summary_zh": "苏珊·B·格拉瑟对特朗普第二任期的尖锐分析聚焦于他不断升级的威胁和对国内抗议的军事化回应，特别是在明尼苏达州。她认为，特朗普的行动不仅仅是关于移民执法，而是为了制造安全危机以显示他的主导地位。文章突出了总统复仇心切的政治手段，他对宪法规范的漠视，以及他的政策对美国公民的震慑效应。格拉瑟的见解揭示了一个令人不安的威权主义倾向和故意分而治之的策略，将美国街头变成了他个人恩怨的‘训练场’",
+    "best_quote_en": "It’s a war from within. Trump has escalated, as he invariably does.",
+    "best_quote_zh": "这是一场内战。特朗普升级了，就像他总是做的那样。"
   }
 ]
