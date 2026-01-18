@@ -1,121 +1,5 @@
 [
   {
-    "id": 130,
-    "title": "Megastructures on Mars",
-    "title_zh": "火星大型建筑",
-    "source": "Aeon",
-    "link": "https://aeon.co/essays/in-the-late-1800s-alien-engineers-altered-our-world-forever?utm_source=rss-feed",
-    "tags": [
-      "update",
-      "science",
-      "politics",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "动态",
-      "科学研究",
-      "政治时事",
-      "未来预测"
-    ],
-    "date": "2025-11-04",
-    "summary_en": "This fascinating exploration of the Martian canal controversy reveals how humanity's perception of alien life has evolved from 19th century astronomical observations to modern UFO sightings. The article challenges common assumptions about how we would react to definitive proof of extraterrestrial intelligence, suggesting that societal responses might be more nuanced than popular culture suggests. It traces the cultural impact of the canal theory, showing how it influenced science fiction, scientific inquiry, and our understanding of climate change. The piece also highlights the complex relationship between scientific discovery and media, demonstrating how news coverage can shape public perception of scientific phenomena.",
-    "summary_zh": "这篇文章深入分析了火星运河争议，揭示了人类对外星生命认知从19世纪天文观测到现代UFO目击的演变过程。它挑战了我们对外星智慧生命确凿证据的常规反应假设，暗示社会反应可能比流行文化描绘的更复杂。文章追溯了运河理论的文化影响，展示其如何塑造科幻文学、科学探索和气候变化认知。同时揭示了科学发现与媒体的复杂关系，证明新闻报道如何塑造公众对科学现象的认知。",
-    "best_quote_en": "The canals of Mars hinted that the lifespan of intelligent species had a natural conclusion, but also showed that such species did not need to go meekly into the night when facing a planetary threat.",
-    "best_quote_zh": "火星运河暗示智慧物种的生命周期有其自然终结，但也表明面对星球威胁时，这样的物种无需安静离去。"
-  },
-  {
-    "id": 131,
-    "title": "Gerrymandering California",
-    "title_zh": "加州的选区划分操控",
-    "source": "LessWrong",
-    "link": "https://www.lesswrong.com/posts/FfHe7Dc4REer3mzjt/gerrymandering-california",
-    "tags": [
-      "inspire",
-      "politics",
-      "controversial"
-    ],
-    "tags_zh": [
-      "启发",
-      "政治时事",
-      "争议观点"
-    ],
-    "date": "2025-11-05",
-    "summary_en": "This analysis delves into California's attempt at gerrymandering U.S. House districts, exploring the strategic implications for both parties. The author argues that while gerrymandering could limit Trump's power if Democrats gain a majority, it ultimately undermines democratic principles by shifting voter agency to state legislators. The piece examines the escalating tit-for-tat gerrymandering between states and questions whether retaliatory measures actually serve democracy. It concludes that while gerrymandering is widely condemned, the optimal strategy might involve matching opponents' tactics to achieve a no-gerrymandering equilibrium. The analysis raises critical questions about political power, democratic legitimacy, and the ethical dilemmas of strategic retaliation.",
-    "summary_zh": "这篇分析探讨了加州试图操控美国众议院选区的行为及其对两党的战略影响。作者指出，尽管操控选区可能在民主党赢得多数时限制特朗普的权力，但最终削弱了民主原则，将选民的权力转移给州议会。文章探讨了各州间针锋相对的选区操控行为，并质疑报复性措施是否真正服务于民主。结论认为，尽管选区操控广受谴责，但最佳策略可能是通过匹配对手手段来实现无操控的均衡。分析提出了关于政治权力、民主合法性和战略报复的伦理困境的关键问题。",
-    "best_quote_en": "Gerrymandering decreases the number of votes required to support an atrocity. (Theoretically, a party could get a majority in the House with 25% of the popular vote.)",
-    "best_quote_zh": "操控选区会减少支持暴行所需的选票数量。理论上，一个政党可能在众议院获得多数席位，仅靠25%的普选票。"
-  },
-  {
-    "id": 132,
-    "title": "The Mamdani Era Begins",
-    "title_zh": "曼曼达尼时代开始",
-    "source": "The New Yorker",
-    "link": "https://www.newyorker.com/news/our-local-correspondents/the-mamdani-era-begins",
-    "tags": [
-      "analyze",
-      "politics",
-      "controversial"
-    ],
-    "tags_zh": [
-      "分析",
-      "政治时事",
-      "争议观点"
-    ],
-    "date": "2025-11-05",
-    "summary_en": "The article chronicles Zohran Mamdani's unlikely rise to become New York's mayor, defeating establishment figures like Eric Adams and Andrew Cuomo. It highlights Mamdani's appeal as a fresh, idealistic alternative to the city's corrupt political machine. The piece draws parallels with historical reform movements, questioning whether Mamdani can break the 'standard course' of municipal reform where outsider mayors inevitably fail. The analysis suggests Mamdani represents a generational shift, bringing marginalized communities to the political forefront and challenging traditional power structures. His victory signals a potential turning point in New York's political landscape, though the durable nature of the city's political machine poses significant challenges.",
-    "summary_zh": "文章记录了佐兰·曼曼达尼如何出人意料地成为纽约市长，击败了埃里克·亚当斯和安德鲁·库默等政坛老手。他凭借清新理想主义的形象，成为这个腐败政治机器的替代选择。文章将其与历史上的改革运动对比，质疑曼曼达尼能否打破",
-    "best_quote_en": "\"What I don’t have in experience, I make up for in integrity—and what you don’t have in integrity, you could never make up for in experience,\" Mamdani told Cuomo in an October debate.",
-    "best_quote_zh": "曼曼达尼在10月的辩论中说："
-  },
-  {
-    "id": 133,
-    "title": "Free Press / Building Stories",
-    "title_zh": "自由媒体 / 建筑故事",
-    "source": "Kevin Kelly",
-    "link": "https://kk.org/cooltools/free-press-building-stories/",
-    "tags": [
-      "analyze",
-      "design",
-      "music-arts",
-      "case-study"
-    ],
-    "tags_zh": [
-      "分析",
-      "设计创意",
-      "音乐艺术",
-      "案例研究"
-    ],
-    "date": "2025-11-04",
-    "summary_en": "This content presents two distinct but equally fascinating works that explore different aspects of storytelling and cultural expression. The first, 'Free Press,' is a visual history of underground newspapers from 1965-1975, offering a window into the counterculture movements of the era. The book serves as both a historical document and a design reference, showcasing the bold, experimental visual language that challenged mainstream media. The second work, 'Building Stories,' is Chris Ware's magnum opus, a collection of interconnected narratives about apartment dwellers in Chicago. Ware's innovative approach to comic storytelling, with its varied formats and deep psychological exploration, redefines what the medium can achieve. Together, these works demonstrate how visual media can capture cultural moments and human experiences in uniquely powerful ways.",
-    "summary_zh": "这篇内容介绍了两部风格迥异但同样引人入胜的作品。第一部《自由媒体》记录了1965-1975年间地下报刊的图像史，展现了那个时代反主流文化运动的激荡。这本书既是历史文献，也是设计参考，呈现了挑战主流媒体的大胆实验视觉语言。第二部《建筑故事》是克里斯·韦尔的代表作，收录了关于芝加哥公寓居民的互相关联的故事。韦尔创新的漫画叙事手法和深刻的心理探索，重新定义了这一媒介的可能性。两部作品共同展示了视觉媒体如何以独特方式捕捉文化时刻和人类体验。",
-    "best_quote_en": "'The covers of the papers were bold, experimental, and subversive.'",
-    "best_quote_zh": "这些报纸的封面大胆、实验性和颠覆性。"
-  },
-  {
-    "id": 134,
-    "title": "The Strength of Being Misunderstood",
-    "title_zh": "被误解的力量",
-    "source": "Sam Altman",
-    "link": "https://blog.samaltman.com/the-strength-of-being-misunderstood",
-    "tags": [
-      "solve",
-      "leadership",
-      "ai-research",
-      "deep-dive"
-    ],
-    "tags_zh": [
-      "解决",
-      "领导管理",
-      "AI研究",
-      "深度分析"
-    ],
-    "date": "2020-12-01",
-    "summary_en": "This thought-provoking piece challenges the notion of indifference to others' opinions, arguing that strategic care about opinions can be powerful. The author suggests we have two key choices: selecting whose opinions matter and determining the timescale of our concern. Exceptional individuals care deeply about long-term judgment, even embracing short-term misunderstanding. The article highlights the strength in being right about non-consensus ideas, as this creates space for innovative problem-solving. It's a compelling perspective on status, time horizons, and the value of being misunderstood in pursuit of important truths.",
-    "summary_zh": "这篇文章颠覆了对他人评价漠不关心的传统观点，认为战略性地重视他人的看法反而更有力量。作者提出我们有两个关键选择：选择重视谁的意见以及确定关注的时间范围。杰出的人往往非常重视长期评价，甚至甘愿短期被误解。文章强调在重要但非共识的观点上坚持正确立场的价值，因为这为创新问题解决创造了空间。",
-    "best_quote_en": "You should trade being short-term low-status for being long-term high-status, which most people seem unwilling to do.",
-    "best_quote_zh": "你应该用短期低地位换取长期高地位，而大多数人似乎不愿这样做。"
-  },
-  {
     "id": 135,
     "title": "Using Existing Drugs in New Ways to Treat & Cure Diseases of Brain & Body | Dr. David Fajgenbaum",
     "title_zh": "利用现有药物以新方式治疗和治愈大脑和身体的疾病 | 大卫·法根鲍姆博士",
@@ -2340,5 +2224,119 @@
     "summary_zh": "在国际关系的复杂舞台上，英国面临着两难选择，在历史与美国的关系和特朗普政府的不可预测性之间徘徊。对委内瑞拉总统尼古拉斯·马杜罗的抓捕揭示了美国行动的突然性和可能的非法性，使英国处于尴尬境地。英国外交官们在维持与美国的良好关系与坚持国际法之间挣扎。这种关系进一步复杂化，因为英国依赖美国的军事和情报合作。此分析探讨了英国外交政策的复杂性，以及在特朗普政府中所需的战略操作，以及对全球联盟的更广泛影响。",
     "best_quote_en": "The strong do what they can and the weak suffer what they must.",
     "best_quote_zh": "强者为所欲为，弱者忍受必然。"
+  },
+  {
+    "id": 230,
+    "title": "Wind keepers",
+    "title_zh": "风之守护者",
+    "source": "Aeon",
+    "link": "https://aeon.co/videos/a-breezy-ode-to-wind-ponders-its-power-beauty-and-utility?utm_source=rss-feed",
+    "tags": [
+      "analyze",
+      "music-arts",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "分析",
+      "音乐艺术",
+      "数据驱动"
+    ],
+    "date": "2026-01-15",
+    "summary_en": "Wind Keepers is a beautifully crafted short documentary that explores the pervasive influence of wind on daily life in Viana do Castelo, Portugal. Through cinematic shots of wind turbines, dancing leaves, crashing waves, and swaying clothes, the film reveals the often-overlooked yet essential role of wind. Created by student filmmakers as part of the DocNomads program, it showcases impressive teamwork and a keen eye for detail. The documentary invites viewers to appreciate the hidden frequencies of nature that shape our environment, offering a thought-provoking reflection on the interconnectedness of natural elements and human experience.",
+    "summary_zh": "《风之守护者》通过风力发电机、飞舞的落叶、拍打岩石的浪花和晾衣服的摇曳，展现了风对葡萄牙维亚纳-杜-卡斯特洛日常生活的深远影响。这部短纪录片由学生电影制作人作为DocNomads国际纪录片硕士项目的一部分创作，展示了出色的团队合作和细致的观察力。影片邀请观众欣赏自然元素与人类体验之间的相互关联，提供了深思熟虑的反思。",
+    "best_quote_en": "By focusing on a mostly invisible phenomenon that usually sits in the background of our daily experience, the short documentary tunes into a hidden yet vital frequency.",
+    "best_quote_zh": "通过关注通常隐藏在我们日常体验背后的几乎看不见的现象，这部短纪录片捕捉到了一个隐藏但至关重要的频率。"
+  },
+  {
+    "id": 231,
+    "title": "Why Do People Rub Their Eyes When They're Tired?",
+    "title_zh": "为什么人在疲劳时会揉眼睛？",
+    "source": "Mental Floss",
+    "link": "https://www.mentalfloss.com/science/body/why-people-rub-eyes-when-tired?utm_source=RSS",
+    "tags": [
+      "solve",
+      "lifestyle"
+    ],
+    "tags_zh": [
+      "解决",
+      "生活方式"
+    ],
+    "date": "2026-01-17",
+    "summary_en": "Rubbing one's eyes when tired is a universal habit that engages complex biological processes. This act helps spread remaining moisture, stimulates tear production, and even slows the heart rate through neural signals. It's a built-in mechanism for inducing calm and signaling the body to rest. However, it's crucial to do so gently to avoid damaging the delicate eye structures. This insight into our biological responses underscores the importance of listening to our bodies and prioritizing rest, especially in today's screen-dominated world.",
+    "summary_zh": "疲劳时揉眼睛是一种普遍的习惯，涉及复杂的生物过程。这种行为有助于分散剩余的湿润，刺激泪液产生，并通过神经信号减慢心率。它是一种内置的机制，用于引发平静并向身体发出休息的信号。然而，必须轻轻地进行，以免损坏脆弱的眼部结构。这一关于我们生物反应的见解强调了倾听身体的重要性，特别是在今天屏幕主导的世界中，要优先考虑休息。",
+    "best_quote_en": "It's like emergency hydration for your eyeballs.",
+    "best_quote_zh": "这就像是为你的眼球进行紧急补水。"
+  },
+  {
+    "id": 232,
+    "title": "Blogging, Writing, Musing, And Thinking",
+    "title_zh": "博客写作、思考与冥想",
+    "source": "LessWrong",
+    "link": "https://www.lesswrong.com/posts/Lzek2t6GuXiGfZtgg/blogging-writing-musing-and-thinking",
+    "tags": [
+      "inspire",
+      "writing-content",
+      "ai-research",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "启发",
+      "写作内容",
+      "AI研究",
+      "未来预测"
+    ],
+    "date": "2026-01-18",
+    "summary_en": "The article explores the profound connection between writing and thinking, drawing inspiration from Montaigne's essay style. The author emphasizes the value of 'musing'—writing without a specific agenda—to stimulate thought and self-discovery. This practice, akin to mental exercise, helps cultivate intelligence and wisdom over time. The piece encourages readers to engage in introspective writing, acknowledging the body's role in the thought process. It concludes with the idea that thinking is a skill that improves with practice, much like a muscle.",
+    "summary_zh": "这篇文章探讨了写作与思考之间深刻的联系，受到蒙田散文风格的启发。作者强调“无目的写作”的价值，即冥想式写作，以刺激思想和自我发现。这种练习类似于心理锻炼，有助于培养智慧。文章鼓励读者进行内省写作，承认身体在思想过程中所起的作用。最后，文章提出思考是一种技能，通过练习可以不断提高，就像锻炼肌肉一样。",
+    "best_quote_en": "Writing, especially by hand, can be a great way to explore these ideas and to practice thinking. It's also really fun to do!",
+    "best_quote_zh": "特别是手写，是探索这些想法并练习思考的好方法。而且真的很有趣！"
+  },
+  {
+    "id": 233,
+    "title": "Can Trump Really Use the Insurrection Act?",
+    "title_zh": "特朗普真的可以动用叛乱法吗？",
+    "source": "The New Yorker",
+    "link": "https://www.newyorker.com/news/q-and-a/can-trump-really-use-the-insurrection-act",
+    "tags": [
+      "analyze",
+      "politics",
+      "legal",
+      "deep-dive"
+    ],
+    "tags_zh": [
+      "分析",
+      "政治时事",
+      "法律法规",
+      "深度分析"
+    ],
+    "date": "2026-01-17",
+    "summary_en": "The article delves into the complexities of the Insurrection Act, a law that grants the U.S. President extensive powers to deploy military forces domestically. Elizabeth Goitein, an expert on presidential emergency powers, discusses the historical context, legal intricacies, and potential abuses of this act. She highlights the act's origins, its relationship with the Posse Comitatus Act, and the narrow circumstances under which it has been invoked in the past. Goitein argues for reform, emphasizing the need for safeguards to prevent misuse. The conversation also touches on the disciplinary differences between the military and law enforcement agencies like ICE, and the potential consequences of military deployment in civilian settings.",
+    "summary_zh": "这篇文章深入探讨了《叛乱法》的复杂性，该法赋予美国总统广泛权力，允许其在国内部署军队。伊丽莎白·戈特斯坦，总统紧急权力专家，讨论了该法的历史背景、法律细节和潜在滥用问题。她强调了该法的起源、其与《反叛乱法》的关系，以及过去该法被激活的狭窄情景。戈特斯坦呼吁改革，强调需要保障措施以防止滥用。对话还涉及军队与执法机构如移民局之间的纪律差异，以及在民用环境中部署军队的潜在后果。",
+    "best_quote_en": "The Insurrection Act is the primary exception to the Posse Comitatus Act, allowing the President to deploy active-duty armed forces or federalize National Guard forces to quell civil unrest.",
+    "best_quote_zh": "《叛乱法》是《反叛乱法》的主要例外，允许总统动用正规军或联邦化国民警卫队来平息民众骚乱。"
+  },
+  {
+    "id": 234,
+    "title": "Book Freak #193: How to Decide",
+    "title_zh": "Book Freak #193: 如何做决定",
+    "source": "Kevin Kelly",
+    "link": "https://kk.org/cooltools/book-freak-193-how-to-decide/",
+    "tags": [
+      "solve",
+      "psychology",
+      "education",
+      "controversial"
+    ],
+    "tags_zh": [
+      "解决",
+      "心理学",
+      "教育学习",
+      "争议观点"
+    ],
+    "date": "2026-01-16",
+    "summary_en": "In the latest Book Freak, Annie Duke's 'How to Decide' offers a practical guide to improving decision-making by disentangling decision quality from outcomes. Drawing from her poker and decision strategy expertise, Duke introduces key principles like avoiding 'resulting' (judging decisions by outcomes), using the Only-Option Test to simplify choices, and thinking in probabilities. She emphasizes the importance of considering preferences, payoffs, and probabilities, as well as seeking genuine outside perspectives. The book's interactive exercises encourage readers to apply these principles to their own decisions, fostering a more thoughtful and strategic approach to life's choices. Duke's insights challenge us to confront our biases and embrace uncertainty, ultimately leading to better, more confident decisions.",
+    "summary_zh": "在最新的《书痴》中，安妮·杜克的《如何做决定》提供了提高决策能力的实用指南，通过将决策质量与结果分离。杜克引入了关键原则，如避免“结果导向”（根据结果判断决策），使用“仅有一个选项测试”简化选择，以及用概率思考。她强调考虑偏好、收益和概率，以及寻求真正的外部视角的重要性。书中的互动练习鼓励读者将这些原则应用到自己的决策中，培养更加深思熟虑和战略性的选择方式。杜克的见解挑战我们直面偏见，拥抱不确定性，最终做出更好的、更自信的决策。",
+    "best_quote_en": "The quality of the outcome casts a shadow over our ability to see the quality of the decision.",
+    "best_quote_zh": "结果的质量会遮蔽我们看清决策质量的能力。"
   }
 ]
