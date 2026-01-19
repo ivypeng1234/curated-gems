@@ -1,53 +1,5 @@
 [
   {
-    "id": 135,
-    "title": "Using Existing Drugs in New Ways to Treat & Cure Diseases of Brain & Body | Dr. David Fajgenbaum",
-    "title_zh": "利用现有药物以新方式治疗和治愈大脑和身体的疾病 | 大卫·法根鲍姆博士",
-    "source": "Huberman Lab",
-    "link": "https://www.hubermanlab.com/episode/david-fajgenbaum-using-drugs-treat-diseases-brain-body",
-    "tags": [
-      "analyze",
-      "medicine",
-      "science",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "分析",
-      "医学健康",
-      "科学研究",
-      "数据驱动"
-    ],
-    "date": "2025-11-03",
-    "summary_en": "Dr. David Fajgenbaum's insights on drug repurposing reveal a transformative approach to treating diseases. His personal journey with Castleman's disease highlights how existing drugs, originally approved for other conditions, can offer life-saving alternatives. The conversation explores the potential of repurposing medications to tackle previously untreatable diseases, including cancers, and emphasizes the importance of mindset in battling illnesses. Fajgenbaum's work with the Every Cure database demonstrates how researchers, physicians, and the public can discover novel treatments. The discussion also touches on the role of AI in identifying new drug applications and the broader implications for healthcare innovation.",
-    "summary_zh": "法根鲍姆博士通过自身对卡斯尔曼病的战胜经历，揭示了药物再利用的巨大潜力。他发现许多已批准的药物可以治疗原本用途之外的疾病，这为医学领域带来了新的希望。他的研究和Every Cure数据库的工作展示了如何通过现有药物开发出治愈癌症等难治性疾病的新方法。这场对话不仅探讨了药物再利用的科学价值，还强调了心态在战胜疾病中的关键作用，为医疗创新提供了深刻的启示。",
-    "best_quote_en": "We can explore novel treatments and cures to conditions the medical profession has deemed untreatable, including cancers.",
-    "best_quote_zh": "我们可以探索医学界认为无法治疗的疾病的新治疗方法和治愈方案，包括癌症。"
-  },
-  {
-    "id": 136,
-    "title": "How Your Brain Creates ‘Aha’ Moments and Why They Stick",
-    "title_zh": "大脑如何创造“灵感闪现”及其为何难忘",
-    "source": "Quanta Magazine",
-    "link": "https://www.quantamagazine.org/how-your-brain-creates-aha-moments-and-why-they-stick-20251105/",
-    "tags": [
-      "analyze",
-      "science",
-      "education",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "分析",
-      "科学研究",
-      "教育学习",
-      "数据驱动"
-    ],
-    "date": "2025-11-05",
-    "summary_en": "This article explores the neuroscience behind 'aha' moments, revealing how sudden insights are generated in the brain and why they create lasting memories. Researchers used Mooney images to trigger representational change in participants' brains, observing increased activity in the ventral occipitotemporal cortex, amygdala, and hippocampus. The study found that insightful experiences lead to better memory retention, though not necessarily accurate solutions. The findings suggest potential educational applications for enhancing learning through insight-based teaching methods. The article also discusses the complex relationship between insight and creativity, noting that context matters in how insights manifest.",
-    "summary_zh": "这篇文章探讨了大脑如何产生“灵感闪现”以及这些瞬间为何难以忘怀。研究人员使用Mooney图像诱导参与者大脑的表征变化，发现这种现象会激活视觉皮层、杏仁核和海马体。研究表明，洞察力体验能增强记忆保持，但并不意味着解决方案一定正确。这些发现为通过洞察式教学提升学习效果提供了可能性。文章还讨论了洞察与创造力之间复杂关系，指出上下文在洞察表现中起关键作用。",
-    "best_quote_en": "A really big creative idea is [often] associated with insight because a creative idea is in some way a leap in your cognitive world, and a leap will often elicit an insight or 'aha' feeling.",
-    "best_quote_zh": "一个真正重要的创意往往与洞察相关，因为创意在某种程度上是你认知世界中的一次飞跃，而这种飞跃常会引发洞察或'灵感闪现'的感觉。"
-  },
-  {
     "id": 137,
     "title": "Voices of Myanmar",
     "title_zh": "缅甸的声音",
@@ -2338,5 +2290,53 @@
     "summary_zh": "在最新的《书痴》中，安妮·杜克的《如何做决定》提供了提高决策能力的实用指南，通过将决策质量与结果分离。杜克引入了关键原则，如避免“结果导向”（根据结果判断决策），使用“仅有一个选项测试”简化选择，以及用概率思考。她强调考虑偏好、收益和概率，以及寻求真正的外部视角的重要性。书中的互动练习鼓励读者将这些原则应用到自己的决策中，培养更加深思熟虑和战略性的选择方式。杜克的见解挑战我们直面偏见，拥抱不确定性，最终做出更好的、更自信的决策。",
     "best_quote_en": "The quality of the outcome casts a shadow over our ability to see the quality of the decision.",
     "best_quote_zh": "结果的质量会遮蔽我们看清决策质量的能力。"
+  },
+  {
+    "id": 235,
+    "title": "Landholder vs stockholder",
+    "title_zh": "土地所有者与股东",
+    "source": "Aeon",
+    "link": "https://aeon.co/essays/why-hume-is-better-at-explaining-modern-capitalism-than-marx?utm_source=rss-feed",
+    "tags": [
+      "inspire",
+      "economics",
+      "society",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "启发",
+      "经济金融",
+      "社会议题",
+      "数据驱动"
+    ],
+    "date": "2026-01-15",
+    "summary_en": "The essay challenges conventional Left-Right political dichotomies by exploring historical economic shifts. David Hume's 18th-century warnings about debt financing and its impact on social structures are analyzed, highlighting how stockholders' interests diverged from traditional landholders. The author argues that modern politics are shaped by these historical economic tensions, with the Left often supporting stockholder economies and the Right defending landholder interests. The essay suggests that class alone does not determine political alignment and that both economies coexist and conflict, shaping contemporary political landscapes.",
+    "summary_zh": "文章挑战传统的左派和右派政治二元对立，通过探讨历史经济变迁。分析了大卫·休谟在18世纪对债务融资及其对社会结构影响的警告，强调股东利益与传统土地所有者的分歧。作者认为，现代政治由这些历史经济紧张关系塑造，左派通常支持股东经济，右派则捍卫土地所有者利益。文章指出，阶级并不能单独决定政治倾向，两种经济体系共存并冲突，塑造当代政治格局。",
+    "best_quote_en": "The governments of antiquity, Hume argued, saved money to use in battle and then waged wars in self-defence, or else to expand their territory. But the British had invented a new form of warfare that Hume saw no precedent for, even in the merchant states of Machiavelli’s Italy: war for trade, funded with money borrowed from private stockholders.",
+    "best_quote_zh": "休谟认为，古代政府储蓄金钱用于战斗，然后为自卫或扩展领土而发动战争。但英国人发明了一种新的战争形式，休谟甚至在马基雅维利的意大利商业国家中也找不到先例：为了贸易而发动的战争，由向私人股东借款资助。"
+  },
+  {
+    "id": 236,
+    "title": "The World’s 10 Most Sober-Friendly Cities, Ranked",
+    "title_zh": "全球最适合戒酒的10个城市排行榜",
+    "source": "Mental Floss",
+    "link": "https://www.mentalfloss.com/geography/cities/most-sober-friendly-cities-world-ranked?utm_source=RSS",
+    "tags": [
+      "analyze",
+      "lifestyle",
+      "science",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "分析",
+      "生活方式",
+      "科学研究",
+      "数据驱动"
+    ],
+    "date": "2026-01-18",
+    "summary_en": "The article highlights a growing trend of sober-curious or completely sober lifestyles, particularly among younger adults. It identifies the top 10 cities globally that cater to non-drinkers, focusing on activities like wellness retreats, cultural attractions, and unique excursions. London tops the list, surprising many due to its known drinking culture, but offering a wealth of sober-friendly activities. The article emphasizes that these cities provide rich cultural experiences beyond alcohol, making them appealing to a broader audience.",
+    "summary_zh": "文章指出，越来越多的年轻人选择戒酒或少喝酒，文章列出了全球最适合戒酒的十大城市。伦敦意外地排名第一，尽管以酒吧文化著称，但提供了丰富的无酒精活动。这些城市不仅适合戒酒者，也为所有游客提供了独特的文化体验。",
+    "best_quote_en": "From historic tours and iconic landmarks like Westminster Abbey, the London Eye, the Tower Bridge, and more, London is basically a sightseer’s dream.",
+    "best_quote_zh": "从历史之旅到著名地标如威斯敏斯特教堂、伦敦眼、塔桥等，伦敦基本上是观光客的梦想之地。"
   }
 ]
