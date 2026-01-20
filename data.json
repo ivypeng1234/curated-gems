@@ -1,123 +1,5 @@
 [
   {
-    "id": 137,
-    "title": "Voices of Myanmar",
-    "title_zh": "缅甸的声音",
-    "source": "Aeon",
-    "link": "https://aeon.co/videos/a-glimpse-of-daily-life-for-people-in-isolated-war-torn-myanmar?utm_source=rss-feed",
-    "tags": [
-      "analyze",
-      "science",
-      "politics",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "分析",
-      "科学研究",
-      "政治时事",
-      "数据驱动"
-    ],
-    "date": "2025-11-06",
-    "summary_en": "The documentary 'Voices of Myanmar' offers a poignant exploration of a nation caught between hope and despair. While Myanmar's brief democratic experiment under Aung San Suu Kyi was flawed, particularly regarding the Rohingya crisis, it represented a fragile but preferred alternative to the current military regime's oppression. The interviews reveal how ordinary citizens navigate political instability, economic turmoil, and cultural shifts. What's most striking is the resilience and optimism that persists among the interviewees despite their hardships, suggesting that hope for Myanmar's future remains alive even in the face of overwhelming challenges.",
-    "summary_zh": "纪录片《缅甸的声音》揭示了一个在希望与绝望之间挣扎的国家。虽然昂山素季领导下的民主实验因罗兴亚危机而受到质疑，但它仍比军政府的压迫更为人们所向往。采访中，普通民众讲述了如何应对政治动荡、经济危机和文化变迁。最令人动容的是，尽管生活艰难，受访者们仍保持着对未来的乐观，展现了缅甸人民的韧性和希望。",
-    "best_quote_en": "The country’s brief era of fragile democracy was far preferable to the bloodshed, corruption and economic crises that now engulf it.",
-    "best_quote_zh": "短暂的脆弱民主时期远比现在的流血、腐败和经济危机更为可取。"
-  },
-  {
-    "id": 138,
-    "title": "The Old Farmer’s Almanac’s Thanksgiving Forecast Is Out—These Locations Better Dress Warm",
-    "title_zh": "老农历书发布感恩节预测：这些地区需做好保暖准备",
-    "source": "Mental Floss",
-    "link": "https://www.mentalfloss.com/science/weather/old-farmer-almanac-thanksgiving-forecast-dress-warm?utm_source=RSS",
-    "tags": [
-      "update",
-      "lifestyle",
-      "science",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "动态",
-      "生活方式",
-      "科学研究",
-      "未来预测"
-    ],
-    "date": "2025-11-06",
-    "summary_en": "The Old Farmer's Almanac's 2025 Thanksgiving forecast offers a diverse weather outlook across the U.S., highlighting significant regional variations. While the South enjoys warm, sunny conditions perfect for outdoor activities, the Northeast and Midwest face potential snow, and the West braces for rain. This analysis reveals not just weather patterns but also the enduring cultural relevance of this historic publication. The Almanac's unique forecasting method blending science and tradition provides valuable long-range insights, though not as precise as local forecasts. The content serves as both a practical travel guide and a cultural commentary on American holiday traditions, demonstrating how weather impacts our seasonal rituals.",
-    "summary_zh": "老农历书的2025感恩节预测揭示了美国各地多样的天气格局。南部地区阳光明媚适合户外活动，而东北和中西部可能迎来降雪，西部则将面临雨天。这不仅是天气分析，更反映了这一历史悠久出版物的持续文化价值。其独特的预测方法结合了科学与传统，为长期天气趋势提供有价值的见解。内容既是实用的旅行指南，也是对美国节日传统的文化评论，展示了天气如何影响我们的季节性仪式。",
-    "best_quote_en": "So wherever you're spending the holiday, make sure to bundle up and give thanks for woolly socks!",
-    "best_quote_zh": "无论你在哪里过节，记得多穿点衣服，感谢有暖和的袜子！"
-  },
-  {
-    "id": 139,
-    "title": "Willpower is exhausting, use content blockers",
-    "title_zh": "意志力消耗很大，使用内容阻断器",
-    "source": "LessWrong",
-    "link": "https://www.lesswrong.com/posts/w39LsdhGFvTQmgBAQ/willpower-is-exhausting-use-content-blockers",
-    "tags": [
-      "solve",
-      "lifestyle",
-      "writing-content",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "解决",
-      "生活方式",
-      "写作内容",
-      "未来预测"
-    ],
-    "date": "2025-11-07",
-    "summary_en": "This article tackles the challenge of digital addiction through practical strategies, emphasizing the limitations of willpower and advocating for content blockers as more sustainable solutions. The author shares personal experiences with various tools like Freedom, uBlock Origin, and Brick, offering specific use cases and configurations. The piece highlights the importance of gradual implementation and customization to avoid frustration and maintain long-term effectiveness. It serves as both a practical guide and a thought-provoking discussion on digital wellness, blending actionable advice with broader reflections on technology's impact on attention and productivity.",
-    "summary_zh": "这篇文章探讨了数字成瘾的挑战，并通过实际策略解决。作者强调意志力的局限性，主张使用内容阻断器作为更可持续的解决方案。分享了对Freedom、uBlock Origin和Brick等工具的个人经验，提供了具体的使用场景和配置建议。文章突出了逐步实施和定制化的重要性，以避免挫败感并保持长期有效性。既是实用指南，也是关于数字健康的深入思考，将可操作的建议与对科技影响注意力和生产力的更广泛反思结合。",
-    "best_quote_en": "Every website and app is designed to maximize the amount of time you spend on it, and that is not to your benefit.",
-    "best_quote_zh": "每个网站和应用程序都是为了最大化你在上面花费的时间而设计的，而这对你并没有益处。"
-  },
-  {
-    "id": 140,
-    "title": "America Begins Clapping Back at Donald Trump",
-    "title_zh": "美国开始对特朗普反击",
-    "source": "The New Yorker",
-    "link": "https://www.newyorker.com/news/letter-from-trumps-washington/america-begins-clapping-back-at-donald-trump",
-    "tags": [
-      "update",
-      "politics",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "动态",
-      "政治时事",
-      "未来预测"
-    ],
-    "date": "2025-11-06",
-    "summary_en": "This article explores the political backlash against Donald Trump following recent election results. It highlights Trump's controversial actions, including a lavish party during a government shutdown and freezing funding for critical infrastructure projects. The analysis suggests that voter dissatisfaction with Trump's leadership contributed to significant Democratic wins, though the broader implications remain uncertain. The piece also reflects on generational shifts in American politics, noting the rise of new Democratic leaders like Zohran Mamdani and the fading influence of older figures like Dick Cheney and Nancy Pelosi. The author posits that these changes signal a potential turning point in Trump's political future.",
-    "summary_zh": "文章分析了美国近期选举结果中对特朗普的政治反击。特朗普在政府停摆期间举办奢华派对并冻结关键基建资金的争议行为成为焦点。分析认为，选民对特朗普领导力的不满推动了民主党的大胜，但这一趋势的长期影响尚不明确。文中还探讨了美国政治中的世代更迭，新兴民主党领袖如Zohran Mamdani的崛起与老一辈政治人物如迪克·切尼和南希·佩洛西影响力的减弱。作者认为这些变化预示着特朗普政治前景的潜在转折点。",
-    "best_quote_en": "The retirement of Nancy Pelosi is a great thing for America. She is evil, corrupt, and highly overrated.",
-    "best_quote_zh": "南希·佩洛西的退休对美国来说是件好事。她是邪恶的、腐败的，而且被高估了。"
-  },
-  {
-    "id": 141,
-    "title": "Physicists Take the Imaginary Numbers Out of Quantum Mechanics",
-    "title_zh": "物理学家将虚数从量子力学中移除",
-    "source": "Quanta Magazine",
-    "link": "https://www.quantamagazine.org/physicists-take-the-imaginary-numbers-out-of-quantum-mechanics-20251107/",
-    "tags": [
-      "analyze",
-      "science",
-      "ai-research",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "分析",
-      "科学研究",
-      "AI研究",
-      "数据驱动"
-    ],
-    "date": "2025-11-07",
-    "summary_en": "This article explores a significant development in quantum mechanics where physicists have successfully reformulated the theory using only real numbers, eliminating the need for imaginary numbers. The discovery challenges the long-held belief that complex numbers are essential to quantum theory, offering a real-valued alternative that maintains equivalent mathematical rigor. The article traces the historical context, from Schrödinger's original equations to recent experiments, and discusses the philosophical implications of this shift. It raises profound questions about the nature of reality and the mathematical foundations of physics, suggesting that while complex numbers may not be strictly necessary, they offer a more elegant and natural framework for describing quantum phenomena.",
-    "summary_zh": "这篇文章探讨了量子力学领域的重大突破，物理学家成功用实数重新表述了量子理论，消除了虚数的必要性。这一发现挑战了复数在量子理论中的核心地位，提出了等效的实数理论。文章回顾了从薛定谔方程到近期实验的历史背景，并探讨了这一转变的哲学意义。它提出了关于现实本质和物理学数学基础的深刻问题，表明复数虽非必需，但为描述量子现象提供了更优雅自然的框架。",
-    "best_quote_en": "Complex numbers are just two real numbers with some calculation rules. Why shouldn’t you be able to describe quantum mechanics just using real numbers?",
-    "best_quote_zh": "复数只是两个实数加上一些计算规则。为什么不能仅用实数来描述量子力学？"
-  },
-  {
     "id": 142,
     "title": "Mapping Bob Dylan’s mind",
     "title_zh": "解读鲍勃·迪伦的思维",
@@ -2338,5 +2220,125 @@
     "summary_zh": "文章指出，越来越多的年轻人选择戒酒或少喝酒，文章列出了全球最适合戒酒的十大城市。伦敦意外地排名第一，尽管以酒吧文化著称，但提供了丰富的无酒精活动。这些城市不仅适合戒酒者，也为所有游客提供了独特的文化体验。",
     "best_quote_en": "From historic tours and iconic landmarks like Westminster Abbey, the London Eye, the Tower Bridge, and more, London is basically a sightseer’s dream.",
     "best_quote_zh": "从历史之旅到著名地标如威斯敏斯特教堂、伦敦眼、塔桥等，伦敦基本上是观光客的梦想之地。"
+  },
+  {
+    "id": 237,
+    "title": "The art of museum dioramas",
+    "title_zh": "博物馆展示柜的艺术",
+    "source": "Aeon",
+    "link": "https://aeon.co/videos/theres-a-gentle-artistry-to-a-museum-taxidermists-craft?utm_source=rss-feed",
+    "tags": [
+      "analyze",
+      "science",
+      "education",
+      "deep-dive"
+    ],
+    "tags_zh": [
+      "分析",
+      "科学研究",
+      "教育学习",
+      "深度分析"
+    ],
+    "date": "2026-01-19",
+    "summary_en": "Tim Bovard, a taxidermist at the Natural History Museum of Los Angeles County, shares his journey of over five decades crafting museum dioramas. His childhood fascination with these displays has driven him to create what he calls the 'illusion of life,' blending scientific accuracy with imaginative storytelling. Bovard's work is more than just a technical skill; it's an art form that educates the public about the nonhuman animal world, a particularly poignant mission in today's era of dwindling wildlife encounters and rapid species loss. His reflections invite us to consider the deeper significance of these exhibits and their role in fostering empathy and understanding for the natural world.",
+    "summary_zh": "洛杉矶自然历史博物馆的标本制作师蒂姆·博瓦德分享了他在制作博物馆展示柜方面的五十多年经历。童年时对这些展示的迷恋驱使他创造出他所称的“生命幻象”，将科学精准与想象力的诠释结合在一起。博瓦德的工作不仅仅是一种技能，更是一种艺术形式，它向公众传授关于非人类动物世界的知识，这种任务在今天动物接触减少、物种消失加速的时代显得尤为重要。他的思考让我们思考这些展示的深层意义及其在培养对自然界的同理心和理解方面的作用。",
+    "best_quote_en": "The process requires both scientific precision and imaginative interpretation.",
+    "best_quote_zh": "这个过程需要科学的精确性和想象力的诠释。"
+  },
+  {
+    "id": 238,
+    "title": "Timeless Female Authors Who Wrote Under Male Pen Names",
+    "title_zh": "Timeless Female Authors Who Wrote Under Male Pen Names",
+    "source": "Mental Floss",
+    "link": "https://www.mentalfloss.com/literature/authors/female-authors-who-used-male-pen-names?utm_source=RSS",
+    "tags": [
+      "analyze",
+      "writing-content",
+      "society",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "分析",
+      "写作内容",
+      "社会议题",
+      "未来预测"
+    ],
+    "date": "2026-01-19",
+    "summary_en": "The article explores the strategic use of male pen names by female authors in the past, highlighting how societal biases and gender discrimination in literature led them to adopt pseudonyms. It delves into the lives of notable authors like Mary Ann Evans (George Eliot), Elizabeth Gaskell, the Brontë sisters, Louisa May Alcott, and George Sand. These women used male identities to gain respect, freedom, and an unbiased audience, leaving an indelible mark on literary history. The analysis underscores the enduring impact of their works and the courage it took to challenge societal norms.",
+    "summary_zh": "文章探讨了历史上女性作者使用男性笔名的策略，揭示了社会偏见和性别歧视如何迫使她们采用假名。深入介绍了玛丽·安·埃文斯（乔治·艾略特）、伊丽莎白·盖斯凯尔、勃朗特姐妹、路易莎·梅·奥尔科特和乔治·桑等著名作者的生活。她们利用男性身份获得尊重、自由和公平的读者，在文学史上留下了不可磨灭的印记。分析强调了她们作品的持久影响力以及挑战社会规范所需的勇气。",
+    "best_quote_en": "These literary beacons didn’t want to disappear; they wanted to be heard.",
+    "best_quote_zh": "这些文学灯塔不想消失；她们想要被听见。"
+  },
+  {
+    "id": 239,
+    "title": "Why I Transitioned: A Response",
+    "title_zh": "我为什么转变：一个回应",
+    "source": "LessWrong",
+    "link": "https://www.lesswrong.com/posts/rt2yai8JkTPYgzoEj/why-i-transitioned-a-response",
+    "tags": [
+      "solve",
+      "psychology",
+      "ai-research",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "解决",
+      "心理学",
+      "AI研究",
+      "数据驱动"
+    ],
+    "date": "2026-01-20",
+    "summary_en": "Marisa's response to Fiora Sunshine's post on transgender identity offers a nuanced perspective on the biological and social factors influencing transitions. She argues that while there is evidence for a biological basis, social pressures and the 'Trans Double Bind' significantly impact how trans individuals articulate their motivations. Marisa's personal journey highlights the complexity of gender dysphoria and the limitations of introspective clarity. She advocates for a Bayesian approach to transitioning, focusing on quality of life improvements rather than seeking definitive answers to the origins of gender identity.",
+    "summary_zh": "马丽莎对菲奥拉·桑尼舍的帖子作出回应，探讨了影响跨性别者转变的生物和社会因素。她认为，尽管存在生物基础的证据，但社会压力和“跨性别双重束缚”显著影响跨性别者表达其动机的方式。马丽莎的个人经历突显了性别焦虑的复杂性及内省清晰度的局限。她主张采用贝叶斯方法进行转变，关注生活质量的提升，而不是寻求性别认同起源的定论。",
+    "best_quote_en": "Transition is best understood as a Bayesian process where you take small behavioral steps and update on whether your quality of life is improving.",
+    "best_quote_zh": "转变最好被理解为一个贝叶斯过程，你通过小的行为步骤，更新是否提升了你的生活质量。"
+  },
+  {
+    "id": 240,
+    "title": "The Ice Curtain",
+    "title_zh": "冰幕",
+    "source": "The New Yorker",
+    "link": "https://www.newyorker.com/magazine/2026/01/19/the-ice-curtain",
+    "tags": [
+      "analyze",
+      "politics",
+      "education",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "分析",
+      "政治时事",
+      "教育学习",
+      "未来预测"
+    ],
+    "date": "2026-01-19",
+    "summary_en": "The Ice Curtain by Ian Frazier explores the complex geopolitical and cultural dynamics between Nome, Alaska, and neighboring Russia. Since Putin's invasion of Ukraine, the psychological and political distance between the two regions has widened, despite their geographical proximity. The article delves into the history of cross-border interactions, from the Friendship Flight of 1988 to the current tensions, highlighting the efforts of individuals like Jim Stimpfle who worked to bridge the gap. Frazier also discusses the environmental and economic challenges faced by Nome, including marine debris and toxic algal blooms, which underscore the need for international cooperation. The narrative is rich with personal anecdotes and historical context, providing a nuanced view of the region's past and present.",
+    "summary_zh": "伊恩·弗雷泽的《冰幕》探讨了诺姆，阿拉斯加与邻近俄罗斯之间复杂的地缘政治与文化动态。普京入侵乌克兰以来，两地之间的心理与政治距离变得更远，尽管地理上非常接近。文章深入探讨了跨越边境互动的历史，从1988年的“友谊飞行”到当前紧张局势，突出了吉姆·斯廷普夫等个人的努力，他们致力于弥合差距。弗雷泽还讨论了诺姆面临的环境与经济挑战，包括海洋垃圾和有毒藻华，这些都强调了国际合作的必要性。叙述充满了个人轶事和历史背景，提供了对该地区过去与现在的细致视角。",
+    "best_quote_en": "The Russia-U.S. border, which follows the International Date Line, is less than a hundred and fifty miles away.",
+    "best_quote_zh": "跟随国际日期变更线的俄罗斯-美国边境距离不到一百五十英里。"
+  },
+  {
+    "id": 241,
+    "title": "Baby Care",
+    "title_zh": "婴儿护理",
+    "source": "Kevin Kelly",
+    "link": "https://kk.org/cooltools/baby-care/",
+    "tags": [
+      "solve",
+      "ai-research",
+      "science",
+      "deep-dive"
+    ],
+    "tags_zh": [
+      "解决",
+      "AI研究",
+      "科学研究",
+      "深度分析"
+    ],
+    "date": "2026-01-19",
+    "summary_en": "The article 'Baby Care' offers practical insights into essential parenting skills, particularly focusing on solving infant sleep problems and choosing the right baby carriers. The author shares personal experiences with the Ferber method, which trains babies to sleep independently, leading to better rest for both children and parents. Additionally, the article reviews various baby carriers, highlighting their comfort, versatility, and weight distribution features. The piece also touches on a solution for bedwetting using a wireless wetness sensor. Overall, the content provides actionable advice and product recommendations that can significantly improve parental and infant well-being.",
+    "summary_zh": "《婴儿护理》一文分享了育儿技巧，特别是解决婴儿睡眠问题的方法。作者通过个人经历证明了费伯方法的有效性，帮助婴儿独立入睡，从而改善整个家庭的睡眠质量。此外，文章还推荐了多种婴儿背带，强调其舒适性和重量分布功能。最后，介绍了一种利用无线湿感传感器解决遗尿问题的方法。总的来说，文章提供了实用的建议和产品推荐，有助于提升父母和婴儿的生活质量。",
+    "best_quote_en": "It took exactly two nights to Ferberize our baby. She has learned to fall asleep on her own, and when she wakes up at night, she knows how to fall back asleep on her own.",
+    "best_quote_zh": "只用了两个晚上就成功让宝宝学会了费伯方法。她学会了自己入睡，夜里醒来也知道怎么重新入睡。"
   }
 ]
