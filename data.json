@@ -1,123 +1,5 @@
 [
   {
-    "id": 142,
-    "title": "Mapping Bob Dylan’s mind",
-    "title_zh": "解读鲍勃·迪伦的思维",
-    "source": "Aeon",
-    "link": "https://aeon.co/essays/can-ai-tell-us-anything-meaningful-about-bob-dylans-songs?utm_source=rss-feed",
-    "tags": [
-      "analyze",
-      "science",
-      "ai-research",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "分析",
-      "科学研究",
-      "AI研究",
-      "数据驱动"
-    ],
-    "date": "2025-11-07",
-    "summary_en": "This article explores the fascinating intersection of art and AI by analyzing Bob Dylan's lyrics through machine learning techniques. By treating Dylan's six-decade body of work as a dataset, the author uses large language models to map the evolution of themes, metaphors, and emotional tones across his career. The analysis reveals compelling patterns: Dylan's increasing use of metaphor over time, the shifting emotional landscapes of his songs, and how his personal and cultural experiences influenced his lyrics. The study demonstrates how AI can complement human interpretation by providing a macroscopic view of artistic evolution, identifying trends that might otherwise go unnoticed. It's a testament to how technology can enrich our understanding of creative works without diminishing their emotional resonance.",
-    "summary_zh": "这篇文章通过人工智能技术分析鲍勃·迪伦的歌词，展现了艺术与科技交融的独特视角。作者将迪伦六十年的作品视为数据集，用大型语言模型绘制其主题、比喻和情感演变的网络图谱。分析揭示了引人深思的模式：迪伦比喻使用的增加，歌曲情感基调的转变，以及个人经历与文化背景如何塑造他的歌词。这种方法证明了AI如何辅助人类理解艺术创作，通过宏观视角发现隐藏的趋势，丰富而非削弱艺术的情感共鸣。",
-    "best_quote_en": "'A complete unknown' is a fitting epithet for an unpredictable artist like Dylan.",
-    "best_quote_zh": "“完全陌生者”这一称号非常适合描述像迪伦这样的不可预测的艺术家。"
-  },
-  {
-    "id": 143,
-    "title": "Anthropic & Dario’s dream",
-    "title_zh": "人类学与达里奥的梦想",
-    "source": "LessWrong",
-    "link": "https://www.lesswrong.com/posts/axDdnzckDqSjmpitu/anthropic-and-dario-s-dream",
-    "tags": [
-      "solve",
-      "science",
-      "design",
-      "controversial"
-    ],
-    "tags_zh": [
-      "解决",
-      "科学研究",
-      "设计创意",
-      "争议观点"
-    ],
-    "date": "2025-11-08",
-    "summary_en": "The article critically examines Anthropic's approach to AI safety, arguing that their methods of gradual development, evaluations, and interpretability are insufficient for achieving safe superintelligence. The author contends that these methods only identify problems without providing solutions, and that the transition to a dangerous AI regime requires foolproof methods that work on the first try. The piece also discusses the dangerous counter-narrative Anthropic creates, which, while seemingly credible, could mislead policymakers and accelerate AI development without adequate safety measures. The author expresses concern that Anthropic's work might push problems under the rug rather than lead to a meaningful pause in AI development.",
-    "summary_zh": "文章批判性地分析了Anthropic的AI安全方法，认为其渐进发展、评估和可解释性等手段无法实现安全超级智能。作者指出这些方法只能识别问题而非解决问题，过渡到危险的AI时代需要一次性奏效的万无一失的方法。文章还讨论了Anthropic制造的危险反叙事，虽然看似可信，却可能误导政策制定者并加速AI发展。作者担忧Anthropic的工作可能掩盖问题而非推动AI发展暂停。",
-    "best_quote_en": "In reality, it will be very difficult to convince a very capable system that it is really in charge of running a mining operation where it has to make decisions that test its moral judgment.",
-    "best_quote_zh": "现实中，要说服一个非常有能力的系统它确实负责运行一个矿业运营，需要做出测试其道德判断的决定，这将非常困难。"
-  },
-  {
-    "id": 144,
-    "title": "Rebels Post Videos of Mass Killings in Darfur as the World Watches",
-    "title_zh": "叛军在达尔富尔发布大规模杀戮视频 世界袖手旁观",
-    "source": "The New Yorker",
-    "link": "https://www.newyorker.com/news/the-lede/the-fall-of-el-fasher",
-    "tags": [
-      "solve",
-      "politics",
-      "society",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "解决",
-      "政治时事",
-      "社会议题",
-      "数据驱动"
-    ],
-    "date": "2025-11-07",
-    "summary_en": "This harrowing report exposes the systematic atrocities committed by the Rapid Support Forces (RSF) in Sudan's Darfur region, particularly following their capture of El Fasher. The article reveals disturbing social media videos posted by RSF fighters, including executions of prisoners and mass killings. Satellite imagery analysis suggests tens of thousands may have been killed in just five days. The piece highlights the RSF's history of ethnic targeting, the international community's inadequate response, and the complicity of foreign powers like the UAE in arming the militia. The reporting underscores the urgent need for global intervention to prevent further genocide and holds Western powers accountable for their inaction.",
-    "summary_zh": "这篇令人心碎的报道揭露了苏丹达尔富尔地区快速支援部队（RSF）犯下的系统性暴行，尤其是在占领埃尔法谢尔后。文章展示了RSF战士发布的令人毛骨悚然的社交媒体视频，包括对俘虏的处决和大规模杀戮。卫星影像分析显示，五天内可能有数万人被杀害。报道强调了RSF对特定族群的针对性暴力，国际社会的无作为，以及阿联酋等外国势力向民兵提供武器的参与。报道凸显了全球干预的迫切性，以防止进一步的种族灭绝，并要求西方国家对其不作为负责。",
-    "best_quote_en": "The world has just stood there watching, not taking any concrete action.",
-    "best_quote_zh": "世界一直在旁边看着，却没有采取任何具体行动。"
-  },
-  {
-    "id": 145,
-    "title": "Better Travel Pillow/Set Jetting/Top Expat Countries",
-    "title_zh": "更好的旅行枕头/集锦旅行/亚洲最佳侨居国",
-    "source": "Kevin Kelly",
-    "link": "https://kk.org/cooltools/better-travel-pillow-set-jetting-top-expat-countries/",
-    "tags": [
-      "analyze",
-      "science",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "分析",
-      "科学研究",
-      "数据驱动"
-    ],
-    "date": "2025-11-06",
-    "summary_en": "This newsletter offers practical travel insights and trends, blending personal experience with data-driven research. The review of an inflatable travel pillow highlights its versatility and problem-solving design, addressing common discomfort issues during flights. The pre-packed toiletry kit strategy demonstrates efficient packing habits for frequent travelers. The data-backed travel trends section reveals emerging destinations and travel behaviors, like 'set jetting,' showing how pop culture influences travel choices. The expat survey results highlight Asia's growing appeal, particularly for convenience and community. The content balances personal anecdotes with broader industry trends, offering both actionable advice and thought-provoking observations about modern travel patterns.",
-    "summary_zh": "这封新闻稿结合了个人经验与数据研究，提供实用的旅行见解。对充气旅行枕头的评测突出了其多功能性和解决飞行不适的设计。预装 toiletry kit 的策略展示了频繁旅行者的高效打包习惯。基于数据的旅行趋势部分揭示了新兴目的地和旅行行为，如“集锦旅行”，展示了流行文化如何影响旅行选择。侨民调查结果凸显了亚洲日益增长的吸引力，尤其是便利性和社区。内容平衡了个人轶事与行业趋势，提供了实用建议和关于现代旅行模式的深刻观察。",
-    "best_quote_en": "'Convenience is a recurring theme, with expats across China raving about fast public transportation to efficient online shopping.'",
-    "best_quote_zh": "“便利是一个反复出现的主题，中国各地的侨民对快速公共交通和高效的在线购物赞不绝口。”"
-  },
-  {
-    "id": 146,
-    "title": "Are you Confusedocene?",
-    "title_zh": "我们生活在“混淆纪”吗？",
-    "source": "Aeon",
-    "link": "https://aeon.co/essays/declared-dead-last-year-the-anthropocene-is-very-much-alive?utm_source=rss-feed",
-    "tags": [
-      "learn",
-      "environment",
-      "society",
-      "controversial"
-    ],
-    "tags_zh": [
-      "学习",
-      "环境科学",
-      "社会议题",
-      "争议观点"
-    ],
-    "date": "2025-11-06",
-    "summary_en": "This insightful essay explores the rejection of the Anthropocene as an official geological epoch and the enduring relevance of the term despite this decision. It delves into the complex history of human impact on the planet, challenging simplistic notions of a single root cause for environmental crises. The author proposes viewing the Anthropocene as an ongoing event rather than a distinct epoch, allowing for a more nuanced understanding of our ecological predicament. The piece also critiques various alternative '-cene' terms and emphasizes the importance of considering multiple timescales and historical forces in addressing environmental challenges. It concludes with a forward-looking perspective, acknowledging the heavy legacy of past actions while emphasizing the potential for future transformation.",
-    "summary_zh": "本文深入探讨了人类纪未被正式确定为地质年代的原因及其持续的文化影响。作者提出将人类纪视为持续事件而非独立年代，以更全面理解人类对地球的影响。文章批评了各种替代性地质时代概念，强调需要同时考虑多个时间尺度和历史因素。最终，作者指出尽管历史包袱沉重，但未来仍有改变的可能，关键在于人类能否共同应对挑战。",
-    "best_quote_en": "The Anthropocene is a prism through which we can examine the multifaceted history of human activities on this planet, and the spectrum of our potential futures.",
-    "best_quote_zh": "人类纪是一面棱镜，让我们能够审视人类在全球活动的多面历史，以及我们潜在的未来前景。"
-  },
-  {
     "id": 147,
     "title": "The 10 Most Pest-Infested Cities in America, Ranked (#1-2 Might Surprise You)",
     "title_zh": "美国最严重的十大害虫城市排名（第1-2名可能让你大吃一惊）",
@@ -2340,5 +2222,123 @@
     "summary_zh": "《婴儿护理》一文分享了育儿技巧，特别是解决婴儿睡眠问题的方法。作者通过个人经历证明了费伯方法的有效性，帮助婴儿独立入睡，从而改善整个家庭的睡眠质量。此外，文章还推荐了多种婴儿背带，强调其舒适性和重量分布功能。最后，介绍了一种利用无线湿感传感器解决遗尿问题的方法。总的来说，文章提供了实用的建议和产品推荐，有助于提升父母和婴儿的生活质量。",
     "best_quote_en": "It took exactly two nights to Ferberize our baby. She has learned to fall asleep on her own, and when she wakes up at night, she knows how to fall back asleep on her own.",
     "best_quote_zh": "只用了两个晚上就成功让宝宝学会了费伯方法。她学会了自己入睡，夜里醒来也知道怎么重新入睡。"
+  },
+  {
+    "id": 242,
+    "title": "Two Twisty Shapes Resolve a Centuries-Old Topology Puzzle",
+    "title_zh": "两个扭曲的形状解决了一个世纪老的拓扑学难题",
+    "source": "Quanta Magazine",
+    "link": "https://www.quantamagazine.org/two-twisty-shapes-resolve-a-centuries-old-topology-puzzle-20260120/",
+    "tags": [
+      "solve",
+      "science",
+      "ai-research",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "解决",
+      "科学研究",
+      "AI研究",
+      "数据驱动"
+    ],
+    "date": "2026-01-20",
+    "summary_en": "The Bonnet problem, a centuries-old conundrum in topology, has finally been resolved by mathematicians who discovered a pair of compact, doughnut-like surfaces with identical local geometric information but vastly different global structures. This breakthrough challenges the conventional wisdom that local data can uniquely define a surface, highlighting the complexity and richness of geometric shapes. The discovery involved years of computational and theoretical work, bridging the gap between discrete and smooth surfaces. It underscores the importance of discrete geometry in solving problems that have long eluded mathematicians, offering new insights into the fundamental properties of shapes.",
+    "summary_zh": "数学家们终于解决了拓扑学中的邦内问题，发现了两个具有相同局部几何信息但全局结构完全不同的紧致环面。这一突破挑战了局部数据能唯一定义表面的传统观点，展示了几何形状的复杂性和丰富性。这一发现经历了多年的计算和理论研究，弥合了离散和光滑表面之间的差距。它强调了离散几何在解决长期困扰数学家的问题中的重要性，为形状的基本性质提供了新的见解。",
+    "best_quote_en": "It’s an example of something where our intuition wasn’t good enough.",
+    "best_quote_zh": "这是一个我们直觉不够的例子。"
+  },
+  {
+    "id": 243,
+    "title": "A light from the periphery",
+    "title_zh": "来自边缘的光芒",
+    "source": "Aeon",
+    "link": "https://aeon.co/essays/why-satyendra-nath-bose-was-more-than-einsteins-sidekick?utm_source=rss-feed",
+    "tags": [
+      "analyze",
+      "science",
+      "education",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "分析",
+      "科学研究",
+      "教育学习",
+      "数据驱动"
+    ],
+    "date": "2026-01-20",
+    "summary_en": "The essay recounts the story of Satyendra Nath Bose, an Indian physicist who, in 1924, sent a groundbreaking paper to Albert Einstein. Bose's work, which would become foundational to quantum mechanics, was developed in colonial India, far from the European scientific hubs. Einstein's enthusiastic support helped publish Bose's findings, leading to the development of Bose-Einstein statistics and later, Bose-Einstein condensates. The essay challenges the narrative of Bose as a lucky outsider, instead portraying him as a polymath who navigated colonial challenges to make significant scientific contributions. Bose's story highlights the potential for creativity and intellectual rigor in marginalized settings, offering a powerful rebuttal to the notion that scientific progress flows only from dominant centers to passive peripheries.",
+    "summary_zh": "文章讲述了印度物理学家萨蒂延德拉·纳特·玻色的故事，他于1924年向爱因斯坦寄去了一篇开创性论文。玻色的工作后来成为量子力学的基础，尽管他当时在殖民地印度，远离欧洲的科学中心。爱因斯坦的支持帮助玻色发表了他的发现，导致了玻色-爱因斯坦统计和后来的玻色-爱因斯坦凝聚态的发展。文章挑战了玻色作为幸运局外人的叙述，而是将他描绘为一位全才，他克服了殖民地的挑战，做出了重要的科学贡献。玻色的故事展示了在边缘化环境中创造力和智力严谨的潜力，为科学进步仅从主导中心流向被动边缘的观念提供了强有力的反驳。",
+    "best_quote_en": "Bose’s success was a triumph of intellect and determination over circumstance, a testament to creativity flourishing in an out-of-the-way locale through sheer force of will.",
+    "best_quote_zh": "玻色的成功是智力和决心战胜环境的胜利，是证明创造力在偏远地区通过纯粹的意志力茁壮成长的见证。"
+  },
+  {
+    "id": 244,
+    "title": "5 Cold-Weather Clothing Hacks You Can’t Afford to Ignore This Winter",
+    "title_zh": "5个你不能忽视的冬季保暖服装技巧",
+    "source": "Mental Floss",
+    "link": "https://www.mentalfloss.com/live-smarter/hacks-tips/cold-weather-clothing-hacks-winter?utm_source=RSS",
+    "tags": [
+      "learn",
+      "lifestyle",
+      "controversial"
+    ],
+    "tags_zh": [
+      "学习",
+      "生活方式",
+      "争议观点"
+    ],
+    "date": "2026-01-20",
+    "summary_en": "This article offers practical insights into staying warm during winter by rethinking conventional clothing strategies. It emphasizes the importance of layering intelligently, choosing the right fabrics, and protecting extremities. The author argues that dressing for winter should prioritize logic and functionality over style. Key takeaways include the three-layer system (base, middle, outer) and the significance of moisture-wicking materials. The article also highlights the need to adjust clothing based on activity levels and weather conditions, making it a valuable guide for anyone looking to improve their cold-weather preparedness.",
+    "summary_zh": "这篇文章提供了实用的冬季保暖服装技巧，强调通过重新思考传统的穿衣策略来保持温暖。它指出层次化穿衣、选择合适的面料和保护身体的重要性。作者认为冬季穿衣应以逻辑和功能为主，而不是时尚。关键要点包括三层系统（底层、中层、外层）和透气排湿材料的重要性。文章还强调根据活动强度和天气条件调整服装，这使其成为任何人提升冬季保暖准备的有价值指南。",
+    "best_quote_en": "Dressing for the cold is less about an abundance of layers and more about the content of those layers.",
+    "best_quote_zh": "穿衣保暖不在于层数的多少，而在于每一层的质量。"
+  },
+  {
+    "id": 245,
+    "title": "Kredit Grant",
+    "title_zh": "Kredit 奖学金",
+    "source": "LessWrong",
+    "link": "https://www.lesswrong.com/posts/FsqFzFCaxuBS7T5A9/kredit-grant",
+    "tags": [
+      "inspire",
+      "ai-research",
+      "startup-funding",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "启发",
+      "AI研究",
+      "创业融资",
+      "未来预测"
+    ],
+    "date": "2026-01-21",
+    "summary_en": "The article 'Kredit Grant' offers a unique opportunity for individuals interested in AI to receive funding. The author, kiankyars, is giving away $5,710 in OpenAI/Anthropic credits, aiming to support innovative projects or research. This act of generosity highlights the importance of community support and the potential for small grants to make a significant impact. The simplicity of the application process and the openness to questions reflect a user-friendly approach, encouraging broader participation. This initiative not only provides financial assistance but also fosters a collaborative environment within the AI community.",
+    "summary_zh": "Kredit 奖学金文章为有兴趣的人提供了独特的资金机会。作者 kiankyars 正在赠送 $5,710 的 OpenAI/Anthropic 信用额度，旨在支持创新项目或研究。这种慷慨行为凸显了社区支持的重要性，以及小额奖学金对产生重大影响的潜力。申请流程的简便性和对问题的开放态度反映了用户友好的方式，鼓励更广泛的参与。此举不仅提供了财务支持，还在 AI 社区中营造了合作氛围。",
+    "best_quote_en": "I have $5,710 in OpenAI/Anthropic credits which I am giving away, please apply here if interested.",
+    "best_quote_zh": "我有 $5,710 的 OpenAI/Anthropic 信用额度，如果有兴趣请申请。"
+  },
+  {
+    "id": 246,
+    "title": "How Europe Can Respond to Trump’s Greenland Imperalism",
+    "title_zh": "欧洲如何应对特朗普的格陵兰帝国主义",
+    "source": "The New Yorker",
+    "link": "https://www.newyorker.com/news/q-and-a/how-europe-can-respond-to-trumps-greenland-imperalism",
+    "tags": [
+      "solve",
+      "politics",
+      "ai-research",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "解决",
+      "政治时事",
+      "AI研究",
+      "数据驱动"
+    ],
+    "date": "2026-01-20",
+    "summary_en": "Isaac Chotiner interviews Ivan Krastev on the transatlantic fallout from Trump's Greenland fixation. Europe faces a dilemma: stand up to Trump's bullying or risk losing American military support, especially amidst the Ukraine crisis. Krastev argues that Europe must show resolve, using tools like the Anti-Coercion Instrument, to avoid appearing weak. He notes that Trump's actions have united Europeans, even those on the far-right, against his plans. The interview also touches on the potential long-term impacts on NATO and China's rising influence. Ultimately, Krastev believes Europe will seek a strategic balance, resisting Trump's demands while maintaining the transatlantic alliance.",
+    "summary_zh": "艾萨克·乔蒂纳采访伊万·克拉斯泰夫，探讨特朗普对格陵兰的执着如何导致跨大西洋关系紧张。欧洲面临两难选择：抵制特朗普的霸凌行为，还是冒着失去美国军事支持的风险。克拉斯泰夫认为，欧洲必须展示决心，使用反强迫工具等手段，以免显得软弱。他指出，特朗普的行为甚至让欧洲右翼团结起来反对他的计划。访谈还涉及对北约和中国日益增强影响力的潜在长期影响。最终，克拉斯泰夫认为，欧洲将寻求战略平衡，抵制特朗普的要求，同时维持跨大西洋联盟。",
+    "best_quote_en": "Europe is not unaware of its own weaknesses, but this really became too much.",
+    "best_quote_zh": "欧洲并不否认自己的弱点，但这真的太过分了。"
   }
 ]
