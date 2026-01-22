@@ -1,123 +1,5 @@
 [
   {
-    "id": 147,
-    "title": "The 10 Most Pest-Infested Cities in America, Ranked (#1-2 Might Surprise You)",
-    "title_zh": "美国最严重的十大害虫城市排名（第1-2名可能让你大吃一惊）",
-    "source": "Mental Floss",
-    "link": "https://www.mentalfloss.com/geography/most-pest-infested-cities-america-ranked?utm_source=RSS",
-    "tags": [
-      "analyze",
-      "science",
-      "lifestyle",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "分析",
-      "科学研究",
-      "生活方式",
-      "数据驱动"
-    ],
-    "date": "2025-11-08",
-    "summary_en": "This ranking of America's most pest-infested cities reveals surprising insights about urban pest management challenges. The data-driven approach using 2021 U.S. Census figures highlights how population density correlates with pest prevalence, with Atlanta topping the list at 165.9 pests per 100,000 residents. The analysis challenges common perceptions, showing that cities like New York, while having high absolute pest numbers, rank lower when adjusted for population. The report underscores the growing public health concern of pest infestations and raises questions about urban planning and sanitation infrastructure. The inclusion of cities like Riverside and Miami challenges regional stereotypes about pest problems. This content serves as both an informative resource and a conversation starter about urban living challenges.",
-    "summary_zh": "这份美国最严重害虫城市排名揭示了城市害虫管理面临的惊人挑战。基于2021年美国人口普查数据，该报告展示了人口密度与害虫普遍程度之间的相关性。亚特兰大以每10万人165.9只害虫的比例位居榜首。数据挑战了公众对纽约等城市的常见认知，尽管这些城市的害虫总数高，但按人口比例计算则排名较低。该报告凸显了害虫入侵日益严重的公共卫生问题，并引发了人们对城市规划和卫生基础设施的思考。里弗赛德和迈阿密等城市的出现，打破了人们对不同地区害虫问题的固有印象。",
-    "best_quote_en": "There are some rankings you don’t want to be at the top of. The list of most pest-infested cities is one of them.",
-    "best_quote_zh": "有些排名你不想位列榜首，最严重害虫城市的名单就是其中之一。"
-  },
-  {
-    "id": 148,
-    "title": "The Human Toll of the Suspension of SNAP",
-    "title_zh": "SNAP暂停的代价",
-    "source": "The New Yorker",
-    "link": "https://www.newyorker.com/news/the-lede/the-human-toll-of-the-suspension-of-snap",
-    "tags": [
-      "analyze",
-      "politics",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "分析",
-      "政治时事",
-      "数据驱动"
-    ],
-    "date": "2025-11-08",
-    "summary_en": "This article highlights the human impact of the SNAP benefit suspension during the government shutdown, focusing on Angel Goodwin's story. It reveals how even working individuals struggle with food insecurity, the systemic failures in social safety nets, and the innovative coping mechanisms people develop. The piece critiques political inaction while showing the resilience of those affected, offering a poignant look at America's hidden poverty crisis. Goodwin's journey from homelessness to stability is particularly compelling, demonstrating both personal perseverance and the fragility of progress when facing systemic barriers.",
-    "summary_zh": "这篇文章描述了政府停摆期间SNAP福利暂停对普通民众的影响，通过安吉尔·古德温的故事展现了即使有工作的人也可能面临食品安全问题。文章描述了社会安全网的系统性失败以及人们发展出的应对策略。这篇文章批评了政治上的不作为，同时也展示了受影响者的韧性，提供了一个关于美国隐藏贫困危机的生动视角。古德温从无家可归到稳定生活的经历特别引人深思，展示了个人毅力和面对系统性障碍时的脆弱性。",
-    "best_quote_en": "Little do they know I’m in the same boat",
-    "best_quote_zh": "他们不知道我和他们一样"
-  },
-  {
-    "id": 149,
-    "title": "PG and Jessica",
-    "title_zh": "PG和Jessica",
-    "source": "Sam Altman",
-    "link": "https://blog.samaltman.com/pg-and-jessica",
-    "tags": [
-      "solve",
-      "startup-strategy",
-      "startup-funding",
-      "deep-dive"
-    ],
-    "tags_zh": [
-      "解决",
-      "创业策略",
-      "创业融资",
-      "深度分析"
-    ],
-    "date": "2020-09-25",
-    "summary_en": "This article explores the unique success factors behind Y Combinator (YC), attributing its phenomenal impact primarily to the foundational work of Paul Graham (PG) and Jessica Livingston. The authors highlight that while many have attempted to replicate YC's model, few have succeeded because they misunderstand the core ingredients: unwavering belief in founders, strong cultural norms, and long-term ecosystem building. The piece emphasizes how PG and Jessica's personal investment in founders, their willingness to challenge norms, and their focus on community created a self-sustaining network that continues to benefit countless entrepreneurs. The article serves as both a tribute to their impact and a cautionary tale about the difficulty of replicating such transformative work. It challenges readers to consider what truly makes organizations successful beyond surface-level strategies.",
-    "summary_zh": "这篇文章探讨了Y Combinator成功背后的关键因素，认为其影响力主要源于Paul Graham（PG）和Jessica Livingston的奠基工作。作者指出，尽管许多人试图复制YC模式，但鲜有成功者，因为他们忽略了核心要素：对创始人的坚定信任、强大的文化规范和长期生态构建。文章强调PG和Jessica通过个人投入、挑战常规和重视社区，创造了一个自我持续的网络，持续造福无数创业者。本文既是对他们的致敬，也是对复制这种变革性工作难度的警示，挑战读者思考组织成功背后的真正动力。",
-    "best_quote_en": "The entire secret to YC getting going was PG and Jessica—there was no other magic trick.",
-    "best_quote_zh": "YC能够起步的全部秘诀就是PG和Jessica——这中间没有其他魔法。"
-  },
-  {
-    "id": 150,
-    "title": "Essentials: Erasing Fears & Traumas Using Modern Neuroscience",
-    "title_zh": "Essentials: 使用现代神经科学消除恐惧与创伤",
-    "source": "Huberman Lab",
-    "link": "https://www.hubermanlab.com/episode/essentials-erasing-fears-traumas-using-modern-neuroscience",
-    "tags": [
-      "solve",
-      "psychology",
-      "medicine",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "解决",
-      "心理学",
-      "医学健康",
-      "数据驱动"
-    ],
-    "date": "2025-11-06",
-    "summary_en": "This Huberman Lab Essentials episode delves into the neuroscience of fear and trauma, offering actionable insights on how to process and eliminate traumatic responses. The discussion emphasizes the importance of both extinguishing old fearful reactions and replacing them with positive associations, rather than relying solely on cognitive reframing. Dr. Huberman explains the neural circuits involved, including the amygdala, prefrontal cortex, and dopamine systems, and how detailed recounting of traumatic events can reduce their physiological impact. The episode covers evidence-based therapies like prolonged exposure therapy and cognitive behavioral therapy, as well as unconventional methods such as cyclic hyperventilation to rewire fear responses. The critical role of social connection in trauma recovery is highlighted, along with supplementation options for managing anxiety. This episode is a valuable resource for anyone seeking to understand and overcome fear and trauma through a scientific lens.",
-    "summary_zh": "本期Huberman Lab Essentials深入探讨了恐惧与创伤的神经科学机制，提供了处理和消除创伤反应的可行策略。内容强调了需要同时消除旧的恐惧反应并建立新的积极联想，而不仅仅是认知重构。Huberman博士解释了恐惧反应涉及的神经回路，包括杏仁核、前额叶皮层和多巴胺系统，并指出详细回忆创伤事件可以减少其生理影响。节目涵盖了延长暴露疗法、认知行为疗法等证据基础疗法，以及通过循环性过度呼吸等非传统方法重塑恐惧反应。强调了社会连接在创伤恢复中的关键作用，并提供了管理焦虑的补充剂选项。这一期对于希望通过科学视角理解和克服恐惧与创伤的人们非常有价值。",
-    "best_quote_en": "Successful fear treatment requires both extinction of the old fearful response and replacement with a new positive association—not just cognitive reframing.",
-    "best_quote_zh": "成功的恐惧治疗需要同时消除旧的恐惧反应并建立新的积极联想，而不仅仅是认知重构。"
-  },
-  {
-    "id": 151,
-    "title": "What Is a Manifold?",
-    "title_zh": "什么是流形？",
-    "source": "Quanta Magazine",
-    "link": "https://www.quantamagazine.org/what-is-a-manifold-20251103/",
-    "tags": [
-      "learn",
-      "science",
-      "education",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "学习",
-      "科学研究",
-      "教育学习",
-      "数据驱动"
-    ],
-    "date": "2025-11-03",
-    "summary_en": "This article provides a comprehensive introduction to the mathematical concept of manifolds, tracing their origins to Bernhard Riemann's revolutionary ideas in the 19th century. Manifolds are spaces that appear Euclidean locally but may have complex global structures, serving as fundamental tools in modern mathematics, physics, and data analysis. The article explains how manifolds enable mathematicians to study higher-dimensional spaces and solve problems by breaking them into manageable pieces. Their applications range from Einstein's theory of general relativity to analyzing complex dynamical systems and high-dimensional data sets. The piece emphasizes the universality of manifolds in scientific research, comparing their importance to that of numbers in mathematics.",
-    "summary_zh": "本文深入浅出地介绍了流形的数学概念，追溯了伯恩哈德·黎曼在19世纪提出的革命性思想。流形是看似欧几里得局部但可能具有复杂全局结构的空间，是现代数学、物理学和数据分析的基础工具。文章解释了流形如何帮助数学家研究高维空间并通过将问题分解为可管理的部分来解决问题。它们的应用范围从爱因斯坦的广义相对论到分析复杂的动力系统和高维数据集。该文章强调了流形在科学研究中的普遍性，将其重要性比作数学中的数字。",
-    "best_quote_en": "If I know Cyrillic, do I know Russian? No. But try to learn Russian without learning Cyrillic.",
-    "best_quote_zh": "如果我知道西里尔字母，我就懂俄语吗？不。但试试不学西里尔字母就学俄语。"
-  },
-  {
     "id": 152,
     "title": "The 10 Most Financially Smart U.S. States (And the 10 Least)",
     "title_zh": "美国最聪明和最不聪明的10个州在财务方面",
@@ -2340,5 +2222,121 @@
     "summary_zh": "艾萨克·乔蒂纳采访伊万·克拉斯泰夫，探讨特朗普对格陵兰的执着如何导致跨大西洋关系紧张。欧洲面临两难选择：抵制特朗普的霸凌行为，还是冒着失去美国军事支持的风险。克拉斯泰夫认为，欧洲必须展示决心，使用反强迫工具等手段，以免显得软弱。他指出，特朗普的行为甚至让欧洲右翼团结起来反对他的计划。访谈还涉及对北约和中国日益增强影响力的潜在长期影响。最终，克拉斯泰夫认为，欧洲将寻求战略平衡，抵制特朗普的要求，同时维持跨大西洋联盟。",
     "best_quote_en": "Europe is not unaware of its own weaknesses, but this really became too much.",
     "best_quote_zh": "欧洲并不否认自己的弱点，但这真的太过分了。"
+  },
+  {
+    "id": 247,
+    "title": "How Animals Build a Sense of Direction",
+    "title_zh": "动物如何构建方向感",
+    "source": "Quanta Magazine",
+    "link": "https://www.quantamagazine.org/how-animals-build-a-sense-of-direction-20260121/",
+    "tags": [
+      "analyze",
+      "science",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "分析",
+      "科学研究",
+      "数据驱动"
+    ],
+    "date": "2026-01-21",
+    "summary_en": "The study of how animals navigate their environments has long fascinated neuroscientists, leading to significant discoveries such as place cells and grid cells, which won Nobel Prizes. Recent research on Egyptian fruit bats on a remote island in the Indian Ocean reveals that these animals use a network of brain cells, known as head direction cells, to create an internal compass. This compass is not based on magnetic fields or stars but relies on landmarks to form a mental map. The findings confirm decades of lab work and support the global compass hypothesis, suggesting that these cells remain faithful to their assigned directions in large, natural environments. This research underscores the importance of studying neurobiological theories in real-world conditions and hints at potential insights into human navigation.",
+    "summary_zh": "动物如何在环境中导航一直是神经科学家们的研究热点，带来了“位置细胞”和“网格细胞”等重要发现，并因此获得诺贝尔奖。近期对埃及果蝠的研究发现，这些动物使用一组被称为“头部方向细胞”的脑细胞来构建内部指南针，依靠地标形成心理地图。这项研究证实了多年来的实验室研究成果，支持全局指南针假说，表明这些细胞在大型自然环境中保持对其指定方向的忠诚。该研究强调了在真实世界条件下研究神经生物学理论的重要性，并为人类导航提供了潜在的见解。",
+    "best_quote_en": "Now we’re understanding a basic principle about how the mammalian brain works under natural, real-world conditions.",
+    "best_quote_zh": "现在我们开始理解哺乳动物大脑在自然真实条件下的基本原理。"
+  },
+  {
+    "id": 248,
+    "title": "The immortality paradox",
+    "title_zh": "永生的悖论",
+    "source": "Aeon",
+    "link": "https://aeon.co/videos/would-immortality-offer-a-curse-of-boredom-or-endless-novelty?utm_source=rss-feed",
+    "tags": [
+      "inspire",
+      "education",
+      "controversial"
+    ],
+    "tags_zh": [
+      "启发",
+      "教育学习",
+      "争议观点"
+    ],
+    "date": "2026-01-21",
+    "summary_en": "The article explores the philosophical conundrum of immortality, questioning whether an eternal existence would truly be desirable. While most people strive to live long, healthy lives, the prospect of outliving loved ones and experiencing diminishing returns on satisfaction paints a less appealing picture. The TED-Ed animation, created with Sarah Stroud, surveys various philosophical viewpoints, notably that of Bernard Williams, to unpack what immortality reveals about our mortal lives. This thought-provoking piece invites readers to reflect on the value and limitations of human existence, offering a nuanced perspective on the age-old question of life and death.",
+    "summary_zh": "文章探讨了永生的哲学难题，质疑永恒存在是否真正可取。虽然大多数人努力延长健康的生命，但超越亲人寿命及满足感递减的前景显得不那么吸引人。与Sarah Stroud合作创作的TED-Ed动画，调查了各种哲学观点，特别是伯纳德·威廉姆斯的观点，以揭示永生对我们现有的有限生命的启示。这篇发人深省的文章邀请读者思考人类存在的价值与局限，为生命与死亡的古老问题提供了深刻的视角。",
+    "best_quote_en": "Does that also suggest that an immortal existence – or something like it – would be preferable?",
+    "best_quote_zh": "这也暗示永生的存在——或类似的存在——会更可取吗？"
+  },
+  {
+    "id": 249,
+    "title": "The Psychology Behind Doomscrolling—And How to Avoid It",
+    "title_zh": "滚动浏览不良新闻背后的心理学及其克服方法",
+    "source": "Mental Floss",
+    "link": "https://www.mentalfloss.com/science/psychology/psychology-behind-doomscrolling-and-how-to-avoid-it?utm_source=RSS",
+    "tags": [
+      "solve",
+      "psychology",
+      "lifestyle",
+      "deep-dive"
+    ],
+    "tags_zh": [
+      "解决",
+      "心理学",
+      "生活方式",
+      "深度分析"
+    ],
+    "date": "2026-01-21",
+    "summary_en": "Doomscrolling, the habit of endlessly consuming negative news, is a modern phenomenon exacerbated by constant smartphone access. This behavior is driven by our brain's negativity bias, a survival mechanism that keeps us alert to potential threats. In today's world of nonstop news feeds and algorithms designed to keep us engaged, doomscrolling can lead to increased anxiety, stress, and even physical health issues. However, by implementing intentional changes like scheduling scroll times, curating our feeds, and reducing digital temptations, we can regain control over our news consumption and mitigate its harmful effects.",
+    "summary_zh": "滚动浏览不良新闻，即滚动浏览不良新闻的习惯，是一种由智能手机访问不断增多引发的现代现象。这种行为是由大脑的负面偏见驱动的，这是一种保护机制，使我们对潜在威胁保持警惕。在今天的无尽新闻流和设计用来吸引我们注意力的算法世界中，滚动浏览不良新闻可能会导致焦虑、压力和身体健康问题增加。然而，通过实施计划浏览时间、策划我们的内容流和减少数字诱惑等有意识的变化，我们可以重新掌控我们的新闻消费，并缓解其有害影响。",
+    "best_quote_en": "A steady diet of negative news can quietly take a toll—and yet, many of us can’t look away.",
+    "best_quote_zh": "持续消费负面新闻会悄然影响我们，但许多人却无法移开视线。"
+  },
+  {
+    "id": 250,
+    "title": "Dedicated continuous supervision of AI companies",
+    "title_zh": "专门持续监督AI公司",
+    "source": "LessWrong",
+    "link": "https://www.lesswrong.com/posts/Rhe7F2z5iMgCPCsax/dedicated-continuous-supervision-of-ai-companies-1",
+    "tags": [
+      "analyze",
+      "ai-research",
+      "science",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "分析",
+      "AI研究",
+      "科学研究",
+      "未来预测"
+    ],
+    "date": "2026-01-22",
+    "summary_en": "Michael Bennett's essay advocates for a regulatory approach called 'dedicated continuous supervision' for AI companies, drawing parallels with nuclear and financial industries. This method involves extensive information access, continuous monitoring, and deep, personalized attention to individual entities. Bennett argues that AI's complexity, rapid development, and high-stakes risks justify this intensive oversight. He explores potential challenges like regulatory capture and evasion, suggesting measures from other sectors to mitigate these issues. The essay emphasizes the need for a flexible, information-driven regulatory system to manage AI's unique risks effectively.",
+    "summary_zh": "迈克尔·本内特的文章提倡对AI公司采用“专门持续监督”的监管方式，借鉴核能和金融行业的经验。这种方法涉及广泛的信息获取权限、持续监控和对个别实体的深度、个性化关注。本内特认为，AI的复杂性、快速发展和高风险使得这种强化监管成为必要。他探讨了潜在的挑战，如监管俘获和逃避，并提出了其他行业的措施来缓解这些问题。文章强调需要灵活、以信息为驱动的监管体系来有效管理AI独特的风险。",
+    "best_quote_en": "High stakes, fast-moving, complex industries can't be monitored and regulated by periodic inspections and standardised reports alone",
+    "best_quote_zh": "高风险、快速变化、复杂的行业无法仅通过定期检查和标准化报告进行监控和监管"
+  },
+  {
+    "id": 251,
+    "title": "The Battle for One of the Richest and Smallest Counties in Texas",
+    "title_zh": "争夺得克萨斯州最富裕最小县的战斗",
+    "source": "The New Yorker",
+    "link": "https://www.newyorker.com/news/letter-from-the-southwest/the-battle-for-one-of-the-richest-and-smallest-counties-in-texas",
+    "tags": [
+      "analyze",
+      "politics",
+      "society",
+      "controversial"
+    ],
+    "tags_zh": [
+      "分析",
+      "政治时事",
+      "社会议题",
+      "争议观点"
+    ],
+    "date": "2026-01-21",
+    "summary_en": "Rachel Monroe's piece on Loving County, Texas, offers a captivating glimpse into the intense, long-standing power struggles within one of America's least populated and wealthiest counties. The county's sparse population and vast oil wealth make its political control a coveted prize, leading to decades of feuding among a few influential families. The recent influx of followers of a hustle-culture influencer, Malcolm Tanner, adds a new layer of complexity to the ongoing battles. This situation highlights the enduring appeal of power and the lengths to which people will go to secure it, even in the most isolated and unforgiving landscapes. The article also sheds light on the psychological dynamics of abuse and the cyclical nature of family power struggles, making it a compelling study of human behavior and political intrigue.",
+    "summary_zh": "莱切尔·蒙罗的文章揭示了德克萨斯州洛宾县内部激烈的权力斗争。这个美国人口最少但最富裕的县，其政治控制权成为几个有影响力的家庭争夺的目标，导致了长达数十年的争斗。近期，一位名叫马尔科姆·坦纳的励志文化领袖的追随者涌入，为这场斗争增添了新的变数。文章揭示了权力的持久吸引力及人们为争夺它所采取的极端手段，即使是在最偏僻和艰难的环境中。",
+    "best_quote_en": "There’s not anything else to occupy people.",
+    "best_quote_zh": "这里没有其他事可做来打发时间。"
   }
 ]
