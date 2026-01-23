@@ -1,123 +1,5 @@
 [
   {
-    "id": 152,
-    "title": "The 10 Most Financially Smart U.S. States (And the 10 Least)",
-    "title_zh": "美国最聪明和最不聪明的10个州在财务方面",
-    "source": "Mental Floss",
-    "link": "https://www.mentalfloss.com/geography/states/most-least-financially-smart-states-america?utm_source=RSS",
-    "tags": [
-      "solve",
-      "personal-finance",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "解决",
-      "个人理财",
-      "数据驱动"
-    ],
-    "date": "2025-11-09",
-    "summary_en": "This study by Dancing Numbers offers a fascinating look at financial behavior across U.S. states, revealing stark contrasts between financial prudence and challenges. Vermont's top ranking highlights how low debt and strong credit scores correlate with financial smartness, while Florida's struggles underscore the burden of high debt on financial health. The data-driven approach reveals that financial behavior often matters more than literacy, with retirement savings participation emerging as a key differentiator. The analysis prompts reflection on regional financial cultures and systemic barriers to financial security, offering valuable insights for both policymakers and individuals seeking to improve their financial well-being.",
-    "summary_zh": "该研究揭示了美国各州在财务管理上的显著差异，弗蒙特州的低债务和高信用评分凸显了财务智慧的关键因素，而佛罗里达州的困境则说明了高负债对财务健康的负面影响。数据显示，真正的财务行为比财务知识更重要，退休储蓄的参与率成为重要指标。这一分析引发对地区财务文化和系统性障碍的思考，为政策制定者和个人提供了改善财务状况的宝贵见解。",
-    "best_quote_en": "\"Financial discipline can thrive independently when individuals develop strong saving and spending habits on their own.\"",
-    "best_quote_zh": "“当个人独立发展良好的储蓄和消费习惯时，财务纪律就能独立繁荣。”"
-  },
-  {
-    "id": 153,
-    "title": "Book Announcement: The Gentle Romance",
-    "title_zh": "新书发布：温柔浪漫",
-    "source": "LessWrong",
-    "link": "https://www.lesswrong.com/posts/nmvygxFKfveK9wJ8j/book-announcement-the-gentle-romance",
-    "tags": [
-      "update",
-      "ai-research",
-      "lifestyle",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "动态",
-      "AI研究",
-      "生活方式",
-      "未来预测"
-    ],
-    "date": "2025-11-10",
-    "summary_en": "This announcement reveals an intriguing fiction collection that explores the intersection of AI and humanity through 22 stories, with three new additions that delve into identity preservation amid technological upheaval. The author's reflection on the future of storytelling—questioning whether static text remains the optimal format—adds depth to the announcement. The collection's themes of reputation, simulated utopias, and existential tech challenges suggest a thought-provoking exploration of our digital age. The author's gratitude to collaborators and readers adds a personal touch, making this more than just a book launch but a cultural conversation starter.",
-    "summary_zh": "这则宣布揭示了一个探索AI与人性交织的文学合集，22个故事中有三个全新创作，聚焦技术变革下的身份保持。作者对叙事形式未来的思考增添了深度，合集的声誉交易、模拟乌托邦等主题暗示着对数字时代的深刻探讨。对合作者与读者的感谢让这不仅是新书发布，更是文化对话的开启。",
-    "best_quote_en": "The thread that connects them is the struggle to hold onto our identities in the face of radical technological change—the same thread that winds through many of our own lives.",
-    "best_quote_zh": "贯穿这些故事的主线，是我们在面对激进技术变革时保持自我身份的挣扎——这同样是许多我们自己的生活中纠缠的主线。"
-  },
-  {
-    "id": 154,
-    "title": "Hannah Goldfield on Anthony Bourdain’s “Don’t Eat Before Reading This”",
-    "title_zh": "汉娜·戈德菲尔德评安东尼·伯尔丹的《别吃饭前先读这个》",
-    "source": "The New Yorker",
-    "link": "https://www.newyorker.com/magazine/takes/hannah-goldfield-on-anthony-bourdains-dont-eat-before-reading-this",
-    "tags": [
-      "inspire",
-      "writing-content",
-      "ai-research",
-      "case-study"
-    ],
-    "tags_zh": [
-      "启发",
-      "写作内容",
-      "AI研究",
-      "案例研究"
-    ],
-    "date": "2025-11-09",
-    "summary_en": "Hannah Goldfield's essay provides a nuanced reflection on Anthony Bourdain's groundbreaking work 'Kitchen Confidential' and its origins in the 1999 New Yorker piece 'Don't Eat Before Reading This'. She explores how Bourdain's unfiltered perspective on the restaurant industry revealed both its gritty realities and poetic beauty. The analysis highlights Bourdain's literary ambitions, his distinctive voice, and his ability to transform taboo subjects into compelling narratives. Goldfield emphasizes how Bourdain's work transcended mere exposés to become a cultural phenomenon, influencing food culture and media while maintaining its literary integrity. The piece also reflects on Bourdain's lasting legacy as someone who could portray complex realities without making them seem ugly.",
-    "summary_zh": "汉娜·戈德菲尔德从安东尼·伯尔丹的《别吃饭前先读这个》聊起，深入探讨了这位美食作家如何用不加修饰的笔触揭示餐饮业的真实面貌。文章揭示伯尔丹不仅是揭露行业黑幕的吹哨人，更是一位充满文学抱负的作家，其独特的文风将血腥与诗意完美结合。作者反思伯尔丹如何通过文字展现复杂事物的本质而不显得丑陋，其影响远超美食界，成为文化现象。伯尔丹的传奇人生和文学遗产，至今仍激励着我们以更真实的视角看待世界。",
-    "best_quote_en": "Good food, good eating, is all about blood and organs, cruelty and decay. It’s about sodium-loaded pork fat, stinky triple-cream cheeses, the tender thymus glands and distended livers of young animals. It’s about danger—risking the dark, bacterial forces of beef, chicken, cheese, and shellfish.",
-    "best_quote_zh": "美食和享受美食，本质上就是关于血肉和器官、残忍与腐烂。关于高钠猪油、臭气熏天的三重奶酪、幼年动物的嫩胸腺和膨胀的肝脏。关于危险——冒险面对牛肉、鸡肉、奶酪和贝类中那些黑暗的细菌力量。"
-  },
-  {
-    "id": 155,
-    "title": "Other minds / 102 lessons / No-hole poster hanging",
-    "title_zh": "其他心灵 / 102个教训 / 无孔张贴海报",
-    "source": "Kevin Kelly",
-    "link": "https://kk.org/cooltools/other-minds-102-lessons-no-hole-poster-hanging/",
-    "tags": [
-      "solve",
-      "lifestyle",
-      "science",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "解决",
-      "生活方式",
-      "科学研究",
-      "数据驱动"
-    ],
-    "date": "2025-11-09",
-    "summary_en": "This eclectic compilation offers diverse insights across creativity, history, travel, and practical life hacks. Jane Friedman's Electric Speed newsletter stands out as a valuable resource for creative professionals, blending industry expertise with personal curation. The piece on Neanderthals challenges modern perceptions, presenting them as sophisticated ancestors with cultural complexity. Travel advice from Japan or Die encourages mindful travel experiences, while a political thriller critique examines human behavior in crisis situations. A clever poster-hanging hack demonstrates innovative problem-solving. The 102 Lessons from 102 Books section synthesizes valuable life insights, highlighting the power of reflection and social connection. The content's strength lies in its practical applicability and thought-provoking perspectives.",
-    "summary_zh": "这篇杂文汇集了创意、历史、旅行和实用技巧等多方面的见解。简·弗里德曼的《电子速度》通讯对创意工作者尤为珍贵，将行业专业知识与个性化策展结合。关于尼安德特人的内容挑战了现代认知，展现他们拥有复杂文化。日本或死通讯的旅行建议倡导有意识的旅行体验，而政治惊悚片评论探讨了危机中的人类行为。巧妙的海报挂法展示了创新的解决方案。102本书102个教训部分总结了有价值的生活智慧，凸显反思与社交联结的力量。内容的魅力在于其实用性和引人深思的视角。",
-    "best_quote_en": "Friendliness is irrationally undersupplied. In one study, subjects were asked to either stay quiet or talk to a stranger during their commute. People predicted they’d prefer solitude, but they enjoyed the conversation more.",
-    "best_quote_zh": "友善被严重低估。一项研究发现，人们预计会喜欢独处通勤，但实际更享受与陌生人的交谈。"
-  },
-  {
-    "id": 156,
-    "title": "Is it ethical to choose a baby’s traits?",
-    "title_zh": "选择婴儿特征是否道德？",
-    "source": "Aeon",
-    "link": "https://aeon.co/videos/when-if-ever-is-selecting-a-designer-baby-ethical?utm_source=rss-feed",
-    "tags": [
-      "solve",
-      "medicine",
-      "education",
-      "controversial"
-    ],
-    "tags_zh": [
-      "解决",
-      "医学健康",
-      "教育学习",
-      "争议观点"
-    ],
-    "date": "2025-11-10",
-    "summary_en": "This thought-provoking piece explores the complex ethics of genetic selection in babies through preimplantation genetic diagnosis. While the medical benefits for preventing hereditary diseases seem clear, the discussion becomes nuanced when considering cultural and personal preferences, such as deaf parents choosing deaf children. The content draws on philosophical perspectives to challenge our assumptions about genetic intervention, raising profound questions about autonomy, cultural identity, and the limits of medical ethics. It serves as an excellent primer for those looking to understand the moral dimensions of biotechnology.",
-    "summary_zh": "这篇文章深入探讨了胚胎基因诊断技术在婴儿特征选择中的伦理争议。虽然预防遗传疾病的医学价值显而易见，但文化偏好如聋人父母选择聋儿的案例，使讨论变得复杂。文章引用哲学家观点，挑战我们对基因干预的既有认知，引发关于自主权、文化认同和医学伦理边界的深刻思考。",
-    "best_quote_en": "When, if ever, is it ethical to weigh rolls of the genetic dice?",
-    "best_quote_zh": "什么时候，如果有的话，选择基因的筛子是道德的？"
-  },
-  {
     "id": 157,
     "title": "A Simple Sing-along Solstice",
     "title_zh": "简单的合唱冬至节目",
@@ -2338,5 +2220,125 @@
     "summary_zh": "莱切尔·蒙罗的文章揭示了德克萨斯州洛宾县内部激烈的权力斗争。这个美国人口最少但最富裕的县，其政治控制权成为几个有影响力的家庭争夺的目标，导致了长达数十年的争斗。近期，一位名叫马尔科姆·坦纳的励志文化领袖的追随者涌入，为这场斗争增添了新的变数。文章揭示了权力的持久吸引力及人们为争夺它所采取的极端手段，即使是在最偏僻和艰难的环境中。",
     "best_quote_en": "There’s not anything else to occupy people.",
     "best_quote_zh": "这里没有其他事可做来打发时间。"
+  },
+  {
+    "id": 252,
+    "title": "Sandcastles",
+    "title_zh": "沙堡",
+    "source": "Aeon",
+    "link": "https://aeon.co/videos/from-michigan-to-singapore-a-meditation-on-dreams-built-on-sand?utm_source=rss-feed",
+    "tags": [
+      "analyze",
+      "science",
+      "environment",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "分析",
+      "科学研究",
+      "环境科学",
+      "数据驱动"
+    ],
+    "date": "2026-01-22",
+    "summary_en": "Sandcastles is a short documentary that weaves a thoughtful narrative around two distinct Singapores: one a forgotten Michigan ghost town reclaimed by sand due to deforestation, and the other the island nation of Singapore, where rapid development and land reclamation have been sustained through sand importation. Director Carin Leong's film is a poetic exploration of the transient nature of sand and humanity's fragile relationship with the environment. Through stunning aerial shots and intimate interviews, Leong contrasts the vast scale of Singapore's land reclamation projects with the personal stories of those affected by environmental change. The documentary invites viewers to reflect on the cyclical nature of development and the enduring impact of human activity on the natural world.",
+    "summary_zh": "短片《沙堡》讲述了两个截然不同的“新加坡”：一个是被沙漠吞没的美国密歇根州幽灵城镇，另一个是通过进口沙子进行大规模填海造地的新加坡。导演梁嘉仪通过宏伟的空拍镜头和深度的采访，揭示了人类与自然界关系的脆弱与复杂。这部作品不仅展现了新加坡的大规模填海造地，也反映了环境变迁对个人命运的深远影响，引发观众对发展与环境的深刻思考。",
+    "best_quote_en": "The sand dune becomes both an example of and a metaphor for humanity’s precarious relationship with the natural world.",
+    "best_quote_zh": "沙丘既是人类与自然界脆弱关系的例子，也是其象征。"
+  },
+  {
+    "id": 253,
+    "title": "Winter Storm Watch vs. Winter Storm Warning: What Everyone Gets Wrong",
+    "title_zh": "冬季风暴警报与冬季风暴警告：大家都搞错了什么",
+    "source": "Mental Floss",
+    "link": "https://www.mentalfloss.com/science/weather/winter-storm-watch-winter-storm-warning?utm_source=RSS",
+    "tags": [
+      "solve",
+      "lifestyle",
+      "design",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "解决",
+      "生活方式",
+      "设计创意",
+      "未来预测"
+    ],
+    "date": "2026-01-22",
+    "summary_en": "The article 'Winter Storm Watch vs. Winter Storm Warning: What Everyone Gets Wrong' clarifies the distinction between these two weather alerts, which are often confused. A Winter Storm Watch indicates potential hazardous weather conditions that may develop, typically issued 24 hours in advance, allowing time for preparation without panic. It suggests monitoring forecasts and reviewing plans. In contrast, a Winter Storm Warning signifies imminent or occurring dangerous winter weather, requiring immediate action like postponing travel and taking precautions. The article emphasizes the importance of understanding these alerts to stay safe and avoid stress during winter. It also notes that local standards for these alerts vary by region, highlighting the need for situational awareness.",
+    "summary_zh": "《冬季风暴警报与冬季风暴警告：大家都搞错了什么》一文澄清了这两种天气警报的区别。冬季风暴警报提示可能的危险天气，通常提前24小时发布，允许有时间准备而不至于慌乱。它建议关注天气预报并审视计划。相反，冬季风暴警告表示即将到来或已经发生的危险冬季天气，需要立即采取行动，如推迟旅行和采取预防措施。文章强调理解这些警报的重要性，以确保冬季安全，避免压力。它还指出，这些警报的地方标准因地区而异，突显了需要具体情况具体分析的必要性。",
+    "best_quote_en": "A Winter Storm Watch means severe conditions are possible, confidence in the forecast is growing, and it's time to start thinking ahead.",
+    "best_quote_zh": "冬季风暴警报意味着可能会出现恶劣天气，天气预报的信心正在增加，是时候开始未雨绸缪了。"
+  },
+  {
+    "id": 254,
+    "title": "Value Learning Needs a Low-Dimensional Bottleneck",
+    "title_zh": "价值学习需要低维度瓶颈",
+    "source": "LessWrong",
+    "link": "https://www.lesswrong.com/posts/XrpiQcGnqeLKLMhbD/value-learning-needs-a-low-dimensional-bottleneck",
+    "tags": [
+      "analyze",
+      "ai-research",
+      "science",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "分析",
+      "AI研究",
+      "科学研究",
+      "数据驱动"
+    ],
+    "date": "2026-01-23",
+    "summary_en": "The article delves into the complexity of human values and their implications for AI alignment. The author argues that human values are alignable due to evolutionary compression into low-dimensional bottlenecks, making them more learnable. This perspective challenges the notion that inconsistent values make alignment harder, suggesting instead that inconsistency could be a result of compression. The author supports this with calculations and references to inverse reinforcement learning, highlighting the potential tractability of value learning with a low-rank projection. The piece also discusses the practical implications for AI safety and the potential for testing the dimensionality of human values.",
+    "summary_zh": "文章探讨了人类价值的复杂性及其对AI对齐的影响。作者认为，由于进化压缩，人类价值可以通过低维度瓶颈对齐，使其更具可学性。这种观点挑战了不一致的价值使对齐更难的观点，认为不一致可能是压缩的结果。作者通过计算和逆强化学习的参考，支持这一观点，突出了低秩投影下价值学习的潜在可行性。文章还讨论了AI安全的实际影响以及测试人类价值维度的可能性。",
+    "best_quote_en": "Human values are alignable only because evolution compressed motivation into a small number of low-bandwidth bottlenecks",
+    "best_quote_zh": "人类价值之所以可以对齐，是因为进化将动机压缩到少数低带宽的瓶颈中"
+  },
+  {
+    "id": 255,
+    "title": "It’s Time to Talk About Donald Trump’s Logorrhea",
+    "title_zh": "谈谈唐纳德·特朗普的多言症",
+    "source": "The New Yorker",
+    "link": "https://www.newyorker.com/news/letter-from-trumps-washington/its-time-to-talk-about-donald-trumps-logorrhea",
+    "tags": [
+      "analyze",
+      "politics",
+      "leadership",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "分析",
+      "政治时事",
+      "领导管理",
+      "数据驱动"
+    ],
+    "date": "2026-01-23",
+    "summary_en": "Susan B. Glasser's article delves into the alarming increase in President Trump's verbosity, using data to illustrate his excessive talking. She argues that his endless speeches reveal his character flaws and lack of discipline. Trump's logorrhea is not just a personal quirk but a dangerous trait in a leader, especially one whose words can shape global policies. The article highlights Trump's recent actions, such as his 'Board of Peace' and threats over Greenland, to show how his words translate into consequential actions. Glasser also notes the stark reactions from European leaders, who are less desensitized to Trump's behavior. The piece serves as a wake-up call, urging us to confront the reality of having a leader who struggles with self-control and rational communication.",
+    "summary_zh": "苏珊·B·格拉瑟的文章揭示了特朗普总统话语量的显著增加，数据显示他在公开场合的言论量大幅增长。她认为，特朗普的多言症暴露了他缺乏自律和性格缺陷。这不仅是个人问题，更是领导者的危险特质，特别是其言论能影响全球政策。文章通过特朗普最近的行动，如他的“和平委员会”和对格陵兰的威胁，展示了其言论如何转化为实际行动。格拉瑟还提到欧洲领导人的强烈反应，他们对特朗普的行为并未麻木。这篇文章是一次警醒，促使我们直面一个缺乏自控和理性沟通能力的领导者的现实。",
+    "best_quote_en": "It is remarkable how a man cannot summarize his thoughts in even the most general sort of way without betraying himself completely",
+    "best_quote_zh": "一个男人即使用最一般的方式概括自己的想法，也会完全暴露自己"
+  },
+  {
+    "id": 256,
+    "title": "Most Popular City/Europe Rail Travel Trends/Mexican Sites Admission Hikes",
+    "title_zh": "最受欢迎的城市/欧洲铁路旅行趋势/墨西哥景点门票涨价",
+    "source": "Kevin Kelly",
+    "link": "https://kk.org/cooltools/most-popular-city-europe-rail-travel-trends-mexican-sites-admission-hikes/",
+    "tags": [
+      "update",
+      "politics",
+      "design",
+      "controversial"
+    ],
+    "tags_zh": [
+      "动态",
+      "政治时事",
+      "设计创意",
+      "争议观点"
+    ],
+    "date": "2026-01-22",
+    "summary_en": "This article provides a snapshot of global travel trends, highlighting Bangkok as the most visited city in 2025, with over 30 million arrivals. It contrasts this with Paris, which, despite being deemed the most attractive city, ranks ninth in arrivals. The piece also delves into the travel patterns of US and Canadian rail travelers in Europe, noting a preference for multi-city trips and the dominance of the Barcelona-Madrid corridor. Additionally, it discusses the reluctance of experienced travelers to use AI for trip planning, citing comfort and trust issues. The article concludes with a significant update on Mexico's archaeological site admission prices, which have doubled for foreigners, affecting popular destinations like Chichen Itza and Teotihuacan.",
+    "summary_zh": "这篇文章展示了全球旅游趋势，2025年曼谷再次成为最受欢迎的城市，接待超过3000万游客。而巴黎尽管被评为最具吸引力的城市，但在游客到达数量上却排第九。文章还探讨了美国和加拿大游客在欧洲的铁路旅行模式，他们更倾向于多城市游，并以巴塞罗那到马德里的线路为主。此外，文章还提到有经验的旅行者不愿意使用AI规划旅行，原因是信任和舒适度问题。最后，文章更新了墨西哥考古遗址的门票价格，对外国游客门票价格翻倍，影响了奇琴伊察和特奥蒂瓦坎等热门景点。",
+    "best_quote_en": "Experienced travelers may be fine with asking ChatGPT who won the best picture Oscar in 2019, but they’re not about to let the computer bots plan their vacation.",
+    "best_quote_zh": "有经验的旅行者可能会问ChatGPT 2019年最佳影片奥斯卡的得主是谁，但他们并不打算让电脑机器人来安排他们的假期。"
   }
 ]
