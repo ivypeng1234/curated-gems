@@ -1,119 +1,5 @@
 [
   {
-    "id": 157,
-    "title": "A Simple Sing-along Solstice",
-    "title_zh": "简单的合唱冬至节目",
-    "source": "LessWrong",
-    "link": "https://www.lesswrong.com/posts/qFai3Xxhake5dBhTr/a-simple-sing-along-solstice",
-    "tags": [
-      "solve",
-      "lifestyle",
-      "society",
-      "beginner-friendly"
-    ],
-    "tags_zh": [
-      "解决",
-      "生活方式",
-      "社会议题",
-      "新手友好"
-    ],
-    "date": "2025-11-11",
-    "summary_en": "This content presents a practical, easy-to-use guide for organizing a Secular Solstice celebration, particularly aimed at first-time organizers or small groups with limited resources. It emphasizes reusability and accessibility, focusing on commonly used songs and speeches from past events. The author provides an original introduction speech and encourages customization based on specific needs. The inclusion of an appendix with the most frequently used songs and speeches adds significant value by offering data-driven insights into community preferences. This resource stands out for its actionable nature and community-oriented approach, making it an excellent starting point for those new to Secular Solstice celebrations.",
-    "summary_zh": "这篇内容提供了一个实用易用的世俗冬至庆祝活动指南，特别适合首次组织者或资源有限的小团体。它强调可重复使用性和易用性，聚焦于过去活动中常用的歌曲和演讲。作者提供了一个原创的开场演讲，并鼓励根据具体需求进行定制。附录中列出的最常用歌曲和演讲，以数据为依据，展示了社区偏好，为冬至庆祝活动提供了宝贵参考。",
-    "best_quote_en": "The goal for this program is to be an easy-to-follow, easy-to-reuse Solstice program for a group celebrating Solstice for the first time.",
-    "best_quote_zh": "这个节目的目标是为首次庆祝冬至的团体提供一个易于理解、便于重复使用的冬至节目。"
-  },
-  {
-    "id": 158,
-    "title": "Did Democrats Win the Shutdown After All?",
-    "title_zh": "民主党是否最终赢得了政府关闭的胜利？",
-    "source": "The New Yorker",
-    "link": "https://www.newyorker.com/news/the-lede/did-democrats-win-the-shutdown-after-all",
-    "tags": [
-      "analyze",
-      "politics",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "分析",
-      "政治时事",
-      "数据驱动"
-    ],
-    "date": "2025-11-11",
-    "summary_en": "This analysis explores the nuanced outcomes of the longest U.S. government shutdown, challenging the narrative of Democratic failure. While the shutdown didn't concentrate attention as expected, it revealed Trump's vulnerabilities and shifted public blame. The article argues that Democrats achieved their core goals of fighting back and focusing on healthcare, despite the messy compromise. It suggests the shutdown's true significance lies in revealing Democratic coalition dynamics and the emergence of new party leaders, rather than in any single tactical outcome.",
-    "summary_zh": "这篇分析挑战了民主党在政府关闭中失败的叙事，认为尽管关闭未能集中公众注意力，但揭示了特朗普的弱点并转移了公众指责。文章认为民主党实现了核心目标，尽管妥协混乱。关键在于揭示了民主党联盟的动态和新领导人的涌现，而非单一战术结果。",
-    "best_quote_en": "The Democrats didn't vote to end the shutdown. Two handfuls of them did. Many others were very angry about it. There's a world in which both these positions—and their constituencies—can coexist.",
-    "best_quote_zh": "民主党并未投票结束政府关闭，只有少数人这样做。其他人非常愤怒。存在一个世界，其中这两种立场及其选民群体可以共存。"
-  },
-  {
-    "id": 159,
-    "title": "Utensils",
-    "title_zh": "Utensils",
-    "source": "Kevin Kelly",
-    "link": "https://kk.org/cooltools/utensils/",
-    "tags": [
-      "solve",
-      "design"
-    ],
-    "tags_zh": [
-      "解决",
-      "设计创意"
-    ],
-    "date": "2025-11-10",
-    "summary_en": "This article showcases a curated collection of clever, everyday kitchen tools that solve specific problems with ingenious simplicity. Each tool demonstrates thoughtful design addressing common kitchen frustrations, from scaling fish safely to protecting bananas on the go. The author's personal anecdotes highlight the transformative impact of these tools, turning mundane tasks into efficient, enjoyable experiences. What stands out is how these seemingly simple utensils become indispensable through their specialized functionality and user-centric design. The piece serves as a reminder that great tools don't need to be complex to be revolutionary.",
-    "summary_zh": "这篇文章展示了一系列聪明的日常厨房工具，它们以巧妙的简洁性解决特定问题。每个工具都展示了巧妙的设计，解决常见的厨房烦恼，从安全去鱼鳞到随身携带香蕉。作者的个人轶事突显了这些工具的变革性，将平凡的任务变成高效愉快的体验。令人印象深刻的是，这些看似简单的厨具通过其专业功能和以用户为中心的设计变得不可或缺。这篇文章提醒我们，伟大的工具无需复杂即可颠覆传统。",
-    "best_quote_en": "It offers more than self-defense. It's just absolutely good at what it does, and costs less than ten bucks.",
-    "best_quote_zh": "它不仅提供自我防护。它就是绝对擅长它的功能，而且价格不超过十美元。"
-  },
-  {
-    "id": 160,
-    "title": "How Your Thoughts Are Built & How You Can Shape Them | Dr. Jennifer Groh",
-    "title_zh": "如何构建你的思想以及如何塑造它们 | 詹妮弗·格罗医生",
-    "source": "Huberman Lab",
-    "link": "https://www.hubermanlab.com/episode/how-your-thoughts-are-built-shape-them-jennifer-groh",
-    "tags": [
-      "solve",
-      "psychology",
-      "education",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "解决",
-      "心理学",
-      "教育学习",
-      "未来预测"
-    ],
-    "date": "2025-11-10",
-    "summary_en": "Dr. Jennifer Groh's insights into how our brain processes and integrates sensory information challenge conventional understanding of thought formation. By explaining the dynamic mapping of sights and sounds, she reveals how attention shapes not just immediate thoughts but future cognitive patterns. The discussion extends to practical applications like improving focus, enhancing happiness, and rewiring neural circuits for better task management. Particularly compelling is the exploration of how physical environments and auditory stimuli can influence mental states, offering actionable strategies for achieving flow states and mental endurance. This conversation bridges neuroscience with everyday life, demonstrating how understanding these mechanisms can lead to significant personal and professional improvements.",
-    "summary_zh": "詹妮弗·格罗医生揭示了大脑如何处理和整合感官信息，挑战了我们对思想形成的传统认知。通过解释声音和视觉的动态映射，她揭示了注意力如何塑造不仅是当下的思维，而且是未来的认知模式。讨论还延伸到提高专注力、增强幸福感和重塑神经电路以更好地管理任务等实际应用。特别是探讨了物理环境和听觉刺激如何影响心理状态，提供了达到流畅状态和提高心理耐力的可行策略。这场对话将神经科学与日常生活联系起来，展示了理解这些机制如何能带来重大的个人和职业提升。",
-    "best_quote_en": "What you focus on determines your thoughts, not just in that moment but your future thoughts too.",
-    "best_quote_zh": "你专注的东西决定了你的思想，不仅仅是当下，而且是未来的思想。"
-  },
-  {
-    "id": 161,
-    "title": "To Have Machines Make Math Proofs, Turn Them Into a Puzzle",
-    "title_zh": "让机器完成数学证明，将其转化为拼图",
-    "source": "Quanta Magazine",
-    "link": "https://www.quantamagazine.org/to-have-machines-make-math-proofs-turn-them-into-a-puzzle-20251110/",
-    "tags": [
-      "learn",
-      "ai-research",
-      "science",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "学习",
-      "AI研究",
-      "科学研究",
-      "数据驱动"
-    ],
-    "date": "2025-11-10",
-    "summary_en": "This article explores the groundbreaking work of Marijn Heule, who uses SAT (satisfiability) solvers to tackle complex mathematical problems by transforming them into puzzle-like structures. Heule's approach, while criticized for producing 'disgusting' proofs that humans can't easily understand, has successfully solved long-standing problems in geometry and combinatorics. The article delves into the potential of combining SAT solvers with large language models (LLMs) to create powerful tools for mathematical research. Heule argues that understanding is overrated in mathematics, and trust in automated reasoning should be prioritized. The collaboration between human mathematicians, LLMs, and automated reasoning could revolutionize the field by solving problems beyond human capabilities while maintaining the essential role of human intuition and creativity.",
-    "summary_zh": "这篇文章介绍了Marijn Heule的开创性工作，他通过将数学问题转化为拼图般的结构，使用满足性（SAT）求解器来解决复杂的数学难题。尽管Heule的方法因产生人类难以理解的“恶心证明”而受到批评，但它成功解决了几何和组合数学中长期悬而未决的问题。文章探讨了将SAT求解器与大型语言模型（LLMs）结合的潜力，以创建强大的数学研究工具。Heule认为，在数学中理解被高估了，而对自动推理的信任应该被优先考虑。人类数学家、LLMs和自动推理的协作可能通过解决超越人类能力的问题，同时保持人类直觉和创造力的核心作用，从而革命性地改变这一领域。",
-    "best_quote_en": "Understanding in mathematics is highly overrated. The thing is, there’s no mathematician alive who understands all of mathematics.",
-    "best_quote_zh": "数学中的理解被高估了。事实是，没有任何在世的数学家能完全理解所有的数学。"
-  },
-  {
     "id": 162,
     "title": "The model of catastrophe",
     "title_zh": "灾难模型",
@@ -2340,5 +2226,125 @@
     "summary_zh": "这篇文章展示了全球旅游趋势，2025年曼谷再次成为最受欢迎的城市，接待超过3000万游客。而巴黎尽管被评为最具吸引力的城市，但在游客到达数量上却排第九。文章还探讨了美国和加拿大游客在欧洲的铁路旅行模式，他们更倾向于多城市游，并以巴塞罗那到马德里的线路为主。此外，文章还提到有经验的旅行者不愿意使用AI规划旅行，原因是信任和舒适度问题。最后，文章更新了墨西哥考古遗址的门票价格，对外国游客门票价格翻倍，影响了奇琴伊察和特奥蒂瓦坎等热门景点。",
     "best_quote_en": "Experienced travelers may be fine with asking ChatGPT who won the best picture Oscar in 2019, but they’re not about to let the computer bots plan their vacation.",
     "best_quote_zh": "有经验的旅行者可能会问ChatGPT 2019年最佳影片奥斯卡的得主是谁，但他们并不打算让电脑机器人来安排他们的假期。"
+  },
+  {
+    "id": 257,
+    "title": "Monster Neutrino Could Be a Messenger of Ancient Black Holes",
+    "title_zh": "怪兽中微子可能是古代黑洞的信使",
+    "source": "Quanta Magazine",
+    "link": "https://www.quantamagazine.org/monster-neutrino-could-be-a-messenger-of-ancient-black-holes-20260123/",
+    "tags": [
+      "update",
+      "ai-research",
+      "science",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "动态",
+      "AI研究",
+      "科学研究",
+      "数据驱动"
+    ],
+    "date": "2026-01-23",
+    "summary_en": "A recent detection of an exceptionally energetic neutrino in the Mediterranean Sea has sparked intriguing theories about its origin. The neutrino, observed by the KM3NET detector, is 35 times more energetic than any previously recorded. While it could have originated from a blazar or a background source of high-energy particles, physicist David Kaiser proposed a more exotic possibility: the neutrino might have come from an exploding primordial black hole. These hypothetical black holes, which could have formed before the first atoms, are of great interest because they might constitute dark matter. Kaiser's suggestion, though speculative, highlights the need for further exploration into the nature of these ancient cosmic entities and their potential role in shaping our understanding of the universe.",
+    "summary_zh": "地中海近海的中微子探测器KM3NET最近探测到一个能量异常巨大的中微子，引发了关于其起源的激烈讨论。该中微子的能量是之前记录到的最大能量中微子的35倍，可能来自一个高活跃的星系，也可能是宇宙中高能粒子的背景源。然而，麻省理工学院的物理学家大卫·凯泽提出了一个更为大胆的假设：该中微子可能来自爆炸中的原始黑洞。这些假想中的黑洞可能在宇宙诞生的第一时刻就已形成，研究它们对于揭示暗物质的本质至关重要。凯泽的假设虽然充满了不确定性，但却揭示了探索这些古老宇宙实体及其潜在作用的紧迫性。",
+    "best_quote_en": "The idea that the neutrino came from a primordial black hole is a long shot; Kaiser said he was 'half-joking' when he suggested it.",
+    "best_quote_zh": "中微子来自原始黑洞的想法是一个长途跋涉；凯泽说，他建议时是“半开玩笑”"
+  },
+  {
+    "id": 258,
+    "title": "Computers can’t surprise",
+    "title_zh": "计算机无法惊讶",
+    "source": "Aeon",
+    "link": "https://aeon.co/essays/sure-ai-can-do-writing-but-memoir-not-so-much?utm_source=rss-feed",
+    "tags": [
+      "inspire",
+      "ai-research",
+      "science",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "启发",
+      "AI研究",
+      "科学研究",
+      "数据驱动"
+    ],
+    "date": "2026-01-23",
+    "summary_en": "The essay 'Computers can’t surprise' delves into the limitations of artificial intelligence, particularly in the realm of creative writing and artistic expression. The author explores Alan Turing's seminal paper, 'Computing Machinery and Intelligence,' which introduced the Turing Test to determine if machines can think. The essay argues that while machines can mimic human creativity to some extent, they lack the ability to truly surprise or innovate. The author discusses the historical context of creative writing and the evolution of machine learning, highlighting the enduring value of human originality and emotional depth in art. The piece concludes with a call to embrace human creativity as a form of resistance against the encroachment of AI, emphasizing the unique power of human memory and personal experience in artistic expression.",
+    "summary_zh": "这篇文章探讨了人工智能在创意写作和艺术表达中的局限性。作者通过阿兰·图灵的经典论文《计算机与智能》，引出了图灵测试，用以判断机器是否能够思考。文章认为，尽管机器可以模仿人类的创造力，但它们缺乏真正的惊奇和创新能力。作者讨论了创意写作的历史背景及机器学习的发展，强调了人类原创性和情感深度在艺术中的持久价值。文章最后呼吁拥抱人类的创造力，作为抵御人工智能侵蚀的一种方式，强调了人类记忆和个人经验在艺术表达中的独特力量。",
+    "best_quote_en": "Art is supposed to see the truth beyond this kind of lie, and the original creations worth defending are in a category so extraordinary, because of the intensity and authenticity of Jefferson’s ‘thoughts and emotions felt,’ that they exist in a permanent present tense.",
+    "best_quote_zh": "艺术应该超越这种谎言看到真相，而值得捍卫的原创作品属于一个如此非凡的类别，因为杰弗逊所描述的‘感受到的思想和情感’的强度和真实性，它们存在于永恒的现在时态中。"
+  },
+  {
+    "id": 259,
+    "title": "3 Things ‘Bridgerton’ Gets Right About the Regency Era—And 3 Things It Gets Wrong",
+    "title_zh": "《桥党人》关于乔治王朝时期的三件事做对了——和三件事做错了",
+    "source": "Mental Floss",
+    "link": "https://www.mentalfloss.com/entertainment/tv/things-bridgerton-gets-right-about-regency-era?utm_source=RSS",
+    "tags": [
+      "solve",
+      "society",
+      "design",
+      "beginner-friendly"
+    ],
+    "tags_zh": [
+      "解决",
+      "社会议题",
+      "设计创意",
+      "新手友好"
+    ],
+    "date": "2026-01-23",
+    "summary_en": "Netflix's 'Bridgerton' captivates audiences with its Regency-era glamour, but the show takes significant liberties with historical accuracy. The series correctly portrays the prevalence of scandal sheets, the reality of the 'ton,' and Queen Charlotte's debutante balls. However, it inaccurately depicts racial diversity among the elite, the style of women's corsets, and Queen Charlotte's political influence. The show's creative reimagining of history raises intriguing questions about the balance between entertainment and authenticity in period dramas. While 'Bridgerton' excels in creating a visually stunning and emotionally engaging world, its historical inaccuracies serve as a reminder of the power of storytelling in shaping public perception of the past. Viewers must navigate the fine line between enjoying a captivating narrative and critically evaluating its historical foundation.",
+    "summary_zh": "《桥党人》以乔治王朝时期的华丽装束吸引观众，但剧中对历史的描绘并不准确。该剧正确地展示了丑闻报纸的盛行、“上流社会”的真实性以及夏洛特王后的初次亮相舞会。然而，它错误地描绘了上流社会的种族多样性、女性紧身胸衣的风格以及夏洛特王后的政治影响力。该剧对历史的重新想象引发了关于娱乐与真实性之间平衡的有趣问题。尽管《桥党人》在创造一个视觉上引人入胜、情感上引人共鸣的世界方面表现出色，但其历史不准确性提醒我们讲故事在塑造公众对过去的看法方面的力量。观众必须在享受一个引人入胜的叙事和批判性评估其历史基础之间找到平衡。",
+    "best_quote_en": "Gossip columns aren't new, and Lady Whistledown's Society Papers certainly weren't invented for the sake of drama.",
+    "best_quote_zh": "丑闻报纸并不新鲜，而Lady Whistledown的社会报纸也绝不是为了戏剧而创作的。"
+  },
+  {
+    "id": 260,
+    "title": "Who is choosing your preferences- You or your Mind?",
+    "title_zh": "是谁在选择你的偏好——是你还是你的心灵？",
+    "source": "LessWrong",
+    "link": "https://www.lesswrong.com/posts/Ab64wtmXXy6x6en3A/who-is-choosing-your-preferences-you-or-your-mind",
+    "tags": [
+      "inspire",
+      "lifestyle",
+      "psychology",
+      "beginner-friendly"
+    ],
+    "tags_zh": [
+      "启发",
+      "生活方式",
+      "心理学",
+      "新手友好"
+    ],
+    "date": "2026-01-24",
+    "summary_en": "The blog post delves into the philosophical debate between the Self and the Mind, drawing from Buddhist teachings and meditation practices. It questions whether our preferences are truly ours or manipulated by our minds, suggesting that detachment from preferences may lead to liberation. The author explores the idea that the Self is an illusion, and preferences originate from the mind, potentially causing suffering if we become attached to them. The post also discusses the communicative challenges in explaining the relationship between the mind and the perceived Self, highlighting the complexities of Buddhist philosophy.",
+    "summary_zh": "这篇博客探讨了自我与心灵的哲学争论，结合佛教教义和冥想实践。它质疑我们的偏好是否真正属于自己，还是被心灵操控，暗示放下偏好可能带来解脱。作者提出自我是幻象，偏好源于心灵，若执着于它们可能带来痛苦。文章还讨论了解释心灵与感知自我关系的沟通困难，凸显了佛教哲学的复杂性。",
+    "best_quote_en": "Would it then mean that 'not having any preference' a ultimate destination or result of truly being liberated?",
+    "best_quote_zh": "难道这意味着“不有任何偏好”才是真正解脱的终极目的或结果？"
+  },
+  {
+    "id": 261,
+    "title": "The Mayor of an Occupied City",
+    "title_zh": "被占领城市的市长",
+    "source": "The New Yorker",
+    "link": "https://www.newyorker.com/news/the-political-scene/the-mayor-of-an-occupied-city",
+    "tags": [
+      "analyze",
+      "politics",
+      "science",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "分析",
+      "政治时事",
+      "科学研究",
+      "数据驱动"
+    ],
+    "date": "2026-01-23",
+    "summary_en": "The New Yorker's 'The Mayor of an Occupied City' delves into Jacob Frey's struggle to govern Minneapolis amidst an unprecedented federal ICE operation. Frey's leadership is tested as federal agents, vastly outnumbering local police, terrorize immigrant communities and provoke civil unrest. The article highlights the surreal and dangerous atmosphere created by the federal government's aggressive tactics, including the shooting of unarmed individuals and the use of tear gas against protesters. Frey's efforts to maintain public safety and advocate for his city are met with threats and obstruction from the Trump administration, illustrating the broader political tensions and racial dynamics at play.",
+    "summary_zh": "《被占领城市的市长》描述了雅各布·弗雷在联邦移民执法局大规模行动中领导明尼阿波利斯的挑战。联邦特工数量远超当地警员，导致移民社区恐慌和市民骚动。文章展现了联邦政府强硬手段下的奇异和危险氛围，包括射杀无辜者和对抗议者使用催泪瓦斯。弗雷在维护公共安全和为城市代言的努力中，面临特朗普政府的威胁和阻挠，反映了更广泛的政治紧张局势和种族动态。",
+    "best_quote_en": "I was really frustrated. I mean, one, they just shot somebody. And, two, their presence will only further inflame the situation.",
+    "best_quote_zh": "我真的很沮丧。意思是，首先，他们刚刚开枪打了人。其次，他们的存在只会进一步激化局势。"
   }
 ]
