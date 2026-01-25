@@ -1,77 +1,5 @@
 [
   {
-    "id": 162,
-    "title": "The model of catastrophe",
-    "title_zh": "灾难模型",
-    "source": "Aeon",
-    "link": "https://aeon.co/essays/todays-complex-climate-models-arent-equivalent-to-reality?utm_source=rss-feed",
-    "tags": [
-      "solve",
-      "science",
-      "society",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "解决",
-      "科学研究",
-      "社会议题",
-      "数据驱动"
-    ],
-    "date": "2025-11-11",
-    "summary_en": "This essay challenges the reliability of current climate models for local predictions, arguing that while Earth System Models (ESMs) are valuable research tools, they fall short in providing accurate multi-decadal, regional climate forecasts due to their inherent inaccuracies and oversimplifications. The author proposes two alternative approaches: storyline approaches that focus on plausible future scenarios based on expert understanding of climate processes, and perturbed physics ensembles that explore diverse model responses to greenhouse gas increases. The piece emphasizes the importance of embracing uncertainty in climate science and moving away from the pursuit of perfectly realistic models, advocating instead for methods that better capture the range of possible future climates to inform societal decisions.",
-    "summary_zh": "该文章质疑了当前气候模型在区域预测上的可靠性，认为尽管地球系统模型是宝贵的研究工具，但因其固有缺陷和简化，无法提供准确的长期区域气候预测。作者提出两种替代方案：基于专家对气候过程理解的故事线方法，以及探索不同模型对温室气体增加反应的扰动物理集合。文章强调在气候科学中拥抱不确定性的重要性，主张摒弃追求完美现实模型的做法，转而采用更能反映未来气候可能性的方法来指导社会决策。",
-    "best_quote_en": "All models are wrong, but some are useful.",
-    "best_quote_zh": "所有模型都是错误的，但有些是有用的。"
-  },
-  {
-    "id": 163,
-    "title": "Quiz: If You Can Name All 10 of These Thanksgiving Movies, You’re Ready for the Holidays",
-    "title_zh": "测验：如果你能说出这10部感恩节电影的名字，你就准备好过节了",
-    "source": "Mental Floss",
-    "link": "https://www.mentalfloss.com/quizzes/name-all-10-thanksgiving-movies?utm_source=RSS",
-    "tags": [
-      "update",
-      "psychology",
-      "science",
-      "beginner-friendly"
-    ],
-    "tags_zh": [
-      "动态",
-      "心理学",
-      "科学研究",
-      "新手友好"
-    ],
-    "date": "2025-11-11",
-    "summary_en": "This engaging quiz tests readers' knowledge of Thanksgiving movies, blending entertainment with subtle psychological insights. The content highlights how holiday films provide comfort through nostalgia and predictability, backed by academic research. While primarily a fun, seasonal activity, the article touches on stress management during the holidays and the psychological benefits of watching familiar movies. It's a lighthearted piece that cleverly combines pop culture with science, making it both entertaining and subtly educational.",
-    "summary_zh": "这篇文章通过感恩节电影测验，结合了娱乐和心理学的巧妙结合。轻松有趣的测试背后，隐藏着对节日电影带来的怀旧和心理慰藉的深度分析。内容既能让读者享受节日氛围，又能从科学角度理解为什么这些电影能带来快乐。",
-    "best_quote_en": "\"People enjoy holiday movies because they provide a break from the business of the season: they're predictable, comforting and have happy endings.\"",
-    "best_quote_zh": "\"人们喜欢节日电影，因为它们能让人们从繁忙的季节中暂时解脱：这些电影既有预测性，又能带来慰藉，而且结局总是幸福的。\""
-  },
-  {
-    "id": 164,
-    "title": "Conceptual reasoning dataset v0.1 available (AI for AI safety/AI for philosophy)",
-    "title_zh": "概念推理数据集 v0.1 可用（AI安全/哲学领域AI）",
-    "source": "LessWrong",
-    "link": "https://www.lesswrong.com/posts/DiyqXDE5xzPAdNNdi/conceptual-reasoning-dataset-v0-1-available-ai-for-ai-safety",
-    "tags": [
-      "inspire",
-      "science",
-      "ai-research",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "启发",
-      "科学研究",
-      "AI研究",
-      "未来预测"
-    ],
-    "date": "2025-11-12",
-    "summary_en": "This announcement introduces a novel conceptual reasoning dataset for AI safety and philosophy research. The dataset, though still in development, is considered high-quality and currently the best of its kind. It contains positions, critiques, and expert ratings on seven criteria, with extensive validation processes. The creators emphasize its potential for improving AI's conceptual reasoning capabilities, particularly for safety-relevant research. The dataset is being made available to mission-aligned projects, with access controlled to ensure responsible use. This initiative represents a significant step towards developing AI systems that can handle complex, truth-relative reasoning tasks.",
-    "summary_zh": "该公告介绍了一个用于AI安全和哲学研究的概念推理数据集。该数据集虽仍在开发中，但被认为质量很高，目前是最好的同类数据集。它包含观点、评论和专家对七个标准的评分，并经过广泛的验证。创作者强调其在提升AI概念推理能力方面的潜力，特别是在安全相关研究中。数据集将向有使命相符的项目开放，但访问权限受控以确保负责任的使用。这一举措标志着向开发能处理复杂、真相相关推理任务的AI系统迈出了重要一步。",
-    "best_quote_en": "We consider the dataset half-baked and it will likely become much more useful over the next few months. At the same time, we think it's very high quality compared to typical AI datasets and currently the best available dataset of this kind.",
-    "best_quote_zh": "我们认为该数据集尚不完善，未来几个月内可能会变得更加有用。同时，我们认为它比典型的AI数据集质量更高，目前是最好的同类数据集。"
-  },
-  {
     "id": 165,
     "title": "The Hidden Devastation of Hurricanes",
     "title_zh": "飓风的隐藏破坏",
@@ -2346,5 +2274,77 @@
     "summary_zh": "《被占领城市的市长》描述了雅各布·弗雷在联邦移民执法局大规模行动中领导明尼阿波利斯的挑战。联邦特工数量远超当地警员，导致移民社区恐慌和市民骚动。文章展现了联邦政府强硬手段下的奇异和危险氛围，包括射杀无辜者和对抗议者使用催泪瓦斯。弗雷在维护公共安全和为城市代言的努力中，面临特朗普政府的威胁和阻挠，反映了更广泛的政治紧张局势和种族动态。",
     "best_quote_en": "I was really frustrated. I mean, one, they just shot somebody. And, two, their presence will only further inflame the situation.",
     "best_quote_zh": "我真的很沮丧。意思是，首先，他们刚刚开枪打了人。其次，他们的存在只会进一步激化局势。"
+  },
+  {
+    "id": 262,
+    "title": "Dreams of the far Right",
+    "title_zh": "远右翼的梦想",
+    "source": "Aeon",
+    "link": "https://aeon.co/essays/the-yearnings-that-take-young-europeans-into-the-far-right?utm_source=rss-feed",
+    "tags": [
+      "solve",
+      "society",
+      "education",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "解决",
+      "社会议题",
+      "教育学习",
+      "未来预测"
+    ],
+    "date": "2026-01-22",
+    "summary_en": "This essay delves into the allure of 'community' for far-right youth, exploring how these groups offer a sense of belonging, purpose, and transformation. The author, an ethnographer, spent a decade studying European far-right movements, observing their communal rituals, ideological foundations, and the personal journeys of their members. The far-right's appeal lies in its response to perceived threats of liberalism, individualism, and globalisation, promising a return to traditional values and a 're-enchantment' of the world. Despite their problematic ideologies, these communities provide tangible benefits, from economic support to emotional fulfillment. The essay challenges the romanticised notion of community, highlighting its paradoxes and the universal human craving for belonging and meaning. It raises critical questions about the future of community in an increasingly fragmented world.",
+    "summary_zh": "本文探讨了“社区”对极右翼青年的吸引力，分析这些团体如何提供归属感、目的感和转变的机会。作者作为一名民族志学者，花了十年时间研究欧洲极右翼运动，观察他们的集体仪式、意识形态基础以及成员的个人旅程。极右翼的吸引力在于其对自由主义、个人主义和全球化的回应，承诺回归传统价值观和“重新神化”世界。尽管这些社区的意识形态有问题，但它们提供了切实的好处，从经济支持到情感满足。本文挑战了对社区的浪漫化看法，揭示其矛盾之处，以及人们对归属感和意义的普遍渴望。它提出了关于社区未来的关键问题，特别是在一个日益分裂的世界中。",
+    "best_quote_en": "While the radical movements I studied may undoubtedly appear as marginal, idiosyncratic and having little to do with the aspirations, strivings and maladies of mainstream society, examining them closely demonstrates that ethnography, and anthropology more broadly, is about studying large issues in small places.",
+    "best_quote_zh": "虽然我研究的激进运动无疑显得边缘、独特且与主流社会的愿望、努力和困境无关，但仔细审视它们表明，民族志和更广泛的人类学是关于在小地方研究大问题。"
+  },
+  {
+    "id": 263,
+    "title": "Tucker Carlson’s Nationalist Crusade",
+    "title_zh": "塔克·卡森的民族主义十字军",
+    "source": "The New Yorker",
+    "link": "https://www.newyorker.com/magazine/2026/02/02/tucker-carlsons-nationalist-crusade",
+    "tags": [
+      "analyze",
+      "politics",
+      "lifestyle",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "分析",
+      "政治时事",
+      "生活方式",
+      "未来预测"
+    ],
+    "date": "2026-01-24",
+    "summary_en": "Tucker Carlson's journey from a contrarian pundit to an open advocate of racist and antisemitic tropes highlights the evolving landscape of MAGA media. His rise to prominence, fueled by a blend of anti-immigrant rhetoric and populist nationalism, has polarized the conservative movement. Carlson's interview with Nick Fuentes, a prominent white nationalist, marked a significant turning point, fracturing the conservative base and drawing criticism from prominent Republicans. Carlson's ability to navigate the attention economy and his strategic alignment with Trump have made him a formidable figure in right-wing media, despite his controversial views.",
+    "summary_zh": "塔克·卡森从一个反传统的评论员转变为公开倡导种族主义和反犹太主义观点的人物，反映了MAGA媒体的演变。他的崛起，依靠反移民和民族主义的混合修辞，极大地分化了保守派。与白人民族主义者尼克·富恩特斯的访谈是一个重要的转折点，分裂了保守派基础，并受到多位共和党领袖的批评。卡森的媒体操控能力和与特朗普的战略结盟使他在右翼媒体中成为一个强大的人物，尽管他的观点充满争议。",
+    "best_quote_en": "You’re a loser, and you screwed up your whole life.",
+    "best_quote_zh": "你是个失败者，你把整个人生都搞砸了。"
+  },
+  {
+    "id": 264,
+    "title": "Book Freak #194: When Things Fall Apart",
+    "title_zh": "Book Freak #194: 当一切坍塌时",
+    "source": "Kevin Kelly",
+    "link": "https://kk.org/cooltools/book-freak-194-when-things-fall-apart/",
+    "tags": [
+      "solve",
+      "psychology",
+      "ai-research",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "解决",
+      "心理学",
+      "AI研究",
+      "数据驱动"
+    ],
+    "date": "2026-01-23",
+    "summary_en": "Pema Chödrön's 'When Things Fall Apart' offers a profound perspective on embracing life's uncertainties and suffering. By drawing from Buddhist wisdom, Chödrön encourages readers to face pain with curiosity and friendliness, transforming groundlessness into a path toward awakening. The book's core principles revolve around accepting impermanence, moving toward discomfort, practicing self-compassion, and finding teachings in every moment. This approach not only provides psychological resilience but also fosters a deeper spiritual understanding. Chödrön's insights are particularly valuable in today's fast-paced world, where uncertainty and stress are pervasive. Her teachings inspire readers to cultivate mindfulness and emotional intelligence, making the book a timeless guide for personal growth and spiritual awakening.",
+    "summary_zh": "《当一切坍塌时》通过佛教智慧，教导我们以好奇和友善面对痛苦与不确定性，将无常转化为觉醒之路。书中核心原则包括接受无常、面对痛苦、练习自慈和在每一刻中寻找教诲。这些教义不仅增强心理弹性，还培养深层次的精神理解。在当今快节奏的世界，不确定性与压力无处不在，佩玛的智慧引导我们培养正念与情感智能，使本书成为个人成长与精神觉醒的永恒指南。",
+    "best_quote_en": "Nothing ever goes away until it has taught us what we need to know.",
+    "best_quote_zh": "任何事情都不会消失，直到它教会我们所需的知识。"
   }
 ]
