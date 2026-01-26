@@ -1,77 +1,5 @@
 [
   {
-    "id": 165,
-    "title": "The Hidden Devastation of Hurricanes",
-    "title_zh": "飓风的隐藏破坏",
-    "source": "The New Yorker",
-    "link": "https://www.newyorker.com/news/the-lede/the-hidden-devastation-of-hurricanes",
-    "tags": [
-      "analyze",
-      "medicine",
-      "science",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "分析",
-      "医学健康",
-      "科学研究",
-      "数据驱动"
-    ],
-    "date": "2025-11-11",
-    "summary_en": "This article reveals the often overlooked long-term health impacts of hurricanes, extending far beyond immediate physical destruction. Through compelling case studies and research findings, it highlights how tropical cyclones contribute to increased cardiovascular events, mental health issues, and even infant mortality years after the initial disaster. The piece argues for a fundamental shift in how we approach disaster recovery, emphasizing sustained investment in healthcare, economic support, and infrastructure to address these cascading effects. The most striking insight is the revelation that hurricanes cause up to 11,000 excess deaths over 15 years - a figure 300 times higher than official counts. This challenges our conventional understanding of disaster impacts and calls for more comprehensive preparedness and response strategies in our warming world.",
-    "summary_zh": "这篇文章揭示了飓风的长期健康影响远超直接破坏，通过案例研究显示热带风暴导致心血管疾病、精神健康问题及婴儿死亡率上升。呼吁应对灾害时需加大医疗、经济支持和基建投入，应对连锁影响。最惊人的发现是飓风可导致15年内11000例超额死亡，比官方统计高300倍，重新定义灾害影响范围，呼吁在变暖世界中加强灾害应对策略。",
-    "best_quote_en": "The hazards extend beyond rain, flooding, or wind. They're existential. They pull at every element of the fabric of society.",
-    "best_quote_zh": "这些危害超越了雨、洪水或风。它们是存在性的。它们撕扯着社会结构的每一个元素。"
-  },
-  {
-    "id": 166,
-    "title": "Mixing Is the Heartbeat of Deep Lakes. At Crater Lake, It’s Slowing Down.",
-    "title_zh": "深水湖的搏动正在减缓：克拉玛湖的变化",
-    "source": "Quanta Magazine",
-    "link": "https://www.quantamagazine.org/mixing-is-the-heartbeat-of-deep-lakes-at-crater-lake-its-slowing-down-20251114/",
-    "tags": [
-      "update",
-      "science",
-      "environment",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "动态",
-      "科学研究",
-      "环境科学",
-      "数据驱动"
-    ],
-    "date": "2025-11-14",
-    "summary_en": "This article explores the critical role of water mixing in deep lakes and the alarming trends observed at Crater Lake, where climate change is slowing this essential process. The study highlights how warming temperatures disrupt the natural stratification and mixing patterns, leading to ecological consequences like oxygen depletion and algal blooms. The long-term monitoring of Crater Lake provides valuable insights into global lake health, serving as a case study for understanding broader climate impacts. The article also discusses the challenges faced by researchers due to funding cuts and the urgent need for collaborative efforts to mitigate these effects. It underscores the importance of preserving lake ecosystems, which are vital indicators of environmental health and climate change.",
-    "summary_zh": "这篇文章探讨了深水湖混合过程的重要性及气候变化对克拉玛湖的影响，揭示了水层搅拌减缓可能引发的生态问题。长期监测数据为全球湖泊健康研究提供了关键参考，同时呼吁科学界加强合作，应对气候变化带来的挑战。保护这些独特的水体生态系统对理解全球变暖至关重要。",
-    "best_quote_en": "I think about it like a vinaigrette. There’s resistance to mixing.",
-    "best_quote_zh": "我把它想象成一种沙拉酱。混合过程中存在阻力。"
-  },
-  {
-    "id": 167,
-    "title": "Mask on/mask off",
-    "title_zh": "戴上/摘下面具",
-    "source": "Aeon",
-    "link": "https://aeon.co/essays/the-hidden-costs-of-masking-for-women-with-adhd-and-autism?utm_source=rss-feed",
-    "tags": [
-      "solve",
-      "psychology",
-      "education",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "解决",
-      "心理学",
-      "教育学习",
-      "数据驱动"
-    ],
-    "date": "2025-11-14",
-    "summary_en": "This deeply personal essay explores the complex phenomenon of masking among neurodivergent individuals, particularly women with ADHD and autism. The author shares her own experiences of suppressing emotions and behaviors to fit societal expectations, highlighting the mental health toll of constant self-suppression. Through case studies of her clients, she illustrates how masking manifests differently across neurodivergent conditions - whether it's ADHD-related emotional dysregulation or autistic individuals learning and rehearsing social norms. The piece delves into the chicken-and-egg dilemma of stigma and masking, suggesting that while masking may help neurodivergent individuals survive in a neurotypical world, it ultimately reinforces their invisibility and deepens feelings of alienation. The author ultimately advocates for creating safe spaces within the neurodivergent community where authenticity can flourish without the need for masks.",
-    "summary_zh": "这篇深刻的个人随笔探讨了神经多样性人群（尤其是ADHD和自闭症的女性）中“戴面具”现象的复杂性。作者分享了自己为了符合社会期待而压抑情绪和行为的经历，凸显了持续自我压抑对心理健康的影响。通过她客户的案例，作者展示了“戴面具”在不同神经多样性条件下的不同表现形式——无论是ADHD相关的情绪失调，还是自闭症个体学习并练习社会规范。文章深入探讨了污名化与“戴面具”之间的鸡生蛋蛋生鸡的困境，认为虽然“戴面具”可能帮助神经多样性人群在神经典型的世界中生存，但最终却强化了他们的隐形性，并加深了孤独感。作者最后倡导在神经多样性群体中创造安全空间，使真实的自我能够无需面具地绽放。",
-    "best_quote_en": "In a world that expects girls to be composed and compliant, masking becomes a survival skill.",
-    "best_quote_zh": "在一个期望女孩镇定顺从的世界里，戴面具成了一种生存技能。"
-  },
-  {
     "id": 168,
     "title": "10 Inexpensive Ways to Keep Warm This Winter",
     "title_zh": "冬季保暖的10种经济实惠方法",
@@ -2346,5 +2274,77 @@
     "summary_zh": "《当一切坍塌时》通过佛教智慧，教导我们以好奇和友善面对痛苦与不确定性，将无常转化为觉醒之路。书中核心原则包括接受无常、面对痛苦、练习自慈和在每一刻中寻找教诲。这些教义不仅增强心理弹性，还培养深层次的精神理解。在当今快节奏的世界，不确定性与压力无处不在，佩玛的智慧引导我们培养正念与情感智能，使本书成为个人成长与精神觉醒的永恒指南。",
     "best_quote_en": "Nothing ever goes away until it has taught us what we need to know.",
     "best_quote_zh": "任何事情都不会消失，直到它教会我们所需的知识。"
+  },
+  {
+    "id": 265,
+    "title": "Our unfinished republics",
+    "title_zh": "我们未完成的共和国",
+    "source": "Aeon",
+    "link": "https://aeon.co/essays/the-wests-forgotten-republican-heritage?utm_source=rss-feed",
+    "tags": [
+      "inspire",
+      "politics",
+      "economics",
+      "controversial"
+    ],
+    "tags_zh": [
+      "启发",
+      "政治时事",
+      "经济金融",
+      "争议观点"
+    ],
+    "date": "2026-01-19",
+    "summary_en": "The essay 'Our Unfinished Republics' delves into the growing sense of powerlessness among citizens in democratic societies, where economic and political power has shifted to markets, corporations, and data systems beyond democratic oversight. The author explores the historical tradition of economic republicanism, which sought to limit both public and private arbitrary power to secure individual liberty. By examining 19th-century thinkers like Thomas Hodgskin, John Francis Bray, and Henry George, the essay argues for the necessity of economic self-rule to complete the republican project and resist authoritarianism. The contemporary relevance of these ideas is highlighted, suggesting that democratic republics must address economic power to ensure genuine popular control and individual freedom.",
+    "summary_zh": "这篇文章《我们未完成的共和国》探讨了民主社会中公民日益增强的无力感，经济和政治权力已转移到民主监督之外的市场、企业和数据系统。作者深入探讨了经济共和主义的历史传统，这种传统旨在限制公共和私人权力的任意行使，以保障个人自由。通过研究托马斯·霍奇斯金、约翰·弗朗西斯·布雷和亨利·乔治等19世纪思想家，文章认为经济自治是完成共和主义项目、抵制威权主义的必要条件。文章强调了这些思想的当代相关性，建议民主共和国必须解决经济权力问题，以确保真正的民众控制和个人自由。",
+    "best_quote_en": "Liberty requires power over the conditions of one’s life",
+    "best_quote_zh": "自由需要对个人生活条件的控制权"
+  },
+  {
+    "id": 266,
+    "title": "15 Grammy Award Winners Who Made History With Their Wins",
+    "title_zh": "15位格莱美奖得主以他们的获奖改写历史",
+    "source": "Mental Floss",
+    "link": "https://www.mentalfloss.com/entertainment/awards/grammy-winners-made-history?utm_source=RSS",
+    "tags": [
+      "solve",
+      "music-arts",
+      "design",
+      "case-study"
+    ],
+    "tags_zh": [
+      "解决",
+      "音乐艺术",
+      "设计创意",
+      "案例研究"
+    ],
+    "date": "2026-01-25",
+    "summary_en": "This article celebrates 15 Grammy winners who made history with their wins, highlighting moments of inclusivity and firsts in the music industry. From Ella Fitzgerald, the first Black woman to win a Grammy, to Taylor Swift, the first woman to win Album of the Year three times, these artists have not only achieved personal milestones but have also paved the way for greater diversity and representation in music. The piece reflects on the broader significance of these achievements, emphasizing how they have shifted whose stories and talents are recognized on a global scale.",
+    "summary_zh": "这篇文章庆祝了15位格莱美奖得主以他们的获奖改写历史，突显了音乐行业包容性和首次突破的时刻。从第一位获得格莱美奖的黑人女性埃拉·菲茨杰拉尔德，到第一位三次获得年度专辑奖的女性泰勒·斯威夫特，这些艺术家不仅实现了个人里程碑，还为音乐界的多样性和代表性铺平了道路。文章反思了这些成就的更广泛意义，强调它们如何改变了全球范围内被认可的故事和才华。",
+    "best_quote_en": "Every ceremony is a new opportunity for a nominee to make history.",
+    "best_quote_zh": "每一届颁奖典礼都是候选人创造历史的新机会。"
+  },
+  {
+    "id": 267,
+    "title": "Can you just vibe vulnerabilities?",
+    "title_zh": "你能直接找到漏洞吗？",
+    "source": "LessWrong",
+    "link": "https://www.lesswrong.com/posts/HrnaF9Qe5kokpLWFs/can-you-just-vibe-vulnerabilities",
+    "tags": [
+      "analyze",
+      "science",
+      "cybersecurity",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "分析",
+      "科学研究",
+      "网络安全",
+      "数据驱动"
+    ],
+    "date": "2026-01-26",
+    "summary_en": "The author explores the current capabilities of AI in autonomously finding software vulnerabilities, expressing skepticism towards academic research and seeking practical insights. Through personal experimentation with AI tools like Claude, the author discovers both the potential and limitations of AI in cybersecurity. The piece highlights the challenges of avoiding 'slop'—false positives or irrelevant results—and the importance of rigorous testing. Ultimately, the author concludes that while AI shows promise, it is not yet reliable for one-shot vulnerability detection in real-world software.",
+    "summary_zh": "作者探讨了人工智能在自主发现软件漏洞方面的当前能力，对学术研究表示怀疑，寻求实际见解。通过使用Claude等AI工具的个人实验，作者发现了AI在网络安全中的潜力和局限。文章突出了避免“垃圾”结果的挑战以及严格测试的重要性。最终，作者得出结论：尽管AI展示出潜力，但目前尚不能可靠地一步到位地检测现实世界软件中的漏洞。",
+    "best_quote_en": "That is simply not true.",
+    "best_quote_zh": "这简直就是错的。"
   }
 ]
