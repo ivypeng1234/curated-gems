@@ -1,97 +1,5 @@
 [
   {
-    "id": 173,
-    "title": "Quiz: Name the Iconic Christmas Song With Just One Lyric",
-    "title_zh": "测验：仅凭一句歌词猜出经典圣诞歌曲",
-    "source": "Mental Floss",
-    "link": "https://www.mentalfloss.com/quizzes/name-iconic-christmas-song-one-lyric?utm_source=RSS",
-    "tags": [
-      "inspire",
-      "music-arts",
-      "beginner-friendly"
-    ],
-    "tags_zh": [
-      "启发",
-      "音乐艺术",
-      "新手友好"
-    ],
-    "date": "2025-11-16",
-    "summary_en": "This engaging Christmas music quiz challenges readers to identify iconic holiday songs from just one lyric. It serves as both entertainment and a cultural exploration of Christmas music history. The article reveals fascinating details about lyric changes in 'Have Yourself a Merry Little Christmas,' highlighting how the song evolved from its original somber WWII-era lyrics to the more uplifting version we know today. This content offers educational value about music history and emotional resonance, making it particularly relevant for music enthusiasts and those interested in cultural studies.",
-    "summary_zh": "这个有趣的圣诞音乐测验挑战读者仅凭一句歌词猜出经典节日歌曲。既是娱乐，也是圣诞音乐文化的深度探索。文章揭示了《祝你圣诞快乐》歌词变迁的精彩细节，展现了这首歌从二战时期阴郁的原版到如今更积极版本的演变。内容对音乐爱好者和文化研究者具有教育价值，尤其突出了音乐与情感共鸣的关联。",
-    "best_quote_en": "'Have yourself a merry little Christmas. It may be your last. Next year we may all be living in the past.'",
-    "best_quote_zh": "“祝你圣诞快乐。这可能是你的最后一个圣诞节。明年我们可能都生活在过去。”"
-  },
-  {
-    "id": 174,
-    "title": "Mixed Feelings on Social Munchkinry",
-    "title_zh": "关于社会精英化的复杂情感",
-    "source": "LessWrong",
-    "link": "https://www.lesswrong.com/posts/zxdjt2tLnxvGhW9Fd/mixed-feelings-on-social-munchkinry",
-    "tags": [
-      "solve",
-      "education",
-      "science",
-      "case-study"
-    ],
-    "tags_zh": [
-      "解决",
-      "教育学习",
-      "科学研究",
-      "案例研究"
-    ],
-    "date": "2025-11-17",
-    "summary_en": "The article explores the concept of 'social munchkinry,' drawing parallels from tabletop gaming to social interactions. The author presents both positive and negative aspects, highlighting how optimizing social norms can lead to meaningful connections but also create ethical dilemmas. The piece is introspective, blending personal anecdotes with broader philosophical questions about social optimization. The author's mixed feelings reflect the dual nature of this phenomenon, where it can either foster genuine connections or exploit social loopholes. The most valuable insight is the recognition that social munchkinry can be a tool for deeper relationships when used ethically, but it risks becoming manipulative when prioritizing personal gain over mutual respect.",
-    "summary_zh": "文章探讨了“社会精英化”这一概念，从桌游中借鉴“精英化”行为延伸到社交互动。作者列举了正反两面的例子，说明优化社交规则既能促进真诚交流，也可能引发伦理争议。这篇文章充满个人思考，将个案故事与更广泛的社交优化哲学相结合。作者的矛盾心理反映了这一现象的双面性：它既能成为深化关系的工具，也可能沦为利用社交漏洞的手段。最有价值的观点是社会精英化在道德使用下能促进真诚关系，但若仅为个人利益优先，则可能变成操控他人的手段。",
-    "best_quote_en": "If you mean the lubrication of deep friendships, the philosophic thought experiment, the instigation of Solstice songs on their lips and laughter in their hearts, and the warm glow of satisfaction in their eyes; if you mean the spark of creativity; if you mean the stimulating optimization that puts a spring in the new organizer's step on a frosty, crispy morning... then certainly I am for it.",
-    "best_quote_zh": "如果你指的是促进深厚友谊的润滑剂，哲学思考实验的引发者，让人们嘴里吟唱着冬至之歌、心中充满欢笑，眼睛里闪烁着满足光芒；如果你指的是创造力的火花；如果你指的是在寒冷清晨让新组织者步伐轻快的刺激性优化...那么我当然支持它。"
-  },
-  {
-    "id": 175,
-    "title": "The Meaning of Trump’s Presidential Pardons",
-    "title_zh": "特朗普总统特赦的意义",
-    "source": "The New Yorker",
-    "link": "https://www.newyorker.com/magazine/2025/11/24/the-meaning-of-trumps-presidential-pardons",
-    "tags": [
-      "solve",
-      "politics",
-      "controversial"
-    ],
-    "tags_zh": [
-      "解决",
-      "政治时事",
-      "争议观点"
-    ],
-    "date": "2025-11-16",
-    "summary_en": "The article examines the unprecedented scale and nature of Donald Trump's presidential pardons in his second term, highlighting how they've expanded from occasional corrective measures to a systematic tool for political loyalty and financial gain. The piece explores the constitutional basis of the pardon power, its historical use, and how Trump's administration has transformed it into what the author calls a 'pardon economy.' Notably, the article reveals how pardons have become entangled with political favors and financial interests, citing examples like the pardon of crypto billionaire Changpeng Zhao and the potential implications of a possible pardon for Ghislaine Maxwell. The analysis raises critical questions about the erosion of equal justice and the creation of a separate legal system for allies and investors, while noting the political risks Trump faces as his popularity declines.",
-    "summary_zh": "文章深入分析了特朗普第二任期内特赦权的扩大及其本质变化，从偶尔的纠正性措施演变为系统性的政治忠诚和经济利益工具。探讨了特赦权的宪法基础及历史使用，揭示了特朗普政府将其转化为",
-    "best_quote_en": "\"No maga left behind\"",
-    "best_quote_zh": "\"不让任何支持者落后\""
-  },
-  {
-    "id": 176,
-    "title": "Old ‘Ghost’ Theory of Quantum Gravity Makes a Comeback",
-    "title_zh": "量子引力的“幽灵”理论卷土重来",
-    "source": "Quanta Magazine",
-    "link": "https://www.quantamagazine.org/old-ghost-theory-of-quantum-gravity-makes-a-comeback-20251117/",
-    "tags": [
-      "solve",
-      "science",
-      "ai-research",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "解决",
-      "科学研究",
-      "AI研究",
-      "未来预测"
-    ],
-    "date": "2025-11-17",
-    "summary_en": "The article revisits quadratic gravity, a 1977 theory long dismissed due to its 'ghost' particles with negative energy. Recent research suggests these ghosts may not be problematic after all, potentially offering new insights into quantum gravity. Physicists are now finding that quadratic gravity, when applied through standard quantum field theory, produces unexpected predictions and could explain cosmic inflation. While challenges remain, the theory's mathematical consistency and potential to describe gravity at all scales make it a compelling area of study, even as some researchers remain skeptical about its ability to fully address fundamental physics issues like causality.",
-    "summary_zh": "这篇文章重新审视了1977年的二次引力理论，该理论因包含负能量的“幽灵”粒子而长期被忽视。近期研究表明，这些幽灵粒子可能并非问题所在，反而可能为量子引力提供新的理解。物理学家发现，通过标准量子场论应用该理论时，会产生意想不到的预测，甚至可能解释宇宙膨胀。尽管仍有挑战，但该理论的数学一致性和潜在的在所有尺度下描述引力的能力，使其成为一个引人注目的研究领域，尽管一些研究人员仍对其是否能完全解决因果性等基本物理问题持怀疑态度。",
-    "best_quote_en": "Ghosts may be 'new objects that appear when we try to understand gravity and quantum field theory at a deeper level.'",
-    "best_quote_zh": "幽灵可能是“当我们试图在更深的层次上理解引力和量子场论时出现的新对象。”"
-  },
-  {
     "id": 177,
     "title": "The inflammation age",
     "title_zh": "炎症时代",
@@ -2350,5 +2258,99 @@
     "summary_zh": "文章深入探讨了联邦官员在执行职务时享有的豁免权，特别是在最近明尼阿波利斯市ICE和边境巡逻队员杀人事件的背景下。讨论了联邦官员在执行职务时享有的豁免权，以及州政府在起诉联邦官员时面临的法律和实际障碍。Vladeck教授指出，历史上存在这种豁免权，最高法院在其中扮演重要角色，州政府的起诉可能填补联邦问责的空白。文章还涉及最高法院内部的意识形态分歧及其对宪法执行的更广泛影响。",
     "best_quote_en": "A world in which the Constitution is only enforceable against the federal government prospectively is a world in which the federal government and its officers can do whatever it wants to the people.",
     "best_quote_zh": "一个只能对联邦政府前瞻性执行宪法的世界，是一个联邦政府和其官员可以对人民为所欲为的世界。"
+  },
+  {
+    "id": 273,
+    "title": "A lesson in coexistence",
+    "title_zh": "共存的教训",
+    "source": "Aeon",
+    "link": "https://aeon.co/essays/lessons-in-pluralism-from-a-17th-century-african-town?utm_source=rss-feed",
+    "tags": [
+      "guide",
+      "society",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "指导",
+      "社会议题",
+      "数据驱动"
+    ],
+    "date": "2026-01-27",
+    "summary_en": "The essay on Crispina Peres offers a profound lesson in historical pluralism and coexistence. Peres, a powerful trader in 17th-century Cacheu, Guinea-Bissau, navigated a complex web of cultures, languages, and faiths. Her story, revealed through Inquisition trial records, highlights a society where Christianity, Islam, Judaism, and West African religions coexisted. Peres's multilingualism and sociability were key to her influence, challenging the patriarchal norms of the Portuguese Empire. The essay underscores the fragility and preciousness of coexistence, urging us to learn from past plural societies to address contemporary divisions and inequalities. It serves as a reminder that shared lives and cultural exchange are essential for peaceful coexistence, a lesson increasingly relevant in today's fractured world.",
+    "summary_zh": "关于克里丝皮娜·佩雷斯的文章，为我们提供了历史多元化与共存的深刻教训。佩雷斯是17世纪几内亚比绍的卡绍镇的强大商人，她在复杂的文化、语言和信仰网络中穿梭。她的故事通过宗教裁判所的审判记录揭示了一个基督教、伊斯兰教、犹太教和西非宗教共存的社会。佩雷斯的多语言能力和社交能力是她影响力的关键，挑战了葡萄牙帝国的父权制 norm。文章强调了共存的脆弱性和宝贵性，鼓励我们从过去的多元社会中学习，以应对当代的分裂和不平等。它提醒我们，共享的生活和文化交流对和平共存至关重要，这是在今天的破碎世界中越来越相关的教训。",
+    "best_quote_en": "Co-sharing in the lives of people from different backgrounds is key for peaceful coexistence.",
+    "best_quote_zh": "与不同背景的人共享生活是和平共处的关键。"
+  },
+  {
+    "id": 274,
+    "title": "Are You Drinking Enough Water? Here’s How Much You Really Need Each Day",
+    "title_zh": "每天需要喝多少水？",
+    "source": "Mental Floss",
+    "link": "https://www.mentalfloss.com/science/health/are-you-drinking-enough-water?utm_source=RSS",
+    "tags": [
+      "solve",
+      "science",
+      "lifestyle",
+      "beginner-friendly"
+    ],
+    "tags_zh": [
+      "解决",
+      "科学研究",
+      "生活方式",
+      "新手友好"
+    ],
+    "date": "2026-01-27",
+    "summary_en": "The article challenges the conventional wisdom of drinking eight glasses of water daily, offering a more personalized approach based on individual factors. It emphasizes water's crucial role in bodily functions and provides practical guidelines for staying hydrated. The piece also warns about the rare but serious condition of hyponatremia, caused by overhydration. Ultimately, it advises listeners to their body's needs and use simple indicators like thirst and urine color to gauge hydration.",
+    "summary_zh": "文章质疑每天喝八杯水的建议，强调应根据个人情况调整饮水量。水对身体功能至关重要，文章提供了实用的保持水分的指南。同时，提醒过量饮水可能导致严重的“低钠血症”。最终，建议听从身体需求，通过口渴和尿液颜色来判断是否充分补水。",
+    "best_quote_en": "Water isn't just for quenching thirst; it's the subtle savior of every bodily system.",
+    "best_quote_zh": "水不仅仅是解渴，它是每个身体系统的隐形救星。"
+  },
+  {
+    "id": 275,
+    "title": "Anomalous Tokens on Gemini 3.0 Pro",
+    "title_zh": "Gemini 3.0 Pro中的异常标记",
+    "source": "LessWrong",
+    "link": "https://www.lesswrong.com/posts/XuzPu5mBDY3TCvw2J/anomalous-tokens-on-gemini-3-0-pro",
+    "tags": [
+      "analyze",
+      "science",
+      "ai-research",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "分析",
+      "科学研究",
+      "AI研究",
+      "未来预测"
+    ],
+    "date": "2026-01-28",
+    "summary_en": "The article discusses an unusual behavior observed in the Gemini 3.0 Pro AI model. While working on a bioinformatics CLI utility, the author encountered repetitive and anomalous phrases generated by Gemini. These phrases, such as 'myNegazioni,' 'is具体 Цент Disclosure,' and repetitive sequences like 'Mourinho well Johnnyfaat,' appeared without any apparent trigger related to the conversation context. The author conducted various tests, including deleting and replacing prompts, but the anomalous behavior only occurred once. The 'Show Thinking' section of the article delves into a hypothetical analysis of tumor characteristics, using repetitive phrases and patterns that mirror the anomalous output. This raises questions about the model's internal processes and potential for unintended outputs, highlighting the need for further investigation into AI behavior and safety.",
+    "summary_zh": "该文章讨论了Gemini 3.0 Pro AI模型中观察到的异常行为。在为生物信息学 CLI 工具编写说明时，作者遇到了Gemini生成的重复和异常短语。这些短语，如“myNegazioni”、“is具体 Цент Disclosure”以及重复的序列“Mourinho well Johnnyfaat”，似乎与对话上下文无关。作者进行了各种测试，包括删除和替换提示，但异常行为只出现了一次。文章的“显示思维”部分深入探讨了肿瘤特征的假设分析，使用了重复的短语和模式，这些模式与异常输出相似。这引发了对模型内部过程和潜在意外输出的疑问，强调了进一步调查AI行为和安全性的必要性。",
+    "best_quote_en": "This isn't my research area, so I thought I'd just post it here in case it was interesting to anybody on LessWrong.",
+    "best_quote_zh": "这不是我的研究领域，所以我只是把它发布在这里，看看是否对LessWrong上的任何人感兴趣。"
+  },
+  {
+    "id": 276,
+    "title": "Why an Agnostic Animal-Rights Activist Went to Seminary",
+    "title_zh": "Why an Agnostic Animal-Rights Activist Went to Seminary",
+    "source": "The New Yorker",
+    "link": "https://www.newyorker.com/news/fault-lines/why-an-agnostic-animal-rights-activist-went-to-seminary",
+    "tags": [
+      "inspire",
+      "writing-content",
+      "startup-strategy",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "启发",
+      "写作内容",
+      "创业策略",
+      "数据驱动"
+    ],
+    "date": "2026-01-27",
+    "summary_en": "Wayne Hsiung, an agnostic animal-rights activist, has made a surprising move by enrolling in seminary, seeking to harness the power of religious community to advance his cause. Hsiung's journey from open rescues to seminary highlights the challenges of sustaining social movements and the potential of religious infrastructure to provide lasting support. His insights on the role of identity, narrative, and ritual in social movements offer a thoughtful perspective on the intersection of activism and faith. Hsiung's story underscores the need for a shared moral purpose and the importance of community in driving social change. His exploration of the church as a means to revitalize social movements and address the decline in religious participation provides a unique lens through which to view the future of activism.",
+    "summary_zh": "无神论动物权利活动家韦恩·休恩决定进神学院，试图借助宗教社区的力量推动其事业。他的转变反映了维持社会运动的挑战，以及宗教基础设施在提供持久支持方面的潜力。休恩关于身份、叙事和仪式在社会运动中的作用的见解，为活动主义与信仰的交叉点提供了深思熟虑的视角。他的故事强调了共同道德目的和社区在推动社会变革中的必要性。探索教会作为复兴社会运动和应对宗教参与度下降的手段，为未来的活动主义提供了独特的视角。",
+    "best_quote_en": "You don’t believe in God? That seems odd for somebody in seminary. I don’t believe in God in the traditional Christian sense, or the traditional Buddhist or Hindu sense. I think the universe can be explained by the physical laws of science, probably. Science has a better claim to truth than any other paradigm we’ve discovered.",
+    "best_quote_zh": "你不相信上帝？这对一个在神学院的人来说似乎很奇怪。我不相信传统基督教、佛教或印度教意义上的上帝。我认为宇宙可以通过科学的物理定律来解释，可能。科学对真理的主张比我们发现的任何其他范式都更好。"
   }
 ]
