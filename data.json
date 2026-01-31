@@ -1,121 +1,5 @@
 [
   {
-    "id": 185,
-    "title": "The Meaning of Après-Ski—And How the Lifestyle Became So Popular",
-    "title_zh": "滑雪后的意义——及其成为流行生活方式的原因",
-    "source": "Mental Floss",
-    "link": "https://www.mentalfloss.com/culture/apres-ski-meaning-lifestyle-popular?utm_source=RSS",
-    "tags": [
-      "analyze",
-      "lifestyle",
-      "science",
-      "beginner-friendly"
-    ],
-    "tags_zh": [
-      "分析",
-      "生活方式",
-      "科学研究",
-      "新手友好"
-    ],
-    "date": "2026-01-05",
-    "summary_en": "The concept of aprÃ¨s-ski, literally translating to 'after skiing,' has evolved from a simple reward for a day on the slopes to a full-blown lifestyle. Originating in the Alps during the 1950s, aprÃ¨s-ski has grown to encompass various activities, from cozy lodge drinks to wellness rituals. Its current popularity is driven by social media appeal and a cultural shift towards wellness. The article emphasizes that aprÃ¨s-ski is about personal reward and relaxation, not conforming to a specific aesthetic or party culture. It encourages readers to customize their aprÃ¨s-ski experience based on their preferences, whether it's warmth, wellness, food, or social interaction. This insight into the evolution and personalization of aprÃ¨s-ski highlights its broader significance in modern leisure culture.",
-    "summary_zh": "“滑雪后”这一概念从单纯的滑雪后奖励演变为一种全新的生活方式。它起源于1950年代的阿尔卑斯山区，当时的滑雪胜地开始发展成为旅游目的地。滑雪后的活动从温馨的小屋饮品到养生仪式应有尽有。其当前的流行是由社交媒体的吸引力和文化向养生转变所推动的。文章强调，滑雪后的活动是关于个人奖励和放松，而不是遵循特定的美学或派对文化。它鼓励读者根据自己的喜好定制滑雪后的体验，无论是温暖、养生、美食还是社交互动。",
-    "best_quote_en": "'AprÃ¨s-ski is that reward, whether itâs a cozy lodge drink, a hot tub soak, or dancing on tables in your ski boots.'",
-    "best_quote_zh": "“滑雪后是一种奖励，无论是温馨的小屋饮品，温泉浴，还是穿着滑雪靴跳舞。”"
-  },
-  {
-    "id": 186,
-    "title": "Exploring Reinforcement Learning Effects on Chain-of-Thought Legibility",
-    "title_zh": "探索强化学习对链条式思维可读性的影响",
-    "source": "LessWrong",
-    "link": "https://www.lesswrong.com/posts/9z6TuKEgZNsmqdfy6/exploring-reinforcement-learning-effects-on-chain-of-thought",
-    "tags": [
-      "analyze",
-      "education",
-      "science",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "分析",
-      "教育学习",
-      "科学研究",
-      "数据驱动"
-    ],
-    "date": "2026-01-06",
-    "summary_en": "This study delves into the effects of reinforcement learning (RL) on the legibility of chain-of-thought (CoT) reasoning in AI models. The authors train models on math datasets, varying sampling temperatures, KL divergence penalties, and length budgets to observe how these factors influence the readability of CoT traces. High temperatures and entropy bonuses led to increased accuracy but also introduced nonsensical tokens, suggesting that models can learn to ignore irrelevant gibberish while maintaining performance. KL divergence pressure resulted in models appending nonsensical tokens to coherent reasoning, indicating that these tokens do not serve a functional role. The research highlights the challenges and potential risks of using RL to train models that produce illegible but functional reasoning traces, emphasizing the need for further investigation into this phenomenon.",
-    "summary_zh": "这项研究探讨了强化学习（RL）对人工智能模型链条式思维（CoT）可读性的影响。作者在数学数据集上训练模型，变化采样温度、KL散度惩罚和长度预算，以观察这些因素如何影响CoT跟踪的可读性。高温度和熵奖励提高了准确性，但也引入了无意义的标记，表明模型可以在保持性能的同时学会忽略无关的乱码。KL散度压力导致模型在连贯的推理后附加无意义的标记，表明这些标记不具有功能性。研究突显了使用RL训练模型产生不可读但功能性推理轨迹的挑战和潜在风险，强调需要进一步研究这一现象。",
-    "best_quote_en": "Chain-of-thought monitoring may serve as a core pillar for AI safety if further advancements in AI capabilities do not significantly degrade the monitorability of LLM serial reasoning.",
-    "best_quote_zh": "如果进一步的AI能力提升不显著降低LLM串行推理的可监控性，那么链条式思维监控可能会成为AI安全的核心支柱。"
-  },
-  {
-    "id": 187,
-    "title": "The Maduro Regime Without Maduro",
-    "title_zh": "马杜罗政权无马杜罗",
-    "source": "The New Yorker",
-    "link": "https://www.newyorker.com/news/q-and-a/the-maduro-regime-without-maduro",
-    "tags": [
-      "analyze",
-      "politics",
-      "controversial"
-    ],
-    "tags_zh": [
-      "分析",
-      "政治时事",
-      "争议观点"
-    ],
-    "date": "2026-01-06",
-    "summary_en": "The political landscape of Venezuela post-Maduro seizure reveals a complex web of autocratic practices, economic mismanagement, and internal power struggles. Maduro's regime, characterized by increasing authoritarianism and economic blunders, relied heavily on military and elite co-optation. The opposition, led by María Corina Machado, faces significant challenges, including internal divisions and external pressures from the U.S. Trump's intervention, driven by economic interests rather than democratic ideals, complicates the situation further. The future of Venezuela hinges on the balance of power within the regime and the opposition's ability to navigate both internal and external dynamics.",
-    "summary_zh": "马杜罗政权的倒台揭示了威权主义、经济失误和内部权力斗争的复杂网络。马杜罗通过军队和精英的收买维持了权力，而反对派领袖玛丽亚·科里纳·马乔在内部分裂和美国压力下面临重大挑战。特朗普的干预以经济利益为主，而不是民主理想，进一步复杂了局势。委内瑞拉的未来取决于政权内部的权力平衡和反对派应对内外动态的能力。",
-    "best_quote_en": "Maduro made it to the Presidency because of a decision by Hugo Chávez... But, the moment Maduro came in, he started to lose popularity, which prompted him to become even more autocratic than Chávez.",
-    "best_quote_zh": "马杜罗是因为乌戈·查韦斯的决定才上台的……但马杜罗上台后，他开始失去人气，这促使他比查韦斯更加独裁。"
-  },
-  {
-    "id": 188,
-    "title": "Distinct AI Models Seem To Converge On How They Encode Reality",
-    "title_zh": "不同的人工智能模型似乎在编码现实方面趋同",
-    "source": "Quanta Magazine",
-    "link": "https://www.quantamagazine.org/distinct-ai-models-seem-to-converge-on-how-they-encode-reality-20260107/",
-    "tags": [
-      "analyze",
-      "ai-research",
-      "science",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "分析",
-      "AI研究",
-      "科学研究",
-      "数据驱动"
-    ],
-    "date": "2026-01-07",
-    "summary_en": "The article delves into the intriguing hypothesis that different AI models, despite being trained on diverse data types, may converge on a shared representation of the world. This concept, dubbed the Platonic representation hypothesis, suggests that as AI models grow more powerful, they develop similar internal representations. The debate revolves around whether these models are capturing universal features of the world or merely quirks of their training data. The implications are profound, hinting at a potential unification of AI understanding across different domains. The controversy highlights the need for further research to determine the extent and nature of this convergence.",
-    "summary_zh": "文章探讨了不同的人工智能模型，尽管训练数据类型不同，但可能会趋同于对世界的共同表示。这种假设被称为柏拉图表示假设，暗示随着AI模型变得更加强大，它们会发展出相似的内部表示。争议的焦点在于，这些模型是否捕捉到了世界的普遍特征，还是仅仅捕捉到了训练数据的特殊性。这意味着AI理解在不同领域可能会实现统一。争议突显了进一步研究的必要性，以确定这种趋同的程度和性质。",
-    "best_quote_en": "Why do the language model and the vision model align? Because they’re both shadows of the same world.",
-    "best_quote_zh": "语言模型和视觉模型为什么会对齐？因为它们都是同一个世界的影子。"
-  },
-  {
-    "id": 189,
-    "title": "Incandescent anger",
-    "title_zh": "燃烧的愤怒",
-    "source": "Aeon",
-    "link": "https://aeon.co/essays/what-explains-the-perpetual-need-for-political-enemies?utm_source=rss-feed",
-    "tags": [
-      "solve",
-      "politics",
-      "controversial"
-    ],
-    "tags_zh": [
-      "解决",
-      "政治时事",
-      "争议观点"
-    ],
-    "date": "2025-12-23",
-    "summary_en": "The essay explores the phenomenon of 'grievance politics,' where individuals and movements derive their identity and energy from perpetual opposition and hostility rather than positive aspirations. It delves into the psychological and existential rewards of this stance, which transforms inward pain into outward hostility and offers a sense of identity and community. The author contrasts this with 'contingently negative' movements that use opposition as a means to achieve a positive end, such as the anti-Vietnam War and anti-apartheid movements. The essay argues that grievance politics is structurally dependent on having enemies and that traditional responses like fact-checking or appeasement fail because they do not address the underlying need for opposition. The solution, according to the author, lies in redirecting these energies towards devotion and affirmation, providing a sense of meaning and belonging without requiring an enemy.",
-    "summary_zh": "这篇文章探讨了“怨恨政治”，即个人和运动从持续的对立和敌意中获取身份和能量，而不是积极的理想。它深入分析了这种立场的心理和存在上的回报，将内在的痛苦转化为外在的敌意，并提供身份和社区感。作者将其与“条件性负面”的运动进行对比，这些运动将对立作为实现积极目标的手段。文章认为，怨恨政治在结构上依赖于敌人，而传统的回应如事实核查或妥协都失败了，因为它们没有解决对立的根本需求。作者认为，解决方案在于将这些能量转向崇拜和肯定，提供意义和归属感，而不需要敌人。",
-    "best_quote_en": "'I imagine that one of the reasons people cling to their hates so stubbornly is because they sense, once hate is gone, that they will be forced to deal with pain.' – James Baldwin",
-    "best_quote_zh": "‘我认为人们之所以固执地抓住仇恨不放，是因为他们感到，一旦仇恨消失，他们将不得不面对痛苦。’——詹姆斯·鲍德温"
-  },
-  {
     "id": 190,
     "title": "5 Must-See Movies You Won't Believe Turn 25 In 2026",
     "title_zh": "5 Must-See Movies You Won't Believe Turn 25 In 2026",
@@ -2352,5 +2236,125 @@
     "summary_zh": "这篇文章为旅行者和数字游民提供了实用的见解，重点介绍了必要的装备、经济实惠的居住地点和签证选项。作者分享了轻便防水徒步裤的个人经验，适用于各种天气条件，不增加行李的体积。文章还讨论了美国财政政策对海外生活成本的影响，突出了美元仍然有价值的国家。此外，它介绍了希尔顿的新公寓租赁计划，提供积分和24/7支持，并汇编了欧洲数字游民签证的全面信息，使其成为那些希望在海外生活和工作的人的宝贵资源。",
     "best_quote_en": "We got caught in multiple drizzles on land and at sea and even ran into some snow at altitude while trekking, but these didn’t make my legs sweat and they didn’t take up extra room in the suitcase.",
     "best_quote_zh": "我们在陆地和海上遇到了多次毛毛雨，甚至在徒步时在高海拔处遇到了雪，但这些裤子没有让我的腿出汗，也没有占用额外的行李空间。"
+  },
+  {
+    "id": 285,
+    "title": "Once Thought To Support Neurons, Astrocytes Turn Out To Be in Charge",
+    "title_zh": "曾被认为支持神经元的星形胶质细胞，现被发现掌控大脑",
+    "source": "Quanta Magazine",
+    "link": "https://www.quantamagazine.org/once-thought-to-support-neurons-astrocytes-turn-out-to-be-in-charge-20260130/",
+    "tags": [
+      "analyze",
+      "science",
+      "psychology",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "分析",
+      "科学研究",
+      "心理学",
+      "数据驱动"
+    ],
+    "date": "2026-01-30",
+    "summary_en": "A groundbreaking trio of studies published in Science in 2025 has revealed that astrocytes, long considered mere support cells for neurons, play a crucial role in modulating brain activity and overall mental and emotional states. These cells, which outnumber neurons in many brain regions, use calcium waves to monitor and tune neuronal activity, effectively acting as supervisors of brain circuits. This discovery challenges the neuron-centric view of neuroscience and suggests that astrocytes are integral to understanding brain function and neuropsychiatric disorders. The research highlights the need to include astrocytes in brain models and experiments, as their influence on neural circuits is profound and far-reaching.",
+    "summary_zh": "2025年在《科学》上发表的一组研究揭示，星形胶质细胞（astrocytes）不仅仅是神经元的支持细胞，它们通过钙波监控和调节神经元活动，从而控制大脑的整体状态和情绪。这一发现挑战了以神经元为中心的神经科学观点，表明星形胶质细胞在理解大脑功能和神经精神障碍中起着关键作用。研究强调需要在大脑模型和实验中纳入星形胶质细胞，因为它们对神经回路的影响深远而重要。",
+    "best_quote_en": "You can get dramatic changes in firing patterns of neurons with zero changes in [neuronal] connectivity.",
+    "best_quote_zh": "神经元的连接方式不变，也能显著改变神经元的放电模式。"
+  },
+  {
+    "id": 286,
+    "title": "Is inherited wealth bad?",
+    "title_zh": "继承财富是坏事吗？",
+    "source": "Aeon",
+    "link": "https://aeon.co/essays/inherited-wealth-is-a-natural-byproduct-of-a-healthy-growing-economy?utm_source=rss-feed",
+    "tags": [
+      "solve",
+      "economics",
+      "society",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "解决",
+      "经济金融",
+      "社会议题",
+      "数据驱动"
+    ],
+    "date": "2026-01-29",
+    "summary_en": "The essay challenges the alarmist narrative of an 'inheritance explosion' in Western economies, arguing that rising inheritance values do not pose an existential threat to economic growth or meritocracy. It highlights that most inherited wealth consists of family homes or savings, and occasionally family enterprises that reflect long-term entrepreneurship. The author notes that inheritance can reduce wealth gaps for less wealthy heirs and that inheritance taxes often prove inefficient and inequitable. The essay explores the historical trends and complex relationship between inheritance, growth, and inequality, suggesting that rather than heavily taxing or curtailing inheritance, policies should focus on expanding opportunities for wealth creation.",
+    "summary_zh": "这篇文章质疑了西方经济即将发生“继承财富爆炸”的警告，认为继承财富增加并不会对经济增长或精英制度构成致命威胁。文章指出，大多数继承财富是父母的住房或长期储蓄，偶尔是家族企业，反映了长期的企业家精神。作者指出，继承财富可以缩小贫困者的财富差距，而继承税往往效率低下且不公平。文章探讨了继承财富的历史趋势及其与经济增长和不平等之间的复杂关系，建议政策应关注扩大财富创造的机会，而不是过度征税或限制继承财富。",
+    "best_quote_en": "Perhaps instead of fixating on what is passed down, we should focus on expanding who gets to build and eventually inherit wealth, through policies that spur growth, entrepreneurship and broad-based opportunity.",
+    "best_quote_zh": "也许我们不应该固执于继承财富，而是应该通过促进增长、创业和广泛的机会政策，关注谁有机会建立和最终继承财富。"
+  },
+  {
+    "id": 287,
+    "title": "5 Common Misconceptions About ADHD People Still Believe",
+    "title_zh": "人们仍然相信的关于 ADHD 的 5 个常见误解",
+    "source": "Mental Floss",
+    "link": "https://www.mentalfloss.com/science/psychology/misconceptions-about-adhd?utm_source=RSS",
+    "tags": [
+      "learn",
+      "science",
+      "psychology",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "学习",
+      "科学研究",
+      "心理学",
+      "数据驱动"
+    ],
+    "date": "2026-01-30",
+    "summary_en": "The article '5 Common Misconceptions About ADHD People Still Believe' debunks prevalent myths surrounding Attention Deficit Hyperactivity Disorder. It explores how societal perceptions and misconceptions shape the treatment of ADHD individuals, from childhood to adulthood. The piece highlights that ADHD is not merely about inattention but rather about managing attention. It also addresses the diverse symptoms, the impact on both genders, the persistence of ADHD into adulthood, and the role of parenting. The author's insights underscore the need for a more nuanced understanding of ADHD, emphasizing that it is a complex neurological condition that requires tailored strategies for management. This article is a call to action for educators, parents, and society at large to challenge stereotypes and support those with ADHD more effectively.",
+    "summary_zh": "文章《人们仍然相信的关于 ADHD 的 5 个常见误解》揭示了关于注意力缺陷多动障碍（ADHD）的普遍误解。它探讨了社会对 ADHD 的理解如何影响对患者的处理，从儿童到成年。文章强调，ADHD 并不是简单的注意力不集中，而是关于管理注意力。它还讨论了不同的症状、对不同性别的影响、ADHD 随年龄的持续以及养育方式的作用。作者的见解强调需要对 ADHD 有更深入的理解，强调它是一种复杂的神经系统疾病，需要个性化的管理策略。这篇文章呼吁教育工作者、家长和社会大众挑战刻板印象，更有效地支持 ADHD 患者。",
+    "best_quote_en": "ADHD isn't a lack of attention; it's trouble managing it.",
+    "best_quote_zh": "ADHD 不是注意力不集中，而是管理注意力的困难。"
+  },
+  {
+    "id": 288,
+    "title": "Forecast: Recursively Self-improving AI for 2033",
+    "title_zh": "预测：2033年的递归自我改进人工智能",
+    "source": "LessWrong",
+    "link": "https://www.lesswrong.com/posts/GHxWxRFto32jedmJh/forecast-recursively-self-improving-ai-for-2033",
+    "tags": [
+      "analyze",
+      "science",
+      "ai-research",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "分析",
+      "科学研究",
+      "AI研究",
+      "未来预测"
+    ],
+    "date": "2026-01-30",
+    "summary_en": "The article forecasts the development of recursively self-improving AI by 2033, based on the doubling of LLM capabilities every 6 months. It discusses the measurement of AI's ability to complete tasks and predicts that by 2033, AI will be capable of writing NeurIPS papers independently, leading to significant self-improvement. The analysis highlights the potential for a hard takeoff scenario, where AI rapidly improves, doubling its capabilities exponentially. This insight underscores the need for understanding and preparing for the implications of advanced AI systems.",
+    "summary_zh": "文章预测2033年将出现递归自我改进的人工智能，基于LLM能力每6个月翻倍的趋势。它讨论了测量AI完成任务能力的方法，并预测到2033年，AI将能够独立撰写NeurIPS论文，从而实现显著的自我改进。分析强调了可能出现的硬启动场景，AI迅速提升能力，呈指数增长。这表明需要理解和准备应对先进AI系统的潜在影响。",
+    "best_quote_en": "In 7 years, i.e. 2033, it will be possible to create a recursively self-improving AI.",
+    "best_quote_zh": "7年后，即2033年，将可能创建递归自我改进的人工智能。"
+  },
+  {
+    "id": 289,
+    "title": "Gar’s Tips & Tools – Issue #208",
+    "title_zh": "Gar的小贴士与工具 – 第208期",
+    "source": "Kevin Kelly",
+    "link": "https://kk.org/cooltools/gars-tips-tools-issue-208/",
+    "tags": [
+      "solve",
+      "science",
+      "lifestyle",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "解决",
+      "科学研究",
+      "生活方式",
+      "数据驱动"
+    ],
+    "date": "2026-01-30",
+    "summary_en": "Gar's latest newsletter issue delves into a variety of intriguing topics, from the fascination of Asian street food videos to practical tool reviews and creative experiments with rattle can paint. The content highlights the cultural significance of eggs in Asian cuisine, referencing Andrew Lawler's book on the history of chickens. It also features Todd from Project Farm's top tool recommendations, Wesley Treat's innovative CMYK printing experiments, and the Tested team's favorite tools of 2025. Additionally, it offers practical advice on preserving food and selecting the best firewood, showcasing a blend of cultural insight, practical tips, and creative experimentation.",
+    "summary_zh": "Gar的最新时事通讯深入探讨了各种引人入胜的话题，从亚洲街头美食视频的魅力，到实用工具评测和利用喷雾罐进行创意实验。内容突出了亚洲饮食中鸡蛋的文化意义，引用了Andrew Lawler关于鸡的历史的书。还包括了Project Farm的Todd对顶级工具的推荐、Wesley Treat的创新CMYK打印实验以及Tested团队2025年的最爱工具。此外，还提供了保存食物和选择最佳燃料的实用建议，展示了文化洞察力、实用技巧和创意实验的结合。",
+    "best_quote_en": "Food tips too good not to share",
+    "best_quote_zh": "食物小贴士，不分享太可惜"
   }
 ]
