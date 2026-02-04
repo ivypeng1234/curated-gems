@@ -1,29 +1,5 @@
 [
   {
-    "id": 195,
-    "title": "The Best U.S. Airports for Remote Work, Ranked",
-    "title_zh": "The Best U.S. Airports for Remote Work, Ranked",
-    "source": "Mental Floss",
-    "link": "https://www.mentalfloss.com/geography/cities/best-us-airports-for-remote-work?utm_source=RSS",
-    "tags": [
-      "solve",
-      "leadership",
-      "science",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "解决",
-      "领导管理",
-      "科学研究",
-      "数据驱动"
-    ],
-    "date": "2026-01-08",
-    "summary_en": "The article ranks U.S. airports based on their suitability for remote work, highlighting factors like Wi-Fi speed, dining options, and passenger volume. It reveals that smaller airports often provide better environments for remote work due to lower passenger traffic and faster internet speeds. The top-ranked airport, John Wayne Airport in California, excels in mobile internet speeds and dining density. The study underscores the evolving role of airports as temporary workspaces for digital nomads and remote workers. It also notes regional strengths, such as California's superior digital infrastructure, which benefits airports in the state. The ranking encourages travelers to consider airports' remote work amenities, transforming waiting time into productive work hours.",
-    "summary_zh": "文章根据远程办公的适宜程度对美国机场进行排名，重点关注Wi-Fi速度、餐饮选项和乘客流量。研究表明，较小的机场通常提供更好的远程办公环境，因为乘客流量较少且互联网速度更快。排名第一的约翰·韦恩机场以其快速的移动互联网速度和高密度的餐饮选项脱颖而出。该研究突显了机场作为数字游民和远程工作者临时办公空间的新角色。它还指出了地区优势，如加利福尼亚州的优越数字基础设施，使该州的机场受益。排名鼓励旅客考虑机场的远程办公设施，将等待时间转化为有效的工作时间。",
-    "best_quote_en": "The study shows that smaller airports often provide better environments for remote work than more major airports, proving that bigger isn’t always better.",
-    "best_quote_zh": "研究表明，较小的机场通常为远程办公提供比大型机场更好的环境，证明了大并不总是更好。"
-  },
-  {
     "id": 196,
     "title": "Parameters of Metacognition - The Anesthesia Patient",
     "title_zh": "麻醉患者的元认知参数",
@@ -2360,5 +2336,29 @@
     "summary_zh": "这篇文章揭示了俄罗斯在欧洲的秘密破坏活动，GRU军事情报通过网络招募年轻人进行间谍活动和破坏。文章追踪了一位乌克兰女子安娜，她在被要求取包裹时无意中卷入了一场反间谍行动。安娜的包裹中包含爆炸物。故事展示了俄罗斯战术的复杂性，使用单次使用的代理人，这些人通常是脆弱的、无政治立场的个体，寻求经济利益。他们通过Telegram等在线平台被招募，任务从破坏到纵火，甚至企图暗杀。文章强调了这些行动背后的战略意图：制造社会分裂，散播恐惧，并破坏西方对乌克兰的支持。使用一次性代理人让俄罗斯在牵制欧洲资源进行调查的同时，保持否认的可能性。文章还探讨了对欧洲安全的更广泛影响和应对混合威胁的挑战。",
     "best_quote_en": "The goal is clear: 'Cause cracks within society or, at least, create the image of such a thing.'",
     "best_quote_zh": "目标很明确：'在社会内部制造裂痕，或者至少制造出这种现象。'"
+  },
+  {
+    "id": 295,
+    "title": "Can you rewire your brain?",
+    "title_zh": "你能重塑大脑吗？",
+    "source": "Aeon",
+    "link": "https://aeon.co/essays/what-the-metaphor-of-rewiring-gets-wrong-about-neuroplasticity?utm_source=rss-feed",
+    "tags": [
+      "analyze",
+      "education",
+      "science",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "分析",
+      "教育学习",
+      "科学研究",
+      "数据驱动"
+    ],
+    "date": "2026-02-03",
+    "summary_en": "The concept of 'rewiring' the brain, while popular, is a misleading metaphor that oversimplifies the complex processes of neuroplasticity. The brain's ability to change and form new neural connections is real but gradual, messy, and often incomplete. It requires effort, repetition, and time, and is influenced by various factors such as age, environment, and emotional state. The metaphor of rewiring suggests a quick, mechanical fix, but true brain change is a lifelong process that demands sustained engagement and respect for biological constraints. It is crucial to move beyond buzzwords and toward a more honest, hopeful view of brain change.",
+    "summary_zh": "“重塑大脑”的概念虽然流行，但却是一个误导性的比喻，它过于简化了神经可塑性的复杂过程。大脑改变和形成新神经连接的能力是真实的，但却是逐渐的、混乱的，并且往往是不完整的。它需要努力、重复和时间，并且受到年龄、环境和情绪状态等多种因素的影响。重塑的比喻暗示了一个快速、机械的修复，但真正的大脑改变是一个需要持续参与和尊重生物学限制的终身过程。我们必须超越流行语，走向对大脑改变更加真实、乐观的看法。",
+    "best_quote_en": "The brain’s capacity for change is one of the most hopeful discoveries in modern science – but that change comes not through clever metaphors or overnight programmes. It comes through effort, repetition and time.",
+    "best_quote_zh": "大脑改变的能力是现代科学中最令人期待的发现之一——但这种改变并非通过巧妙的比喻或一夜之间的项目实现。它需要努力、重复和时间。"
   }
 ]
