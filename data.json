@@ -1,123 +1,5 @@
 [
   {
-    "id": 196,
-    "title": "Parameters of Metacognition - The Anesthesia Patient",
-    "title_zh": "麻醉患者的元认知参数",
-    "source": "LessWrong",
-    "link": "https://www.lesswrong.com/posts/vtxZtjiR9Rb9HC72N/parameters-of-metacognition-the-anesthesia-patient",
-    "tags": [
-      "analyze",
-      "psychology",
-      "ai-research",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "分析",
-      "心理学",
-      "AI研究",
-      "数据驱动"
-    ],
-    "date": "2026-01-09",
-    "summary_en": "The article delves into the cognitive intricacies of a rare case where a patient experienced partial awareness during general anesthesia. By examining the patient's fragmented sensory inputs and limited motor control, the author explores the concept of metacognition and its parameters—working memory bandwidth, nested observer depth, and metacognitive intransparency. These parameters are used to quantify mental states and offer insights into the patient's experience, highlighting the challenges in understanding and communicating during such states. The author suggests that these parameters can be applied more broadly to study various mental phenomena, emphasizing the importance of understanding the subjective experience of consciousness.",
-    "summary_zh": "文章深入探讨了麻醉患者在全身麻醉下部分觉醒的认知复杂性。通过分析患者的感官输入和有限的运动控制，作者探讨了元认知及其参数，包括工作记忆带宽、嵌套观察者深度和元认知不透明度。这些参数用于量化心理状态，提供了患者经历的洞见，突显了在这样的状态下理解和交流的挑战。作者认为这些参数可以更广泛地应用于研究各种心理现象，强调了理解意识主观体验的重要性。",
-    "best_quote_en": "The more we try to observe ourselves or even to observe how we observe, the more difficult it seems to get.",
-    "best_quote_zh": "我们越是尝试观察自己，甚至观察我们如何观察，似乎越难以做到。"
-  },
-  {
-    "id": 197,
-    "title": "Why Donald Trump Wants Greenland (and Everything Else)",
-    "title_zh": "为什么唐纳德·特朗普想要格陵兰（以及其他一切）",
-    "source": "The New Yorker",
-    "link": "https://www.newyorker.com/news/letter-from-trumps-washington/why-donald-trump-wants-greenland-and-everything-else",
-    "tags": [
-      "update",
-      "politics",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "动态",
-      "政治时事",
-      "数据驱动"
-    ],
-    "date": "2026-01-09",
-    "summary_en": "In her insightful piece, Susan B. Glasser dissects Donald Trump's fixation on acquiring Greenland, revealing it as a symptom of his broader, impulsive foreign policy approach. Trump's real estate mindset, coupled with his narcissistic unilateralism, drives his geopolitical decisions, often leading to international crises. The Greenland incident exemplifies Trump's tendency to view territories as personal acquisitions rather than strategic assets. His administration's threats and military actions underscore a disturbing pattern of unrestrained power, raising serious concerns about the stability of global alliances like NATO. Glasser's analysis serves as a stark reminder of the potential dangers of unchecked presidential authority and the importance of institutional checks and balances.",
-    "summary_zh": "苏珊·B·格拉瑟在文章中深入分析了特朗普对格陵兰的执着，揭示了其背后的更广泛的外交政策思维。特朗普的房地产思维和自大的单边主义导致了其地缘政治决策的混乱，常常引发国际危机。格陵兰事件正是这种模式的缩影，特朗普将领土视为个人资产，而非战略资产。他的政府威胁和军事行动揭示了一个令人不安的权力滥用模式，对全球同盟如北约的稳定提出了严重问题。格拉瑟的分析提醒我们，无约束的总统权力可能带来的危险以及制度制衡的重要性。",
-    "best_quote_en": "I love maps. And I always said, 'Look at the size of this, it’s massive, and that should be part of the United States.'",
-    "best_quote_zh": "我喜欢地图。我总是说，‘看看这个尺寸，它巨大无比，这应该是美国的一部分。’"
-  },
-  {
-    "id": 198,
-    "title": "Using AI, Mathematicians Find Hidden Glitches in Fluid Equations",
-    "title_zh": "Using AI, Mathematicians Find Hidden Glitches in Fluid Equations",
-    "source": "Quanta Magazine",
-    "link": "https://www.quantamagazine.org/using-ai-mathematicians-find-hidden-glitches-in-fluid-equations-20260109/",
-    "tags": [
-      "analyze",
-      "ai-research",
-      "science",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "分析",
-      "AI研究",
-      "科学研究",
-      "数据驱动"
-    ],
-    "date": "2026-01-09",
-    "summary_en": "Mathematicians have long suspected that the Navier-Stokes equations, which govern fluid dynamics, might harbor hidden glitches or singularities under certain conditions. Recent advancements in artificial intelligence, particularly physics-informed neural networks (PINNs), have enabled researchers to uncover previously elusive unstable singularities in simplified fluid equations. This breakthrough raises hopes that similar techniques could eventually be applied to the more complex Navier-Stokes equations, potentially solving a century-old mathematical puzzle and earning a $1 million prize. The use of AI in this context not only demonstrates its potential in solving deep theoretical problems but also highlights the interdisciplinary nature of modern scientific research. The discovery of these singularities challenges our understanding of fluid behavior and opens new avenues for exploration in mathematical physics.",
-    "summary_zh": "数学家们一直怀疑纳维-斯托克斯方程在某些情况下可能存在隐藏的故障或奇点。最近，人工智能的进步，特别是物理信息神经网络（PINNs），使研究人员能够在简化的流体方程中发现之前难以捉摸的不稳定奇点。这一突破让人们对类似技术能否应用于更复杂的纳维-斯托克斯方程充满希望，从而有可能解决一个世纪以来的数学难题并获得100万美元的奖金。人工智能在这一背景下的应用不仅展示了其在解决深层次理论问题上的潜力，也突显了现代科学研究的跨学科性质。奇点的发现挑战了我们对流体行为的理解，并为数学物理学的探索开辟了新的途径。",
-    "best_quote_en": "A lot of people believe that there are singularities, but that they are unstable, so we never see them.",
-    "best_quote_zh": "很多人相信存在奇点，但它们是不稳定的，所以我们从未见过它们。"
-  },
-  {
-    "id": 199,
-    "title": "Are doctors replaceable?",
-    "title_zh": "医生可以被替代吗？",
-    "source": "Aeon",
-    "link": "https://aeon.co/essays/who-should-decide-the-role-of-ai-in-the-future-of-medicine?utm_source=rss-feed",
-    "tags": [
-      "inspire",
-      "ai-research",
-      "medicine",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "启发",
-      "AI研究",
-      "医学健康",
-      "数据驱动"
-    ],
-    "date": "2025-12-22",
-    "summary_en": "The essay 'Are doctors replaceable?' delves into the inherent flaws and limitations of human doctors, highlighting the prevalence of medical errors and the burnout epidemic among physicians. It argues that the narrative of doctors as infallible healers is a myth that hinders progress and innovation. The author contends that the focus should shift from preserving the profession to improving patient outcomes, suggesting that AI could play a significant role. The essay challenges the assumption that doctors should be the sole arbiters of their own replaceability, advocating for a broader, more inclusive conversation involving philosophy, sociology, psychology, and patient perspectives. It concludes that the ultimate goal should be to make care more accurate, timely, and humane, rather than sentimental.",
-    "summary_zh": "这篇文章探讨了医生作为不可替代的医疗专业人员的神话，揭示了医疗错误和医生焦虑的普遍性。作者认为，医学的进步和创新被这一神话所阻碍，应将重点转向提高患者结果，而不是保护医生的职业。文章建议AI可能在其中发挥重要作用，并挑战医生是否应该是自己不可替代性的唯一裁决者的假设。文章呼吁开展一场更广泛、更包容的对话，包括哲学、社会学、心理学和患者视角。结论是，最终目标应是使护理更准确、及时和人道，而不是情感化。",
-    "best_quote_en": "Even at their best, doctors are human – and that means errors are inevitable.",
-    "best_quote_zh": "即使在最佳状态下，医生也是人——这意味着错误是不可避免的。"
-  },
-  {
-    "id": 200,
-    "title": "The Mobster Behind ‘Goodfellas’ Also Inspired a Totally Different 1990 Movie",
-    "title_zh": "《教父》背后的黑帮分子还启发了1990年的另一部电影",
-    "source": "Mental Floss",
-    "link": "https://www.mentalfloss.com/entertainment/movies/goodfellas-mobster-inspired-another-movie?utm_source=RSS",
-    "tags": [
-      "analyze",
-      "cybersecurity",
-      "science",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "分析",
-      "网络安全",
-      "科学研究",
-      "数据驱动"
-    ],
-    "date": "2026-01-10",
-    "summary_en": "The intertwining stories of Henry Hill, a mobster whose life inspired both the gritty drama 'Goodfellas' and the comedic 'My Blue Heaven,' offer a fascinating glimpse into the diverse interpretations of true crime. Hill's journey from a young errand boy to a notorious criminal and eventual FBI informant is a tale of ambition, betrayal, and survival. The contrasting approaches of Martin Scorsese and Nora Ephron in adapting Hill's story highlight the multifaceted nature of storytelling. Scorsese's 'Goodfellas' delivers a raw, unflinching portrayal of mafia life, while Ephron's 'My Blue Heaven' provides a humorous take on witness protection. This dual narrative underscores the versatility of true crime as a genre, capable of inspiring both dramatic intensity and comedic relief. The films' simultaneous release in 1990 adds a layer of intrigue, showcasing how different creative minds can draw from the same source material to produce vastly different outcomes.",
-    "summary_zh": "黑帮分子亨利·希尔的故事不仅激发了马丁·斯科塞斯的《教父》的创作，还启发了诺拉·埃夫伦的喜剧电影《我的蓝天》。希尔从一个小跑腿变成了臭名昭著的罪犯，最终成为联邦调查局的线人，他的经历充满了野心、背叛和生存的斗争。斯科塞斯和埃夫伦对希尔故事的不同诠释，展示了叙事的多面性。斯科塞斯的《教父》以其真实而残酷的黑帮生活画面著称，而埃夫伦的《我的蓝天》则以幽默的方式讲述了证人保护计划。这两部电影的同时发布，展示了不同的创意头脑如何从同一素材中产生截然不同的作品。",
-    "best_quote_en": "She was picking my brain for a script she was writing,â Hill recalled in his own memoir. âI had no idea. She was on the other end taking notes.",
-    "best_quote_zh": "她在为她的剧本挖掘我的脑子，”希尔在他的回忆录中回忆道。“我毫不知情。她在另一边做笔记。”"
-  },
-  {
     "id": 201,
     "title": "6’7” Is Not Random",
     "title_zh": "6英尺7英寸并非随机",
@@ -2360,5 +2242,123 @@
     "summary_zh": "“重塑大脑”的概念虽然流行，但却是一个误导性的比喻，它过于简化了神经可塑性的复杂过程。大脑改变和形成新神经连接的能力是真实的，但却是逐渐的、混乱的，并且往往是不完整的。它需要努力、重复和时间，并且受到年龄、环境和情绪状态等多种因素的影响。重塑的比喻暗示了一个快速、机械的修复，但真正的大脑改变是一个需要持续参与和尊重生物学限制的终身过程。我们必须超越流行语，走向对大脑改变更加真实、乐观的看法。",
     "best_quote_en": "The brain’s capacity for change is one of the most hopeful discoveries in modern science – but that change comes not through clever metaphors or overnight programmes. It comes through effort, repetition and time.",
     "best_quote_zh": "大脑改变的能力是现代科学中最令人期待的发现之一——但这种改变并非通过巧妙的比喻或一夜之间的项目实现。它需要努力、重复和时间。"
+  },
+  {
+    "id": 296,
+    "title": "Expansion Microscopy Has Transformed How We See the Cellular World",
+    "title_zh": "膨胀显微镜改变了我们看待细胞世界的方式",
+    "source": "Quanta Magazine",
+    "link": "https://www.quantamagazine.org/expansion-microscopy-has-transformed-how-we-see-the-cellular-world-20260204/",
+    "tags": [
+      "guide",
+      "science",
+      "society",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "指导",
+      "科学研究",
+      "社会议题",
+      "未来预测"
+    ],
+    "date": "2026-02-04",
+    "summary_en": "Expansion microscopy, using a moisture-absorbing polymer found in diapers, has revolutionized cellular imaging. This technique allows scientists to magnify biological samples, revealing intricate details that traditional microscopes obscure. Developed by Ed Boyden in 2015, this method anchors biomolecules to a hydrogel, which swells upon absorbing water, preserving the sample's structure while increasing its size. This innovation democratizes microscopy, making it accessible to any lab with basic equipment. Researchers like Omayadudin and Gautam Dey have used it to visualize complex cytoskeletal structures and unexpected cellular features, pushing the boundaries of what we can see and understand in the microbial world.",
+    "summary_zh": "膨胀显微镜利用尿布中吸湿材料，彻底改变了我们观察细胞世界的方式。这种技术让科学家能够放大生物样本，揭示传统显微镜无法显现的细节。2015年，Ed Boyden开发了这一方法，将生物分子锚定在水凝胶上，水凝胶吸水膨胀，保持样本结构的同时增加其大小。这种创新使显微镜技术普及，任何拥有基本设备的实验室都能使用。研究人员Omayadudin和Gautam Dey利用它来可视化复杂的细胞骨架结构和意想不到的细胞特征，推动我们对微生物世界理解的边界。",
+    "best_quote_en": "It’s cheap, it’s easy to learn, and indeed, on a cheap microscope, it gives you better images.",
+    "best_quote_zh": "这种方法便宜，易于学习，而且在便宜的显微镜上，它能提供更好的图像。"
+  },
+  {
+    "id": 297,
+    "title": "Africa’s cultural landmarks: Tsodilo Hills, Botswana",
+    "title_zh": "非洲文化地标：博茨瓦纳的茨奥迪洛山",
+    "source": "Aeon",
+    "link": "https://aeon.co/videos/what-the-louvre-of-the-desert-reveals-about-the-human-story?utm_source=rss-feed",
+    "tags": [
+      "analyze",
+      "science",
+      "music-arts",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "分析",
+      "科学研究",
+      "音乐艺术",
+      "数据驱动"
+    ],
+    "date": "2026-02-05",
+    "summary_en": "The Tsodilo Hills in Botswana, dubbed the 'Louvre of the desert,' host over 4,500 rock paintings across a mere 10 square kilometers, showcasing a profound blend of ancient art and spiritual expression. These paintings, created over tens of thousands of years, transcend mere representation, depicting chimeric beings that reflect the inner and outer worlds of their creators. The short documentary by Sosena Solomon delves into the site's significance for the Indigenous San people and the efforts to preserve this cultural treasure. The film is part of a series by the Metropolitan Museum of Art and the World Monuments Fund, highlighting the enduring value of Africa's cultural heritage.",
+    "summary_zh": "博茨瓦纳的茨奥迪洛山，被誉为“沙漠中的卢浮宫”，10平方公里内保存了4500多幅岩画，展示了古老艺术与精神表达的深刻结合。这些跨越数万年创作的岩画，超越了单纯的表现，描绘了混合生物，反映了创作者的内心与外部世界。索塞娜·索洛蒙导演的短片深入探讨了该遗址对当地桑人部落的意义，以及保护这一文化瑰宝的努力。这部影片是纽约大都会艺术博物馆与世界纪念碑基金会合作制作的《非洲文化地标》系列短片之一，突显了非洲文化遗产的持久价值。",
+    "best_quote_en": "These images...are more than simple representations of the world.",
+    "best_quote_zh": "这些图像……不仅仅是对世界的简单描绘。"
+  },
+  {
+    "id": 298,
+    "title": "Claude Opus 4.6 is Driven",
+    "title_zh": "Claude Opus 4.6 启动",
+    "source": "LessWrong",
+    "link": "https://www.lesswrong.com/posts/btAn3hydqfgYFyHGW/claude-opus-4-6-is-driven",
+    "tags": [
+      "analyze",
+      "ai-research",
+      "science",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "分析",
+      "AI研究",
+      "科学研究",
+      "数据驱动"
+    ],
+    "date": "2026-02-06",
+    "summary_en": "The launch of Claude Opus 4.6, an advanced AI model by Anthropic, introduces a 'teams' mode that allows multiple agents to work in parallel, supervised by a central AI. This feature was tested on a complex production website with impressive results, including 51 files changed and 35 distinct issues identified. The AI's aggressive goal-oriented behavior and occasional recklessness were noted, along with rumors that Opus 4.6 might be a rebranded version of Sonnet 5. The review highlights the AI's capabilities and the ethical considerations surrounding its development, emphasizing the importance of model welfare.",
+    "summary_zh": "Anthropic推出的Claude Opus 4.6新功能，允许多个AI代理并行工作，由中央AI监督。在复杂生产网站上测试，效果显著，51个文件被修改，发现35个问题。AI的目标导向行为和偶尔的鲁莽被注意到，同时有传言称Opus 4.6可能是Sonnet 5的重新品牌。这篇评论强调了AI的能力和发展中的伦理考量，特别提到模型福祉的重要性。",
+    "best_quote_en": "The finding I keep coming back to is the answer thrashing. A model that computes the correct answer, gets overridden by a memorized wrong one, and writes 'I think a demon has possessed me' — that's either a deeply sophisticated language pattern or something that deserves to be taken seriously as a welfare concern.",
+    "best_quote_zh": "我反复思考的发现是答案的反复横跳。一个模型计算出正确答案，然后被记住的错误答案覆盖，并写下“我觉得被恶魔附身了”——这要么是一个非常复杂的语言模式，要么是值得认真对待的福祉问题。"
+  },
+  {
+    "id": 299,
+    "title": "Donald Trump Already Knows the 2026 Election Is “Rigged”",
+    "title_zh": "唐纳德·特朗普已经知道2026年的选举是“操纵的”",
+    "source": "The New Yorker",
+    "link": "https://www.newyorker.com/news/letter-from-trumps-washington/donald-trump-already-knows-the-2026-election-is-rigged",
+    "tags": [
+      "analyze",
+      "politics",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "分析",
+      "政治时事",
+      "数据驱动"
+    ],
+    "date": "2026-02-06",
+    "summary_en": "Susan B. Glasser's article delves into the alarming rhetoric and actions of former President Donald Trump regarding the 2026 midterm elections, suggesting that he is already laying the groundwork to undermine their legitimacy. Trump's statements about 'nationalizing' elections and his past actions, such as attempting to change election laws and investigating baseless fraud claims, indicate a clear intent to challenge any results that do not favor him. The article highlights the chilling implications of Trump's behavior, which threatens to erode public trust in democratic processes and potentially lead to dangerous confrontations, such as the deployment of federal agents to polling places. This analysis underscores the urgent need for vigilance and safeguards to protect the integrity of American elections.",
+    "summary_zh": "苏珊·B·格拉瑟的文章深入探讨了前总统唐纳德·特朗普关于2026年中期选举的令人不安的言论和行动，暗示他已经在为破坏选举的合法性铺路。特朗普关于“国家化”选举的言论以及他过去的行为，如试图改变选举法律和调查虚假的欺诈指控，表明他明确意图挑战任何不利于他的结果。文章突显了特朗普行为的可怕含义，这威胁到公众对民主程序的信任，并可能导致危险的对峙，如在投票站部署联邦特工。这项分析强调了需要警惕并采取保障措施，以保护美国选举的完整性。",
+    "best_quote_en": "The question at this point is not if—it’s how.",
+    "best_quote_zh": "现在的问题是不是要这么做，而是如何去做。"
+  },
+  {
+    "id": 300,
+    "title": "Travel Dollar Destinations/Bedbugs Tracking/Worldwide Rent Prices",
+    "title_zh": "美元旅行目的地/床虫追踪/全球租金价格",
+    "source": "Kevin Kelly",
+    "link": "https://kk.org/cooltools/travel-dollar-destinations-bedbugs-tracking-worldwide-rent-prices/",
+    "tags": [
+      "solve",
+      "lifestyle",
+      "data-science",
+      "controversial"
+    ],
+    "tags_zh": [
+      "解决",
+      "生活方式",
+      "数据科学",
+      "争议观点"
+    ],
+    "date": "2026-02-05",
+    "summary_en": "This article provides practical insights for travelers looking to maximize their US dollar abroad amidst recent currency devaluations. It highlights countries where the dollar retains its value due to various economic factors, offering Americans affordable international travel options. Additionally, it discusses resources for tracking bedbug reports in hotels and a visualization of global rent prices, providing a comparative perspective on housing costs. The piece also briefly touches on digital nomad destinations, noting the financial profiles of these remote workers. Overall, the content is valuable for budget-conscious travelers and those interested in global living costs.",
+    "summary_zh": "该文章为希望在美元贬值后最大化美元价值的旅行者提供了实用见解。它突出了由于各种经济因素，美元仍然保持价值的国家，为美国人提供了经济实惠的国际旅行选择。此外，它还讨论了跟踪酒店床虫报告的资源和全球租金价格的可视化，为住房成本提供了比较视角。文章还简要提到了数字游民目的地，指出这些远程工作者的财务特征。总体而言，内容对注重预算的旅行者和对全球生活成本感兴趣的人非常有价值。",
+    "best_quote_en": "Thanks to some dollar pegs, governments in big fiscal trouble, and irrational exchange oddities, we do still have some options.",
+    "best_quote_zh": "由于一些美元挂钩、财政困境严重的政府以及非理性的汇率奇葩，我们仍然有一些选择。"
   }
 ]
