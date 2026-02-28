@@ -1,29 +1,5 @@
 [
   {
-    "id": 201,
-    "title": "6’7” Is Not Random",
-    "title_zh": "6英尺7英寸并非随机",
-    "source": "LessWrong",
-    "link": "https://www.lesswrong.com/posts/EfTRLxtYxtnbbkWee/6-7-is-not-random",
-    "tags": [
-      "solve",
-      "society",
-      "personal-finance",
-      "deep-dive"
-    ],
-    "tags_zh": [
-      "解决",
-      "社会议题",
-      "个人理财",
-      "深度分析"
-    ],
-    "date": "2026-01-10",
-    "summary_en": "Martin Lichstam's piece '6’7” Is Not Random' delves into the cultural significance of a viral meme, using it as a lens to examine the existential crisis faced by Generation Z. He argues that the meme '6 7' is not just a senseless trend but a cry for help from a generation navigating a world of non-linearity. The older generations, he suggests, have lost touch with the realities faced by the youth, who now see traditional measures of success as unattainable. This analysis is a poignant reflection on the societal shifts and the growing disparity between generations, offering a critical perspective on the modern world's demands and expectations.",
-    "summary_zh": "马丁·利希斯塔姆的《6英尺7英寸并非随机》探讨了一个病毒式流行语的文化意义，认为“6 7”不仅是无意义的趋势，更是Z世代在非线性世界中挣扎的呼救。他认为，老一辈已经失去了与年轻人现实的联系，年轻人现在将传统的成功标准视为无法企及。这是对社会变迁和世代差距的深刻反思，提供了对现代世界要求和期望的批判性视角。",
-    "best_quote_en": "In other words, it is the perfect expression of Heightflation. It represents a world where the requirements to 'win' have drifted beyond the reach of human effort.",
-    "best_quote_zh": "换句话说，这就是完美的高度通胀表达。它代表了一个“赢”的要求已经超出人类努力范围的世界。"
-  },
-  {
     "id": 202,
     "title": "Minneapolis Reacts to ICE’s Killing of Renee Nicole Good",
     "title_zh": "明尼阿波利斯对ICE杀害Renee Nicole Good事件的反应",
@@ -2360,5 +2336,27 @@
     "summary_zh": "该文章为希望在美元贬值后最大化美元价值的旅行者提供了实用见解。它突出了由于各种经济因素，美元仍然保持价值的国家，为美国人提供了经济实惠的国际旅行选择。此外，它还讨论了跟踪酒店床虫报告的资源和全球租金价格的可视化，为住房成本提供了比较视角。文章还简要提到了数字游民目的地，指出这些远程工作者的财务特征。总体而言，内容对注重预算的旅行者和对全球生活成本感兴趣的人非常有价值。",
     "best_quote_en": "Thanks to some dollar pegs, governments in big fiscal trouble, and irrational exchange oddities, we do still have some options.",
     "best_quote_zh": "由于一些美元挂钩、财政困境严重的政府以及非理性的汇率奇葩，我们仍然有一些选择。"
+  },
+  {
+    "id": 301,
+    "title": "Break It To Make It: How Fracturing Sculpts Tissues and Organs",
+    "title_zh": "破而后立：裂解如何塑造组织和器官",
+    "source": "Quanta Magazine",
+    "link": "https://www.quantamagazine.org/break-it-to-make-it-how-fracturing-sculpts-tissues-and-organs-20260227/",
+    "tags": [
+      "solve",
+      "science",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "解决",
+      "科学研究",
+      "数据驱动"
+    ],
+    "date": "2026-02-27",
+    "summary_en": "The article 'Break It To Make It: How Fracturing Sculpts Tissues and Organs' explores the counterintuitive role of fracturing in biological development. It delves into how controlled mechanical fracturing shapes tissues and organs in various organisms, from mouse embryos to elephant skin and zebra fish hearts. The piece highlights the interplay between genetics and physics, showing that fracturing is a necessary step in constructing new biological forms. This insight challenges traditional views of growth and repair, emphasizing the constructive potential of seemingly destructive processes.",
+    "summary_zh": "文章《破而后立：裂解如何塑造组织和器官》探讨了裂解在生物发育中的反直觉作用。它深入描述了受控机械裂解如何在各种生物中塑造组织和器官，从小鼠胚胎到大象皮肤以及斑马鱼心脏。文章强调了基因与物理之间的相互作用，展示了裂解在构建新的生物形态中的必要性。这种见解挑战了传统的生长和修复观点，强调了看似破坏性过程的建设性潜力。",
+    "best_quote_en": "In biology, breaking isn’t always a failure. It’s often a necessary step in building something new.",
+    "best_quote_zh": "在生物学中，破坏并不总是失败。它往往是构建新事物的必要步骤。"
   }
 ]
