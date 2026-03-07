@@ -1,25 +1,5 @@
 [
   {
-    "id": 202,
-    "title": "Minneapolis Reacts to ICE’s Killing of Renee Nicole Good",
-    "title_zh": "明尼阿波利斯对ICE杀害Renee Nicole Good事件的反应",
-    "source": "The New Yorker",
-    "link": "https://www.newyorker.com/news/the-lede/an-ice-killing-puts-minneapolis-on-the-brink",
-    "tags": [
-      "analyze",
-      "society"
-    ],
-    "tags_zh": [
-      "分析",
-      "社会议题"
-    ],
-    "date": "2026-01-09",
-    "summary_en": "The killing of Renee Nicole Good by an ICE officer in Minneapolis has reignited tensions and protests, reminiscent of the George Floyd murder. The city, already grappling with federal overreach and community trauma, sees increased ICE raids targeting immigrant communities. Local leaders demand federal withdrawal, while residents express fear and mistrust. The incident highlights ongoing issues of state violence, racial injustice, and the erosion of local autonomy. The community's response underscores the deep-seated impact of repeated tragedies and the need for systemic change.",
-    "summary_zh": "ICE执法人员在明尼阿波利斯杀害Renee Nicole Good事件引发了新一轮的紧张局势和抗议活动，这让人联想到乔治·弗洛伊德被杀事件。该市在应对联邦政府的过度干预和社区创伤的同时，面临越来越多的ICE突袭行动，针对的是移民社区。地方领导人要求联邦政府撤离，而居民则表达了恐惧和不信任。这起事件凸显了国家暴力、种族不公和地方自治权被侵蚀的持续问题。社区的反应强调了重复悲剧的深远影响以及系统性变革的必要性。",
-    "best_quote_en": "The fear has been daily since ICE has been in the streets.",
-    "best_quote_zh": "自从ICE在街头出现以来，恐惧每天都存在。"
-  },
-  {
     "id": 203,
     "title": "Philosopher of pride",
     "title_zh": "骄傲的哲学家",
@@ -2358,5 +2338,29 @@
     "summary_zh": "文章《破而后立：裂解如何塑造组织和器官》探讨了裂解在生物发育中的反直觉作用。它深入描述了受控机械裂解如何在各种生物中塑造组织和器官，从小鼠胚胎到大象皮肤以及斑马鱼心脏。文章强调了基因与物理之间的相互作用，展示了裂解在构建新的生物形态中的必要性。这种见解挑战了传统的生长和修复观点，强调了看似破坏性过程的建设性潜力。",
     "best_quote_en": "In biology, breaking isn’t always a failure. It’s often a necessary step in building something new.",
     "best_quote_zh": "在生物学中，破坏并不总是失败。它往往是构建新事物的必要步骤。"
+  },
+  {
+    "id": 302,
+    "title": "New Strides Made on Deceptively Simple ‘Lonely Runner’ Problem",
+    "title_zh": "孤独跑者问题取得新进展",
+    "source": "Quanta Magazine",
+    "link": "https://www.quantamagazine.org/new-strides-made-on-deceptively-simple-lonely-runner-problem-20260306/",
+    "tags": [
+      "solve",
+      "ai-research",
+      "science",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "解决",
+      "AI研究",
+      "科学研究",
+      "数据驱动"
+    ],
+    "date": "2026-03-06",
+    "summary_en": "The 'lonely runner' problem, a seemingly simple conjecture about runners on a circular track, has proven to be a complex mathematical challenge. Recent breakthroughs by Matthieu Rosenfeld and Tanupat Trakulthongchai have advanced the solution from seven to ten runners, renewing interest and optimism in the field. The problem's equivalence to questions in number theory, geometry, and graph theory highlights its far-reaching implications. The progress, though significant, is just a stepping stone, with mathematicians eager to explore new approaches and collaborations to tackle the next cases.",
+    "summary_zh": "孤独跑者问题看似简单，实则复杂，涉及数论、几何和图论等多个领域。最近，Matthieu Rosenfeld和Tanupat Trakulthongchai的突破将解决方案从七名跑者扩展到十名跑者，重新点燃了数学界的热情和希望。尽管取得了显著进展，但这只是一个起点，数学家们迫切希望探索新方法和合作，以解决下一个难题。",
+    "best_quote_en": "It has so many facets. It touches so many different mathematical fields.",
+    "best_quote_zh": "它有很多方面，涉及许多不同的数学领域。"
   }
 ]
