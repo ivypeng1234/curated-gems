@@ -1,29 +1,5 @@
 [
   {
-    "id": 203,
-    "title": "Philosopher of pride",
-    "title_zh": "骄傲的哲学家",
-    "source": "Aeon",
-    "link": "https://aeon.co/essays/the-hidden-role-of-pride-and-shame-in-the-human-hive?utm_source=rss-feed",
-    "tags": [
-      "inspire",
-      "society",
-      "science",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "启发",
-      "社会议题",
-      "科学研究",
-      "数据驱动"
-    ],
-    "date": "2025-12-19",
-    "summary_en": "Bernard Mandeville's provocative 18th-century works, particularly 'The Fable of the Bees,' challenged contemporary notions of morality and virtue. He argued that individual vices, driven by self-interest and passions like pride, can paradoxically contribute to the public good. Mandeville's insights into human nature and sociability remain relevant, highlighting how the desire for recognition and fear of shame shape societal behaviors. His observations on dueling, gender roles, and the evolution of manners reveal the complex interplay between personal passions and social structures. Mandeville's legacy extends beyond economics, offering a profound psychological analysis of human motivations and the societal mechanisms they engender.",
-    "summary_zh": "伯纳德·曼德维尔的18世纪作品挑战了当时的道德和美德观念，认为个人的恶习，由自私和骄傲等激情驱动，可以反而有助于公共利益。他的人性分析和社交观点至今仍有启示，揭示了认可欲望和羞耻感如何塑造社会行为。关于决斗、性别角色和礼仪演变的观察，揭示了个人激情与社会结构之间的复杂互动。曼德维尔的遗产超越了经济学，提供了对人类动机和社会机制的深刻心理分析。",
-    "best_quote_en": "Pride, like other self-centered passions, is necessary for the flourishing of society.",
-    "best_quote_zh": "骄傲，如其他以自我为中心的激情，对社会的繁荣是必要的。"
-  },
-  {
     "id": 204,
     "title": "7 Board Games With Surprising Origins",
     "title_zh": "7款棋盘游戏的意外起源",
@@ -2362,5 +2338,29 @@
     "summary_zh": "孤独跑者问题看似简单，实则复杂，涉及数论、几何和图论等多个领域。最近，Matthieu Rosenfeld和Tanupat Trakulthongchai的突破将解决方案从七名跑者扩展到十名跑者，重新点燃了数学界的热情和希望。尽管取得了显著进展，但这只是一个起点，数学家们迫切希望探索新方法和合作，以解决下一个难题。",
     "best_quote_en": "It has so many facets. It touches so many different mathematical fields.",
     "best_quote_zh": "它有很多方面，涉及许多不同的数学领域。"
+  },
+  {
+    "id": 303,
+    "title": "Weekly Review",
+    "title_zh": "每周回顾",
+    "source": "Harper’s Magazine",
+    "link": "https://harpers.org/2026/03/weekly-review-strait-hormuz-iran-strikes-selective-service-draft-antifa-terrorism-free-rounds-ave-maria-doctor-oz-stowaway-fox/",
+    "tags": [
+      "analyze",
+      "politics",
+      "society",
+      "controversial"
+    ],
+    "tags_zh": [
+      "分析",
+      "政治时事",
+      "社会议题",
+      "争议观点"
+    ],
+    "date": "2026-03-17",
+    "summary_en": "This week's events unfold like a surreal tapestry of geopolitical tension, domestic strife, and bizarre happenings. The Strait of Hormuz crisis escalates as Iran impedes oil shipments and the U.S. retaliates with military strikes, raising global oil prices and evoking echoes of historical conflicts. Meanwhile, domestic news is a mix of the grim and the absurd: a school shooting thwarted by students, a synagogue attack, and a series of eccentric crimes. The U.S. government's actions, from threatening a military draft to labeling protestors as terrorists, add layers of complexity. Amidst this chaos, small moments of humanity and humor stand out, such as a priest fined for feeding the homeless and a fox stowing away on a cargo ship. This week's news is a stark reminder of the world's interconnectedness and the absurdity that often accompanies serious events.",
+    "summary_zh": "本周的事件如同一幅超现实的地缘政治紧张局势、国内纷争和怪异事件的织锦画。霍尔木兹海峡危机升级，伊朗阻碍石油运输，美国以军事打击回应，导致全球石油价格飙升，唤起历史冲突的回忆。与此同时，国内新闻则是悲剧与荒诞的混合：学生制止校园枪击，犹太教堂遭袭，以及一系列古怪的犯罪行为。美国政府的行动，从威胁实施征兵制到将抗议者定性为恐怖分子，增加了复杂性。在这场混乱中，人性和幽默的小片段凸显出来，例如一位因给流浪汉提供食物而被罚款的牧师，以及一只藏身在货船上的狐狸。本周的新闻是对世界相互关联性及严肃事件中常伴随的荒诞性的生动提醒。",
+    "best_quote_en": "Iran does not want to harm ordinary Americans, who overwhelmingly voted to end involvement in costly foreign wars.",
+    "best_quote_zh": "伊朗不想伤害普通的美国人，他们压倒性地投票结束对昂贵外国战争的参与。"
   }
 ]
