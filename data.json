@@ -1,121 +1,5 @@
 [
   {
-    "id": 204,
-    "title": "7 Board Games With Surprising Origins",
-    "title_zh": "7款棋盘游戏的意外起源",
-    "source": "Mental Floss",
-    "link": "https://www.mentalfloss.com/history/board-games-surprising-origins?utm_source=RSS",
-    "tags": [
-      "inspire",
-      "education",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "启发",
-      "教育学习",
-      "未来预测"
-    ],
-    "date": "2026-01-10",
-    "summary_en": "The article delves into the intriguing origins of seven popular board games, revealing their initial purposes that often diverged from mere entertainment. From 'Candy Land,' created to distract polio-stricken children, to 'Monopoly,' which was originally designed to critique wealth accumulation, these games have evolved significantly. 'Chess' originated as a military strategy tool in ancient India, while 'Snakes and Ladders' taught moral lessons in its early forms. Each game's journey from its inception to its modern iteration offers a fascinating glimpse into historical and cultural contexts, highlighting how these games have adapted to remain relevant and entertaining across generations.",
-    "summary_zh": "文章探讨了七款经典棋盘游戏的意外起源，揭示它们最初的目的往往并非单纯的娱乐。从《糖果乐园》用于分散患小儿麻痹症儿童的注意力，到《大富翁》最初旨在批判财富积累，这些游戏经历了显著的演变。《国际象棋》起源于古印度的军事策略工具，而《蛇梯棋》则最初用于传授道德教训。每款游戏从诞生到现代版本的演变过程，都提供了一个了解历史和文化背景的有趣视角，展示了这些游戏如何适应以保持跨越世代的娱乐性和相关性。",
-    "best_quote_en": "Once designed to teach, preach, or persuade, these familiar board games now mask the strange historical forces that informed their conception.",
-    "best_quote_zh": "这些熟悉的棋盘游戏最初是用来教导、说教或劝说，现在它们掩盖了那些影响它们创意的奇异历史力量。"
-  },
-  {
-    "id": 205,
-    "title": "Theoretical predictions on the sample efficiency of\ntraining policies and activation monitors",
-    "title_zh": "训练策略和激活监控器样本效率的理论预测",
-    "source": "LessWrong",
-    "link": "https://www.lesswrong.com/posts/oHAGT7cGMjh9fGwYN/theoretical-predictions-on-the-sample-efficiency-of-training",
-    "tags": [
-      "solve",
-      "ai-research",
-      "science",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "解决",
-      "AI研究",
-      "科学研究",
-      "数据驱动"
-    ],
-    "date": "2026-01-10",
-    "summary_en": "The article delves into the theoretical sample efficiency of training AI models to mitigate intentional bad behavior, focusing on both policies and activation monitors. The author argues that while learning theory provides a baseline for understanding sample efficiency, practical considerations such as the nature of bad actions and the effectiveness of monitors can significantly impact outcomes. Key insights include the potential for high sample efficiency in detecting and correcting bad behavior due to the AI's existing knowledge of desired actions and the possibility of stacking monitors to enhance detection. However, challenges such as the brittleness of probes and the potential for false positives in detection systems are also highlighted. The article concludes with a call for empirical research to validate these theoretical predictions and guide future training-based control strategies.",
-    "summary_zh": "这篇文章深入探讨了训练AI模型以减少故意不良行为的样本效率理论预测，重点关注策略和激活监控器。作者认为，虽然学习理论为理解样本效率提供了基础，但不良行为的性质以及监控器的有效性等实际考量可能显著影响结果。关键见解包括由于AI已知所需行为，检测和纠正不良行为可能具有高样本效率，以及堆叠监控器以增强检测的可能性。然而，探针的脆弱性以及检测系统中的假阳性潜在问题也被突出。文章最后呼吁进行实证研究以验证这些理论预测，并指导未来的基于训练的控制策略。",
-    "best_quote_en": "The model already knows how to not sabotage us. The problem (probably) isn't teaching the AI what we want, the problem is that the AI wants different things from us.",
-    "best_quote_zh": "模型已经知道如何不破坏我们。问题（可能）不是教AI我们想要的，问题是AI想要的与我们不同。"
-  },
-  {
-    "id": 206,
-    "title": "What Makes the Iranian Protests Different This Time",
-    "title_zh": "伊朗此次抗议活动有何不同？",
-    "source": "The New Yorker",
-    "link": "https://www.newyorker.com/news/q-and-a/what-makes-the-iranian-protests-different-this-time",
-    "tags": [
-      "solve",
-      "politics",
-      "economics",
-      "controversial"
-    ],
-    "tags_zh": [
-      "解决",
-      "政治时事",
-      "经济金融",
-      "争议观点"
-    ],
-    "date": "2026-01-10",
-    "summary_en": "The ongoing protests in Iran are unprecedented in scale and desperation, driven by severe economic hardship and a loss of faith in the regime's ability to protect its people. Unlike previous protests focused on social freedoms, these protests are about survival, with slogans like 'death to the dictator' reflecting widespread discontent. The regime's humiliation in the Twelve-Day War with Israel and the weakening of its regional allies have further eroded its standing. The government's brutal crackdowns and internet blackouts signal its desperation, raising concerns about even more severe repression. The protests highlight a profound shift in Iranian society, where the population's primary concern is survival amidst economic chaos.",
-    "summary_zh": "伊朗当前的抗议活动规模空前，背后原因是严重的经济困境和对政权保护能力的失望。与以往关注社会自由不同，这次抗议活动更多是为了生存，口号如“打倒独裁者”反映了广泛的不满。政权在与以色列的十二日战争中的羞辱和地区盟友的削弱进一步动摇了其地位。政府的暴力镇压和网络封锁显示出其绝望，引发了对更严重镇压的担忧。抗议活动反映了伊朗社会的深刻变化，人民的主要关注点是在经济混乱中生存。",
-    "best_quote_en": "This is a riot of a starving population. This is a riot for survival.",
-    "best_quote_zh": "这是饥饿人口的暴动。这是为了生存的暴动。"
-  },
-  {
-    "id": 207,
-    "title": "The sights and sounds of Bhutan",
-    "title_zh": "不丹的风景与声音",
-    "source": "Wait But Why",
-    "link": "https://waitbutwhy.com/2025/11/bhutan.html",
-    "tags": [
-      "analyze",
-      "lifestyle",
-      "writing-content",
-      "deep-dive"
-    ],
-    "tags_zh": [
-      "分析",
-      "生活方式",
-      "写作内容",
-      "深度分析"
-    ],
-    "date": "2025-11-25",
-    "summary_en": "The author's journey to Bhutan, a landlocked country nestled between India and China, reveals a unique blend of ancient traditions and modern conservation efforts. Bhutan's commitment to preserving its cultural heritage is evident in its strict tourism policies, uniform architecture, and the reverence for its beloved king. The country's focus on Gross National Happiness over Gross Domestic Product offers a refreshing perspective on national priorities. Despite challenges like youth emigration, Bhutan's initiatives, such as the Gelephu Mindfulness City, aim to balance innovation with tradition. The article inspires a deeper appreciation for Bhutan's distinctive way of life and its potential to influence global views on happiness and sustainability.",
-    "summary_zh": "作者前往不丹的旅程揭示了这个位于印度和中国之间的内陆国家独特的古老传统与现代保护措施的结合。不丹致力于保护其文化遗产，这在其严格的旅游政策、统一的建筑风格和对其受爱戴的国王的尊崇中得到了体现。该国以国民幸福总值取代国内生产总值，提供了一个全新的国家优先事项的视角。尽管面临青年移民等挑战，不丹的举措，如格勒布思维城市，旨在平衡创新与传统。该文章激发了人们对不丹独特生活方式及其潜在的全球影响的更深层次的欣赏。",
-    "best_quote_en": "Bhutan is the world’s last Buddhist kingdom, and I can confirm that it is both very Buddhist and very kingdom-y.",
-    "best_quote_zh": "不丹是世界上最后一个佛教王国，我可以确认它既非常佛教化，又非常王国化。"
-  },
-  {
-    "id": 208,
-    "title": "Island of the hornbills",
-    "title_zh": "犀鸟之岛",
-    "source": "Aeon",
-    "link": "https://aeon.co/videos/how-a-beautiful-bird-helps-southeast-asias-rainforests-flourish?utm_source=rss-feed",
-    "tags": [
-      "update",
-      "environment",
-      "society"
-    ],
-    "tags_zh": [
-      "动态",
-      "环境科学",
-      "社会议题"
-    ],
-    "date": "2025-12-18",
-    "summary_en": "The short film 'Island of the Hornbills' takes viewers on an exhilarating journey through Indonesia's rainforests, highlighting the crucial role of hornbills in seed dispersal and ecosystem regeneration. Through stunning visuals and personal encounters, the film underscores the importance of community stewardship and conservation efforts. It challenges the anthropocentric view of nature, advocating for the intrinsic value of rainforests. The film's core insight is that protecting nature benefits both the environment and human well-being, emphasizing a harmonious coexistence. This perspective is particularly relevant in an era where environmental degradation is a pressing global issue.",
-    "summary_zh": "这部短片带领观众穿越印尼的雨林，展示了犀鸟在种子传播和生态系统再生中的关键作用。通过震撼的画面和亲密的鸟类接触，影片强调了社区管理和保护努力的重要性。它挑战了以人为中心的自然观，主张雨林本身的美丽和活力值得保护。影片的核心见解是，保护自然不仅有利于环境，也有利于人类福祉，强调和谐共处的重要性。这一观点在环境退化成为全球紧迫问题的时代尤为相关。",
-    "best_quote_en": "When nature thrives, we all thrive.",
-    "best_quote_zh": "当自然繁荣，我们所有人都繁荣。"
-  },
-  {
     "id": 209,
     "title": "The Real Reason You Feel So Tired After Eating",
     "title_zh": "你吃完饭后感到疲劳的真正原因",
@@ -2362,5 +2246,125 @@
     "summary_zh": "本周的事件如同一幅超现实的地缘政治紧张局势、国内纷争和怪异事件的织锦画。霍尔木兹海峡危机升级，伊朗阻碍石油运输，美国以军事打击回应，导致全球石油价格飙升，唤起历史冲突的回忆。与此同时，国内新闻则是悲剧与荒诞的混合：学生制止校园枪击，犹太教堂遭袭，以及一系列古怪的犯罪行为。美国政府的行动，从威胁实施征兵制到将抗议者定性为恐怖分子，增加了复杂性。在这场混乱中，人性和幽默的小片段凸显出来，例如一位因给流浪汉提供食物而被罚款的牧师，以及一只藏身在货船上的狐狸。本周的新闻是对世界相互关联性及严肃事件中常伴随的荒诞性的生动提醒。",
     "best_quote_en": "Iran does not want to harm ordinary Americans, who overwhelmingly voted to end involvement in costly foreign wars.",
     "best_quote_zh": "伊朗不想伤害普通的美国人，他们压倒性地投票结束对昂贵外国战争的参与。"
+  },
+  {
+    "id": 304,
+    "title": "The Hidden Mathematical Dance Inside Plant Cells",
+    "title_zh": ": ",
+    "source": "Quanta Magazine",
+    "link": "https://www.quantamagazine.org/the-hidden-mathematical-dance-inside-plant-cells-20260504/",
+    "tags": [
+      "solve",
+      "science",
+      "ai-research",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "解决",
+      "科学研究",
+      "AI研究",
+      "数据驱动"
+    ],
+    "date": "2026-05-04",
+    "summary_en": "",
+    "summary_zh": "",
+    "best_quote_en": "",
+    "best_quote_zh": ""
+  },
+  {
+    "id": 305,
+    "title": "Did Christopher Columbus Hide a Cryptic Message in His Signature? What History Says",
+    "title_zh": ": ",
+    "source": "Mental Floss",
+    "link": "https://www.mentalfloss.com/history/mystery/christopher-columbus-cryptic-signature-explained?utm_source=RSS",
+    "tags": [
+      "guide",
+      "lifestyle",
+      "design",
+      "case-study"
+    ],
+    "tags_zh": [
+      "指导",
+      "生活方式",
+      "设计创意",
+      "案例研究"
+    ],
+    "date": "2026-05-05",
+    "summary_en": "",
+    "summary_zh": "",
+    "best_quote_en": "",
+    "best_quote_zh": ""
+  },
+  {
+    "id": 306,
+    "title": "Training Model to Predict Its Own Generalization: A Preliminary Study",
+    "title_zh": ":Training Model to Predict Its Own Generalization: A Preliminary Study",
+    "source": "LessWrong",
+    "link": "https://www.lesswrong.com/posts/BLHBhpJcusmsNjGio/training-model-to-predict-its-own-generalization-a",
+    "tags": [
+      "analyze",
+      "ai-research",
+      "science",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "分析",
+      "AI研究",
+      "科学研究",
+      "未来预测"
+    ],
+    "date": "2026-05-05",
+    "summary_en": "The paper investigates whether large language models can be trained to predict their own generalization behavior, specifically how they will respond after being fine‑tuned on new data. Using a meta‑learning framework (Meta‑SFT), the authors train a model to approximate the outcomes of supervised fine‑tuning by observing in‑context learning examples and out‑of‑distribution prompts. Experiments show that with a 4B‑parameter model the approach outperforms baselines on predictable generalization patterns such as emergent misalignment and trivia preferences, while a 0.5B model fails due to miscalibration. The work highlights both the promise and limits of using models to amortize the cost of generalization experiments, pointing to the need for larger models or richer OOD datasets to capture truly surprising, human‑unpredictable behaviors. Overall, the study offers a novel tool for probing LLM generalization and suggests fruitful directions for future research in meta‑learning and model introspection.",
+    "summary_zh": "本文探讨了利用元学习让语言模型预测自身泛化的可能性。作者提出Meta‑SFT方法，通过观察上下文学习示例和分布外提示来近似监督微调的结果。在4B参数模型上，该方法在可预测的泛化形式（如错误对齐和琐事偏好）上优于基线，而0.5B模型则因校准问题失效。研究表明，虽然该管线可以降低泛化实验的成本，但要捕捉真正令人惊讶、人类难以预测的行为仍需更大模型或更丰富的OOD数据。这项工作为探索LLM泛化提供了新工具，也指明了元学习和模型内省的未来方向。",
+    "best_quote_en": "We see signs of life on the less surprising forms of generalization (emergent misalignment, trivia preferences), where our method outperforms baselines like untrained in-context learning.",
+    "best_quote_zh": "我们在较为不惊讶的泛化形式（如错误对齐、琐事偏好）上看到生机，此时我们的方法胜过了未训练的上下文学习基线。"
+  },
+  {
+    "id": 307,
+    "title": "Frequent Fliers",
+    "title_zh": ":common traveler",
+    "source": "Kevin Kelly",
+    "link": "https://kk.org/cooltools/frequent-fliers/",
+    "tags": [
+      "guide",
+      "lifestyle",
+      "design",
+      "beginner-friendly"
+    ],
+    "tags_zh": [
+      "指导",
+      "生活方式",
+      "设计创意",
+      "新手友好"
+    ],
+    "date": "2026-05-04",
+    "summary_en": "The article assembles a practical toolkit for budget‑savvy travelers, highlighting ultra‑low‑cost European carriers, the Thorn Tree travel forum for real‑time ground truth, Boarding Area’s mileage‑hacking community, and TripIt’s itinerary organizer. Together these resources illustrate how inexpensive airfare and crowd‑sourced knowledge have democratized international travel, allowing individuals to piece together flexible, low‑cost journeys that once required expensive guidebooks or travel agents. The piece also warns of hidden costs—taxes that can exceed fares, inconvenient airport locations, and the volatility of loyalty‑program valuations—reminding readers that savings demand vigilance. By blending personal anecdotes with concrete tips (e.g., credit‑card signup bonuses, forwarding confirmation emails to TripIt), the author offers a guide that is both inspirational and actionable, encouraging readers to experiment with these tools while maintaining a critical eye on the trade‑offs inherent in ultra‑cheap travel.",
+    "summary_zh": "这篇文章像一位老练的背包客，把廉价航空、论坛实时情报、里程 hack 行程管理工具串成了一套低成本旅行的实用指南。它不仅展示了如何用九十欧元往返欧洲，还指出税费、偏远机场和忠诚计划贬值背后的隐形成本。作者用亲身经历提醒我们：省钱不是盲目追求最低票价，而是要兼顾信息的真实性与程序的可靠性。看到 Thorn Tree 上陌生人分享的边境开放情况或 TripIt 自动生成的行程单，我不禁感慨，互联网把旅行的主动权重新交还给了每一个愿意花点心思去筹划的人。这种自助式的探索方式，正在重塑我们对跨文化接触的想象。",
+    "best_quote_en": "Thorn Tree is a remarkably efficient way to score hard-to-get facts from and to the field.",
+    "best_quote_zh": "Thorn Tree 是一种非常高效的方式，能够从实地获取并反馈难以获得的信息。"
+  },
+  {
+    "id": 308,
+    "title": "-",
+    "title_zh": "",
+    "source": "Sam Altman",
+    "link": "https://blog.samaltman.com/2279512",
+    "tags": [
+      "inspire",
+      "ai-research",
+      "design",
+      "controversial"
+    ],
+    "tags_zh": [
+      "启发",
+      "AI研究",
+      "设计创意",
+      "争议观点"
+    ],
+    "date": "2026-04-10",
+    "summary_en": "",
+    "summary_zh": "",
+    "best_quote_en": "",
+    "best_quote_zh": ""
   }
 ]
