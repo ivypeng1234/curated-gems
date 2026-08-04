@@ -2246,5 +2246,123 @@
     "summary_zh": "本周的事件如同一幅超现实的地缘政治紧张局势、国内纷争和怪异事件的织锦画。霍尔木兹海峡危机升级，伊朗阻碍石油运输，美国以军事打击回应，导致全球石油价格飙升，唤起历史冲突的回忆。与此同时，国内新闻则是悲剧与荒诞的混合：学生制止校园枪击，犹太教堂遭袭，以及一系列古怪的犯罪行为。美国政府的行动，从威胁实施征兵制到将抗议者定性为恐怖分子，增加了复杂性。在这场混乱中，人性和幽默的小片段凸显出来，例如一位因给流浪汉提供食物而被罚款的牧师，以及一只藏身在货船上的狐狸。本周的新闻是对世界相互关联性及严肃事件中常伴随的荒诞性的生动提醒。",
     "best_quote_en": "Iran does not want to harm ordinary Americans, who overwhelmingly voted to end involvement in costly foreign wars.",
     "best_quote_zh": "伊朗不想伤害普通的美国人，他们压倒性地投票结束对昂贵外国战争的参与。"
+  },
+  {
+    "id": 304,
+    "title": "Louis Armstrong’s Personal Archive Contains 5,000 Photos—Here Are the Stories Behind a Few",
+    "title_zh": "路易斯·阿姆斯特朗个人档案藏有5000张照片—— Here Are the Stories Behind a Few",
+    "source": "Mental Floss",
+    "link": "https://www.mentalfloss.com/entertainment/music/louis-armstrong-personal-archive-5-000-photos-stories-behind-few?utm_source=RSS",
+    "tags": [
+      "update",
+      "music-arts",
+      "ai-research",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "动态",
+      "音乐艺术",
+      "AI研究",
+      "数据驱动"
+    ],
+    "date": "2026-08-04",
+    "summary_en": "This article offers a window into Louis Armstrong's personal world through his own photographic archive of 5,000 images, revealing the man behind the legend. What strikes me most is how the piece reframes Armstrong not merely as a musical genius but as a cultural diplomat whose influence transcended entertainment. The 1961 Egypt photographs, taken during a State Department tour, capture a moment where jazz became America's soft power — a 'blue note in a minor key' as the New York Times put it. The article's narrative structure, moving from his Hot Five revolution through his All-Stars era to his unexpected Billboard-topping 'Hello, Dolly!' recording, reveals an artist who continuously reinvented himself without losing authenticity. The inclusion of the Voyager Golden Record detail — 'Melancholy Blues' traveling into deep space — adds a poignant cosmic dimension to his legacy. What makes this piece valuable is its emphasis on the archive itself; these photos are not just illustrations but primary sources that humanize a figure often reduced to soundbites. The article succeeds in making archival material feel intimate and alive.",
+    "summary_zh": "这篇文章通过 Armstrong 亲藏的五千张照片，为我们打开了一扇通往传奇背后的窗口。最打动我的是，文章将他重新定义为一位文化使者——爵士乐不仅是艺术，更是美国软实力的外交语言。1961 年埃及金字塔前的照片，捕捉了音乐跨越国界的瞬间。从 Hot Five 的革命到 All-Stars 时代，再到意外登顶 Billboard 的 Hello, Dolly!，Armstrong 的每一次转型都未曾失去本真。而 Voyager 金唱片中收录的 Melancholy Blues，让这位音乐家的声音真正飞向了深空。这些照片不是装饰，而是让一个被简化为音符的人重新变得可触可感。",
+    "best_quote_en": "America's secret weapon is a blue note in a minor key.",
+    "best_quote_zh": "美国的秘密武器是一个小调中的蓝调音符。"
+  },
+  {
+    "id": 305,
+    "title": "Why Formation Research is Working on Secret Loyalties",
+    "title_zh": "为什么Formation Research在研究秘密忠诚",
+    "source": "LessWrong",
+    "link": "https://www.lesswrong.com/posts/BqBDit4zuBZfafeG5/why-formation-research-is-working-on-secret-loyalties",
+    "tags": [
+      "analyze",
+      "ai-research",
+      "science",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "分析",
+      "AI研究",
+      "科学研究",
+      "数据驱动"
+    ],
+    "date": "2026-08-04",
+    "summary_en": "Alfie Lamerton offers a rare behind-the-scenes look at how Formation Research identified secret loyalties as its core research focus, using Jaime Sevilla's ITN framework — importance, tractability, and neglectedness — as a decision-making compass. The article reveals the pragmatic reality of AI safety research: how reading Davidson et al.'s paper on AI-enabled coups catalyzed a pivot, how reaching out to Forethought led to collaboration rather than competition, and how a six-week pilot evolved into a multi-month empirical program building model organisms of secret loyalty. What stands out is the methodological transparency — Lamerton doesn't just present the destination but the navigational logic, making this a valuable case study in research prioritization. The post also candidly acknowledges that organizational direction depends on emerging risk landscapes, reflecting intellectual honesty about uncertainty in frontier AI work. For anyone interested in how AI safety organizations form, choose their agenda, and move from conceptual thinking to empirical validation, this is an illuminating read.",
+    "summary_zh": "这篇文章罕见地揭示了Formation Research如何用ITN框架锁定秘密忠诚这一研究方向，从读论文到建立合作，再到构建模型生物体，每一步都带着方法论的坦诚。Lamerton展现的不仅是AI安全研究的决策逻辑，更是如何在不确定性中导航的思维范式——组织的未来取决于风险景观的演变，而非预先设定的路线。",
+    "best_quote_en": "Whatever was best in these terms was the most pressing, and whatever was most pressing and best personal fit was the thing Formation Research should work on.",
+    "best_quote_zh": "在那些标准上表现最好的就是最紧迫的，而最紧迫且最适合个人的，就是Formation Research应该研究的方向。"
+  },
+  {
+    "id": 306,
+    "title": "Michigan Primary-Election Map: Live Results",
+    "title_zh": "密歇根初选选举地图：实时结果",
+    "source": "The New Yorker",
+    "link": "https://www.newyorker.com/news/election-2026/michigan-primary-election-map-live-results",
+    "tags": [
+      "inspire",
+      "politics",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "启发",
+      "政治时事",
+      "数据驱动"
+    ],
+    "date": "2026-08-04",
+    "summary_en": "This article captures a pivotal moment in American democratic politics, where the Michigan Senate primary has transcended a mere electoral contest to become a referendum on the Democratic Party's ideological soul. The Stevens-El-Sayed matchup encapsulates the moderate-versus-progressive fault line that has increasingly defined the party's internal debates, with U.S.-Israel relations serving as the most emotionally charged proxy issue. What makes this race particularly significant is the tangible influence of outside spending—AIPAC's thirty-million-dollar expenditure on Stevens's behalf illustrates how lobbying power shapes primary outcomes in ways that often escape public discourse. Meanwhile, the gubernatorial race adds another layer of complexity with Whitmer's term-limited departure creating a high-stakes succession battle. The article's strength lies in its ability to weave together local candidate profiles with national political currents, offering readers both granular detail and structural context. The narrow margins from 2024—Trump winning Michigan by less than two points—underscore how every primary outcome here carries outsized implications for the broader political landscape.",
+    "summary_zh": "这篇文章捕捉了美国民主政治的关键时刻，密歇根参议院初选已超越单纯的选举竞争，成为对民主党意识形态灵魂的公投。史蒂文斯与埃尔-赛义德的对决体现了温和派与进步派之间的裂痕，而美以关系则成为最具情绪张力的代理议题。值得关注的是外部资金的实质性影响——AIPAC为史蒂文斯投入的三千万美元揭示了游说力量如何塑造初选结果。惠特默因任期限制退选则为州长竞选增添了另一层复杂性。文章将地方候选人画像与全国政治潮流巧妙编织，既有微观细节也有宏观背景。",
+    "best_quote_en": "Nationally, the race has become a proxy for divisions within the Democratic Party over U.S.-Israel relations.",
+    "best_quote_zh": "全国范围内，这场竞选已成为民主党内部关于美以关系分歧的代理战场。"
+  },
+  {
+    "id": 307,
+    "title": "Researchers and Founders",
+    "title_zh": "研究者与创业者",
+    "source": "Sam Altman",
+    "link": "https://blog.samaltman.com/researchers-and-founders",
+    "tags": [
+      "analyze",
+      "ai-research",
+      "startup-strategy",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "分析",
+      "AI研究",
+      "创业策略",
+      "未来预测"
+    ],
+    "date": "2020-06-19",
+    "summary_en": "Paul Graham draws a compelling parallel between the best researchers and founders, revealing that their shared traits transcend domain boundaries. The most striking insight is the Hamming question — a habit of relentlessly asking what the most important problems are and why one isn't working on them. This 'problem taste' emerges from independent thinking, future reasoning, and pattern recognition for attack vectors. Graham also challenges the romanticized notion that success comes from clever strategy alone, insisting that extreme persistence and willingness to work hard are non-negotiable prerequisites. Equally fascinating is the observation about action bias paired with brutal honesty — the rare ability to recognize what works and pursue it without hesitation, a quality most people conspicuously lack. The piece also highlights autonomy as a defining trait and reframes motivation as something far more nuanced than ambition, rooted instead in genuine curiosity. What makes this essay valuable is not just the list of qualities but the meta-lesson: effectiveness may be more universal than we assume, and studying excellence across fields can reveal transferable principles we might otherwise overlook.",
+    "summary_zh": "Graham将研究者与创业者并置，揭示出卓越个体的共性远超想象。最令人深思的是Hamming问题的力量——真正优秀的人始终在追问什么是最重要的问题、为何自己尚未投身其中。这种'问题品味'并非天赋，而是独立思考与长期推理的产物。他关于坚持与行动偏见的论述也极具启发：成功没有捷径，而大多数人最缺乏的恰恰是识别有效事物后果断行动的能力。文章最终指向一个更深刻的命题——驱动力或许并非野心，而是纯粹的好奇心。",
+    "best_quote_en": "They have a laser focus on the next step in front of them combined with long-term vision. Most people only have one or the other.",
+    "best_quote_zh": "他们对眼前的下一步有着激光般的专注，同时又拥有长期的愿景。大多数人只具备其中之一。"
+  },
+  {
+    "id": 308,
+    "title": "Grateful Dead",
+    "title_zh": "Grateful Dead",
+    "source": "Harper’s Magazine",
+    "link": "https://harpers.org/2026/08/grateful-dead-john-semley-jess-bergman-morticians-interview-general-interest/",
+    "tags": [
+      "analyze",
+      "society",
+      "science",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "分析",
+      "社会议题",
+      "科学研究",
+      "数据驱动"
+    ],
+    "date": "2026-08-02",
+    "summary_en": "This Harper's interview with John Semley unpacks the quiet crisis facing American mortuary science—a craft caught between cremation's rising dominance and corporate consolidation that treats bodies as throughput rather than persons. Semley's reporting is unusually tactile: he witnesses embalming, visits the Mütter Museum's eccentric archives, and sits with funeral directors who once restored hockey coaches' toddlers in open caskets. The piece's real insight lies not in mourning the decline of restorative art but in interrogating why we cling to certain rituals while discarding others. Semley dismantles the death-positivity movement's assumption that viewing a natural body is inherently more 'honest,' arguing instead that embalming itself is a profoundly human act—a refusal to accept decay as the final word. His comparison of pandemic-era funeral collapse to the death of movie theaters is quietly devastating: once we stop gathering, restarting becomes nearly impossible. The interview ultimately asks whether communal grief is essential or merely pleasant, leaving the question open without pretending it doesn't matter.",
+    "summary_zh": "塞姆莱对殡葬业的书写既克制又深情。他拒绝为传统招魂式挽歌，却在字里行间让读者重新感受到双手触碰逝者面容时那种近乎神圣的郑重。殡仪馆被私募资本吞噬、葬礼沦为流水线作业——这些并非新鲜事，真正刺痛的是塞姆莱提出的那个问题：当告别不再需要众人见证，悲伤是否还完整？",
+    "best_quote_en": "With a good restoration, you can't pinpoint the moment when someone goes from looking like an object to looking like a person. There's something really magical about that.",
+    "best_quote_zh": "好的修复让人无法指认某个瞬间——逝者何时从一个物件变成一个人。那一刻有一种真正的魔力。"
   }
 ]
