@@ -1,77 +1,5 @@
 [
   {
-    "id": 209,
-    "title": "The Real Reason You Feel So Tired After Eating",
-    "title_zh": "你吃完饭后感到疲劳的真正原因",
-    "source": "Mental Floss",
-    "link": "https://www.mentalfloss.com/science/biology/why-you-feel-tired-after-eating?utm_source=RSS",
-    "tags": [
-      "update",
-      "health-wellness",
-      "medicine",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "动态",
-      "健康养生",
-      "医学健康",
-      "数据驱动"
-    ],
-    "date": "2026-01-11",
-    "summary_en": "The article 'The Real Reason You Feel So Tired After Eating' delves into the scientific explanations behind postprandial somnolence, commonly known as the 'food coma.' It highlights how carb-rich foods cause blood sugar spikes and subsequent dips, leading to fatigue. The interplay of tryptophan, serotonin, and melatonin in protein and carb meals also contributes to sleepiness. Additionally, the parasympathetic nervous system's activation during digestion and the body's natural circadian rhythm play significant roles. The article offers practical tips to mitigate these effects, such as eating smaller, balanced meals and staying hydrated. This piece not only educates but also encourages readers to understand and manage their post-meal energy levels better.",
-    "summary_zh": "文章《你吃完饭后感到疲劳的真正原因》探讨了食后困倦现象背后的科学解释。碳水化合物丰富的食物会导致血糖升高后急剧下降，从而引发疲劳。蛋白质和碳水化合物的相互作用也会促进睡意。此外，消化过程中副交感神经系统的激活和身体的自然生物钟也起着重要作用。文章还提供了减轻这些影响的实际建议，如吃小份均衡的餐食和保持水分。这篇文章不仅教育读者，还鼓励他们更好地理解和管理食后的能量水平。",
-    "best_quote_en": "That nagging sleepy feeling you get after eating isn't laziness, it’s science.",
-    "best_quote_zh": "吃完饭后的那种困倦感并不是懒惰，而是科学。"
-  },
-  {
-    "id": 210,
-    "title": "What potent consumer technologies have long remained inaccessible?",
-    "title_zh": "什么强大的消费技术长期以来一直难以获得？",
-    "source": "LessWrong",
-    "link": "https://www.lesswrong.com/posts/uPSMqjzGfigeXc5cQ/what-potent-consumer-technologies-have-long-remained",
-    "tags": [
-      "solve",
-      "ai-research",
-      "medicine",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "解决",
-      "AI研究",
-      "医学健康",
-      "未来预测"
-    ],
-    "date": "2026-01-12",
-    "summary_en": "The article delves into the accessibility of reprogenetic technology, drawing parallels with historical technologies that remained out of reach for the general populace. It challenges the assumption that reprogenetics will perpetually benefit only the wealthy, using examples like plumbing, electricity, and computers to illustrate how technologies eventually become affordable. The author seeks examples of technologies that have disproportionately benefited the rich for decades, despite having the potential to be made accessible. This thought-provoking piece encourages readers to consider the economic and political factors that influence the accessibility of advanced technologies.",
-    "summary_zh": "这篇文章探讨了再生技术的可及性，通过历史上那些长期难以获得的技术进行类比。它质疑了再生技术只会长期惠及富人的假设，并用自来水、电力和电脑等例子来说明技术最终会变得普及。作者寻找那些虽然有潜力变得普及，但却长期只惠及富人的技术例子，这篇文章引人深思，鼓励读者考虑经济和政治因素如何影响先进技术的可及性。",
-    "best_quote_en": "Reprogenetics will likely be similar to most other technologies: At first it will be very expensive (and less effective); then, after an initial period of perhaps a decade or two, it will become much less expensive.",
-    "best_quote_zh": "再生技术可能与大多数其他技术类似：最初它会非常昂贵（且效果不佳）；然后，经过初期的十年或二十年，它会变得便宜得多。"
-  },
-  {
-    "id": 211,
-    "title": "The Bloody Lesson the Ayatollah Took from the Shah",
-    "title_zh": "阿亚图拉从沙阿那里学到的血腥教训",
-    "source": "The New Yorker",
-    "link": "https://www.newyorker.com/news/the-lede/the-bloody-lesson-the-ayatollah-took-from-the-shah",
-    "tags": [
-      "update",
-      "politics",
-      "economics",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "动态",
-      "政治时事",
-      "经济金融",
-      "未来预测"
-    ],
-    "date": "2026-01-11",
-    "summary_en": "David Remnick's analysis of the current Iranian protests draws striking parallels with the 1979 revolution, highlighting Ayatollah Khamenei's dilemma as he faces widespread unrest. Unlike the Shah, Khamenei has chosen brutality over conciliation, drawing dark lessons from history. The Islamic Republic's economic mismanagement and military failures have fueled public anger, with protests spreading beyond major cities. Experts debate Iran's future, ranging from technocracy to security states, but Remnick emphasizes the unpredictability of the situation. The article serves as a sobering reminder of the complexities of regime change and the human cost of authoritarianism.",
-    "summary_zh": "大卫·雷姆尼克对当前伊朗抗议活动的分析，揭示了阿亚图拉·哈梅内伊面临的两难困境。面对全国性的动荡，他选择暴力镇压而非妥协，从历史中汲取了残酷的教训。伊斯兰共和国的经济管理不善和军事失败引发了民愤，抗议活动蔓延到保守和忠于政权的地区。专家们对伊朗的未来众说纷纭，从技术专制到安全国家，但雷姆尼克强调了局势的不可预测性。文章提醒我们，政权更迭的复杂性和专制统治的高昂代价。",
-    "best_quote_en": "Brutally speaking, if the Shah had been tougher and had instructed his soldiers to indiscriminately kill people in the streets, he might have been saved.",
-    "best_quote_zh": "残酷地说，如果沙阿更加强硬，并命令他的士兵在街头无差别地杀人，他可能会被拯救。"
-  },
-  {
     "id": 212,
     "title": "Retro Recomendo: Career",
     "title_zh": "Retro Recomendo: 职业建议",
@@ -2364,5 +2292,71 @@
     "summary_zh": "塞姆莱对殡葬业的书写既克制又深情。他拒绝为传统招魂式挽歌，却在字里行间让读者重新感受到双手触碰逝者面容时那种近乎神圣的郑重。殡仪馆被私募资本吞噬、葬礼沦为流水线作业——这些并非新鲜事，真正刺痛的是塞姆莱提出的那个问题：当告别不再需要众人见证，悲伤是否还完整？",
     "best_quote_en": "With a good restoration, you can't pinpoint the moment when someone goes from looking like an object to looking like a person. There's something really magical about that.",
     "best_quote_zh": "好的修复让人无法指认某个瞬间——逝者何时从一个物件变成一个人。那一刻有一种真正的魔力。"
+  },
+  {
+    "id": 309,
+    "title": "The States With the Most Drive-In Movie Theaters",
+    "title_zh": "拥有最多汽车影院州的排行榜",
+    "source": "Mental Floss",
+    "link": "https://www.mentalfloss.com/geography/states/states-most-drive-in-movie-theaters?utm_source=RSS",
+    "tags": [
+      "update",
+      "design",
+      "music-arts"
+    ],
+    "tags_zh": [
+      "动态",
+      "设计创意",
+      "音乐艺术"
+    ],
+    "date": "2026-08-05",
+    "summary_en": "This article delivers a surprisingly nostalgic yet data-grounded look at America's remaining drive-in theaters, revealing that the open-air cinema tradition refuses to fade into the credits. The ranking exposes a fascinating geographic pattern — Pennsylvania leads with 20 venues, while states like Ohio and Texas each hold steady at 17, suggesting that rural and midwestern spaces have become the last strongholds of this retro entertainment format. What makes the piece genuinely compelling is its attention to individual theater personalities: the Mahoning Drive-In still projecting on 35mm film, the Rubidoux offering three simultaneous screens near Hollywood, and Kentucky's Bourbon Drive-In weaving the state's signature spirit into its very name. These details transform a simple list into a portrait of cultural preservation. The article also quietly acknowledges the economic forces that nearly killed the drive-in — rising property values, shifting consumer preferences, and the multiplex revolution — making the survival of these theaters a small act of defiance. For anyone who romanticizes outdoor cinema or plans a nostalgic road trip, this serves as both a practical guide and a gentle reminder that some experiences resist modernization. The piece earns its keep by balancing data with storytelling.",
+    "summary_zh": "这篇文章以数据为骨架，却以温情为血肉，勾勒出美国汽车影院的残存版图。宾夕法尼亚以20家 theaters 领跑，而俄亥俄与德州各存17家，暗示着乡村与中部地区仍是这种复古娱乐的最后堡垒。作者没有止步于排名，而是赋予每家影院独特的人格——马霍宁仍用35毫米胶片放映，鲁比杜克斯在好莱坞旁提供三块银幕，肯塔基的波本影院甚至将州文化符号嵌入名字。这些细节让一份简单的列表升华为文化存续的肖像。文章也冷静点出地产升值、多厅影院的冲击等致命力量，使得这些影院的幸存本身便是一种温和的抵抗。对任何向往户外电影或怀旧公路旅行的人而言，这既是实用指南，也是一次关于「何为值得保留」的轻声叩问。",
+    "best_quote_en": "From classic 35mm screenings to modern blockbusters, these states prove the drive-in movie experience isn't ready for the final credits yet.",
+    "best_quote_zh": "从经典的35毫米胶片放映到现代大片，这些州证明了汽车影院的体验尚未准备好谢幕。"
+  },
+  {
+    "id": 310,
+    "title": "The Surprising Way Louis Armstrong Pronounced His Own Name",
+    "title_zh": "Louis Armstrong 发音自己名字的惊人方式",
+    "source": "Mental Floss",
+    "link": "https://www.mentalfloss.com/entertainment/music/how-louis-armstrong-pronounced-his-name?utm_source=RSS",
+    "tags": [
+      "learn",
+      "lifestyle",
+      "controversial"
+    ],
+    "tags_zh": [
+      "学习",
+      "生活方式",
+      "争议观点"
+    ],
+    "date": "2026-08-04",
+    "summary_en": "This article explores a fascinating cultural paradox surrounding jazz legend Louis Armstrong — the disconnect between how he pronounced his own name and how the world remembers it. Armstrong consistently stated his name was 'Louis' with a strong emphasis on the final 's,' citing his mother's influence and his own vehement correction during the 1964 'Hello Dolly!' recording session. Yet popular culture, record labels, and even those closest to him adopted 'Louie,' creating a case where collective usage overwrote individual identity. The piece is more than a linguistic curiosity; it reveals how cultural icons become communal property, their personal preferences gradually eclipsed by the mythology that surrounds them. The article's strength lies in its evidentiary approach — Armstrong's own words, specific recordings, and biographer accounts build a compelling case while acknowledging the ambiguity. What makes this truly thought-provoking is the broader question it raises: when does a name become something larger than the person who bears it?",
+    "summary_zh": "这篇文章揭示了路易斯·阿姆斯特朗名字发音背后的文化悖论——本人坚持'路易斯'，世界却记住了'路易'。这不仅是语言学趣闻，更折射出文化偶像如何被大众叙事重塑，个体声音终被集体记忆悄然覆盖的深层命题。我们总以为自己在纪念一个人，殊不知早已进入了另一种叙事。读来令人深思。",
+    "best_quote_en": "My mother always called me Louis, not Louie.",
+    "best_quote_zh": "我母亲一直叫我路易斯，不是路易。"
+  },
+  {
+    "id": 311,
+    "title": "Physicists Solve a Big Quantum Mystery. Now, Old Results Don’t Add Up.",
+    "title_zh": "物理学家解开量子大谜题，旧实验结果却不再吻合",
+    "source": "Quanta Magazine",
+    "link": "https://www.quantamagazine.org/physicists-solve-a-muon-mystery-now-old-results-dont-add-up-20260729/",
+    "tags": [
+      "update",
+      "science",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "动态",
+      "科学研究",
+      "未来预测"
+    ],
+    "date": "2026-07-29",
+    "summary_en": "This article chronicles a fascinating twist in one of particle physics' most enduring mysteries — the muon g-2 anomaly. What initially appeared to be evidence of new physics beyond the Standard Model has unraveled into an even deeper puzzle: why do two legitimate theoretical approaches yield contradictory predictions? The data-driven method, rooted in electron-positron collision experiments, still signals a discrepancy, while lattice QCD simulations now align perfectly with the latest measurements. The discovery that the VEPP-2000 collider's pion production rate shifted dramatically after a detector upgrade adds a startling new variable. What makes this story compelling is not just the science itself, but what it reveals about how knowledge is constructed — decades of measurements, each considered reliable, now point in irreconcilable directions. The article does an excellent job of conveying the human drama behind abstract physics: the excitement of a potential breakthrough, the disappointment when it fades, and the renewed curiosity when old data suddenly refuses to cooperate. It reminds us that in frontier science, solving one mystery often opens several more.",
+    "summary_zh": "这篇文章讲述了一个令人着迷的科学反转：原本被视为超越标准模型新物理信号的μ子g-2异常，如今演变成更深层的谜题。两种各自合理的理论方法为何得出矛盾的预测？西伯利亚VEPP-2000对撞机在更换探测器后，π介子产生率发生了剧烈变化——这让数十年来被视为可靠的数据突然变得不可信赖。文章最打动人的不是物理本身，而是它揭示了知识建构的脆弱性：每一个曾被确信的测量结果，都可能在某一天与新的发现彻底冲突。解开一个谜题，往往意味着更多谜题的开始。",
+    "best_quote_en": "\"The measurement of muon g–2 is a proxy for saying how many particles exist in the universe.\"",
+    "best_quote_zh": "对μ子g-2的测量，本质上是在说宇宙中究竟存在多少种粒子。"
   }
 ]
