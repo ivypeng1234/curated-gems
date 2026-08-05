@@ -36,4 +36,5 @@ jobs:
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: "Auto-commit: Update data.json"
-          file_pattern: "data.json scripts/processed_links.json"
+          file_pattern: "data.json scripts/processed_links.json scripts/source_cursor.json"
+
