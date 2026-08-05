@@ -49,12 +49,14 @@ MAX_TOKENS = int(os.getenv("OPENROUTER_MAX_TOKENS", "2048"))  # Response length 
 PROCESSED_LINKS_FILE = "scripts/processed_links.json"
 OUTPUT_FILE = "data.json"
 SOURCE_FILE = "scripts/source.json"
+SOURCE_CURSOR_FILE = "scripts/source_cursor.json"
 
 # Output and API call control
 MAX_NEW_ITEMS = 5         # Maximum successful output items for this run (max 5 items you want)
 MAX_API_CALLS = 8         # Maximum model API calls for this run (failures also count)
 MAX_PER_SOURCE = 5        # Maximum candidate items sampled per source (candidates only, not final success count)
 HTTP_TIMEOUT = 20         # Timeout seconds for web scraping/model calls
+SOURCES_PER_RUN = 5       # Check this many consecutive sources, then advance the cursor
 REQUEST_SLEEP = 0.2       # Light sleep to reduce rate limiting probability
 
 # CSS selector list for extracting main content (优先尝试的内容选择器)
@@ -153,6 +155,28 @@ except (FileNotFoundError, json.JSONDecodeError) as e:
     print("No new valid records this time, no write needed.")
     print("\nAll processes completed: Successfully added 0 items; Model called 0 times.")
     exit(0)  # Exit gracefully if source file is missing or invalid
+
+# Select a different consecutive group of sources on each run. The cursor is
+# committed with the results so the next scheduled run continues where this one
+# stopped, including wrap-around at the end of the source list.
+if not isinstance(sources, list) or not sources:
+    print(f"WARNING: Source file {SOURCE_FILE} must contain a non-empty JSON array.")
+    exit(0)
+
+try:
+    with open(SOURCE_CURSOR_FILE, 'r', encoding='utf-8') as f:
+        source_cursor = json.load(f).get('next_source_index', 0)
+    source_cursor = int(source_cursor) % len(sources)
+except (FileNotFoundError, json.JSONDecodeError, AttributeError, TypeError, ValueError):
+    source_cursor = 0
+
+sources_this_run = [
+    sources[(source_cursor + offset) % len(sources)]
+    for offset in range(min(SOURCES_PER_RUN, len(sources)))
+]
+next_source_cursor = (source_cursor + SOURCES_PER_RUN) % len(sources)
+selected_source_names = [source.get('name', '(unnamed source)') for source in sources_this_run]
+print(f"Source rotation: starting at {source_cursor}; checking {selected_source_names}; next start: {next_source_cursor}.")
 
 # ========== Utility Functions ==========
 def entry_pubdate(entry):
@@ -582,7 +606,8 @@ Output requirements:
 
 # ========== Stage 1: Collect candidates by source buckets ==========
 candidates_by_source = {}  # { source_name: [entry, entry, ...] }
-for source in sources:
+#for source in sources:
+for source in sources_this_run:
     source_name = source.get('name', '')
     rss_url = source.get('url', '')
     if not rss_url:
@@ -823,5 +848,10 @@ else:
 # Overwrite processed_links.json
 with open(PROCESSED_LINKS_FILE, 'w', encoding='utf-8') as f:
     json.dump(sorted(list(processed_links)), f, indent=2, ensure_ascii=False)
+
+# Persist the next starting point even when this batch had no new items, so a
+# quiet or broken source cannot prevent the rotation from reaching later ones.
+with open(SOURCE_CURSOR_FILE, 'w', encoding='utf-8') as f:
+    json.dump({"next_source_index": next_source_cursor}, f, indent=2, ensure_ascii=False)
 
 print(f"\nAll processes completed: Successfully added {new_items_count} items; Model called {api_calls} times. Output file: {OUTPUT_FILE}, Link cache: {PROCESSED_LINKS_FILE}")
