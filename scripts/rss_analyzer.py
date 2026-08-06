@@ -55,8 +55,8 @@ SOURCE_CURSOR_FILE = "scripts/source_cursor.json"
 MAX_NEW_ITEMS = 5         # Maximum successful output items for this run (max 5 items you want)
 MAX_API_CALLS = 8         # Maximum model API calls for this run (failures also count)
 MAX_PER_SOURCE = 5        # Maximum candidate items sampled per source (candidates only, not final success count)
-HTTP_TIMEOUT = 20         # Timeout seconds for web scraping/model calls
 SOURCES_PER_RUN = 5       # Check this many consecutive sources, then advance the cursor
+HTTP_TIMEOUT = 20         # Timeout seconds for web scraping/model calls
 REQUEST_SLEEP = 0.2       # Light sleep to reduce rate limiting probability
 
 # CSS selector list for extracting main content (优先尝试的内容选择器)
@@ -490,6 +490,29 @@ Return a JSON object with exactly these fields:
 
 Provide your analysis as a clean JSON object only.""".strip()
 
+    # Used only when a provider cannot return a complete JSON response to the
+    # full prompt. Shorter summaries make it much less likely that generation
+    # reaches the output-token limit before closing the JSON object.
+    compact_retry_prompt = f"""
+Return ONLY one valid JSON object. Do not use Markdown or code fences.
+
+Required fields:
+{{
+  "title_zh": "Chinese title",
+  "summary_en": "80-120 word English summary",
+  "summary_zh": "80-120 Chinese character summary",
+  "best_quote_en": "short English quote, at most 25 words",
+  "best_quote_zh": "Chinese translation of the quote",
+  "tags": ["3-5 English tags"],
+  "tags_zh": ["3-5 Chinese tags"]
+}}
+
+Title: {title}
+
+Content:
+{full_content}
+""".strip()
+
     headers = {
         "Authorization": f"Bearer {OPENROUTER_API_KEY}",
         "Content-Type": "application/json"
@@ -530,14 +553,22 @@ Output requirements:
         ],
     }
 
-    # Attempt 1: with response_format (more likely to get pure JSON)
-    for attempt in (1, 2):
+    # Attempt 1 uses structured output. Attempt 2 is the normal fallback for
+    # providers without that feature. Attempt 3 asks for a shorter response if
+    # the normal fallback returned incomplete or invalid JSON.
+    for attempt in (1, 2, 3):
         data = dict(base_payload)  # Shallow copy
         if attempt == 1:
             data["response_format"] = {"type": "json_object"}
             print("[OpenRouter] Attempting to use response_format=json_object")
-        else:
+        elif attempt == 2:
             print("[OpenRouter] Fallback retry without response_format")
+        else:
+            data["messages"] = [
+                {"role": "system", "content": system_prompt},
+                {"role": "user", "content": compact_retry_prompt}
+            ]
+            print("[OpenRouter] Final retry with compact JSON-only prompt")
 
         try:
             resp = requests.post(OPENROUTER_URL, headers=headers, json=data, timeout=HTTP_TIMEOUT)
@@ -546,8 +577,9 @@ Output requirements:
             print(f"[OpenRouter] HTTP {status}")
             if status >= 400:
                 print(f"[OpenRouter] Body: {text[:1000]}")
-                # Some models will return 400 for response_format, proceed to next fallback attempt
-                if attempt == 1:
+                # Some models will return 400 for response_format or reject a
+                # request transiently; proceed to the next fallback attempt.
+                if attempt < 3:
                     continue
                 resp.raise_for_status()
             # Parse response
@@ -555,29 +587,28 @@ Output requirements:
             
             # Check if response is valid format
             if not isinstance(api_response, dict):
-                if attempt == 1:
-                    print(f"[OpenRouter] Invalid response format (not dict), will retry without response_format. Type: {type(api_response)}")
+                if attempt < 3:
+                    print(f"[OpenRouter] Invalid response format (not dict), will retry. Type: {type(api_response)}")
                     continue
                 return None, f"Invalid response format: expected dict, got {type(api_response)}"
             
             if api_response.get("error"):
-                # If it's a clear API error and attempt 1, do fallback retry
-                if attempt == 1:
-                    print(f"[OpenRouter] API Error on attempt 1, will retry without response_format: {api_response['error']}")
+                if attempt < 3:
+                    print(f"[OpenRouter] API Error on attempt {attempt}, will retry: {api_response['error']}")
                     continue
                 return None, f"API Error: {api_response['error']}"
 
             # Check if choices exist and have expected structure
             if not api_response.get('choices') or not isinstance(api_response['choices'], list) or len(api_response['choices']) == 0:
-                if attempt == 1:
-                    print(f"[OpenRouter] Missing or invalid choices in response, will retry without response_format")
+                if attempt < 3:
+                    print(f"[OpenRouter] Missing or invalid choices in response, will retry")
                     continue
                 return None, f"Invalid response structure: missing or empty choices"
             
             choice = api_response['choices'][0]
             if not isinstance(choice, dict) or not choice.get('message') or not choice['message'].get('content'):
-                if attempt == 1:
-                    print(f"[OpenRouter] Invalid choice structure, will retry without response_format")
+                if attempt < 3:
+                    print(f"[OpenRouter] Invalid choice structure, will retry")
                     continue
                 return None, f"Invalid choice structure: missing message or content"
             
@@ -586,18 +617,17 @@ Output requirements:
                 analysis_data = parse_json_safely(content)
                 return analysis_data, content
             except json.JSONDecodeError as e:
-                # Attempt 1 failed, fallback; if attempt 2 still fails, return error
-                if attempt == 1:
-                    print(f"[Parse failed@attempt1] {e}; will fallback retry. First 500 chars: {content[:500]}")
+                if attempt < 3:
+                    print(f"[Parse failed@attempt{attempt}] {e}; will retry. First 500 chars: {content[:500]}")
                     continue
-                return None, f"JSONDecodeError(after fallback): {e}; content: {content[:1000]}"
+                return None, f"JSONDecodeError(after compact retry): {e}; content: {content[:1000]}"
 
         except requests.HTTPError:
-            if attempt == 1:
+            if attempt < 3:
                 continue
             return None, f"HTTPError: {resp.status_code}; body: {resp.text[:1000]}"
         except Exception as e:
-            if attempt == 1:
+            if attempt < 3:
                 continue
             return None, f"RequestError: {e}"
 
@@ -606,7 +636,6 @@ Output requirements:
 
 # ========== Stage 1: Collect candidates by source buckets ==========
 candidates_by_source = {}  # { source_name: [entry, entry, ...] }
-#for source in sources:
 for source in sources_this_run:
     source_name = source.get('name', '')
     rss_url = source.get('url', '')
