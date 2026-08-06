@@ -1,51 +1,5 @@
 [
   {
-    "id": 212,
-    "title": "Retro Recomendo: Career",
-    "title_zh": "Retro Recomendo: 职业建议",
-    "source": "Kevin Kelly",
-    "link": "https://kk.org/cooltools/retro-recomendo-career/",
-    "tags": [
-      "solve",
-      "leadership",
-      "lifestyle",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "解决",
-      "领导管理",
-      "生活方式",
-      "数据驱动"
-    ],
-    "date": "2026-01-11",
-    "summary_en": "The article 'Retro Recomendo: Career' offers a curated collection of evergreen recommendations focused on career development, drawn from the past nine years. It highlights practical advice on doing great work, conducting productive meetings, professional communication, job applications, and managing burnout. The insights are actionable and relevant for anyone seeking to enhance their professional skills and well-being. Notable is the inclusion of visual representations and concise videos that make complex topics accessible. The article also features career wisdom from renowned figures like Paul Graham and Ryan Holiday, providing a mix of expert insights and practical tools.",
-    "summary_zh": "文章《Retro Recomendo: 职业建议》汇聚了过去九年最具价值的职业建议，涵盖了如何高效工作、开会、专业交流、求职以及防止职业倦怠等话题。这些建议实用且适用于任何希望提升职业技能和生活质量的人。文章中还引用了保罗·格雷厄姆和瑞安·霍利迪等专家的智慧，提供了专业见解和实用工具。",
-    "best_quote_en": "Find what nobody else wants to do and do it. Find inefficiency and waste and redundancies. Identify leaks and patches to free up resources for new areas.",
-    "best_quote_zh": "找到别人不愿意做的事情，然后去做。发现效率低下、浪费和冗余。识别漏洞和补丁，释放资源以便用于新领域。"
-  },
-  {
-    "id": 213,
-    "title": "Cells Use ‘Bioelectricity’ To Coordinate and Make Group Decisions",
-    "title_zh": "细胞使用“生物电”协调并做出集体决策",
-    "source": "Quanta Magazine",
-    "link": "https://www.quantamagazine.org/cells-use-bioelectricity-to-coordinate-and-make-group-decisions-20260112/",
-    "tags": [
-      "analyze",
-      "science",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "分析",
-      "科学研究",
-      "未来预测"
-    ],
-    "date": "2026-01-12",
-    "summary_en": "The recent discovery that cells use bioelectricity to coordinate and make group decisions highlights the intricate and often overlooked role of electrical signals in biological processes. This phenomenon, known as cell extrusion, is crucial for maintaining tissue health by expelling unhealthy cells. The study reveals that as epithelial tissues grow, increased electrical currents flowing through cell membranes trigger a response in weak or energy-starved cells, leading to their shrinkage and eventual expulsion. This process underscores the importance of bioelectricity in fundamental biology and suggests that electrical signaling is a universal tool for cellular communication and coordination. The implications are vast, from understanding disease mechanisms like cancer and asthma to potentially revolutionizing our approach to tissue health and regeneration.",
-    "summary_zh": "细胞利用生物电来协调和做出集体决策的发现，揭示了电信号在生物过程中的复杂作用。这种被称为细胞排出的现象，对于通过排除不健康细胞来维持组织健康至关重要。研究表明，随着上皮组织的生长，细胞膜中的电流增加，触发了对弱或能量匮乏细胞的响应，导致其萎缩和最终排出。这表明生物电在基本生物学中起着重要作用，并暗示电信号是细胞通信和协调的普遍工具。这一发现的意义深远，从理解癌症和哮喘等疾病机制，到可能颠覆我们对组织健康和再生的理解。",
-    "best_quote_en": "It’s a good example of how a widening electronic-signaling perspective can be used in fundamental biology.",
-    "best_quote_zh": "这是一个很好的例子，说明扩大电子信号视角可以用于基本生物学。"
-  },
-  {
     "id": 214,
     "title": "Red tape on a blue planet",
     "title_zh": "红色官僚主义困扰蓝色星球",
@@ -2358,5 +2312,47 @@
     "summary_zh": "这篇文章讲述了一个令人着迷的科学反转：原本被视为超越标准模型新物理信号的μ子g-2异常，如今演变成更深层的谜题。两种各自合理的理论方法为何得出矛盾的预测？西伯利亚VEPP-2000对撞机在更换探测器后，π介子产生率发生了剧烈变化——这让数十年来被视为可靠的数据突然变得不可信赖。文章最打动人的不是物理本身，而是它揭示了知识建构的脆弱性：每一个曾被确信的测量结果，都可能在某一天与新的发现彻底冲突。解开一个谜题，往往意味着更多谜题的开始。",
     "best_quote_en": "\"The measurement of muon g–2 is a proxy for saying how many particles exist in the universe.\"",
     "best_quote_zh": "对μ子g-2的测量，本质上是在说宇宙中究竟存在多少种粒子。"
+  },
+  {
+    "id": 312,
+    "title": "Project Covalence",
+    "title_zh": "共价计划",
+    "source": "Sam Altman",
+    "link": "https://blog.samaltman.com/project-covalence",
+    "tags": [
+      "solve",
+      "medicine"
+    ],
+    "tags_zh": [
+      "解决",
+      "医学健康"
+    ],
+    "date": "2020-06-16",
+    "summary_en": "Project Covalence represents a fascinating case study in how purpose-driven infrastructure can dramatically compress the timeline of scientific response during a global crisis. What strikes me most is the recognition that clinical trials — not just the science itself — are the bottleneck. By building shared, COVID-19-optimized trial infrastructure around remote data collection, telemedicine, and at-home specimen kits, the team is essentially reimagining how trials can be run outside traditional hospital settings. The inclusion of master protocols and adaptive trial designs hints at a deeper ambition: creating reusable, modular frameworks rather than one-off solutions. I find the collaboration with TrialSpark and Dr. Mark Fishman particularly compelling — it suggests a serious scientific backbone rather than a superficial tech fix. One critical question lingers: how scalable is this platform beyond the pandemic context, and could it reshape how we approach clinical trials for future health emergencies? The operational sophistication on display here — from 21 CFR Part 11 compliance to biostatistics support — signals that this is infrastructure meant to endure.",
+    "summary_zh": "共价计划最打动我的，是它把临床试验本身而非仅仅是科学发现当作瓶颈来攻克。用远程数据和居家采样重构试验流程，这不只是应急方案，更像是在为未来的公共卫生危机预埋一套可复用的基础设施。",
+    "best_quote_en": "Science remains the only way out of the COVID-19 crisis. Dramatically improving clinical trials, which are usually time-consuming and cost tens to hundreds of millions of dollars, is one of the highest-leverage ways to get out of it faster.",
+    "best_quote_zh": "科学是走出COVID-19危机的唯一出路。而大幅改进临床试验——通常耗时且耗资数千万美元——是更快走出危机的最高杠杆方式之一。"
+  },
+  {
+    "id": 313,
+    "title": "Home / Matthias Buchinger: “The Greatest German Living”",
+    "title_zh": "家居 / 马蒂亚斯·布欣格：\"最伟大的德国人\"",
+    "source": "Kevin Kelly",
+    "link": "https://kk.org/cooltools/home-matthias-buchinger-the-greatest-german-living/",
+    "tags": [
+      "analyze",
+      "design",
+      "writing-content"
+    ],
+    "tags_zh": [
+      "分析",
+      "设计创意",
+      "写作内容"
+    ],
+    "date": "2026-08-04",
+    "summary_en": "This curated feature from 'Books That Belong On Paper' presents two deceptively simple books that reveal extraordinary depths. Carson Ellis's 'Home' transforms the children's picture book into a global meditation on dwelling, weaving together urban sprawls, eastern palaces, and lunar landscapes with whimsical characters that blur the line between illustration and world-building. The Matthias Buchinger biography by Ricky Jay is perhaps the more remarkable find—a testament to human ingenuity that defies every limitation. Buchinger, born without limbs in 1674, became a celebrated micrographer, magician, and sharpshooter whose fame spanned continents. Jay's personal connection to the subject adds warmth and authenticity to what could have been mere historical documentation. Together, these books champion the idea that creativity flourishes precisely at the intersection of constraint and imagination. The feature itself exemplifies thoughtful curation, guiding readers toward works that reward curiosity and linger in the mind long after the final page.",
+    "summary_zh": "这两本书的推荐看似随意，实则暗含深意。Ellis用童书形式探讨\"家\"的普世意义，将全球各地的居所编织成一幅充满奇想的画卷；而Buchinger的故事则证明，创造力的真正边界从来不在身体，而在心灵。Ricky Jay以亲历者的热情书写这段历史，为冰冷的传记注入了罕见的温度。真正的启发在于：当限制与想象力相遇，恰恰是创造力最为蓬勃的沃土。",
+    "best_quote_en": "Buchinger's fame was so widespread that in the 1780s the term 'Buckinger's boot' existed in England as a euphemism for the vagina (because the only 'limb' he had was his penis).",
+    "best_quote_zh": "布欣格的名声如此广泛，以至于1780年代的英国出现了\"布欣格的靴子\"这一委婉语，用来指代阴道（因为他唯一的\"肢体\"就是他的阴茎）。"
   }
 ]
