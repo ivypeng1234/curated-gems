@@ -1,101 +1,5 @@
 [
   {
-    "id": 214,
-    "title": "Red tape on a blue planet",
-    "title_zh": "红色官僚主义困扰蓝色星球",
-    "source": "Aeon",
-    "link": "https://aeon.co/essays/should-we-intensively-alter-coral-reefs-so-they-can-survive-the-heat?utm_source=rss-feed",
-    "tags": [
-      "solve",
-      "science",
-      "environment",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "解决",
-      "科学研究",
-      "环境科学",
-      "数据驱动"
-    ],
-    "date": "2026-01-09",
-    "summary_en": "The essay 'Red Tape on a Blue Planet' delves into the challenges marine scientists face due to regulatory hurdles in the midst of escalating marine heatwaves. The 2023 Florida heatwave, which resulted in record-breaking ocean temperatures and massive coral bleaching, highlighted the inadequacies of current legal frameworks in responding to climate change. Scientists like Liv Williamson and Ross Cunning struggled with slow permit processes and bureaucratic delays, leading to the loss of significant coral populations. The essay argues that existing laws, designed to protect ecosystems, often hinder urgent conservation efforts. It suggests that a more flexible, transdisciplinary approach involving scientists, regulators, and local communities is necessary to address the rapid ecological changes caused by climate change.",
-    "summary_zh": "这篇文章《红色官僚主义困扰蓝色星球》探讨了海洋科学家在应对日益严重的海洋热浪时所面临的法律障碍。2023年佛罗里达的热浪导致海洋温度创下记录，大规模珊瑚白化，暴露了现有法律框架在应对气候变化时的不足。科学家如Liv Williamson和Ross Cunning因获取许可和官僚程序的延误而无法及时采取行动，导致大量珊瑚灭绝。文章认为，设计用于保护生态系统的法律往往阻碍了紧急的保护措施。它建议，需要一种更灵活、跨学科的方法，涉及科学家、监管者和当地社区，以应对气候变化带来的快速生态变化。",
-    "best_quote_en": "All the fancy technologies in the world don’t really matter if at the end of the day you are not allowed to apply them.",
-    "best_quote_zh": "世界上所有高科技手段都无关紧要，因为如果你最终不能使用它们，那么一切都无济于事。"
-  },
-  {
-    "id": 215,
-    "title": "Why Everyone Is Saying \"Cooked\" and What It Actually Means",
-    "title_zh": "为什么每个人都在说“Cooked”以及它的实际含义",
-    "source": "Mental Floss",
-    "link": "https://www.mentalfloss.com/language/slang/why-everyone-is-saying-cooked-what-it-means?utm_source=RSS",
-    "tags": [
-      "solve",
-      "science",
-      "society",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "解决",
-      "科学研究",
-      "社会议题",
-      "数据驱动"
-    ],
-    "date": "2026-01-12",
-    "summary_en": "The article explores the Gen Z buzzword 'cooked,' tracing its origins from the 19th century to its modern usage. Originally meaning 'done' or 'finished,' 'cooked' has evolved to signify failure or exhaustion in contemporary slang. The term's versatility is highlighted through various contexts, from admitting defeat in group chats to describing physical or emotional weariness. The author notes that this linguistic shift is part of a broader pattern of language evolution across generations, reflecting the dynamic nature of slang and idioms. The piece invites readers to engage with the cultural nuances of Gen Z communication, offering a glimpse into how language adapts to reflect contemporary experiences.",
-    "summary_zh": "文章探讨了Gen Z流行语“cooked”的起源和现代用法，从19世纪的“完成”或“结束”演变为现在表示失败或疲惫的意思。作者指出，这个词在不同场合中都很有用，比如在群聊中承认失败，或者描述身体或情感上的疲惫。语言的演变反映了跨越世代的文化变迁，引发读者对Gen Z沟通方式的思考，展示了语言如何适应现代经验。",
-    "best_quote_en": "Language evolves, slang gets stranger, and sometimes, the only honest way to describe your situation is to admit you're fully cooked.",
-    "best_quote_zh": "语言演变，俚语变得更奇怪，有时，描述你的情况最诚实的方式就是承认你已经完全“cooked”。"
-  },
-  {
-    "id": 216,
-    "title": "Making LLM Graders Consistent",
-    "title_zh": "使LLM评分者一致",
-    "source": "LessWrong",
-    "link": "https://www.lesswrong.com/posts/ANHWxoKSM7baDEqob/making-llm-graders-consistent",
-    "tags": [
-      "analyze",
-      "science",
-      "ai-research",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "分析",
-      "科学研究",
-      "AI研究",
-      "数据驱动"
-    ],
-    "date": "2026-01-13",
-    "summary_en": "The article 'Making LLM Graders Consistent' by Davey Morse explores the challenge of achieving deterministic grading with Large Language Models (LLMs) when evaluating qualitative texts. Morse notes that LLMs like ChatGPT can produce inconsistent responses when assessing the same content multiple times. He suggests that by defining specific criteria for evaluation within narrow domains, LLMs can provide more consistent grading. This approach involves having the LLM devise a set of criteria, score each criterion separately, and then average the scores. Morse argues that the quality of the criteria affects the accuracy of the ratings but not their consistency. This method could be applied to various domains, such as grading poems or evaluating essays, by using relevant but somewhat arbitrary criteria. The key insight is that averaging scores across many criteria can significantly improve the consistency of LLM grading.",
-    "summary_zh": "大卫·莫尔斯在《使LLM评分者一致》一文中探讨了大型语言模型（LLM）在评估定性文本时实现确定性评分的挑战。莫尔斯指出，像ChatGPT这样的LLM在多次评估相同内容时可能会产生不一致的响应。他建议，通过在狭窄领域内定义特定评估标准，LLM可以提供更一致的评分。这种方法涉及LLM制定一组标准，分别对每个标准进行评分，然后平均这些评分。莫尔斯认为，标准的质量影响评分的准确性，但不影响其一致性。这种方法可以应用于各种领域，例如评分诗歌或评估文章，使用相关但相对任意的标准。关键见解是，在多个标准上平均评分可以显著提高LLM评分的一致性。",
-    "best_quote_en": "Averaging across many criteria will almost always be more consistent than scoring in one shot.",
-    "best_quote_zh": "在多个标准上平均评分几乎总是比一次性评分更一致。"
-  },
-  {
-    "id": 217,
-    "title": "How WhatsApp Took Over the Global Conversation",
-    "title_zh": "WhatsApp如何接管全球对话",
-    "source": "The New Yorker",
-    "link": "https://www.newyorker.com/magazine/2026/01/19/how-whatsapp-took-over-the-global-conversation",
-    "tags": [
-      "analyze",
-      "leadership",
-      "science",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "分析",
-      "领导管理",
-      "科学研究",
-      "数据驱动"
-    ],
-    "date": "2026-01-12",
-    "summary_en": "WhatsApp's rise to global dominance is a testament to its ability to provide a free, reliable, and culturally adaptable messaging service. From its humble beginnings as a status-sharing app to becoming a core technology for governments and families alike, WhatsApp has revolutionized communication. Its success lies in its simplicity, end-to-end encryption, and the ability to cater to diverse user needs, from casual conversations to critical disaster responses. However, its integration into daily life raises concerns about privacy and the potential for misuse, such as in political manipulations and mob violence. As WhatsApp continues to evolve, balancing user privacy with commercial interests will be crucial.",
-    "summary_zh": "WhatsApp从一个简单的状态分享应用迅速崛起，成为全球主流的通讯工具。它的成功在于其免费、可靠且文化适应性强的特点。然而，其深入人们日常生活的同时，也引发了隐私和潜在滥用的担忧。例如，政治操控和暴力事件的传播。未来，WhatsApp如何在保护用户隐私与商业利益之间取得平衡，将是一个关键课题。",
-    "best_quote_en": "It’s almost like the last honest place on the internet.",
-    "best_quote_zh": "它几乎是互联网上最后一个诚实的地方。"
-  },
-  {
     "id": 218,
     "title": "DNA break repair",
     "title_zh": "DNA修复",
@@ -2354,5 +2258,91 @@
     "summary_zh": "这两本书的推荐看似随意，实则暗含深意。Ellis用童书形式探讨\"家\"的普世意义，将全球各地的居所编织成一幅充满奇想的画卷；而Buchinger的故事则证明，创造力的真正边界从来不在身体，而在心灵。Ricky Jay以亲历者的热情书写这段历史，为冰冷的传记注入了罕见的温度。真正的启发在于：当限制与想象力相遇，恰恰是创造力最为蓬勃的沃土。",
     "best_quote_en": "Buchinger's fame was so widespread that in the 1780s the term 'Buckinger's boot' existed in England as a euphemism for the vagina (because the only 'limb' he had was his penis).",
     "best_quote_zh": "布欣格的名声如此广泛，以至于1780年代的英国出现了\"布欣格的靴子\"这一委婉语，用来指代阴道（因为他唯一的\"肢体\"就是他的阴茎）。"
+  },
+  {
+    "id": 314,
+    "title": "100 Objects #12: “Negro Cloth”",
+    "title_zh": "100件物品 #12：黑布",
+    "source": "99% Invisible",
+    "link": "https://99percentinvisible.org/episode/100-objects-012-negro-cloth/",
+    "tags": [
+      "update",
+      "general"
+    ],
+    "tags_zh": [
+      "动态",
+      "general"
+    ],
+    "date": "2026-08-07",
+    "summary_en": "In 1821, two Rhode Island brothers sought buyers for their woolen fabric and discovered a captive market: Southern slave plantations. Roman Mars and historian Seth Rockman trace the life of 'Negro cloth,' a textile category defined solely by its wearer. The book reveals how enslaved people shaped the cloth that controlled them, and how New England manufacturers convinced themselves they were the good guys.",
+    "summary_zh": "1821年，两位罗得岛兄弟寻找羊毛布料买家时，意外发现了一个被奴役的南方种植园市场。他们追溯了所谓的'黑布'——一种仅由穿着者定义的纺织品类别。书中揭示了奴隶如何塑造了控制他们的布料，以及新英格兰制造商如何说服自己是好人。",
+    "best_quote_en": "Enslaved people shaped the cloth used to control them.",
+    "best_quote_zh": "被奴役的人塑造了用来控制他们的布料。"
+  },
+  {
+    "id": 315,
+    "title": "Illustrator Spotlight: Xiao Hua Yang",
+    "title_zh": "插画师 Spotlight: 小华杨",
+    "source": "BOOOOOOOM",
+    "link": "https://www.booooooom.com/2026/08/07/illustrator-spotlight-xiao-hua-yang/",
+    "tags": [
+      "update",
+      "design"
+    ],
+    "tags_zh": [
+      "动态",
+      "设计创意"
+    ],
+    "date": "2026-08-07",
+    "summary_en": "Xiao Hua Yang is a talented illustrator whose work is showcased through this spotlight piece. The content features 32 images of Yang's illustrations, spanning a range of styles and visual approaches. This profile highlights the artist's creative journey and professional craft, offering viewers a window into the world of illustration. The images demonstrate a strong command of visual storytelling, with each piece contributing to a cohesive body of work. For aspiring illustrators and art enthusiasts, this spotlight serves as both a source of inspiration and a reference for understanding contemporary illustration trends. The artist's website and Instagram presence further extend their reach, signaling an engaged and growing creative practice. This piece is a valuable resource for anyone seeking to explore the depth and breadth of illustration as both an art form and a communicative medium.",
+    "summary_zh": "小华杨是一位才华横溢的插画家，本篇 Spotlight 通过 32 张作品图片展现其创作风采。图片涵盖多种风格与视觉表达方式，呈现艺术家的创作历程与专业技艺。插画作品展现了较强的视觉叙事能力，每一幅画作都为整体创作体系贡献独特视角。对于有志于插画创作的艺术家和艺术爱好者而言，这篇 Spotlight 既是灵感源泉，也是理解当代插画趋势的参考。艺术家的网站与 Instagram 进一步拓展其影响力，预示着充满活力的创作实践。这篇内容为任何希望探索插画深度与广度的人提供了宝贵的资源。",
+    "best_quote_en": "Illustration is both a personal expression and a communicative medium — a space where visual storytelling meets the artist's unique vision.",
+    "best_quote_zh": "插画既是个人表达，也是沟通媒介——一个视觉叙事与艺术家独特愿景相遇的空间。"
+  },
+  {
+    "id": 316,
+    "title": "Let’s all get on board with travel etiquette | Letters",
+    "title_zh": "让我们一起遵守旅行礼仪 | 信件",
+    "source": "Women | The Guardian",
+    "link": "https://www.theguardian.com/lifeandstyle/2026/aug/07/lets-all-get-on-board-with-travel-etiquette",
+    "tags": [
+      "solve",
+      "lifestyle",
+      "beginner-friendly"
+    ],
+    "tags_zh": [
+      "解决",
+      "生活方式",
+      "新手友好"
+    ],
+    "date": "2026-08-07",
+    "summary_en": "This insightful Guardian Letters piece by Helen Walker challenges the prevailing 'don't give up your seat to women' travel etiquette advice, arguing that women's diverse health conditions—menstruation, early pregnancy, endometriosis, and perimenopause—make them equally deserving of seat offers. Walker's argument is a powerful corrective to a narrow, gendered interpretation of public transport courtesy that overlooks the diverse physical realities women face. Beyond the gender discussion, the piece offers a rich tapestry of social etiquette observations: sniffing and snorting on public transport, the burden of carrying backpacks in crowded spaces, and the value of politeness among strangers. The author, an 80-year-old man, brings a refreshing perspective that balances personal anecdotes with broader social commentary. The piece is particularly valuable for its nuanced approach to inclusivity on public transport, acknowledging the complexities of harassment, the importance of acknowledging elderly passengers' needs, and the often-overlooked issue of personal space encroachment. It serves as a gentle reminder that public transport etiquette should be grounded in empathy, awareness of diverse experiences, and a genuine desire to make shared travel spaces more comfortable for everyone.",
+    "summary_zh": "这封卫报信件专栏以海伦·沃克的观点挑战了'不将座位让给女性'的旅行礼仪建议，认为女性面临的多样化健康问题——经期、早期妊娠、子宫内膜异位症以及围绝经期——使她们同样值得获得座位让位。文章超越了性别讨论，展现了丰富的社交礼仪观察：公共交通工具上打喷嚏和打嗝、拥挤空间中携带背包的负担、以及陌生人间礼貌的价值。作者作为一位80岁老人，以平衡个人轶事与更广泛社会评论的视角带来令人耳目一新的反思。文章在公共交通包容性方面具有深刻的细微之处，承认骚扰的复杂性、承认老年人需求的重要性，以及常被忽视的个人空间侵犯问题。它提醒我们，公共交通礼仪应建立在同理心、对多样经验的认知以及让共享出行空间对每个人更舒适这一真诚愿望之上。",
+    "best_quote_en": "Women could be menstruating, in the first trimester of pregnancy (the most exhausting time) or have endometriosis.",
+    "best_quote_zh": "女性可能正在经期、怀孕第一孕期（最疲惫的时期）或患子宫内膜异位症。"
+  },
+  {
+    "id": 317,
+    "title": "The Borrowed Nature of Biomimicry",
+    "title_zh": "生物仿生的借来本性",
+    "source": "99% Invisible",
+    "link": "https://99percentinvisible.org/episode/677-the-borrowed-nature-of-biomimicry/",
+    "tags": [
+      "solve",
+      "science",
+      "design",
+      "case-study"
+    ],
+    "tags_zh": [
+      "解决",
+      "科学研究",
+      "设计创意",
+      "案例研究"
+    ],
+    "date": "2026-08-04",
+    "summary_en": "Biomimicry, the practice of borrowing from nature to solve human problems, often appears as a simple narrative of design inspiration. Yet deeper investigations reveal far more complex stories. The article examines three case studies: the Thames Tunnel, inspired by shipworms' tunneling methods; the Bionic car concept, which borrowed from boxfish anatomy but turned out to be fundamentally flawed; and honeycombs, which reveal the intricate interplay between animal engineering and human design. These stories illustrate how biomimicry can be both seductive and misleading, with messy causality, dead ends, and unexpected complexities that challenge our assumptions about nature-inspired innovation.",
+    "summary_zh": "生物仿生借自然之形解决人类问题，常呈现为简单设计灵感的故事。但深入探究揭示更复杂真相。文章考察三个案例：因船蛆启发而建的泰晤士隧道，因 boxfish 形态而生的仿生汽车，以及蜂巢与六边形。这些故事揭示仿生学既诱人又误导——充满混乱因果、死胡同与意外复杂性，挑战我们对自然灵感创新的认知。",
+    "best_quote_en": "Nature doesn't optimize for efficiency—it optimizes for survival.",
+    "best_quote_zh": "自然不优化效率，它优化的是生存。"
   }
 ]
