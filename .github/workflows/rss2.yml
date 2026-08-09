@@ -14,6 +14,12 @@ jobs:
     env:
       OPENROUTER_API_KEY: ${{ secrets.OPENROUTER_API_KEY }}
       OPENROUTER_MODEL: ${{ secrets.OPENROUTER_MODEL }}
+      # Repository Variables (not Secrets): use "false" for models that do
+      # not support response_format=json_object; leave unset to keep it on.
+      OPENROUTER_USE_STRUCTURED_OUTPUT: ${{ vars.OPENROUTER_USE_STRUCTURED_OUTPUT }}
+      # Set to "true" temporarily to include a truncated raw provider response
+      # in the Actions log when a 200 response has no message.content.
+      OPENROUTER_DEBUG_RESPONSES: ${{ vars.OPENROUTER_DEBUG_RESPONSES }}
 
     steps:
       - name: Checkout repository
@@ -37,4 +43,3 @@ jobs:
         with:
           commit_message: "Auto-commit: Update data.json"
           file_pattern: "data.json scripts/processed_links.json scripts/source_cursor.json"
-
