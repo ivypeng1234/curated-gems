@@ -46,6 +46,20 @@ TOP_P = float(os.getenv("OPENROUTER_TOP_P", "0.9"))  # Nucleus sampling
 TOP_K = int(os.getenv("OPENROUTER_TOP_K", "40"))  # Top-k sampling
 MAX_TOKENS = int(os.getenv("OPENROUTER_MAX_TOKENS", "2048"))  # Response length limit
 
+def env_flag(name, default=False):
+    """Read a boolean environment variable; an unset or blank value uses default."""
+    value = os.getenv(name)
+    if value is None or not value.strip():
+        return default
+    return value.strip().lower() in ("1", "true", "yes", "on")
+
+# Keep structured output on by default for models that support it. Models such
+# as inclusionai/ling-3.0-tiny can opt out without changing the code.
+USE_STRUCTURED_OUTPUT = env_flag("OPENROUTER_USE_STRUCTURED_OUTPUT", default=True)
+# Set this only while investigating provider responses; it can expose article
+# text in the GitHub Actions log.
+DEBUG_OPENROUTER_RESPONSES = env_flag("OPENROUTER_DEBUG_RESPONSES", default=False)
+
 PROCESSED_LINKS_FILE = "scripts/processed_links.json"
 OUTPUT_FILE = "data.json"
 SOURCE_FILE = "scripts/source.json"
@@ -553,16 +567,42 @@ Output requirements:
         ],
     }
 
+    def log_empty_choice_diagnostics(api_response, choice, raw_response):
+        """Log safe response metadata when HTTP 200 contains no generated text."""
+        message = choice.get('message') if isinstance(choice, dict) else None
+        content = message.get('content') if isinstance(message, dict) else None
+        reasoning = message.get('reasoning') if isinstance(message, dict) else None
+        diagnostics = {
+            "model": api_response.get('model'),
+            "provider": api_response.get('provider'),
+            "finish_reason": choice.get('finish_reason') if isinstance(choice, dict) else None,
+            "native_finish_reason": choice.get('native_finish_reason') if isinstance(choice, dict) else None,
+            "choice_keys": sorted(choice.keys()) if isinstance(choice, dict) else [],
+            "message_keys": sorted(message.keys()) if isinstance(message, dict) else [],
+            "content_type": type(content).__name__,
+            "content_length": len(content) if isinstance(content, str) else None,
+            "has_refusal": bool(message.get('refusal')) if isinstance(message, dict) else False,
+            "reasoning_length": len(reasoning) if isinstance(reasoning, str) else None,
+            "usage": api_response.get('usage'),
+        }
+        print("[OpenRouter] Empty-content diagnostics: " + json.dumps(diagnostics, ensure_ascii=False, default=str))
+        if DEBUG_OPENROUTER_RESPONSES:
+            print(f"[OpenRouter] Debug raw response (first 2000 chars): {raw_response[:2000]}")
+
     # Attempt 1 uses structured output. Attempt 2 is the normal fallback for
     # providers without that feature. Attempt 3 asks for a shorter response if
     # the normal fallback returned incomplete or invalid JSON.
-    for attempt in (1, 2, 3):
+    attempts = (1, 2, 3) if USE_STRUCTURED_OUTPUT else (2, 3)
+    for attempt in attempts:
         data = dict(base_payload)  # Shallow copy
         if attempt == 1:
             data["response_format"] = {"type": "json_object"}
             print("[OpenRouter] Attempting to use response_format=json_object")
         elif attempt == 2:
-            print("[OpenRouter] Fallback retry without response_format")
+            if USE_STRUCTURED_OUTPUT:
+                print("[OpenRouter] Fallback retry without response_format")
+            else:
+                print("[OpenRouter] Structured output disabled; using standard JSON prompt")
         else:
             data["messages"] = [
                 {"role": "system", "content": system_prompt},
@@ -607,6 +647,7 @@ Output requirements:
             
             choice = api_response['choices'][0]
             if not isinstance(choice, dict) or not choice.get('message') or not choice['message'].get('content'):
+                log_empty_choice_diagnostics(api_response, choice, text)
                 if attempt < 3:
                     print(f"[OpenRouter] Invalid choice structure, will retry")
                     continue
