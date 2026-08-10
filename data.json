@@ -1,27 +1,5 @@
 [
   {
-    "id": 219,
-    "title": "6 Basic Hygiene Habits You've Probably Been Doing Wrong Your Whole Life",
-    "title_zh": "你一生中可能一直做错的6个基本个人卫生习惯",
-    "source": "Mental Floss",
-    "link": "https://www.mentalfloss.com/live-smarter/healthy-living/basic-hygiene-habits-you-ve-been-doing-wrong?utm_source=RSS",
-    "tags": [
-      "solve",
-      "lifestyle",
-      "controversial"
-    ],
-    "tags_zh": [
-      "解决",
-      "生活方式",
-      "争议观点"
-    ],
-    "date": "2026-01-14",
-    "summary_en": "This article challenges common hygiene practices, revealing how many of our long-held routines may be ineffective or even counterproductive. From washing between toes to proper flossing techniques, the piece highlights overlooked details that can significantly impact our health. It emphasizes the evolving nature of hygiene advice and the importance of adapting to new findings. The insights prompt a critical evaluation of our daily habits, encouraging readers to reassess and improve their personal hygiene routines for better health outcomes.",
-    "summary_zh": "这篇文章挑战了我们长期以来的个人卫生习惯，揭示许多常见做法可能无效甚至有害。从洗脚趾缝到正确的使用牙线，文章突出了我们忽视的细节，这些细节可能显著影响健康。它强调了卫生建议的不断演变，以及适应新发现的重要性。这些见解促使我们重新评估日常习惯，鼓励读者改进个人卫生习惯，以获得更好的健康结果。",
-    "best_quote_en": "Hygiene advice continues to evolve, and 'rules' are being updated in real-time.",
-    "best_quote_zh": "卫生建议不断演变，'规则'正在实时更新。"
-  },
-  {
     "id": 220,
     "title": "String Theory Can Now Describe a Universe That Has Dark Energy",
     "title_zh": "弦理论现可描述含有暗能量的宇宙",
@@ -2344,5 +2322,29 @@
     "summary_zh": "神经科学家伊什马勒·阿卜杜斯-萨博尔探讨了皮肤接触如何带来疼痛或愉悦，研究神经回路如何决定这些体验。文章探讨了物理疼痛与心理疼痛的区别、触摸如何作为感官和社会信号发挥作用，以及裸鼹鼠——一种疼痛敏感性极低、社交群体高度组织的物种——如何揭示人类社交行为。阿卜杜斯-萨博尔讨论了疼痛的进化意义、缺乏疼痛生物标志物，以及研究动物意识的伦理挑战。他的裸鼹鼠研究突出了触摸如何作为理解复杂社会结构的基础，他对躯体感觉系统的研究揭示了触摸感知的分子基础以及疼痛的强力安慰剂效应。",
     "best_quote_en": "Pain is not as simple as it might seem at first.",
     "best_quote_zh": "疼痛并不像最初看起来那么简单。"
+  },
+  {
+    "id": 319,
+    "title": "Hiring Vibe-wrangler Matchmaking Thread",
+    "title_zh": "招聘情绪调节员匹配线程",
+    "source": "LessWrong",
+    "link": "https://www.lesswrong.com/posts/H25AzGqHDDQsdEMzh/hiring-vibe-wrangler-matchmaking-thread",
+    "tags": [
+      "solve",
+      "startup-strategy",
+      "business-model",
+      "beginner-friendly"
+    ],
+    "tags_zh": [
+      "解决",
+      "创业策略",
+      "商业模式",
+      "新手友好"
+    ],
+    "date": "2026-08-10",
+    "summary_en": "This thread offers a refreshingly candid look at the growing trend of hiring vibecode assistants to offload routine coding tasks and reclaim deep work. The author candidly reflects on the limitations of automated coding tools like Fable and Opus, which, while competent, introduce subtle friction through imprecision, confusion, and the inability to fully trust their outputs. The core insight is that hiring a dedicated assistant—whether a vibecode assistant or a thinking assistant—can dramatically reduce distraction and free up cognitive bandwidth for high-value work. The author candidly acknowledges that this approach is not for everyone, as it requires a level of trust and context that not every developer or startup can sustain. The thread is a practical, personal guide to evaluating the trade-offs between automation and human collaboration in software development. It is a nuanced exploration of how to scale productivity without sacrificing the quality of one's creative thinking. The author's willingness to share both the successes and the frustrations of this approach makes the thread highly relatable and actionable for developers who are searching for ways to optimize their workflow. This is a rare, honest reflection on a topic that is rapidly becoming a critical part of modern software engineering practice.",
+    "summary_zh": "这是一篇坦诚且充满洞察力的帖子，探讨了雇佣情绪调节员（vibecode 助手）来卸载常规编码任务、重新夺回深度工作的趋势。作者坦诚地反思了像 Fable 和 Opus 这样的自动化编码工具的局限性——它们虽然能力足够，但会引入细微的摩擦，通过不精确、困惑和无法完全信任输出来影响体验。核心洞察是，雇佣一个专属助手——无论是 vibecode 助手还是思考助手——可以显著减少分心，释放认知带宽用于高价值工作。作者坦诚地承认，这种方法并非适合所有人，因为它需要一种信任和上下文感，这种信任和上下文感并非每个开发者或初创企业都能维持。这是一篇关于如何在不牺牲创造性思考质量的前提下扩展生产力的实用、个人的指南。作者愿意分享这种方法的成功与失败，使帖子对正在寻找优化工作流程的开发者极具启发性和可操作性。这是一份罕见、诚实的反思，探讨一个正在迅速成为现代软件工程实践核心的一部分的话题。",
+    "best_quote_en": "I think at the point where you're hiring a ton of people, you want to be hiring high-taste people who you can get away with chatting with like once-a-week rather than 'multiple times per day.'",
+    "best_quote_zh": "我想到了这样一个问题：当你开始大量雇佣人员时，你其实应该雇佣那些你可以在每周只聊一次就能放心信任的高品味人才，而不是'每天多次聊天'的人。"
   }
 ]
