@@ -1,53 +1,5 @@
 [
   {
-    "id": 220,
-    "title": "String Theory Can Now Describe a Universe That Has Dark Energy",
-    "title_zh": "弦理论现可描述含有暗能量的宇宙",
-    "source": "Quanta Magazine",
-    "link": "https://www.quantamagazine.org/string-theory-can-now-describe-a-universe-that-has-dark-energy-20260114/",
-    "tags": [
-      "solve",
-      "science",
-      "ai-research",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "解决",
-      "科学研究",
-      "AI研究",
-      "数据驱动"
-    ],
-    "date": "2026-01-14",
-    "summary_en": "In a significant breakthrough, physicists Bruno Bento and Miguel Montero have developed a string theory model that accommodates dark energy, a mysterious force driving the universe's accelerated expansion. Their work addresses a longstanding challenge in reconciling string theory with our observed universe. By leveraging the Casimir effect and specific compactification techniques, they derived a positive, albeit time-diminishing, value for dark energy. Although their model initially results in a 5D universe, this pioneering effort opens new avenues for aligning string theory with cosmic observations, potentially revolutionizing our understanding of the universe's fundamental nature. The instability of their solution, however, presents a crucial area for future research.",
-    "summary_zh": "物理学家布鲁诺·本托和米格尔·蒙特罗通过弦理论模型解决了暗能量问题，这是一项重大突破。他们的工作利用卡西米尔效应和特定的紧致化技术，得出了一个正但会随时间减弱的暗能量值。尽管他们的模型最初得出了一个五维宇宙，但这项开创性的工作为将弦理论与宇宙观测结果对齐打开了新的途径，可能会改变我们对宇宙基本本质的理解。然而，他们的解决方案的不稳定性为未来的研究提出了一个关键问题。",
-    "best_quote_en": "It is the very first example [from string theory] of an explicit de Sitter space.",
-    "best_quote_zh": "这是弦理论中显式脱萨空间的第一个例子。"
-  },
-  {
-    "id": 221,
-    "title": "The tragedy of Trần Đức Thảo",
-    "title_zh": "越南哲学家阮德昭的悲剧",
-    "source": "Aeon",
-    "link": "https://aeon.co/essays/the-tragic-life-and-principled-politics-of-tran-duc-thao?utm_source=rss-feed",
-    "tags": [
-      "analyze",
-      "education",
-      "politics",
-      "controversial"
-    ],
-    "tags_zh": [
-      "分析",
-      "教育学习",
-      "政治时事",
-      "争议观点"
-    ],
-    "date": "2026-01-08",
-    "summary_en": "Trần Đức Thảo's life and work offer a profound exploration of the interplay between philosophy, politics, and personal identity. Born in colonial Vietnam, Thảo's intellectual journey took him from the prestigious halls of the École Normale Supérieure in Paris to the frontlines of Vietnamese independence. His early fascination with phenomenology, under the guidance of Husserl, evolved into a critical engagement with Marxism, driven by his experiences and political awakening. Thảo's most significant work, 'Phenomenology and Dialectical Materialism,' is a testament to his intellectual rigor and his commitment to understanding the human condition within the context of history and society. His life, marked by persecution and tragedy, underscores the personal cost of intellectual integrity and political conviction. Thảo's legacy lies in his ability to bridge the philosophical and the political, offering insights that remain relevant in today's world.",
-    "summary_zh": "阮德昭的生平与思想，深刻探讨了哲学、政治与个人身份的交织。出生于殖民地越南的阮德昭，从巴黎高等师范学校的殿堂走向越南独立的前线。他早期对现象学的热衷，在胡塞尔的指导下，逐渐演变为对马克思主义的批判性探索，这源于他的经历与政治觉醒。阮德昭最重要的作品《现象学与辩证唯物主义》，见证了他思想的严谨与理解人类状况的历史与社会背景下的坚定决心。他的生活，充满了迫害与悲剧，凸显了思想的坚守与政治信念的个人代价。阮德昭的遗产在于他能够跨越哲学与政治，提供至今仍然有意义的洞见。",
-    "best_quote_en": "To say so implies, of course, that his counterparts tacitly chose capitalism.",
-    "best_quote_zh": "这意味着，当然，他的对手们默默地选择了资本主义。"
-  },
-  {
     "id": 222,
     "title": "You've Responded Countless Times, but What Does RSVP Actually Stand For?",
     "title_zh": "你已经回复了无数次，但“RSVP”究竟是什么意思？",
@@ -2346,5 +2298,45 @@
     "summary_zh": "这是一篇坦诚且充满洞察力的帖子，探讨了雇佣情绪调节员（vibecode 助手）来卸载常规编码任务、重新夺回深度工作的趋势。作者坦诚地反思了像 Fable 和 Opus 这样的自动化编码工具的局限性——它们虽然能力足够，但会引入细微的摩擦，通过不精确、困惑和无法完全信任输出来影响体验。核心洞察是，雇佣一个专属助手——无论是 vibecode 助手还是思考助手——可以显著减少分心，释放认知带宽用于高价值工作。作者坦诚地承认，这种方法并非适合所有人，因为它需要一种信任和上下文感，这种信任和上下文感并非每个开发者或初创企业都能维持。这是一篇关于如何在不牺牲创造性思考质量的前提下扩展生产力的实用、个人的指南。作者愿意分享这种方法的成功与失败，使帖子对正在寻找优化工作流程的开发者极具启发性和可操作性。这是一份罕见、诚实的反思，探讨一个正在迅速成为现代软件工程实践核心的一部分的话题。",
     "best_quote_en": "I think at the point where you're hiring a ton of people, you want to be hiring high-taste people who you can get away with chatting with like once-a-week rather than 'multiple times per day.'",
     "best_quote_zh": "我想到了这样一个问题：当你开始大量雇佣人员时，你其实应该雇佣那些你可以在每周只聊一次就能放心信任的高品味人才，而不是'每天多次聊天'的人。"
+  },
+  {
+    "id": 320,
+    "title": "Today’s Wordle answer and hints for #1879 on August 11",
+    "title_zh": "今日Wordle答案及8月11日#1879提示",
+    "source": "NME",
+    "link": "https://www.nme.com/guides/gaming-guides/heres-the-wordle-answer-for-today-3171240?utm_source=rss&utm_medium=rss&utm_campaign=heres-the-wordle-answer-for-today",
+    "tags": [
+      "update",
+      "gaming"
+    ],
+    "tags_zh": [
+      "动态",
+      "游戏开发"
+    ],
+    "date": "2026-08-10",
+    "summary_en": "Wordle remains a wildly popular word game since 2021, offering a free and engaging puzzle experience with six daily attempts. Today's answer for puzzle #1879 is FENCE, which features two vowels and one repeating letter. The game's simplicity and daily challenge have kept players hooked for years, with a rich archive of past answers and similar spin-off games available.",
+    "summary_zh": "Wordle自2021年推出以来广受欢迎，提供免费且有趣的每日谜题体验，每天有六次尝试机会。今天的第1879道谜题答案是FENCE，包含两个元音和一个重复字母。游戏的简单性和每日挑战让玩家持续着迷，并有丰富的过往答案和类似衍生游戏可供探索。",
+    "best_quote_en": "Wordle stumps the best of us every so often.",
+    "best_quote_zh": "Wordle常常让我们这些高手措手不及。"
+  },
+  {
+    "id": 321,
+    "title": "Essentials: Control Your Brain Chemistry for Focus, Motivation & Well-Being",
+    "title_zh": "掌控脑化学：提升专注力、动力与幸福感",
+    "source": "Huberman Lab",
+    "link": "https://www.hubermanlab.com/episode/essentials-optimize-and-control-your-brain-chemistry-to-improve-health-and-performance",
+    "tags": [
+      "learn",
+      "health-wellness"
+    ],
+    "tags_zh": [
+      "学习",
+      "健康养生"
+    ],
+    "date": "2026-08-06",
+    "summary_en": "In this Huberman Lab Essentials episode, we explore how key neuromodulators—dopamine, epinephrine, acetylcholine, and serotonin—shape motivation, energy, focus, and mood throughout the day. The episode provides a practical toolkit of science-backed behavioral, nutritional, and supplement-based strategies to increase baseline levels of each neuromodulator. These strategies can be tailored to support your specific health and performance goals, offering a comprehensive approach to optimizing brain chemistry for daily well-being.",
+    "summary_zh": "在这期Huberman Lab Essentials节目中，我们探讨了多巴胺、肾上腺素、乙酰胆碱和血清素等关键神经递质如何塑造白天的动力、能量、专注力和情绪。节目提供了基于科学的行为、营养和补充策略，以提升每种神经递质的基线水平。这些策略可根据个人健康和表现目标进行定制，为优化脑化学和日常健康提供全面方法。",
+    "best_quote_en": "Neurochemistry is not a fixed target—it's a daily toolkit you can calibrate to match your goals.",
+    "best_quote_zh": "神经化学并非固定目标，而是一套你每天可以调整的工具箱，以匹配你的目标。"
   }
 ]
