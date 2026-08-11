@@ -44,7 +44,7 @@ OPENROUTER_URL = "https://openrouter.ai/api/v1/chat/completions"
 TEMPERATURE = float(os.getenv("OPENROUTER_TEMPERATURE", "0.7"))  # Creativity vs consistency balance
 TOP_P = float(os.getenv("OPENROUTER_TOP_P", "0.9"))  # Nucleus sampling
 TOP_K = int(os.getenv("OPENROUTER_TOP_K", "40"))  # Top-k sampling
-MAX_TOKENS = int(os.getenv("OPENROUTER_MAX_TOKENS", "2048"))  # Response length limit
+MAX_TOKENS = int(os.getenv("OPENROUTER_MAX_TOKENS") or "2048")  # Response length limit
 
 def env_flag(name, default=False):
     """Read a boolean environment variable; an unset or blank value uses default."""
@@ -53,12 +53,22 @@ def env_flag(name, default=False):
         return default
     return value.strip().lower() in ("1", "true", "yes", "on")
 
+def optional_env_flag(name):
+    """Read an optional boolean; return None when no explicit override exists."""
+    value = os.getenv(name)
+    if value is None or not value.strip():
+        return None
+    return env_flag(name)
+
 # Keep structured output on by default for models that support it. Models such
 # as inclusionai/ling-3.0-tiny can opt out without changing the code.
 USE_STRUCTURED_OUTPUT = env_flag("OPENROUTER_USE_STRUCTURED_OUTPUT", default=True)
 # Set this only while investigating provider responses; it can expose article
 # text in the GitHub Actions log.
 DEBUG_OPENROUTER_RESPONSES = env_flag("OPENROUTER_DEBUG_RESPONSES", default=False)
+# Unset means "use the model/provider default". Set false for a reasoning
+# model that spends too much of its response budget before producing JSON.
+REASONING_ENABLED = optional_env_flag("OPENROUTER_REASONING_ENABLED")
 
 PROCESSED_LINKS_FILE = "scripts/processed_links.json"
 OUTPUT_FILE = "data.json"
@@ -589,26 +599,47 @@ Output requirements:
         if DEBUG_OPENROUTER_RESPONSES:
             print(f"[OpenRouter] Debug raw response (first 2000 chars): {raw_response[:2000]}")
 
-    # Attempt 1 uses structured output. Attempt 2 is the normal fallback for
-    # providers without that feature. Attempt 3 asks for a shorter response if
-    # the normal fallback returned incomplete or invalid JSON.
-    attempts = (1, 2, 3) if USE_STRUCTURED_OUTPUT else (2, 3)
-    for attempt in attempts:
+    compact_system_prompt = """
+Return the final JSON object immediately. Do not provide explanations, code
+fences, or extended reasoning. Keep every field concise and valid JSON.
+""".strip()
+
+    # Try each prompt first with the requested reasoning setting. If the
+    # provider rejects that setting, retry the same prompt without a reasoning
+    # parameter before moving to the next fallback.
+    reasoning_variants = [True, False] if REASONING_ENABLED is not None else [False]
+    attempts = []
+    if USE_STRUCTURED_OUTPUT:
+        attempts.extend(("structured JSON", prompt_content, system_prompt, True, use_reasoning)
+                        for use_reasoning in reasoning_variants)
+    attempts.extend(("standard JSON", prompt_content, system_prompt, False, use_reasoning)
+                    for use_reasoning in reasoning_variants)
+    attempts.extend(("compact JSON", compact_retry_prompt, compact_system_prompt, False, use_reasoning)
+                    for use_reasoning in reasoning_variants)
+
+    for attempt_index, (attempt_name, user_prompt, active_system_prompt, use_response_format, use_reasoning) in enumerate(attempts):
+        is_last_attempt = attempt_index == len(attempts) - 1
         data = dict(base_payload)  # Shallow copy
-        if attempt == 1:
+        data["messages"] = [
+            {"role": "system", "content": active_system_prompt},
+            {"role": "user", "content": user_prompt}
+        ]
+        if use_response_format:
             data["response_format"] = {"type": "json_object"}
             print("[OpenRouter] Attempting to use response_format=json_object")
-        elif attempt == 2:
+        elif attempt_name == "standard JSON":
             if USE_STRUCTURED_OUTPUT:
                 print("[OpenRouter] Fallback retry without response_format")
             else:
                 print("[OpenRouter] Structured output disabled; using standard JSON prompt")
         else:
-            data["messages"] = [
-                {"role": "system", "content": system_prompt},
-                {"role": "user", "content": compact_retry_prompt}
-            ]
             print("[OpenRouter] Final retry with compact JSON-only prompt")
+
+        if use_reasoning:
+            data["reasoning"] = {"enabled": REASONING_ENABLED}
+            print(f"[OpenRouter] Using configured reasoning.enabled={REASONING_ENABLED}")
+        elif REASONING_ENABLED is not None:
+            print("[OpenRouter] Retrying without a reasoning parameter")
 
         try:
             resp = requests.post(OPENROUTER_URL, headers=headers, json=data, timeout=HTTP_TIMEOUT)
@@ -617,9 +648,7 @@ Output requirements:
             print(f"[OpenRouter] HTTP {status}")
             if status >= 400:
                 print(f"[OpenRouter] Body: {text[:1000]}")
-                # Some models will return 400 for response_format or reject a
-                # request transiently; proceed to the next fallback attempt.
-                if attempt < 3:
+                if not is_last_attempt:
                     continue
                 resp.raise_for_status()
             # Parse response
@@ -627,20 +656,20 @@ Output requirements:
             
             # Check if response is valid format
             if not isinstance(api_response, dict):
-                if attempt < 3:
+                if not is_last_attempt:
                     print(f"[OpenRouter] Invalid response format (not dict), will retry. Type: {type(api_response)}")
                     continue
                 return None, f"Invalid response format: expected dict, got {type(api_response)}"
             
             if api_response.get("error"):
-                if attempt < 3:
-                    print(f"[OpenRouter] API Error on attempt {attempt}, will retry: {api_response['error']}")
+                if not is_last_attempt:
+                    print(f"[OpenRouter] API Error during {attempt_name}, will retry: {api_response['error']}")
                     continue
                 return None, f"API Error: {api_response['error']}"
 
             # Check if choices exist and have expected structure
             if not api_response.get('choices') or not isinstance(api_response['choices'], list) or len(api_response['choices']) == 0:
-                if attempt < 3:
+                if not is_last_attempt:
                     print(f"[OpenRouter] Missing or invalid choices in response, will retry")
                     continue
                 return None, f"Invalid response structure: missing or empty choices"
@@ -648,7 +677,7 @@ Output requirements:
             choice = api_response['choices'][0]
             if not isinstance(choice, dict) or not choice.get('message') or not choice['message'].get('content'):
                 log_empty_choice_diagnostics(api_response, choice, text)
-                if attempt < 3:
+                if not is_last_attempt:
                     print(f"[OpenRouter] Invalid choice structure, will retry")
                     continue
                 return None, f"Invalid choice structure: missing message or content"
@@ -658,17 +687,17 @@ Output requirements:
                 analysis_data = parse_json_safely(content)
                 return analysis_data, content
             except json.JSONDecodeError as e:
-                if attempt < 3:
-                    print(f"[Parse failed@attempt{attempt}] {e}; will retry. First 500 chars: {content[:500]}")
+                if not is_last_attempt:
+                    print(f"[Parse failed during {attempt_name}] {e}; will retry. First 500 chars: {content[:500]}")
                     continue
                 return None, f"JSONDecodeError(after compact retry): {e}; content: {content[:1000]}"
 
         except requests.HTTPError:
-            if attempt < 3:
+            if not is_last_attempt:
                 continue
             return None, f"HTTPError: {resp.status_code}; body: {resp.text[:1000]}"
         except Exception as e:
-            if attempt < 3:
+            if not is_last_attempt:
                 continue
             return None, f"RequestError: {e}"
 
