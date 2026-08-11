@@ -20,6 +20,13 @@ jobs:
       # Set to "true" temporarily to include a truncated raw provider response
       # in the Actions log when a 200 response has no message.content.
       OPENROUTER_DEBUG_RESPONSES: ${{ vars.OPENROUTER_DEBUG_RESPONSES }}
+      # Increase this when a reasoning model reaches the output limit before
+      # returning content. Leave unset to use the script default (2048).
+      OPENROUTER_MAX_TOKENS: ${{ vars.OPENROUTER_MAX_TOKENS }}
+      # Leave unset to use a model's default reasoning behavior. Set to false
+      # to request final JSON directly; a rejected parameter is auto-retried
+      # without it.
+      OPENROUTER_REASONING_ENABLED: ${{ vars.OPENROUTER_REASONING_ENABLED }}
 
     steps:
       - name: Checkout repository
