@@ -1,4 +1,6 @@
 [
+  "http://weixin.sogou.com/weixin?type=2&query=%E4%B8%89%E8%81%94%E7%94%9F%E6%B4%BB%E5%91%A8%E5%88%8A+%E4%B8%80%E7%9B%B4%E8%A2%AB%E6%A8%A1%E4%BB%BF%EF%BC%8C%E4%BB%8E%E6%9C%AA%E8%A2%AB%E8%B6%85%E8%B6%8A",
+  "http://weixin.sogou.com/weixin?type=2&query=%E4%B8%89%E8%81%94%E7%94%9F%E6%B4%BB%E5%91%A8%E5%88%8A+%E4%B8%BA%E4%BB%80%E4%B9%88%E4%BD%A0%E7%9A%84%E5%9F%8E%E5%B8%82%E4%B8%80%E9%81%87%E6%9A%B4%E9%9B%A8%E5%B0%B1%E2%80%9C%E7%9C%8B%E6%B5%B7%E2%80%9D%EF%BC%9F",
   "http://www.paulgraham.com/ace.html",
   "http://www.paulgraham.com/alien.html",
   "http://www.paulgraham.com/donate.html",
@@ -25,6 +27,7 @@
   "http://www.paulgraham.com/worked.html",
   "https://99percentinvisible.org/episode/100-objects-012-negro-cloth/",
   "https://99percentinvisible.org/episode/677-the-borrowed-nature-of-biomimicry/",
+  "https://99percentinvisible.org/episode/678-bamboo-is-innocent/",
   "https://aeon.co/essays/can-ai-tell-us-anything-meaningful-about-bob-dylans-songs?utm_source=rss-feed",
   "https://aeon.co/essays/could-chronic-inflammation-be-the-medical-paradigm-shift-of-our-age?utm_source=rss-feed",
   "https://aeon.co/essays/declared-dead-last-year-the-anthropocene-is-very-much-alive?utm_source=rss-feed",
@@ -424,5 +427,7 @@
   "https://www.theguardian.com/us-news/ng-interactive/2025/sep/21/fascism-women-homemaker-trad-wife",
   "https://www.theguardian.com/wellness/2025/sep/25/breast-cancer-recovery-weightlifting-crossfit",
   "https://www.theguardian.com/wellness/2025/sep/26/powerlifting-kate-evert-world-championships",
-  "https://www.theguardian.com/world/2025/sep/16/refugees-camp-malawi-dzaleka-aid-unhcr-sex-work-domestic-violence"
+  "https://www.theguardian.com/world/2025/sep/16/refugees-camp-malawi-dzaleka-aid-unhcr-sex-work-domestic-violence",
+  "https://www.themarginalian.org/2026/08/11/dylan-thomas-do-not-go-gentle-into-that-good-night/",
+  "https://www.themarginalian.org/2026/08/11/j-r-r-tolkien-on-fairy-stories/"
 ]
