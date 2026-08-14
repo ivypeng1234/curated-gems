@@ -69,6 +69,13 @@ DEBUG_OPENROUTER_RESPONSES = env_flag("OPENROUTER_DEBUG_RESPONSES", default=Fals
 # Unset means "use the model/provider default". Set false for a reasoning
 # model that spends too much of its response budget before producing JSON.
 REASONING_ENABLED = optional_env_flag("OPENROUTER_REASONING_ENABLED")
+# Comma-separated OpenRouter model IDs. These are tried automatically when the
+# primary model is unavailable, rate-limited, or rejected by a provider.
+FALLBACK_MODELS = [
+    model_id.strip()
+    for model_id in (os.getenv("OPENROUTER_FALLBACK_MODELS") or "").split(",")
+    if model_id.strip() and model_id.strip() != MODEL
+]
 
 PROCESSED_LINKS_FILE = "scripts/processed_links.json"
 OUTPUT_FILE = "data.json"
@@ -437,6 +444,23 @@ def parse_json_safely(text):
     raise json.JSONDecodeError("No valid JSON object found", text, 0)
 
 
+def missing_required_analysis_fields(analysis_data):
+    """Return required output fields that are missing or empty."""
+    required_text_fields = [
+        'title_zh', 'summary_en', 'summary_zh',
+        'best_quote_en', 'best_quote_zh'
+    ]
+    missing = [
+        field for field in required_text_fields
+        if not isinstance(analysis_data.get(field), str) or not analysis_data[field].strip()
+    ]
+    for field in ('tags', 'tags_zh'):
+        tags = analysis_data.get(field)
+        if not isinstance(tags, list) or not any(isinstance(tag, str) and tag.strip() for tag in tags):
+            missing.append(field)
+    return missing
+
+
 def call_openrouter(model, title, full_content):
     # Updated prompt for smart tagging system
     prompt_content = f"""
@@ -576,6 +600,9 @@ Output requirements:
             {"role": "user", "content": prompt_content}
         ],
     }
+    if FALLBACK_MODELS:
+        base_payload["models"] = FALLBACK_MODELS
+        print(f"[OpenRouter] Model fallback chain: {model} -> {', '.join(FALLBACK_MODELS)}")
 
     def log_empty_choice_diagnostics(api_response, choice, raw_response):
         """Log safe response metadata when HTTP 200 contains no generated text."""
@@ -685,6 +712,9 @@ fences, or extended reasoning. Keep every field concise and valid JSON.
             content = choice['message']['content']
             try:
                 analysis_data = parse_json_safely(content)
+                # When OpenRouter routes to a fallback, this normally contains
+                # the resolved model ID rather than the requested primary.
+                analysis_data['_model_used'] = api_response.get('model') or model
                 return analysis_data, content
             except json.JSONDecodeError as e:
                 if not is_last_attempt:
@@ -822,6 +852,15 @@ while source_names and new_items_count < MAX_NEW_ITEMS and api_calls < MAX_API_C
         # Skip this entry and continue to next
         idx += 1
         continue
+
+    missing_fields = missing_required_analysis_fields(analysis_data)
+    if missing_fields:
+        print(f"[Failed] AI response is missing required fields: {', '.join(missing_fields)}. Link will remain eligible for a future retry.")
+        print(f"[Progress] Success {new_items_count}/{MAX_NEW_ITEMS}, Calls {api_calls}/{MAX_API_CALLS}")
+        # Do not add this link to processed_links, so a future run can retry it
+        # with the primary model or a different OpenRouter fallback.
+        idx += 1
+        continue
     
     # Use TagOptimizer to optimize tags from AI analysis
     try:
@@ -857,6 +896,7 @@ while source_names and new_items_count < MAX_NEW_ITEMS and api_calls < MAX_API_C
             "id": counter,
             "title": title,
             "title_zh": analysis_data.get('title_zh', '') if isinstance(analysis_data, dict) else '',
+            "model_used": analysis_data.get('_model_used', MODEL),
             "source": source_name,
             "link": link,
             "tags": tags_en,
