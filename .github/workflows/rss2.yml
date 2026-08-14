@@ -27,6 +27,8 @@ jobs:
       # to request final JSON directly; a rejected parameter is auto-retried
       # without it.
       OPENROUTER_REASONING_ENABLED: ${{ vars.OPENROUTER_REASONING_ENABLED }}
+      # Optional comma-separated fallback model IDs, in priority order.
+      OPENROUTER_FALLBACK_MODELS: ${{ vars.OPENROUTER_FALLBACK_MODELS }}
 
     steps:
       - name: Checkout repository
