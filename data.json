@@ -1,125 +1,5 @@
 [
   {
-    "id": 232,
-    "title": "Blogging, Writing, Musing, And Thinking",
-    "title_zh": "博客写作、思考与冥想",
-    "source": "LessWrong",
-    "link": "https://www.lesswrong.com/posts/Lzek2t6GuXiGfZtgg/blogging-writing-musing-and-thinking",
-    "tags": [
-      "inspire",
-      "writing-content",
-      "ai-research",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "启发",
-      "写作内容",
-      "AI研究",
-      "未来预测"
-    ],
-    "date": "2026-01-18",
-    "summary_en": "The article explores the profound connection between writing and thinking, drawing inspiration from Montaigne's essay style. The author emphasizes the value of 'musing'—writing without a specific agenda—to stimulate thought and self-discovery. This practice, akin to mental exercise, helps cultivate intelligence and wisdom over time. The piece encourages readers to engage in introspective writing, acknowledging the body's role in the thought process. It concludes with the idea that thinking is a skill that improves with practice, much like a muscle.",
-    "summary_zh": "这篇文章探讨了写作与思考之间深刻的联系，受到蒙田散文风格的启发。作者强调“无目的写作”的价值，即冥想式写作，以刺激思想和自我发现。这种练习类似于心理锻炼，有助于培养智慧。文章鼓励读者进行内省写作，承认身体在思想过程中所起的作用。最后，文章提出思考是一种技能，通过练习可以不断提高，就像锻炼肌肉一样。",
-    "best_quote_en": "Writing, especially by hand, can be a great way to explore these ideas and to practice thinking. It's also really fun to do!",
-    "best_quote_zh": "特别是手写，是探索这些想法并练习思考的好方法。而且真的很有趣！"
-  },
-  {
-    "id": 233,
-    "title": "Can Trump Really Use the Insurrection Act?",
-    "title_zh": "特朗普真的可以动用叛乱法吗？",
-    "source": "The New Yorker",
-    "link": "https://www.newyorker.com/news/q-and-a/can-trump-really-use-the-insurrection-act",
-    "tags": [
-      "analyze",
-      "politics",
-      "legal",
-      "deep-dive"
-    ],
-    "tags_zh": [
-      "分析",
-      "政治时事",
-      "法律法规",
-      "深度分析"
-    ],
-    "date": "2026-01-17",
-    "summary_en": "The article delves into the complexities of the Insurrection Act, a law that grants the U.S. President extensive powers to deploy military forces domestically. Elizabeth Goitein, an expert on presidential emergency powers, discusses the historical context, legal intricacies, and potential abuses of this act. She highlights the act's origins, its relationship with the Posse Comitatus Act, and the narrow circumstances under which it has been invoked in the past. Goitein argues for reform, emphasizing the need for safeguards to prevent misuse. The conversation also touches on the disciplinary differences between the military and law enforcement agencies like ICE, and the potential consequences of military deployment in civilian settings.",
-    "summary_zh": "这篇文章深入探讨了《叛乱法》的复杂性，该法赋予美国总统广泛权力，允许其在国内部署军队。伊丽莎白·戈特斯坦，总统紧急权力专家，讨论了该法的历史背景、法律细节和潜在滥用问题。她强调了该法的起源、其与《反叛乱法》的关系，以及过去该法被激活的狭窄情景。戈特斯坦呼吁改革，强调需要保障措施以防止滥用。对话还涉及军队与执法机构如移民局之间的纪律差异，以及在民用环境中部署军队的潜在后果。",
-    "best_quote_en": "The Insurrection Act is the primary exception to the Posse Comitatus Act, allowing the President to deploy active-duty armed forces or federalize National Guard forces to quell civil unrest.",
-    "best_quote_zh": "《叛乱法》是《反叛乱法》的主要例外，允许总统动用正规军或联邦化国民警卫队来平息民众骚乱。"
-  },
-  {
-    "id": 234,
-    "title": "Book Freak #193: How to Decide",
-    "title_zh": "Book Freak #193: 如何做决定",
-    "source": "Kevin Kelly",
-    "link": "https://kk.org/cooltools/book-freak-193-how-to-decide/",
-    "tags": [
-      "solve",
-      "psychology",
-      "education",
-      "controversial"
-    ],
-    "tags_zh": [
-      "解决",
-      "心理学",
-      "教育学习",
-      "争议观点"
-    ],
-    "date": "2026-01-16",
-    "summary_en": "In the latest Book Freak, Annie Duke's 'How to Decide' offers a practical guide to improving decision-making by disentangling decision quality from outcomes. Drawing from her poker and decision strategy expertise, Duke introduces key principles like avoiding 'resulting' (judging decisions by outcomes), using the Only-Option Test to simplify choices, and thinking in probabilities. She emphasizes the importance of considering preferences, payoffs, and probabilities, as well as seeking genuine outside perspectives. The book's interactive exercises encourage readers to apply these principles to their own decisions, fostering a more thoughtful and strategic approach to life's choices. Duke's insights challenge us to confront our biases and embrace uncertainty, ultimately leading to better, more confident decisions.",
-    "summary_zh": "在最新的《书痴》中，安妮·杜克的《如何做决定》提供了提高决策能力的实用指南，通过将决策质量与结果分离。杜克引入了关键原则，如避免“结果导向”（根据结果判断决策），使用“仅有一个选项测试”简化选择，以及用概率思考。她强调考虑偏好、收益和概率，以及寻求真正的外部视角的重要性。书中的互动练习鼓励读者将这些原则应用到自己的决策中，培养更加深思熟虑和战略性的选择方式。杜克的见解挑战我们直面偏见，拥抱不确定性，最终做出更好的、更自信的决策。",
-    "best_quote_en": "The quality of the outcome casts a shadow over our ability to see the quality of the decision.",
-    "best_quote_zh": "结果的质量会遮蔽我们看清决策质量的能力。"
-  },
-  {
-    "id": 235,
-    "title": "Landholder vs stockholder",
-    "title_zh": "土地所有者与股东",
-    "source": "Aeon",
-    "link": "https://aeon.co/essays/why-hume-is-better-at-explaining-modern-capitalism-than-marx?utm_source=rss-feed",
-    "tags": [
-      "inspire",
-      "economics",
-      "society",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "启发",
-      "经济金融",
-      "社会议题",
-      "数据驱动"
-    ],
-    "date": "2026-01-15",
-    "summary_en": "The essay challenges conventional Left-Right political dichotomies by exploring historical economic shifts. David Hume's 18th-century warnings about debt financing and its impact on social structures are analyzed, highlighting how stockholders' interests diverged from traditional landholders. The author argues that modern politics are shaped by these historical economic tensions, with the Left often supporting stockholder economies and the Right defending landholder interests. The essay suggests that class alone does not determine political alignment and that both economies coexist and conflict, shaping contemporary political landscapes.",
-    "summary_zh": "文章挑战传统的左派和右派政治二元对立，通过探讨历史经济变迁。分析了大卫·休谟在18世纪对债务融资及其对社会结构影响的警告，强调股东利益与传统土地所有者的分歧。作者认为，现代政治由这些历史经济紧张关系塑造，左派通常支持股东经济，右派则捍卫土地所有者利益。文章指出，阶级并不能单独决定政治倾向，两种经济体系共存并冲突，塑造当代政治格局。",
-    "best_quote_en": "The governments of antiquity, Hume argued, saved money to use in battle and then waged wars in self-defence, or else to expand their territory. But the British had invented a new form of warfare that Hume saw no precedent for, even in the merchant states of Machiavelli’s Italy: war for trade, funded with money borrowed from private stockholders.",
-    "best_quote_zh": "休谟认为，古代政府储蓄金钱用于战斗，然后为自卫或扩展领土而发动战争。但英国人发明了一种新的战争形式，休谟甚至在马基雅维利的意大利商业国家中也找不到先例：为了贸易而发动的战争，由向私人股东借款资助。"
-  },
-  {
-    "id": 236,
-    "title": "The World’s 10 Most Sober-Friendly Cities, Ranked",
-    "title_zh": "全球最适合戒酒的10个城市排行榜",
-    "source": "Mental Floss",
-    "link": "https://www.mentalfloss.com/geography/cities/most-sober-friendly-cities-world-ranked?utm_source=RSS",
-    "tags": [
-      "analyze",
-      "lifestyle",
-      "science",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "分析",
-      "生活方式",
-      "科学研究",
-      "数据驱动"
-    ],
-    "date": "2026-01-18",
-    "summary_en": "The article highlights a growing trend of sober-curious or completely sober lifestyles, particularly among younger adults. It identifies the top 10 cities globally that cater to non-drinkers, focusing on activities like wellness retreats, cultural attractions, and unique excursions. London tops the list, surprising many due to its known drinking culture, but offering a wealth of sober-friendly activities. The article emphasizes that these cities provide rich cultural experiences beyond alcohol, making them appealing to a broader audience.",
-    "summary_zh": "文章指出，越来越多的年轻人选择戒酒或少喝酒，文章列出了全球最适合戒酒的十大城市。伦敦意外地排名第一，尽管以酒吧文化著称，但提供了丰富的无酒精活动。这些城市不仅适合戒酒者，也为所有游客提供了独特的文化体验。",
-    "best_quote_en": "From historic tours and iconic landmarks like Westminster Abbey, the London Eye, the Tower Bridge, and more, London is basically a sightseer’s dream.",
-    "best_quote_zh": "从历史之旅到著名地标如威斯敏斯特教堂、伦敦眼、塔桥等，伦敦基本上是观光客的梦想之地。"
-  },
-  {
     "id": 237,
     "title": "The art of museum dioramas",
     "title_zh": "博物馆展示柜的艺术",
@@ -2333,5 +2213,116 @@
     "summary_zh": "文章深刻揭示了以色列在加沙战争后陷入国际舆论孤岛的困境，如何通过主动拥抱全球极右翼力量来重建外交支持。这种策略不仅暴露了传统西方盟友对以色列政策的日益不满，也凸显了极右翼利用亲以色列立场来推进其反全球化、反移民议程的机会主义本质。作者以敏锐的政治洞察力指出，这种看似互利的联盟实际上是一场危险的交易：以色列用领土象征性让步换取政治背书，而极右翼则获得了合法化的国际舞台。这种关系的可持续性值得深思——当以色列的安全开始依赖于那些推崇民主价值观的政权的敌意时，其作为犹太人家园的道德基础将面临何种考验？",
     "best_quote_en": "His politics, demagoguery, and sycophantic affinity to every and all illiberal quasi-democratic autocrats have not only devalued Israel but are a toxic mutation of Zionism.",
     "best_quote_zh": "他的政治手段、煽动性言论以及对一切不自由的半民主独裁者的恭维，不仅贬低了以色列的价值，更是对犹太复国主义的有毒扭曲。"
+  },
+  {
+    "id": 332,
+    "title": "2026 Awards Ceremony",
+    "title_zh": "2026颁奖典礼",
+    "model_used": "poolside/laguna-xs-2.1:free",
+    "source": "Harper’s Magazine",
+    "link": "https://harpers.org/2026/08/harpers-magazine-2026-awards-ceremony/",
+    "tags": [
+      "analyze",
+      "ai-research"
+    ],
+    "tags_zh": [
+      "分析",
+      "AI研究"
+    ],
+    "date": "2026-08-12",
+    "summary_en": "Harper's Magazine's second annual Awards Ceremony represents a significant cultural moment that celebrates journalistic excellence and literary achievement. The 2026 gathering at The Morgan Library & Museum honors two distinct figures: Katherine Maher, whose leadership at NPR exemplifies modern media's commitment to democratic discourse and information accessibility, and John Edgar Wideman, whose literary contributions illuminate the complexities of American identity and social justice. This event transcends mere recognition—it signals the intersection of journalism, literature, and public service in an era of information overload. The choice of venue, a historic cultural institution, underscores the ceremony's role as a bridge between traditional media authority and contemporary civic engagement. These honorees represent different but complementary aspects of intellectual and cultural leadership, making this ceremony a barometer for evolving standards of public interest and artistic merit in the digital age.",
+    "summary_zh": "哈珀斯杂志将于2026年在摩根图书馆举办第二届颁奖典礼，这不仅是对媒体卓越与文学成就的肯定，更是当代公共文化讨论的重要节点。Katherine Maher与John Edgar Wideman的受奖身份，分别代表了信息公开与民主参与，以及文学批判与社会反思的两种可能性。这种颁奖方式折射出传统媒体在数字化浪潮中的新定位，亦折射出知识分子在公共议题中的责任担当，值得关注。",
+    "best_quote_en": "Harper's Magazine will gather readers, writers, journalists, donors, and friends at The Morgan Library & Museum for the second annual Harper's Magazine Awards Ceremony.",
+    "best_quote_zh": "哈珀斯杂志将于2026年在摩根图书馆举办第二届颁奖典礼，届时将邀请读者、作家、记者、捐赠者及朋友们相聚。"
+  },
+  {
+    "id": 333,
+    "title": "‘Connections’ answers and hints for today, August 16",
+    "title_zh": "连接（Connections）今日答案与提示（2023年8月16日）",
+    "model_used": "nvidia/nemotron-3-nano-30b-a3b:free",
+    "source": "NME",
+    "link": "https://www.nme.com/guides/gaming-guides/connections-answers-hints-groups-today-3557066?utm_source=rss&utm_medium=rss&utm_campaign=connections-answers-hints-groups-today",
+    "tags": [
+      "solve",
+      "design",
+      "music-arts"
+    ],
+    "tags_zh": [
+      "解决",
+      "设计创意",
+      "音乐艺术"
+    ],
+    "date": "2026-08-15",
+    "summary_en": "The article provides a detailed walkthrough of the New York Times' daily Connections puzzle for August 16, breaking down the 16 words into four thematic groups—musical performance, participant, family relationship modifiers, and descriptors for human ancestors. It explains the puzzle's mechanics, warns against literal interpretations, and offers layered hints before revealing the final answers. The piece emphasizes strategic thinking, pattern recognition, and the importance of considering abstract connections over surface meanings. By showcasing the solution, it helps players improve their problem‑solving skills and prepares them for future puzzles. This analysis underscores the puzzle's blend of linguistic nuance and logical deduction, making it a valuable exercise for enthusiasts seeking mental agility and a deeper appreciation of word associations.",
+    "summary_zh": "文章详细解析了8月16日的NYT Connections每日拼图，将16个单词分为四个主题：音乐表演、参与者、家庭关系修饰词以及人类祖先的描述词。它解释了拼图的规则，提醒不要字面直译，并提供层层提示后给出最终答案。强调了策略性思考、模式识别以及对抽象关联的把握，帮助玩家提升解题技巧和对词语关联的理解。该内容对追求脑力挑战和词语关联深度的爱好者具有显著价值。",
+    "best_quote_en": "Think beyond what a word means literally, try to see subtle patterns, and your luck with Connections will improve drastically.",
+    "best_quote_zh": "要超越词语的字面意义，尝试发现细微的模式，你的Connections解题运气会大幅提升。"
+  },
+  {
+    "id": 334,
+    "title": "How Love Comes to You",
+    "title_zh": "爱是如何来到你的",
+    "model_used": "poolside/laguna-xs-2.1:free",
+    "source": "RogerEbert.com",
+    "link": "https://www.themarginalian.org/2026/08/14/how-love-comes-to-you/",
+    "tags": [
+      "solve",
+      "general",
+      "deep-dive"
+    ],
+    "tags_zh": [
+      "解决",
+      "general",
+      "深度分析"
+    ],
+    "date": "2026-08-14",
+    "summary_en": "This reflective piece explores the paradoxical nature of life's unpredictability, arguing that our carefully laid plans are consistently surpassed by life's wild imaginings. Through the lens of 'Reweaving the Rainbow' and its unique blend of scientific inquiry with poetic divination, the author reveals how embracing uncertainty—much like a honeybee veterinarian's unexpected role—becomes a form of resistance against resignation. The text suggests that surrendering to love, whether romantic, creative, or intellectual, is not defeat but recognition of existence's fundamental pulse. Rooted in personal philosophy rather than empirical research, it champions surprise over probability and positions wonder as a vital human capacity.",
+    "summary_zh": "这篇思辨性文章探讨了生活不可控的奇妙性质，指出我们所谱的计划总被生命的狂想超越。在《重织彩虹》的独特视角下，作者通过将科学探究与诗意占卜结合，揭示了拥抱未知的力量。正如蜂群医生的意想不到的职业，接受爱的来到——无论是浪漫的、创造的，还是智慧的——不过是承认生命脉搏的必然。",
+    "best_quote_en": "The most bewildering thing about life is that its imagination is always greater than that of the living — life keeps surprising us, keeps reminding us that all too often the wildest bet is the winning bet.",
+    "best_quote_zh": "生命最令人费解的事莫过于：它的想象力总是超越活着的者——生命不断地惊奇我们，提醒我们，往往最疯狂的赌注反而是胜者。"
+  },
+  {
+    "id": 335,
+    "title": "“葡萄界顶流”价格暴跌75%，中产开始抛弃高糖水果？",
+    "title_zh": "葡萄界顶流\"价格暴跌75%\"，中产开始抛弃高糖水果？",
+    "model_used": "poolside/laguna-xs-2.1:free",
+    "source": "The Marginalian",
+    "link": "http://weixin.sogou.com/weixin?type=2&query=%E4%B8%89%E8%81%94%E7%94%9F%E6%B4%BB%E5%91%A8%E5%88%8A+%E2%80%9C%E8%91%A1%E8%90%84%E7%95%8C%E9%A1%B6%E6%B5%81%E2%80%9D%E4%BB%B7%E6%A0%BC%E6%9A%B4%E8%B7%8C75%25%EF%BC%8C%E4%B8%AD%E4%BA%A7%E5%BC%80%E5%A7%8B%E6%8A%9B%E5%BC%83%E9%AB%98%E7%B3%96%E6%B0%B4%E6%9E%9C%EF%BC%9F",
+    "tags": [
+      "solve",
+      "lifestyle",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "解决",
+      "生活方式",
+      "数据驱动"
+    ],
+    "date": "2026-08-15",
+    "summary_en": "This article examines the dramatic 75% price collapse of premium grapes like '阳光玫瑰' in China, revealing profound shifts in consumer behavior and agricultural economics. The author astutely analyzes how technological advances in modern logistics and greenhouse cultivation have eliminated seasonal constraints, enabling year-round access to previously scarce fruits. This abundance transformed luxury items into everyday commodities, triggering a 'fruit liberation' that peaked around 2021 when per capita consumption reached 61 kg. However, the market has since plateaued, even as nutritional guidelines suggest higher consumption levels. The piece connects this phenomenon to global trends: Japanese and Korean populations also experienced similar consumption peaks followed by declines, driven by lifestyle changes rather than just price. A crucial insight emerges about China's unique trajectory—from 6.9 kg per capita in 1978 to over 60 kg today, representing one of the world's fastest increases in fruit consumption. The author suggests that Chinese consumers may be approaching their consumption threshold, seeking quality over quantity, and yearning for less sweet, more naturally flavored fruits. This analysis illuminates how agricultural abundance can fundamentally reshape dietary habits and consumer psychology, moving beyond simple supply-demand dynamics to reveal deeper cultural and nutritional evolution.",
+    "summary_zh": "文章透视葡萄价格暴跌背后的消费革命：从稀缺奢侈品到日常百货的水果解放，揭示了中国人均摄入量61公斤的诅咒与全球性习惯变迁。立秋时节，怀旧味与自然馈赠交织，或许正是消费停滞的深层密码。",
+    "best_quote_en": "\"当水果由稀缺变得普遍，在摄入量抵达理想状态之前，消费或已达到阈值，不会更多地食用水果了。\"",
+    "best_quote_zh": "\"当水果由稀缺变得普遍，在摄入量抵达理想状态之前，消费或已达到阈值，不会更多地食用水果了。\""
+  },
+  {
+    "id": 336,
+    "title": "Simon Paré-Poupart in conversation with Robin Nagle",
+    "title_zh": "Simon Paré-Poupart in conversation with Robin Nagle",
+    "model_used": "nvidia/nemotron-3.5-lightning:free",
+    "source": "Harper’s Magazine",
+    "link": "https://harpers.org/2026/08/simon-pare-poupart-in-conversation-with-robin-nagle/",
+    "tags": [
+      "solve",
+      "ai-research"
+    ],
+    "tags_zh": [
+      "解决",
+      "AI研究"
+    ],
+    "date": "2026-08-12",
+    "summary_en": "This event brings together two chroniclers of urban waste to examine the human stories behind municipal sanitation. Simon Paré-Poupart, author of Trash! A Garbage Man’s Story, and Robin Nagle, the anthropologist-in-residence at the NYC Department of Sanitation and author of Picking Up, offer complementary perspectives on the often-invisible labor of waste management. Their conversation likely bridges the gap between the lived experience of frontline workers and the academic study of urban infrastructure. Given Harper’s Magazine featured Paré-Poupart’s work as a cover story, the discussion promises intellectual depth, exploring themes of labor, ethics, urban ecology, and the hidden systems that sustain city life. It is a valuable opportunity for anyone interested in the sociology of work, public policy, or the philosophical dimensions of consumption and disposal.",
+    "summary_zh": "这次活动汇集了两位记录城市废异的作家，探讨市政卫生背后的人文故事。西蒙·帕尔-布尔帕尔所著《废物！一个废物清运工的故事》的作者，与纽约市卫生部门驻场人类学家罗宾·纳格尔——她也是《拾取者》的作者——提供了互补的视角，聚焦于常被忽视的废物管理一线劳动。鉴于《哈珀杂志》将帕尔-布尔帕尔的作品作为六月刊封面故事，此次对话必然具有深度的思想内涵，探讨劳动、伦理、城市生态以及维持城市运转的隐形系统。对于对职业社会学、公共政策或消费与处置哲学感兴趣的人来说，这是一次宝贵的机会。",
+    "best_quote_en": "\"The city is a body, and we are its garbage collectors,\" reflecting on the essential yet undervalued role of sanitation workers in the urban ecosystem.",
+    "best_quote_zh": "\"城市是一个身体，而我们是它的垃圾清运工\"——这反思了卫生工作者在城市生态系统中必不可少但常被低估的角色。"
   }
 ]
