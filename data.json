@@ -1,125 +1,5 @@
 [
   {
-    "id": 237,
-    "title": "The art of museum dioramas",
-    "title_zh": "博物馆展示柜的艺术",
-    "source": "Aeon",
-    "link": "https://aeon.co/videos/theres-a-gentle-artistry-to-a-museum-taxidermists-craft?utm_source=rss-feed",
-    "tags": [
-      "analyze",
-      "science",
-      "education",
-      "deep-dive"
-    ],
-    "tags_zh": [
-      "分析",
-      "科学研究",
-      "教育学习",
-      "深度分析"
-    ],
-    "date": "2026-01-19",
-    "summary_en": "Tim Bovard, a taxidermist at the Natural History Museum of Los Angeles County, shares his journey of over five decades crafting museum dioramas. His childhood fascination with these displays has driven him to create what he calls the 'illusion of life,' blending scientific accuracy with imaginative storytelling. Bovard's work is more than just a technical skill; it's an art form that educates the public about the nonhuman animal world, a particularly poignant mission in today's era of dwindling wildlife encounters and rapid species loss. His reflections invite us to consider the deeper significance of these exhibits and their role in fostering empathy and understanding for the natural world.",
-    "summary_zh": "洛杉矶自然历史博物馆的标本制作师蒂姆·博瓦德分享了他在制作博物馆展示柜方面的五十多年经历。童年时对这些展示的迷恋驱使他创造出他所称的“生命幻象”，将科学精准与想象力的诠释结合在一起。博瓦德的工作不仅仅是一种技能，更是一种艺术形式，它向公众传授关于非人类动物世界的知识，这种任务在今天动物接触减少、物种消失加速的时代显得尤为重要。他的思考让我们思考这些展示的深层意义及其在培养对自然界的同理心和理解方面的作用。",
-    "best_quote_en": "The process requires both scientific precision and imaginative interpretation.",
-    "best_quote_zh": "这个过程需要科学的精确性和想象力的诠释。"
-  },
-  {
-    "id": 238,
-    "title": "Timeless Female Authors Who Wrote Under Male Pen Names",
-    "title_zh": "Timeless Female Authors Who Wrote Under Male Pen Names",
-    "source": "Mental Floss",
-    "link": "https://www.mentalfloss.com/literature/authors/female-authors-who-used-male-pen-names?utm_source=RSS",
-    "tags": [
-      "analyze",
-      "writing-content",
-      "society",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "分析",
-      "写作内容",
-      "社会议题",
-      "未来预测"
-    ],
-    "date": "2026-01-19",
-    "summary_en": "The article explores the strategic use of male pen names by female authors in the past, highlighting how societal biases and gender discrimination in literature led them to adopt pseudonyms. It delves into the lives of notable authors like Mary Ann Evans (George Eliot), Elizabeth Gaskell, the Brontë sisters, Louisa May Alcott, and George Sand. These women used male identities to gain respect, freedom, and an unbiased audience, leaving an indelible mark on literary history. The analysis underscores the enduring impact of their works and the courage it took to challenge societal norms.",
-    "summary_zh": "文章探讨了历史上女性作者使用男性笔名的策略，揭示了社会偏见和性别歧视如何迫使她们采用假名。深入介绍了玛丽·安·埃文斯（乔治·艾略特）、伊丽莎白·盖斯凯尔、勃朗特姐妹、路易莎·梅·奥尔科特和乔治·桑等著名作者的生活。她们利用男性身份获得尊重、自由和公平的读者，在文学史上留下了不可磨灭的印记。分析强调了她们作品的持久影响力以及挑战社会规范所需的勇气。",
-    "best_quote_en": "These literary beacons didn’t want to disappear; they wanted to be heard.",
-    "best_quote_zh": "这些文学灯塔不想消失；她们想要被听见。"
-  },
-  {
-    "id": 239,
-    "title": "Why I Transitioned: A Response",
-    "title_zh": "我为什么转变：一个回应",
-    "source": "LessWrong",
-    "link": "https://www.lesswrong.com/posts/rt2yai8JkTPYgzoEj/why-i-transitioned-a-response",
-    "tags": [
-      "solve",
-      "psychology",
-      "ai-research",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "解决",
-      "心理学",
-      "AI研究",
-      "数据驱动"
-    ],
-    "date": "2026-01-20",
-    "summary_en": "Marisa's response to Fiora Sunshine's post on transgender identity offers a nuanced perspective on the biological and social factors influencing transitions. She argues that while there is evidence for a biological basis, social pressures and the 'Trans Double Bind' significantly impact how trans individuals articulate their motivations. Marisa's personal journey highlights the complexity of gender dysphoria and the limitations of introspective clarity. She advocates for a Bayesian approach to transitioning, focusing on quality of life improvements rather than seeking definitive answers to the origins of gender identity.",
-    "summary_zh": "马丽莎对菲奥拉·桑尼舍的帖子作出回应，探讨了影响跨性别者转变的生物和社会因素。她认为，尽管存在生物基础的证据，但社会压力和“跨性别双重束缚”显著影响跨性别者表达其动机的方式。马丽莎的个人经历突显了性别焦虑的复杂性及内省清晰度的局限。她主张采用贝叶斯方法进行转变，关注生活质量的提升，而不是寻求性别认同起源的定论。",
-    "best_quote_en": "Transition is best understood as a Bayesian process where you take small behavioral steps and update on whether your quality of life is improving.",
-    "best_quote_zh": "转变最好被理解为一个贝叶斯过程，你通过小的行为步骤，更新是否提升了你的生活质量。"
-  },
-  {
-    "id": 240,
-    "title": "The Ice Curtain",
-    "title_zh": "冰幕",
-    "source": "The New Yorker",
-    "link": "https://www.newyorker.com/magazine/2026/01/19/the-ice-curtain",
-    "tags": [
-      "analyze",
-      "politics",
-      "education",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "分析",
-      "政治时事",
-      "教育学习",
-      "未来预测"
-    ],
-    "date": "2026-01-19",
-    "summary_en": "The Ice Curtain by Ian Frazier explores the complex geopolitical and cultural dynamics between Nome, Alaska, and neighboring Russia. Since Putin's invasion of Ukraine, the psychological and political distance between the two regions has widened, despite their geographical proximity. The article delves into the history of cross-border interactions, from the Friendship Flight of 1988 to the current tensions, highlighting the efforts of individuals like Jim Stimpfle who worked to bridge the gap. Frazier also discusses the environmental and economic challenges faced by Nome, including marine debris and toxic algal blooms, which underscore the need for international cooperation. The narrative is rich with personal anecdotes and historical context, providing a nuanced view of the region's past and present.",
-    "summary_zh": "伊恩·弗雷泽的《冰幕》探讨了诺姆，阿拉斯加与邻近俄罗斯之间复杂的地缘政治与文化动态。普京入侵乌克兰以来，两地之间的心理与政治距离变得更远，尽管地理上非常接近。文章深入探讨了跨越边境互动的历史，从1988年的“友谊飞行”到当前紧张局势，突出了吉姆·斯廷普夫等个人的努力，他们致力于弥合差距。弗雷泽还讨论了诺姆面临的环境与经济挑战，包括海洋垃圾和有毒藻华，这些都强调了国际合作的必要性。叙述充满了个人轶事和历史背景，提供了对该地区过去与现在的细致视角。",
-    "best_quote_en": "The Russia-U.S. border, which follows the International Date Line, is less than a hundred and fifty miles away.",
-    "best_quote_zh": "跟随国际日期变更线的俄罗斯-美国边境距离不到一百五十英里。"
-  },
-  {
-    "id": 241,
-    "title": "Baby Care",
-    "title_zh": "婴儿护理",
-    "source": "Kevin Kelly",
-    "link": "https://kk.org/cooltools/baby-care/",
-    "tags": [
-      "solve",
-      "ai-research",
-      "science",
-      "deep-dive"
-    ],
-    "tags_zh": [
-      "解决",
-      "AI研究",
-      "科学研究",
-      "深度分析"
-    ],
-    "date": "2026-01-19",
-    "summary_en": "The article 'Baby Care' offers practical insights into essential parenting skills, particularly focusing on solving infant sleep problems and choosing the right baby carriers. The author shares personal experiences with the Ferber method, which trains babies to sleep independently, leading to better rest for both children and parents. Additionally, the article reviews various baby carriers, highlighting their comfort, versatility, and weight distribution features. The piece also touches on a solution for bedwetting using a wireless wetness sensor. Overall, the content provides actionable advice and product recommendations that can significantly improve parental and infant well-being.",
-    "summary_zh": "《婴儿护理》一文分享了育儿技巧，特别是解决婴儿睡眠问题的方法。作者通过个人经历证明了费伯方法的有效性，帮助婴儿独立入睡，从而改善整个家庭的睡眠质量。此外，文章还推荐了多种婴儿背带，强调其舒适性和重量分布功能。最后，介绍了一种利用无线湿感传感器解决遗尿问题的方法。总的来说，文章提供了实用的建议和产品推荐，有助于提升父母和婴儿的生活质量。",
-    "best_quote_en": "It took exactly two nights to Ferberize our baby. She has learned to fall asleep on her own, and when she wakes up at night, she knows how to fall back asleep on her own.",
-    "best_quote_zh": "只用了两个晚上就成功让宝宝学会了费伯方法。她学会了自己入睡，夜里醒来也知道怎么重新入睡。"
-  },
-  {
     "id": 242,
     "title": "Two Twisty Shapes Resolve a Centuries-Old Topology Puzzle",
     "title_zh": "两个扭曲的形状解决了一个世纪老的拓扑学难题",
@@ -2324,5 +2204,124 @@
     "summary_zh": "这次活动汇集了两位记录城市废异的作家，探讨市政卫生背后的人文故事。西蒙·帕尔-布尔帕尔所著《废物！一个废物清运工的故事》的作者，与纽约市卫生部门驻场人类学家罗宾·纳格尔——她也是《拾取者》的作者——提供了互补的视角，聚焦于常被忽视的废物管理一线劳动。鉴于《哈珀杂志》将帕尔-布尔帕尔的作品作为六月刊封面故事，此次对话必然具有深度的思想内涵，探讨劳动、伦理、城市生态以及维持城市运转的隐形系统。对于对职业社会学、公共政策或消费与处置哲学感兴趣的人来说，这是一次宝贵的机会。",
     "best_quote_en": "\"The city is a body, and we are its garbage collectors,\" reflecting on the essential yet undervalued role of sanitation workers in the urban ecosystem.",
     "best_quote_zh": "\"城市是一个身体，而我们是它的垃圾清运工\"——这反思了卫生工作者在城市生态系统中必不可少但常被低估的角色。"
+  },
+  {
+    "id": 337,
+    "title": "100 Objects #13: The Sand Letters",
+    "title_zh": "100 Objects #13：沙德莲特字母",
+    "model_used": "poolside/laguna-xs-2.1:free",
+    "source": "99% Invisible",
+    "link": "https://99percentinvisible.org/episode/100-objects-013-the-sand-letters/",
+    "tags": [
+      "solve",
+      "politics",
+      "ai-research",
+      "case-study"
+    ],
+    "tags_zh": [
+      "解决",
+      "政治时事",
+      "AI研究",
+      "案例研究"
+    ],
+    "date": "2026-08-14",
+    "summary_en": "This episode reveals a fascinating historical narrative about Julia Isabella Sand, an obscure woman whose actions fundamentally transformed American government. Through 23 surviving letters initialed 'J.I.S.', Sand influenced President Chester Arthur—a man who owed his rise to corrupt systems—to become a reformer. The story demonstrates how individual agency can reshape institutional power, creating lasting governmental reforms that persist today. Roman Mars presents this as part of 'A History of the United States in 100 Objects,' highlighting how seemingly mundane artifacts can illuminate profound historical transformations. The narrative challenges traditional power dynamics by showing how an unnamed woman's correspondence catalyzed presidential change, offering insights into political reform, gender dynamics, and historical agency.",
+    "summary_zh": "这段讲述了琼拉·伊莎贝尔·桑德如何通过23封签名J.I.S.的信件，影响了切尔斯特·阿瑟总统从腐败体系中崛起的政治人物，最终成为改革者。故事揭示了个人行动如何重塑制度权力，创造出今天仍存续的政府体制。阿瑟因临终前命令焚毁个人文件而留下痕迹，唯有桑德的信件存世，这场历史转折正是由一位无人知晓的女子发起，证明了历史改革常由边缘力量牵引。",
+    "best_quote_en": "On his deathbed, President Chester Arthur ordered that all of his personal and professional papers be burned. Three barrels of documents went up in flames. But 23 letters survived, initialed only 'J.I.S.'",
+    "best_quote_zh": "切尔斯特·阿瑟总统临终前命令焚毁所有个人和专业文件。三个桶的文件被烧得云霞之下。但23封信存活下来，仅以J.I.S.三字签名。"
+  },
+  {
+    "id": 338,
+    "title": "The End of Oak Street: gripping dino survival film feels Spielbergian but plays against expectations",
+    "title_zh": "橡树街的终结：扣人心弦的恐龙生存电影，带有斯皮尔伯格风格，但颠覆了预期",
+    "model_used": "dots-studio/dots-3-note-preview:free",
+    "source": "BFI",
+    "link": "https://www.bfi.org.uk/sight-and-sound/reviews/end-oak-street-gripping-dino-survival-film-feels-spielbergian-plays-against-expectations",
+    "tags": [
+      "update",
+      "music-arts",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "动态",
+      "音乐艺术",
+      "未来预测"
+    ],
+    "date": "2026-08-14",
+    "summary_en": "David Robert Mitchell’s *The End of Oak Street* (2026) is a genre-defying sci-fi survival thriller that merges suburban domesticity with prehistoric terror. Set in 1982, the film transports a neighborhood into a dinosaur-infested jungle, forcing estranged parents Denise (Anne Hathaway) and Greg (Ewan McGregor) to cooperate for their children’s survival. Mitchell, known for *It Follows*, subverts Spielbergian tropes—evident in the Poltergeist-esque suburban dread and Giacchino’s Williams-esque score—by injecting existential despair, moral complexity, and scientific curiosity. Unlike *Jurassic Park*, which celebrated human dominance, this film critiques survivalist selfishness: Denise’s heroism lies not in combat but in embracing an orphaned girl. The feathered, bird-like dinosaurs reflect updated paleontology, yet the characters’ ignorance of this revision underscores societal denial of scientific progress. The film’s climax, with its multiverse implications, suggests that survival is not just physical but ethical. Mitchell’s direction balances shock with emotional depth, making *The End of Oak Street* not just a monster movie, but a meditation on family, fate, and responsibility in the face of the unknown.",
+    "summary_zh": "大卫·罗伯特·米切尔的《橡树街的终结》（2026）是一部颠覆类型惯例的科幻生存惊悚片，将郊区家庭生活与史前恐怖融合。影片设定于1982年，一个社区被传送到恐龙横行的丛林，迫使疏远的父母丹妮丝（安妮·海瑟薇）和格雷格（伊万·麦克格雷格）为保护孩子而合作。米切尔以《它 follows》闻名，本片虽带有斯皮尔伯格风格——如《吵闹鬼》式的郊区恐怖与吉亚奇诺配乐对威廉姆斯的致敬——却注入存在主义绝望、道德复杂性与科学好奇心。与《侏罗纪公园》不同，本片批判生存主义的自私：丹妮丝的英雄行为不是战斗，而是接纳孤儿女孩。羽毛状、类鸟恐龙反映古生物学更新，角色对此的无知却凸显社会对科学进步的否认。结局的多元宇宙暗示，生存不仅是物理层面，更是伦理层面。米切尔在惊悚与情感深度间取得平衡，使本片不仅是怪兽片，更是对家庭、命运与未知面前责任的沉思。",
+    "best_quote_en": "Denise’s most heroic moment isn’t defending her kids but welcoming the orphaned Jeannette into the group who must be saved.",
+    "best_quote_zh": "丹妮丝最英雄的行为不是保护孩子，而是接纳孤儿珍妮特加入必须被拯救的群体。"
+  },
+  {
+    "id": 339,
+    "title": "Artist Spotlight: Masanori Ushiki",
+    "title_zh": "艺术家专访：宇志賀真司",
+    "model_used": "poolside/laguna-xs-2.1:free",
+    "source": "BOOOOOOOM",
+    "link": "https://www.booooooom.com/2026/08/14/artist-spotlight-masanori-ushiki/",
+    "tags": [
+      "update",
+      "design",
+      "music-arts"
+    ],
+    "tags_zh": [
+      "动态",
+      "设计创意",
+      "音乐艺术"
+    ],
+    "date": "2026-08-14",
+    "summary_en": "This content presents a visual spotlight on Japanese artist Masanori Ushiki, showcasing his artistic portfolio through a series of evocative artworks. The piece functions primarily as a discovery platform, allowing viewers to engage with Ushiki's creative vision through his website and Instagram presence. While lacking extensive narrative context, the gallery format invites contemplation of his artistic style and methodology. The curatorial choice to present multiple images creates a rhythm of visual storytelling, suggesting depth in his practice. For art collectors, enthusiasts, or those exploring contemporary Japanese art, this serves as an accessible entry point to understanding Ushiki's contribution to modern artistic discourse. The minimalist presentation emphasizes the work itself over extensive biographical detail, trusting visual impact to communicate artistic merit.",
+    "summary_zh": "这篇内容以日本艺术家宇志賀真司的作品为核心，通过精美图片展现其艺术风貌。内容以图片为主，较少文字阐述，作者通过多张作品营造视觉节奏，让观众沉浸式感受其创作精神。这种简约叙事方式，突显作品本身的力量，为想了解当代日本艺术的观众提供了初窥门径。",
+    "best_quote_en": "Masanori Ushiki's Website",
+    "best_quote_zh": "宇志賀真司的网站"
+  },
+  {
+    "id": 340,
+    "title": "100 Objects #11: Brannock Device",
+    "title_zh": "100 Objects #11：布兰科设备",
+    "model_used": "poolside/laguna-xs-2.1:free",
+    "source": "99% Invisible",
+    "link": "https://99percentinvisible.org/episode/100-objects-011-brannock-device/",
+    "tags": [
+      "solve",
+      "design",
+      "case-study"
+    ],
+    "tags_zh": [
+      "解决",
+      "设计创意",
+      "案例研究"
+    ],
+    "date": "2026-07-31",
+    "summary_en": "This episode explores the Brannock Device, a seemingly mundane measuring tool that quietly revolutionized American footwear measurement in 1925 and has endured for over a century with minimal changes. The analysis reveals how this unassuming metal contraption became essential for outfitting WWII sailors and continues to serve modern consumers, representing a fascinating case study in design durability and functional simplicity. Roman Mars and Paul Lukas trace how this object encapsulates broader themes of American industrial design, wartime necessity, and the unexpected longevity of well-crafted tools. The Brannock Device stands as a testament to how solving a basic human need with elegant precision can create lasting impact, making it a compelling example of invisible infrastructure that shapes daily life in ways most people never consciously notice.",
+    "summary_zh": "布兰科设备是1925年诞生的测量工具，至今仍未显著改变。它不仅为二战水兵配鞋，更成为美国足Measurement史上的里程碑。这种金属仪器的持久生命折射出优秀设计的永恒价值——用精密解决日常需求，化繁为简的工业美学悄然影响千家万户。",
+    "best_quote_en": "The metal contraption transformed the way we measure feet forever, and more than a century after its invention... it has barely changed.",
+    "best_quote_zh": "这种金属仪器彻底改变了我们永远衡量脚的方式，不过一百多年后，它几乎没有改变。"
+  },
+  {
+    "id": 341,
+    "title": "Of monsters and men: Peter Wollen on Jurassic Park",
+    "title_zh": "怪兽与人类：彼得·沃伦纳论统治亚马逊",
+    "model_used": "poolside/laguna-xs-2.1:free",
+    "source": "BFI",
+    "link": "https://www.bfi.org.uk/sight-and-sound/features/monsters-men-peter-wollen-jurassic-park",
+    "tags": [
+      "analyze",
+      "music-arts",
+      "ai-research",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "分析",
+      "音乐艺术",
+      "AI研究",
+      "未来预测"
+    ],
+    "date": "2026-08-13",
+    "summary_en": "Peter Wollen's 1993 analysis of Jurassic Park reveals it as a sophisticated cultural artifact that transcends mere entertainment. The film operates as a convergence point for multiple cinematic traditions: the monster movie lineage from The Lost World to King Kong, the theme park narrative of Westworld, and Hitchcock's psychological thrillers. Wollen demonstrates how Jurassic Park functions as both a technological spectacle and a philosophical meditation on humanity's relationship with nature, time, and spectacle itself. The analysis reveals that the film's true innovation lies not in its CGI breakthroughs but in its conceptual framework—using genetic engineering as a reverse time machine that brings extinct creatures forward to haunt the present. This creates what Wollen terms the 'sadistic sublime,' where nursery fears are magnified to prehistoric scale. The author connects this to broader cultural patterns: the transformation of dinosaurs from objects of scientific inquiry to commodities in the Society of the Spectacle, echoing Bentham's Panopticon and Darwin's Galapagos. Ultimately, Jurassic Park represents cinema's evolution from a 'flea circus' to a theme park experience where the boundaries between illusion and reality dissolve, reflecting our contemporary condition of living within mediated environments.",
+    "summary_zh": "沃伦纳的分析揭示了《统治亚马逊》不仅是科技奇观，更是对人类与自然、时间、观众社会关系的哲思。影片将恐龙从科学对象异化为商品，化身为‘悲惨的崇高’，将童年恐惧放大到史前规模。作者通过比etesque监狱和达尔文的加拉帕戈斯群岛，阐明了人类囚禁自然、控制己身的集体幻觉。影片最终化身为主题公园，虚实交织的噩梦映射了当代我们在介质环境中游离的处境——从小丝戏法到现实主题园，人类始终在寻找回到原始场景的逃生出口。",
+    "best_quote_en": "In Jurassic Park, the captive monsters are observed electronically rather than optically, from a computer-driven control centre reminiscent of that for the space ship in Star Trek, another form of high-tech island resort. Isla Nublar hurtles through time as the Enterprise hurtles through space.",
+    "best_quote_zh": "在《统治亚马逊》中，俘获的怪兽不是通过肉眼而是通过电子手段被观察，从类比星际舰船的计算机驱动控制中心观察，另一种高科技岛屿度假区的形式。伊斯拉·努布拉隶居时代，正如星际飞船隶居太空。"
   }
 ]
