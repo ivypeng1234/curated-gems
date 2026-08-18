@@ -1,123 +1,5 @@
 [
   {
-    "id": 242,
-    "title": "Two Twisty Shapes Resolve a Centuries-Old Topology Puzzle",
-    "title_zh": "两个扭曲的形状解决了一个世纪老的拓扑学难题",
-    "source": "Quanta Magazine",
-    "link": "https://www.quantamagazine.org/two-twisty-shapes-resolve-a-centuries-old-topology-puzzle-20260120/",
-    "tags": [
-      "solve",
-      "science",
-      "ai-research",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "解决",
-      "科学研究",
-      "AI研究",
-      "数据驱动"
-    ],
-    "date": "2026-01-20",
-    "summary_en": "The Bonnet problem, a centuries-old conundrum in topology, has finally been resolved by mathematicians who discovered a pair of compact, doughnut-like surfaces with identical local geometric information but vastly different global structures. This breakthrough challenges the conventional wisdom that local data can uniquely define a surface, highlighting the complexity and richness of geometric shapes. The discovery involved years of computational and theoretical work, bridging the gap between discrete and smooth surfaces. It underscores the importance of discrete geometry in solving problems that have long eluded mathematicians, offering new insights into the fundamental properties of shapes.",
-    "summary_zh": "数学家们终于解决了拓扑学中的邦内问题，发现了两个具有相同局部几何信息但全局结构完全不同的紧致环面。这一突破挑战了局部数据能唯一定义表面的传统观点，展示了几何形状的复杂性和丰富性。这一发现经历了多年的计算和理论研究，弥合了离散和光滑表面之间的差距。它强调了离散几何在解决长期困扰数学家的问题中的重要性，为形状的基本性质提供了新的见解。",
-    "best_quote_en": "It’s an example of something where our intuition wasn’t good enough.",
-    "best_quote_zh": "这是一个我们直觉不够的例子。"
-  },
-  {
-    "id": 243,
-    "title": "A light from the periphery",
-    "title_zh": "来自边缘的光芒",
-    "source": "Aeon",
-    "link": "https://aeon.co/essays/why-satyendra-nath-bose-was-more-than-einsteins-sidekick?utm_source=rss-feed",
-    "tags": [
-      "analyze",
-      "science",
-      "education",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "分析",
-      "科学研究",
-      "教育学习",
-      "数据驱动"
-    ],
-    "date": "2026-01-20",
-    "summary_en": "The essay recounts the story of Satyendra Nath Bose, an Indian physicist who, in 1924, sent a groundbreaking paper to Albert Einstein. Bose's work, which would become foundational to quantum mechanics, was developed in colonial India, far from the European scientific hubs. Einstein's enthusiastic support helped publish Bose's findings, leading to the development of Bose-Einstein statistics and later, Bose-Einstein condensates. The essay challenges the narrative of Bose as a lucky outsider, instead portraying him as a polymath who navigated colonial challenges to make significant scientific contributions. Bose's story highlights the potential for creativity and intellectual rigor in marginalized settings, offering a powerful rebuttal to the notion that scientific progress flows only from dominant centers to passive peripheries.",
-    "summary_zh": "文章讲述了印度物理学家萨蒂延德拉·纳特·玻色的故事，他于1924年向爱因斯坦寄去了一篇开创性论文。玻色的工作后来成为量子力学的基础，尽管他当时在殖民地印度，远离欧洲的科学中心。爱因斯坦的支持帮助玻色发表了他的发现，导致了玻色-爱因斯坦统计和后来的玻色-爱因斯坦凝聚态的发展。文章挑战了玻色作为幸运局外人的叙述，而是将他描绘为一位全才，他克服了殖民地的挑战，做出了重要的科学贡献。玻色的故事展示了在边缘化环境中创造力和智力严谨的潜力，为科学进步仅从主导中心流向被动边缘的观念提供了强有力的反驳。",
-    "best_quote_en": "Bose’s success was a triumph of intellect and determination over circumstance, a testament to creativity flourishing in an out-of-the-way locale through sheer force of will.",
-    "best_quote_zh": "玻色的成功是智力和决心战胜环境的胜利，是证明创造力在偏远地区通过纯粹的意志力茁壮成长的见证。"
-  },
-  {
-    "id": 244,
-    "title": "5 Cold-Weather Clothing Hacks You Can’t Afford to Ignore This Winter",
-    "title_zh": "5个你不能忽视的冬季保暖服装技巧",
-    "source": "Mental Floss",
-    "link": "https://www.mentalfloss.com/live-smarter/hacks-tips/cold-weather-clothing-hacks-winter?utm_source=RSS",
-    "tags": [
-      "learn",
-      "lifestyle",
-      "controversial"
-    ],
-    "tags_zh": [
-      "学习",
-      "生活方式",
-      "争议观点"
-    ],
-    "date": "2026-01-20",
-    "summary_en": "This article offers practical insights into staying warm during winter by rethinking conventional clothing strategies. It emphasizes the importance of layering intelligently, choosing the right fabrics, and protecting extremities. The author argues that dressing for winter should prioritize logic and functionality over style. Key takeaways include the three-layer system (base, middle, outer) and the significance of moisture-wicking materials. The article also highlights the need to adjust clothing based on activity levels and weather conditions, making it a valuable guide for anyone looking to improve their cold-weather preparedness.",
-    "summary_zh": "这篇文章提供了实用的冬季保暖服装技巧，强调通过重新思考传统的穿衣策略来保持温暖。它指出层次化穿衣、选择合适的面料和保护身体的重要性。作者认为冬季穿衣应以逻辑和功能为主，而不是时尚。关键要点包括三层系统（底层、中层、外层）和透气排湿材料的重要性。文章还强调根据活动强度和天气条件调整服装，这使其成为任何人提升冬季保暖准备的有价值指南。",
-    "best_quote_en": "Dressing for the cold is less about an abundance of layers and more about the content of those layers.",
-    "best_quote_zh": "穿衣保暖不在于层数的多少，而在于每一层的质量。"
-  },
-  {
-    "id": 245,
-    "title": "Kredit Grant",
-    "title_zh": "Kredit 奖学金",
-    "source": "LessWrong",
-    "link": "https://www.lesswrong.com/posts/FsqFzFCaxuBS7T5A9/kredit-grant",
-    "tags": [
-      "inspire",
-      "ai-research",
-      "startup-funding",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "启发",
-      "AI研究",
-      "创业融资",
-      "未来预测"
-    ],
-    "date": "2026-01-21",
-    "summary_en": "The article 'Kredit Grant' offers a unique opportunity for individuals interested in AI to receive funding. The author, kiankyars, is giving away $5,710 in OpenAI/Anthropic credits, aiming to support innovative projects or research. This act of generosity highlights the importance of community support and the potential for small grants to make a significant impact. The simplicity of the application process and the openness to questions reflect a user-friendly approach, encouraging broader participation. This initiative not only provides financial assistance but also fosters a collaborative environment within the AI community.",
-    "summary_zh": "Kredit 奖学金文章为有兴趣的人提供了独特的资金机会。作者 kiankyars 正在赠送 $5,710 的 OpenAI/Anthropic 信用额度，旨在支持创新项目或研究。这种慷慨行为凸显了社区支持的重要性，以及小额奖学金对产生重大影响的潜力。申请流程的简便性和对问题的开放态度反映了用户友好的方式，鼓励更广泛的参与。此举不仅提供了财务支持，还在 AI 社区中营造了合作氛围。",
-    "best_quote_en": "I have $5,710 in OpenAI/Anthropic credits which I am giving away, please apply here if interested.",
-    "best_quote_zh": "我有 $5,710 的 OpenAI/Anthropic 信用额度，如果有兴趣请申请。"
-  },
-  {
-    "id": 246,
-    "title": "How Europe Can Respond to Trump’s Greenland Imperalism",
-    "title_zh": "欧洲如何应对特朗普的格陵兰帝国主义",
-    "source": "The New Yorker",
-    "link": "https://www.newyorker.com/news/q-and-a/how-europe-can-respond-to-trumps-greenland-imperalism",
-    "tags": [
-      "solve",
-      "politics",
-      "ai-research",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "解决",
-      "政治时事",
-      "AI研究",
-      "数据驱动"
-    ],
-    "date": "2026-01-20",
-    "summary_en": "Isaac Chotiner interviews Ivan Krastev on the transatlantic fallout from Trump's Greenland fixation. Europe faces a dilemma: stand up to Trump's bullying or risk losing American military support, especially amidst the Ukraine crisis. Krastev argues that Europe must show resolve, using tools like the Anti-Coercion Instrument, to avoid appearing weak. He notes that Trump's actions have united Europeans, even those on the far-right, against his plans. The interview also touches on the potential long-term impacts on NATO and China's rising influence. Ultimately, Krastev believes Europe will seek a strategic balance, resisting Trump's demands while maintaining the transatlantic alliance.",
-    "summary_zh": "艾萨克·乔蒂纳采访伊万·克拉斯泰夫，探讨特朗普对格陵兰的执着如何导致跨大西洋关系紧张。欧洲面临两难选择：抵制特朗普的霸凌行为，还是冒着失去美国军事支持的风险。克拉斯泰夫认为，欧洲必须展示决心，使用反强迫工具等手段，以免显得软弱。他指出，特朗普的行为甚至让欧洲右翼团结起来反对他的计划。访谈还涉及对北约和中国日益增强影响力的潜在长期影响。最终，克拉斯泰夫认为，欧洲将寻求战略平衡，抵制特朗普的要求，同时维持跨大西洋联盟。",
-    "best_quote_en": "Europe is not unaware of its own weaknesses, but this really became too much.",
-    "best_quote_zh": "欧洲并不否认自己的弱点，但这真的太过分了。"
-  },
-  {
     "id": 247,
     "title": "How Animals Build a Sense of Direction",
     "title_zh": "动物如何构建方向感",
@@ -2323,5 +2205,124 @@
     "summary_zh": "沃伦纳的分析揭示了《统治亚马逊》不仅是科技奇观，更是对人类与自然、时间、观众社会关系的哲思。影片将恐龙从科学对象异化为商品，化身为‘悲惨的崇高’，将童年恐惧放大到史前规模。作者通过比etesque监狱和达尔文的加拉帕戈斯群岛，阐明了人类囚禁自然、控制己身的集体幻觉。影片最终化身为主题公园，虚实交织的噩梦映射了当代我们在介质环境中游离的处境——从小丝戏法到现实主题园，人类始终在寻找回到原始场景的逃生出口。",
     "best_quote_en": "In Jurassic Park, the captive monsters are observed electronically rather than optically, from a computer-driven control centre reminiscent of that for the space ship in Star Trek, another form of high-tech island resort. Isla Nublar hurtles through time as the Enterprise hurtles through space.",
     "best_quote_zh": "在《统治亚马逊》中，俘获的怪兽不是通过肉眼而是通过电子手段被观察，从类比星际舰船的计算机驱动控制中心观察，另一种高科技岛屿度假区的形式。伊斯拉·努布拉隶居时代，正如星际飞船隶居太空。"
+  },
+  {
+    "id": 342,
+    "title": "Nothing less than radical whole-system change is required to fix the NHS's maternity services | Julia Sanders",
+    "title_zh": "要想拯救NHS产妇服务，必须进行根本性的整体系统变革 | 朱莉亚·桑德斯",
+    "model_used": "poolside/laguna-xs-2.1:free",
+    "source": "Women | The Guardian",
+    "link": "https://www.theguardian.com/commentisfree/2026/aug/17/nhs-maternity-care-crisis-reports-yvette-cooper-women",
+    "tags": [
+      "solve",
+      "science",
+      "programming",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "解决",
+      "科学研究",
+      "编程开发",
+      "数据驱动"
+    ],
+    "date": "2026-08-17",
+    "summary_en": "This op-ed by Julia Sanders examines the profound systemic failures within NHS maternity services revealed through the Amos and Ockenden reports, arguing that incremental reforms are insufficient to address the crisis. Sanders contends that women and families have endured cumulative failures resulting in preventable deaths, injuries, and profound trauma from both clinical and compassionate care deficiencies. While acknowledging midwives as dedicated professionals under immense pressure, she emphasizes that staffing shortages and resource constraints compromise care quality. The analysis reveals a paradox: despite stable satisfaction rates, adverse outcomes have increased, with rising intervention rates (induction from 20% to 34%, C-sections from 27% to 45%) suggesting over-medicalization. Sanders advocates for radical whole-system change centered on relationship-based midwifery continuity, genuine partnership with women and families, and evidence-based decision-making. The piece frames this as both a moral imperative and public health necessity, requiring unprecedented political will, resource allocation, and accountability across all stakeholders to redefine what safe, equitable maternity care can achieve.",
+    "summary_zh": "这篇观点文章揭示了NHS产妇服务的系统性崩溃，强调表面改革无法解决深层结构性问题。桑德斯指出，女性和家庭在怀孕、分娩及产后期间遭遇的系统性失败导致大量不可避免的产妇死亡、伤残及创伤。文章发现，尽管满意度稳定，但医疗过度干预呈指数增长——人工流产从20%飙升至34%，剖腹产从27%升至45%。作者呼吁建立以女性为中心的产科体系，重建护产士与孕妇之间的信任关系，这需要政治决心和系统性资源投入。这是一场涉及整个社会健康体系的深刻变革，既是道德责任，也是公共卫生紧急任务。",
+    "best_quote_en": "Nothing less than radical whole-system change is required to fix the NHS's maternity services.",
+    "best_quote_zh": "要想拯救NHS产妇服务，必须进行根本性的整体系统变革。"
+  },
+  {
+    "id": 343,
+    "title": "The Airbnbs",
+    "title_zh": "The Airbnbs",
+    "model_used": "nvidia/nemotron-3-nano-omni-30b-a3b-reasoning:free",
+    "source": "Paul Graham",
+    "link": "http://www.paulgraham.com/airbnbs.html",
+    "tags": [
+      "learn",
+      "startup-strategy"
+    ],
+    "tags_zh": [
+      "学习",
+      "创业策略"
+    ],
+    "date": "2026-08-18",
+    "summary_en": "This narrative reveals Airbnb's near-collapse in 2008-2009 during the Great Recession, when founders Brian Chesky, Joe Gebbia, and Nate Blecharczyk nearly abandoned their startup after minimal growth and maxed-out credit cards. Their persistence stemmed from authentic host-guest experiences during their initial airbed experiment, which revealed a genuine need for affordable, personal lodging. The founders' relentless energy—documented through exhaustive note-taking and rapid implementation of ideas—transformed their YC batch into a turning point when they focused intensely on New York City's underserved market. Their breakthrough came not through grand strategy but through hyper-local execution: personally improving listings with professional photography and discovering hosts were fellow struggling individuals. The $4,000/month ramen profitability threshold (achieved by February 2009) became their airborne moment, proving that authentic user-centric values—not just capital—can overcome extreme adversity. This case powerfully illustrates how founder passion and deep user empathy can catalyze resilience in startup inception.",
+    "summary_zh": "2008年经济危机中，Airbnb因无增长、信用卡债务重创几近倒闭，但创始人坚持源于早期入住体验的真实价值——主机与客人因被迫尝试而发现互惠新模式。他们用极致专注（如纽约专程拍摄照片、倾听主机需求）将YC批次转化为转折点，2009年2月实现$4000月利润的「拉面盈利」临界点，证明创始人热情与用户共情能克服生存危机，成为创业者不容忽视的启示。",
+    "best_quote_en": "We are not going to slow down.",
+    "best_quote_zh": "我们不会减速。"
+  },
+  {
+    "id": 344,
+    "title": "The Tim Ferriss Show Transcripts: How to Reinvent Yourself and Make Bold Moves — Decisive Stories from Matthew McConaughey, Steve Young, Samin Nosrat, and More (#879)",
+    "title_zh": "《Tim Ferriss Show》演讲稿：如何重新定义自我并做出大胆决策 —— 来自马修·麦康纳格、斯蒂夫·尼克尔斯、萨米·诺斯拉特等人的决定性故事（#879）",
+    "model_used": "poolside/laguna-xs-2.1:free",
+    "source": "Tim Ferriss",
+    "link": "https://tim.blog/2026/08/14/how-to-reinvent-yourself-transcript/",
+    "tags": [
+      "solve",
+      "writing-content",
+      "case-study"
+    ],
+    "tags_zh": [
+      "解决",
+      "写作内容",
+      "案例研究"
+    ],
+    "date": "2026-08-14",
+    "summary_en": "This transcript compilation from The Tim Ferriss Show explores the profound theme of personal reinvention through compelling narratives from high-profile guests. Matthew McConaughey discusses embracing uncertainty and the power of 'letting go' of outdated identities, while Steve Young provides a masterclass on transition, describing retirement from football as 'a death' requiring proper mourning and burial before moving forward. Suleika Jaouad challenges the hero's journey narrative in cancer survival, revealing that emergence from trauma doesn't automatically confer bravery or strength—instead, healing requires ongoing integration of experience. The content offers practical frameworks for navigating major life transitions, emphasizing vulnerability, authentic grieving processes, and the courage to embrace new chapters. These insights extend beyond celebrity anecdotes to provide actionable wisdom for anyone facing career shifts, personal transformations, or the universal challenge of evolving beyond past identities. The discussion illuminates that reinvention isn't about erasing history but creating space for growth through conscious acknowledgment of what must be released.",
+    "summary_zh": "这段Tim Ferriss Show的演讲稿聚焦于个人重新定义的深层探讨，通过星级嘉宾的真实故事揭示转型的智慧。斯蒂夫·尼克尔斯将退役描述为需要哀悼的'死亡'，强调在告别旧身份后才能迎接新章节；Suleika Jaouad挑战了创伤后的英雄叙事，指出疾病经历不等于获得勇气与力量。内容提供从容应对人生大转型的实践框架，强调正面面对、真实哀悼和拥抱未知的勇气——不过是在告别历史的同时，为成长腾出空间。",
+    "best_quote_en": "The game will never leave you, but you need to leave it. You need to move on.",
+    "best_quote_zh": "比赛永远不会离开你，但你需要离开它。你需要继续前进。"
+  },
+  {
+    "id": 345,
+    "title": "Theory of Fluids Enters the 21st Century",
+    "title_zh": "流体理论进入21世纪",
+    "model_used": "nvidia/nemotron-nano-9b-v2:free",
+    "source": "Quanta Magazine",
+    "link": "https://www.quantamagazine.org/theory-of-fluids-enters-the-21st-century-20260817/",
+    "tags": [
+      "learn",
+      "science",
+      "writing-content",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "学习",
+      "科学研究",
+      "写作内容",
+      "未来预测"
+    ],
+    "date": "2026-08-17",
+    "summary_en": "This article explores the revolutionary shift in fluid dynamics from classical Navier-Stokes equations to a modern framework rooted in symmetries and effective field theories. By redefining fluids as systems governed by microscopic particle interactions rather than continuous approximations, physicists have unlocked new predictive capabilities. The work bridges cosmological insights with material science, revealing how symmetries like particle conservation and swapping dynamics shape fluid behavior. Applications range from climate modeling to understanding exotic states like fracton matter. The core insight lies in recognizing fluids not as idealized substances but as emergent phenomena from underlying symmetries, challenging traditional assumptions and opening pathways for AI-driven simulations and novel material discoveries.",
+    "summary_zh": "文章揭示流体理论从传统纳维-斯托克斯方程向对称性与有效场论框架的革命性转变。通过将流体重新定义为由微观粒子相互作用构成的系统而非连续介质，物理学家实现了新颖的预测能力。研究将宇宙学洞察与材料科学结合，展现对称性（如粒子守恒与交换动力学）如何决定流体行为。应用范围涵盖气候模拟到奇异状态（如分子物质）的研究。核心发现在于流体非为理想化物质，而是由基本对称性演化而来的复杂现象，颠覆传统认知并为AI模拟与新材料开发提供突破性路径。",
+    "best_quote_en": "Navier-Stokes is very much an approximation. It's not an exact equation.",
+    "best_quote_zh": "纳维-斯托克斯方程本质上是近似的，并非精确方程。"
+  },
+  {
+    "id": 346,
+    "title": "Can antihistamines really help with PMDD and menopausal symptoms?",
+    "title_zh": "抗组胺药真的能帮助治疗PMDD和更年期症状吗？",
+    "model_used": "poolside/laguna-xs-2.1:free",
+    "source": "Women | The Guardian",
+    "link": "https://www.theguardian.com/wellness/2026/aug/14/antihistamines-menopause-pmdd",
+    "tags": [
+      "solve",
+      "psychology",
+      "medicine",
+      "case-study"
+    ],
+    "tags_zh": [
+      "解决",
+      "心理学",
+      "医学健康",
+      "案例研究"
+    ],
+    "date": "2026-08-14",
+    "summary_en": "This article critically examines a viral social media trend where women report using over-the-counter antihistamines (Allegra and Pepcid) to manage PMDD and menopausal symptoms. While experts acknowledge the biological plausibility—linking histamine release to hormonal fluctuations during menstrual cycles and perimenopause—they emphasize the lack of robust scientific evidence supporting this approach. The analysis reveals a significant gap between anecdotal experiences and clinical validation, highlighting the urgent need for targeted research on histamine's role in women's hormonal health. Dr. Voedisch notes that symptoms like hot flashes and anxiety can mimic both histamine-related and perimenopausal manifestations, complicating diagnosis. The piece also explores evidence-based alternatives, including SSRIs, hormone therapy, and cognitive behavioral therapy, while acknowledging that non-hormonal options are often cost-prohibitive. Ultimately, the article underscores the importance of personalized treatment approaches in a field historically dominated by gender-blind research paradigms.",
+    "summary_zh": "这篇文章深入剖析了社交媒体上流行的‘抗组胺药疗法’，探讨其在缓解PMDD和更年期症状中的可行性。专家指出，尽管激素波动与组胺释放存在生物学关联，但缺乏坚实证据支持该方法。文章揭示了症状诊断的复杂性，以及个体化治疗在女性健康研究中的重要性。",
+    "best_quote_en": "When people are suffering from bothersome symptoms, and the strategies offered to them don't seem to help, it makes sense for them to look elsewhere.",
+    "best_quote_zh": "当人们因困扰的症状而苦恼时，已有的疗法没有效果，他们寻找其他方案自然合理。"
   }
 ]
