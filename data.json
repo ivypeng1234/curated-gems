@@ -1,121 +1,5 @@
 [
   {
-    "id": 247,
-    "title": "How Animals Build a Sense of Direction",
-    "title_zh": "动物如何构建方向感",
-    "source": "Quanta Magazine",
-    "link": "https://www.quantamagazine.org/how-animals-build-a-sense-of-direction-20260121/",
-    "tags": [
-      "analyze",
-      "science",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "分析",
-      "科学研究",
-      "数据驱动"
-    ],
-    "date": "2026-01-21",
-    "summary_en": "The study of how animals navigate their environments has long fascinated neuroscientists, leading to significant discoveries such as place cells and grid cells, which won Nobel Prizes. Recent research on Egyptian fruit bats on a remote island in the Indian Ocean reveals that these animals use a network of brain cells, known as head direction cells, to create an internal compass. This compass is not based on magnetic fields or stars but relies on landmarks to form a mental map. The findings confirm decades of lab work and support the global compass hypothesis, suggesting that these cells remain faithful to their assigned directions in large, natural environments. This research underscores the importance of studying neurobiological theories in real-world conditions and hints at potential insights into human navigation.",
-    "summary_zh": "动物如何在环境中导航一直是神经科学家们的研究热点，带来了“位置细胞”和“网格细胞”等重要发现，并因此获得诺贝尔奖。近期对埃及果蝠的研究发现，这些动物使用一组被称为“头部方向细胞”的脑细胞来构建内部指南针，依靠地标形成心理地图。这项研究证实了多年来的实验室研究成果，支持全局指南针假说，表明这些细胞在大型自然环境中保持对其指定方向的忠诚。该研究强调了在真实世界条件下研究神经生物学理论的重要性，并为人类导航提供了潜在的见解。",
-    "best_quote_en": "Now we’re understanding a basic principle about how the mammalian brain works under natural, real-world conditions.",
-    "best_quote_zh": "现在我们开始理解哺乳动物大脑在自然真实条件下的基本原理。"
-  },
-  {
-    "id": 248,
-    "title": "The immortality paradox",
-    "title_zh": "永生的悖论",
-    "source": "Aeon",
-    "link": "https://aeon.co/videos/would-immortality-offer-a-curse-of-boredom-or-endless-novelty?utm_source=rss-feed",
-    "tags": [
-      "inspire",
-      "education",
-      "controversial"
-    ],
-    "tags_zh": [
-      "启发",
-      "教育学习",
-      "争议观点"
-    ],
-    "date": "2026-01-21",
-    "summary_en": "The article explores the philosophical conundrum of immortality, questioning whether an eternal existence would truly be desirable. While most people strive to live long, healthy lives, the prospect of outliving loved ones and experiencing diminishing returns on satisfaction paints a less appealing picture. The TED-Ed animation, created with Sarah Stroud, surveys various philosophical viewpoints, notably that of Bernard Williams, to unpack what immortality reveals about our mortal lives. This thought-provoking piece invites readers to reflect on the value and limitations of human existence, offering a nuanced perspective on the age-old question of life and death.",
-    "summary_zh": "文章探讨了永生的哲学难题，质疑永恒存在是否真正可取。虽然大多数人努力延长健康的生命，但超越亲人寿命及满足感递减的前景显得不那么吸引人。与Sarah Stroud合作创作的TED-Ed动画，调查了各种哲学观点，特别是伯纳德·威廉姆斯的观点，以揭示永生对我们现有的有限生命的启示。这篇发人深省的文章邀请读者思考人类存在的价值与局限，为生命与死亡的古老问题提供了深刻的视角。",
-    "best_quote_en": "Does that also suggest that an immortal existence – or something like it – would be preferable?",
-    "best_quote_zh": "这也暗示永生的存在——或类似的存在——会更可取吗？"
-  },
-  {
-    "id": 249,
-    "title": "The Psychology Behind Doomscrolling—And How to Avoid It",
-    "title_zh": "滚动浏览不良新闻背后的心理学及其克服方法",
-    "source": "Mental Floss",
-    "link": "https://www.mentalfloss.com/science/psychology/psychology-behind-doomscrolling-and-how-to-avoid-it?utm_source=RSS",
-    "tags": [
-      "solve",
-      "psychology",
-      "lifestyle",
-      "deep-dive"
-    ],
-    "tags_zh": [
-      "解决",
-      "心理学",
-      "生活方式",
-      "深度分析"
-    ],
-    "date": "2026-01-21",
-    "summary_en": "Doomscrolling, the habit of endlessly consuming negative news, is a modern phenomenon exacerbated by constant smartphone access. This behavior is driven by our brain's negativity bias, a survival mechanism that keeps us alert to potential threats. In today's world of nonstop news feeds and algorithms designed to keep us engaged, doomscrolling can lead to increased anxiety, stress, and even physical health issues. However, by implementing intentional changes like scheduling scroll times, curating our feeds, and reducing digital temptations, we can regain control over our news consumption and mitigate its harmful effects.",
-    "summary_zh": "滚动浏览不良新闻，即滚动浏览不良新闻的习惯，是一种由智能手机访问不断增多引发的现代现象。这种行为是由大脑的负面偏见驱动的，这是一种保护机制，使我们对潜在威胁保持警惕。在今天的无尽新闻流和设计用来吸引我们注意力的算法世界中，滚动浏览不良新闻可能会导致焦虑、压力和身体健康问题增加。然而，通过实施计划浏览时间、策划我们的内容流和减少数字诱惑等有意识的变化，我们可以重新掌控我们的新闻消费，并缓解其有害影响。",
-    "best_quote_en": "A steady diet of negative news can quietly take a toll—and yet, many of us can’t look away.",
-    "best_quote_zh": "持续消费负面新闻会悄然影响我们，但许多人却无法移开视线。"
-  },
-  {
-    "id": 250,
-    "title": "Dedicated continuous supervision of AI companies",
-    "title_zh": "专门持续监督AI公司",
-    "source": "LessWrong",
-    "link": "https://www.lesswrong.com/posts/Rhe7F2z5iMgCPCsax/dedicated-continuous-supervision-of-ai-companies-1",
-    "tags": [
-      "analyze",
-      "ai-research",
-      "science",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "分析",
-      "AI研究",
-      "科学研究",
-      "未来预测"
-    ],
-    "date": "2026-01-22",
-    "summary_en": "Michael Bennett's essay advocates for a regulatory approach called 'dedicated continuous supervision' for AI companies, drawing parallels with nuclear and financial industries. This method involves extensive information access, continuous monitoring, and deep, personalized attention to individual entities. Bennett argues that AI's complexity, rapid development, and high-stakes risks justify this intensive oversight. He explores potential challenges like regulatory capture and evasion, suggesting measures from other sectors to mitigate these issues. The essay emphasizes the need for a flexible, information-driven regulatory system to manage AI's unique risks effectively.",
-    "summary_zh": "迈克尔·本内特的文章提倡对AI公司采用“专门持续监督”的监管方式，借鉴核能和金融行业的经验。这种方法涉及广泛的信息获取权限、持续监控和对个别实体的深度、个性化关注。本内特认为，AI的复杂性、快速发展和高风险使得这种强化监管成为必要。他探讨了潜在的挑战，如监管俘获和逃避，并提出了其他行业的措施来缓解这些问题。文章强调需要灵活、以信息为驱动的监管体系来有效管理AI独特的风险。",
-    "best_quote_en": "High stakes, fast-moving, complex industries can't be monitored and regulated by periodic inspections and standardised reports alone",
-    "best_quote_zh": "高风险、快速变化、复杂的行业无法仅通过定期检查和标准化报告进行监控和监管"
-  },
-  {
-    "id": 251,
-    "title": "The Battle for One of the Richest and Smallest Counties in Texas",
-    "title_zh": "争夺得克萨斯州最富裕最小县的战斗",
-    "source": "The New Yorker",
-    "link": "https://www.newyorker.com/news/letter-from-the-southwest/the-battle-for-one-of-the-richest-and-smallest-counties-in-texas",
-    "tags": [
-      "analyze",
-      "politics",
-      "society",
-      "controversial"
-    ],
-    "tags_zh": [
-      "分析",
-      "政治时事",
-      "社会议题",
-      "争议观点"
-    ],
-    "date": "2026-01-21",
-    "summary_en": "Rachel Monroe's piece on Loving County, Texas, offers a captivating glimpse into the intense, long-standing power struggles within one of America's least populated and wealthiest counties. The county's sparse population and vast oil wealth make its political control a coveted prize, leading to decades of feuding among a few influential families. The recent influx of followers of a hustle-culture influencer, Malcolm Tanner, adds a new layer of complexity to the ongoing battles. This situation highlights the enduring appeal of power and the lengths to which people will go to secure it, even in the most isolated and unforgiving landscapes. The article also sheds light on the psychological dynamics of abuse and the cyclical nature of family power struggles, making it a compelling study of human behavior and political intrigue.",
-    "summary_zh": "莱切尔·蒙罗的文章揭示了德克萨斯州洛宾县内部激烈的权力斗争。这个美国人口最少但最富裕的县，其政治控制权成为几个有影响力的家庭争夺的目标，导致了长达数十年的争斗。近期，一位名叫马尔科姆·坦纳的励志文化领袖的追随者涌入，为这场斗争增添了新的变数。文章揭示了权力的持久吸引力及人们为争夺它所采取的极端手段，即使是在最偏僻和艰难的环境中。",
-    "best_quote_en": "There’s not anything else to occupy people.",
-    "best_quote_zh": "这里没有其他事可做来打发时间。"
-  },
-  {
     "id": 252,
     "title": "Sandcastles",
     "title_zh": "沙堡",
@@ -2324,5 +2208,118 @@
     "summary_zh": "这篇文章深入剖析了社交媒体上流行的‘抗组胺药疗法’，探讨其在缓解PMDD和更年期症状中的可行性。专家指出，尽管激素波动与组胺释放存在生物学关联，但缺乏坚实证据支持该方法。文章揭示了症状诊断的复杂性，以及个体化治疗在女性健康研究中的重要性。",
     "best_quote_en": "When people are suffering from bothersome symptoms, and the strategies offered to them don't seem to help, it makes sense for them to look elsewhere.",
     "best_quote_zh": "当人们因困扰的症状而苦恼时，已有的疗法没有效果，他们寻找其他方案自然合理。"
+  },
+  {
+    "id": 347,
+    "title": "In praise of zealotry",
+    "title_zh": "赞美偏执",
+    "model_used": "poolside/laguna-xs-2.1:free",
+    "source": "Aeon",
+    "link": "https://aeon.co/essays/polite-debate-has-privilege-the-marginalised-need-zealotry",
+    "tags": [
+      "inspire",
+      "society",
+      "controversial"
+    ],
+    "tags_zh": [
+      "启发",
+      "社会议题",
+      "争议观点"
+    ],
+    "date": "2026-08-18",
+    "summary_en": "This remarkable essay examines the revolutionary political philosophy of 18th-century women Mary Astell and Catharine Macaulay, who defiantly embraced 'zealotry' as a legitimate form of political engagement. Through their critiques of prominent male theorists like Francis Atterbury, Edmund Burke, and David Hume, the analysis reveals how mainstream political theory sought to tame partisanship by demanding politeness, moderation, and reasonableness—virtues that inherently excluded marginalized voices. Astell and Macaulay's zealous advocacy emerged not from partisan commitment but from their positionality as women denied formal political participation. Their 'righteous zeal' served as both resistance mechanism and epistemological advantage, offering superior insight from political marginalization. The essay's contemporary relevance lies in its critique of modern calls for moderate political discourse, demonstrating how affective polarization—the refusal to engage with opponents—poses greater threat than ideological disagreement itself. Their argument that inclusion requires embracing, not silencing, zealous voices provides crucial insights for democratic theory and contemporary political discourse.",
+    "summary_zh": "这篇引人深思的论文揭示了18世纪两位女性政治思想家玛丽·阿斯特尔和卡萨琳·麦克奥拉尔的颠覆性政治哲学。她们勇敢拥抱'偏执'作为合法的政治参与方式。在批判当时主流男性政治理论家后，论文揭示了如何通过要求礼貌、温和和理性来驯服党派主义。阿斯特尔等人的'正义偏执'源于她们作为被排除在正式政治参与之外的女性的身份。她们的'正义偏执'不仅是抵抗机制，更是政治边缘化位置所带来的认知优势。论文针对现代呼吁温和政治话语的倾向，阐明情感极化比意识形态分歧更威胁民主讨论。她们证明，拥抱而非压制热情声音，才是实现真正政治包容的关键。",
+    "best_quote_en": "It is affective polarisation, not disagreement itself, that actually threatens political debate. Righteous zeal can combat a more worrying form of polarisation, affective polarisation – the refusal to engage with one's opponents at all.",
+    "best_quote_zh": "情感极化而非分歧本身才是实际威胁政治辩论的根本原因。正义的偏执反而可以驾驭更令人担忧的极化形式——情感极化，即拒绝与对手进行任何互动。"
+  },
+  {
+    "id": 348,
+    "title": "7 Summer Traditions Kids Today Will Never Experience",
+    "title_zh": "当今孩子们永远无法体验到的7个夏季传统",
+    "model_used": "google/gemma-4-26b-a4b-it:free",
+    "source": "Mental Floss",
+    "link": "https://www.mentalfloss.com/nostalgia/summer-traditions-kids-today-wont-experience?utm_source=RSS",
+    "tags": [
+      "update",
+      "lifestyle",
+      "design"
+    ],
+    "tags_zh": [
+      "动态",
+      "生活方式",
+      "设计创意"
+    ],
+    "date": "2026-08-19",
+    "summary_en": "This evocative piece explores the profound cultural shift in childhood experiences, contrasting the analog, tactile nature of past summers with the digital saturation of the present. The author moves beyond mere nostalgia to highlight how technological advancement and environmental shifts—such as the decline of firefly populations—have fundamentally altered the sensory landscape of youth. By examining rituals like racing the streetlights or the tactile excitement of a Blockbuster trip, the text invites a critical reflection on what is lost when 'unplugged' freedom is replaced by algorithmic engagement. It suggests that the essence of these traditions lay in their unpredictability and physical presence, elements that are increasingly rare in a hyper-connected, supervised world. The piece serves as a poignant meditation on the evolution of human connection and the quiet disappearance of unmonitored play.",
+    "summary_zh": "这篇文章不仅是对往昔岁月的怀旧，更是一次对技术如何重塑人类童年体验的深刻观察。从“追逐路灯”的自由到“寻找萤火虫”的自然奇迹，作者敏锐地捕捉到了模拟时代与数字时代之间的断裂。这种转变不仅是技术进步的结果，也包含了环境变迁带来的感官丧失。文章引发了我们的深思：当屏幕的微光取代了夏夜的自然之光，我们在获得便利的同时，是否也失去了那种无拘无束、与现实世界进行深度触觉互动的纯粹快乐？",
+    "best_quote_en": "The distracting glow of our screens isn’t the only reason for the shift: firefly populations have steadily declined over the years, making that soft summer light harder to spot.",
+    "best_quote_zh": "屏幕的干扰光并非导致这种转变的唯一原因：多年来萤火虫的数量一直在稳步下降，这使得那种柔和的夏日微光变得越来越难以寻觅。"
+  },
+  {
+    "id": 349,
+    "title": "Nayib Bukele’s Content Machine Is Reshaping Latin America",
+    "title_zh": "武克尔的內容機器正在重塑拉丁美洲",
+    "model_used": "poolside/laguna-s-2.1:free",
+    "source": "The New Yorker",
+    "link": "https://www.newyorker.com/news/the-lede/nayib-bukeles-content-machine-is-reshaping-latin-america",
+    "tags": [
+      "update",
+      "politics",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "动态",
+      "政治时事",
+      "未来预测"
+    ],
+    "date": "2026-08-18",
+    "summary_en": "This article examines how Nayib Bukele’s media-savvy authoritarianism has transcended El Salvador’s borders to become a regional playbook. Through a mix of state propaganda, viral content, and theatrical security measures like the CECOT mega-prison, Bukele has manufactured an international brand of right-wing populism that prioritizes order over democracy. The piece traces how this model influenced recent presidential elections in Colombia, Ecuador, Costa Rica, and Peru, where candidates adopted Bukele’s aesthetics, rhetoric, and hardline tactics. The analysis reveals a troubling feedback loop: leaders who once faced democratic constraints now emulate Bukele’s success, while the U.S. and other regional powers struggle to respond effectively. The author’s on-the-ground observations in Medellín illustrate how Bukele’s narrative dominates popular imagination, even among those who disagree with his methods. The deeper concern is not just the spread of authoritarianism, but the normalization of governance through spectacle, where perception trumps accountability and security justifies any erosion of civil liberties.",
+    "summary_zh": "武克尔靠內容機器與極權政治重塑拉丁美洲，他的安全國家敘事成為地區右翼-populist的模板，美國卻難以有效反制，顯示民主與秩序之間的兩難。",
+    "best_quote_en": "Bukele is 'what most Latin Americans, whose lives are more and more determined by criminal organizations, wish they had: an efficient leader with enough courage to solve their main security problems.'",
+    "best_quote_zh": "提到武克尔時，有哥倫比亞人說：‘哎喲，我們多希望有這樣一位總統啊。’"
+  },
+  {
+    "id": 350,
+    "title": "The World Famous Gopher Hole Museum",
+    "title_zh": "世界著名的地鼠洞博物馆",
+    "model_used": "cohere/north-mini-code:free",
+    "source": "Aeon",
+    "link": "https://aeon.co/videos/torrington-has-some-240-residents-and-one-unusual-tourist-attraction",
+    "tags": [
+      "analyze",
+      "lifestyle"
+    ],
+    "tags_zh": [
+      "分析",
+      "生活方式"
+    ],
+    "date": "2026-08-17",
+    "summary_en": "This charming documentary captures the essence of Torrington, a small Alberta hamlet, through its quirky World Famous Gopher Hole Museum. The film follows long-time curator Dianne Kurta as she guides viewers through taxidermied ground squirrel dioramas that recreate the town's bygone era. As Kurta steps back from her role due to health issues, the narrative evolves from a whimsical small-town portrait into a poignant meditation on memory, legacy, and inevitable change. The museum, opened in 1996, serves as a unique repository of local history, preserving the spirit of a community that once thrived with shops and gathering places. Through Kurta's perspective, the film explores themes of preservation, the passage of time, and the human desire to be remembered. This work stands as a testament to how small communities find creative ways to celebrate and document their unique identities, transforming what might seem ordinary into something extraordinary and deeply moving.",
+    "summary_zh": "这部微电影以奇特的视角描绘了加拿大阿尔伯塔省特林顿这个小村庄，以及它核心机构——世界著名的地鼠洞博物馆。博物馆于1996年开放，以精心制作的理查森地松鼠标本和手工 Diorama 再现了小镇过去的场景，包括许多商店和聚会场所。电影的解说员是迪安·库尔塔，她是博物馆的长期馆长，在拍摄时因健康问题正在退居二线。随着她展示描绘不再存在的 Torrington 的 Diorama，电影从一个古怪的小镇肖像转变为对记忆和被铭记的挣扎以及不可避免的变化的沉思。这部作品是对如何让小社区找到创造性方式来庆祝和记录其独特身份的深刻反思，展示了如何将平凡事物转变为非凡和感人的事物。",
+    "best_quote_en": "The museum is a testament to a community's love for its own story, even when that story is as small as a gopher hole.",
+    "best_quote_zh": "这个博物馆是这个社区热爱自己故事的证明，即使那个故事就像一个地鼠洞一样微小。"
+  },
+  {
+    "id": 351,
+    "title": "5 Medieval Jobs That Never Really Disappeared",
+    "title_zh": "5种从未真正消失的中世纪职业",
+    "model_used": "poolside/laguna-xs-2.1:free",
+    "source": "Mental Floss",
+    "link": "https://www.mentalfloss.com/history/medieval-jobs-never-disappeared?utm_source=RSS",
+    "tags": [
+      "learn",
+      "society",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "学习",
+      "社会议题",
+      "数据驱动"
+    ],
+    "date": "2026-08-19",
+    "summary_en": "This article explores the fascinating persistence of medieval occupations into modern times, revealing how fundamental human needs transcend historical epochs. Through an engaging historical lens, the piece demonstrates that agriculture, craftsmanship, brewing, butchery, and baking have evolved rather than vanished, adapting to contemporary economies while maintaining their essential functions. The author skillfully connects past and present, showing how 80% of medieval Europe's population worked in agriculture—a stark contrast to today's service-based economies. What makes this analysis compelling is its revelation that guild systems, quality control, and specialization—hallmarks of medieval trade—remain embedded in modern industries. The article doesn't merely catalog jobs; it illuminates the remarkable continuity of human labor patterns and the inexorable march of adaptation. As someone who has studied labor history, I find it particularly striking how these occupations serve as temporal bridges, connecting our daily lives to centuries of accumulated human ingenuity and necessity.",
+    "summary_zh": "这篇文章通过微妙的历史叙事，揭示了中世纪职业如何在时代洪流中坚持存在。农业、手工业、酿造、屠宰和烘焙不仅未消失，更以适应现代需求的形态延续。作者不止于罗列职业，更洞察了人类劳动模式的惊人连续性——从中世纪80%的农业依赖到今日的服务经济。这种职业的持久存在是人类适应性与专业化的缩影，让我们看到历史在当下生根发芽。",
+    "best_quote_en": "While today's corporate structure hardly resembles the daily lives of medieval populations, many jobs from that era still persist in 2026, merely adapted to modern industries and technologies.",
+    "best_quote_zh": "虽然今天的公司结构与中世纪人民的日常生活肥伤相似，但许多来自那个时代的职业仍在2026年持续存在，仅是适应了现代产业和技术而已。"
   }
 ]
