@@ -1,125 +1,5 @@
 [
   {
-    "id": 252,
-    "title": "Sandcastles",
-    "title_zh": "沙堡",
-    "source": "Aeon",
-    "link": "https://aeon.co/videos/from-michigan-to-singapore-a-meditation-on-dreams-built-on-sand?utm_source=rss-feed",
-    "tags": [
-      "analyze",
-      "science",
-      "environment",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "分析",
-      "科学研究",
-      "环境科学",
-      "数据驱动"
-    ],
-    "date": "2026-01-22",
-    "summary_en": "Sandcastles is a short documentary that weaves a thoughtful narrative around two distinct Singapores: one a forgotten Michigan ghost town reclaimed by sand due to deforestation, and the other the island nation of Singapore, where rapid development and land reclamation have been sustained through sand importation. Director Carin Leong's film is a poetic exploration of the transient nature of sand and humanity's fragile relationship with the environment. Through stunning aerial shots and intimate interviews, Leong contrasts the vast scale of Singapore's land reclamation projects with the personal stories of those affected by environmental change. The documentary invites viewers to reflect on the cyclical nature of development and the enduring impact of human activity on the natural world.",
-    "summary_zh": "短片《沙堡》讲述了两个截然不同的“新加坡”：一个是被沙漠吞没的美国密歇根州幽灵城镇，另一个是通过进口沙子进行大规模填海造地的新加坡。导演梁嘉仪通过宏伟的空拍镜头和深度的采访，揭示了人类与自然界关系的脆弱与复杂。这部作品不仅展现了新加坡的大规模填海造地，也反映了环境变迁对个人命运的深远影响，引发观众对发展与环境的深刻思考。",
-    "best_quote_en": "The sand dune becomes both an example of and a metaphor for humanity’s precarious relationship with the natural world.",
-    "best_quote_zh": "沙丘既是人类与自然界脆弱关系的例子，也是其象征。"
-  },
-  {
-    "id": 253,
-    "title": "Winter Storm Watch vs. Winter Storm Warning: What Everyone Gets Wrong",
-    "title_zh": "冬季风暴警报与冬季风暴警告：大家都搞错了什么",
-    "source": "Mental Floss",
-    "link": "https://www.mentalfloss.com/science/weather/winter-storm-watch-winter-storm-warning?utm_source=RSS",
-    "tags": [
-      "solve",
-      "lifestyle",
-      "design",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "解决",
-      "生活方式",
-      "设计创意",
-      "未来预测"
-    ],
-    "date": "2026-01-22",
-    "summary_en": "The article 'Winter Storm Watch vs. Winter Storm Warning: What Everyone Gets Wrong' clarifies the distinction between these two weather alerts, which are often confused. A Winter Storm Watch indicates potential hazardous weather conditions that may develop, typically issued 24 hours in advance, allowing time for preparation without panic. It suggests monitoring forecasts and reviewing plans. In contrast, a Winter Storm Warning signifies imminent or occurring dangerous winter weather, requiring immediate action like postponing travel and taking precautions. The article emphasizes the importance of understanding these alerts to stay safe and avoid stress during winter. It also notes that local standards for these alerts vary by region, highlighting the need for situational awareness.",
-    "summary_zh": "《冬季风暴警报与冬季风暴警告：大家都搞错了什么》一文澄清了这两种天气警报的区别。冬季风暴警报提示可能的危险天气，通常提前24小时发布，允许有时间准备而不至于慌乱。它建议关注天气预报并审视计划。相反，冬季风暴警告表示即将到来或已经发生的危险冬季天气，需要立即采取行动，如推迟旅行和采取预防措施。文章强调理解这些警报的重要性，以确保冬季安全，避免压力。它还指出，这些警报的地方标准因地区而异，突显了需要具体情况具体分析的必要性。",
-    "best_quote_en": "A Winter Storm Watch means severe conditions are possible, confidence in the forecast is growing, and it's time to start thinking ahead.",
-    "best_quote_zh": "冬季风暴警报意味着可能会出现恶劣天气，天气预报的信心正在增加，是时候开始未雨绸缪了。"
-  },
-  {
-    "id": 254,
-    "title": "Value Learning Needs a Low-Dimensional Bottleneck",
-    "title_zh": "价值学习需要低维度瓶颈",
-    "source": "LessWrong",
-    "link": "https://www.lesswrong.com/posts/XrpiQcGnqeLKLMhbD/value-learning-needs-a-low-dimensional-bottleneck",
-    "tags": [
-      "analyze",
-      "ai-research",
-      "science",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "分析",
-      "AI研究",
-      "科学研究",
-      "数据驱动"
-    ],
-    "date": "2026-01-23",
-    "summary_en": "The article delves into the complexity of human values and their implications for AI alignment. The author argues that human values are alignable due to evolutionary compression into low-dimensional bottlenecks, making them more learnable. This perspective challenges the notion that inconsistent values make alignment harder, suggesting instead that inconsistency could be a result of compression. The author supports this with calculations and references to inverse reinforcement learning, highlighting the potential tractability of value learning with a low-rank projection. The piece also discusses the practical implications for AI safety and the potential for testing the dimensionality of human values.",
-    "summary_zh": "文章探讨了人类价值的复杂性及其对AI对齐的影响。作者认为，由于进化压缩，人类价值可以通过低维度瓶颈对齐，使其更具可学性。这种观点挑战了不一致的价值使对齐更难的观点，认为不一致可能是压缩的结果。作者通过计算和逆强化学习的参考，支持这一观点，突出了低秩投影下价值学习的潜在可行性。文章还讨论了AI安全的实际影响以及测试人类价值维度的可能性。",
-    "best_quote_en": "Human values are alignable only because evolution compressed motivation into a small number of low-bandwidth bottlenecks",
-    "best_quote_zh": "人类价值之所以可以对齐，是因为进化将动机压缩到少数低带宽的瓶颈中"
-  },
-  {
-    "id": 255,
-    "title": "It’s Time to Talk About Donald Trump’s Logorrhea",
-    "title_zh": "谈谈唐纳德·特朗普的多言症",
-    "source": "The New Yorker",
-    "link": "https://www.newyorker.com/news/letter-from-trumps-washington/its-time-to-talk-about-donald-trumps-logorrhea",
-    "tags": [
-      "analyze",
-      "politics",
-      "leadership",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "分析",
-      "政治时事",
-      "领导管理",
-      "数据驱动"
-    ],
-    "date": "2026-01-23",
-    "summary_en": "Susan B. Glasser's article delves into the alarming increase in President Trump's verbosity, using data to illustrate his excessive talking. She argues that his endless speeches reveal his character flaws and lack of discipline. Trump's logorrhea is not just a personal quirk but a dangerous trait in a leader, especially one whose words can shape global policies. The article highlights Trump's recent actions, such as his 'Board of Peace' and threats over Greenland, to show how his words translate into consequential actions. Glasser also notes the stark reactions from European leaders, who are less desensitized to Trump's behavior. The piece serves as a wake-up call, urging us to confront the reality of having a leader who struggles with self-control and rational communication.",
-    "summary_zh": "苏珊·B·格拉瑟的文章揭示了特朗普总统话语量的显著增加，数据显示他在公开场合的言论量大幅增长。她认为，特朗普的多言症暴露了他缺乏自律和性格缺陷。这不仅是个人问题，更是领导者的危险特质，特别是其言论能影响全球政策。文章通过特朗普最近的行动，如他的“和平委员会”和对格陵兰的威胁，展示了其言论如何转化为实际行动。格拉瑟还提到欧洲领导人的强烈反应，他们对特朗普的行为并未麻木。这篇文章是一次警醒，促使我们直面一个缺乏自控和理性沟通能力的领导者的现实。",
-    "best_quote_en": "It is remarkable how a man cannot summarize his thoughts in even the most general sort of way without betraying himself completely",
-    "best_quote_zh": "一个男人即使用最一般的方式概括自己的想法，也会完全暴露自己"
-  },
-  {
-    "id": 256,
-    "title": "Most Popular City/Europe Rail Travel Trends/Mexican Sites Admission Hikes",
-    "title_zh": "最受欢迎的城市/欧洲铁路旅行趋势/墨西哥景点门票涨价",
-    "source": "Kevin Kelly",
-    "link": "https://kk.org/cooltools/most-popular-city-europe-rail-travel-trends-mexican-sites-admission-hikes/",
-    "tags": [
-      "update",
-      "politics",
-      "design",
-      "controversial"
-    ],
-    "tags_zh": [
-      "动态",
-      "政治时事",
-      "设计创意",
-      "争议观点"
-    ],
-    "date": "2026-01-22",
-    "summary_en": "This article provides a snapshot of global travel trends, highlighting Bangkok as the most visited city in 2025, with over 30 million arrivals. It contrasts this with Paris, which, despite being deemed the most attractive city, ranks ninth in arrivals. The piece also delves into the travel patterns of US and Canadian rail travelers in Europe, noting a preference for multi-city trips and the dominance of the Barcelona-Madrid corridor. Additionally, it discusses the reluctance of experienced travelers to use AI for trip planning, citing comfort and trust issues. The article concludes with a significant update on Mexico's archaeological site admission prices, which have doubled for foreigners, affecting popular destinations like Chichen Itza and Teotihuacan.",
-    "summary_zh": "这篇文章展示了全球旅游趋势，2025年曼谷再次成为最受欢迎的城市，接待超过3000万游客。而巴黎尽管被评为最具吸引力的城市，但在游客到达数量上却排第九。文章还探讨了美国和加拿大游客在欧洲的铁路旅行模式，他们更倾向于多城市游，并以巴塞罗那到马德里的线路为主。此外，文章还提到有经验的旅行者不愿意使用AI规划旅行，原因是信任和舒适度问题。最后，文章更新了墨西哥考古遗址的门票价格，对外国游客门票价格翻倍，影响了奇琴伊察和特奥蒂瓦坎等热门景点。",
-    "best_quote_en": "Experienced travelers may be fine with asking ChatGPT who won the best picture Oscar in 2019, but they’re not about to let the computer bots plan their vacation.",
-    "best_quote_zh": "有经验的旅行者可能会问ChatGPT 2019年最佳影片奥斯卡的得主是谁，但他们并不打算让电脑机器人来安排他们的假期。"
-  },
-  {
     "id": 257,
     "title": "Monster Neutrino Could Be a Messenger of Ancient Black Holes",
     "title_zh": "怪兽中微子可能是古代黑洞的信使",
@@ -2321,5 +2201,120 @@
     "summary_zh": "这篇文章通过微妙的历史叙事，揭示了中世纪职业如何在时代洪流中坚持存在。农业、手工业、酿造、屠宰和烘焙不仅未消失，更以适应现代需求的形态延续。作者不止于罗列职业，更洞察了人类劳动模式的惊人连续性——从中世纪80%的农业依赖到今日的服务经济。这种职业的持久存在是人类适应性与专业化的缩影，让我们看到历史在当下生根发芽。",
     "best_quote_en": "While today's corporate structure hardly resembles the daily lives of medieval populations, many jobs from that era still persist in 2026, merely adapted to modern industries and technologies.",
     "best_quote_zh": "虽然今天的公司结构与中世纪人民的日常生活肥伤相似，但许多来自那个时代的职业仍在2026年持续存在，仅是适应了现代产业和技术而已。"
+  },
+  {
+    "id": 352,
+    "title": "What’s in my NOW? — Keith Kahn-Harris",
+    "title_zh": "我的 NOW 里有什么？—— Keith Kahn-Harris",
+    "model_used": "poolside/laguna-xs-2.1:free",
+    "source": "Kevin Kelly",
+    "link": "https://kk.org/cooltools/whats-in-my-now-keith-kahn-harris/",
+    "tags": [
+      "analyze",
+      "science",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "分析",
+      "科学研究",
+      "未来预测"
+    ],
+    "date": "2026-08-19",
+    "summary_en": "This personal essay by sociologist Keith Kahn-Harris reveals how fundamental lifestyle shifts—weight loss medication, new productivity tools, and environmental changes—can catalyze profound transformation in daily life and creative output. The author dissects his 'NOW' across three categories: physical tools (mechanical keyboard, fountain pen, yogurt), digital systems (Fedora Linux, Obsidian), and invisible changes (early morning awakening). What makes this compelling is how he connects material culture to consciousness—the mechanical keyboard isn't just hardware, it's described as a 'gorgeous, synaesthetic experience' that enhances his writing. The piece demonstrates how external tools can reshape internal rhythms, challenging the assumption that technology merely mediates human activity rather than fundamentally transforming it. Kahn-Harris's background in heavy metal culture and Jewish communities informs his unique perspective on how seemingly mundane objects become sites of meaning-making and identity formation.",
+    "summary_zh": " sociologist Keith Kahn-Harris在《我的 NOW 里有什么？》中展现了体重药物、生产力工具和环境变革如何深刻改变日常生活与创造力。他将NOW划分为物理工具、数字系统与隐性变化三类。值得探讨的是，机械键盘不仅是硬件，更是被描述为'听觉与触觉的奇妙体验'，正是这种物质文化如何从物质层面重塑意识节奏，让日常工具成为意义建构的场域。",
+    "best_quote_en": "It's no exaggeration to say that my discovery of mechanical keyboard culture over the last year has made my life much sweeter. It has also helped me as a writer. I never knew that typing could be a gorgeous, synaesthetic experience; a feat for the ears and the hands.",
+    "best_quote_zh": "不夸张地说，过去一年我发现机械键盘文化让我的生活变得更甜美了。它也帮助了我作为作家。我从未想过打字会成为一种美丽的感官体验；一种来自耳朵和手部的奇迹。"
+  },
+  {
+    "id": 353,
+    "title": "Please Fund More Science",
+    "title_zh": "请资助更多科学",
+    "model_used": "poolside/laguna-xs-2.1:free",
+    "source": "Sam Altman",
+    "link": "https://blog.samaltman.com/please-fund-more-science",
+    "tags": [
+      "solve",
+      "science",
+      "controversial"
+    ],
+    "tags_zh": [
+      "解决",
+      "科学研究",
+      "争议观点"
+    ],
+    "date": "2020-03-30",
+    "summary_en": "This compelling piece argues for increased scientific investment during the COVID-19 pandemic, identifying three potential exit strategies: vaccination, treatment, or widespread testing and mitigation. The author critiques insufficient government funding despite remarkable private sector innovation acceleration—biotech companies and research labs operating at over 10x normal speed. The core thesis is that scientists possess the solutions but require financial resources and strategic connections. The piece functions as both urgent appeal and practical guide for investors and philanthropists, highlighting unprecedented collaborative ferocity in scientific problem-solving. It emphasizes that this represents a watershed moment for global pandemic preparedness, suggesting that funding scientific efforts now will yield long-term security benefits. The author finds personal resonance in the rapid learning curve and the meaningful impact of direct scientific investment, positioning it as both practically valuable and emotionally satisfying for capital allocators.",
+    "summary_zh": "这篇文章呼吁在疫情期间增加科学投资，指出疫情三条出路：疫苗、治疗或大规模检测。作者称赞私营部门科学创新加速超过十倍，但批评政府资金不足。核心论点是科学家需要资金和资源才能解决问题。这不仅是紧急呼吁，更是为投资者提供的实用指南，强调当前科学界前所未有的协作精神。这可能是改变全球防控新病毒的历史节点，值得投身科学事业。",
+    "best_quote_en": "Scientists can get us out of this. What they need are money and connections.",
+    "best_quote_zh": "科学家能让局面改变。他们需要的是资金和资源。"
+  },
+  {
+    "id": 354,
+    "title": "Using AI to Increase Your Intelligence & Enrich Humanity | Dr. Fei-Fei Li",
+    "title_zh": "利用 AI 提升人类智力与丰富人性 | 李飞飞博士访谈",
+    "model_used": "nvidia/nemotron-3-ultra-550b-a55b:free",
+    "source": "Huberman Lab",
+    "link": "https://www.hubermanlab.com/episode/using-ai-to-increase-your-intelligence-and-enrich-humanity-fei-fei-li",
+    "tags": [
+      "analyze",
+      "ai-research",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "分析",
+      "AI研究",
+      "未来预测"
+    ],
+    "date": "2026-08-10",
+    "summary_en": "This conversation with Dr. Fei-Fei Li transcends typical AI discourse by framing technology not as a replacement for human cognition but as a catalyst for expanding it. Li draws a crucial distinction: AI excels at pattern recognition and prediction, yet lacks the embodied intuition, motivational drives, and contextual wisdom that define human intelligence. Her concept of 'spatial intelligence' — the next frontier for robotics — reveals how AI can learn to navigate and manipulate the physical world, but she insists this must remain in service of human agency. The most provocative insight? That our creativity stems from vulnerability, mortality, and lived experience — qualities no model can simulate. Li's human-centered AI framework demands we design systems that amplify our uniquely human traits: curiosity, ethical judgment, and the capacity for meaning-making. For anyone building, regulating, or simply living with AI, this reframes the central question from 'what can AI do?' to 'what should remain irreducibly human?'",
+    "summary_zh": "李飞飞将 AI 重新定位为人类智力的延伸而非替代，这比单纯讨论技术能力更具深度。她敏锐地指出：AI 擅长模式识别，却缺乏具身直觉、动机驱动与情境智慧——这些正是人类智能的核心。\"空间智能\"让机器理解物理世界，但必须服务于人的能动性。最震撼的洞见在于：创造力源于脆弱性、有限性与亲历体验，这是算法永远无法模拟的。以人为本的 AI 框架要求我们守护好奇心、伦理判断与赋予意义的能力。这场对话将核心命题从\"AI 能做什么\"转向\"什么应当永远保留为人类专属\"，值得每个建设者、监管者与使用者深思。",
+    "best_quote_en": "Your intuition and unique experiences are not replicable by AI or machines. Creativity comes from our vulnerability, our mortality, our lived experience — these are the things that make us human and that AI cannot simulate.",
+    "best_quote_zh": "你的直觉和独特经历无法被 AI 或机器复制。创造力源于我们的脆弱性、有限性与亲身经历——这些让我们成为人，也是 AI 永远无法模拟的。"
+  },
+  {
+    "id": 355,
+    "title": "Weekly Review",
+    "title_zh": "每周回顾",
+    "model_used": "google/gemma-4-26b-a4b-it:free",
+    "source": "Harper’s Magazine",
+    "link": "https://harpers.org/2026/08/weekly-review-houthi-strike-uss-abraham-lincoln-overboard-circumnavigate-arctic-ocean-archaeological-pool-palestinian-spring-ice-shock-gloves-shake-shack-robbery-paintings-recovered/",
+    "tags": [
+      "analyze",
+      "politics",
+      "education",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "分析",
+      "政治时事",
+      "教育学习",
+      "未来预测"
+    ],
+    "date": "2026-08-18",
+    "summary_en": "This weekly digest presents a fragmented yet profound tapestry of global volatility, spanning geopolitical conflicts, environmental shifts, and societal tensions. From the escalating maritime tensions in the Red Sea and the political friction within the US military to the profound implications of melting Arctic ice opening new trade routes, the content highlights a world in rapid transition. The report underscores a recurring theme of institutional tension: the clash between religious freedom and state secularism in Iowa, the ethical dilemmas of AI-related activism and surveillance via smart glasses, and the escalating humanitarian crises in Gaza and Ceuta. Notably, the intersection of climate change and geopolitics—such as China's Arctic ambitions amidst reduced US environmental funding—suggests a shifting global order where ecological shifts dictate strategic advantages. Ultimately, the collection serves as a critical lens through which to view the chaotic convergence of technological advancement, environmental instability, and the persistent friction of human rights and governance.",
+    "summary_zh": "这份周报呈现了一个充满动荡与剧变的全球图景。从红海地区的军事冲突到北极冰川融化引发的航运格局重塑，内容揭示了地缘政治与气候变化如何交织并驱动全球战略转向。文中不仅触及了美军内部的士气危机与移民问题，还深入探讨了技术伦理的灰色地带——如智能眼镜引发的隐私侵犯以及AI风险抗议者的法律困境。这种碎片化的信息组合在一起，勾勒出一个在技术进步、资源争夺与社会价值观冲突中不断震荡的复杂世界，提醒我们关注制度在极端环境与技术冲击下的脆弱性。",
+    "best_quote_en": "China established the first regularly scheduled transits through a shipping route in the Arctic Ocean, made possible by melting ice, which bypasses the blocked Strait of Hormuz.",
+    "best_quote_zh": "随着冰川融化，中国开通了首条穿越北冰洋的定期航线，从而避开了被封锁的霍尔木兹海峡。"
+  },
+  {
+    "id": 356,
+    "title": "Globle answer today – here’s the answer and hints for August 20",
+    "title_zh": "Globle答案今天 – 这里是8月20日的答案和提示",
+    "model_used": "poolside/laguna-xs-2.1:free",
+    "source": "NME",
+    "link": "https://www.nme.com/guides/gaming-guides/globle-hint-answer-today-3213991?utm_source=rss&utm_medium=rss&utm_campaign=globle-hint-answer-today",
+    "tags": [
+      "solve",
+      "gaming"
+    ],
+    "tags_zh": [
+      "解决",
+      "游戏开发"
+    ],
+    "date": "2026-08-19",
+    "summary_en": "This article provides the solution and strategic hints for today's Globle geography puzzle, a challenging variant of Wordle that tests geographical knowledge. Unlike Wordle's six-guess limit, Globle offers unlimited attempts, making it accessible yet intellectually demanding even for geography experts. The piece outlines gameplay mechanics: players guess countries and receive distance-based color feedback, with deeper colors indicating proximity to the correct answer. Strategic advice includes starting with large, border-sharing nations and experimenting across continents. Today's hints progressively narrow the field from East Asia to countries beginning with 'C' to the definitive clue of Beijing as capital, revealing China as the answer. The article also maintains an archive of previous solutions, creating a valuable resource for pattern recognition and strategic development. This content serves casual puzzle enthusiasts, geography learners, and competitive streak maintainers seeking both immediate solutions and broader gameplay intelligence.",
+    "summary_zh": "这篇文章为Globle地理拼图提供了当天的解决方案和策略提示，这款类似Wordle但更具挑战性的游戏考验地理知识。与Wordle不同，Globle允许无限次尝试，虽然开放但对地理专家同样考验。文章解释了游戏机制：玩家猜测国家获取距离反馈，颜色深浅表示靠近程度。建议从大国开始，跨洲尝试以快速缩小范围。今日提示从东亚、以'C'开头到首都北京，最终答案是中国。文章还保留了历史解答档案，帮助用户识别规律、优化策略。这为拼图爱好者和地理学习者提供了即时解答与深度策略指导。",
+    "best_quote_en": "The deeper the colour, the closer you are. After a couple of guesses you will slowly be able to narrow down the answer.",
+    "best_quote_zh": "颜色越深，你越接近答案。经过几次猜测后，你会慢慢缩小答案范围。"
   }
 ]
