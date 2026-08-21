@@ -1,125 +1,5 @@
 [
   {
-    "id": 257,
-    "title": "Monster Neutrino Could Be a Messenger of Ancient Black Holes",
-    "title_zh": "怪兽中微子可能是古代黑洞的信使",
-    "source": "Quanta Magazine",
-    "link": "https://www.quantamagazine.org/monster-neutrino-could-be-a-messenger-of-ancient-black-holes-20260123/",
-    "tags": [
-      "update",
-      "ai-research",
-      "science",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "动态",
-      "AI研究",
-      "科学研究",
-      "数据驱动"
-    ],
-    "date": "2026-01-23",
-    "summary_en": "A recent detection of an exceptionally energetic neutrino in the Mediterranean Sea has sparked intriguing theories about its origin. The neutrino, observed by the KM3NET detector, is 35 times more energetic than any previously recorded. While it could have originated from a blazar or a background source of high-energy particles, physicist David Kaiser proposed a more exotic possibility: the neutrino might have come from an exploding primordial black hole. These hypothetical black holes, which could have formed before the first atoms, are of great interest because they might constitute dark matter. Kaiser's suggestion, though speculative, highlights the need for further exploration into the nature of these ancient cosmic entities and their potential role in shaping our understanding of the universe.",
-    "summary_zh": "地中海近海的中微子探测器KM3NET最近探测到一个能量异常巨大的中微子，引发了关于其起源的激烈讨论。该中微子的能量是之前记录到的最大能量中微子的35倍，可能来自一个高活跃的星系，也可能是宇宙中高能粒子的背景源。然而，麻省理工学院的物理学家大卫·凯泽提出了一个更为大胆的假设：该中微子可能来自爆炸中的原始黑洞。这些假想中的黑洞可能在宇宙诞生的第一时刻就已形成，研究它们对于揭示暗物质的本质至关重要。凯泽的假设虽然充满了不确定性，但却揭示了探索这些古老宇宙实体及其潜在作用的紧迫性。",
-    "best_quote_en": "The idea that the neutrino came from a primordial black hole is a long shot; Kaiser said he was 'half-joking' when he suggested it.",
-    "best_quote_zh": "中微子来自原始黑洞的想法是一个长途跋涉；凯泽说，他建议时是“半开玩笑”"
-  },
-  {
-    "id": 258,
-    "title": "Computers can’t surprise",
-    "title_zh": "计算机无法惊讶",
-    "source": "Aeon",
-    "link": "https://aeon.co/essays/sure-ai-can-do-writing-but-memoir-not-so-much?utm_source=rss-feed",
-    "tags": [
-      "inspire",
-      "ai-research",
-      "science",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "启发",
-      "AI研究",
-      "科学研究",
-      "数据驱动"
-    ],
-    "date": "2026-01-23",
-    "summary_en": "The essay 'Computers can’t surprise' delves into the limitations of artificial intelligence, particularly in the realm of creative writing and artistic expression. The author explores Alan Turing's seminal paper, 'Computing Machinery and Intelligence,' which introduced the Turing Test to determine if machines can think. The essay argues that while machines can mimic human creativity to some extent, they lack the ability to truly surprise or innovate. The author discusses the historical context of creative writing and the evolution of machine learning, highlighting the enduring value of human originality and emotional depth in art. The piece concludes with a call to embrace human creativity as a form of resistance against the encroachment of AI, emphasizing the unique power of human memory and personal experience in artistic expression.",
-    "summary_zh": "这篇文章探讨了人工智能在创意写作和艺术表达中的局限性。作者通过阿兰·图灵的经典论文《计算机与智能》，引出了图灵测试，用以判断机器是否能够思考。文章认为，尽管机器可以模仿人类的创造力，但它们缺乏真正的惊奇和创新能力。作者讨论了创意写作的历史背景及机器学习的发展，强调了人类原创性和情感深度在艺术中的持久价值。文章最后呼吁拥抱人类的创造力，作为抵御人工智能侵蚀的一种方式，强调了人类记忆和个人经验在艺术表达中的独特力量。",
-    "best_quote_en": "Art is supposed to see the truth beyond this kind of lie, and the original creations worth defending are in a category so extraordinary, because of the intensity and authenticity of Jefferson’s ‘thoughts and emotions felt,’ that they exist in a permanent present tense.",
-    "best_quote_zh": "艺术应该超越这种谎言看到真相，而值得捍卫的原创作品属于一个如此非凡的类别，因为杰弗逊所描述的‘感受到的思想和情感’的强度和真实性，它们存在于永恒的现在时态中。"
-  },
-  {
-    "id": 259,
-    "title": "3 Things ‘Bridgerton’ Gets Right About the Regency Era—And 3 Things It Gets Wrong",
-    "title_zh": "《桥党人》关于乔治王朝时期的三件事做对了——和三件事做错了",
-    "source": "Mental Floss",
-    "link": "https://www.mentalfloss.com/entertainment/tv/things-bridgerton-gets-right-about-regency-era?utm_source=RSS",
-    "tags": [
-      "solve",
-      "society",
-      "design",
-      "beginner-friendly"
-    ],
-    "tags_zh": [
-      "解决",
-      "社会议题",
-      "设计创意",
-      "新手友好"
-    ],
-    "date": "2026-01-23",
-    "summary_en": "Netflix's 'Bridgerton' captivates audiences with its Regency-era glamour, but the show takes significant liberties with historical accuracy. The series correctly portrays the prevalence of scandal sheets, the reality of the 'ton,' and Queen Charlotte's debutante balls. However, it inaccurately depicts racial diversity among the elite, the style of women's corsets, and Queen Charlotte's political influence. The show's creative reimagining of history raises intriguing questions about the balance between entertainment and authenticity in period dramas. While 'Bridgerton' excels in creating a visually stunning and emotionally engaging world, its historical inaccuracies serve as a reminder of the power of storytelling in shaping public perception of the past. Viewers must navigate the fine line between enjoying a captivating narrative and critically evaluating its historical foundation.",
-    "summary_zh": "《桥党人》以乔治王朝时期的华丽装束吸引观众，但剧中对历史的描绘并不准确。该剧正确地展示了丑闻报纸的盛行、“上流社会”的真实性以及夏洛特王后的初次亮相舞会。然而，它错误地描绘了上流社会的种族多样性、女性紧身胸衣的风格以及夏洛特王后的政治影响力。该剧对历史的重新想象引发了关于娱乐与真实性之间平衡的有趣问题。尽管《桥党人》在创造一个视觉上引人入胜、情感上引人共鸣的世界方面表现出色，但其历史不准确性提醒我们讲故事在塑造公众对过去的看法方面的力量。观众必须在享受一个引人入胜的叙事和批判性评估其历史基础之间找到平衡。",
-    "best_quote_en": "Gossip columns aren't new, and Lady Whistledown's Society Papers certainly weren't invented for the sake of drama.",
-    "best_quote_zh": "丑闻报纸并不新鲜，而Lady Whistledown的社会报纸也绝不是为了戏剧而创作的。"
-  },
-  {
-    "id": 260,
-    "title": "Who is choosing your preferences- You or your Mind?",
-    "title_zh": "是谁在选择你的偏好——是你还是你的心灵？",
-    "source": "LessWrong",
-    "link": "https://www.lesswrong.com/posts/Ab64wtmXXy6x6en3A/who-is-choosing-your-preferences-you-or-your-mind",
-    "tags": [
-      "inspire",
-      "lifestyle",
-      "psychology",
-      "beginner-friendly"
-    ],
-    "tags_zh": [
-      "启发",
-      "生活方式",
-      "心理学",
-      "新手友好"
-    ],
-    "date": "2026-01-24",
-    "summary_en": "The blog post delves into the philosophical debate between the Self and the Mind, drawing from Buddhist teachings and meditation practices. It questions whether our preferences are truly ours or manipulated by our minds, suggesting that detachment from preferences may lead to liberation. The author explores the idea that the Self is an illusion, and preferences originate from the mind, potentially causing suffering if we become attached to them. The post also discusses the communicative challenges in explaining the relationship between the mind and the perceived Self, highlighting the complexities of Buddhist philosophy.",
-    "summary_zh": "这篇博客探讨了自我与心灵的哲学争论，结合佛教教义和冥想实践。它质疑我们的偏好是否真正属于自己，还是被心灵操控，暗示放下偏好可能带来解脱。作者提出自我是幻象，偏好源于心灵，若执着于它们可能带来痛苦。文章还讨论了解释心灵与感知自我关系的沟通困难，凸显了佛教哲学的复杂性。",
-    "best_quote_en": "Would it then mean that 'not having any preference' a ultimate destination or result of truly being liberated?",
-    "best_quote_zh": "难道这意味着“不有任何偏好”才是真正解脱的终极目的或结果？"
-  },
-  {
-    "id": 261,
-    "title": "The Mayor of an Occupied City",
-    "title_zh": "被占领城市的市长",
-    "source": "The New Yorker",
-    "link": "https://www.newyorker.com/news/the-political-scene/the-mayor-of-an-occupied-city",
-    "tags": [
-      "analyze",
-      "politics",
-      "science",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "分析",
-      "政治时事",
-      "科学研究",
-      "数据驱动"
-    ],
-    "date": "2026-01-23",
-    "summary_en": "The New Yorker's 'The Mayor of an Occupied City' delves into Jacob Frey's struggle to govern Minneapolis amidst an unprecedented federal ICE operation. Frey's leadership is tested as federal agents, vastly outnumbering local police, terrorize immigrant communities and provoke civil unrest. The article highlights the surreal and dangerous atmosphere created by the federal government's aggressive tactics, including the shooting of unarmed individuals and the use of tear gas against protesters. Frey's efforts to maintain public safety and advocate for his city are met with threats and obstruction from the Trump administration, illustrating the broader political tensions and racial dynamics at play.",
-    "summary_zh": "《被占领城市的市长》描述了雅各布·弗雷在联邦移民执法局大规模行动中领导明尼阿波利斯的挑战。联邦特工数量远超当地警员，导致移民社区恐慌和市民骚动。文章展现了联邦政府强硬手段下的奇异和危险氛围，包括射杀无辜者和对抗议者使用催泪瓦斯。弗雷在维护公共安全和为城市代言的努力中，面临特朗普政府的威胁和阻挠，反映了更广泛的政治紧张局势和种族动态。",
-    "best_quote_en": "I was really frustrated. I mean, one, they just shot somebody. And, two, their presence will only further inflame the situation.",
-    "best_quote_zh": "我真的很沮丧。意思是，首先，他们刚刚开枪打了人。其次，他们的存在只会进一步激化局势。"
-  },
-  {
     "id": 262,
     "title": "Dreams of the far Right",
     "title_zh": "远右翼的梦想",
@@ -2316,5 +2196,124 @@
     "summary_zh": "这篇文章为Globle地理拼图提供了当天的解决方案和策略提示，这款类似Wordle但更具挑战性的游戏考验地理知识。与Wordle不同，Globle允许无限次尝试，虽然开放但对地理专家同样考验。文章解释了游戏机制：玩家猜测国家获取距离反馈，颜色深浅表示靠近程度。建议从大国开始，跨洲尝试以快速缩小范围。今日提示从东亚、以'C'开头到首都北京，最终答案是中国。文章还保留了历史解答档案，帮助用户识别规律、优化策略。这为拼图爱好者和地理学习者提供了即时解答与深度策略指导。",
     "best_quote_en": "The deeper the colour, the closer you are. After a couple of guesses you will slowly be able to narrow down the answer.",
     "best_quote_zh": "颜色越深，你越接近答案。经过几次猜测后，你会慢慢缩小答案范围。"
+  },
+  {
+    "id": 357,
+    "title": "Wilderness, Solitude, and Creativity: Artist and Philosopher Rockwell Kent’s Century-Old Meditations on Art and Life During Seven Months on a Small Alaskan Island",
+    "title_zh": "Wilderness, Solitude, and Creativity: Artist and Philosopher Rockwell Kent’s Century-Old Meditations on Art and Life During Seven Months on a Small Alaskan Island",
+    "model_used": "nvidia/nemotron-3-nano-omni-30b-a3b-reasoning:free",
+    "source": "RogerEbert.com",
+    "link": "https://www.themarginalian.org/2026/08/19/rockwell-kent-wilderness/",
+    "tags": [
+      "inspire",
+      "education",
+      "programming",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "启发",
+      "教育学习",
+      "编程开发",
+      "未来预测"
+    ],
+    "date": "2026-08-19",
+    "summary_en": "This essay presents Rockwell Kent's profound meditations on art, life, and human essence during his seven-month solitude on a remote Alaskan island during World War I and the Spanish Flu pandemic. It reveals how Kent, a painter and philosopher disillusioned with materialism, sought existential renewal through immersion in nature's 'big plan'—finding that wilderness strips away cultural noise to reveal our essential, ancient humanity. His journal entries and artworks from this period crystallize a personal credo: that physical creation (drawing, painting) is merely a fragment of life itself, with the 'ultimate'—our spiritual essence—being the true subject. The narrative shows Kent's journey from professional frustration and societal alienation (being labeled a German spy) to finding purpose through simple living with local guide Olson, where basic needs became sacred rituals. The piece argues that true artistic and personal growth emerges not from activity but from 'quietness' where the soul expands, offering timeless wisdom about maintaining essential humanity against modern alienation—a message as vital today as in Kent's era.",
+    "summary_zh": "这篇文章深刻剖析了画家哲学家罗克威尔·肯特在第一次世界大战期间，于阿拉斯加小岛七个月孤独生活中领悟到的永恒真理：在荒原般的寂静中，灵魂得以扩展，人必须超越文化束缚回归本质的人性。肯特将物质创作视为生命无限的一部分，真正的艺术源于对「至理」的追求——即我们作为自然有机一部分的神性本质。他从职业倦怠、社会排斥（被质疑为间谍）到与当地 Olson 老人共度简朴生活，证明真正的艺术生命力源于与自然的深度连接而非物质积累。这段历史回响当代——在信息过载时代，我们亟需通过「静默的孤独」重获本真自我，这份关于保持精神纯粹性的呼告比百年前更具启示意义。",
+    "best_quote_en": "In the wilderness, in uneventful solitude, men for companionship must find themselves — has come to be for me the truth. Maybe the only truth I know.",
+    "best_quote_zh": "在荒原的寂静孤独中，人们唯有通过自身的陪伴才能发现自己——这对我而言已成真理，或許是唯一的真理。"
+  },
+  {
+    "id": 358,
+    "title": "牛娃们都是怎么过暑假的？",
+    "title_zh": "牛娃们都是怎么过暑假的？",
+    "model_used": "poolside/laguna-xs-2.1:free",
+    "source": "The Marginalian",
+    "link": "http://weixin.sogou.com/weixin?type=2&query=%E4%B8%89%E8%81%94%E7%94%9F%E6%B4%BB%E5%91%A8%E5%88%8A+%E7%89%9B%E5%A8%83%E4%BB%AC%E9%83%BD%E6%98%AF%E6%80%8E%E4%B9%88%E8%BF%87%E6%9A%91%E5%81%87%E7%9A%84%EF%BC%9F",
+    "tags": [
+      "inspire",
+      "writing-content",
+      "deep-dive"
+    ],
+    "tags_zh": [
+      "启发",
+      "写作内容",
+      "深度分析"
+    ],
+    "date": "2026-08-20",
+    "summary_en": "This article challenges the conventional wisdom that academic success requires constant academic pressure during summer breaks. It reveals that top-performing students, often called 'niu va' (牛娃), actually practice strategic restraint rather than intensive cramming. The piece argues that true academic excellence stems from developing fundamental capabilities like focus and critical thinking rather than accumulating superficial knowledge. Through concrete examples, it demonstrates that children need less structured activity and more space for deep learning. The author emphasizes that effective summer planning involves 'doing less' but investing limited energy in activities that create long-term advantages. This perspective offers valuable insights for parents seeking sustainable educational strategies that prioritize cognitive development over surface-level academic achievement.",
+    "summary_zh": "文章颠覆了暑假必须「刷题」的常规认知，揭示真正的优胜者靠的是「少动作，却动得更对」。它指出，孩子需要的不是知识的碎片化积累，而是专注力和思辨能力这类能在长期内拉开差距的「软实力」。作者用案例说明，有效的假期安排恰恰相反——不是塞满时间，而是把有限精力精准投入到真正能培养深度学习能力的事情上。这对追求可持续教育方式的家长具有启发意义。",
+    "best_quote_en": "Children need to develop capabilities that aren't directly correlated with grades but determine whether they can sit still, learn progressively, and think deeply. Real 'niu va' students appear to do less over summer, but are quietly accumulating the truly differentiating abilities.",
+    "best_quote_zh": "孩子真正需要补的，不一定是知识，而是能力。比如专注力、思考力——这些看似和成绩没有直接关系的能力，却决定了孩子未来能不能坐得住、学得进、想得深。"
+  },
+  {
+    "id": 359,
+    "title": "How to Hold Death and Carry Life: A Zen Master Explains Existence to a Child and Outlines the Three Essential Principles of Zen Mind",
+    "title_zh": "如何面对死亡并承载生命：禅宗大师向孩子解释存在并阐述禅心的三个基本原则",
+    "model_used": "nvidia/nemotron-3-super-120b-a12b:free",
+    "source": "RogerEbert.com",
+    "link": "https://www.themarginalian.org/2026/08/19/dropping-ashes-on-the-buddha-death/",
+    "tags": [
+      "learn",
+      "education",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "学习",
+      "教育学习",
+      "未来预测"
+    ],
+    "date": "2026-08-19",
+    "summary_en": "This profound piece explores how Zen Master Seung Sahn uses simple, experiential dialogue to explain the nature of existence, death, and interconnectedness to a child. Through the metaphor of a cookie factory — where all forms arise from the same dough — he illustrates non-duality: that beneath names and forms lies a single, nameless reality. The exchange with seven-year-old Gita reveals Zen’s core practice: not conceptual understanding, but direct realization through 'don’t-know mind.' The article distills Zen into three pillars — great faith (steadfast commitment), great courage (single-pointed concentration), and great questioning (sincere doubt leading to openness) — showing how these cultivate a mind unified with the universe. It critiques modern education for fragmenting this innate wholeness, contrasting the child’s spontaneous enlightenment (hitting the floor as answer) with her conditioned fear of giving 'wrong' answers in school. Ultimately, it presents Zen not as philosophy, but as an embodied return to pre-thinking awareness, where subject and object dissolve.",
+    "summary_zh": "通过禅宗大师与七岁女孩的对话，本文揭示了一个深刻 verità：所有事物本质同源，如同饼干厂中的各种形状皆来自同一面团。孩子用击地而非言语回答‘什么是佛？’的瞬间悟道，展现了禅宗‘不思议心’的力量 —  — 直觉胜于概念。文中提炼出禅修的三大支柱：坚定不移的信心、如猫捕鼠般专注的勇气，以及真诚的质疑。这不仅是宗教教导，更是对现代教育碎片化思维的有力批判。作者以个人化的笔触，让古老禅意在当代语境中重新鲜活：我们不是要学习答案，而是要找回思考之前的完整心。击地笑声中的顿悟，才是面对生死最真诚的回应。",
+    "best_quote_en": "You and Buddha and God and your mother and the whole world are the same.",
+    "best_quote_zh": "你和佛陀、上帝、你的母亲以及整个世界，本质上是同一。"
+  },
+  {
+    "id": 360,
+    "title": "被年轻人狂热追捧的她，说破了当代亲密关系最深的真相？",
+    "title_zh": "被年轻人狂热追捧的她，说破了当代亲密关系最深的真相？",
+    "model_used": "nvidia/nemotron-3-nano-30b-a3b:free",
+    "source": "The Marginalian",
+    "link": "http://weixin.sogou.com/weixin?type=2&query=%E4%B8%89%E8%81%94%E7%94%9F%E6%B4%BB%E5%91%A8%E5%88%8A+%E8%A2%AB%E5%B9%B4%E8%BD%BB%E4%BA%BA%E7%8B%82%E7%83%AD%E8%BF%BD%E6%8D%A7%E7%9A%84%E5%A5%B9%EF%BC%8C%E8%AF%B4%E7%A0%B4%E4%BA%86%E5%BD%93%E4%BB%A3%E4%BA%B2%E5%AF%86%E5%85%B3%E7%B3%BB%E6%9C%80%E6%B7%B1%E7%9A%84%E7%9C%9F%E7%9B%B8%EF%BC%9F",
+    "tags": [
+      "solve",
+      "writing-content",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "解决",
+      "写作内容",
+      "未来预测"
+    ],
+    "date": "2026-08-20",
+    "summary_en": "The article profiles bestselling author Janet Wintour (translated as 珍妮特·温特森) and her recent Chinese book‑tour, using her new memoir \"Love Is Carrying a Heavy Stone Without Knowing Why\" to explore the deepest truths about modern intimate relationships. It highlights her habit of standing throughout events, her inclusive approach that invites readers onto stages and opens doors for those waiting outside, and her recurring metaphor of doors representing agency and transition. Wintour reflects on how contemporary young women reject old relational scripts yet have not yet settled on stable new ones, urging a shift from superficial equality to genuine daily practices of mutual respect. The piece also expands into broader themes of technology, AI, and societal power structures, arguing that new forms will not automatically discard outdated values. Ultimately, she frames love as a daily test of who truly shares power, urging readers to keep doors open and maintain independent lives even within relationships.",
+    "summary_zh": "这篇文章深度解析了作家珍妮特·温特森的最新中国巡讲及其新作《爱是搬起一块重石而不知缘故》，聚焦于她对当代亲密关系的洞见。她始终站立的现场表演、主动打开门让等在门外的读者进来，以及“门”作为权力与转型的隐喻，展示了她对关系中平等与尊重的独到理解。文章指出，许多年轻女性已不再接受旧有角色，却仍在寻找稳定的新模式，强调从表面平等到真实日常实践的转变。同时，她将个人叙事延伸至人工智能、技术伦理与社会权力的话题，警示新技术若携带旧有价值观将复制不公。最终，她将爱情定义为检验权力分配的日常场域，呼吁人们保持独立与开放的心态，让关系成为相互成长的舞台。",
+    "best_quote_en": "We meet on the steps of the story.",
+    "best_quote_zh": "我们在故事的台阶上相遇。"
+  },
+  {
+    "id": 361,
+    "title": "Moonlight and the Magic of the Unnecessary",
+    "title_zh": "月光与无用的奇迹",
+    "model_used": "poolside/laguna-s-2.1:free",
+    "source": "RogerEbert.com",
+    "link": "https://www.themarginalian.org/2026/08/18/moonlight/",
+    "tags": [
+      "update",
+      "writing-content",
+      "design",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "动态",
+      "写作内容",
+      "设计创意",
+      "未来预测"
+    ],
+    "date": "2026-08-19",
+    "summary_en": "This contemplative essay weaves together astronomy, literature, and personal reflection to explore how moonlight—though unnecessary for survival—imbues life with profound meaning. Through quotes from writers like Leonard Cohen, Sylvia Plath, and Toni Morrison, alongside passages from Watership Down and meditations by Huxley, the piece illuminates how the 'unnecessary' often holds the greatest beauty. The moon’s precise cosmic alignment (400 times smaller and closer than the sun) becomes a metaphor for improbable fortune, while literary voices reveal moonlight as a transformative force for the soul. Ultimately, it argues that things without utility—like art, friendship, or poetry—are precisely what make existence worthwhile, echoing C.S. Lewis’s assertion that such graces 'give value to survival.'",
+    "summary_zh": "这篇随想将天文、文学与个人回忆交织在一起，探讨尽管月光对生存毫无必要，却如何赋予生命深厚的意义。通过考顿、普拉斯、莫里索等作家的引语，以及《沃特希尔庞》中的摘录和赫胥黎的沉思，文章展现了‘无用的’东西往往蕴含着最深的美。月亮的精确宇宙排列（比太阳小400倍且近400倍）成为不可思议的幸运的隐喻，而文学的声音们则揭示了月光作为灵魂的转变力量。最终，它论证了那些没有功用的东西——如艺术、友谊或诗歌——正是使生存变得有意义的东西，呼应了C.S.刘易斯的观点，即这些恩赐‘赋予生存以价值’。",
+    "best_quote_en": "It is impossible to know this and not see the miraculous in its nightly light.",
+    "best_quote_zh": "知道这一切而不认为它的 nightly light 之下是奇迹，是不可能的。"
   }
 ]
