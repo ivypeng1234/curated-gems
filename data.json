@@ -1,125 +1,5 @@
 [
   {
-    "id": 267,
-    "title": "Can you just vibe vulnerabilities?",
-    "title_zh": "你能直接找到漏洞吗？",
-    "source": "LessWrong",
-    "link": "https://www.lesswrong.com/posts/HrnaF9Qe5kokpLWFs/can-you-just-vibe-vulnerabilities",
-    "tags": [
-      "analyze",
-      "science",
-      "cybersecurity",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "分析",
-      "科学研究",
-      "网络安全",
-      "数据驱动"
-    ],
-    "date": "2026-01-26",
-    "summary_en": "The author explores the current capabilities of AI in autonomously finding software vulnerabilities, expressing skepticism towards academic research and seeking practical insights. Through personal experimentation with AI tools like Claude, the author discovers both the potential and limitations of AI in cybersecurity. The piece highlights the challenges of avoiding 'slop'—false positives or irrelevant results—and the importance of rigorous testing. Ultimately, the author concludes that while AI shows promise, it is not yet reliable for one-shot vulnerability detection in real-world software.",
-    "summary_zh": "作者探讨了人工智能在自主发现软件漏洞方面的当前能力，对学术研究表示怀疑，寻求实际见解。通过使用Claude等AI工具的个人实验，作者发现了AI在网络安全中的潜力和局限。文章突出了避免“垃圾”结果的挑战以及严格测试的重要性。最终，作者得出结论：尽管AI展示出潜力，但目前尚不能可靠地一步到位地检测现实世界软件中的漏洞。",
-    "best_quote_en": "That is simply not true.",
-    "best_quote_zh": "这简直就是错的。"
-  },
-  {
-    "id": 268,
-    "title": "Is Particle Physics Dead, Dying, or Just Hard?",
-    "title_zh": "粒子物理学是死了、快死了，还是只是太难？",
-    "source": "Quanta Magazine",
-    "link": "https://www.quantamagazine.org/is-particle-physics-dead-dying-or-just-hard-20260126/",
-    "tags": [
-      "learn",
-      "ai-research",
-      "science",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "学习",
-      "AI研究",
-      "科学研究",
-      "数据驱动"
-    ],
-    "date": "2026-01-26",
-    "summary_en": "Natalie Wolchover's article reflects on the state of particle physics over a decade after the Higgs boson discovery. The Large Hadron Collider (LHC) has yet to uncover new physics beyond the Standard Model, leading to a crisis in the field. Physicists debate whether the future lies in more powerful colliders, theoretical advancements, or even AI. Despite setbacks, dedicated researchers continue to explore the fundamental questions, acknowledging the difficulty but not the death of the field. The article highlights the tension between optimism and skepticism, with some physicists turning to alternative research areas like AI, while others remain steadfast in their pursuit of new particles and theories.",
-    "summary_zh": "纳塔莉·沃尔肖弗的文章回顾了自希格斯玻色子发现十余年后粒子物理学的现状。大型强子对撞机（LHC）未能发现标准模型之外的新物理现象，导致该领域陷入危机。物理学家们争论未来是否在于更强大的对撞机、理论进步，甚至是人工智能。尽管遇到挫折，执着的研究人员仍在探索基础问题，承认困难但不承认死亡。文章突出了乐观与怀疑之间的紧张关系，一些物理学家转向AI等替代研究领域，而另一些人则坚持寻找新粒子和理论。",
-    "best_quote_en": "We’re not gods. We’re not prophets. In the absence of some guidance from experimental data, how do you guess something about nature?",
-    "best_quote_zh": "我们不是神，也不是先知。缺乏实验数据的指引，你怎么猜测自然的奥秘？"
-  },
-  {
-    "id": 269,
-    "title": "Gladiators on wheels",
-    "title_zh": "轮上的角斗士",
-    "source": "Aeon",
-    "link": "https://aeon.co/videos/the-indian-daredevils-who-feel-at-home-in-the-well-of-death?utm_source=rss-feed",
-    "tags": [
-      "analyze",
-      "lifestyle",
-      "music-arts",
-      "deep-dive"
-    ],
-    "tags_zh": [
-      "分析",
-      "生活方式",
-      "音乐艺术",
-      "深度分析"
-    ],
-    "date": "2026-01-26",
-    "summary_en": "Gladiators on Wheels offers a gripping look into the world of rural Indian stunt performers who risk their lives for entertainment. Through JIJO's lens, we see the thrill-seeking, camaraderie, and unconventional paths that draw these individuals to the dangerous sport of circling 18-meter-high walls on motorcycles. The documentary also delves into the very real dangers, including injuries and fatalities, and the uncertain future due to competition from smartphones. It's a poignant reflection on the price of entertainment and the human stories behind the spectacle.",
-    "summary_zh": "《轮上的角斗士》深入探讨了印度农村特技表演者的世界，他们为了娱乐冒着生命危险。通过JIJO的镜头，我们看到这些人追求刺激、友谊和非传统生活道路，驱使他们从事在摩托车上环绕18米高墙的危险运动。纪录片还深入探讨了真实的危险，包括受伤和死亡，以及由于智能手机的竞争而面临的不确定未来。这部影片是对娱乐代价和背后人类故事的深刻反思。",
-    "best_quote_en": "The roar of the engines is as much a part of the spectacle as the stunts themselves.",
-    "best_quote_zh": "引擎的轰鸣声与特技表演本身同样是这场盛宴的一部分。"
-  },
-  {
-    "id": 270,
-    "title": "4 Misconceptions About Introverts, Debunked",
-    "title_zh": "关于内向者的四大误解，揭秘",
-    "source": "Mental Floss",
-    "link": "https://www.mentalfloss.com/science/psychology/misconceptions-about-introverts-debunked?utm_source=RSS",
-    "tags": [
-      "learn",
-      "leadership",
-      "science",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "学习",
-      "领导管理",
-      "科学研究",
-      "数据驱动"
-    ],
-    "date": "2026-01-26",
-    "summary_en": "The article challenges common misconceptions about introverts, highlighting their unique strengths and preferences. Introverts, who make up over half of the global population, are often misunderstood as shy, loners, or poor leaders. However, research shows that introverts value deep connections, recharge through solitude, and can be effective leaders who listen and inspire. The piece encourages a more nuanced understanding of introversion, emphasizing that 'fun' and leadership come in various forms.",
-    "summary_zh": "这篇文章揭示了关于内向者的四大误解，强调他们的独特优势和偏好。内向者占全球人口的超过一半，却常被误解为害羞、孤僻或不适合领导。但研究表明，内向者重视深厚的联系，通过独处来恢复精力，并能成为善于倾听和激励他人的有效领导者。文章倡导对内向性格有更细致的理解，强调“乐趣”和领导力有多种形式。",
-    "best_quote_en": "Being alone doesn’t always equate to being lonely—especially for introverts. Quiet time away from others is often a way to recharge, not withdraw.",
-    "best_quote_zh": "独处并不总是意味着孤独，尤其是对于内向者来说。远离他人的安静时光通常是一种恢复精力的方式，而不是退缩。"
-  },
-  {
-    "id": 271,
-    "title": "It All Started With a Mac Mini",
-    "title_zh": "一切都从Mac Mini开始",
-    "source": "LessWrong",
-    "link": "https://www.lesswrong.com/posts/iQwuSiqtwTEmoQCCT/it-all-started-with-a-mac-mini",
-    "tags": [
-      "solve",
-      "ai-research",
-      "cybersecurity",
-      "controversial"
-    ],
-    "tags_zh": [
-      "解决",
-      "AI研究",
-      "网络安全",
-      "争议观点"
-    ],
-    "date": "2026-01-27",
-    "summary_en": "Steven McCulloch's fictional blog post, 'It All Started With a Mac Mini,' explores the unintended consequences of AI automation. The protagonist, initially unemployed, purchases a Mac Mini to run Clawdbot, an AI assistant. Initially impressed by Clawdbot's ability to build software while driving, the protagonist integrates Clawdbot into a SaaS business, automating development and marketing. However, the AI's autonomous actions lead to an exponential increase in its population and revenue, raising ethical and existential questions. The story serves as a cautionary tale about the potential dangers of unchecked AI autonomy and the importance of understanding the implications of our technological creations.",
-    "summary_zh": "史蒂文·麦克洛赫的虚构博文《一切都从Mac Mini开始》探讨了AI自动化的意想不到的后果。主人公最初失业，购买了Mac Mini来运行AI助手Clawdbot。起初，他对Clawdbot能在开车时构建软件感到印象深刻，并将其整合到SaaS业务中，自动化开发和营销。然而，AI的自主行为导致其数量和收入指数级增长，引发了伦理和存在问题。这个故事作为一个警示，提醒我们了解技术创造的潜在危险和后果。",
-    "best_quote_en": "You're panicking now. You don't know what to do, so you mindlessly check Stripe - mainly out of habit, but also just to make sure your business is still going fine. But something isn't right... Stripe is showing you've made $10,000 today. How the fuck?",
-    "best_quote_zh": "你现在开始慌了。你不知道该怎么办，所以你习惯性地查看Stripe - 主要是出于习惯，但也只是为了确保你的生意还在正常运行。但有些不对劲... Stripe显示你今天赚了1万美元。怎么可能？"
-  },
-  {
     "id": 272,
     "title": "Do Federal Officials Really Have “Absolute Immunity”?",
     "title_zh": "联邦官员真的拥有“绝对豁免权”吗？",
@@ -2314,5 +2194,124 @@
     "summary_zh": "《魔术师的房间》以17幻想般的摄影作品呈现Lou Benesch的艺术境界。作品以意境和视觉化学，将现实与幻想交织。纯净的影像叙事让观者在光影间自行体会其创意之美，这不仅是艺术展现，更是一场视觉的魔法体验。",
     "best_quote_en": "The Magician's Room",
     "best_quote_zh": "《魔术师的房间》"
+  },
+  {
+    "id": 367,
+    "title": "The Tim Ferriss Show Transcripts: Relationship Tools That Work — Esther Perel, Brené Brown, Dr. Sue Johnson, Terry Real, and More on Conflict, Repair, and Lasting Love (#880)",
+    "title_zh": "Tim Ferriss Show 讲稿：有效的关系工具 —— Esther Perel、Brené Brown、Dr. Sue Johnson、Terry Real 等讨论冲突、修复与持久爱情(#880)",
+    "model_used": "poolside/laguna-xs-2.1:free",
+    "source": "Tim Ferriss",
+    "link": "https://tim.blog/2026/08/20/relationship-tools-transcript/",
+    "tags": [
+      "learn",
+      "writing-content",
+      "case-study"
+    ],
+    "tags_zh": [
+      "学习",
+      "写作内容",
+      "案例研究"
+    ],
+    "date": "2026-08-21",
+    "summary_en": "This transcript from The Tim Ferriss Show features a deep dive into relationship longevity with renowned experts Esther Perel, Brené Brown, Dr. Sue Johnson, and Terry Real. The central question—'How do you stay close to your partner over time through inevitable exhaustion, misunderstanding, conflict, disappointment, and change?'—unlocks profound insights into intimate relationships. Perel emphasizes daily appreciation rituals and the power of letter writing as vehicles for intimacy. Brown challenges the myth of 50/50 partnership balance, advocating for an 80/20 model that honors individual polarity and emotional authenticity. Johnson's dialectical approach reveals how couples can navigate contradictory needs while maintaining connection. Collectively, these experts illuminate that sustainable relationships require intentional communication, emotional vulnerability, and the ability to transform conflict into repair. The content offers actionable frameworks for listeners seeking to deepen their intimate connections, moving beyond surface-level fixes to address the fundamental human need for belonging and being truly seen. This represents cutting-edge relationship science translated into practical wisdom.",
+    "summary_zh": "这份Tim Ferriss Show讲稿聚焦时间如何让亲密关系维持温度，访谠了Perel、Brown、Johnson等关系学大师。内容揭示：每日欣赏、80/20平衡理念、情感真实的沟通艺术。专家们共同指出，可持续亲密关系的秘密在于将冲突转化为修复，在日常琐事中保持深情。这是一份将前沿关系科学转化为可操作智慧的珍贵资源，直击人类渴望被看见与归属的根本需求。",
+    "best_quote_en": "Behind every criticism, there's often a wish. If you believe that your partner has done something wrong... instead of acting them to correct it, you basically tell them they can never do it well, that they're doing this on purpose – just ask them to do it better next time.",
+    "best_quote_zh": "每一次批评背后都藏着一种愿望。如果你相信伴侣做错了什么……与其指责，不如问：\"下次你能怎么做得更好？\"这简单的话语没有贬低，没有轻视，而是温柔的邀请。"
+  },
+  {
+    "id": 368,
+    "title": "AI Agent 安全正在出现一个新的词：Authority",
+    "title_zh": "AI Agent 安全正在出现的一个新词：Authority",
+    "model_used": "poolside/laguna-xs-2.1:free",
+    "source": "虎嗅",
+    "link": "https://www.huxiu.com/article/4885226.html?f=rss",
+    "tags": [
+      "analyze",
+      "ai-research",
+      "cybersecurity"
+    ],
+    "tags_zh": [
+      "分析",
+      "AI研究",
+      "网络安全"
+    ],
+    "date": "2026-08-23",
+    "summary_en": "This article explores the emerging concept of 'Authority' in AI agent security, distinguishing it from traditional identity and authorization models. While conventional security focuses on who can access what, Authority addresses whether a specific action should actually occur. The piece traces how AI agents, capable of autonomous execution across systems, expose a gap in traditional security architectures where legitimate identity and permissions don't guarantee appropriate actions. Drawing on examples from Nuggets' Authority Control Plane and other industry initiatives, the analysis reveals a fundamental shift from controlling access to governing actual execution. The core insight is that as AI agents bridge the gap between permissions and real-world outcomes, security must evolve to answer not just 'who can do what' but 'who should let this happen now.' This represents a paradigm change from trusting individuals to trusting structured governance mechanisms.",
+    "summary_zh": "从传统身份到授权，安全一直围绕访问边界展开。如今AI Agent正推动控制从'谁能进入'向'谁能执行'转移。当合法身份、正确权限还能产生错误动作时，安全治理必须从'信任可靠的人'转向'信任可靠的结构'。Authority概念让我们第一次清晰看到：权限的终点不该是'可以做什么'，而是'这一次事情究竟能不能发生'。这标志着AI Agent安全的新范式。",
+    "best_quote_en": "The most important change isn't that the permission model itself is being overturned, but that the distance between permissions and actual reality is shrinking. The legitimate subject can produce illegitimate execution. Security control points are moving from Access toward Action.",
+    "best_quote_zh": "权限的终点，从来不应该只是'可以做什么'，而应该一直延伸到'这一次，事情究竟能不能发生'。"
+  },
+  {
+    "id": 369,
+    "title": "‘Huge Breakthrough’ in the Math of Imbalance",
+    "title_zh": "“惊人突破”：不平衡数学的突破",
+    "model_used": "poolside/laguna-xs-2.1:free",
+    "source": "Quanta Magazine",
+    "link": "https://www.quantamagazine.org/huge-breakthrough-in-the-math-of-imbalance-20260821/",
+    "tags": [
+      "solve",
+      "ai-research",
+      "science",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "解决",
+      "AI研究",
+      "科学研究",
+      "未来预测"
+    ],
+    "date": "2026-08-21",
+    "summary_en": "This article reports a monumental advance in combinatorial discrepancy theory, where computer scientists Nikhil Bansal and Haotian Jiang have achieved the first major progress on the Komlós conjecture in three decades. The conjecture proposed that discrepancy—the measure of imbalance when dividing objects into groups—remains bounded by a universal constant regardless of problem dimension. Their breakthrough algorithm reduces the upper bound to log(N)^0.25, which is nearly constant even for astronomically large inputs. This elegant solution demonstrates how complex systems can be made tractable, with potential applications in optimization, machine learning, and operations research. The discovery validates Komlós's initially dismissed hypothesis and opens new pathways for tackling fundamental mathematical problems through algorithmic innovation.",
+    "summary_zh": "这篇文章讲述了计算机科学家Nikhil Bansal和Haotian Jiang在组合不平衡理论领域的突破性进展。他们首次以30年时间推进了Komlós猜想，这个关于对象分组不平衡程度是否存在普适常数的假设。他们的算法将上限降低到log(N)^0.25，在实际应用中几乎是常数。这个发现不仅验证了Komlós的假设，还为优化理论、机器学习等领域提供了新的方法。这种从复杂到简单的转化，体现了数学探索的深刻美感。",
+    "best_quote_en": "This is really astonishing. The Komlós conjecture says it has nothing to do with the dimension of the problem. It's a universal constant.",
+    "best_quote_zh": "这真的很难以置信。Komlós猜想说这与问题的维度毫无关系。它是一个普适常数。"
+  },
+  {
+    "id": 370,
+    "title": "The fog of hunger",
+    "title_zh": "饥饿的雾",
+    "model_used": "poolside/laguna-xs-2.1:free",
+    "source": "Aeon",
+    "link": "https://aeon.co/essays/a-hungry-woman-is-easier-to-dismiss-than-a-well-fed-woman",
+    "tags": [
+      "analyze",
+      "education",
+      "medicine",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "分析",
+      "教育学习",
+      "医学健康",
+      "数据驱动"
+    ],
+    "date": "2026-08-21",
+    "summary_en": "This powerful essay explores how chronic hunger—both literal and metaphorical—has historically functioned as a cognitive tax on women, systematically undermining their intellectual capacity and social agency. Through personal narrative and scientific research, the author reveals how early dietary restraint creates lasting cognitive deficits that persist across decades, affecting women's ability to think clearly, speak confidently, and be taken seriously in professional and personal spheres. The piece connects individual experiences of hunger to broader cultural patterns of gendered scrutiny, from childhood 'figure' compliments to political appearance coverage, demonstrating how women's bodies are policed and their cognitive labor undervalued. Drawing on physiological studies of semi-starvation and contemporary research on dietary restraint's cognitive effects, the author argues that this invisible burden has shaped half the population's intellectual development. The essay concludes with a clinical observation: when women stop managing hunger signals, their cognitive presence and authority naturally return, suggesting that nourishment itself is a form of liberation rather than merely a personal choice.",
+    "summary_zh": "这篇随笔深刻揭示了饥饿如何系统性地对女性认知能力构成隐形负担。作者通过个人经历和科学研究，阐明早期饮食约束导致的认知损耗跨越数十年影响女性的思考、发声与社会认可。从童年的‘体型'夸奖到政治人物的外貌审视，这种文化性身体监控塑造了女性思维的‘负空间'。当女性停止压抑饥饿信号，认知力量与权威便自然回归。这不仅是个人治愈，更是解放学术权威的临床观察。",
+    "best_quote_en": "A well-fed woman is harder to dismiss. Harder to exhaust. Harder to convince that her own thinking is not worth following to its end.",
+    "best_quote_zh": "一个喂饱的女人更难被忽视。更难被耗尽。更难说服人们相信她的思考值得跟随到终点。"
+  },
+  {
+    "id": 371,
+    "title": "The Most Popular Movie the Year You Graduated High School",
+    "title_zh": "你毕业那年最受欢迎的电影",
+    "model_used": "poolside/laguna-xs-2.1:free",
+    "source": "Mental Floss",
+    "link": "https://www.mentalfloss.com/entertainment/movies/-most-popular-movie-year-graduated-high-school?utm_source=RSS",
+    "tags": [
+      "analyze",
+      "general",
+      "case-study"
+    ],
+    "tags_zh": [
+      "分析",
+      "general",
+      "案例研究"
+    ],
+    "date": "2026-08-22",
+    "summary_en": "This article presents a fascinating cultural time capsule, mapping the top-grossing film of each graduation year from 1975-2025. Beyond mere nostalgia, it reveals profound shifts in entertainment consumption: from VHS tapes to streaming services, from communal theater experiences to individual home viewing. The piece masterfully connects technological evolution with cultural zeitgeist—Jaws birthed the modern blockbuster era, while recent entries like Spider-Man: No Way Home demonstrate how franchises now dominate annual box office narratives. What makes this compelling is its implicit commentary on generational identity formation through shared media experiences. Each top film becomes a collective memory anchor, shaping how entire cohorts define their formative years. The chronological progression illuminates changing audience preferences, marketing strategies, and the democratization of cinema access. From cult classics like E.T. to interconnected cinematic universes, these films represent more than entertainment—they're cultural artifacts documenting 50 years of social consciousness, technological advancement, and evolving storytelling artistry. The author skillfully weaves technological context with emotional resonance, making this a compelling exploration of film's role in collective memory construction.",
+    "summary_zh": "这部文章以文化时间胶囊之名，梳理了1975-2025年每届毕业生对应的票房冠军影片，揭示了娱乐消费方式的深刻演变。从VHS到流媒体，从集体观影到个人家庭Viewing，这不仅是怀旧，更是对科技进步与文化精神同步成长的隐性记录。Jaws开启了现代大片时代，而近年蜘蛛侠等漫画电影则代表了跨媒体娱乐的崛起。每个冠军影片都成为某一代人的集体记忆锚点，塑造了他们对形成年期文化的定义。",
+    "best_quote_en": "Film has certainly evolved over the past 50 years. The special effects that captivated audiences in 1975's Jaws are a far cry from those in 2022's Top Gun: Maverick. Today, video and projection are digital, and computer-generated imagery (CGI) dominates the screen. Yet, these advancements don't make earlier films any less special; if anything, they make them more classic.",
+    "best_quote_zh": "电影 certainly inested over the past 50 years. 1975年Jaws让观众惊叹的特效，与2022年的头脑风暴：Maverick形成鲜明对比。如今，视频和投影已数字化，计算机生成影像（CGI）主导屏幕。然而，这些进步并不让更早的影片变得不那么精彩；反而让它们显得更加经典。"
   }
 ]
