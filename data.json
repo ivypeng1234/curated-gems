@@ -1,123 +1,5 @@
 [
   {
-    "id": 272,
-    "title": "Do Federal Officials Really Have “Absolute Immunity”?",
-    "title_zh": "联邦官员真的拥有“绝对豁免权”吗？",
-    "source": "The New Yorker",
-    "link": "https://www.newyorker.com/news/q-and-a/do-federal-officials-really-have-absolute-immunity",
-    "tags": [
-      "solve",
-      "legal",
-      "politics",
-      "controversial"
-    ],
-    "tags_zh": [
-      "解决",
-      "法律法规",
-      "政治时事",
-      "争议观点"
-    ],
-    "date": "2026-01-26",
-    "summary_en": "The article delves into the complex legal landscape surrounding the immunity of federal officials, particularly in the context of recent killings by ICE and Border Patrol agents in Minneapolis. It highlights the doctrine of supremacy-clause immunity, which grants federal officers protection from state laws when acting within their federal duties. The conversation with law professor Steve Vladeck explores the challenges states face in prosecuting federal officials, including legal roadblocks and logistical obstacles imposed by the Trump Administration. Vladeck discusses the historical context of this immunity, the role of the Supreme Court, and the potential for state prosecutions to fill gaps in federal accountability. The article also touches on the ideological divides within the Supreme Court and the broader implications for constitutional enforcement.",
-    "summary_zh": "文章深入探讨了联邦官员在执行职务时享有的豁免权，特别是在最近明尼阿波利斯市ICE和边境巡逻队员杀人事件的背景下。讨论了联邦官员在执行职务时享有的豁免权，以及州政府在起诉联邦官员时面临的法律和实际障碍。Vladeck教授指出，历史上存在这种豁免权，最高法院在其中扮演重要角色，州政府的起诉可能填补联邦问责的空白。文章还涉及最高法院内部的意识形态分歧及其对宪法执行的更广泛影响。",
-    "best_quote_en": "A world in which the Constitution is only enforceable against the federal government prospectively is a world in which the federal government and its officers can do whatever it wants to the people.",
-    "best_quote_zh": "一个只能对联邦政府前瞻性执行宪法的世界，是一个联邦政府和其官员可以对人民为所欲为的世界。"
-  },
-  {
-    "id": 273,
-    "title": "A lesson in coexistence",
-    "title_zh": "共存的教训",
-    "source": "Aeon",
-    "link": "https://aeon.co/essays/lessons-in-pluralism-from-a-17th-century-african-town?utm_source=rss-feed",
-    "tags": [
-      "guide",
-      "society",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "指导",
-      "社会议题",
-      "数据驱动"
-    ],
-    "date": "2026-01-27",
-    "summary_en": "The essay on Crispina Peres offers a profound lesson in historical pluralism and coexistence. Peres, a powerful trader in 17th-century Cacheu, Guinea-Bissau, navigated a complex web of cultures, languages, and faiths. Her story, revealed through Inquisition trial records, highlights a society where Christianity, Islam, Judaism, and West African religions coexisted. Peres's multilingualism and sociability were key to her influence, challenging the patriarchal norms of the Portuguese Empire. The essay underscores the fragility and preciousness of coexistence, urging us to learn from past plural societies to address contemporary divisions and inequalities. It serves as a reminder that shared lives and cultural exchange are essential for peaceful coexistence, a lesson increasingly relevant in today's fractured world.",
-    "summary_zh": "关于克里丝皮娜·佩雷斯的文章，为我们提供了历史多元化与共存的深刻教训。佩雷斯是17世纪几内亚比绍的卡绍镇的强大商人，她在复杂的文化、语言和信仰网络中穿梭。她的故事通过宗教裁判所的审判记录揭示了一个基督教、伊斯兰教、犹太教和西非宗教共存的社会。佩雷斯的多语言能力和社交能力是她影响力的关键，挑战了葡萄牙帝国的父权制 norm。文章强调了共存的脆弱性和宝贵性，鼓励我们从过去的多元社会中学习，以应对当代的分裂和不平等。它提醒我们，共享的生活和文化交流对和平共存至关重要，这是在今天的破碎世界中越来越相关的教训。",
-    "best_quote_en": "Co-sharing in the lives of people from different backgrounds is key for peaceful coexistence.",
-    "best_quote_zh": "与不同背景的人共享生活是和平共处的关键。"
-  },
-  {
-    "id": 274,
-    "title": "Are You Drinking Enough Water? Here’s How Much You Really Need Each Day",
-    "title_zh": "每天需要喝多少水？",
-    "source": "Mental Floss",
-    "link": "https://www.mentalfloss.com/science/health/are-you-drinking-enough-water?utm_source=RSS",
-    "tags": [
-      "solve",
-      "science",
-      "lifestyle",
-      "beginner-friendly"
-    ],
-    "tags_zh": [
-      "解决",
-      "科学研究",
-      "生活方式",
-      "新手友好"
-    ],
-    "date": "2026-01-27",
-    "summary_en": "The article challenges the conventional wisdom of drinking eight glasses of water daily, offering a more personalized approach based on individual factors. It emphasizes water's crucial role in bodily functions and provides practical guidelines for staying hydrated. The piece also warns about the rare but serious condition of hyponatremia, caused by overhydration. Ultimately, it advises listeners to their body's needs and use simple indicators like thirst and urine color to gauge hydration.",
-    "summary_zh": "文章质疑每天喝八杯水的建议，强调应根据个人情况调整饮水量。水对身体功能至关重要，文章提供了实用的保持水分的指南。同时，提醒过量饮水可能导致严重的“低钠血症”。最终，建议听从身体需求，通过口渴和尿液颜色来判断是否充分补水。",
-    "best_quote_en": "Water isn't just for quenching thirst; it's the subtle savior of every bodily system.",
-    "best_quote_zh": "水不仅仅是解渴，它是每个身体系统的隐形救星。"
-  },
-  {
-    "id": 275,
-    "title": "Anomalous Tokens on Gemini 3.0 Pro",
-    "title_zh": "Gemini 3.0 Pro中的异常标记",
-    "source": "LessWrong",
-    "link": "https://www.lesswrong.com/posts/XuzPu5mBDY3TCvw2J/anomalous-tokens-on-gemini-3-0-pro",
-    "tags": [
-      "analyze",
-      "science",
-      "ai-research",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "分析",
-      "科学研究",
-      "AI研究",
-      "未来预测"
-    ],
-    "date": "2026-01-28",
-    "summary_en": "The article discusses an unusual behavior observed in the Gemini 3.0 Pro AI model. While working on a bioinformatics CLI utility, the author encountered repetitive and anomalous phrases generated by Gemini. These phrases, such as 'myNegazioni,' 'is具体 Цент Disclosure,' and repetitive sequences like 'Mourinho well Johnnyfaat,' appeared without any apparent trigger related to the conversation context. The author conducted various tests, including deleting and replacing prompts, but the anomalous behavior only occurred once. The 'Show Thinking' section of the article delves into a hypothetical analysis of tumor characteristics, using repetitive phrases and patterns that mirror the anomalous output. This raises questions about the model's internal processes and potential for unintended outputs, highlighting the need for further investigation into AI behavior and safety.",
-    "summary_zh": "该文章讨论了Gemini 3.0 Pro AI模型中观察到的异常行为。在为生物信息学 CLI 工具编写说明时，作者遇到了Gemini生成的重复和异常短语。这些短语，如“myNegazioni”、“is具体 Цент Disclosure”以及重复的序列“Mourinho well Johnnyfaat”，似乎与对话上下文无关。作者进行了各种测试，包括删除和替换提示，但异常行为只出现了一次。文章的“显示思维”部分深入探讨了肿瘤特征的假设分析，使用了重复的短语和模式，这些模式与异常输出相似。这引发了对模型内部过程和潜在意外输出的疑问，强调了进一步调查AI行为和安全性的必要性。",
-    "best_quote_en": "This isn't my research area, so I thought I'd just post it here in case it was interesting to anybody on LessWrong.",
-    "best_quote_zh": "这不是我的研究领域，所以我只是把它发布在这里，看看是否对LessWrong上的任何人感兴趣。"
-  },
-  {
-    "id": 276,
-    "title": "Why an Agnostic Animal-Rights Activist Went to Seminary",
-    "title_zh": "Why an Agnostic Animal-Rights Activist Went to Seminary",
-    "source": "The New Yorker",
-    "link": "https://www.newyorker.com/news/fault-lines/why-an-agnostic-animal-rights-activist-went-to-seminary",
-    "tags": [
-      "inspire",
-      "writing-content",
-      "startup-strategy",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "启发",
-      "写作内容",
-      "创业策略",
-      "数据驱动"
-    ],
-    "date": "2026-01-27",
-    "summary_en": "Wayne Hsiung, an agnostic animal-rights activist, has made a surprising move by enrolling in seminary, seeking to harness the power of religious community to advance his cause. Hsiung's journey from open rescues to seminary highlights the challenges of sustaining social movements and the potential of religious infrastructure to provide lasting support. His insights on the role of identity, narrative, and ritual in social movements offer a thoughtful perspective on the intersection of activism and faith. Hsiung's story underscores the need for a shared moral purpose and the importance of community in driving social change. His exploration of the church as a means to revitalize social movements and address the decline in religious participation provides a unique lens through which to view the future of activism.",
-    "summary_zh": "无神论动物权利活动家韦恩·休恩决定进神学院，试图借助宗教社区的力量推动其事业。他的转变反映了维持社会运动的挑战，以及宗教基础设施在提供持久支持方面的潜力。休恩关于身份、叙事和仪式在社会运动中的作用的见解，为活动主义与信仰的交叉点提供了深思熟虑的视角。他的故事强调了共同道德目的和社区在推动社会变革中的必要性。探索教会作为复兴社会运动和应对宗教参与度下降的手段，为未来的活动主义提供了独特的视角。",
-    "best_quote_en": "You don’t believe in God? That seems odd for somebody in seminary. I don’t believe in God in the traditional Christian sense, or the traditional Buddhist or Hindu sense. I think the universe can be explained by the physical laws of science, probably. Science has a better claim to truth than any other paradigm we’ve discovered.",
-    "best_quote_zh": "你不相信上帝？这对一个在神学院的人来说似乎很奇怪。我不相信传统基督教、佛教或印度教意义上的上帝。我认为宇宙可以通过科学的物理定律来解释，可能。科学对真理的主张比我们发现的任何其他范式都更好。"
-  },
-  {
     "id": 277,
     "title": "Networks Hold the Key to a Decades-Old Problem About Waves",
     "title_zh": "解决波动问题的关键在于网络",
@@ -2313,5 +2195,126 @@
     "summary_zh": "这部文章以文化时间胶囊之名，梳理了1975-2025年每届毕业生对应的票房冠军影片，揭示了娱乐消费方式的深刻演变。从VHS到流媒体，从集体观影到个人家庭Viewing，这不仅是怀旧，更是对科技进步与文化精神同步成长的隐性记录。Jaws开启了现代大片时代，而近年蜘蛛侠等漫画电影则代表了跨媒体娱乐的崛起。每个冠军影片都成为某一代人的集体记忆锚点，塑造了他们对形成年期文化的定义。",
     "best_quote_en": "Film has certainly evolved over the past 50 years. The special effects that captivated audiences in 1975's Jaws are a far cry from those in 2022's Top Gun: Maverick. Today, video and projection are digital, and computer-generated imagery (CGI) dominates the screen. Yet, these advancements don't make earlier films any less special; if anything, they make them more classic.",
     "best_quote_zh": "电影 certainly inested over the past 50 years. 1975年Jaws让观众惊叹的特效，与2022年的头脑风暴：Maverick形成鲜明对比。如今，视频和投影已数字化，计算机生成影像（CGI）主导屏幕。然而，这些进步并不让更早的影片变得不那么精彩；反而让它们显得更加经典。"
+  },
+  {
+    "id": 372,
+    "title": "Sean Duffy in the Real World",
+    "title_zh": "Sean Duffy in the Real World",
+    "model_used": "nvidia/nemotron-nano-12b-v2-vl:free",
+    "source": "The New Yorker",
+    "link": "https://www.newyorker.com/news/the-lede/sean-duffy-in-the-real-world",
+    "tags": [
+      "analyze",
+      "science",
+      "politics",
+      "case-study"
+    ],
+    "tags_zh": [
+      "分析",
+      "科学研究",
+      "政治时事",
+      "案例研究"
+    ],
+    "date": "2026-08-23",
+    "summary_en": "Sean Duffy, former 'Real World' star and current Transportation Secretary under Trump, launches a YouTube travel show blending reality TV tropes with patriotic messaging. The analysis reveals a clash between its wholesome family image and political controversies, including ethical concerns about corporate sponsorships and partisan framing. The show's identity crisis—oscillating between travelogue and political propaganda—undermines its appeal, with uneven execution failing to resonate beyond niche audiences. Its cultural significance lies in reflecting reality TV's enduring influence on modern politics and media consumption.",
+    "summary_zh": "《塞恩·杜菲在真实世界中的生活》试图将真人秀与爱国主义结合，但因政治争议和身份矛盾受挫。这部由交通部长杜菲推出的YouTube系列剧，试图通过家庭公路旅行展示美国风貌，却因企业赞助伦理问题和党派化叙事受批评。其摇摆不定的定位——既想做旅游纪录片又想传递政治信息——最终未能吸引主流观众，反映了现实电视对当代政治文化的持续影响。",
+    "best_quote_en": "Duffy’s show—‘you can take the star out of reality, but not reality out of the star’—captures the paradox of his political identity, where performative Americana clashes with the genre’s inherent authenticity.",
+    "best_quote_zh": "《你可以把明星从真实世界中带走，但真实世界的本质也会带着你走》——这句话凸显了杜菲政治身份的悖论，表演性的美国精神与现实电视本真的冲突。"
+  },
+  {
+    "id": 373,
+    "title": "Beeswax / Chompy ice on demand / Price history alert",
+    "title_zh": "Recomendo: 蜂蜜 / Chompy冰 / 价格历史警报",
+    "model_used": "poolside/laguna-xs-2.1:free",
+    "source": "Kevin Kelly",
+    "link": "https://kk.org/cooltools/beeswax-chompy-ice-on-demand-price-history-alert/",
+    "tags": [
+      "learn",
+      "ai-research",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "学习",
+      "AI研究",
+      "未来预测"
+    ],
+    "date": "2026-08-23",
+    "summary_en": "This content presents a fascinating collection of six diverse recommendations spanning daily habits, smart home solutions, consumer technology, intellectual pursuits, digital culture, and product skepticism. Each recommendation offers genuine practical value: the two-minute spelling bee creates engaging daily competition, the Pearl L1 Max ice maker solves a real household pain point, Amazon's price history feature provides actionable consumer intelligence, the Encyclopedia of Concise Concepts by Women Philosophers democratizes philosophical knowledge, the phone entertainment concept challenges our understanding of media, and KYD's gadget unboxing videos offer crucial consumer protection. The underlying theme is discovery—finding efficient solutions, uncovering hidden value, and navigating the modern information landscape. What makes this particularly valuable is the author's personal engagement with each recommendation, sharing real experiences rather than abstract suggestions. This reflects a broader cultural moment where individuals seek curated, tested wisdom from trusted sources to navigate overwhelming choice and information overload.",
+    "summary_zh": "这份内容聚合了六类截然不同的推荐，从日常习惯到智能家居，从消费科技到知识探索。作者亲历亲诉，每项推荐都解决真实痛点：2分钟拼字游戏创造日常竞技，Pearl L1 Max冰机解决冰箱缺失问题，Amazon价格历史功能提供消费智慧，女性哲学家概念百科 democratize哲学知识，手机娱乐概念挑战媒体认知，KYD科技 Unpacking视频提供消费保护。核心是发现——在信息过载时代寻找高效方案、揭示隐藏价值、导航现代知识天堂。作者亲身体验，分享真实经历，而非抽象建议。",
+    "best_quote_en": "Amazon gives you the option to set up a price alert to get notified when it drops to your target price. If you are sure you want it at that price and are willing to wait, you can also set it to automatically purchase it at that price so you don't miss it.",
+    "best_quote_zh": "亚马逊提供价格警报功能，您可以设置目标价格，当价格下降到目标价时 receive通知。如果您确实想在该价格购买且愿意等待，还可以设置自动购买，以免错过。"
+  },
+  {
+    "id": 374,
+    "title": "Funding for COVID-19 Projects",
+    "title_zh": "为新冠项目融资",
+    "model_used": "poolside/laguna-xs-2.1:free",
+    "source": "Sam Altman",
+    "link": "https://blog.samaltman.com/funding-for-covid-19-projects",
+    "tags": [
+      "solve",
+      "ai-research",
+      "science",
+      "controversial"
+    ],
+    "tags_zh": [
+      "解决",
+      "AI研究",
+      "科学研究",
+      "争议观点"
+    ],
+    "date": "2020-03-15",
+    "summary_en": "This content reveals a unique intersection of entrepreneurial initiative and pandemic response, where an individual leverages their funding expertise to catalyze COVID-19 solutions. The author identifies four critical innovation gaps: rapid production scaling for medical equipment, drug repurposing for treatment, novel vaccine approaches beyond traditional pharmaceutical pipelines, and untapped therapeutic research. What distinguishes this initiative is its problem-solving pragmatism—it recognizes engineering challenges as more tractable than scientific breakthroughs, emphasizing rapid deployment over theoretical perfection. The public spreadsheet experiment suggests early-stage community-building around crisis innovation, while the specific request for viral challenge capabilities demonstrates sophisticated understanding of biotech research infrastructure. This represents grassroots entrepreneurship meeting urgent global need, illustrating how individual expertise can be redirected toward collective survival.",
+    "summary_zh": "这篇内容展现了创业智慧与疫情响应的独特结合，作者凭借融资经验启动了抗疫创新计划。他精准锁定了四个关键空白：医疗设备快速产能扩张、药物联用治疗、超越传统制药的新 vaccine 思路，以及药企难以研发的新型疗法。其问题解决导向的务实方法值得关注——将工程挑战视为可攻克的重点，而非科学难题。这种以个人专业力量服务全球生存的Grassroots 创业模式，正是危机下知识分子最可贵的生命力。",
+    "best_quote_en": "I'm trying to fund startups/projects helping with COVID-19, because it's basically the one thing I know how to do that can help.",
+    "best_quote_zh": "我正在尝试为帮助新冠项目融资，因为这是我唯一知道如何做的、能够帮忙的事情。"
+  },
+  {
+    "id": 375,
+    "title": "Why People Want to Believe the Lindsay Clancy Conspiracy Theories",
+    "title_zh": "为什么人们愿意相信林赛·克兰西阴谋论",
+    "model_used": "cohere/north-mini-code:free",
+    "source": "The New Yorker",
+    "link": "https://www.newyorker.com/news/the-lede/why-people-want-to-believe-the-lindsay-clancy-conspiracy-theories",
+    "tags": [
+      "analyze",
+      "legal",
+      "medicine",
+      "controversial"
+    ],
+    "tags_zh": [
+      "分析",
+      "法律法规",
+      "医学健康",
+      "争议观点"
+    ],
+    "date": "2026-08-22",
+    "summary_en": "The article dissects the surge of conspiracy theories surrounding Lindsay Clancy’s tragic case, probing why a grieving public clings to alternate narratives despite overwhelming evidence. Winter reveals how systemic failures—medical misdiagnosis, gender bias, and institutional opacity—fuel distrust, creating fertile ground for speculation. By weaving courtroom details, forensic ambiguities, and social‑media dynamics, she illustrates a broader cultural malaise: the erosion of trust in legal and medical authorities, amplified by the “true‑crime brain” epidemic. The piece balances empathy for Clancy’s mental‑health struggles with a critical examination of how sensationalism and algorithmic amplification distort public discourse. Winter’s nuanced reporting invites readers to reflect on the societal costs of credulity and the urgent need for systemic reform that listens to women’s voices, especially in crises of postpartum psychosis. The narrative is both a cautionary tale and a call to reclaim rational, compassionate dialogue.",
+    "summary_zh": "本文深入剖析了公众为何热衷于林赛·克兰西案的阴谋论，揭示了医疗误诊、性别偏见和制度不透明如何加剧信任危机。作者通过法庭细节、社交媒体动态和心理困境，展现了“真罪案文化”如何在信息真空和算法推动下发酵。这既是悲剧的个人故事，也是对医疗体系漠视女性心理健康的反思。文章既同情患者困境，又批判性地审视了耸人听闻和信息茧房对理性讨论的侵蚀，呼唤更具同理心和负责任的公共对话。",
+    "best_quote_en": "The American public distrusts its legal institutions and media outlets, creating a vacuum in which wild conjecture can bloom.",
+    "best_quote_zh": "美国公众对法律机构和媒体的不信任，营造了一个狂热猜测可以滋生的真空。"
+  },
+  {
+    "id": 376,
+    "title": "Book Freak #223: Scarcity Brain",
+    "title_zh": "书籍疯狂 #223：稀缺大脑",
+    "model_used": "poolside/laguna-xs-2.1:free",
+    "source": "Kevin Kelly",
+    "link": "https://kk.org/cooltools/book-freak-223-scarcity-brain/",
+    "tags": [
+      "learn",
+      "psychology",
+      "design"
+    ],
+    "tags_zh": [
+      "学习",
+      "心理学",
+      "设计创意"
+    ],
+    "date": "2026-08-21",
+    "summary_en": "This piece explores the fascinating psychological concept of 'scarcity brain' - how our evolutionary wiring continues to drive compulsive craving for more, despite living in an age of unprecedented abundance. Drawing on behavioral science, the author identifies a three-part 'scarcity loop' (opportunity, unpredictable rewards, quick repeatability) that explains addictive behaviors across domains from gambling to social media. The core insight is that our brains evolved in resource-scarce environments where 'more' was literally survival, yet we remain neurologically primed to perceive scarcity even when we have more than enough. This creates a fundamental mismatch manifesting in modern issues like obesity, shopping addiction, and doomscrolling. The solution isn't willpower but understanding - recognizing these patterns allows us to design our environments to break the cycle. The included practical exercises provide immediate tools for identifying scarcity loops, adding friction to compulsive behaviors, and practicing 'enough' awareness. This represents valuable self-knowledge for navigating our dopamine-saturated digital age.",
+    "summary_zh": "这篇文章揭示了‘稀缺大脑’的深刻心理机制——我们进化过程中激活的贪婪本能如何在物质丰富的现代社会中依然驱使我们不断渴求更多。作者通过行为科学识别出三环节的稀缺循环机制，解释了从赌博到社交媒体的各种成瘾行为。核心洞见在于，我们的大脑是在稀缺环境中进化的，对‘更多’具有本能性的生存驱动力，却始终难以摆脱稀缺的感知。这种进化与现代富足的根本性错位，导致肥胖、购物成瘾和沉溺于负面信息等问题。作者提出的解决方案不是靠意志力，而是通过认知转化——理解这些模式后，我们能够设计环境打破循环。文章附带的实践 exercises 立即可操作，为当代注意力经济时代的自我觉察提供了宝贵工具。",
+    "best_quote_en": "In the human brain, less equals bad, worse, unproductive, more equals good, better, productive. Our scarcity brain defaults to more and rarely considers less. And when we do consider less, we often think it sucks.",
+    "best_quote_zh": "在人类大脑中，少等于坏、更糟、低效，更多等于好、更好、高效。我们的稀缺大脑默认追求更多，几乎从不考虑少一些。当我们确实考虑少一些时，往往觉得很糟糕。"
   }
 ]
