@@ -1,123 +1,5 @@
 [
   {
-    "id": 277,
-    "title": "Networks Hold the Key to a Decades-Old Problem About Waves",
-    "title_zh": "解决波动问题的关键在于网络",
-    "source": "Quanta Magazine",
-    "link": "https://www.quantamagazine.org/networks-hold-the-key-to-a-decades-old-problem-about-waves-20260128/",
-    "tags": [
-      "solve",
-      "science",
-      "ai-research",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "解决",
-      "科学研究",
-      "AI研究",
-      "数据驱动"
-    ],
-    "date": "2026-01-28",
-    "summary_en": "Mathematicians have long grappled with fundamental questions about the Fourier transform, a powerful tool used across various fields. A recent breakthrough by four mathematicians has significantly advanced our understanding of a decades-old problem posed by Sarvadaman Chowla. By leveraging graph theory, they demonstrated that the minimum value of a specific type of Fourier transform can be lower than previously thought, challenging existing bounds and opening new avenues for research. This interdisciplinary approach not only solves a longstanding mathematical puzzle but also highlights the potential of combining different mathematical disciplines to tackle complex problems. The role of networks in this discovery underscores the importance of exploring unconventional connections in mathematics.",
-    "summary_zh": "数学家们一直在努力理解傅里叶变换的基本特性，这是一个广泛应用于各个领域的强大工具。最近，四位数学家在解决萨瓦达曼·丘拉提出的一个持续了数十年的问题上取得了重大突破。通过利用图论，他们证明了特定类型的傅里叶变换的最小值可以比之前认为的更低，挑战了现有的界限，并为研究开辟了新的途径。这种跨学科的方法不仅解决了一个长期以来的数学难题，还强调了在解决复杂问题时结合不同数学学科的潜力。网络在这一发现中的作用突显了在数学中探索非传统联系的重要性。",
-    "best_quote_en": "The fog surrounding the Fourier transform is still dense. But these new techniques are a little better at seeing through it.",
-    "best_quote_zh": "围绕傅里叶变换的迷雾依然浓密。但这些新技术能更好地穿透它。"
-  },
-  {
-    "id": 278,
-    "title": "Why does light exist?",
-    "title_zh": "光存在的原因是什么？",
-    "source": "Aeon",
-    "link": "https://aeon.co/videos/our-universe-has-light-not-by-chance-but-by-necessity?utm_source=rss-feed",
-    "tags": [
-      "analyze",
-      "science",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "分析",
-      "科学研究",
-      "数据驱动"
-    ],
-    "date": "2026-01-28",
-    "summary_en": "The article delves into the fundamental role of light in our universe, challenging the notion that life without it is conceivable. By exploring the insights of physicist Gideon Koekoek, it becomes clear that light is not merely a convenient aspect of existence but an inevitable consequence of the universe's physical laws. Koekoek's approach, blending fundamental physics with engaging experiments, underscores the profound interconnectedness of light with the fabric of reality. This perspective not only deepens our understanding of light but also highlights the intricate balance of forces that govern the cosmos, inviting readers to ponder the broader implications of these scientific truths.",
-    "summary_zh": "文章探讨了光在宇宙中的基本作用，挑战了无光生活的可能性。通过物理学家吉登·科克的见解，我们了解到光并非仅仅是存在的便利方面，而是宇宙物理定律的必然结果。科克将基本物理学与引人入胜的实验相结合，突显了光与现实结构之间深刻的相互关联。这种视角不仅加深了我们对光的理解，还凸显了支配宇宙的力量之间复杂的平衡，邀请读者思考这些科学真理的更广泛意义。",
-    "best_quote_en": "Light in our Universe occurred not by chance, but through inevitability.",
-    "best_quote_zh": "光在我们的宇宙中并非偶然发生，而是通过必然性出现的。"
-  },
-  {
-    "id": 279,
-    "title": "Why Olympic Curling Stones All Come From the Same Tiny Scottish Island",
-    "title_zh": "为何所有奥运冰壶石都来自苏格兰的同一个小岛",
-    "source": "Mental Floss",
-    "link": "https://www.mentalfloss.com/sports/olympics/curling-stones-come-from-scotland?utm_source=RSS",
-    "tags": [
-      "update",
-      "science",
-      "design",
-      "deep-dive"
-    ],
-    "tags_zh": [
-      "动态",
-      "科学研究",
-      "设计创意",
-      "深度分析"
-    ],
-    "date": "2026-01-29",
-    "summary_en": "The article delves into the fascinating specifics of Olympic curling stones, all sourced from Ailsa Craig, a tiny Scottish island. The granite from this island is uniquely suited for curling due to its hardness and predictability on ice. This insight reveals the meticulous attention to detail in Olympic sports equipment, where even the smallest factors can influence performance. The article also touches on the cultural and historical significance of Ailsa Craig, adding depth to the story beyond mere sporting interest. It's a testament to how tradition and innovation intersect in the world of sports.",
-    "summary_zh": "文章探讨了奥运冰壶石的独特之处，均来自苏格兰的艾尔萨克雷岛。该岛的花岗岩因其坚硬和在冰面上的可预测性而特别适合冰壶运动。这揭示了奥运会运动器材中的细致入微，甚至最微小的因素都会影响表现。文章还涉及艾尔萨克雷岛的文化和历史意义，为故事增添了深度，超越了单纯的体育兴趣。这正是传统与创新在体育世界中交汇的见证。",
-    "best_quote_en": "No other stone curls like an Ailsa Craig stone.",
-    "best_quote_zh": "没有其他石头像艾尔萨克雷岛的石头那样打曲线"
-  },
-  {
-    "id": 280,
-    "title": "Inside, the valley sings",
-    "title_zh": "监狱里的孤独之歌",
-    "source": "Aeon",
-    "link": "https://aeon.co/videos/the-elaborate-places-ones-mind-wanders-in-solitary-confinement?utm_source=rss-feed",
-    "tags": [
-      "analyze",
-      "society",
-      "science",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "分析",
-      "社会议题",
-      "科学研究",
-      "数据驱动"
-    ],
-    "date": "2026-01-29",
-    "summary_en": "The documentary 'Inside, the Valley Sings' sheds light on the harrowing experiences of long-term solitary confinement in the US, where approximately 122,000 individuals endure isolation daily. Directed by Nathan Fagan, the film profiles three former prisoners turned activists, each sharing unique yet universally resonant themes of loneliness and mental struggle. Through evocative animation, the documentary not only advocates against solitary confinement but also underscores the essential human need for stimulation and social connection. The film's power lies in its ability to humanize these stories, making a compelling case for reform and highlighting the profound psychological impacts of isolation.",
-    "summary_zh": "纪录片《监狱里的孤独之歌》揭示了美国长期单独监禁的残酷现实，约有122,000人每天处于隔离状态。导演Nathan Fagan通过动画手法，讲述了三位曾经遭受长期单独监禁的前囚犯的故事，他们现在已成为活动家。尽管每个人的经历不同，但孤独与心理挣扎的主题却普遍存在。这部影片不仅呼吁废除单独监禁，还强调了刺激与社会联系对人类的重要性，以及缺乏这些因素时心理的剧烈反应。",
-    "best_quote_en": "Beyond making a forceful case against the use of solitary confinement, the film highlights how vital both stimulation and social connection are to the human experience.",
-    "best_quote_zh": "影片不仅强烈反对使用单独监禁，还突显了刺激和社会联系对人类体验的重要性。"
-  },
-  {
-    "id": 281,
-    "title": "How Gossip Columns Actually Worked in the Regency Era",
-    "title_zh": "Regency时期的八卦专栏是如何运作的",
-    "source": "Mental Floss",
-    "link": "https://www.mentalfloss.com/history/misconceptions/how-gossip-columns-worked-in-regency-era?utm_source=RSS",
-    "tags": [
-      "analyze",
-      "science",
-      "ai-research",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "分析",
-      "科学研究",
-      "AI研究",
-      "数据驱动"
-    ],
-    "date": "2026-01-29",
-    "summary_en": "The article delves into the fascinating world of Regency-era gossip columns, comparing them to the fictional Lady Whistledown from 'Bridgerton.' It explores how societal whispers were transformed into widely circulated news, driven by a voracious appetite for scandal and intrigue. The piece highlights the evolution from word-of-mouth gossip to printed columns, the discreet methods used to avoid libel, and the significant role gossip played in shaping social dynamics and alliances. This historical context offers insights into modern media and the enduring fascination with celebrity culture.",
-    "summary_zh": "文章探讨了Regency时期的八卦专栏，将其与《布里奇顿》中的虚构人物Lady Whistledown进行了比较。它揭示了社会上的窃窃私语如何被转化为广泛流传的新闻，这种新闻由对丑闻和阴谋的强烈渴望所驱动。文章强调了从口耳相传的八卦到印刷专栏的演变，以及为避免诽谤而使用的隐晦方法，以及八卦在塑造社会动态和联盟中的重要作用。这一历史背景为现代媒体和对名人文化的持久迷恋提供了见解。",
-    "best_quote_en": "Curiosity did not act alone. When fortunes hinged on alliances, reputations, and marriages, gossip served a calculated purpose.",
-    "best_quote_zh": "好奇心并不是单独起作用的。当财富取决于联盟、声誉和婚姻时，八卦起到了精心策划的作用。"
-  },
-  {
     "id": 282,
     "title": "Refusals that could become catastrophic",
     "title_zh": "可能成为灾难性的拒绝",
@@ -2316,5 +2198,122 @@
     "summary_zh": "这篇文章揭示了‘稀缺大脑’的深刻心理机制——我们进化过程中激活的贪婪本能如何在物质丰富的现代社会中依然驱使我们不断渴求更多。作者通过行为科学识别出三环节的稀缺循环机制，解释了从赌博到社交媒体的各种成瘾行为。核心洞见在于，我们的大脑是在稀缺环境中进化的，对‘更多’具有本能性的生存驱动力，却始终难以摆脱稀缺的感知。这种进化与现代富足的根本性错位，导致肥胖、购物成瘾和沉溺于负面信息等问题。作者提出的解决方案不是靠意志力，而是通过认知转化——理解这些模式后，我们能够设计环境打破循环。文章附带的实践 exercises 立即可操作，为当代注意力经济时代的自我觉察提供了宝贵工具。",
     "best_quote_en": "In the human brain, less equals bad, worse, unproductive, more equals good, better, productive. Our scarcity brain defaults to more and rarely considers less. And when we do consider less, we often think it sucks.",
     "best_quote_zh": "在人类大脑中，少等于坏、更糟、低效，更多等于好、更好、高效。我们的稀缺大脑默认追求更多，几乎从不考虑少一些。当我们确实考虑少一些时，往往觉得很糟糕。"
+  },
+  {
+    "id": 377,
+    "title": "How to Improve Motivation & Overcome Procrastination | Dr. Masud Husain",
+    "title_zh": "如何提升动力并克服拖延 | 马苏德·胡赛因博士",
+    "model_used": "cohere/north-mini-code:free",
+    "source": "Huberman Lab",
+    "link": "https://www.hubermanlab.com/episode/how-to-improve-motivation-and-overcome-procrastination-masud-husain",
+    "tags": [
+      "solve",
+      "ai-research",
+      "medicine"
+    ],
+    "tags_zh": [
+      "解决",
+      "AI研究",
+      "医学健康"
+    ],
+    "date": "2026-08-24",
+    "summary_en": "This episode features Dr. Masud Husain, a leading Oxford neurologist and cognitive neuroscientist, exploring the science of motivation, apathy, and neurological diseases. The discussion reveals how dopamine and specific brain circuits shape our drive, particularly the effort-versus-reward trade-offs that govern goal selection. Dr. Husain provides practical tools for increasing motivation, reducing distractions, and maintaining goal pursuit, making this content highly actionable for anyone struggling with procrastination. The conversation extends to dementia, Parkinson's, and Alzheimer's diseases, offering new insights into cognitive resilience and protective factors against age-related decline. This episode bridges cutting-edge neuroscience with practical self-improvement strategies, making it valuable for both scientific understanding and personal development. The expert insights from a top researcher at Oxford University position this as thought leadership in motivation science, with significant implications for mental health, productivity, and aging populations.",
+    "summary_zh": "本期节目邀请牛津大学神经学与认知神经科学教授马苏德·胡赛因博士，探讨了动力、乏力和神经疾病的科学。胡赛因博士揭示了多巴胺和特定大脑回路如何塑造我们的动力，尤其是在权衡努力与回报时决定我们追求哪些目标方面。他还提供了实用的工具，帮助人们提高动力、减少分心和维持目标追求。这次讨论还涉及痴呆症、帕金森氏症和阿尔茨海默氏症，包括关于认知弹性和保护因素的新见解，以预防与年龄相关的认知衰退。这期节目将前沿神经科学与实用的自我提升策略相结合，对于那些努力克服拖延症的人来说非常宝贵。来自牛津大学顶尖研究人员的专业见解，使本期节目成为动机科学的领军之作，对于心理健康、生产力和老龄化人口具有重要意义。",
+    "best_quote_en": "Dopamine and specific brain circuits shape motivation, particularly how the brain weighs the trade-off between effort vs reward when deciding what goals to pursue.",
+    "best_quote_zh": "多巴胺和特定的大脑回路塑造了动机，尤其是在权衡努力与回报时决定我们追求哪些目标。"
+  },
+  {
+    "id": 378,
+    "title": "Transcendental Longing",
+    "title_zh": "超越的渴望",
+    "model_used": "nvidia/nemotron-3-super-120b-a12b:free",
+    "source": "Harper’s Magazine",
+    "link": "https://harpers.org/2026/08/transcendental-longing-general-interest-ian-penman-charlie-lee-alice-coltrane/",
+    "tags": [
+      "inspire",
+      "society",
+      "writing-content",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "启发",
+      "社会议题",
+      "写作内容",
+      "未来预测"
+    ],
+    "date": "2026-08-16",
+    "summary_en": "This Harper's Magazine interview with critic Ian Penman explores Alice Coltrane's profound spiritual journey following her husband John Coltrane's death, framing her period of intense suffering as tapasya—a Sanskrit concept of purifying penance. Penman reflects on how her music transcends genre boundaries, blending jazz, funk, disco, and electronica, and how it evokes deep emotional and even physical responses in listeners, from altered states to vivid dreams. He critiques the tendency of jazz criticism to marginalize spiritual and feminine dimensions in music, contrasting the vilification Alice faced during her life with the posthumous sainthood bestowed on John Coltrane. The conversation delves into the politics of spiritual expression in Black music, the limitations of reductive genre labels, and the transformative power of music that resists easy categorization. Penman advocates for embracing music's capacity to inspire goodness, faith, and communal connection, pushing back against culture's fixation on darkness and cynicism.",
+    "summary_zh": "这篇访谈深刻探讨了爱丽丝·科尔特兰在丈夫约翰·科尔特兰去世后经历的灵性转变，将她的痛苦时期解读为《tapasya》——一种通向觉醒的苦行。伊恩·佩恩曼反思她的音乐如何超越爵士乐的种类界限，融合放克、迪斯科和电子元素，引发听众强烈的身心共鸣。他指出，当时的爵士批评常因她的种族、性别和公开的灵性而边缘化她，而约翰·科尔特兰死后却被奉为圣人。讨论触及黑人精神传统与政治的交织，以及音乐如何提供超越虚无主义的善意与连接。佩恩曼主张我们应重新审视文化对“黑暗”的痴迷，转而关注音乐中蕴含的善意、忠诚与集体觉醒的可能。",
+    "best_quote_en": "So much of our culture maintains an easy obsession with 'darkness,' but finds it difficult to sensitively explore matters relating to goodness, faith, fidelity, sacrifice, happiness, commitment.",
+    "best_quote_zh": "我们的文化很容易沉迷于‘黑暗’，却难以敏感地探讨善良、信仰、忠诚、牺牲、幸福和承诺这些主题。"
+  },
+  {
+    "id": 379,
+    "title": "Framed answer today – here’s the solution for August 25",
+    "title_zh": "Framed 今日答案 – 8月25日解谜方案",
+    "model_used": "nvidia/nemotron-3.5-lightning:free",
+    "source": "NME",
+    "link": "https://www.nme.com/guides/gaming-guides/framed-answer-today-3192186?utm_source=rss&utm_medium=rss&utm_campaign=framed-answer-today",
+    "tags": [
+      "solve",
+      "gaming"
+    ],
+    "tags_zh": [
+      "解决",
+      "游戏开发"
+    ],
+    "date": "2026-08-24",
+    "summary_en": "This NME article serves as a comprehensive guide to today's Framed puzzle, a browser-based movie guessing game inspired by Wordle. The piece distinguishes Framed by its focus on individual movie stills rather than general trivia, requiring players to analyze visual cues and contextual clues revealed with each incorrect guess. It provides actionable hints for the August 25 puzzle—identifying it as a 2011 American science fiction thriller directed by Neil Burger starring Bradley Cooper and Robert De Niro—and reveals the answer as 'Limitless.' Beyond the immediate solution, the article offers strategic value by listing recent previous answers, emphasizing the advantage of pattern recognition. The content is highly practical for daily players, functioning as both a real-time hint service and a long-term repository of puzzle solutions, ultimately enhancing user retention through consistent daily utility.",
+    "summary_zh": "这篇 NME 的文章是对今日 Framed 益智游戏的全面指南，该游戏灵感来源于 Wordle。文章阐述了 Framed 的独特之处：它聚焦于单个电影定格，而非普通知识问答，玩家需要分析视觉线索，并在每次错误猜测后获得上下文提示。文章为8月25日的谜题提供了可操作的提示——将其识别为2011年由尼尔·伯格执导、主演布拉德利·库珀和罗伯特·德尼罗的美国科 Thriller 电影，并揭晓了答案为《Limitless》。除了即时解答，文章还通过列出近期之前的答案，提供了策略价值，强调了模式识别的优势。对于每日玩家而言，此内容高度实用，既即时提供提示，又作为长期的解谜宝库，通过持续的日常实用性提高用户留存率。",
+    "best_quote_en": "With only six guesses at your disposal, you may need a little help guessing today’s Framed answer.",
+    "best_quote_zh": "在只有六次猜测机会的情况下，你可能需要一些帮助来猜出今天的 Framed 答案。"
+  },
+  {
+    "id": 380,
+    "title": "The Vocabulary of Vulnerability: 10 Wonderfully Untranslatable Words from Around the World for Complex and Difficult Emotions",
+    "title_zh": "脆弱的词汇：来自世界各地的 10 个奇妙不可翻译的词，描述复杂而困难的情绪",
+    "model_used": "nvidia/nemotron-3-ultra-550b-a55b:free",
+    "source": "RogerEbert.com",
+    "link": "https://www.themarginalian.org/2026/08/24/book-of-human-emotions/",
+    "tags": [
+      "solve",
+      "psychology",
+      "writing-content",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "解决",
+      "心理学",
+      "写作内容",
+      "未来预测"
+    ],
+    "date": "2026-08-25",
+    "summary_en": "This piece explores how language both shapes and limits our emotional reality, drawing from Tiffany Watt Smith's 'The Book of Human Emotions' to present ten untranslatable words that name feelings English cannot capture. Each word — from Sanskrit's abhiman (the wounded pride when loved ones betray us) to Polish żal (melancholy laced with rebellious anger at irretrievable loss) — reveals how cultures encode permission structures for what we're allowed to feel. The Japanese concept of amae is particularly striking: the surrender to being cared for without obligation, framed not as weakness but as the 'glue' of trust. Finnish kaukokaipuu names homesickness for places never visited, while Thai greng jai captures the reluctance to burden others with kindness. These aren't mere linguistic curiosities; they're evidence that our emotional vocabulary determines our emotional possibility. Smith's work suggests that expanding our lexicon is an act of liberation — reclaiming the 'expansiveness of our experience' from cultural constraints. The article itself performs what it describes: by naming the unnamed, it validates emotions readers may have felt but never had permission to acknowledge.",
+    "summary_zh": "语言既是盛装体验的圣杯，也是给体验定型的模具。这篇文章从蒂凡尼·瓦特·史密斯的《人类情感书》中选取了十个英语无法对应的词汇，每个词都像一把钥匙，打开被文化压抑的情感之门。日语 amae 让我震惊：原来「理所当然地依赖他人的爱、无需感激地被照顾」不仅不是软弱，反而是信任的胶水、关系的基石。芬兰语 kaukokaipuu 为「从未去过的地方的乡愁」命名，波兰语 żal 则将「对不可挽回之失去的忧伤」与「叛逆的愤怒」交织在一起。这些词汇不仅填补词汇空白，更证明：我们能说出什么情绪，就能允许自己感受什么情绪。扩充情感词汇，是夺回体验广度的解放行动。",
+    "best_quote_en": "Language is the chalice we lift to our lips to taste our own experience — a vessel that constrains what it contains by giving it its own shape.",
+    "best_quote_zh": "语言是我们举到嘴边、用来品尝自身体验的圣杯 —— 一个因赋予形状而限制其所容之物的容器。"
+  },
+  {
+    "id": 381,
+    "title": "Essentials: How to Access Your Creativity | Rick Rubin",
+    "title_zh": "核心精华：如何激发你的创造力 | 里克·鲁宾",
+    "model_used": "nvidia/nemotron-3-ultra-550b-a55b:free",
+    "source": "Huberman Lab",
+    "link": "https://www.hubermanlab.com/episode/essentials-how-to-access-your-creativity-rick-rubin",
+    "tags": [
+      "solve",
+      "music-arts",
+      "writing-content"
+    ],
+    "tags_zh": [
+      "解决",
+      "音乐艺术",
+      "写作内容"
+    ],
+    "date": "2026-08-20",
+    "summary_en": "This conversation between Andrew Huberman and legendary music producer Rick Rubin transcends typical productivity advice, offering instead a philosophy of creative being. Rubin frames creativity not as a skill to master but as a natural state to return to—comparing ideas to clouds or dreams that pass through us when we're receptive. The most striking insight is his reframing of self-doubt: not as an obstacle but as a necessary compass pointing toward what matters. His four-phase model (seed, experimentation, craft, completion) mirrors natural cycles rather than industrial processes. The discussion on pro wrestling as metaphor for embracing constructed reality while staying present is unexpectedly profound. Rubin's emphasis on 'taste' as our only true north—rather than external validation or technique—resonates deeply in an age of algorithmic optimization. This isn't about creative output; it's about creative integrity.",
+    "summary_zh": "这不是效率指南，而是创造的生存哲学。鲁宾将创意比作云与梦——非我所造，而是我所接纳。最震撼的是：自我怀疑非障碍，乃指南针，指向在乎之处。四阶段模型（种子、实验、打磨、完成）遵循自然律而非工业流。职业摔角隐喻令人意外：在构建的真实中保持当下。\"品味\"是唯一真北，非外部认可。算法时代，这关乎创造的完整性，而非产出。",
+    "best_quote_en": "Ideas are like clouds or dreams. They pass through us. Our job is to notice them, to be receptive enough to catch them when they come through.",
+    "best_quote_zh": "创意如云如梦，流经我们。我们的任务是察觉它们，保持足够的敏感，在它们经过时接住它们。"
   }
 ]
