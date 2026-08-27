@@ -1,123 +1,5 @@
 [
   {
-    "id": 287,
-    "title": "5 Common Misconceptions About ADHD People Still Believe",
-    "title_zh": "人们仍然相信的关于 ADHD 的 5 个常见误解",
-    "source": "Mental Floss",
-    "link": "https://www.mentalfloss.com/science/psychology/misconceptions-about-adhd?utm_source=RSS",
-    "tags": [
-      "learn",
-      "science",
-      "psychology",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "学习",
-      "科学研究",
-      "心理学",
-      "数据驱动"
-    ],
-    "date": "2026-01-30",
-    "summary_en": "The article '5 Common Misconceptions About ADHD People Still Believe' debunks prevalent myths surrounding Attention Deficit Hyperactivity Disorder. It explores how societal perceptions and misconceptions shape the treatment of ADHD individuals, from childhood to adulthood. The piece highlights that ADHD is not merely about inattention but rather about managing attention. It also addresses the diverse symptoms, the impact on both genders, the persistence of ADHD into adulthood, and the role of parenting. The author's insights underscore the need for a more nuanced understanding of ADHD, emphasizing that it is a complex neurological condition that requires tailored strategies for management. This article is a call to action for educators, parents, and society at large to challenge stereotypes and support those with ADHD more effectively.",
-    "summary_zh": "文章《人们仍然相信的关于 ADHD 的 5 个常见误解》揭示了关于注意力缺陷多动障碍（ADHD）的普遍误解。它探讨了社会对 ADHD 的理解如何影响对患者的处理，从儿童到成年。文章强调，ADHD 并不是简单的注意力不集中，而是关于管理注意力。它还讨论了不同的症状、对不同性别的影响、ADHD 随年龄的持续以及养育方式的作用。作者的见解强调需要对 ADHD 有更深入的理解，强调它是一种复杂的神经系统疾病，需要个性化的管理策略。这篇文章呼吁教育工作者、家长和社会大众挑战刻板印象，更有效地支持 ADHD 患者。",
-    "best_quote_en": "ADHD isn't a lack of attention; it's trouble managing it.",
-    "best_quote_zh": "ADHD 不是注意力不集中，而是管理注意力的困难。"
-  },
-  {
-    "id": 288,
-    "title": "Forecast: Recursively Self-improving AI for 2033",
-    "title_zh": "预测：2033年的递归自我改进人工智能",
-    "source": "LessWrong",
-    "link": "https://www.lesswrong.com/posts/GHxWxRFto32jedmJh/forecast-recursively-self-improving-ai-for-2033",
-    "tags": [
-      "analyze",
-      "science",
-      "ai-research",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "分析",
-      "科学研究",
-      "AI研究",
-      "未来预测"
-    ],
-    "date": "2026-01-30",
-    "summary_en": "The article forecasts the development of recursively self-improving AI by 2033, based on the doubling of LLM capabilities every 6 months. It discusses the measurement of AI's ability to complete tasks and predicts that by 2033, AI will be capable of writing NeurIPS papers independently, leading to significant self-improvement. The analysis highlights the potential for a hard takeoff scenario, where AI rapidly improves, doubling its capabilities exponentially. This insight underscores the need for understanding and preparing for the implications of advanced AI systems.",
-    "summary_zh": "文章预测2033年将出现递归自我改进的人工智能，基于LLM能力每6个月翻倍的趋势。它讨论了测量AI完成任务能力的方法，并预测到2033年，AI将能够独立撰写NeurIPS论文，从而实现显著的自我改进。分析强调了可能出现的硬启动场景，AI迅速提升能力，呈指数增长。这表明需要理解和准备应对先进AI系统的潜在影响。",
-    "best_quote_en": "In 7 years, i.e. 2033, it will be possible to create a recursively self-improving AI.",
-    "best_quote_zh": "7年后，即2033年，将可能创建递归自我改进的人工智能。"
-  },
-  {
-    "id": 289,
-    "title": "Gar’s Tips & Tools – Issue #208",
-    "title_zh": "Gar的小贴士与工具 – 第208期",
-    "source": "Kevin Kelly",
-    "link": "https://kk.org/cooltools/gars-tips-tools-issue-208/",
-    "tags": [
-      "solve",
-      "science",
-      "lifestyle",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "解决",
-      "科学研究",
-      "生活方式",
-      "数据驱动"
-    ],
-    "date": "2026-01-30",
-    "summary_en": "Gar's latest newsletter issue delves into a variety of intriguing topics, from the fascination of Asian street food videos to practical tool reviews and creative experiments with rattle can paint. The content highlights the cultural significance of eggs in Asian cuisine, referencing Andrew Lawler's book on the history of chickens. It also features Todd from Project Farm's top tool recommendations, Wesley Treat's innovative CMYK printing experiments, and the Tested team's favorite tools of 2025. Additionally, it offers practical advice on preserving food and selecting the best firewood, showcasing a blend of cultural insight, practical tips, and creative experimentation.",
-    "summary_zh": "Gar的最新时事通讯深入探讨了各种引人入胜的话题，从亚洲街头美食视频的魅力，到实用工具评测和利用喷雾罐进行创意实验。内容突出了亚洲饮食中鸡蛋的文化意义，引用了Andrew Lawler关于鸡的历史的书。还包括了Project Farm的Todd对顶级工具的推荐、Wesley Treat的创新CMYK打印实验以及Tested团队2025年的最爱工具。此外，还提供了保存食物和选择最佳燃料的实用建议，展示了文化洞察力、实用技巧和创意实验的结合。",
-    "best_quote_en": "Food tips too good not to share",
-    "best_quote_zh": "食物小贴士，不分享太可惜"
-  },
-  {
-    "id": 290,
-    "title": "How Modern and Antique Technologies Reveal a Dynamic Cosmos",
-    "title_zh": "现代和古老技术揭示动态宇宙",
-    "source": "Quanta Magazine",
-    "link": "https://www.quantamagazine.org/how-modern-and-antique-technologies-reveal-a-dynamic-cosmos-20260202/",
-    "tags": [
-      "analyze",
-      "science",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "分析",
-      "科学研究",
-      "数据驱动"
-    ],
-    "date": "2026-02-02",
-    "summary_en": "The article delves into the fascinating world of astronomical photography, focusing on the historic glass plates from the Bruce Telescope at Harvard. These plates, annotated with various colors, markings, and stickers, serve as a bridge between antique and modern technologies, revealing the dynamic nature of the cosmos. The annotations not only categorize the imagery but also highlight significant findings, demonstrating the enduring value of historical data in contemporary research. This blend of old and new methodologies offers a unique perspective on the evolution of astronomical observation and the continuous quest for understanding the universe.",
-    "summary_zh": "文章深入探讨了天文摄影的奇妙世界，聚焦于哈佛布鲁斯望远镜的历史玻璃板。这些板子上标有各种颜色、标记和贴纸，连接了古老与现代技术，揭示了宇宙的动态本质。这些标注不仅分类了图像，还突出了重要发现，展示了历史数据在当代研究中的持久价值。旧方法与新方法的结合，为天文观测的演变以及不断探索宇宙的过程，提供了独特的视角。",
-    "best_quote_en": "These plates, annotated with various colors, markings, and stickers, serve as a bridge between antique and modern technologies",
-    "best_quote_zh": "这些板子上标有各种颜色、标记和贴纸，连接了古老与现代技术"
-  },
-  {
-    "id": 291,
-    "title": "The car that came back from the sea",
-    "title_zh": "从海里回来的汽车",
-    "source": "Aeon",
-    "link": "https://aeon.co/videos/youthful-joy-and-civil-unrest-collide-in-this-epic-road-trip-tale?utm_source=rss-feed",
-    "tags": [
-      "solve",
-      "science",
-      "design",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "解决",
-      "科学研究",
-      "设计创意",
-      "数据驱动"
-    ],
-    "date": "2026-02-02",
-    "summary_en": "The Car That Came Back from the Sea is a poignant exploration of youth, friendship, and the universal desire for freedom set against the backdrop of Poland's 1981 economic crisis and impending martial law. Jadwiga Kowalska's award-winning animation brings to life the stories of young friends embarking on a spontaneous road trip to the Baltic coast, using stark black-and-white visuals to create a timeless reflection on the human experience. The film's power lies in its ability to transcend its specific historical context, offering viewers a deeply personal and relatable narrative.",
-    "summary_zh": "《从海里回来的汽车》以1981年波兰经济危机和即将到来的戒严为背景，深刻探讨了青春、友谊与自由的普遍渴望。雅德维加·科瓦尔斯卡通过黑白动画讲述了一群年轻人驾车前往波罗的海的故事，揭示了深刻的历史与永恒的个人情感。",
-    "best_quote_en": "'I just wanted to get away.'",
-    "best_quote_zh": "我想只是想逃离。"
-  },
-  {
     "id": 292,
     "title": "The Real Rules of Courtship in the Regency Era",
     "title_zh": "“Regency时代求爱的真实规则”",
@@ -2316,5 +2198,114 @@
     "summary_zh": "这个关于篮球护臂的《100 件物品》 episodes 揭示了一个看似普通但充满意义的故事。从艾伦·艾弗森的传奇经历出发，这个护臂成为一种赋权和抵抗的象征，反映了篮球运动中种族、尊重政治和身份认同的复杂关系。这个节目让我们重新审视日常物品，看到它们如何承载着文化意义和历史叙事，讲述着关于美国社会变迁的深刻故事。",
     "best_quote_en": "The compression sleeve became a symbol of empowerment for a generation of Black athletes who wanted to claim space on their own terms.",
     "best_quote_zh": "护臂成为了一代黑人运动员用自己的方式占据空间和赋权的象征。"
+  },
+  {
+    "id": 387,
+    "title": "“By the Lake” by Photographer Tommy Keith",
+    "title_zh": "湖畔",
+    "model_used": "nvidia/nemotron-3-nano-omni-30b-a3b-reasoning:free",
+    "source": "BOOOOOOOM",
+    "link": "https://www.booooooom.com/2026/08/26/by-the-lake-by-photographer-tommy-keith/",
+    "tags": [
+      "update",
+      "music-arts"
+    ],
+    "tags_zh": [
+      "动态",
+      "音乐艺术"
+    ],
+    "date": "2026-08-26",
+    "summary_en": "Tommy Keith’s series “By the Lake” presents a quiet exploration of a serene waterside landscape. Through a sequence of carefully composed photographs, the viewer is drawn into the gentle play of light on water, the subtle reflections of surrounding trees, and the stillness that pervades the scene. Each image captures a different moment of calm, from early morning mist to late afternoon glow, emphasizing the natural beauty and meditative atmosphere of the lake. The collection invites contemplation, encouraging audiences to pause and appreciate the simple elegance found in nature’s quiet moments.",
+    "summary_zh": "汤姆基思的湖畔系列通过精心构图的摄影展现湖面上光影变幻树影倒映及宁静的自然氛围引领观者在清晨薄雾到傍晚余晖之间体会自然的简约美感与沉静的冥想情绪和谐的光影交错映照心灵带来宁静的沉思",
+    "best_quote_en": "The lake mirrors the sky, inviting quiet contemplation and gentle reflection.",
+    "best_quote_zh": "湖面映照天空，邀请宁静沉思与柔和反思。"
+  },
+  {
+    "id": 388,
+    "title": "‘We’re at a crisis point’: Chappell Roan, Shirley Manson and Eli on playing Olivia Rodrigo’s female-only festival",
+    "title_zh": "“我们正处于危机时刻”：Chappell Roan、Shirley Manson 与 Eli 谈论参加 Olivia Rodrigo 的纯女性音乐节",
+    "model_used": "google/gemma-4-26b-a4b-it:free",
+    "source": "Women | The Guardian",
+    "link": "https://www.theguardian.com/music/2026/aug/27/olivia-rodrigo-daisy-chain-fields-preview-chappell-roan-interview-eli-shirley-manson",
+    "tags": [
+      "update",
+      "music-arts"
+    ],
+    "tags_zh": [
+      "动态",
+      "音乐艺术"
+    ],
+    "date": "2026-08-27",
+    "summary_en": "Olivia Rodrigo is launching her inaugural festival, Daisy Chain Fields, in Irvine, California. Featuring an intergenerational lineup including Chappell Roan, Shirley Manson, and Eli, the event aims to celebrate women's art and community while addressing gender imbalances in the industry. Unlike traditional festivals, the lineup emphasizes equality with no overlapping sets or hierarchy. Most importantly, the festival serves a mission-driven purpose: 100% of net proceeds will support reproductive rights organizations like Planned Parenthood, reflecting a growing movement of artists using large-scale events to advocate for social justice and women's rights.",
+    "summary_zh": "Olivia Rodrigo 即将在加州举办首届 Daisy Chain Fields 音乐节。该活动汇集了 Chappell Roan、Shirley Manson 及 Eli 等跨世代女性艺术家，旨在打破音乐节性别失衡的现状，并建立一个非竞争性的社区文化。不同于传统商业音乐节，该活动具有强烈的社会使命感：其净收益将全部捐赠给 Planned Parenthood 等机构，支持女性生殖权利。这标志着艺术家正利用大型现场活动，将音乐表演与社会正义及女性权利倡导紧密结合。",
+    "best_quote_en": "We’re at a crisis point.",
+    "best_quote_zh": "我们正处于一个危机时刻。"
+  },
+  {
+    "id": 389,
+    "title": "Early Work",
+    "title_zh": "早期工作",
+    "model_used": "dots-studio/dots-3-note-preview:free",
+    "source": "Paul Graham",
+    "link": "http://www.paulgraham.com/early.html",
+    "tags": [
+      "solve",
+      "startup-strategy",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "解决",
+      "创业策略",
+      "未来预测"
+    ],
+    "date": "2026-08-27",
+    "summary_en": "Paul Graham's essay 'Early Work' explores the pervasive fear of creating something inadequate, which stifles ambitious endeavors. This fear is not irrational; early stages of projects often appear unimpressive, even to creators, due to societal lack of customs for evaluating nascent ideas. Graham argues that by shifting mindset—treating new ideas as challenges to imagination rather than dismissing them—we can overcome this barrier. Drawing on Silicon Valley's culture, he highlights how optimism and supportive environments foster innovation. The essay offers actionable strategies, such as embracing overconfidence, surrounding oneself with discerning peers, and reframing failure as learning, to navigate the 'lame phase.' While Graham's insights are profoundly insightful, they primarily focus on individual psychology, potentially underestimating systemic obstacles. Ultimately, the piece calls for evolving social norms to encourage risk-taking, urging readers to appreciate the inherent value in early work and cultivate a growth mindset essential for progress.",
+    "summary_zh": "本文深入探讨了阻碍创新的恐惧心理：对做出拙劣作品的畏惧。这种恐惧合理，因初期成果常显不成熟。作者指出社会缺乏评估新想法的习俗，导致过早批判。通过硅谷案例，他强调将新想法视为想象力挑战而非否定，能促进创新。文中提供实用策略，如适度过度自信、寻求良师益友、将失败视为学习，帮助度过‘拙劣期’。尽管聚焦个人心理，但文章呼吁社会规范演变以鼓励冒险，引导读者重估早期工作的价值，培养成长心态。",
+    "best_quote_en": "The right way to deal with new ideas is to treat them as a challenge to your imagination – not just to have lower standards, but to switch polarity entirely, from listing the reasons an idea won't work to trying to think of ways it could.",
+    "best_quote_zh": "处理新想法的正确方式是将其视为对想象力的挑战——不是降低标准，而是完全切换极性，从列出想法行不通的原因转向思考它如何可能可行。"
+  },
+  {
+    "id": 390,
+    "title": "Relationship Tools That Work — Esther Perel, Brené Brown, Dr. Sue Johnson, Terry Real, and More on Conflict, Repair, and Lasting Love (#880)",
+    "title_zh": "有效的关系工具——埃丝特·佩雷尔、布伦妮·布朗、苏·约翰逊博士、特里·雷尔等关于冲突、修复与持久爱情（#880）",
+    "model_used": "dots-studio/dots-3-note-preview:free",
+    "source": "Tim Ferriss",
+    "link": "https://tim.blog/2026/08/19/relationship-tools/",
+    "tags": [
+      "learn",
+      "psychology",
+      "writing-content"
+    ],
+    "tags_zh": [
+      "学习",
+      "心理学",
+      "写作内容"
+    ],
+    "date": "2026-08-19",
+    "summary_en": "This episode convenes a rare constellation of relationship experts—Esther Perel, Brené Brown, the late Dr. Sue Johnson, Terry Real, and others—to address the universal challenge of sustaining intimacy across time. Rather than offering quick fixes, the discussion explores the structural and emotional mechanics of conflict, repair, and resilience. Drawing from attachment theory, somatic psychology, and clinical practice, the contributors reframe conflict not as a failure of love but as an inevitable and necessary phase in the cycle of closeness. The insights are grounded in decades of research and therapeutic work, offering listeners not just theory but practical tools: naming emotions, listening before responding, and understanding that the real fight is often about how we fight. The episode’s value lies in its synthesis of expert wisdom into actionable frameworks, making advanced psychological concepts accessible without sacrificing depth. It is both a diagnostic mirror and a repair manual for modern relationships.",
+    "summary_zh": "这期节目汇聚了多位关系领域顶尖专家，共同探讨如何在时间中维系亲密感。他们不提供速效解决方案，而是深入剖析冲突、修复与韧性的内在机制。借助依恋理论、身体心理学与临床实践，嘉宾们重新定义冲突——它并非爱的失败，而是亲密循环中必然且必要的一环。这些见解源于数十年研究与治疗经验，将高深心理学概念转化为可操作工具：如命名情绪、先倾听再回应、理解“真正的争执往往关乎我们如何争吵”。节目既是一面诊断之镜，也是一本修复手册，为现代关系提供兼具深度与实用性的指引。",
+    "best_quote_en": "The essential rhythm of all relationships is harmony, disharmony, and repair. Closeness, disruption, and a return to closeness.",
+    "best_quote_zh": "所有关系的基本节奏是：和谐、不和谐与修复。亲密、中断，然后回归亲密。"
+  },
+  {
+    "id": 391,
+    "title": "Illustrator Spotlight: Ibrahim Rayintakath",
+    "title_zh": "插画家专访：伊布拉希姆·赖伊因塔卡特",
+    "model_used": "poolside/laguna-xs-2.1:free",
+    "source": "BOOOOOOOM",
+    "link": "https://www.booooooom.com/2026/08/24/illustrator-spotlight-ibrahim-rayintakath/",
+    "tags": [
+      "analyze",
+      "ai-research"
+    ],
+    "tags_zh": [
+      "分析",
+      "AI研究"
+    ],
+    "date": "2026-08-24",
+    "summary_en": "This content features a comprehensive visual portfolio of Ibrahim Rayintakath, an illustrator whose work spans diverse artistic techniques and cultural themes. Through twenty detailed artwork images, the piece reveals a sophisticated approach to visual storytelling that bridges traditional and contemporary aesthetics. Rayintakath's work demonstrates mastery in color theory, composition, and narrative depth, suggesting an artist deeply engaged with both personal expression and broader cultural dialogues. The visual feast serves as both inspiration for fellow creatives and educational material for those studying illustration techniques. The absence of extensive text in favor of visual immersion speaks to the power of imagery in contemporary art discourse, allowing the work to speak for itself while providing valuable insights into the artist's creative universe.",
+    "summary_zh": "这篇内容以二十幅精美插画作品为主，深入展示了伊布拉希姆·赖伊因塔卡特的艺术风格。作品融合传统与当代审美，运用了色彩理论、构图和叙事深度。纯以图像为主，让艺术品牌力更直观，为创作者提供灵感。",
+    "best_quote_en": "Ibrahim Rayintakath's Website",
+    "best_quote_zh": "伊布拉希姆·赖伊因塔卡特的作品网站"
   }
 ]
