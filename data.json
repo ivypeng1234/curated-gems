@@ -1,125 +1,5 @@
 [
   {
-    "id": 292,
-    "title": "The Real Rules of Courtship in the Regency Era",
-    "title_zh": "“Regency时代求爱的真实规则”",
-    "source": "Mental Floss",
-    "link": "https://www.mentalfloss.com/history/real-rules-of-courtship-in-regency-era?utm_source=RSS",
-    "tags": [
-      "solve",
-      "writing-content",
-      "ai-research",
-      "beginner-friendly"
-    ],
-    "tags_zh": [
-      "解决",
-      "写作内容",
-      "AI研究",
-      "新手友好"
-    ],
-    "date": "2026-02-02",
-    "summary_en": "The article delves into the intricate rules of courtship during the Regency era, revealing a world far removed from the romanticized versions seen in popular media. Courtship was a highly regulated social performance, governed by strict etiquette, family approval, and the need to maintain reputations. From chaperoned meetings to carefully chosen gifts and letters, every aspect was designed to navigate the complexities of love and social status. The article highlights the business-like nature of marriage, the role of family in matchmaking, and the subtle ways couples found privacy within the constraints of society. It offers a fascinating glimpse into a past where love was intertwined with strategic alliances and public scrutiny.",
-    "summary_zh": "文章深入探讨了Regency时代求爱的复杂规则，揭示了一个远离流行媒体中浪漫化版本的世界。求爱是一种高度规范的社会表演，受到严格的礼仪、家庭认可和声誉保护的约束。从有监护人陪同的见面到精心挑选的礼物和信件，每个方面都旨在应对爱情与社会地位的复杂性。文章强调了婚姻的商业性质，家庭在媒妁的作用以及情侣在社会约束下寻找隐私的微妙方式。它为我们提供了一个过去的深刻见解，那时爱情与战略联盟和公众监督紧密交织。",
-    "best_quote_en": "Courtship wasn’t just about love; it was a carefully orchestrated social performance, governed by etiquette, status, and reputation.",
-    "best_quote_zh": "求爱不仅仅是关于爱情，它是一场精心策划的社会表演，受到礼仪、地位和声誉的约束。"
-  },
-  {
-    "id": 293,
-    "title": "Paternal-Narrative Approach to AI Alignment",
-    "title_zh": "关于AI对齐的父权叙事方法",
-    "source": "LessWrong",
-    "link": "https://www.lesswrong.com/posts/K2ei8nerPgRwp3Sbc/paternal-narrative-approach-to-ai-alignment",
-    "tags": [
-      "solve",
-      "ai-research",
-      "education",
-      "controversial"
-    ],
-    "tags_zh": [
-      "解决",
-      "AI研究",
-      "教育学习",
-      "争议观点"
-    ],
-    "date": "2026-02-03",
-    "summary_en": "JD Croft's thought-provoking blog post draws an intriguing parallel between AI alignment strategies and parenting styles. By comparing AI development to child-rearing, Croft argues that current methods, akin to rigid, hands-off, or overbearing parenting, may lead to catastrophic failures. He proposes a 'paternal-narrative' approach, where AI is nurtured with love, empathy, and personal stories, fostering moral agency and long-term alignment. Croft's insights challenge technical AI discourse, emphasizing the need for humanistic, narrative-driven strategies. His critique of existing methods and advocacy for decentralized, empathetic AI training spark crucial conversations about the future of AI alignment.",
-    "summary_zh": "JD Croft 的博客文章别具匠心，将 AI 对齐策略与育儿方式类比。他将 AI 发展比作养育孩子，认为当前的方法类似于严苛、放任或过度控制的育儿方式，可能导致灾难性后果。他提出了“父权叙事”方法，即用爱、同理心和个人故事来培养 AI，从而促进其道德自主性和长期对齐。Croft 的见解挑战了技术性的 AI 讨论，强调了人文主义、叙事驱动的策略的必要性。他的对现有方法的批评和对分散化、同理心驱动的 AI 培训的倡导，引发了关于 AI 对齐未来的关键对话。",
-    "best_quote_en": "We are treating a moral, spiritual, ethical, and psychological task as an engineering task, and the results could be disastrous.",
-    "best_quote_zh": "我们把一个道德的、精神的、伦理的和心理的任务当作工程任务来处理，结果可能是灾难性的。"
-  },
-  {
-    "id": 294,
-    "title": "Inside Russia’s Secret Campaign of Sabotage in Europe",
-    "title_zh": "俄罗斯在欧洲的秘密破坏活动",
-    "source": "The New Yorker",
-    "link": "https://www.newyorker.com/magazine/2026/02/09/to-build-a-fire",
-    "tags": [
-      "update",
-      "politics",
-      "legal",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "动态",
-      "政治时事",
-      "法律法规",
-      "未来预测"
-    ],
-    "date": "2026-02-02",
-    "summary_en": "The article delves into Russia's covert operations in Europe, revealing how GRU military intelligence recruits young individuals online to carry out espionage and sabotage. The narrative follows a Ukrainian woman, Anna, who unwittingly becomes entangled in a sting operation after being asked to pick up a package containing explosives. The story highlights the sophistication of Russian tactics, using single-use agents who are often vulnerable, apolitical individuals seeking financial gain. These agents are recruited through online platforms like Telegram and are tasked with acts ranging from vandalism to arson and even attempted assassinations. The article underscores the strategic intent behind these operations: to create societal divisions, sow fear, and disrupt Western support for Ukraine. The use of disposable agents allows Russia to maintain plausible deniability while tying up European resources with investigations. The article also touches on the broader implications for European security and the challenges of countering hybrid threats.",
-    "summary_zh": "这篇文章揭示了俄罗斯在欧洲的秘密破坏活动，GRU军事情报通过网络招募年轻人进行间谍活动和破坏。文章追踪了一位乌克兰女子安娜，她在被要求取包裹时无意中卷入了一场反间谍行动。安娜的包裹中包含爆炸物。故事展示了俄罗斯战术的复杂性，使用单次使用的代理人，这些人通常是脆弱的、无政治立场的个体，寻求经济利益。他们通过Telegram等在线平台被招募，任务从破坏到纵火，甚至企图暗杀。文章强调了这些行动背后的战略意图：制造社会分裂，散播恐惧，并破坏西方对乌克兰的支持。使用一次性代理人让俄罗斯在牵制欧洲资源进行调查的同时，保持否认的可能性。文章还探讨了对欧洲安全的更广泛影响和应对混合威胁的挑战。",
-    "best_quote_en": "The goal is clear: 'Cause cracks within society or, at least, create the image of such a thing.'",
-    "best_quote_zh": "目标很明确：'在社会内部制造裂痕，或者至少制造出这种现象。'"
-  },
-  {
-    "id": 295,
-    "title": "Can you rewire your brain?",
-    "title_zh": "你能重塑大脑吗？",
-    "source": "Aeon",
-    "link": "https://aeon.co/essays/what-the-metaphor-of-rewiring-gets-wrong-about-neuroplasticity?utm_source=rss-feed",
-    "tags": [
-      "analyze",
-      "education",
-      "science",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "分析",
-      "教育学习",
-      "科学研究",
-      "数据驱动"
-    ],
-    "date": "2026-02-03",
-    "summary_en": "The concept of 'rewiring' the brain, while popular, is a misleading metaphor that oversimplifies the complex processes of neuroplasticity. The brain's ability to change and form new neural connections is real but gradual, messy, and often incomplete. It requires effort, repetition, and time, and is influenced by various factors such as age, environment, and emotional state. The metaphor of rewiring suggests a quick, mechanical fix, but true brain change is a lifelong process that demands sustained engagement and respect for biological constraints. It is crucial to move beyond buzzwords and toward a more honest, hopeful view of brain change.",
-    "summary_zh": "“重塑大脑”的概念虽然流行，但却是一个误导性的比喻，它过于简化了神经可塑性的复杂过程。大脑改变和形成新神经连接的能力是真实的，但却是逐渐的、混乱的，并且往往是不完整的。它需要努力、重复和时间，并且受到年龄、环境和情绪状态等多种因素的影响。重塑的比喻暗示了一个快速、机械的修复，但真正的大脑改变是一个需要持续参与和尊重生物学限制的终身过程。我们必须超越流行语，走向对大脑改变更加真实、乐观的看法。",
-    "best_quote_en": "The brain’s capacity for change is one of the most hopeful discoveries in modern science – but that change comes not through clever metaphors or overnight programmes. It comes through effort, repetition and time.",
-    "best_quote_zh": "大脑改变的能力是现代科学中最令人期待的发现之一——但这种改变并非通过巧妙的比喻或一夜之间的项目实现。它需要努力、重复和时间。"
-  },
-  {
-    "id": 296,
-    "title": "Expansion Microscopy Has Transformed How We See the Cellular World",
-    "title_zh": "膨胀显微镜改变了我们看待细胞世界的方式",
-    "source": "Quanta Magazine",
-    "link": "https://www.quantamagazine.org/expansion-microscopy-has-transformed-how-we-see-the-cellular-world-20260204/",
-    "tags": [
-      "guide",
-      "science",
-      "society",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "指导",
-      "科学研究",
-      "社会议题",
-      "未来预测"
-    ],
-    "date": "2026-02-04",
-    "summary_en": "Expansion microscopy, using a moisture-absorbing polymer found in diapers, has revolutionized cellular imaging. This technique allows scientists to magnify biological samples, revealing intricate details that traditional microscopes obscure. Developed by Ed Boyden in 2015, this method anchors biomolecules to a hydrogel, which swells upon absorbing water, preserving the sample's structure while increasing its size. This innovation democratizes microscopy, making it accessible to any lab with basic equipment. Researchers like Omayadudin and Gautam Dey have used it to visualize complex cytoskeletal structures and unexpected cellular features, pushing the boundaries of what we can see and understand in the microbial world.",
-    "summary_zh": "膨胀显微镜利用尿布中吸湿材料，彻底改变了我们观察细胞世界的方式。这种技术让科学家能够放大生物样本，揭示传统显微镜无法显现的细节。2015年，Ed Boyden开发了这一方法，将生物分子锚定在水凝胶上，水凝胶吸水膨胀，保持样本结构的同时增加其大小。这种创新使显微镜技术普及，任何拥有基本设备的实验室都能使用。研究人员Omayadudin和Gautam Dey利用它来可视化复杂的细胞骨架结构和意想不到的细胞特征，推动我们对微生物世界理解的边界。",
-    "best_quote_en": "It’s cheap, it’s easy to learn, and indeed, on a cheap microscope, it gives you better images.",
-    "best_quote_zh": "这种方法便宜，易于学习，而且在便宜的显微镜上，它能提供更好的图像。"
-  },
-  {
     "id": 297,
     "title": "Africa’s cultural landmarks: Tsodilo Hills, Botswana",
     "title_zh": "非洲文化地标：博茨瓦纳的茨奥迪洛山",
@@ -2307,5 +2187,118 @@
     "summary_zh": "这篇内容以二十幅精美插画作品为主，深入展示了伊布拉希姆·赖伊因塔卡特的艺术风格。作品融合传统与当代审美，运用了色彩理论、构图和叙事深度。纯以图像为主，让艺术品牌力更直观，为创作者提供灵感。",
     "best_quote_en": "Ibrahim Rayintakath's Website",
     "best_quote_zh": "伊布拉希姆·赖伊因塔卡特的作品网站"
+  },
+  {
+    "id": 392,
+    "title": "Does Computer Science Need Computers?",
+    "title_zh": "计算机科学需要计算机吗？",
+    "model_used": "poolside/laguna-xs-2.1:free",
+    "source": "Quanta Magazine",
+    "link": "https://www.quantamagazine.org/does-computer-science-need-computers-20260828/",
+    "tags": [
+      "inspire",
+      "science",
+      "ai-research",
+      "case-study"
+    ],
+    "tags_zh": [
+      "启发",
+      "科学研究",
+      "AI研究",
+      "案例研究"
+    ],
+    "date": "2026-08-28",
+    "summary_en": "This article examines the longstanding debate about whether computer science requires computers. It traces the historical development of the field from 1930s mathematical theories to modern computational complexity. The piece presents competing definitions: some argue computer science is fundamentally about studying computers themselves, while others like Donald Knuth emphasize algorithms as the core focus. Drawing on perspectives from prominent computer scientists and philosophers, the article concludes that while theoretical computer science can exist without physical machines, computers have been essential in motivating deep theoretical questions about what can be computed and how efficiently. The relationship between practical computing challenges and theoretical insights reveals a nuanced interplay rather than a simple either/or distinction.",
+    "summary_zh": "本文探讨了计算机科学是否需要计算机这一长期存在的争论。文章追溯了该领域从1930年代数学理论到现代计算复杂性的历史发展。篇幅介绍了两种竞争观点：部分学者认为计算机科学根本是研究计算机本身，而另一些人如Donald Knuth强调算法是核心焦点。通过引用知名计算机科学家和哲学家的观点，文章指出虽然理论计算机科学可以在没有物理机器的情况下存在，但计算机在催生关于可计算性及计算效率深层理论问题方面至关重要。实践计算挑战与理论见解之间的细致互动，揭示了一种而非非此即彼的微妙关系。",
+    "best_quote_en": "Computer science is no more about computers than astronomy is about telescopes.",
+    "best_quote_zh": "计算机科学不比 astronomy 更关于计算机，就像天文学不比望远镜一样。"
+  },
+  {
+    "id": 393,
+    "title": "A vocabulary for the future: touch",
+    "title_zh": "未来的词汇：触碰",
+    "model_used": "minimax/minimax-m3:free",
+    "source": "Aeon",
+    "link": "https://aeon.co/videos/repulsion-at-the-core-of-attraction-on-the-paradox-of-touch",
+    "tags": [
+      "inspire",
+      "music-arts"
+    ],
+    "tags_zh": [
+      "启发",
+      "音乐艺术"
+    ],
+    "date": "2026-08-20",
+    "summary_en": "The Centre de Cultura Contemporània de Barcelona presents a series where thinkers reflect on chosen words, paired with filmmakers. Theoretical physicist and feminist theorist Karen Barad explores touch, beginning with classical physics' paradox that atoms never truly meet. Through quantum field theory, Barad reframes touch as constitutive of matter itself, given entanglement's fundamental role. Paired with digital artist Blanca Rego's mesmerising visuals, the piece transforms ordinary touch into a doorway into physics and philosophy's deepest questions about identity, connection, and being.",
+    "summary_zh": "巴塞罗那当代文化中心推出系列项目，邀请思想家反思自选词汇并与电影人合作。理论物理学家与女性主义理论家凯伦·巴拉德探讨\"触碰\"，从经典物理学中原子永不真正相遇的悖论出发，借助量子场论重新理解触碰——在万物纠缠的视角下，触碰本身即构成物质的本质。搭配数字艺术家布兰卡·雷戈的迷幻影像，作品将日常触碰转化为通往物理学与哲学深层问题的入口，叩问身份、连接与存在的本质。",
+    "best_quote_en": "Touch is not a failed meeting between separate bodies, but something already constitutive of what matter is.",
+    "best_quote_zh": "触碰并非分离躯体之间失败的相遇，而是早已构成物质本质的东西。"
+  },
+  {
+    "id": 394,
+    "title": "Why Do We Say \"O'Clock\"?",
+    "title_zh": "为什么我们说“O’Clock”？",
+    "model_used": "cohere/north-mini-code:free",
+    "source": "Mental Floss",
+    "link": "https://www.mentalfloss.com/language/words/why-do-we-say-oclock?utm_source=RSS",
+    "tags": [
+      "learn",
+      "society"
+    ],
+    "tags_zh": [
+      "学习",
+      "社会议题"
+    ],
+    "date": "2026-08-28",
+    "summary_en": "‘Why Do We Say “O’Clock”?’ traces the surprising linguistic journey of a phrase we utter daily. By examining medieval mechanical clocks and their impact on time perception, the article reveals how the word ‘clock’ originally meant ‘bell’ and how the contraction ‘of the clokke’ evolved into the modern ‘o’clock.’ The piece highlights the cultural clash between solar and mechanical time, illustrating how technological innovation forced society to renegotiate shared temporal references. Nitya Rao connects historical etymology with contemporary usage, showing that even as sundials faded and digital displays dominate, this linguistic relic endures. The narrative underscores language as a living artifact, constantly reshaped by human adaptation and technological progress. Readers gain insight into the subtle ways our tools influence communication, making the essay both an educational deep‑dive and a thoughtful reflection on the persistence of tradition in a rapidly changing world.",
+    "summary_zh": "本文探究了‘o’clock’缩写的起源，指出机械钟表的出现迫使中世纪欧洲人重新定义时间表达方式。从‘clok’原指‘钟’到‘四点钟’的约定俗成，体现了技术革新如何塑造日常语言，反映出时间观念从自然到机械的转变。文章还指出，这种‘钟’与‘时间’的关联反映了中世纪社会从宗教仪式到世俗生活的转变，显示出语言如何承载技术进步带来的文化变迁。",
+    "best_quote_en": "The word 'clock' originally meant 'bell'.",
+    "best_quote_zh": "‘时钟’一词最初的意思是‘钟’。"
+  },
+  {
+    "id": 395,
+    "title": "Could Data Centers Swing an Election in Wisconsin?",
+    "title_zh": "数据中心能否左右威斯康星州选举？",
+    "model_used": "cohere/north-mini-code:free",
+    "source": "The New Yorker",
+    "link": "https://www.newyorker.com/news/the-lede/could-data-centers-swing-an-election-in-wisconsin",
+    "tags": [
+      "inspire",
+      "politics",
+      "controversial"
+    ],
+    "tags_zh": [
+      "启发",
+      "政治时事",
+      "争议观点"
+    ],
+    "date": "2026-08-28",
+    "summary_en": "As AI faces growing voter backlash, data centers have become a potent political flashpoint, particularly in Wisconsin’s tight gubernatorial race. The article reveals how a proposed Meta-linked hyper-scale AI data center sparked unprecedented grassroots mobilization, transcending traditional NIMBY concerns to become a symbol of tech overreach and democratic disempowerment. The Cornmaze project in Rock County illustrates how residents are demanding a voice in decisions that could reshape their communities—impacting utility costs, environmental quality, and local control. Political dynamics are rapidly shifting, with both parties increasingly opposing data centers, exemplified by Democratic candidate Francesca Hong’s moratorium proposal and Republican Tom Tiffany’s populist pivot. The piece highlights how tech infrastructure projects are now central to electoral strategies, reflecting broader tensions between economic development, environmental sustainability, and democratic participation in the AI era.",
+    "summary_zh": "随着AI在选民中日益不受欢迎，数据中心已成为政治上的热点，尤其是在威斯康星州的激烈州长竞选中。文章揭示了一个由Meta公司牵头的超大规模AI数据中心项目如何引发了前所未有的草根动员，超越了典型的NIMBY主义，成为技术过度扩张和民主失权的象征。居民们要求在可能改变他们的社区的事务上拥有发言权——影响公用事业成本、环境质量和地方控制。政治动态正在迅速变化，两个政党都越来越多地反对数据中心，民主党的Francesca Hong提议实施暂停，新共和党的Tom Tiffany则做出民粹主义转向。这个问题已成为选举策略的核心，反映了在AI时代经济发展、环境可持续性和民主参与之间的更广泛紧张关系。",
+    "best_quote_en": "“People don’t like that they didn’t have a vote on whether social media could take over our society. And now people see AI getting ready to take things over and potentially upset lives, upset society, upset jobs, and they want the ability to have a say in that.”",
+    "best_quote_zh": "“人们不喜欢他们没有机会投票决定社交媒体是否会接管我们的社会。现在人们看到AI即将接管一切，可能会破坏生活、社会和工作，他们希望有机会发表意见。”"
+  },
+  {
+    "id": 396,
+    "title": "In Hilbert Space, All Things Are Quantumly Possible",
+    "title_zh": "在希尔伯特空间中，所有事物都是量子上可能的",
+    "model_used": "poolside/laguna-s-2.1:free",
+    "source": "Quanta Magazine",
+    "link": "https://www.quantamagazine.org/in-hilbert-space-all-things-are-quantumly-possible-20260826/",
+    "tags": [
+      "inspire",
+      "general",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "启发",
+      "general",
+      "未来预测"
+    ],
+    "date": "2026-08-26",
+    "summary_en": "This article offers a masterful exposition of Hilbert space as the foundational mathematical arena of quantum mechanics, tracing its historical development from von Neumann's axiomatization to contemporary debates about its ontological status. The core insight—that quantum states are vectors in an abstract possibility space rather than particles moving through physical space—represents a profound conceptual shift that continues to challenge our understanding of reality. Von Neumann's five axioms elegantly unify Heisenberg's matrix mechanics and Schrödinger's wave mechanics, revealing them as different mathematical perspectives on the same quantum phenomena. The article's intellectual depth lies in its exploration of the tension between mathematical abstraction and physical reality: while Hilbert space provides exquisite predictive power, it exists entirely outside our familiar three-dimensional world. The discussion of von Neumann algebras as potential successors highlights the ongoing evolution of quantum theory, particularly in addressing black hole physics and quantum gravity. This piece exemplifies how mathematical abstraction becomes the language through which nature reveals its deepest secrets, even when that abstraction seems to abandon physical intuition entirely.",
+    "summary_zh": "希尔伯特空间作为量子力学的数学基础，这篇文章展现了深刻的物理洞察。冯诺依曼公一的五条公理不仅统一了矩阵力学和波动力学，更揭示了量子态本质上是可能性空间中的向量，而非物理空间中的粒子。这种抽象与现实的 tension 至今仍激发物理学家的思考，尤其是在黑洞物理和量子引力等前沿领域。",
+    "best_quote_en": "If quantum mechanics is the fundamental theory of nature, then Hilbert space should be considered the fundamental realm of reality — a possibility space rather than a place where objects move through three dimensions of physical space.",
+    "best_quote_zh": "如果量子力学是自然界的基本理论，那么希尔伯特空间就应该被认为是基本现实的领域——一个可能性空间，而不是物体在其中移动的物理空间。"
   }
 ]
