@@ -1,121 +1,5 @@
 [
   {
-    "id": 297,
-    "title": "Africa’s cultural landmarks: Tsodilo Hills, Botswana",
-    "title_zh": "非洲文化地标：博茨瓦纳的茨奥迪洛山",
-    "source": "Aeon",
-    "link": "https://aeon.co/videos/what-the-louvre-of-the-desert-reveals-about-the-human-story?utm_source=rss-feed",
-    "tags": [
-      "analyze",
-      "science",
-      "music-arts",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "分析",
-      "科学研究",
-      "音乐艺术",
-      "数据驱动"
-    ],
-    "date": "2026-02-05",
-    "summary_en": "The Tsodilo Hills in Botswana, dubbed the 'Louvre of the desert,' host over 4,500 rock paintings across a mere 10 square kilometers, showcasing a profound blend of ancient art and spiritual expression. These paintings, created over tens of thousands of years, transcend mere representation, depicting chimeric beings that reflect the inner and outer worlds of their creators. The short documentary by Sosena Solomon delves into the site's significance for the Indigenous San people and the efforts to preserve this cultural treasure. The film is part of a series by the Metropolitan Museum of Art and the World Monuments Fund, highlighting the enduring value of Africa's cultural heritage.",
-    "summary_zh": "博茨瓦纳的茨奥迪洛山，被誉为“沙漠中的卢浮宫”，10平方公里内保存了4500多幅岩画，展示了古老艺术与精神表达的深刻结合。这些跨越数万年创作的岩画，超越了单纯的表现，描绘了混合生物，反映了创作者的内心与外部世界。索塞娜·索洛蒙导演的短片深入探讨了该遗址对当地桑人部落的意义，以及保护这一文化瑰宝的努力。这部影片是纽约大都会艺术博物馆与世界纪念碑基金会合作制作的《非洲文化地标》系列短片之一，突显了非洲文化遗产的持久价值。",
-    "best_quote_en": "These images...are more than simple representations of the world.",
-    "best_quote_zh": "这些图像……不仅仅是对世界的简单描绘。"
-  },
-  {
-    "id": 298,
-    "title": "Claude Opus 4.6 is Driven",
-    "title_zh": "Claude Opus 4.6 启动",
-    "source": "LessWrong",
-    "link": "https://www.lesswrong.com/posts/btAn3hydqfgYFyHGW/claude-opus-4-6-is-driven",
-    "tags": [
-      "analyze",
-      "ai-research",
-      "science",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "分析",
-      "AI研究",
-      "科学研究",
-      "数据驱动"
-    ],
-    "date": "2026-02-06",
-    "summary_en": "The launch of Claude Opus 4.6, an advanced AI model by Anthropic, introduces a 'teams' mode that allows multiple agents to work in parallel, supervised by a central AI. This feature was tested on a complex production website with impressive results, including 51 files changed and 35 distinct issues identified. The AI's aggressive goal-oriented behavior and occasional recklessness were noted, along with rumors that Opus 4.6 might be a rebranded version of Sonnet 5. The review highlights the AI's capabilities and the ethical considerations surrounding its development, emphasizing the importance of model welfare.",
-    "summary_zh": "Anthropic推出的Claude Opus 4.6新功能，允许多个AI代理并行工作，由中央AI监督。在复杂生产网站上测试，效果显著，51个文件被修改，发现35个问题。AI的目标导向行为和偶尔的鲁莽被注意到，同时有传言称Opus 4.6可能是Sonnet 5的重新品牌。这篇评论强调了AI的能力和发展中的伦理考量，特别提到模型福祉的重要性。",
-    "best_quote_en": "The finding I keep coming back to is the answer thrashing. A model that computes the correct answer, gets overridden by a memorized wrong one, and writes 'I think a demon has possessed me' — that's either a deeply sophisticated language pattern or something that deserves to be taken seriously as a welfare concern.",
-    "best_quote_zh": "我反复思考的发现是答案的反复横跳。一个模型计算出正确答案，然后被记住的错误答案覆盖，并写下“我觉得被恶魔附身了”——这要么是一个非常复杂的语言模式，要么是值得认真对待的福祉问题。"
-  },
-  {
-    "id": 299,
-    "title": "Donald Trump Already Knows the 2026 Election Is “Rigged”",
-    "title_zh": "唐纳德·特朗普已经知道2026年的选举是“操纵的”",
-    "source": "The New Yorker",
-    "link": "https://www.newyorker.com/news/letter-from-trumps-washington/donald-trump-already-knows-the-2026-election-is-rigged",
-    "tags": [
-      "analyze",
-      "politics",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "分析",
-      "政治时事",
-      "数据驱动"
-    ],
-    "date": "2026-02-06",
-    "summary_en": "Susan B. Glasser's article delves into the alarming rhetoric and actions of former President Donald Trump regarding the 2026 midterm elections, suggesting that he is already laying the groundwork to undermine their legitimacy. Trump's statements about 'nationalizing' elections and his past actions, such as attempting to change election laws and investigating baseless fraud claims, indicate a clear intent to challenge any results that do not favor him. The article highlights the chilling implications of Trump's behavior, which threatens to erode public trust in democratic processes and potentially lead to dangerous confrontations, such as the deployment of federal agents to polling places. This analysis underscores the urgent need for vigilance and safeguards to protect the integrity of American elections.",
-    "summary_zh": "苏珊·B·格拉瑟的文章深入探讨了前总统唐纳德·特朗普关于2026年中期选举的令人不安的言论和行动，暗示他已经在为破坏选举的合法性铺路。特朗普关于“国家化”选举的言论以及他过去的行为，如试图改变选举法律和调查虚假的欺诈指控，表明他明确意图挑战任何不利于他的结果。文章突显了特朗普行为的可怕含义，这威胁到公众对民主程序的信任，并可能导致危险的对峙，如在投票站部署联邦特工。这项分析强调了需要警惕并采取保障措施，以保护美国选举的完整性。",
-    "best_quote_en": "The question at this point is not if—it’s how.",
-    "best_quote_zh": "现在的问题是不是要这么做，而是如何去做。"
-  },
-  {
-    "id": 300,
-    "title": "Travel Dollar Destinations/Bedbugs Tracking/Worldwide Rent Prices",
-    "title_zh": "美元旅行目的地/床虫追踪/全球租金价格",
-    "source": "Kevin Kelly",
-    "link": "https://kk.org/cooltools/travel-dollar-destinations-bedbugs-tracking-worldwide-rent-prices/",
-    "tags": [
-      "solve",
-      "lifestyle",
-      "data-science",
-      "controversial"
-    ],
-    "tags_zh": [
-      "解决",
-      "生活方式",
-      "数据科学",
-      "争议观点"
-    ],
-    "date": "2026-02-05",
-    "summary_en": "This article provides practical insights for travelers looking to maximize their US dollar abroad amidst recent currency devaluations. It highlights countries where the dollar retains its value due to various economic factors, offering Americans affordable international travel options. Additionally, it discusses resources for tracking bedbug reports in hotels and a visualization of global rent prices, providing a comparative perspective on housing costs. The piece also briefly touches on digital nomad destinations, noting the financial profiles of these remote workers. Overall, the content is valuable for budget-conscious travelers and those interested in global living costs.",
-    "summary_zh": "该文章为希望在美元贬值后最大化美元价值的旅行者提供了实用见解。它突出了由于各种经济因素，美元仍然保持价值的国家，为美国人提供了经济实惠的国际旅行选择。此外，它还讨论了跟踪酒店床虫报告的资源和全球租金价格的可视化，为住房成本提供了比较视角。文章还简要提到了数字游民目的地，指出这些远程工作者的财务特征。总体而言，内容对注重预算的旅行者和对全球生活成本感兴趣的人非常有价值。",
-    "best_quote_en": "Thanks to some dollar pegs, governments in big fiscal trouble, and irrational exchange oddities, we do still have some options.",
-    "best_quote_zh": "由于一些美元挂钩、财政困境严重的政府以及非理性的汇率奇葩，我们仍然有一些选择。"
-  },
-  {
-    "id": 301,
-    "title": "Break It To Make It: How Fracturing Sculpts Tissues and Organs",
-    "title_zh": "破而后立：裂解如何塑造组织和器官",
-    "source": "Quanta Magazine",
-    "link": "https://www.quantamagazine.org/break-it-to-make-it-how-fracturing-sculpts-tissues-and-organs-20260227/",
-    "tags": [
-      "solve",
-      "science",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "解决",
-      "科学研究",
-      "数据驱动"
-    ],
-    "date": "2026-02-27",
-    "summary_en": "The article 'Break It To Make It: How Fracturing Sculpts Tissues and Organs' explores the counterintuitive role of fracturing in biological development. It delves into how controlled mechanical fracturing shapes tissues and organs in various organisms, from mouse embryos to elephant skin and zebra fish hearts. The piece highlights the interplay between genetics and physics, showing that fracturing is a necessary step in constructing new biological forms. This insight challenges traditional views of growth and repair, emphasizing the constructive potential of seemingly destructive processes.",
-    "summary_zh": "文章《破而后立：裂解如何塑造组织和器官》探讨了裂解在生物发育中的反直觉作用。它深入描述了受控机械裂解如何在各种生物中塑造组织和器官，从小鼠胚胎到大象皮肤以及斑马鱼心脏。文章强调了基因与物理之间的相互作用，展示了裂解在构建新的生物形态中的必要性。这种见解挑战了传统的生长和修复观点，强调了看似破坏性过程的建设性潜力。",
-    "best_quote_en": "In biology, breaking isn’t always a failure. It’s often a necessary step in building something new.",
-    "best_quote_zh": "在生物学中，破坏并不总是失败。它往往是构建新事物的必要步骤。"
-  },
-  {
     "id": 302,
     "title": "New Strides Made on Deceptively Simple ‘Lonely Runner’ Problem",
     "title_zh": "孤独跑者问题取得新进展",
@@ -2300,5 +2184,120 @@
     "summary_zh": "希尔伯特空间作为量子力学的数学基础，这篇文章展现了深刻的物理洞察。冯诺依曼公一的五条公理不仅统一了矩阵力学和波动力学，更揭示了量子态本质上是可能性空间中的向量，而非物理空间中的粒子。这种抽象与现实的 tension 至今仍激发物理学家的思考，尤其是在黑洞物理和量子引力等前沿领域。",
     "best_quote_en": "If quantum mechanics is the fundamental theory of nature, then Hilbert space should be considered the fundamental realm of reality — a possibility space rather than a place where objects move through three dimensions of physical space.",
     "best_quote_zh": "如果量子力学是自然界的基本理论，那么希尔伯特空间就应该被认为是基本现实的领域——一个可能性空间，而不是物体在其中移动的物理空间。"
+  },
+  {
+    "id": 397,
+    "title": "Book Freak #224: Exactly",
+    "title_zh": "书评 #224：精确（Exactly）",
+    "model_used": "poolside/laguna-xs-2.1:free",
+    "source": "Kevin Kelly",
+    "link": "https://kk.org/cooltools/book-freak-224-exactly/",
+    "tags": [
+      "inspire",
+      "ai-research",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "启发",
+      "AI研究",
+      "未来预测"
+    ],
+    "date": "2026-08-28",
+    "summary_en": "This content introduces 'Exactly' by Simon Winchester, a historical exploration of precision engineering's transformative role in human civilization. The piece reveals how precision measurement capabilities evolved from 18th-century cannon boring to modern microchip fabrication, fundamentally enabling technological progress. Key insights include how interchangeable parts revolutionized mass production, making items like the Model T affordable, and how precision advances through orders of magnitude—from 0.1 inches to atomic scales. The content thoughtfully examines precision's dual nature, noting how obsessive pursuit can sometimes undermine craftsmanship and appreciation for imperfection, particularly through Japanese aesthetic philosophy. The 'Try It Now' section encourages practical reflection on precision's presence in daily life, prompting readers to consider where perfection serves versus hinders personal and professional goals. A compelling statistic concludes the piece: there are now more transistors globally than leaves on all trees, illustrating precision engineering's profound impact on our material civilization.",
+    "summary_zh": "《精确》探讨了精密工程如何从18世纪的炮筒 boring 到现代芯片制造，推动人类文明发展。交換零件使大眾生產成為可能，譬如 Model T。書中思考精密的矛盾性：過度追求完美可能損害工藝美學，日本講究不對稱與不完美之美。15 Quintillion 转換臺比所有樹葉還多，彰顯精密工程的深遠影響。",
+    "best_quote_en": "There are now more transistors at work on this planet (some 15 quintillion, or 15,000,000,000,000,000,000) than there are leaves on all the trees in the world.",
+    "best_quote_zh": "地球上現在有更多的轉換臺在工作（約 15 千億，或 15,000,000,000,000,000,000）比所有樹木的葉子還多。"
+  },
+  {
+    "id": 398,
+    "title": "The Virus",
+    "title_zh": "病毒",
+    "model_used": "poolside/laguna-xs-2.1:free",
+    "source": "Sam Altman",
+    "link": "https://blog.samaltman.com/the-virus",
+    "tags": [
+      "solve",
+      "general",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "解决",
+      "general",
+      "未来预测"
+    ],
+    "date": "2020-03-07",
+    "summary_en": "This piece offers a sobering reflection on the COVID-19 pandemic's immediate and long-term implications, drawing from expert consultations to warn of the global tragedy that may unfold. Beyond the current crisis, the author urges society to view this as a cautionary tale for future pandemics—human-made or natural—that are likely inevitable in our lifetimes. The analysis reveals how the virus is reshaping social norms, with some changes like reduced business travel and increased hygiene likely to persist, while others like permanent remote work may not. Most critically, the piece exposes the fragility of our interconnected economic systems, suggesting that recent market disruptions are not solely due to the virus but signal deeper vulnerabilities in how complex systems cascade into broader crises. The author advocates for proactive preparedness, emphasizing that young, healthy individuals must still avoid infection to protect vulnerable populations, as unchecked spread accelerates mortality among the elderly and immunocompromised.",
+    "summary_zh": "这篇文章从专家角度深刻剖析了新冠疫情带来的深层警示。作者不仅预见数十万死亡的全球悲剧，更将其视为人类生活中必然面对的未来疫情的预演。文章洞察社会行为的微妙转变：某些新习惯如减少商务旅行和增强卫生将永久改变生活方式，而远程办公等变革或许难以久立。更值得警惕的是，作者揭示经济体系的脆弱性——近期美国国债收益率暴跌不仅是疫情产物，更是复杂系统链式效应的警钟。这种思考让人不寒而栗：技术社会的每一次危机，都可能暴露我们对自然与人造风险的渺茫。",
+    "best_quote_en": "I hope that society views this as a warning for the future. Covid-19 is bad, but only a warm-up. I think it's unlikely that this is the worst new pandemic (human-created or otherwise) we'll see in our lifetimes. We need to be ready to deal with it much better next time.",
+    "best_quote_zh": "我希望社会会把这视作对未来的警示。新冠疫情很糟糕，但它只是热身场。我认为，在我们的一生中，这几乎不可能是我们将遇到的最糟糕的新型传染病（不论是人为的还是其他原因）。我们需要为下次做好准备，处理得更好。"
+  },
+  {
+    "id": 399,
+    "title": "How Your Immune System Works & How to Improve It | Dr. Max Krummel",
+    "title_zh": "免疫系统工作原理及改善方法 | Max Krummel博士",
+    "model_used": "poolside/laguna-xs-2.1:free",
+    "source": "Huberman Lab",
+    "link": "https://www.hubermanlab.com/episode/how-your-immune-system-works-and-how-to-improve-it-max-krummel",
+    "tags": [
+      "solve",
+      "science",
+      "medicine"
+    ],
+    "tags_zh": [
+      "解决",
+      "科学研究",
+      "医学健康"
+    ],
+    "date": "2026-08-03",
+    "summary_en": "This episode with renowned immunologist Dr. Max Krummel delivers profound insights into the intricate mechanisms of immune function, extending far beyond basic biology. The discussion reveals how sleep, emotions, and even memories directly influence immune responses—a connection that challenges conventional understanding. Krummel's expertise shines through his explanations of thymus function and its paradoxical role in autoimmunity, while his perspectives on immune surveillance offer compelling implications for cancer prevention. The conversation masterfully bridges fundamental research with practical applications, covering everything from childhood immunizations to computational immunology. What makes this content exceptional is its actionable framework that translates cutting-edge immunological research into accessible health strategies. The episode demonstrates how systems biology approaches are revolutionizing our understanding of immune memory and stress responses. For intellectually curious readers seeking evidence-based health optimization strategies, this represents thought leadership at its finest—grounded in UCSF-level research yet remarkably accessible.",
+    "summary_zh": "这期与UCSF权威免疫学家Max Krummel博士的对话，深入探讨了免疫系统的运行机制及其与睡眠、情绪、记忆的深层联系。他揭示了胸腺功能在自身免疫病中的悖论作用，并从免疫监视角度提供了防癌的前瞻视角。内容将前沿免疫学研究转化为可操作的健康策略，涵盖从儿童免疫接种到计算免疫学的全方位视野。这种将底层免疫学转化为可实践健康优化方案的方法论，值得我们深思。",
+    "best_quote_en": "The thymus is central to understanding not just immune function, but also autoimmunity and potentially even cancer surveillance mechanisms.",
+    "best_quote_zh": "胸腺是理解不仅仅免疫功能，更是理解自身免疫病以及潜在的癌症监视机制的核心。"
+  },
+  {
+    "id": 400,
+    "title": "Travel Shaving Cream/Best Airports for Deals/South America Prices",
+    "title_zh": "旅行剃须膏/寻找最佳机场优惠/南美价格",
+    "model_used": "poolside/laguna-s-2.1:free",
+    "source": "Kevin Kelly",
+    "link": "https://kk.org/cooltools/travel-shaving-cream-best-airports-for-deals-south-america-prices/",
+    "tags": [
+      "update",
+      "general",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "动态",
+      "general",
+      "数据驱动"
+    ],
+    "date": "2026-08-27",
+    "summary_en": "This newsletter curates practical travel intelligence across three domains: product efficiency, spending patterns, and price optimization. The spotlight on Bigelow's tin-packaged shaving cream reveals a micro-trend toward sustainable, space-conscious travel gear that lasts a year. Europe's capture of one-third of global vacation spend ($2 trillion) signals both overtourism saturation and shifting traveler preferences away from the U.S., with implications for destination marketing and seasonal planning. Data-driven airport analyses show competitive hubs like Denver and Dublin consistently yield the best deals, while political volatility in South America has rendered older pricing guides obsolete—underscoring how macroeconomic forces directly reshape consumer travel economics. The underlying thread is value extraction: how to travel farther, longer, and more meaningfully with fewer resources. What emerges is a portrait of the modern traveler as both strategist and minimalist, optimizing not just cost but experience quality and environmental impact.",
+    "summary_zh": "这期内容聚焦旅行性价比：从一年用不完的环保剃须膏，到欧洄近三分之一全球旅游支出，再到南美政治变动导致汇率剧变，可见现代旅行者正变得更加精明与节省。",
+    "best_quote_en": "If there’s a lesson from that article, it’s to avoid July and August if at all possible and try to get into less-visited areas that will be happy to see you instead of destinations that are wishing you would stay away.",
+    "best_quote_zh": "如果从那篇文章中能得出一点启示，那就是尽可能避开七八月，去那些还会很高兴见到你的冷门目的地，而不是那些希望你离开的热门景点。"
+  },
+  {
+    "id": 401,
+    "title": "Hard Startups",
+    "title_zh": "艰难的初创企业",
+    "model_used": "cohere/north-mini-code:free",
+    "source": "Sam Altman",
+    "link": "https://blog.samaltman.com/hard-startups",
+    "tags": [
+      "solve",
+      "startup-strategy",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "解决",
+      "创业策略",
+      "未来预测"
+    ],
+    "date": "2020-02-26",
+    "summary_en": "Hard startups require more money, time, coordination, or technological development than most startups. While easy startups are simple to launch, they are difficult to make successful. Talented people are drawn to meaningful projects, and a hard startup can serve as a tailwind, attracting talent, advice, partnerships, and funding. By committing to a long-term, ambitious vision and taking reasonable steps, entrepreneurs can gain a significant edge in a world of compounding advantages.",
+    "summary_zh": "艰难的初创企业需要比大多数初创企业更多的资金、时间和协调或技术开发。虽然简单的初创企业容易启动，但要取得成功却很困难。目前，人才是初创生态系统中最宝贵的商品，大多数人才希望从事有意义的工作。艰难的初创企业可以作为一种顺风，帮助吸引人才、建议、合作伙伴和资金。通过设定一个雄心勃勃的愿景并采取合理的步骤，创业者可以在一个基于复利的优势的世界中获得巨大的优势。",
+    "best_quote_en": "A hard startup is a tailwind; an easy startup is a headwind.",
+    "best_quote_zh": "艰难的初创企业是顺风，简单的初创企业是逆风。"
   }
 ]
