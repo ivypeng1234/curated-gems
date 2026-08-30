@@ -1,123 +1,5 @@
 [
   {
-    "id": 302,
-    "title": "New Strides Made on Deceptively Simple ‘Lonely Runner’ Problem",
-    "title_zh": "孤独跑者问题取得新进展",
-    "source": "Quanta Magazine",
-    "link": "https://www.quantamagazine.org/new-strides-made-on-deceptively-simple-lonely-runner-problem-20260306/",
-    "tags": [
-      "solve",
-      "ai-research",
-      "science",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "解决",
-      "AI研究",
-      "科学研究",
-      "数据驱动"
-    ],
-    "date": "2026-03-06",
-    "summary_en": "The 'lonely runner' problem, a seemingly simple conjecture about runners on a circular track, has proven to be a complex mathematical challenge. Recent breakthroughs by Matthieu Rosenfeld and Tanupat Trakulthongchai have advanced the solution from seven to ten runners, renewing interest and optimism in the field. The problem's equivalence to questions in number theory, geometry, and graph theory highlights its far-reaching implications. The progress, though significant, is just a stepping stone, with mathematicians eager to explore new approaches and collaborations to tackle the next cases.",
-    "summary_zh": "孤独跑者问题看似简单，实则复杂，涉及数论、几何和图论等多个领域。最近，Matthieu Rosenfeld和Tanupat Trakulthongchai的突破将解决方案从七名跑者扩展到十名跑者，重新点燃了数学界的热情和希望。尽管取得了显著进展，但这只是一个起点，数学家们迫切希望探索新方法和合作，以解决下一个难题。",
-    "best_quote_en": "It has so many facets. It touches so many different mathematical fields.",
-    "best_quote_zh": "它有很多方面，涉及许多不同的数学领域。"
-  },
-  {
-    "id": 303,
-    "title": "Weekly Review",
-    "title_zh": "每周回顾",
-    "source": "Harper’s Magazine",
-    "link": "https://harpers.org/2026/03/weekly-review-strait-hormuz-iran-strikes-selective-service-draft-antifa-terrorism-free-rounds-ave-maria-doctor-oz-stowaway-fox/",
-    "tags": [
-      "analyze",
-      "politics",
-      "society",
-      "controversial"
-    ],
-    "tags_zh": [
-      "分析",
-      "政治时事",
-      "社会议题",
-      "争议观点"
-    ],
-    "date": "2026-03-17",
-    "summary_en": "This week's events unfold like a surreal tapestry of geopolitical tension, domestic strife, and bizarre happenings. The Strait of Hormuz crisis escalates as Iran impedes oil shipments and the U.S. retaliates with military strikes, raising global oil prices and evoking echoes of historical conflicts. Meanwhile, domestic news is a mix of the grim and the absurd: a school shooting thwarted by students, a synagogue attack, and a series of eccentric crimes. The U.S. government's actions, from threatening a military draft to labeling protestors as terrorists, add layers of complexity. Amidst this chaos, small moments of humanity and humor stand out, such as a priest fined for feeding the homeless and a fox stowing away on a cargo ship. This week's news is a stark reminder of the world's interconnectedness and the absurdity that often accompanies serious events.",
-    "summary_zh": "本周的事件如同一幅超现实的地缘政治紧张局势、国内纷争和怪异事件的织锦画。霍尔木兹海峡危机升级，伊朗阻碍石油运输，美国以军事打击回应，导致全球石油价格飙升，唤起历史冲突的回忆。与此同时，国内新闻则是悲剧与荒诞的混合：学生制止校园枪击，犹太教堂遭袭，以及一系列古怪的犯罪行为。美国政府的行动，从威胁实施征兵制到将抗议者定性为恐怖分子，增加了复杂性。在这场混乱中，人性和幽默的小片段凸显出来，例如一位因给流浪汉提供食物而被罚款的牧师，以及一只藏身在货船上的狐狸。本周的新闻是对世界相互关联性及严肃事件中常伴随的荒诞性的生动提醒。",
-    "best_quote_en": "Iran does not want to harm ordinary Americans, who overwhelmingly voted to end involvement in costly foreign wars.",
-    "best_quote_zh": "伊朗不想伤害普通的美国人，他们压倒性地投票结束对昂贵外国战争的参与。"
-  },
-  {
-    "id": 304,
-    "title": "Louis Armstrong’s Personal Archive Contains 5,000 Photos—Here Are the Stories Behind a Few",
-    "title_zh": "路易斯·阿姆斯特朗个人档案藏有5000张照片—— Here Are the Stories Behind a Few",
-    "source": "Mental Floss",
-    "link": "https://www.mentalfloss.com/entertainment/music/louis-armstrong-personal-archive-5-000-photos-stories-behind-few?utm_source=RSS",
-    "tags": [
-      "update",
-      "music-arts",
-      "ai-research",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "动态",
-      "音乐艺术",
-      "AI研究",
-      "数据驱动"
-    ],
-    "date": "2026-08-04",
-    "summary_en": "This article offers a window into Louis Armstrong's personal world through his own photographic archive of 5,000 images, revealing the man behind the legend. What strikes me most is how the piece reframes Armstrong not merely as a musical genius but as a cultural diplomat whose influence transcended entertainment. The 1961 Egypt photographs, taken during a State Department tour, capture a moment where jazz became America's soft power — a 'blue note in a minor key' as the New York Times put it. The article's narrative structure, moving from his Hot Five revolution through his All-Stars era to his unexpected Billboard-topping 'Hello, Dolly!' recording, reveals an artist who continuously reinvented himself without losing authenticity. The inclusion of the Voyager Golden Record detail — 'Melancholy Blues' traveling into deep space — adds a poignant cosmic dimension to his legacy. What makes this piece valuable is its emphasis on the archive itself; these photos are not just illustrations but primary sources that humanize a figure often reduced to soundbites. The article succeeds in making archival material feel intimate and alive.",
-    "summary_zh": "这篇文章通过 Armstrong 亲藏的五千张照片，为我们打开了一扇通往传奇背后的窗口。最打动我的是，文章将他重新定义为一位文化使者——爵士乐不仅是艺术，更是美国软实力的外交语言。1961 年埃及金字塔前的照片，捕捉了音乐跨越国界的瞬间。从 Hot Five 的革命到 All-Stars 时代，再到意外登顶 Billboard 的 Hello, Dolly!，Armstrong 的每一次转型都未曾失去本真。而 Voyager 金唱片中收录的 Melancholy Blues，让这位音乐家的声音真正飞向了深空。这些照片不是装饰，而是让一个被简化为音符的人重新变得可触可感。",
-    "best_quote_en": "America's secret weapon is a blue note in a minor key.",
-    "best_quote_zh": "美国的秘密武器是一个小调中的蓝调音符。"
-  },
-  {
-    "id": 305,
-    "title": "Why Formation Research is Working on Secret Loyalties",
-    "title_zh": "为什么Formation Research在研究秘密忠诚",
-    "source": "LessWrong",
-    "link": "https://www.lesswrong.com/posts/BqBDit4zuBZfafeG5/why-formation-research-is-working-on-secret-loyalties",
-    "tags": [
-      "analyze",
-      "ai-research",
-      "science",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "分析",
-      "AI研究",
-      "科学研究",
-      "数据驱动"
-    ],
-    "date": "2026-08-04",
-    "summary_en": "Alfie Lamerton offers a rare behind-the-scenes look at how Formation Research identified secret loyalties as its core research focus, using Jaime Sevilla's ITN framework — importance, tractability, and neglectedness — as a decision-making compass. The article reveals the pragmatic reality of AI safety research: how reading Davidson et al.'s paper on AI-enabled coups catalyzed a pivot, how reaching out to Forethought led to collaboration rather than competition, and how a six-week pilot evolved into a multi-month empirical program building model organisms of secret loyalty. What stands out is the methodological transparency — Lamerton doesn't just present the destination but the navigational logic, making this a valuable case study in research prioritization. The post also candidly acknowledges that organizational direction depends on emerging risk landscapes, reflecting intellectual honesty about uncertainty in frontier AI work. For anyone interested in how AI safety organizations form, choose their agenda, and move from conceptual thinking to empirical validation, this is an illuminating read.",
-    "summary_zh": "这篇文章罕见地揭示了Formation Research如何用ITN框架锁定秘密忠诚这一研究方向，从读论文到建立合作，再到构建模型生物体，每一步都带着方法论的坦诚。Lamerton展现的不仅是AI安全研究的决策逻辑，更是如何在不确定性中导航的思维范式——组织的未来取决于风险景观的演变，而非预先设定的路线。",
-    "best_quote_en": "Whatever was best in these terms was the most pressing, and whatever was most pressing and best personal fit was the thing Formation Research should work on.",
-    "best_quote_zh": "在那些标准上表现最好的就是最紧迫的，而最紧迫且最适合个人的，就是Formation Research应该研究的方向。"
-  },
-  {
-    "id": 306,
-    "title": "Michigan Primary-Election Map: Live Results",
-    "title_zh": "密歇根初选选举地图：实时结果",
-    "source": "The New Yorker",
-    "link": "https://www.newyorker.com/news/election-2026/michigan-primary-election-map-live-results",
-    "tags": [
-      "inspire",
-      "politics",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "启发",
-      "政治时事",
-      "数据驱动"
-    ],
-    "date": "2026-08-04",
-    "summary_en": "This article captures a pivotal moment in American democratic politics, where the Michigan Senate primary has transcended a mere electoral contest to become a referendum on the Democratic Party's ideological soul. The Stevens-El-Sayed matchup encapsulates the moderate-versus-progressive fault line that has increasingly defined the party's internal debates, with U.S.-Israel relations serving as the most emotionally charged proxy issue. What makes this race particularly significant is the tangible influence of outside spending—AIPAC's thirty-million-dollar expenditure on Stevens's behalf illustrates how lobbying power shapes primary outcomes in ways that often escape public discourse. Meanwhile, the gubernatorial race adds another layer of complexity with Whitmer's term-limited departure creating a high-stakes succession battle. The article's strength lies in its ability to weave together local candidate profiles with national political currents, offering readers both granular detail and structural context. The narrow margins from 2024—Trump winning Michigan by less than two points—underscore how every primary outcome here carries outsized implications for the broader political landscape.",
-    "summary_zh": "这篇文章捕捉了美国民主政治的关键时刻，密歇根参议院初选已超越单纯的选举竞争，成为对民主党意识形态灵魂的公投。史蒂文斯与埃尔-赛义德的对决体现了温和派与进步派之间的裂痕，而美以关系则成为最具情绪张力的代理议题。值得关注的是外部资金的实质性影响——AIPAC为史蒂文斯投入的三千万美元揭示了游说力量如何塑造初选结果。惠特默因任期限制退选则为州长竞选增添了另一层复杂性。文章将地方候选人画像与全国政治潮流巧妙编织，既有微观细节也有宏观背景。",
-    "best_quote_en": "Nationally, the race has become a proxy for divisions within the Democratic Party over U.S.-Israel relations.",
-    "best_quote_zh": "全国范围内，这场竞选已成为民主党内部关于美以关系分歧的代理战场。"
-  },
-  {
     "id": 307,
     "title": "Researchers and Founders",
     "title_zh": "研究者与创业者",
@@ -2299,5 +2181,122 @@
     "summary_zh": "艰难的初创企业需要比大多数初创企业更多的资金、时间和协调或技术开发。虽然简单的初创企业容易启动，但要取得成功却很困难。目前，人才是初创生态系统中最宝贵的商品，大多数人才希望从事有意义的工作。艰难的初创企业可以作为一种顺风，帮助吸引人才、建议、合作伙伴和资金。通过设定一个雄心勃勃的愿景并采取合理的步骤，创业者可以在一个基于复利的优势的世界中获得巨大的优势。",
     "best_quote_en": "A hard startup is a tailwind; an easy startup is a headwind.",
     "best_quote_zh": "艰难的初创企业是顺风，简单的初创企业是逆风。"
+  },
+  {
+    "id": 402,
+    "title": "Harry Styles jokes about Taylor Swift’s wedding during MSG residency",
+    "title_zh": "哈利·斯蒆斯在麦当娜中心演唱会调侃泰勒·斯威夫特的婚礼",
+    "model_used": "poolside/laguna-xs-2.1:free",
+    "source": "NME",
+    "link": "https://www.nme.com/news/music/harry-styles-jokes-about-taylor-swifts-wedding-during-msg-residency-3965679?utm_source=rss&utm_medium=rss&utm_campaign=harry-styles-jokes-about-taylor-swifts-wedding-during-msg-residency",
+    "tags": [
+      "update",
+      "music-arts",
+      "case-study"
+    ],
+    "tags_zh": [
+      "动态",
+      "音乐艺术",
+      "案例研究"
+    ],
+    "date": "2026-08-30",
+    "summary_en": "This entertainment news piece captures a lighthearted moment during Harry Styles' record-breaking 30-night residency at Madison Square Garden, where he humorously referenced Taylor Swift's recent wedding to Travis Kelce at the same iconic venue. The article contextualizes this anecdote within the broader 'Together, Together' tour, which has already achieved historic milestones including a 12-show run at Wembley Stadium. Beyond the celebrity gossip angle, the piece illustrates how artists use live performances to engage with contemporary cultural moments while maintaining their artistic identity. Styles' playful jab reflects the complex dynamics of former partners in the public eye, demonstrating how nostalgia and current events intersect in celebrity culture. The article also highlights the tour's diverse supporting acts and memorable performances, positioning this moment as part of a larger narrative of artistic achievement and cultural commentary. For fans and entertainment journalists, this represents the ongoing public fascination with celebrity relationships and their evolution in the digital age.",
+    "summary_zh": "哈利·斯蒆斯在麦当娜中心30场传奇演唱会期间调侃泰勒·斯威夫特与特雷斯·克莱恩的婚礼，展现明星文化中旧情人的当代互动。此篇报道不仅记录娱乐现场的轻松瞬间，更映射出粉丝对明星人际关系的持续关注。斯蒆斯的调侃既保留着个人人设，又巧妙融入时下热点，体现顶级艺术家在文化对话中的独特视角。",
+    "best_quote_en": "We're at Madison Square Garden, home of the world champion New York Knicks! And they also do weddings.",
+    "best_quote_zh": "我们在麦当娜中心，这里是世界冠军纽约掘石队的主场！他们这里还举办婚礼。"
+  },
+  {
+    "id": 403,
+    "title": "Frankenstein Author Mary Shelley on the Surest Remedy for a Sunken Spirit and What Makes Life Worth Living",
+    "title_zh": "玛丽·雪莱：在沉重的精神中寻找确定的良药，什么让生活值得活下去",
+    "model_used": "nvidia/nemotron-3.5-lightning:free",
+    "source": "RogerEbert.com",
+    "link": "https://www.themarginalian.org/2026/08/30/mary-shelley-the-last-man/",
+    "tags": [
+      "analyze",
+      "writing-content",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "分析",
+      "写作内容",
+      "未来预测"
+    ],
+    "date": "2026-08-30",
+    "summary_en": "This profound reflection on Mary Shelley's 'The Last Man' reveals how personal tragedy can birth universal wisdom. Written during the bleakest period of Shelley's life—after losing three children to disease and her husband to drowning—this 1826 novel becomes a meditation on life's meaning through pandemic narrative. The protagonist Lionel Verney's journey from social entanglement to solitary communion with nature offers a timeless insight: life's worth lies not in human achievement but in 'improving ourselves and contributing to the happiness of others.' Shelley's work anticipates Whitman's later question about life's meaning, suggesting the answer resides in nature's enduring presence and our connection to it. The piece powerfully demonstrates how art transforms personal grief into collective understanding, turning Shelley into her husband's posthumous editor and ensuring his legacy. This analysis reveals how literature processes collective trauma while affirming individual resilience through our relationship with the natural world.",
+    "summary_zh": "雪莱在经历了三个孩子离世、丈夫溺水离世的绝望时期创作了《最后一人》。这部1826年的小说通过 pandemic 故事，探索了生命的意义。主人公 Lionel Verney 从社会纠葛到与自然的独处，最终领悟到：生命的价值不在于人类的成就，而在于‘改善 ourselves，为他人贡献幸福’。雪莱的作品先于惠特曼对生命意义的思考，表明答案在于自然的持久存在以及我们与之的连接。这篇文章有力地展示了如何将个人悲伤转化为集体理解，通过雪莱对丈夫诗作的终身编辑和出版，确保了他的遗产。这项分析揭示了文学如何处理集体创伤，通过我们与自然世界的关系确认个体的韧性。",
+    "best_quote_en": "\"There is but one solution to the intricate riddle of life; to improve ourselves, and contribute to the happiness of others.\"",
+    "best_quote_zh": "\"There is but one solution to the intricate riddle of life; to improve ourselves, and contribute to the happiness of others.\""
+  },
+  {
+    "id": 404,
+    "title": "你在培养“预制孩子”吗？",
+    "title_zh": "你在培养“预制孩子”吗？",
+    "model_used": "nvidia/nemotron-3-super-120b-a12b:free",
+    "source": "The Marginalian",
+    "link": "http://weixin.sogou.com/weixin?type=2&query=%E4%B8%89%E8%81%94%E7%94%9F%E6%B4%BB%E5%91%A8%E5%88%8A+%E4%BD%A0%E5%9C%A8%E5%9F%B9%E5%85%BB%E2%80%9C%E9%A2%84%E5%88%B6%E5%AD%A9%E5%AD%90%E2%80%9D%E5%90%97%EF%BC%9F",
+    "tags": [
+      "inspire",
+      "education",
+      "writing-content",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "启发",
+      "教育学习",
+      "写作内容",
+      "未来预测"
+    ],
+    "date": "2026-08-29",
+    "summary_en": "This article critically examines the growing trend of 'pre-fabricated' child-rearing in China, where children are trained to excel in standardized testing and rote memorization at the expense of critical thinking, curiosity, and emotional intelligence. Drawing on Erikson’s stages of psychosocial development, it argues that ages 6–18 are crucial for forming a stable self-identity and value system—yet current educational practices undermine this by prioritizing external expectations over internal motivation. The piece highlights symptoms of over-structuring: children who can recite formulas but not question principles, write model essays but fear expressing opinions, and solve exam questions but feel lost in real-world complexity. In response, the authors—journalists from 《三联生活周刊》—propose a news-based critical thinking course for ages 10–15, using real-world topics like geopolitical conflicts, media literacy, and local economic shifts to foster independent judgment, empathy, and civic engagement. The core insight is that true education must nurture not just high scores, but the courage to question, the capacity to think independently, and the warmth to connect with others—qualities essential for navigating an uncertain future.",
+    "summary_zh": "这篇文章深刻剖析了当下中国家庭教育中‘预制孩子’的现象：孩子被训练成高分机器，却失去了提问的勇气、独立思考的能力和共情的温度。作者结合埃里克森的人格发展理论，指出6至18岁是形成自我价值观和身份认同的关键期，而过度结构化的教育恰恰在此时剥夺了孩子们探索世界的权利。文中不仅指出了问题——孩子会背公式却不问为什么，能写范文却不敢说观点，能应付考题却对现实世界茫然——更给出了可行的解决方案：以新闻为媒介，构建一个面向10至15岁少年的思辨课程，让真实世界的问题成为学习的入口。这不仅是对教育方式的反思，更是对‘什么样的孩子才是有价值的孩子’的重新定义。文章的力量在于，它没有停留在批评层面，而是用一个具体的课程设计点亮了希望：教育的终极目标，不是制造出能考高分的孩子，而是培养出能独立思考、勇敢表达、善于共情、真正理解世界的年轻人。",
+    "best_quote_en": "Overly structured upbringing is depriving adolescents of the courage to question, the capacity for critical thought, and the warmth of empathy.",
+    "best_quote_zh": "过度的结构化培养，正在剥夺少年提问的勇气、思辨的能力和共情的温度。"
+  },
+  {
+    "id": 405,
+    "title": "Watch Olivia Rodrigo sing ‘Landslide’ with Stevie Nicks and ‘Ironic’ with Alanis Morissette at Daisy Chain Fields",
+    "title_zh": "Olivia Rodrigo 与 Stevie Nicks 演绎《Landslide》 与 Alanis Morissette 演绎《Ironic》",
+    "model_used": "nvidia/nemotron-3.5-lightning:free",
+    "source": "NME",
+    "link": "https://www.nme.com/news/music/watch-olivia-rodrigo-landslide-stevie-nicks-ironic-alanis-morissette-daisy-chain-fields-3965682?utm_source=rss&utm_medium=rss&utm_campaign=watch-olivia-rodrigo-landslide-stevie-nicks-ironic-alanis-morissette-daisy-chain-fields",
+    "tags": [
+      "update",
+      "music-arts",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "动态",
+      "音乐艺术",
+      "未来预测"
+    ],
+    "date": "2026-08-30",
+    "summary_en": "Olivia Rodrigo headlined the one-day Daisy Chain Fields festival at Great Park, Irvine, bringing out Stevie Nicks for Fleetwood Mac's 'Landslide' and Alanis Morissette for a duet of 'Ironic'. The all-female event, conceived by Rodrigo, honored Dolly Parton and supported women's charities. She also debuted new track 'Serena Joy,' inspired by The Handmaid's Tale, while the festival featured Chappell Roan, Doechii, and other artists, with all fees waived for non-profit causes.",
+    "summary_zh": "Olivia Rodrigo 头条演出 Daisy Chain Fields 音乐节，邀请 Stevie Nicks 合唱 Fleetwood Mac 《Landslide》，Alanis Morissette 合唱《Ironic》。该节日由 Rodrigo 策划，致敬已故歌手 Dolly Parton，并支持女性权益慈善。现场首次演绎新歌 'Serena Joy'，阵容包括 Chappell Roan、Doechii 等，所有演出费用全捐赠。",
+    "best_quote_en": "Without Lilith Fair, there would be no Daisy Chain.",
+    "best_quote_zh": "没有 Lilith Fair，就没有 Daisy Chain。"
+  },
+  {
+    "id": 406,
+    "title": "Barry Lopez on the Cure for Our Existential Loneliness and the Three Tenets of a Full Life",
+    "title_zh": "巴里·洛佩兹关于存在主义孤独的解药及充实人生的三大准则",
+    "model_used": "nvidia/nemotron-3-super-120b-a12b:free",
+    "source": "RogerEbert.com",
+    "link": "https://www.themarginalian.org/2026/08/29/barry-lopez-place-loneliness/",
+    "tags": [
+      "inspire",
+      "writing-content",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "启发",
+      "写作内容",
+      "未来预测"
+    ],
+    "date": "2026-08-29",
+    "summary_en": "This profound meditation by Barry Lopez confronts the epidemic of existential loneliness in modern civilization, arguing that our disconnection from place—understood as deep, embodied intimacy with the natural world—lies at the root of feeling inconsequential. Drawing from his experiences with indigenous cultures and a lifetime of attentive wandering, Lopez reframes our relationship to place not as primitive sentiment but as a therapeutic necessity. He proposes that truly knowing a place fosters reciprocity: we come to feel known by it, which counters alienation and restores a sense of necessity in the world. His prescription—pay attention, be patient, heed what the body knows—offers a quiet revolution against the abstraction and haste of modern life. The piece resonates as both literary reflection and urgent invitation to reclaim belonging through presence, perception, and patience.",
+    "summary_zh": "洛佩兹深刻指出，现代人的存在主义孤独源于我们与地方的关系被切断。真正认识一个地方，不是为了征服或消费，而是为了建立一种互相认识的关系：当你离开时，你能感觉到那地方在想念你。这种互惠让人感受到自身在世界中的必要性。他的三条准则——专注、耐心、倾听身体——看似简单，却是对抗现代性疏离的有力实践。这不仅是自然写作，更是一种精神生存指南。",
+    "best_quote_en": "Existential loneliness and a sense that one’s life is inconsequential, both of which are hallmarks of modern civilizations, seem to me to derive in part from our abandoning a belief in the therapeutic dimensions of a relationship with place.",
+    "best_quote_zh": "存在主义的孤独以及觉得自己生命毫无意义的感觉——这两种现代文明的典型特征——在我看来，部分源于我们放弃了对与地方关系具有治疗作用这一信念。"
   }
 ]
