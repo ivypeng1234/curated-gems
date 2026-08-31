@@ -1,119 +1,5 @@
 [
   {
-    "id": 307,
-    "title": "Researchers and Founders",
-    "title_zh": "研究者与创业者",
-    "source": "Sam Altman",
-    "link": "https://blog.samaltman.com/researchers-and-founders",
-    "tags": [
-      "analyze",
-      "ai-research",
-      "startup-strategy",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "分析",
-      "AI研究",
-      "创业策略",
-      "未来预测"
-    ],
-    "date": "2020-06-19",
-    "summary_en": "Paul Graham draws a compelling parallel between the best researchers and founders, revealing that their shared traits transcend domain boundaries. The most striking insight is the Hamming question — a habit of relentlessly asking what the most important problems are and why one isn't working on them. This 'problem taste' emerges from independent thinking, future reasoning, and pattern recognition for attack vectors. Graham also challenges the romanticized notion that success comes from clever strategy alone, insisting that extreme persistence and willingness to work hard are non-negotiable prerequisites. Equally fascinating is the observation about action bias paired with brutal honesty — the rare ability to recognize what works and pursue it without hesitation, a quality most people conspicuously lack. The piece also highlights autonomy as a defining trait and reframes motivation as something far more nuanced than ambition, rooted instead in genuine curiosity. What makes this essay valuable is not just the list of qualities but the meta-lesson: effectiveness may be more universal than we assume, and studying excellence across fields can reveal transferable principles we might otherwise overlook.",
-    "summary_zh": "Graham将研究者与创业者并置，揭示出卓越个体的共性远超想象。最令人深思的是Hamming问题的力量——真正优秀的人始终在追问什么是最重要的问题、为何自己尚未投身其中。这种'问题品味'并非天赋，而是独立思考与长期推理的产物。他关于坚持与行动偏见的论述也极具启发：成功没有捷径，而大多数人最缺乏的恰恰是识别有效事物后果断行动的能力。文章最终指向一个更深刻的命题——驱动力或许并非野心，而是纯粹的好奇心。",
-    "best_quote_en": "They have a laser focus on the next step in front of them combined with long-term vision. Most people only have one or the other.",
-    "best_quote_zh": "他们对眼前的下一步有着激光般的专注，同时又拥有长期的愿景。大多数人只具备其中之一。"
-  },
-  {
-    "id": 308,
-    "title": "Grateful Dead",
-    "title_zh": "Grateful Dead",
-    "source": "Harper’s Magazine",
-    "link": "https://harpers.org/2026/08/grateful-dead-john-semley-jess-bergman-morticians-interview-general-interest/",
-    "tags": [
-      "analyze",
-      "society",
-      "science",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "分析",
-      "社会议题",
-      "科学研究",
-      "数据驱动"
-    ],
-    "date": "2026-08-02",
-    "summary_en": "This Harper's interview with John Semley unpacks the quiet crisis facing American mortuary science—a craft caught between cremation's rising dominance and corporate consolidation that treats bodies as throughput rather than persons. Semley's reporting is unusually tactile: he witnesses embalming, visits the Mütter Museum's eccentric archives, and sits with funeral directors who once restored hockey coaches' toddlers in open caskets. The piece's real insight lies not in mourning the decline of restorative art but in interrogating why we cling to certain rituals while discarding others. Semley dismantles the death-positivity movement's assumption that viewing a natural body is inherently more 'honest,' arguing instead that embalming itself is a profoundly human act—a refusal to accept decay as the final word. His comparison of pandemic-era funeral collapse to the death of movie theaters is quietly devastating: once we stop gathering, restarting becomes nearly impossible. The interview ultimately asks whether communal grief is essential or merely pleasant, leaving the question open without pretending it doesn't matter.",
-    "summary_zh": "塞姆莱对殡葬业的书写既克制又深情。他拒绝为传统招魂式挽歌，却在字里行间让读者重新感受到双手触碰逝者面容时那种近乎神圣的郑重。殡仪馆被私募资本吞噬、葬礼沦为流水线作业——这些并非新鲜事，真正刺痛的是塞姆莱提出的那个问题：当告别不再需要众人见证，悲伤是否还完整？",
-    "best_quote_en": "With a good restoration, you can't pinpoint the moment when someone goes from looking like an object to looking like a person. There's something really magical about that.",
-    "best_quote_zh": "好的修复让人无法指认某个瞬间——逝者何时从一个物件变成一个人。那一刻有一种真正的魔力。"
-  },
-  {
-    "id": 309,
-    "title": "The States With the Most Drive-In Movie Theaters",
-    "title_zh": "拥有最多汽车影院州的排行榜",
-    "source": "Mental Floss",
-    "link": "https://www.mentalfloss.com/geography/states/states-most-drive-in-movie-theaters?utm_source=RSS",
-    "tags": [
-      "update",
-      "design",
-      "music-arts"
-    ],
-    "tags_zh": [
-      "动态",
-      "设计创意",
-      "音乐艺术"
-    ],
-    "date": "2026-08-05",
-    "summary_en": "This article delivers a surprisingly nostalgic yet data-grounded look at America's remaining drive-in theaters, revealing that the open-air cinema tradition refuses to fade into the credits. The ranking exposes a fascinating geographic pattern — Pennsylvania leads with 20 venues, while states like Ohio and Texas each hold steady at 17, suggesting that rural and midwestern spaces have become the last strongholds of this retro entertainment format. What makes the piece genuinely compelling is its attention to individual theater personalities: the Mahoning Drive-In still projecting on 35mm film, the Rubidoux offering three simultaneous screens near Hollywood, and Kentucky's Bourbon Drive-In weaving the state's signature spirit into its very name. These details transform a simple list into a portrait of cultural preservation. The article also quietly acknowledges the economic forces that nearly killed the drive-in — rising property values, shifting consumer preferences, and the multiplex revolution — making the survival of these theaters a small act of defiance. For anyone who romanticizes outdoor cinema or plans a nostalgic road trip, this serves as both a practical guide and a gentle reminder that some experiences resist modernization. The piece earns its keep by balancing data with storytelling.",
-    "summary_zh": "这篇文章以数据为骨架，却以温情为血肉，勾勒出美国汽车影院的残存版图。宾夕法尼亚以20家 theaters 领跑，而俄亥俄与德州各存17家，暗示着乡村与中部地区仍是这种复古娱乐的最后堡垒。作者没有止步于排名，而是赋予每家影院独特的人格——马霍宁仍用35毫米胶片放映，鲁比杜克斯在好莱坞旁提供三块银幕，肯塔基的波本影院甚至将州文化符号嵌入名字。这些细节让一份简单的列表升华为文化存续的肖像。文章也冷静点出地产升值、多厅影院的冲击等致命力量，使得这些影院的幸存本身便是一种温和的抵抗。对任何向往户外电影或怀旧公路旅行的人而言，这既是实用指南，也是一次关于「何为值得保留」的轻声叩问。",
-    "best_quote_en": "From classic 35mm screenings to modern blockbusters, these states prove the drive-in movie experience isn't ready for the final credits yet.",
-    "best_quote_zh": "从经典的35毫米胶片放映到现代大片，这些州证明了汽车影院的体验尚未准备好谢幕。"
-  },
-  {
-    "id": 310,
-    "title": "The Surprising Way Louis Armstrong Pronounced His Own Name",
-    "title_zh": "Louis Armstrong 发音自己名字的惊人方式",
-    "source": "Mental Floss",
-    "link": "https://www.mentalfloss.com/entertainment/music/how-louis-armstrong-pronounced-his-name?utm_source=RSS",
-    "tags": [
-      "learn",
-      "lifestyle",
-      "controversial"
-    ],
-    "tags_zh": [
-      "学习",
-      "生活方式",
-      "争议观点"
-    ],
-    "date": "2026-08-04",
-    "summary_en": "This article explores a fascinating cultural paradox surrounding jazz legend Louis Armstrong — the disconnect between how he pronounced his own name and how the world remembers it. Armstrong consistently stated his name was 'Louis' with a strong emphasis on the final 's,' citing his mother's influence and his own vehement correction during the 1964 'Hello Dolly!' recording session. Yet popular culture, record labels, and even those closest to him adopted 'Louie,' creating a case where collective usage overwrote individual identity. The piece is more than a linguistic curiosity; it reveals how cultural icons become communal property, their personal preferences gradually eclipsed by the mythology that surrounds them. The article's strength lies in its evidentiary approach — Armstrong's own words, specific recordings, and biographer accounts build a compelling case while acknowledging the ambiguity. What makes this truly thought-provoking is the broader question it raises: when does a name become something larger than the person who bears it?",
-    "summary_zh": "这篇文章揭示了路易斯·阿姆斯特朗名字发音背后的文化悖论——本人坚持'路易斯'，世界却记住了'路易'。这不仅是语言学趣闻，更折射出文化偶像如何被大众叙事重塑，个体声音终被集体记忆悄然覆盖的深层命题。我们总以为自己在纪念一个人，殊不知早已进入了另一种叙事。读来令人深思。",
-    "best_quote_en": "My mother always called me Louis, not Louie.",
-    "best_quote_zh": "我母亲一直叫我路易斯，不是路易。"
-  },
-  {
-    "id": 311,
-    "title": "Physicists Solve a Big Quantum Mystery. Now, Old Results Don’t Add Up.",
-    "title_zh": "物理学家解开量子大谜题，旧实验结果却不再吻合",
-    "source": "Quanta Magazine",
-    "link": "https://www.quantamagazine.org/physicists-solve-a-muon-mystery-now-old-results-dont-add-up-20260729/",
-    "tags": [
-      "update",
-      "science",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "动态",
-      "科学研究",
-      "未来预测"
-    ],
-    "date": "2026-07-29",
-    "summary_en": "This article chronicles a fascinating twist in one of particle physics' most enduring mysteries — the muon g-2 anomaly. What initially appeared to be evidence of new physics beyond the Standard Model has unraveled into an even deeper puzzle: why do two legitimate theoretical approaches yield contradictory predictions? The data-driven method, rooted in electron-positron collision experiments, still signals a discrepancy, while lattice QCD simulations now align perfectly with the latest measurements. The discovery that the VEPP-2000 collider's pion production rate shifted dramatically after a detector upgrade adds a startling new variable. What makes this story compelling is not just the science itself, but what it reveals about how knowledge is constructed — decades of measurements, each considered reliable, now point in irreconcilable directions. The article does an excellent job of conveying the human drama behind abstract physics: the excitement of a potential breakthrough, the disappointment when it fades, and the renewed curiosity when old data suddenly refuses to cooperate. It reminds us that in frontier science, solving one mystery often opens several more.",
-    "summary_zh": "这篇文章讲述了一个令人着迷的科学反转：原本被视为超越标准模型新物理信号的μ子g-2异常，如今演变成更深层的谜题。两种各自合理的理论方法为何得出矛盾的预测？西伯利亚VEPP-2000对撞机在更换探测器后，π介子产生率发生了剧烈变化——这让数十年来被视为可靠的数据突然变得不可信赖。文章最打动人的不是物理本身，而是它揭示了知识建构的脆弱性：每一个曾被确信的测量结果，都可能在某一天与新的发现彻底冲突。解开一个谜题，往往意味着更多谜题的开始。",
-    "best_quote_en": "\"The measurement of muon g–2 is a proxy for saying how many particles exist in the universe.\"",
-    "best_quote_zh": "对μ子g-2的测量，本质上是在说宇宙中究竟存在多少种粒子。"
-  },
-  {
     "id": 312,
     "title": "Project Covalence",
     "title_zh": "共价计划",
@@ -2298,5 +2184,118 @@
     "summary_zh": "洛佩兹深刻指出，现代人的存在主义孤独源于我们与地方的关系被切断。真正认识一个地方，不是为了征服或消费，而是为了建立一种互相认识的关系：当你离开时，你能感觉到那地方在想念你。这种互惠让人感受到自身在世界中的必要性。他的三条准则——专注、耐心、倾听身体——看似简单，却是对抗现代性疏离的有力实践。这不仅是自然写作，更是一种精神生存指南。",
     "best_quote_en": "Existential loneliness and a sense that one’s life is inconsequential, both of which are hallmarks of modern civilizations, seem to me to derive in part from our abandoning a belief in the therapeutic dimensions of a relationship with place.",
     "best_quote_zh": "存在主义的孤独以及觉得自己生命毫无意义的感觉——这两种现代文明的典型特征——在我看来，部分源于我们放弃了对与地方关系具有治疗作用这一信念。"
+  },
+  {
+    "id": 407,
+    "title": "100 Objects #15: Bundy Clock",
+    "title_zh": "100个物件 #15：邦迪打卡钟",
+    "model_used": "dots-studio/dots-3-note-preview:free",
+    "source": "99% Invisible",
+    "link": "https://99percentinvisible.org/episode/100-objects-015-bundy-clock/",
+    "tags": [
+      "analyze",
+      "general",
+      "case-study"
+    ],
+    "tags_zh": [
+      "分析",
+      "general",
+      "案例研究"
+    ],
+    "date": "2026-08-28",
+    "summary_en": "This episode explores the surprising legacy of Willard Bundy’s 1888 time clock—an invention initially designed to track worker attendance that ultimately reshaped American labor, surveillance, and our very perception of time. What began as a mechanical solution for punctuality evolved into a cultural and industrial catalyst, embedding efficiency and temporal discipline into the fabric of modern work. The narrative reveals how a simple object became a symbol of corporate control, time commodification, and the rise of industrial capitalism. Beyond its utilitarian origins, the Bundy clock reflects broader shifts in societal values: the normalization of surveillance, the quantification of human labor, and the internalization of punctuality as a moral virtue. Its ripple effects extend into contemporary debates about work-life balance, digital monitoring, and the ethics of productivity. This is not just a story of invention, but of how technology redefines human behavior and social norms—often in ways its creator never envisioned.",
+    "summary_zh": "一盏打卡钟，竟悄然重塑了美国人对时间与劳动的理解。邦迪发明之初只为记录工时，却意外点燃了效率革命与职场监控的浪潮。它不仅是工业化的工具，更成为时间商品化、劳动异化与社会规训的象征。从道德化的“准时”到数字化的“追踪”，这台钟映照出技术如何潜移默化地重构人类行为与价值观念。今日我们对“ productivity”的执念，其根源或许就藏在这台老式齿轮之中。",
+    "best_quote_en": "The time clock didn’t just measure time—it standardized it, and in doing so, it changed how we think about work, worth, and our lives.",
+    "best_quote_zh": "打卡钟不只是测量时间——它规范了时间，而正是这种规范，改变了我们对工作、价值乃至生命本身的理解。"
+  },
+  {
+    "id": 408,
+    "title": "In pictures: Vivid behind-the-scenes shots from the jazz club in The L-shaped Room",
+    "title_zh": "图片：《L形房间》爵士俱乐部幕后生动照片",
+    "model_used": "dots-studio/dots-3-note-preview:free",
+    "source": "BFI",
+    "link": "https://www.bfi.org.uk/features/pictures-vivid-behind-scenes-shots-from-jazz-club-l-shaped-room",
+    "tags": [
+      "analyze",
+      "music-arts",
+      "case-study"
+    ],
+    "tags_zh": [
+      "分析",
+      "音乐艺术",
+      "案例研究"
+    ],
+    "date": "2026-08-28",
+    "summary_en": "This article presents rare behind-the-scenes photographs from the filming of Bryan Forbes' 1962 drama 'The L-shaped Room,' specifically the jazz club scene. These vivid Kodachrome images, likely captured by Forbes himself, provide an intimate look at the early 1960s beatnik and Mod culture in London. Beyond mere visual appeal, the photos serve as a historical document, capturing a society on the brink of radical change—post-rationing, pre-Swinging London, with undertones of the Profumo scandal. The article delves into the novel's context, the film's adaptations, and the cultural significance of locations like Joe Cannon's Jazz Club. It highlights how Forbes' attention to detail, including authentic extras and professional musicians, lends a vérité quality to the scenes. Personally, I find these images fascinating as they bridge the gap between fiction and reality, offering a tangible connection to a bygone era. They underscore the importance of film archives in preserving not just cinematic history but also social history, making us reflect on how transient cultural moments are immortalized through art.",
+    "summary_zh": "本文展示了1962年电影《L形房间》爵士俱乐部场景的幕后彩色照片，这些珍贵影像由导演布莱恩·福布斯拍摄，生动再现了60年代初伦敦的时尚与文化。照片不仅呈现了波西米亚风情，更折射出社会变革前夕的动荡——从战后配给制结束到“摇摆伦敦”兴起前的过渡期。文章深入探讨了小说改编、爵士俱乐部的历史背景，以及普罗富莫丑闻的影响。个人而言，这些影像连接了虚构与现实，让我们触摸到逝去时代的脉搏。它们凸显了电影档案在保存社会史中的价值，提醒我们文化瞬间如何通过艺术永恒。",
+    "best_quote_en": "For this blissful moment they can forget their secrets and find solace from the loneliness of their furnished rooms together.",
+    "best_quote_zh": "在这一刻，他们可以忘记秘密，从家具房间的孤独中找到慰藉。"
+  },
+  {
+    "id": 409,
+    "title": "Illustrator Spotlight: Musubu Hagi",
+    "title_zh": "插画家专访：Musubu Hagi",
+    "model_used": "poolside/laguna-xs-2.1:free",
+    "source": "BOOOOOOOM",
+    "link": "https://www.booooooom.com/2026/08/28/illustrator-spotlight-musubu-hagi/",
+    "tags": [
+      "analyze",
+      "ai-research"
+    ],
+    "tags_zh": [
+      "分析",
+      "AI研究"
+    ],
+    "date": "2026-08-28",
+    "summary_en": "This visual spotlight presents Musubu Hagi as a contemporary illustrator whose work bridges cultural narratives with digital artistry. The gallery format showcases 20+ pieces spanning character design, environmental storytelling, and conceptual art, revealing a distinctive visual language. While textually sparse, the collection functions as an immersive portfolio study, offering viewers insight into artistic process and creative identity. For aspiring illustrators, this represents both inspiration and a masterclass in visual communication. The work hints at deeper explorations of human experience through fantastical imagery, suggesting an artist deeply attuned to emotional resonance. The absence of extensive commentary actually enhances the viewer's active engagement, allowing the artwork to speak directly to the imagination.",
+    "summary_zh": "这组视觉专访以20多幅插画作品呈现Musubu Hagi的当代艺术风格，从角色设计到环境叙事，展现独特的视觉语言。虽然文字稀少，但这组作品集本身就是一场沉浸式的艺术鉴赏，让观者通过画作理解创意过程与艺术家的身份认同。对于正在追求插画事业的创作者而言，这不仅是灵感来源，更是视觉传播的范本。作品中隐含的情感共鸣与幻想意象，折射出该艺术家对人类体验的深层洞察。",
+    "best_quote_en": "Musubu Hagi's Website",
+    "best_quote_zh": "Musubu Hagi的作品网站"
+  },
+  {
+    "id": 410,
+    "title": "Daisy Chain Fields review – Olivia Rodrigo’s women-led festival is electric amid extreme heat",
+    "title_zh": "戴西链域 Fields 音乐节评论 – 奥利维亚·罗德里戈领导的女性音乐节在酷热中闪耀",
+    "model_used": "poolside/laguna-xs-2.1:free",
+    "source": "Women | The Guardian",
+    "link": "https://www.theguardian.com/music/2026/aug/30/daisy-chain-fields-festival-review-olivia-rodrigo",
+    "tags": [
+      "analyze",
+      "music-arts"
+    ],
+    "tags_zh": [
+      "分析",
+      "音乐艺术"
+    ],
+    "date": "2026-08-30",
+    "summary_en": "This review examines Olivia Rodrigo's groundbreaking Daisy Chain Fields festival, a women-led benefit concert that raised $20 million for charitable causes while navigating the challenges of extreme heat in Irvine, California. The 29-year-old pop star demonstrated remarkable foresight by creating a festival that honored both historical protest movements like riot grrrl and Lilith Fair, while incorporating contemporary Gen-Z activism. Rodrigo's vision extended beyond entertainment to create a space of 'radical dreaming' featuring interactive art installations, activist messaging, and carefully curated performances by iconic female artists spanning decades. However, the festival's poor pandemic preparedness—insufficient water stations, medical tents, and shaded areas—marred what could have been a flawless execution of her progressive ideals. The review reveals how Rodrigo's commitment to tangible change contrasts sharply with her contemporaries who merely offer performative allyship, making this both a celebration of female musical solidarity and a critical examination of how even well-intentioned activism can falter under practical pressures.",
+    "summary_zh": "奥利维亚·罗德里戈创办的Daisy Chain Fields音乐节不仅筹得2000万美元慈善款，更以女性为核心重塑了音乐节新范式。从Riot grrrl到Lilith Fair的传承激情，从Yoko Ono的Wish Tree到Jenny Holzer的艺术呐喊，这场充满实践暴政色彩的音乐节让人感受到千年女性运动的脉搏。尽管酷热让水站排长队、草地上汗水味扑鼻，但正是这种艰难中的团结——粗茆淡饮中彼此递出友谊 bracelet 的温情——最能体现罗德里戈创造的'荒凉日常的幻想之地'。她用音符缝合时代的裂痕，用Bikini Kill的叛逆与Sarah McLachlan的慈悲，在极端气候中证明了最深沉的信念：女性音乐的力量可以治愈整个世界。",
+    "best_quote_en": "We're at a crisis point... a world that makes the seething songs of Garbage, Bikini Kill and other performers at the festival – penned decades ago – upsettingly prescient, a world where so much more needs to be done and where a concert is a call for change.",
+    "best_quote_zh": "我们正处于危机之中……一个让Lilith Fair那些由Bikini Kill等乐手演绎的咆哮歌曲在过去数十年间变得令人痛心的世纪奇迹，一个需要做得更多的世界，在那里，一场音乐会是一声号召。"
+  },
+  {
+    "id": 411,
+    "title": "The Bone Wars",
+    "title_zh": "骨战争",
+    "model_used": "poolside/laguna-xs-2.1:free",
+    "source": "99% Invisible",
+    "link": "https://99percentinvisible.org/episode/679-the-bone-wars/",
+    "tags": [
+      "analyze",
+      "science",
+      "personal-finance",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "分析",
+      "科学研究",
+      "个人理财",
+      "数据驱动"
+    ],
+    "date": "2026-08-18",
+    "summary_en": "The Bone Wars narrative reveals how competitive fervor can simultaneously drive discovery and destroy scientific integrity. This historical account of Edward Cope and Othniel Charles Marsh's rivalry illuminates the complex relationship between ambition, ego, and scientific progress in America's emerging paleontological establishment. Their frantic race to catalog fossil species resulted in approximately 76% of their 136 named dinosaurs being invalid—either duplicates, misidentifications, or based on fragmentary remains. Yet paradoxically, their destructive competition also accelerated paleontology from an esoteric pursuit into a public spectacle that funded grand natural history museums. The story exposes how wealthy industrialists like Rockefeller and Carnegie manipulated scientific institutions to showcase their philanthropy while obscuring wealth inequality. Cope's purchase of 'The American Naturalist' to expedite publication and Marsh's political maneuvering to block federal funding demonstrate how personal vendettas can corrupt institutional science. Ultimately, both men's reputations collapsed, yet their fossils populate the halls of America's most visited museums, creating a haunting irony: the very chaos they unleashed became the foundation of public wonder. This serves as a cautionary tale about the double-edged nature of competitive scientific discovery and the institutional forces that shape what gets preserved in history.",
+    "summary_zh": "骨战争揭示了竞争热情如何同时推动发现又毁灭科学诚信。可惜科学道德常被个人野心所驱动。76%的命名恐龙都无效却建成了美国最受欢迎的博物馆，这种矛盾恰恰是人类科学进步的必然结果。",
+    "best_quote_en": "Every child who has ever stood awestruck beneath a towering dinosaur skeleton owes a small, complicated debt to two men who could barely stand to be in the same state.",
+    "best_quote_zh": "每一个站在巨大的恐龙骨骼搭架下感到惊叹的孩子，都欠两位连同州都无法和平相处的科学家一点小而复杂的债务。"
   }
 ]
