@@ -1,5 +1,9 @@
 [
   {
+    "name": "A year of reading the world",
+    "url":"https://ayearofreadingtheworld.com/feed"
+  },
+  {
     "name": "Quanta Magazine",
     "url": "https://www.quantamagazine.org/feed/"
   },
@@ -49,11 +53,11 @@
   },
   {
     "name": "RogerEbert.com",
-    "url": "https://www.themarginalian.org/feed/"
+    "url": "https://www.rogerebert.com/feed"
   },
   {
     "name": "The Marginalian",
-    "url": "https://plink.anyfeeder.com/weixin/lifeweek"
+    "url": "https://www.themarginalian.org/feed/"
   },
   {
     "name": "The Playlist",
