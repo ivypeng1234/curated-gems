@@ -1,109 +1,5 @@
 [
   {
-    "id": 312,
-    "title": "Project Covalence",
-    "title_zh": "共价计划",
-    "source": "Sam Altman",
-    "link": "https://blog.samaltman.com/project-covalence",
-    "tags": [
-      "solve",
-      "medicine"
-    ],
-    "tags_zh": [
-      "解决",
-      "医学健康"
-    ],
-    "date": "2020-06-16",
-    "summary_en": "Project Covalence represents a fascinating case study in how purpose-driven infrastructure can dramatically compress the timeline of scientific response during a global crisis. What strikes me most is the recognition that clinical trials — not just the science itself — are the bottleneck. By building shared, COVID-19-optimized trial infrastructure around remote data collection, telemedicine, and at-home specimen kits, the team is essentially reimagining how trials can be run outside traditional hospital settings. The inclusion of master protocols and adaptive trial designs hints at a deeper ambition: creating reusable, modular frameworks rather than one-off solutions. I find the collaboration with TrialSpark and Dr. Mark Fishman particularly compelling — it suggests a serious scientific backbone rather than a superficial tech fix. One critical question lingers: how scalable is this platform beyond the pandemic context, and could it reshape how we approach clinical trials for future health emergencies? The operational sophistication on display here — from 21 CFR Part 11 compliance to biostatistics support — signals that this is infrastructure meant to endure.",
-    "summary_zh": "共价计划最打动我的，是它把临床试验本身而非仅仅是科学发现当作瓶颈来攻克。用远程数据和居家采样重构试验流程，这不只是应急方案，更像是在为未来的公共卫生危机预埋一套可复用的基础设施。",
-    "best_quote_en": "Science remains the only way out of the COVID-19 crisis. Dramatically improving clinical trials, which are usually time-consuming and cost tens to hundreds of millions of dollars, is one of the highest-leverage ways to get out of it faster.",
-    "best_quote_zh": "科学是走出COVID-19危机的唯一出路。而大幅改进临床试验——通常耗时且耗资数千万美元——是更快走出危机的最高杠杆方式之一。"
-  },
-  {
-    "id": 313,
-    "title": "Home / Matthias Buchinger: “The Greatest German Living”",
-    "title_zh": "家居 / 马蒂亚斯·布欣格：\"最伟大的德国人\"",
-    "source": "Kevin Kelly",
-    "link": "https://kk.org/cooltools/home-matthias-buchinger-the-greatest-german-living/",
-    "tags": [
-      "analyze",
-      "design",
-      "writing-content"
-    ],
-    "tags_zh": [
-      "分析",
-      "设计创意",
-      "写作内容"
-    ],
-    "date": "2026-08-04",
-    "summary_en": "This curated feature from 'Books That Belong On Paper' presents two deceptively simple books that reveal extraordinary depths. Carson Ellis's 'Home' transforms the children's picture book into a global meditation on dwelling, weaving together urban sprawls, eastern palaces, and lunar landscapes with whimsical characters that blur the line between illustration and world-building. The Matthias Buchinger biography by Ricky Jay is perhaps the more remarkable find—a testament to human ingenuity that defies every limitation. Buchinger, born without limbs in 1674, became a celebrated micrographer, magician, and sharpshooter whose fame spanned continents. Jay's personal connection to the subject adds warmth and authenticity to what could have been mere historical documentation. Together, these books champion the idea that creativity flourishes precisely at the intersection of constraint and imagination. The feature itself exemplifies thoughtful curation, guiding readers toward works that reward curiosity and linger in the mind long after the final page.",
-    "summary_zh": "这两本书的推荐看似随意，实则暗含深意。Ellis用童书形式探讨\"家\"的普世意义，将全球各地的居所编织成一幅充满奇想的画卷；而Buchinger的故事则证明，创造力的真正边界从来不在身体，而在心灵。Ricky Jay以亲历者的热情书写这段历史，为冰冷的传记注入了罕见的温度。真正的启发在于：当限制与想象力相遇，恰恰是创造力最为蓬勃的沃土。",
-    "best_quote_en": "Buchinger's fame was so widespread that in the 1780s the term 'Buckinger's boot' existed in England as a euphemism for the vagina (because the only 'limb' he had was his penis).",
-    "best_quote_zh": "布欣格的名声如此广泛，以至于1780年代的英国出现了\"布欣格的靴子\"这一委婉语，用来指代阴道（因为他唯一的\"肢体\"就是他的阴茎）。"
-  },
-  {
-    "id": 314,
-    "title": "100 Objects #12: “Negro Cloth”",
-    "title_zh": "100件物品 #12：黑布",
-    "source": "99% Invisible",
-    "link": "https://99percentinvisible.org/episode/100-objects-012-negro-cloth/",
-    "tags": [
-      "update",
-      "general"
-    ],
-    "tags_zh": [
-      "动态",
-      "general"
-    ],
-    "date": "2026-08-07",
-    "summary_en": "In 1821, two Rhode Island brothers sought buyers for their woolen fabric and discovered a captive market: Southern slave plantations. Roman Mars and historian Seth Rockman trace the life of 'Negro cloth,' a textile category defined solely by its wearer. The book reveals how enslaved people shaped the cloth that controlled them, and how New England manufacturers convinced themselves they were the good guys.",
-    "summary_zh": "1821年，两位罗得岛兄弟寻找羊毛布料买家时，意外发现了一个被奴役的南方种植园市场。他们追溯了所谓的'黑布'——一种仅由穿着者定义的纺织品类别。书中揭示了奴隶如何塑造了控制他们的布料，以及新英格兰制造商如何说服自己是好人。",
-    "best_quote_en": "Enslaved people shaped the cloth used to control them.",
-    "best_quote_zh": "被奴役的人塑造了用来控制他们的布料。"
-  },
-  {
-    "id": 315,
-    "title": "Illustrator Spotlight: Xiao Hua Yang",
-    "title_zh": "插画师 Spotlight: 小华杨",
-    "source": "BOOOOOOOM",
-    "link": "https://www.booooooom.com/2026/08/07/illustrator-spotlight-xiao-hua-yang/",
-    "tags": [
-      "update",
-      "design"
-    ],
-    "tags_zh": [
-      "动态",
-      "设计创意"
-    ],
-    "date": "2026-08-07",
-    "summary_en": "Xiao Hua Yang is a talented illustrator whose work is showcased through this spotlight piece. The content features 32 images of Yang's illustrations, spanning a range of styles and visual approaches. This profile highlights the artist's creative journey and professional craft, offering viewers a window into the world of illustration. The images demonstrate a strong command of visual storytelling, with each piece contributing to a cohesive body of work. For aspiring illustrators and art enthusiasts, this spotlight serves as both a source of inspiration and a reference for understanding contemporary illustration trends. The artist's website and Instagram presence further extend their reach, signaling an engaged and growing creative practice. This piece is a valuable resource for anyone seeking to explore the depth and breadth of illustration as both an art form and a communicative medium.",
-    "summary_zh": "小华杨是一位才华横溢的插画家，本篇 Spotlight 通过 32 张作品图片展现其创作风采。图片涵盖多种风格与视觉表达方式，呈现艺术家的创作历程与专业技艺。插画作品展现了较强的视觉叙事能力，每一幅画作都为整体创作体系贡献独特视角。对于有志于插画创作的艺术家和艺术爱好者而言，这篇 Spotlight 既是灵感源泉，也是理解当代插画趋势的参考。艺术家的网站与 Instagram 进一步拓展其影响力，预示着充满活力的创作实践。这篇内容为任何希望探索插画深度与广度的人提供了宝贵的资源。",
-    "best_quote_en": "Illustration is both a personal expression and a communicative medium — a space where visual storytelling meets the artist's unique vision.",
-    "best_quote_zh": "插画既是个人表达，也是沟通媒介——一个视觉叙事与艺术家独特愿景相遇的空间。"
-  },
-  {
-    "id": 316,
-    "title": "Let’s all get on board with travel etiquette | Letters",
-    "title_zh": "让我们一起遵守旅行礼仪 | 信件",
-    "source": "Women | The Guardian",
-    "link": "https://www.theguardian.com/lifeandstyle/2026/aug/07/lets-all-get-on-board-with-travel-etiquette",
-    "tags": [
-      "solve",
-      "lifestyle",
-      "beginner-friendly"
-    ],
-    "tags_zh": [
-      "解决",
-      "生活方式",
-      "新手友好"
-    ],
-    "date": "2026-08-07",
-    "summary_en": "This insightful Guardian Letters piece by Helen Walker challenges the prevailing 'don't give up your seat to women' travel etiquette advice, arguing that women's diverse health conditions—menstruation, early pregnancy, endometriosis, and perimenopause—make them equally deserving of seat offers. Walker's argument is a powerful corrective to a narrow, gendered interpretation of public transport courtesy that overlooks the diverse physical realities women face. Beyond the gender discussion, the piece offers a rich tapestry of social etiquette observations: sniffing and snorting on public transport, the burden of carrying backpacks in crowded spaces, and the value of politeness among strangers. The author, an 80-year-old man, brings a refreshing perspective that balances personal anecdotes with broader social commentary. The piece is particularly valuable for its nuanced approach to inclusivity on public transport, acknowledging the complexities of harassment, the importance of acknowledging elderly passengers' needs, and the often-overlooked issue of personal space encroachment. It serves as a gentle reminder that public transport etiquette should be grounded in empathy, awareness of diverse experiences, and a genuine desire to make shared travel spaces more comfortable for everyone.",
-    "summary_zh": "这封卫报信件专栏以海伦·沃克的观点挑战了'不将座位让给女性'的旅行礼仪建议，认为女性面临的多样化健康问题——经期、早期妊娠、子宫内膜异位症以及围绝经期——使她们同样值得获得座位让位。文章超越了性别讨论，展现了丰富的社交礼仪观察：公共交通工具上打喷嚏和打嗝、拥挤空间中携带背包的负担、以及陌生人间礼貌的价值。作者作为一位80岁老人，以平衡个人轶事与更广泛社会评论的视角带来令人耳目一新的反思。文章在公共交通包容性方面具有深刻的细微之处，承认骚扰的复杂性、承认老年人需求的重要性，以及常被忽视的个人空间侵犯问题。它提醒我们，公共交通礼仪应建立在同理心、对多样经验的认知以及让共享出行空间对每个人更舒适这一真诚愿望之上。",
-    "best_quote_en": "Women could be menstruating, in the first trimester of pregnancy (the most exhausting time) or have endometriosis.",
-    "best_quote_zh": "女性可能正在经期、怀孕第一孕期（最疲惫的时期）或患子宫内膜异位症。"
-  },
-  {
     "id": 317,
     "title": "The Borrowed Nature of Biomimicry",
     "title_zh": "生物仿生的借来本性",
@@ -2297,5 +2193,124 @@
     "summary_zh": "骨战争揭示了竞争热情如何同时推动发现又毁灭科学诚信。可惜科学道德常被个人野心所驱动。76%的命名恐龙都无效却建成了美国最受欢迎的博物馆，这种矛盾恰恰是人类科学进步的必然结果。",
     "best_quote_en": "Every child who has ever stood awestruck beneath a towering dinosaur skeleton owes a small, complicated debt to two men who could barely stand to be in the same state.",
     "best_quote_zh": "每一个站在巨大的恐龙骨骼搭架下感到惊叹的孩子，都欠两位连同州都无法和平相处的科学家一点小而复杂的债务。"
+  },
+  {
+    "id": 412,
+    "title": "Modeling a Wealth Tax",
+    "title_zh": "财富税建模分析",
+    "model_used": "poolside/laguna-s-2.1:free",
+    "source": "Paul Graham",
+    "link": "http://www.paulgraham.com/wtax.html",
+    "tags": [
+      "analyze",
+      "startup-strategy",
+      "deep-dive"
+    ],
+    "tags_zh": [
+      "分析",
+      "创业策略",
+      "深度分析"
+    ],
+    "date": "2026-09-01",
+    "summary_en": "This article presents a compelling quantitative analysis of how wealth taxes compound over time, using a startup founder's stock accumulation as a case study. The author demonstrates that even seemingly modest annual wealth tax rates—like 1% or 2%—can consume a substantial portion of an individual's assets over a 60-year period due to the compounding effect of annual taxation on the same base. What makes this analysis particularly insightful is its focus on the structural mechanics of wealth taxation rather than ideological debates. By modeling scenarios with varying tax rates and thresholds, the piece reveals how wealth taxes are fundamentally different from income taxes: they repeatedly erode the same asset pool, leading to exponential loss of ownership over time. This has profound implications for entrepreneurship and long-term wealth accumulation, suggesting that such policies could significantly disincentivize risk-taking and innovation. The analysis is both educational and thought-provoking, offering readers a clearer understanding of tax policy's unintended consequences on wealth dynamics.",
+    "summary_zh": "这篇文章通过量化分析揭示了财富税如何通过复利效应在长期内显著侵蚀财富。即使看似温和的年税率也可能在60年间消耗大量财产，挑战了人们对财富税的直观认知。这提醒我们，在评估税收政策时不能忽视其长远影响。",
+    "best_quote_en": "A wealth tax will usually have a threshold at which it starts. How much difference would a high threshold make?",
+    "best_quote_zh": "财富税通常有一个起征点。这一高阈值会带来多大的差别？"
+  },
+  {
+    "id": 413,
+    "title": "How to Reinvent Yourself and Make Bold Moves — Decisive Stories from Matthew McConaughey, Steve Young, Samin Nosrat, and More (#879)",
+    "title_zh": "如何重塑自己并做出大胆举动——来自马修·麦康纳、史蒂夫·扬、萨敏·诺斯拉特等人的决定性故事",
+    "model_used": "cohere/north-mini-code:free",
+    "source": "Tim Ferriss",
+    "link": "https://tim.blog/2026/08/12/how-to-reinvent-yourself/",
+    "tags": [
+      "solve",
+      "writing-content",
+      "leadership"
+    ],
+    "tags_zh": [
+      "解决",
+      "写作内容",
+      "领导管理"
+    ],
+    "date": "2026-08-12",
+    "summary_en": "This episode explores the profound art of personal reinvention through compelling stories from transformative figures across diverse fields. Listeners gain actionable frameworks for shedding outdated identities and embracing bold new directions. The content bridges theory with practice, offering concrete strategies for navigating uncertainty during life transitions. Each guest contributes unique perspectives on timing, courage, and the psychological mechanics of change. The episode serves as both inspiration and practical guidance for anyone facing pivotal moments of transformation. McConaughey's artistic evolution, Young's athletic-to-business transition, Nosrat's culinary journey, and other narratives create a rich tapestry of human potential. The synthesis of these experiences provides listeners with a comprehensive roadmap for making decisive, meaningful changes.",
+    "summary_zh": "这集节目通过来自不同领域的变革者故事，探索个人重塑的艺术。听众将获得实用的框架，学会抛弃过时的身份并拥抱新的方向。内容将理论与实践相结合，为生活转型期的不确定性提供具体策略。每位嘉宾都分享了关于时机、勇气和变革心理学的独特见解。这集节目既是激励也是实践指南，适合任何面临重要转型时刻的人。",
+    "best_quote_en": "Reinvention isn't about finding something new to become—it's about uncovering what you were always meant to be.",
+    "best_quote_zh": "重塑不是找到什么新东西去成为，而是发掘你一直以来注定要成为的那个人。"
+  },
+  {
+    "id": 414,
+    "title": "起底线上恋爱交友乱象：围猎中老年男性？“公会”称“有兼职聊天员日赚1万”",
+    "title_zh": "起底线上恋爱交友乱象：围猎中老年男性？\"公会\"称\"有兼职聊天员日赚1万\"",
+    "model_used": "minimax/minimax-m3:free",
+    "source": "虎嗅",
+    "link": "https://www.huxiu.com/article/4887622.html?f=rss",
+    "tags": [
+      "analyze",
+      "business-model",
+      "science",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "分析",
+      "商业模式",
+      "科学研究",
+      "数据驱动"
+    ],
+    "date": "2026-09-01",
+    "summary_en": "This investigative exposé unveils a sophisticated predatory ecosystem lurking within China's online dating and social platforms, where loneliness becomes a lucrative commodity. The article traces a multi-tiered gray industry—from \"guilds\" recruiting female \"chat operators\" who earn up to 10,000 yuan daily by deploying manipulative scripts, to AI-powered phones running DeepSeek models that can simulate human conversation across 200 platforms simultaneously. Middle-aged and elderly men emerge as the primary victims, with one case exceeding 800,000 yuan in losses, systematically extracted through small frequent charges and emotional manipulation. The investigation also resurrects concerns about traditional matchmaking services, where \"matchmaking photos\" become bait for expensive memberships averaging 4,888 yuan, and even models are recruited as fake dating prospects. Legally, the situation presents a paradox: victims often refuse to acknowledge they've been defrauded, hampering police investigations despite clear patterns meeting fraud criteria. The piece raises profound questions about the misalignment between platform business models and genuine human connection needs, particularly as Z-generation users demand authenticity that algorithms cannot manufacture. It exposes how the commodification of intimacy has created an industrial-scale harvesting operation exploiting China's massive single population.",
+    "summary_zh": "这篇深度调查揭示了中国线上婚恋社交平台背后精密的灰产链条。当孤独被转化为商业模式，一场系统性的围猎已然就绪。文章追踪了从\"公会\"招募年轻女性兼职聊天员，到AI定制手机挂机200个平台日入万元的产业链全貌。中老年男性成为主要猎物，有人充值逾80万元仍执迷不悟。婚介平台同样深陷泥潭：精心展示的\"优质嘉宾\"实为付费诱饵，已婚护士被反复用作展示素材，甚至模特被雇来假扮相亲对象。最吊诡的是法律困境——受害者往往不承认被骗，导致警方难以立案。这不仅是商业伦理的溃败，更折射出整个陌生人社交模式的结构性矛盾：当情感连接被明码标价，真诚便成了最稀缺的商品。",
+    "best_quote_en": "When the desire to find a partner and expand social circles is transformed into a business model of \"payment required to chat,\" a precision harvest around loneliness may already be ready.",
+    "best_quote_zh": "当寻找伴侣、拓宽人际交往圈的渴望，被转化为\"付费才能聊天\"的商业模式，一场围绕孤独感进行的精密收割或许已经就绪。"
+  },
+  {
+    "id": 415,
+    "title": "‘Stunning’ Percolation Proof Solves Decades-Old Puzzle About Phase Transitions",
+    "title_zh": "“令人惊叹”的渗流证明解决了关于相变的数十年难题",
+    "model_used": "z-ai/glm-5.2:free",
+    "source": "Quanta Magazine",
+    "link": "https://www.quantamagazine.org/stunning-percolation-proof-solves-decades-old-puzzle-about-phase-transitions-20260831/",
+    "tags": [
+      "solve",
+      "general",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "解决",
+      "general",
+      "未来预测"
+    ],
+    "date": "2026-08-31",
+    "summary_en": "This article chronicles a landmark mathematical breakthrough in percolation theory, where a five-person team at ETH Zurich solved the decades-old supercritical sharpness conjecture for infinite transitive graphs. Originating from Rosalind Franklin's mid-20th-century research on coal, percolation theory models how networks undergo phase transitions—shifting abruptly from isolated clusters to total connectivity at a critical threshold. While sharpness was proven for regular lattices in the 1980s, extending this to the vastly broader, more abstract class of transitive graphs remained an elusive 'fortress' for mathematicians. The breakthrough's elegance lies in its simplicity: by reversing the traditional order of a probabilistic technique called 'sprinkling,' the team unlocked a proof that applies universally to all infinite transitive graphs. Beyond resolving a foundational question in probability theory, this elegant framework provides new analytical tools to study complex real-world phase transitions in physics, from quantum materials to freezing water. It stands as a testament to the enduring power of collaborative, intuitive problem-solving in theoretical mathematics.",
+    "summary_zh": "渗流理论自上世纪40年代罗莎琳德·富兰克林研究煤炭孔隙起步，如今在ETH Zurich五人团队的努力下迎来了里程碑式突破。他们以极其简洁的证明攻克了无限传递图上的超临界锐度猜想——一个困扰数学界数十年的难题。这不仅填补了概率论的重要空白，更打通了理解物理相变的新路径。当复杂问题被化繁为简的那一刻，往往就是数学最动人心魄的瞬间。",
+    "best_quote_en": "You have a stage, which is geometry, and a dancer, which is the random process.",
+    "best_quote_zh": "几何是舞台，随机过程是舞者。"
+  },
+  {
+    "id": 416,
+    "title": "The Singapore strategies",
+    "title_zh": "新加坡的策略",
+    "model_used": "nvidia/nemotron-3-super-120b-a12b:free",
+    "source": "Aeon",
+    "link": "https://aeon.co/essays/did-singapore-go-wrong-in-its-quest-for-food-security",
+    "tags": [
+      "inspire",
+      "society",
+      "environment",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "启发",
+      "社会议题",
+      "环境科学",
+      "未来预测"
+    ],
+    "date": "2026-08-31",
+    "summary_en": "The essay examines Singapore’s pursuit of water and food security through the lens of comparative advantage and economic realism. It contrasts Brunei’s struggling rice self‑sufficiency push with Singapore’s successful diversification of water supplies via NEWater, desalination, and strategic imports, projecting that by 2061 most water will come from non‑Malaysian sources. Regarding food, the author critiques the ambitious ‘30 by 30’ target as misaligned with Singapore’s land constraints and comparative advantage in trade, logistics, and high‑value sectors such as biotech. Citing Adam Smith, the piece argues that Singapore’s wealth and sophisticated supply chains already guarantee food security, making domestic production of low‑value crops an inefficient use of scarce urban land. The author suggests that resources would be better spent on reducing waste, improving supply‑chain efficiency, and leveraging Singapore’s strengths in agribiotech R&D rather than chasing symbolic self‑sufficiency metrics. Overall, the essay warns against security‑first policies that ignore opportunity costs, urging policymakers to align resilience strategies with genuine economic strengths.",
+    "summary_zh": "文章指出，新加坡在水资源上通过多元化来源（NEWater、海水淡化及战略进口）实现了成功的自给自足，而其在食品上的‘30之30’目标则与土地稀缺和比较优势相悖。作者引用斯密的观点，认为新加坡凭借其富裕、高效的全球供应链已基本保障食品安全，强行发展低价值农作物只会浪费宝贵的城市土地。他建议把精力放在减少浪费、提升供应链效率以及发挥新加坡在农业生物技术方面的研发优势，而非追求象征性的自给率。文章警示，安全第一的政策若忽视机会成本，可能适得其反，呼吁政策制定者将复原力策略与真实的经济优势相结合。",
+    "best_quote_en": "It is not from the benevolence of the butcher, the brewer, or the baker, that we expect our dinner, but from their regard to their own interest.",
+    "best_quote_zh": "我们期待得到晚餐，并不是因为屠夫、酿酒师或面包师的仁慈，而是因为他们考虑自己的利益。"
   }
 ]
