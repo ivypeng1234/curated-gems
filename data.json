@@ -1,119 +1,5 @@
 [
   {
-    "id": 322,
-    "title": "J.R.R. Tolkien on Fairy Tales, Language, the Psychology of Fantasy, and Why There’s No Such Thing as Writing “For Children”",
-    "title_zh": "",
-    "source": "RogerEbert.com",
-    "link": "https://www.themarginalian.org/2026/08/11/j-r-r-tolkien-on-fairy-stories/",
-    "tags": [
-      "analyze",
-      "ai-research",
-      "design",
-      "deep-dive"
-    ],
-    "tags_zh": [
-      "分析",
-      "AI研究",
-      "设计创意",
-      "深度分析"
-    ],
-    "date": "2026-08-11",
-    "summary_en": "Tolkien's 1939 lecture 'On Fairy-Stories' dismantles the assumption that literature for children is an inherent category, arguing that adults arbitrarily designate certain works as children's literature. He traces the relationship between fairy tales and language, rejecting the notion that mythology is a 'disease of language,' and instead positing that language itself is a product of mythological imagination. Tolkien distinguishes fantasy from nonfiction as a fundamentally different mode of creation, requiring the construction of an entire secondary world from scratch. He also explores the psychological function of fairy tales as a mechanism for rebooting our blunted attention, arguing that the act of fantasy—by creating things not found in the primary world—opens our hoard and frees us from the triteness of familiarity. His essay is a landmark in literary criticism, offering a nuanced defense of the imaginative power of fantasy and a challenge to the adult's complicity in limiting children's reading to what is deemed appropriate.",
-    "summary_zh": "托尔金的《论童话故事》彻底否定了'为儿童而写'的固有观念，认为成年人随意将某些作品归类为儿童文学。他追溯童话与语言的关系，驳斥'神话是语言之病'的论点，转而认为语言本身是神话想象的产物。托尔金将幻想与纪实文类区分为两种截然不同的创作模式——后者需要从零构建一个完整的异世界。他还将童话视为重启我们钝化注意力的心理机制，认为幻想通过创造现实中不存在的万物，打开了我们的'储藏室'，让我们从习以为常的平庸中解放出来。这篇论文是文学批评史上的里程碑，既捍卫了幻想的创造性力量，也揭示了成年人在儿童阅读教育中的共谋。",
-    "best_quote_en": "Creative fantasy, because it is mainly trying to do something else, may open your hoard and let all the locked things fly away like cage-birds.",
-    "best_quote_zh": "创意幻想主要是在试图做其他事情——它可能会打开你的'储藏室'，让所有被锁住的东西像笼中鸟一样飞散而去。"
-  },
-  {
-    "id": 323,
-    "title": "为什么你的城市一遇暴雨就“看海”？",
-    "title_zh": "",
-    "source": "The Marginalian",
-    "link": "http://weixin.sogou.com/weixin?type=2&query=%E4%B8%89%E8%81%94%E7%94%9F%E6%B4%BB%E5%91%A8%E5%88%8A+%E4%B8%BA%E4%BB%80%E4%B9%88%E4%BD%A0%E7%9A%84%E5%9F%8E%E5%B8%82%E4%B8%80%E9%81%87%E6%9A%B4%E9%9B%A8%E5%B0%B1%E2%80%9C%E7%9C%8B%E6%B5%B7%E2%80%9D%EF%BC%9F",
-    "tags": [
-      "analyze",
-      "science",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "分析",
-      "科学研究",
-      "数据驱动"
-    ],
-    "date": "2026-08-11",
-    "summary_en": "This article examines how urban flooding has escalated in China, driven by climate change, rapid urbanization, and inadequate infrastructure investment. It traces the evolution of flood management from the 1990s onward, when cities began upgrading防洪 standards from 5-year to 200-year events, but at the cost of neglecting ecological wetlands and natural drainage systems. The piece highlights how urban development has prioritized economic output over resilience, leading to a critical gap between engineered capacity and extreme weather events. Through interviews with leading urban planning experts, the article reveals that the most devastating floods now stem from the loss of natural water retention, the filling of rivers for construction, and the failure of drainage systems to handle unprecedented rainfall volumes. The authors argue that China's flood management must shift from reactive engineering to proactive resilience, incorporating ecological buffers and climate-adaptive infrastructure. The article concludes with a call to recognize extreme weather not as a rare event but as a predictable, recurring challenge requiring systemic, long-term investment.",
-    "summary_zh": "文章探讨了城市洪涝灾害为何在中国日益加剧，揭示了气候变迁、城镇化速度与基础设施投资不足之间的深层矛盾。从上世纪90年代开始，城市防洪标准从5年一遇逐步提升至200年一遇，但这一过程伴随着对湿地等自然蓄水生态系统的牺牲，以及对城市排水系统长期欠账的忽视。文章通过采访清华大学尹稚教授、中国水利水电科学研究院程晓陶教授等专家，剖析了极端降雨如何从工程标准滞后演变为系统性风险。核心观点是：城市洪水不再只是偶发性的自然灾害，而是与城市扩张模式、土地硬化程度、排水管网老化紧密相关的结构性问题。面对日益频繁的极端天气，传统的工程思维已不足以应对，亟需将生态缓冲机制与气候适应性基础设施纳入城市规划的核心理念之中。",
-    "best_quote_en": "Extreme weather events are no longer a matter of chance but of predictable, recurring risk requiring systemic, long-term investment.",
-    "best_quote_zh": "极端天气不再是偶然事件，而是可预测的、周期性存在的风险，需要系统性的、长期的投资来应对。"
-  },
-  {
-    "id": 324,
-    "title": "Bamboo Is Innocent",
-    "title_zh": "",
-    "source": "99% Invisible",
-    "link": "https://99percentinvisible.org/episode/678-bamboo-is-innocent/",
-    "tags": [
-      "analyze",
-      "ai-research",
-      "legal",
-      "controversial"
-    ],
-    "tags_zh": [
-      "分析",
-      "AI研究",
-      "法律法规",
-      "争议观点"
-    ],
-    "date": "2026-08-11",
-    "summary_en": "When reporter Julie Bluss arrived in Hong Kong expecting to document a disaster, she instead witnessed a 73-year-old man, Ma Ming, passionately defend bamboo scaffolding as the innocent material behind the devastating Wang Fuk Court fire. The article reveals how bamboo has become an iconic symbol of Hong Kong's identity, yet its role in the fire sparked a heated debate about responsibility, material science, and political accountability. Ma Ming's insistence that the plastic netting—not the bamboo—caused the fire highlights a critical distinction that the public initially missed. As the government pushed for a complete phase-out of bamboo scaffolding under the guise of fire safety, the narrative shifted from a technical debate to a politically charged scapegoating. The article exposes how the bamboo ban reflects a deeper tension: Hong Kong's unique cultural heritage colliding with centralized control, the National Security Law, and the erasure of what made the city distinct. Ma Ming's story becomes a lens into a broader pattern of resistance, where ordinary citizens find ways to protect the intangible—like bamboo scaffolding—against a government that seeks to control and eliminate it. The bamboo's survival becomes a quiet act of defiance, a way of saying what cannot be spoken aloud.",
-    "summary_zh": "记者Julie Bluss本计划报道一场灾难，却意外目睹了73岁的Ma Ming为竹脚手架辩护——他坚信是塑料网而非竹子引发了火灾。这篇文章揭示了竹脚手架作为香港身份象征的复杂性，其在火灾中的角色引发了关于责任、材料科学与政治问责的激烈辩论。Ma Ming坚持竹脚手架无责的观点凸显了公众最初忽视的关键区别。当政府以防火安全为名推动竹脚手架全面淘汰时，叙事从技术性讨论转变为政治化的替罪羊。文章揭示了香港独特文化身份与中央集权之间的深层张力，以及National Security Law下言论自由受限的现实。Ma Ming的故事成为抵抗的缩影——普通市民以隐蔽方式保护那些不可言说的东西。竹脚手架的存续成为一种无声的抵抗，一种无法公开表达的立场。",
-    "best_quote_en": "Bamboo scaffolding fits wherever a person fits, and it's as much a part of Hong Kong's identity as its ferries, dim sum restaurants, and neon signs.",
-    "best_quote_zh": "脚手架适合任何人的位置，它和渡轮、港式餐厅、霓虹灯一样，是香港身份认同的一部分。"
-  },
-  {
-    "id": 325,
-    "title": "The Story Behind Dylan Thomas’s “Do Not Go Gentle Into That Good Night” and the Poet’s Own Stirring Reading of His Masterpiece",
-    "title_zh": "",
-    "source": "RogerEbert.com",
-    "link": "https://www.themarginalian.org/2026/08/11/dylan-thomas-do-not-go-gentle-into-that-good-night/",
-    "tags": [
-      "update",
-      "general",
-      "controversial"
-    ],
-    "tags_zh": [
-      "动态",
-      "general",
-      "争议观点"
-    ],
-    "date": "2026-08-11",
-    "summary_en": "Dylan Thomas's 'Do Not Go Gentle Into That Good Night' stands as one of the most powerful odes to human resilience ever written. Written in 1947 and published posthumously in 1951, the poem gained its power from Thomas's own devastating final performance. The story reveals a poet who drank himself into a coma at the height of his fame, his wife's rage upon learning of his death, and the poem's enduring legacy that has inspired Bob Dylan, The Beatles, and Christopher Nolan. Thomas's voice, honed through BBC broadcasts, gave the poem a sonic intensity that the written word could never achieve. The piece remains a universal testament to the refusal to yield, a message that resonates across cultures and generations.",
-    "summary_zh": "Dylan Thomas的《不要温柔地走进那良夜》是人类韧性最强大的颂歌之一。1947年写成，1951年死后出版，这首诗的力量来自托马斯本人最悲壮的演出。故事揭示了一位在巅峰时期喝烂了命的诗人，妻子得知死讯后暴怒，以及这首诗跨越文化和时代的力量。托马斯的声音经BBC广播打磨，赋予了诗歌独特的音韵强度。诗歌至今仍是关于不屈服、跨越时代的普遍见证。",
-    "best_quote_en": "\"Rage, rage against the dying of the light.\"",
-    "best_quote_zh": "\"愤怒，愤怒地对抗那光之消逝。\""
-  },
-  {
-    "id": 326,
-    "title": "一直被模仿，从未被超越",
-    "title_zh": "一直被模仿，从未被超越",
-    "source": "The Marginalian",
-    "link": "http://weixin.sogou.com/weixin?type=2&query=%E4%B8%89%E8%81%94%E7%94%9F%E6%B4%BB%E5%91%A8%E5%88%8A+%E4%B8%80%E7%9B%B4%E8%A2%AB%E6%A8%A1%E4%BB%BF%EF%BC%8C%E4%BB%8E%E6%9C%AA%E8%A2%AB%E8%B6%85%E8%B6%8A",
-    "tags": [
-      "solve",
-      "music-arts",
-      "case-study"
-    ],
-    "tags_zh": [
-      "解决",
-      "音乐艺术",
-      "案例研究"
-    ],
-    "date": "2026-08-11",
-    "summary_en": "Founded in 1985, Il Giardino Armonico has built a reputation for its authentic interpretations of Baroque music and bold, unconventional style. The ensemble, led by Giovanni Antonini, has consistently pushed boundaries, embracing a global approach to early music. Despite facing imitation, they remain a dominant force in the classical music world, inspiring musicians and audiences alike. Their innovative spirit and dedication to performance have earned them a lasting legacy.",
-    "summary_zh": "和谐花园成立于1985年，以对巴洛克音乐的“本真”演绎和极具颠覆性的音乐风格而闻名。乐团在吉安尼·安东尼尼的领导下，不断突破边界，拥抱全球早期音乐风格。尽管面临模仿，他们始终是古典音乐界的领军力量，激励着乐手与听众。其创新精神与对演出的执着，铸就了持久的艺术遗产。",
-    "best_quote_en": "Music is a celebration!",
-    "best_quote_zh": "音乐就是节庆！"
-  },
-  {
     "id": 327,
     "title": "Bernie Sanders Takes on Data Centers",
     "title_zh": "伯尼·桑德斯谈数据中心",
@@ -2321,5 +2207,120 @@
     "summary_zh": "这篇文章揭示前总统小布什为何在特朗普攻击其家族、削减PEPFAR等关键政策以及破坏民主规范的情况下仍保持沉默。作者指出，这并非出于宪法或传统的正式限制，而是源于个人防护、家庭安全、商业利益以及对自己已被抨击的历史声誉的极度顾虑。小布什低落的民望、对伊拉克战争的记忆以及专注于通过慈善和机构巩固自己的遗产，使他选择回避公开批评。若他在2016或2024年及时发声，或许能改变选举结果，但他如今的缄默已成了其总统任期的最终、令人痛心的失败。",
     "best_quote_en": "He showed me what it means to be a President who serves with integrity, leads with courage, and acts with love in his heart for the citizens of our country.",
     "best_quote_zh": "他教会我，什么是一位以诚信服务、以勇气领袖、以爱心行动的总统。"
+  },
+  {
+    "id": 422,
+    "title": "What’s in my NOW? — Paul A. Bennett",
+    "title_zh": "我的当下之物 — Paul A. Bennett",
+    "model_used": "minimax/minimax-m3:free",
+    "source": "Kevin Kelly",
+    "link": "https://kk.org/cooltools/whats-in-my-now-paul-a-bennett/",
+    "tags": [
+      "inspire",
+      "lifestyle"
+    ],
+    "tags_zh": [
+      "启发",
+      "生活方式"
+    ],
+    "date": "2026-09-02",
+    "summary_en": "This intimate inventory piece reveals how a retired quantity surveyor curates his daily life through carefully chosen physical, digital, and invisible objects. Bennett's selections speak to practical wisdom accumulated over years: a mandoline he treats with respect after learning its dangers, a blackout sleep mask purchased out of frustration, and a tiny USB fan outperforming expectations. His adaptation to post-Covid spice tolerance offers a quietly humorous self-portrait of aging bodies finding new equilibria. The piece transcends typical \"what's in my bag\" content by revealing personality through utility—his NYT digital subscription despite imperial measurement frustrations shows intellectual openness to good content regardless of presentation. The Oysterband lyrics chosen as his \"invisible\" item elevate the entire piece, suggesting Bennett sees life as a flowing river between two people, never quite reaching completion. This is a meditation on accumulated taste, practical adaptation, and finding resonance in everyday objects and art.",
+    "summary_zh": "这篇私人化的物品清单揭示了一位退休工料测量师如何通过实体、数字与无形之物构建自己的日常。Bennett的选择体现了多年积累的生活智慧：因教训而心生敬畏的切片器、因失眠而购买的遮光眼罩、超出预期的迷你USB风扇。他对新冠后味觉变化的幽默自嘲，是一幅关于身体在岁月中寻找新平衡的肖像。最打动我的是他把Oysterband的歌词选为\"无形之物\"——将人生看作两人之间流淌的河流，永远抵达不了终点。这种从实用物品升华到诗意哲思的写法，让一份普通的清单拥有了意想不到的深度与温度。",
+    "best_quote_en": "a river runs through you and me / never reaches the ocean, never reaches the sea",
+    "best_quote_zh": "河流穿越你与我 / 永远到不了海洋，永远到不了大海"
+  },
+  {
+    "id": 423,
+    "title": "How To Invest In Startups",
+    "title_zh": "如何投资初创企业",
+    "model_used": "cohere/north-mini-code:free",
+    "source": "Sam Altman",
+    "link": "https://blog.samaltman.com/how-to-invest-in-startups",
+    "tags": [
+      "learn",
+      "startup-funding",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "学习",
+      "创业融资",
+      "未来预测"
+    ],
+    "date": "2020-01-13",
+    "summary_en": "This article offers a pragmatic guide for aspiring startup investors, focusing on three critical phases: gaining access, making decisions, and closing deals. The author emphasizes that success requires hard work, networking, and building a personal brand through long-form content. Key insights include evaluating founders based on their improvement trajectory, work ethic, and ability to scale, as well as prioritizing market growth over current size. The piece challenges conventional investment wisdom by highlighting the importance of founder-friendly approaches, decisive action, and providing tangible tactical support. It also stresses the need for investors to balance ambition with realistic goal-setting and to intervene when founders risk missing scaling opportunities. This content is particularly valuable for new investors navigating today's capital-rich but deal-scarce environment.",
+    "summary_zh": "本文为初学者提供了一份实用的初创企业投资指南，分为三个关键阶段：获取机会、做出决策和完成交易。作者强调成功需要努力工作、建立联系和通过撰写长篇内容建立个人品牌等。关键见解包括根据创始人改善轨迹、工作态度和规模化能力来评估创始人，以及优先考虑市场增长而非当前规模。本文挑战了传统的投资智慧，强调了创始人友好型方法、果断行动和提供切实支持的重要性。它还强调投资者需要平衡雄心壮志与现实目标，并及时干预创始人可能错过扩张的机会。最后，作者指出当创始人寻求模糊的帮助时，他们通常需要的是来自朋友的情感支持。",
+    "best_quote_en": "The better the investment opportunity is (i.e., expected value relative to valuation), the harder it usually is to get the company to choose you as an investor.",
+    "best_quote_zh": "投资机会越好（即预期价值与估值的比率越高），公司选择你作为投资者的难度就越大。"
+  },
+  {
+    "id": 424,
+    "title": "How to Accelerate Learning & Improve Education | Joe Liemandt",
+    "title_zh": "如何加速学习并改善教育 | Joe Liemandt",
+    "model_used": "dots-studio/dots-3-note-preview:free",
+    "source": "Huberman Lab",
+    "link": "https://www.hubermanlab.com/episode/how-to-accelerate-learning-and-improve-education-joe-liemandt",
+    "tags": [
+      "solve",
+      "ai-research",
+      "education",
+      "beginner-friendly"
+    ],
+    "tags_zh": [
+      "解决",
+      "AI研究",
+      "教育学习",
+      "新手友好"
+    ],
+    "date": "2026-08-31",
+    "summary_en": "This episode explores a radical reimagining of K-12 education through AI-driven, individualized learning at Alpha School, founded by tech entrepreneur Joe Liemandt. The core insight is that mastery-based education—where students progress only after fully grasping concepts—can compress academic timelines to just two hours daily, freeing time for real-world application, entrepreneurship, and personal development. Liemandt argues that traditional schooling often prioritizes compliance over competence, and that AI can serve as a personalized tutor, adapting pace and content to each student’s cognitive profile. The discussion covers practical tools available today, the role of motivation and shame in learning, and how interest-led projects foster deeper engagement. Critically, it challenges the industrial-era model of education, suggesting that technology, when paired with human mentorship, can unlock human potential at scale. The episode is both a case study and a vision statement—offering actionable insights for educators, parents, and policymakers while inviting reflection on what education is truly for.",
+    "summary_zh": "本期节目深入探讨了由科技企业家Joe Liemandt创立的Alpha School如何通过AI驱动的个性化学习，彻底重塑K-12教育模式。核心洞见在于：基于掌握的学习（mastery-based learning）允许学生在完全掌握知识后才进入下一阶段，从而将每日学术时间压缩至两小时，释放大量时间用于实践、创业与人格成长。Liemandt指出，传统教育常以服从替代能力，而AI可作为个性化导师，根据每个学生的认知节奏调整教学内容与进度。节目不仅提供当前可落地的工具与方法，还深入剖析了动机、羞耻感与成长型思维在学习中的作用，并强调以兴趣为导向的项目式学习能激发深层投入。这不仅是对现有教育体系的批判，更是一份面向未来的行动蓝图——为教育者、家长与政策制定者提供了可操作的启发，同时促使我们重新思考：教育的本质究竟是什么？技术与人文如何协同释放人类潜能？",
+    "best_quote_en": "Education should not be about compliance; it should be about competence. When we design systems that respect individual pace and mastery, we don’t just teach subjects—we teach people how to learn, think, and create.",
+    "best_quote_zh": "教育不应关乎服从，而应关乎能力。当我们设计尊重个体节奏与掌握程度的系统时，我们不仅在教授学科，更是在教会人们如何学习、思考与创造。"
+  },
+  {
+    "id": 425,
+    "title": "Weekly Review",
+    "title_zh": "每周评论",
+    "model_used": "poolside/laguna-xs-2.1:free",
+    "source": "Harper’s Magazine",
+    "link": "https://harpers.org/2026/09/weekly-review-mission-accomplished-iran-iraq-war-kid-rock-defense-secretary-resignations-war-crimes-dolly-parton-tropical-storm-dolly-nepal-floods-lake-america-smoked-snails-tomatina-malaria-dead-bird/",
+    "tags": [
+      "update",
+      "legal",
+      "politics",
+      "controversial"
+    ],
+    "tags_zh": [
+      "动态",
+      "法律法规",
+      "政治时事",
+      "争议观点"
+    ],
+    "date": "2026-09-01",
+    "summary_en": "This weekly review presents a kaleidoscopic panorama of 2026's geopolitical turbulence, cultural peculiarities, and natural disasters. The content reveals how political rhetoric ('MISSION ACCOMPLISHED' echoes) intersects with military realities—Senator Cruz defending extended Iran involvement while Defense Secretary turmoil unfolds. Beyond geopolitics, the piece captures human absurdity: Coldstream Guards playing Dolly Parton, Italian faux Greek theaters, and Burning Man's laser ban. Environmental catastrophes compound human conflict, from Himalayan floods killing 900+ to Venezuelan oil concessions. The article masterfully juxtaposes high-stakes international diplomacy with domestic eccentricity—from Lake Ontario's renaming to Meta's $17B settlement. This collection functions as both chronicle and commentary, illustrating how governance, environment, and culture spiral into unexpected narratives that reveal deeper truths about contemporary society's complexity.",
+    "summary_zh": "这篇2026年每周评论如同时空拼贴，将地缘政治动荡、文化荒诞与自然灾害交织。特朗普宣称'2026年任务完成'，与伊拉克战争历史呼应，伊朦冲突延续七个月。国会警察在卡车上发现法西奇刀，空客否认商务 lounge 被当作性密室。藏族高原滑坡致900+死亡，Meta拟付170亿和解。湖 Ontario 改名'湖 America'，西班牙番茄节外国人占40%。这些离奇事件揭示当代社会的错综复杂：权力、自然、文化在荒诞中交织，折射出时代的深层张力与人性的奇观。",
+    "best_quote_en": "“MISSION ACCOMPLISHED 2026,” declared the U.S. president in reference to the U.S.–Israeli war against Iran on Truth Social, echoing the banner that hung behind his predecessor George W. Bush during a 2003 speech eight years before the Iraq War ended.",
+    "best_quote_zh": "“任务完成2026年，”美国总统在Truth Social宣布，称美以对伊朗战争取得成功，呼应了乔·Bush在2003年发表演讲时背后悬挂的旗帜——那时伊拉克战争还没结束八年。"
+  },
+  {
+    "id": 426,
+    "title": "Every song on the ‘Leviticus’ soundtrack",
+    "title_zh": "每首《Leviticus》原声带歌曲",
+    "model_used": "nvidia/nemotron-3-nano-omni-30b-a3b-reasoning:free",
+    "source": "NME",
+    "link": "https://www.nme.com/news/film/leviticus-soundtrack-every-song-3965137?utm_source=rss&utm_medium=rss&utm_campaign=leviticus-soundtrack-every-song",
+    "tags": [
+      "update",
+      "music-arts"
+    ],
+    "tags_zh": [
+      "动态",
+      "音乐艺术"
+    ],
+    "date": "2026-09-03",
+    "summary_en": "The NME article provides a comprehensive overview of the upcoming supernatural horror film 'Leviticus,' directed by Adriana Chiarella. The piece highlights the film's premise about teenagers escaping a violent entity formed by their romantic desires after a conversion therapy ritual, featuring a notable cast including Mia Wasikowska. Crucially, it details the film's score by Jed Kurzel (The Mess Hall founder, known for 'Monkey Man' and 'Alien: Covenant') and reveals Frank Ocean's 'Self Control' as the first approved soundtrack song since 2019, marking significant musical context for the film's atmospheric tension and cultural relevance.",
+    "summary_zh": "《Leviticus》由Adriana Chiarella执导，讲述两名青少年逃离转化疗法后被欲望化为暴力实体的恐怖故事。Jed Kurzel作曲，Frank Ocean首次获批2019年后的歌曲《Self Control》入片，彰显影片音乐与心理恐怖的深层关联，预计2026年9月英国上映。",
+    "best_quote_en": "Frank Ocean's 'Self Control' marks the first time the singer has approved one of his songs for a film since 2019's 'Waves,' highlighting the track's thematic resonance with the film's psychological horror elements.",
+    "best_quote_zh": "Frank Ocean首次获批2019年后的歌曲《Self Control》入片，彰显影片音乐与心理恐怖的深层关联。"
   }
 ]
