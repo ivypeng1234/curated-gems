@@ -1,116 +1,5 @@
 [
   {
-    "id": 327,
-    "title": "Bernie Sanders Takes on Data Centers",
-    "title_zh": "伯尼·桑德斯谈数据中心",
-    "model_used": "nvidia/nemotron-3-nano-30b-a3b:free",
-    "source": "The New Yorker",
-    "link": "https://www.newyorker.com/culture/the-new-yorker-interview/bernie-sanders-takes-on-data-centers",
-    "tags": [
-      "analyze",
-      "ai-research",
-      "science"
-    ],
-    "tags_zh": [
-      "分析",
-      "AI研究",
-      "科学研究"
-    ],
-    "date": "2026-08-14",
-    "summary_en": "The article examines Bernie Sanders' unprecedented political push against the rapid expansion of data centers, framing them as a public crisis intertwined with environmental degradation, economic inequality, and democratic accountability. Through his collaboration with Alexandria Ocasio-Cortez, Sanders introduces a federal moratorium to pause new constructions, demanding time for research and public discourse. The piece highlights the cross-partisan nature of resistance—uniting conservatives, progressives, and moderates who share concerns about AI’s societal impact, from job displacement to privacy erosion. Sanders’ critique exposes how corporate-owned data infrastructure, built by the wealthiest elites, prioritizes profit over public welfare, questioning whether such growth serves citizens or exacerbates systemic risks. This narrative reframes data centers not merely as technological necessities but as symbols of unchecked corporate power and ecological unsustainability, urging a reevaluation of AI’s societal costs before irreversible damage occurs.",
-    "summary_zh": "文章揭示伯尼·桑德斯联合奥卡西奥-科尔特斯推动全國性数据中心暂停，将其定位为应对环境危机、经济不平等与数字权力集中危机的关键举措。桑德斯指出，跨政治谱系的民众对AI对就业、隐私及社会稳定的冲击普遍担忧，质问为何要为富裕企业主服务却忽视普通人福祉。通过批判数据中心作为财富分配的工具，他迫使公众重新审视技术进步的代价，强调在无监管扩张下，AI的生态与社会风险将超越控制，呼吁建立可持续发展的技术治理框架。",
-    "best_quote_en": "They’re saying, What the hell are we doing? What is this gonna contribute to? Is this gonna result in my kid not being able to have a job? Is this gonna result in my not having any privacy?",
-    "best_quote_zh": "他们说：我们到底在干什么？这能带来什么贡献？会不会导致我孩子找不到工作？会不会让我失去隐私？"
-  },
-  {
-    "id": 328,
-    "title": "Book Freak #222: How to remember anything, from a memory champion",
-    "title_zh": "How to remember anything, from a memory champion",
-    "model_used": "nvidia/nemotron-3.5-lightning:free",
-    "source": "Kevin Kelly",
-    "link": "https://kk.org/cooltools/book-freak-222-how-to-remember-anything-from-a-memory-champion/",
-    "tags": [
-      "solve",
-      "ai-research"
-    ],
-    "tags_zh": [
-      "解决",
-      "AI研究"
-    ],
-    "date": "2026-08-14",
-    "summary_en": "Nelson Dellis's journey from ordinary memory to six-time U.S. champion reveals that exceptional recall is a trainable skill, not an innate gift. The book distills ancient memory techniques—the memory palace, vivid associations, and focused attention—into practical methods anyone can adopt. Beyond mnemonics, Dellis emphasizes that memory serves as the foundation for all cognitive skills, from rapid reading to problem-solving. The Fermi problem framework, breaking complex questions into answerable components, offers a transferable critical thinking tool. Ultimately, the work argues that focus, deliberate practice, and systematic organization can transform how we encode and retrieve information, suggesting memory enhancement is within reach for dedicated learners.",
-    "summary_zh": "Nelson Dellis从普通记忆六次成为美国记忆冠军的经历表明，卓越的回忆是可训练的技能，而非天生天赋。本书将古老的记忆技巧——记忆宫殿、生动联想和专注注意力——简化为任何人都能采用的实用方法。除了助记符外，Dellis强调记忆是所有认知技能的基础，从快速阅读到问题解决。Fermi问题框架，将复杂问题分解为可答组件，提供了可转移的批判性思维工具。最终，这项工作认为，专注、有意练习和系统组织可以转变我们编码和检索信息的方式，表明记忆增强对于专注的学习者触手可及。",
-    "best_quote_en": "\"I would forget things just like anybody else. And I trained this skill. I learned it from another memory champion and practiced the hell out of it until I was able to do it.\"",
-    "best_quote_zh": "\"我就像任何人一样会忘记事情。而且我训练了这项技能。我是从另一位记忆冠军那里学会的，并且练得天下无双，直到我能够做到。”"
-  },
-  {
-    "id": 329,
-    "title": "Idea Generation",
-    "title_zh": "Idea Generation",
-    "model_used": "nvidia/nemotron-3.5-lightning:free",
-    "source": "Sam Altman",
-    "link": "https://blog.samaltman.com/idea-generation",
-    "tags": [
-      "learn",
-      "design",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "学习",
-      "设计创意",
-      "未来预测"
-    ],
-    "date": "2020-05-28",
-    "summary_en": "This essay offers a masterclass in startup idea generation, arguing that idea quality is a foundational skill for founders rather than a prerequisite. The author contends that successful founders are distinguished by their 'high idea flux' and ability to think without social constraints. Central to the piece is the advice to surround oneself with optimistic, creative thinkers who welcome improbable plans, and to project 20 years into the future to identify 'tectonic shifts' that incumbents cannot easily replicate. The text provides a rigorous framework for differentiating between fleeting trends and lasting opportunities, emphasizing that the best ideas are often fragile and initially sound 'silly.' Ultimately, the author posits that founder-team fit is as critical as product-market fit, and a great idea requires the conviction to pursue what most dismiss as bad.",
-    "summary_zh": "这篇文章是一堂创意生成的精品课，论证了创意质量是创始人的基础技能而非先决条件。作者认为，成功的创始人具备「高创意通量」并能跳出社会约束进行思考。核心建议是让自己身处乐观、富有创造力、容纳 improbable plans（不可能计划）的环境中，并向前展望20年以识别大型企业难以复制的「板块性转移」。文章提供了一个严谨的框架，区分短暂趋势与持久机会，强调最好的创意往往脆弱且最初听起来「很傻」。最终，作者认为创始人与团队的匹配度与产品市场匹配同样重要，伟大的创意需要有说服力去追逐大众认为糟糕的想法。",
-    "best_quote_en": "The best ideas are fragile; most people don’t even start talking about them at all because they sound silly.",
-    "best_quote_zh": "最好的创意都是脆弱的；大多数人根本不敢谈论它们，因为它们听起来很傻。"
-  },
-  {
-    "id": 330,
-    "title": "Essentials: How to Optimize Female Hormone Health for Vitality & Longevity | Dr. Sara Gottfried",
-    "title_zh": "核心要点：如何优化女性激素健康以提升活力与长寿 | Sara Gottfried博士",
-    "model_used": "nvidia/nemotron-3-ultra-550b-a55b:free",
-    "source": "Huberman Lab",
-    "link": "https://www.hubermanlab.com/episode/essentials-how-to-optimize-female-hormone-health-for-vitality-and-longevity-sara-gottfried",
-    "tags": [
-      "solve",
-      "health-wellness"
-    ],
-    "tags_zh": [
-      "解决",
-      "健康养生"
-    ],
-    "date": "2026-08-13",
-    "summary_en": "This Huberman Lab Essentials episode with Dr. Sara Gottfried delivers a masterclass in female hormone health across the lifespan. What strikes me most is the paradigm shift from reactive symptom management to proactive biomarker tracking by decade — a framework that transforms women's health from a black box into navigable terrain. The discussion on perimenopause as a cerebral metabolic shift, not merely a reproductive transition, reframes Alzheimer's risk in women as potentially modifiable through early intervention. Gottfried's nuanced take on oral contraceptives — acknowledging benefits while exposing the SHBG-mediated testosterone suppression that can persist post-use — exemplifies the informed consent women deserve but rarely receive. The actionable toolkit (hormone testing timing, CGMs, coronary calcium scoring, adaptive exercise) bridges cutting-edge science with immediate agency. This isn't just health optimization; it's architectural blueprint for female vitality.",
-    "summary_zh": "这期Huberman Lab精华节目重塑了我对女性激素健康的认知：从被动治疗转向按年代主动追踪生物标志物，让女性健康从黑箱变成可导航的地图。围绝经期实为大脑代谢转型而非单纯生殖衰退，这将女性阿尔茨海默病风险重构为可通过早期干预修改的命题。Gottfried对口服避孕药的辩证分析——肯定获益却揭露SHBG介导的睾酮抑制可能持续存在——正是女性应得却鲜少获得的知情同意。从激素检测时机、持续血糖监测到冠状动脉钙化评分，这些工具将前沿科学转化为即时能动性。这不只是健康优化，更是女性活力的建筑蓝图。",
-    "best_quote_en": "Perimenopause is not just a reproductive transition — it's a metabolic transition in the brain. The female brain undergoes a shift in glucose metabolism that begins years before the final menstrual period, and this cerebral hypometabolism is a biomarker for Alzheimer's risk that we can actually intervene on.",
-    "best_quote_zh": "围绝经期不仅仅是生殖系统的转型——它是大脑的代谢转型。女性大脑的葡萄糖代谢在最后一次月经前几年就开始转变，这种大脑低代谢状态是阿尔茨海默病风险的生物标志物，而这正是我们可以干预的靶点。"
-  },
-  {
-    "id": 331,
-    "title": "Israel’s Leaders Find Allies Among the Global Far Right",
-    "title_zh": "以色列领导人在全球极右翼中寻找盟友",
-    "model_used": "nvidia/nemotron-3-super-120b-a12b:free",
-    "source": "The New Yorker",
-    "link": "https://www.newyorker.com/news/global-notes/israels-leaders-find-allies-among-the-global-far-right",
-    "tags": [
-      "solve",
-      "politics",
-      "controversial"
-    ],
-    "tags_zh": [
-      "解决",
-      "政治时事",
-      "争议观点"
-    ],
-    "date": "2026-08-13",
-    "summary_en": "This article examines how Israel's government, facing declining international support due to its Gaza war policies, is strategically aligning with far-right political movements worldwide. From Latin America to Europe, Israeli officials are cultivating relationships with nationalist leaders who share anti-Muslim sentiments and skepticism toward multilateral institutions. The piece reveals a calculated diplomatic shift where Israel trades traditional Western alliances for partnerships with figures like Javier Milei, Geert Wilders, and Abelardo de la Espriella, who offer political cover in exchange for symbolic gestures such as recognizing Israeli sovereignty over the Golan Heights or moving embassies to Jerusalem. This realignment reflects both Israel's isolation in mainstream global politics and the far right's opportunistic embrace of Zionism as part of their broader anti-globalist, anti-immigrant agenda, raising profound questions about the future of Israeli foreign policy and the moral compromises inherent in seeking legitimacy from illiberal regimes.",
-    "summary_zh": "文章深刻揭示了以色列在加沙战争后陷入国际舆论孤岛的困境，如何通过主动拥抱全球极右翼力量来重建外交支持。这种策略不仅暴露了传统西方盟友对以色列政策的日益不满，也凸显了极右翼利用亲以色列立场来推进其反全球化、反移民议程的机会主义本质。作者以敏锐的政治洞察力指出，这种看似互利的联盟实际上是一场危险的交易：以色列用领土象征性让步换取政治背书，而极右翼则获得了合法化的国际舞台。这种关系的可持续性值得深思——当以色列的安全开始依赖于那些推崇民主价值观的政权的敌意时，其作为犹太人家园的道德基础将面临何种考验？",
-    "best_quote_en": "His politics, demagoguery, and sycophantic affinity to every and all illiberal quasi-democratic autocrats have not only devalued Israel but are a toxic mutation of Zionism.",
-    "best_quote_zh": "他的政治手段、煽动性言论以及对一切不自由的半民主独裁者的恭维，不仅贬低了以色列的价值，更是对犹太复国主义的有毒扭曲。"
-  },
-  {
     "id": 332,
     "title": "2026 Awards Ceremony",
     "title_zh": "2026颁奖典礼",
@@ -2322,5 +2211,126 @@
     "summary_zh": "《Leviticus》由Adriana Chiarella执导，讲述两名青少年逃离转化疗法后被欲望化为暴力实体的恐怖故事。Jed Kurzel作曲，Frank Ocean首次获批2019年后的歌曲《Self Control》入片，彰显影片音乐与心理恐怖的深层关联，预计2026年9月英国上映。",
     "best_quote_en": "Frank Ocean's 'Self Control' marks the first time the singer has approved one of his songs for a film since 2019's 'Waves,' highlighting the track's thematic resonance with the film's psychological horror elements.",
     "best_quote_zh": "Frank Ocean首次获批2019年后的歌曲《Self Control》入片，彰显影片音乐与心理恐怖的深层关联。"
+  },
+  {
+    "id": 427,
+    "title": "Visible and Powerful: Gloria Steinem (1934-2026)",
+    "title_zh": "可见且强大的格洛丽亚·斯坦因",
+    "model_used": "cohere/north-mini-code:free",
+    "source": "RogerEbert.com",
+    "link": "https://www.rogerebert.com/tributes/visible-and-powerful-gloria-steinem-1934-2026",
+    "tags": [
+      "analyze",
+      "writing-content",
+      "ai-research",
+      "case-study"
+    ],
+    "tags_zh": [
+      "分析",
+      "写作内容",
+      "AI研究",
+      "案例研究"
+    ],
+    "date": "2026-09-03",
+    "summary_en": "This poignant tribute explores Gloria Steinem's enduring impact on feminism and media, revealing her complex legacy. From pioneering Ms. magazine to confronting reproductive rights and trans advocacy, Steinem's journey illustrates the relentless struggle for gender equality. The narrative weaves personal reflections with historical context, highlighting how Steinem's early experiences with marital titles sparked a lifelong commitment to women's empowerment. Through journalism, activism, and cultural influence, she transformed feminist discourse while navigating controversies. The piece underscores the ongoing relevance of bodily autonomy and the necessity of continued advocacy, reminding readers that true liberation demands perpetual vigilance and collective effort.",
+    "summary_zh": "这篇充满情感的悼文探讨了格洛丽亚·斯坦因对女权主义和媒体的深远影响，揭示了她复杂的遗产。从创办《Ms.》杂志到面对生殖权利和跨性别权利的挑战，斯坦因的历程体现了为性别平等不懈奋斗的精神。文章将个人反思与历史背景交织，讲述了斯坦因如何从对婚姻称谓的早期质疑开始，开启了终身的女性赋权事业。通过新闻报道、积极行动和文化影响，她重塑了女权主义话语，同时也面临诸多争议。文章强调， bodily 自主权和持续倡导的必要性，对于实现所有人自由的艰辛道路至关重要。",
+    "best_quote_en": "\"Reproductive freedom is as basic, maybe more basic, than freedom of speech.\"",
+    "best_quote_zh": "\"生殖自由可能比言论自由更基本。\""
+  },
+  {
+    "id": 428,
+    "title": "The Creative Power of Uncertainty: Polish Poet Wisława Szymborska’s Magnificent Nobel Prize Acceptance Speech",
+    "title_zh": "不确定性的创造力：波兰诗人维斯拉瓦·辛波尔斯卡的诺贝尔奖获奖演讲",
+    "model_used": "cohere/north-mini-code:free",
+    "source": "The Marginalian",
+    "link": "https://www.themarginalian.org/2026/09/03/wislawa-szymborska-nobel-speech/",
+    "tags": [
+      "learn",
+      "education",
+      "music-arts",
+      "beginner-friendly"
+    ],
+    "tags_zh": [
+      "学习",
+      "教育学习",
+      "音乐艺术",
+      "新手友好"
+    ],
+    "date": "2026-09-03",
+    "summary_en": "This article explores the creative power of uncertainty through Wisława Szymborska's Nobel Prize acceptance speech, revealing how 'not-knowing' fuels artistic and human innovation. Drawing parallels with artists like Richard Diebenkorn and Ann Hamilton, Szymborska argues that inspiration emerges from continuous curiosity rather than certainty. She contrasts this generative uncertainty with authoritarian figures who 'know too much,' showing how knowledge that doesn't lead to new questions becomes stagnant and dangerous. Through historical examples like Newton and Marie Curie, she demonstrates how embracing 'I don't know' expands human potential and wonder. The piece also references her poem 'Utopia,' depicting a world of certainty as an empty island where no one resides. This profound meditation on uncertainty's role in creativity and human progress makes the speech a timeless exploration of what makes us truly human.",
+    "summary_zh": "本文通过波兰诗人维斯拉瓦·辛波尔斯卡的诺贝尔奖获奖演讲，探讨了不确定性的创造力。辛波尔斯卡认为，灵感源于持续的‘不知道’，这种持续的好奇心推动着艺术和人类的创新。她将这种不确定性与艺术家的创造力联系起来，并指出，当知识不再带来新问题时，它就会变得危险。文章引用了牛顿和居里夫人等历史人物的例子，说明了‘我不知道’如何推动了人类的进步。同时，辛波尔斯卡还通过她的诗歌《乌托邦》描绘了一个充满确定性的世界，揭示了这种世界其实是空虚的。",
+    "best_quote_en": "\"Whatever inspiration is, it's born from a continuous 'I don't know.'\"",
+    "best_quote_zh": "\"无论灵感是什么，它都源于持续的‘我不知道’。\""
+  },
+  {
+    "id": 429,
+    "title": "100 Objects #16: Wheel of Fortune Dalmatian",
+    "title_zh": "100 Objects #16：幸运转盘的达尔文犬",
+    "model_used": "poolside/laguna-xs-2.1:free",
+    "source": "99% Invisible",
+    "link": "https://99percentinvisible.org/episode/100-objects-016-wheel-of-fortune-dalmatian/",
+    "tags": [
+      "analyze",
+      "general",
+      "case-study"
+    ],
+    "tags_zh": [
+      "分析",
+      "general",
+      "案例研究"
+    ],
+    "date": "2026-09-04",
+    "summary_en": "This episode explores the curious cultural phenomenon of the ceramic Dalmatian as Wheel of Fortune's most memorable prize, revealing how seemingly 'useless' objects can become powerful symbols of shared American experience. Through historian Adam Nedeff's research and owner Terry Eldrige's personal accounts, the analysis uncovers how game show prizes reflect evolving definitions of value and the American dream itself. The Dalmatian's ubiquity—appearing on tens of millions of screens nightly—demonstrates how mass media creates collective meaning from the mundane. This micro-history illuminates broader shifts in American values: from post-war material abundance to contemporary questions about utility versus sentiment. The episode masterfully uses this single object to examine how popular culture shapes national identity, making the case that our relationship with objects reveals deeper truths about aspiration, nostalgia, and the stories we tell ourselves about progress. It's a fascinating lens into how America's changing dreams are reflected in its most banal consumer artifacts.",
+    "summary_zh": "这集节目用‘无用’的瓷玩达尔文犬作切入口，探讨了流行文化如何从琐碎物品中孕育出集体记忆与美国梦的变迁。达尔文犬在电视上的普遍出现，实则映射了媒体时代意义建构的机制——当千家万户的生活被同一符号覆盖时，个人的‘奖品’便转化为民族的共鸣器。",
+    "best_quote_en": "For a brief moment, that prize—perhaps the ultimate useless object—became the mascot for one of America's most popular game shows, appearing on tens of millions of TV screens, night after night, all across the country.",
+    "best_quote_zh": "在短暂的时刻里，这件奖品——或许是‘最终的无用之物’——成了美国最受欢迎的游戏秀的吉祥物，连夜登上全美千家万户的电视屏幕。"
+  },
+  {
+    "id": 430,
+    "title": "Peacock’s “The Paper” Starts To Run Out Of Ink In Season 2",
+    "title_zh": "孔雀平台的《The Paper》第二季开始墨水告急",
+    "model_used": "minimax/minimax-m3:free",
+    "source": "RogerEbert.com",
+    "link": "https://www.rogerebert.com/streaming/the-paper-season-2-office-spinoff-peacock-tv-review-2026",
+    "tags": [
+      "analyze",
+      "lifestyle",
+      "ai-research",
+      "case-study"
+    ],
+    "tags_zh": [
+      "分析",
+      "生活方式",
+      "AI研究",
+      "案例研究"
+    ],
+    "date": "2026-09-03",
+    "summary_en": "This review of Peacock's 'The Paper' Season 2 offers a measured critique of a spinoff that never quite escapes the shadow of its predecessor. Greg Daniels, who masterfully adapted 'The Office' for American audiences, co-creates a show with familiar DNA—same workplace setup, Oscar Martinez cameo, mockumentary DNA—but lacks the comic precision that made its parent series iconic. The reviewer identifies genuine strengths: Domhnall Gleeson and Chelsea Frei share chemistry reminiscent of television's greatest workplace couples, while supporting players like Melvin Gregg and Gbemisola Ikumelo elevate the ensemble. The darkest, most politically incorrect comedy lands best. However, the series suffers from tonal inconsistency—Sabrina Impacciatore's broad performance feels disconnected from reality, and certain character behavior crosses from quirky into genuinely unsettling territory without earning laughs. The critique raises a fundamental question: when does unconventional behavior become careless writing? Shows like 'Seinfeld' and 'Curb' made terrible behavior hilarious through precision; 'The Paper' merely makes it weird.",
+    "summary_zh": "这篇评论对《The Paper》第二季做出了冷静的诊断——一部注定活在母剧阴影下的衍生作。Greg Daniels曾成功将《办公室》本土化，却无法复制其喜剧精髓。Gleeson与Frei之间的化学反应令人联想到经典的办公室情侣，但配角阵容的亮点未能弥补整体的失衡。Impacciatore过于夸张的表演脱离现实，而部分角色的怪异行为从幽默滑向了令人不安的领域，缺乏《Seinfeld》或《Curb》那种对荒诞行为的精准掌控。核心问题在于：当反常规角色缺乏喜剧精度时，怪诞就变成了失控。这部剧需要的不是更深的阴暗，而是更精准的笔触。",
+    "best_quote_en": "It's more unsettling than terrible, but it doesn't have the level of precision comedy we've seen on those shows. It feels like the series either needs to lean even more into the shadiness of some characters, or have them get their respective acts together.",
+    "best_quote_zh": "它让人感到不安而非糟糕，缺乏我们在那些经典剧集里见过的精准喜剧。这部剧要么需要更彻底地拥抱角色的阴暗面，要么需要让它们各自收敛一下。"
+  },
+  {
+    "id": 431,
+    "title": "Italo Calvino on Reading and Sex",
+    "title_zh": "卡尔维诺论阅读与性",
+    "model_used": "inclusionai/ling-3.0-flash-fin:free",
+    "source": "The Marginalian",
+    "link": "https://www.themarginalian.org/2026/09/03/calvino-if-on-a-winters-night-a-traveler-love/",
+    "tags": [
+      "solve",
+      "writing-content",
+      "controversial"
+    ],
+    "tags_zh": [
+      "解决",
+      "写作内容",
+      "争议观点"
+    ],
+    "date": "2026-09-03",
+    "summary_en": "This piece explores Italo Calvino's extraordinary meditation on the parallel between reading and intimacy, drawn from his 1979 novel 'If on a winter's night a traveler.' Calvino posits that both reading and lovemaking share a fundamental quality: they open times and spaces that transcend measurable reality. The author brilliantly articulates how lovers read each other's bodies with the same non-linear, immersive attention one brings to a novel—skipping, repeating, lingering, and discovering. What emerges is a profound philosophical argument that reading is not merely intellectual but deeply somatic and erotic, requiring the same delicate balance of total surrender and sovereign awareness. Calvino's insight that 'you are two tu's, more separate and circumscribed than before' even at moments of apparent union speaks to the irreducible solitude within connection. This passage elevates reading from passive consumption to an act of passionate, total engagement—one that mirrors the vulnerability, curiosity, and beauty of physical love. The piece ultimately asks us to reconsider how we approach books: not as objects to be consumed, but as lovers to be courted, understood, and cherished.",
+    "summary_zh": "这篇文章探讨了卡尔维诺关于阅读与亲密之间关系的非凡沉思。卡尔维诺认为，阅读与做爱共享一种本质特征：它们都开启超越可测量现实的时空。恋人以非线性、全浸入的方式阅读彼此的身体，正如读者对待小说一般——跳跃、重复、流连、发现。卡尔维诺将阅读从被动消费提升为充满激情与脆弱的全身心投入，揭示阅读不仅是智性活动，更是身体性与感官性的体验。他那句'在最像合一的时候，你们反而是两个你，比以往更加分离和界限分明'，道出了联结中不可消解的孤独。这段文字邀请我们重新审视阅读的方式——不是将书视为消费品，而是当作需要追求、理解与珍视的爱人。",
+    "best_quote_en": "What makes lovemaking and reading resemble each other most is that within both of them times and spaces open, different from measurable time and space.",
+    "best_quote_zh": "做爱与阅读最相似之处在于，在两者之中，都开启了不同于可测量时间与空间的时空。"
   }
 ]
