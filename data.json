@@ -1,124 +1,5 @@
 [
   {
-    "id": 337,
-    "title": "100 Objects #13: The Sand Letters",
-    "title_zh": "100 Objects #13：沙德莲特字母",
-    "model_used": "poolside/laguna-xs-2.1:free",
-    "source": "99% Invisible",
-    "link": "https://99percentinvisible.org/episode/100-objects-013-the-sand-letters/",
-    "tags": [
-      "solve",
-      "politics",
-      "ai-research",
-      "case-study"
-    ],
-    "tags_zh": [
-      "解决",
-      "政治时事",
-      "AI研究",
-      "案例研究"
-    ],
-    "date": "2026-08-14",
-    "summary_en": "This episode reveals a fascinating historical narrative about Julia Isabella Sand, an obscure woman whose actions fundamentally transformed American government. Through 23 surviving letters initialed 'J.I.S.', Sand influenced President Chester Arthur—a man who owed his rise to corrupt systems—to become a reformer. The story demonstrates how individual agency can reshape institutional power, creating lasting governmental reforms that persist today. Roman Mars presents this as part of 'A History of the United States in 100 Objects,' highlighting how seemingly mundane artifacts can illuminate profound historical transformations. The narrative challenges traditional power dynamics by showing how an unnamed woman's correspondence catalyzed presidential change, offering insights into political reform, gender dynamics, and historical agency.",
-    "summary_zh": "这段讲述了琼拉·伊莎贝尔·桑德如何通过23封签名J.I.S.的信件，影响了切尔斯特·阿瑟总统从腐败体系中崛起的政治人物，最终成为改革者。故事揭示了个人行动如何重塑制度权力，创造出今天仍存续的政府体制。阿瑟因临终前命令焚毁个人文件而留下痕迹，唯有桑德的信件存世，这场历史转折正是由一位无人知晓的女子发起，证明了历史改革常由边缘力量牵引。",
-    "best_quote_en": "On his deathbed, President Chester Arthur ordered that all of his personal and professional papers be burned. Three barrels of documents went up in flames. But 23 letters survived, initialed only 'J.I.S.'",
-    "best_quote_zh": "切尔斯特·阿瑟总统临终前命令焚毁所有个人和专业文件。三个桶的文件被烧得云霞之下。但23封信存活下来，仅以J.I.S.三字签名。"
-  },
-  {
-    "id": 338,
-    "title": "The End of Oak Street: gripping dino survival film feels Spielbergian but plays against expectations",
-    "title_zh": "橡树街的终结：扣人心弦的恐龙生存电影，带有斯皮尔伯格风格，但颠覆了预期",
-    "model_used": "dots-studio/dots-3-note-preview:free",
-    "source": "BFI",
-    "link": "https://www.bfi.org.uk/sight-and-sound/reviews/end-oak-street-gripping-dino-survival-film-feels-spielbergian-plays-against-expectations",
-    "tags": [
-      "update",
-      "music-arts",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "动态",
-      "音乐艺术",
-      "未来预测"
-    ],
-    "date": "2026-08-14",
-    "summary_en": "David Robert Mitchell’s *The End of Oak Street* (2026) is a genre-defying sci-fi survival thriller that merges suburban domesticity with prehistoric terror. Set in 1982, the film transports a neighborhood into a dinosaur-infested jungle, forcing estranged parents Denise (Anne Hathaway) and Greg (Ewan McGregor) to cooperate for their children’s survival. Mitchell, known for *It Follows*, subverts Spielbergian tropes—evident in the Poltergeist-esque suburban dread and Giacchino’s Williams-esque score—by injecting existential despair, moral complexity, and scientific curiosity. Unlike *Jurassic Park*, which celebrated human dominance, this film critiques survivalist selfishness: Denise’s heroism lies not in combat but in embracing an orphaned girl. The feathered, bird-like dinosaurs reflect updated paleontology, yet the characters’ ignorance of this revision underscores societal denial of scientific progress. The film’s climax, with its multiverse implications, suggests that survival is not just physical but ethical. Mitchell’s direction balances shock with emotional depth, making *The End of Oak Street* not just a monster movie, but a meditation on family, fate, and responsibility in the face of the unknown.",
-    "summary_zh": "大卫·罗伯特·米切尔的《橡树街的终结》（2026）是一部颠覆类型惯例的科幻生存惊悚片，将郊区家庭生活与史前恐怖融合。影片设定于1982年，一个社区被传送到恐龙横行的丛林，迫使疏远的父母丹妮丝（安妮·海瑟薇）和格雷格（伊万·麦克格雷格）为保护孩子而合作。米切尔以《它 follows》闻名，本片虽带有斯皮尔伯格风格——如《吵闹鬼》式的郊区恐怖与吉亚奇诺配乐对威廉姆斯的致敬——却注入存在主义绝望、道德复杂性与科学好奇心。与《侏罗纪公园》不同，本片批判生存主义的自私：丹妮丝的英雄行为不是战斗，而是接纳孤儿女孩。羽毛状、类鸟恐龙反映古生物学更新，角色对此的无知却凸显社会对科学进步的否认。结局的多元宇宙暗示，生存不仅是物理层面，更是伦理层面。米切尔在惊悚与情感深度间取得平衡，使本片不仅是怪兽片，更是对家庭、命运与未知面前责任的沉思。",
-    "best_quote_en": "Denise’s most heroic moment isn’t defending her kids but welcoming the orphaned Jeannette into the group who must be saved.",
-    "best_quote_zh": "丹妮丝最英雄的行为不是保护孩子，而是接纳孤儿珍妮特加入必须被拯救的群体。"
-  },
-  {
-    "id": 339,
-    "title": "Artist Spotlight: Masanori Ushiki",
-    "title_zh": "艺术家专访：宇志賀真司",
-    "model_used": "poolside/laguna-xs-2.1:free",
-    "source": "BOOOOOOOM",
-    "link": "https://www.booooooom.com/2026/08/14/artist-spotlight-masanori-ushiki/",
-    "tags": [
-      "update",
-      "design",
-      "music-arts"
-    ],
-    "tags_zh": [
-      "动态",
-      "设计创意",
-      "音乐艺术"
-    ],
-    "date": "2026-08-14",
-    "summary_en": "This content presents a visual spotlight on Japanese artist Masanori Ushiki, showcasing his artistic portfolio through a series of evocative artworks. The piece functions primarily as a discovery platform, allowing viewers to engage with Ushiki's creative vision through his website and Instagram presence. While lacking extensive narrative context, the gallery format invites contemplation of his artistic style and methodology. The curatorial choice to present multiple images creates a rhythm of visual storytelling, suggesting depth in his practice. For art collectors, enthusiasts, or those exploring contemporary Japanese art, this serves as an accessible entry point to understanding Ushiki's contribution to modern artistic discourse. The minimalist presentation emphasizes the work itself over extensive biographical detail, trusting visual impact to communicate artistic merit.",
-    "summary_zh": "这篇内容以日本艺术家宇志賀真司的作品为核心，通过精美图片展现其艺术风貌。内容以图片为主，较少文字阐述，作者通过多张作品营造视觉节奏，让观众沉浸式感受其创作精神。这种简约叙事方式，突显作品本身的力量，为想了解当代日本艺术的观众提供了初窥门径。",
-    "best_quote_en": "Masanori Ushiki's Website",
-    "best_quote_zh": "宇志賀真司的网站"
-  },
-  {
-    "id": 340,
-    "title": "100 Objects #11: Brannock Device",
-    "title_zh": "100 Objects #11：布兰科设备",
-    "model_used": "poolside/laguna-xs-2.1:free",
-    "source": "99% Invisible",
-    "link": "https://99percentinvisible.org/episode/100-objects-011-brannock-device/",
-    "tags": [
-      "solve",
-      "design",
-      "case-study"
-    ],
-    "tags_zh": [
-      "解决",
-      "设计创意",
-      "案例研究"
-    ],
-    "date": "2026-07-31",
-    "summary_en": "This episode explores the Brannock Device, a seemingly mundane measuring tool that quietly revolutionized American footwear measurement in 1925 and has endured for over a century with minimal changes. The analysis reveals how this unassuming metal contraption became essential for outfitting WWII sailors and continues to serve modern consumers, representing a fascinating case study in design durability and functional simplicity. Roman Mars and Paul Lukas trace how this object encapsulates broader themes of American industrial design, wartime necessity, and the unexpected longevity of well-crafted tools. The Brannock Device stands as a testament to how solving a basic human need with elegant precision can create lasting impact, making it a compelling example of invisible infrastructure that shapes daily life in ways most people never consciously notice.",
-    "summary_zh": "布兰科设备是1925年诞生的测量工具，至今仍未显著改变。它不仅为二战水兵配鞋，更成为美国足Measurement史上的里程碑。这种金属仪器的持久生命折射出优秀设计的永恒价值——用精密解决日常需求，化繁为简的工业美学悄然影响千家万户。",
-    "best_quote_en": "The metal contraption transformed the way we measure feet forever, and more than a century after its invention... it has barely changed.",
-    "best_quote_zh": "这种金属仪器彻底改变了我们永远衡量脚的方式，不过一百多年后，它几乎没有改变。"
-  },
-  {
-    "id": 341,
-    "title": "Of monsters and men: Peter Wollen on Jurassic Park",
-    "title_zh": "怪兽与人类：彼得·沃伦纳论统治亚马逊",
-    "model_used": "poolside/laguna-xs-2.1:free",
-    "source": "BFI",
-    "link": "https://www.bfi.org.uk/sight-and-sound/features/monsters-men-peter-wollen-jurassic-park",
-    "tags": [
-      "analyze",
-      "music-arts",
-      "ai-research",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "分析",
-      "音乐艺术",
-      "AI研究",
-      "未来预测"
-    ],
-    "date": "2026-08-13",
-    "summary_en": "Peter Wollen's 1993 analysis of Jurassic Park reveals it as a sophisticated cultural artifact that transcends mere entertainment. The film operates as a convergence point for multiple cinematic traditions: the monster movie lineage from The Lost World to King Kong, the theme park narrative of Westworld, and Hitchcock's psychological thrillers. Wollen demonstrates how Jurassic Park functions as both a technological spectacle and a philosophical meditation on humanity's relationship with nature, time, and spectacle itself. The analysis reveals that the film's true innovation lies not in its CGI breakthroughs but in its conceptual framework—using genetic engineering as a reverse time machine that brings extinct creatures forward to haunt the present. This creates what Wollen terms the 'sadistic sublime,' where nursery fears are magnified to prehistoric scale. The author connects this to broader cultural patterns: the transformation of dinosaurs from objects of scientific inquiry to commodities in the Society of the Spectacle, echoing Bentham's Panopticon and Darwin's Galapagos. Ultimately, Jurassic Park represents cinema's evolution from a 'flea circus' to a theme park experience where the boundaries between illusion and reality dissolve, reflecting our contemporary condition of living within mediated environments.",
-    "summary_zh": "沃伦纳的分析揭示了《统治亚马逊》不仅是科技奇观，更是对人类与自然、时间、观众社会关系的哲思。影片将恐龙从科学对象异化为商品，化身为‘悲惨的崇高’，将童年恐惧放大到史前规模。作者通过比etesque监狱和达尔文的加拉帕戈斯群岛，阐明了人类囚禁自然、控制己身的集体幻觉。影片最终化身为主题公园，虚实交织的噩梦映射了当代我们在介质环境中游离的处境——从小丝戏法到现实主题园，人类始终在寻找回到原始场景的逃生出口。",
-    "best_quote_en": "In Jurassic Park, the captive monsters are observed electronically rather than optically, from a computer-driven control centre reminiscent of that for the space ship in Star Trek, another form of high-tech island resort. Isla Nublar hurtles through time as the Enterprise hurtles through space.",
-    "best_quote_zh": "在《统治亚马逊》中，俘获的怪兽不是通过肉眼而是通过电子手段被观察，从类比星际舰船的计算机驱动控制中心观察，另一种高科技岛屿度假区的形式。伊斯拉·努布拉隶居时代，正如星际飞船隶居太空。"
-  },
-  {
     "id": 342,
     "title": "Nothing less than radical whole-system change is required to fix the NHS's maternity services | Julia Sanders",
     "title_zh": "要想拯救NHS产妇服务，必须进行根本性的整体系统变革 | 朱莉亚·桑德斯",
@@ -2334,5 +2215,126 @@
     "summary_zh": "BFI Distribution 获得 Sandra Wollner 戛纳获奖影片《Everytime》的英国和爱尔兰发行权，这部探索悲伤与宽恕的诗意影片已获戛纳某一单元奖并被选为德国2027年奥斯卡参赛片。影片将于2026年10月16日在BFI伦敦电影节首映，2027年初公映。此次收购体现了BFI对引进具有艺术价值的国际影片的承诺，也为观众提供了深刻反思人际关系与情感疗愈的机会。",
     "best_quote_en": "We were stunned by Sandra Wollner’s Everytime, a profound and lyrical study of grief that will break and then mend your heart, while taking you on a hallucinatory journey through forgiveness and healing.",
     "best_quote_zh": "我们被桑德拉·沃尔纳的《Everytime》深深震撼——这是一部关于悲伤的深刻且诗意的研究，它会先让你心碎，然后让你心愈，同时带你踏上一场关于宽恕与治愈的幻觉之旅。"
+  },
+  {
+    "id": 437,
+    "title": "The Tim Ferriss Show Transcripts: Tales of Overcoming the Odds, and How to Turn Losses Into Wins — Tim McGraw, Terry Crews, Dax Shepard, and More (#881)",
+    "title_zh": "Tim Ferriss Show播客稿：克服逆境的故事，如何将失败转化为胜利 —— Tim McGraw、Terry Crews、Dax Shepard等人 (#881)",
+    "model_used": "poolside/laguna-xs-2.1:free",
+    "source": "Tim Ferriss",
+    "link": "https://tim.blog/2026/09/04/failure-into-success-transcript/",
+    "tags": [
+      "solve",
+      "writing-content",
+      "legal",
+      "case-study"
+    ],
+    "tags_zh": [
+      "解决",
+      "写作内容",
+      "法律法规",
+      "案例研究"
+    ],
+    "date": "2026-09-05",
+    "summary_en": "This transcript from The Tim Ferriss Show explores the profound human capacity to transform setbacks into opportunities through resilience, creativity, and community support. Featuring compelling narratives from BJ Miller, Terry Crews, and others, the episode reveals how individuals navigate profound losses—whether physical disability, athletic defeat, or existential crisis—and discover unexpected pathways forward. The central insight is that failure isn't terminal but transformative; what matters is developing the 'tracker' within, attuning to intrinsic wisdom beyond social conditioning. BJ Miller's story of adapting to life with three damaged limbs exemplifies this philosophy, demonstrating how proper collaboration with visionary collaborators like Randy can convert seemingly insurmountable obstacles into liberating innovations. The episode suggests that setbacks often reveal hidden opportunities for those equipped with the right mindset and supportive networks, challenging listeners to examine their own 'bullshit excuses' for not pursuing their dreams.",
+    "summary_zh": "这期播客深刻探讨了人类将挫折转化为机遇的神奇力量。通过BJ Miller、Terry Crews等人的感人故事，揭示了如何在生理伤残、运动失利甚至存在危机中找到前行的道路。核心洞见在于，失败并非终点而是转折点——关键在于培养内在的'追踪者'，敏锐捕捉超越社会规范的本真智慧。Miller先生的经历完美诠释了这一哲学，他成功将三肢受伤的困境转化为人生新高度。这期播客邀请我们反思：我们有多少自我设限的'屁股理由'阻碍了梦想的实现？",
+    "best_quote_en": "I’m doing nothing with my prosthetic arm except for hold on to the bike. So all the action is in my right hand. Brakes the one lever, and then Randy built this box and moved all the controls, the turn signals, horn and all that stuff, over to the right side of the bike in good distance for my thumb to reach them. So I have throttle, brake lever and then the turn signal box all going with one hand. That’s it, you know. Away you go!",
+    "best_quote_zh": "我 prosthetic 手臂除了握着自行车之外一无所有。所以所有动作都在我的右手里。刹车只有一根 Lever，然后Rand搬建了一个盒子，把所有控制台—转向灯、哨声和其他设备—都搬到自行车右侧，刚好让我的拇指能轻松触及。于是我只有右手就能完成油门、刹车和转向灯的操作。这就完事了，你们知道吗？开车啦！"
+  },
+  {
+    "id": 438,
+    "title": "7700亿巨头，要抄底了",
+    "title_zh": "7700亿巨头，要抄底了",
+    "model_used": "nvidia/nemotron-3.5-lightning:free",
+    "source": "虎嗅",
+    "link": "https://www.huxiu.com/article/4888914.html?f=rss",
+    "tags": [
+      "analyze",
+      "business-model",
+      "startup-funding",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "分析",
+      "商业模式",
+      "创业融资",
+      "数据驱动"
+    ],
+    "date": "2026-09-06",
+    "summary_en": "This article examines the potential acquisition of Workday by Silver Lake, analyzing the stark contrast between market narrative and operational reality in the software industry. It reveals how Silver Lake specializes in acquiring distressed tech assets during market panic, offering a contrarian perspective that challenges the prevailing SaaS doom narrative. The piece critically evaluates how AI fears have created a quantum superposition in software valuation, where companies are simultaneously written off as obsolete and acquired at premium multiples. Key insights include the distinction between emotional market selling and fundamental business health, the role of PE's patient capital versus public market's narrative-driven pricing, and how the Workday-Silver Lake deal could reset software valuation logic. The article ultimately argues that while software faces AI disruption, the transition will be gradual, and value will be redefined rather than eliminated.",
+    "summary_zh": "本文探讨了Silver Lake潜在收购Workday的交易，分析了软件行业中市场叙事与运营现实的鲜明对立。揭示了Silver Lake擅长在市场恐慌时收购受困科技资产的策略，提供了挑战主流SaaS末日叙事的反向视角。文章批判性地评估了AI恐惧如何在软件估值中形成量子叠加态，公司同时被写成过时且以溢价收购。关键见解包括情绪化抛售与基本面健康的区别、PE耐心资本与公共市场叙事驱动定价的作用，以及Workday-Silver Lake交易可能如何重设软件估值逻辑。文章最终论证了尽管软件面临AI颠覆，但转型将是渐进的，价值将被重新定义而非消失。",
+    "best_quote_en": "\"AI can write code, but it cannot write trust. Enterprises won't hand over their entire company's payroll records and financial reporting processes to an application that generated last week.\"",
+    "best_quote_zh": "\"无论多少氛围编程，也编不出一套HR或ERP系统。换言之，AI可以写代码，但写不出信任。企业不会把全公司员工的薪酬记录和财报流程，交给一个上周才生成的应用。\""
+  },
+  {
+    "id": 439,
+    "title": "Book of the month: Lana Abdelrahman",
+    "title_zh": "本月之书：拉娜·阿卜杜勒拉赫曼",
+    "model_used": "dots-studio/dots-3-note-preview:free",
+    "source": "A year of reading the world",
+    "link": "https://ayearofreadingtheworld.com/2026/08/31/book-of-the-month-lana-abdelrahman/",
+    "tags": [
+      "solve",
+      "writing-content",
+      "case-study"
+    ],
+    "tags_zh": [
+      "解决",
+      "写作内容",
+      "案例研究"
+    ],
+    "date": "2026-08-31",
+    "summary_en": "This book review offers a deeply personal and intellectually rich engagement with Lana Abdelrahman’s short story collection *A Spell of Longing*, published by Egypt’s Azha Books and translated by a trio of skilled translators. The reviewer, a writer herself, approaches the text not as a distant critic but as a fellow artist who recognizes the deliberate distortions of perspective, the haunting presence of unresolved trauma, and the subtle resistance to Western narrative norms. The stories are steeped in cognitive dissonance and surrealism, often set in mundane environments that feel destabilized by psychological rupture—such as a woman encountering her dead uncle on a city street or a girl’s consciousness trapped in her bedroom, unable to communicate with grieving parents. What makes the collection particularly powerful is how it refracts the lingering devastation of Lebanon’s war not through explicit exposition but through absence and implication, creating a pervasive sense of unease that mirrors the lived reality of those navigating post-conflict societies. The reviewer highlights 'Five Faces of Hayat’s World' as a standout, praising its raw portrayal of creative paralysis and the existential toll of unfinished work. Equally significant is the thread of female agency—women asserting autonomy in the face of male entitlement or betrayal, echoing the legacy of Scheherazade as a storyteller who survives through narrative ingenuity. The review also notes the cultural specificity of the text: its refusal to cater to Western literary expectations, its unconventional pacing, and its typographical choices (indented epigraphs, hyphenated dashes) all serve as deliberate acts of cultural assertion. For the reviewer, reading this book is not merely an act of consumption but an invitation into someone else’s worldview—a humbling, disruptive, and ultimately liberating experience that challenges the reader’s own literary habits and assumptions.",
+    "summary_zh": "这篇书评以极具个人色彩与智性深度的方式，探讨了拉娜·阿卜杜勒拉赫曼的短篇小说集《渴望的咒语》。作为一位同样热爱叙事技巧的作家，评论者将自己置于同行的位置，敏锐捕捉到文本中刻意扭曲的视角、未言明的创伤以及对西方叙事规范的隐性抵抗。小说常以日常场景为舞台，却因心理断裂而充满不安——如女子街头遇见亡叔、少女意识困于卧室无法与悲痛父母沟通。黎巴嫩战争的创伤并非直述，而是通过缺席与暗示渗透文本，营造出“表面安全实则一触即发”的集体焦虑。评论者特别推崇《海亚特世界的五张面孔》，称其对创作困境与未完成之痛的描写堪称典范。书中女性主体性的觉醒亦是一条主线：女仆争取游泳日、 niece 退婚、邻居女性追寻真相，皆呼应着 Scheherazade 以故事求生的古老智慧。文本拒绝迎合西方读者期待，节奏突兀、排版非常规（如首段缩进如题记、破折号代 dashes），实为文化自主的宣言。对评论者而言，阅读此书非消遣，而是进入他者世界的仪式——一种谦卑的侵入，打破惯性，提醒我们：所谓“规范”不过是选择。合卷掩面，她如书中主角般决心：继续走自己的路。",
+    "best_quote_en": "This is not a book aimed at or curated for a reader like me. Indeed, it is a book that I would be unlikely to encounter in the UK at all. As such, when I read it, I am a guest in someone else’s space, given the opportunity to see how things are done elsewhere, without any attempt to mediate or dilute them for my perceived taste.",
+    "best_quote_zh": "这不是一本为像我这样的读者所写或策划的书。事实上，我几乎不可能在英国遇到它。因此，当我阅读它时，我成了他人空间的客人，有机会看到别处是如何行事的——没有任何试图为我的口味进行调和或稀释的举动。"
+  },
+  {
+    "id": 440,
+    "title": "Live from ICM 2026: What Is Math For in the Age of AI?",
+    "title_zh": "在AI时代数学究竟有何用处？",
+    "model_used": "nvidia/nemotron-3.5-lightning:free",
+    "source": "Quanta Magazine",
+    "link": "https://www.quantamagazine.org/live-from-icm-2026-what-is-math-for-in-the-age-of-ai-20260903/",
+    "tags": [
+      "learn",
+      "ai-research",
+      "science",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "学习",
+      "AI研究",
+      "科学研究",
+      "未来预测"
+    ],
+    "date": "2026-09-03",
+    "summary_en": "This live episode from the International Congress of Mathematicians 2026 captures a pivotal moment as AI systems demonstrate remarkable proof capabilities. The discussion reveals that mathematicians value not just problem-solving efficiency, but the deeper human elements of understanding, storytelling, and mathematical journey. While AI can solve Erdős problems and generate proofs, panelists emphasize that the true value lies in what machines cannot replicate: the creative process, conceptual leaps, and narrative structure that gives mathematics meaning. The conversation suggests a future where AI handles routine proof generation, freeing human mathematicians to pursue higher-level conceptual work and novel connections. The panel uniquely agrees that AI's greatest contribution may be expanding the mathematical frontier rather than replacing human mathematicians, creating what Kontorovich calls a 'golden age' of discovery through human-AI collaboration.",
+    "summary_zh": "这次来自2026年国际数学家大会的现场录音，捕捉到了AI系统在数学证明能力上的突破。数学家们重视的不只是解决问题的效率，更是理解、讲故事和数学旅程这更深层的人文要素。虽然AI可以解决 Erdős 问题并生成证明，但与会者强调，真正的价值在于机器无法复制的创造性过程、概念跨越和叙事结构，这些赋予了数学意义。对话表明，未来AI将处理常规证明生成，让人类数学家专注于更高层次的概念工作和新颖联系。与会者独特的一致观见是，AI的最大贡献可能在于扩展数学前沿，而非取代人类数学家，创造出何凯文所说的通过人机协作进入的‘黄金时代’。",
+    "best_quote_en": "\"The first time a model answers a question, it's exciting. A milestone is reached. The seventh time a model answers a question, it's far less interesting, and the seventh time a student answers the same question is far less interesting, for similar reasons.\" - Alex Kontorovich",
+    "best_quote_zh": "\"模型第一次回答问题很令人兴奋，达成了一个里程碑。模型第七次回答同一个问题没什么意思，学生第七次回答同一个问题也同样没什么意思，原因类似。\" - Alex Kontorovich"
+  },
+  {
+    "id": 441,
+    "title": "Upend the trickle-down",
+    "title_zh": "颠覆滴落理论",
+    "model_used": "nvidia/nemotron-3-super-120b-a12b:free",
+    "source": "Aeon",
+    "link": "https://aeon.co/essays/why-western-democracy-is-ailing-and-how-to-fix-it",
+    "tags": [
+      "inspire",
+      "politics",
+      "controversial"
+    ],
+    "tags_zh": [
+      "启发",
+      "政治时事",
+      "争议观点"
+    ],
+    "date": "2026-09-04",
+    "summary_en": "This essay critiques neoliberal policies initiated by Reagan and Thatcher, arguing they weakened democratic institutions, increased debt, slowed growth, and enriched financial elites while eroding public trust. Using the structure-conduct-performance (SCP) model, it traces how market liberalisation and financialisation led to institutional fragility, rising inequality, and recurring crises. The author contends that Western democracies now require structural reform: better-paid officials to attract competent leadership, campaign finance reforms like democracy vouchers, citizens’ assemblies, and renewed civic engagement to break the two-party duopoly and restore democratic vitality.",
+    "summary_zh": "本文批判里根和撒切尔启动的新自由主义政策，认为这些政策削弱了民主制度，增加了债务，放缓了增长，使金融精英受益，同时削弱了公众信任。运用结构-行为-绩效（SCP）模型，文章追溯了市场自由化和金融化如何导致制度脆弱、不平等上升和反复危机。作者认为西方民主国家现在需要结构性改革：通过提高官员薪酬吸引有能力的领导者、实施如民主券的竞选财政改革、公民议会以及重新激发公民参与，以打破两党垄断并恢复民主活力。",
+    "best_quote_en": "Neoliberalism brought only fragility to previously prosperous democracies.",
+    "best_quote_zh": "新自由主义只为曾经繁荣的民主国家带来了脆弱性。"
   }
 ]
