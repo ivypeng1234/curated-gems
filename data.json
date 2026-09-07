@@ -1,124 +1,5 @@
 [
   {
-    "id": 342,
-    "title": "Nothing less than radical whole-system change is required to fix the NHS's maternity services | Julia Sanders",
-    "title_zh": "要想拯救NHS产妇服务，必须进行根本性的整体系统变革 | 朱莉亚·桑德斯",
-    "model_used": "poolside/laguna-xs-2.1:free",
-    "source": "Women | The Guardian",
-    "link": "https://www.theguardian.com/commentisfree/2026/aug/17/nhs-maternity-care-crisis-reports-yvette-cooper-women",
-    "tags": [
-      "solve",
-      "science",
-      "programming",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "解决",
-      "科学研究",
-      "编程开发",
-      "数据驱动"
-    ],
-    "date": "2026-08-17",
-    "summary_en": "This op-ed by Julia Sanders examines the profound systemic failures within NHS maternity services revealed through the Amos and Ockenden reports, arguing that incremental reforms are insufficient to address the crisis. Sanders contends that women and families have endured cumulative failures resulting in preventable deaths, injuries, and profound trauma from both clinical and compassionate care deficiencies. While acknowledging midwives as dedicated professionals under immense pressure, she emphasizes that staffing shortages and resource constraints compromise care quality. The analysis reveals a paradox: despite stable satisfaction rates, adverse outcomes have increased, with rising intervention rates (induction from 20% to 34%, C-sections from 27% to 45%) suggesting over-medicalization. Sanders advocates for radical whole-system change centered on relationship-based midwifery continuity, genuine partnership with women and families, and evidence-based decision-making. The piece frames this as both a moral imperative and public health necessity, requiring unprecedented political will, resource allocation, and accountability across all stakeholders to redefine what safe, equitable maternity care can achieve.",
-    "summary_zh": "这篇观点文章揭示了NHS产妇服务的系统性崩溃，强调表面改革无法解决深层结构性问题。桑德斯指出，女性和家庭在怀孕、分娩及产后期间遭遇的系统性失败导致大量不可避免的产妇死亡、伤残及创伤。文章发现，尽管满意度稳定，但医疗过度干预呈指数增长——人工流产从20%飙升至34%，剖腹产从27%升至45%。作者呼吁建立以女性为中心的产科体系，重建护产士与孕妇之间的信任关系，这需要政治决心和系统性资源投入。这是一场涉及整个社会健康体系的深刻变革，既是道德责任，也是公共卫生紧急任务。",
-    "best_quote_en": "Nothing less than radical whole-system change is required to fix the NHS's maternity services.",
-    "best_quote_zh": "要想拯救NHS产妇服务，必须进行根本性的整体系统变革。"
-  },
-  {
-    "id": 343,
-    "title": "The Airbnbs",
-    "title_zh": "The Airbnbs",
-    "model_used": "nvidia/nemotron-3-nano-omni-30b-a3b-reasoning:free",
-    "source": "Paul Graham",
-    "link": "http://www.paulgraham.com/airbnbs.html",
-    "tags": [
-      "learn",
-      "startup-strategy"
-    ],
-    "tags_zh": [
-      "学习",
-      "创业策略"
-    ],
-    "date": "2026-08-18",
-    "summary_en": "This narrative reveals Airbnb's near-collapse in 2008-2009 during the Great Recession, when founders Brian Chesky, Joe Gebbia, and Nate Blecharczyk nearly abandoned their startup after minimal growth and maxed-out credit cards. Their persistence stemmed from authentic host-guest experiences during their initial airbed experiment, which revealed a genuine need for affordable, personal lodging. The founders' relentless energy—documented through exhaustive note-taking and rapid implementation of ideas—transformed their YC batch into a turning point when they focused intensely on New York City's underserved market. Their breakthrough came not through grand strategy but through hyper-local execution: personally improving listings with professional photography and discovering hosts were fellow struggling individuals. The $4,000/month ramen profitability threshold (achieved by February 2009) became their airborne moment, proving that authentic user-centric values—not just capital—can overcome extreme adversity. This case powerfully illustrates how founder passion and deep user empathy can catalyze resilience in startup inception.",
-    "summary_zh": "2008年经济危机中，Airbnb因无增长、信用卡债务重创几近倒闭，但创始人坚持源于早期入住体验的真实价值——主机与客人因被迫尝试而发现互惠新模式。他们用极致专注（如纽约专程拍摄照片、倾听主机需求）将YC批次转化为转折点，2009年2月实现$4000月利润的「拉面盈利」临界点，证明创始人热情与用户共情能克服生存危机，成为创业者不容忽视的启示。",
-    "best_quote_en": "We are not going to slow down.",
-    "best_quote_zh": "我们不会减速。"
-  },
-  {
-    "id": 344,
-    "title": "The Tim Ferriss Show Transcripts: How to Reinvent Yourself and Make Bold Moves — Decisive Stories from Matthew McConaughey, Steve Young, Samin Nosrat, and More (#879)",
-    "title_zh": "《Tim Ferriss Show》演讲稿：如何重新定义自我并做出大胆决策 —— 来自马修·麦康纳格、斯蒂夫·尼克尔斯、萨米·诺斯拉特等人的决定性故事（#879）",
-    "model_used": "poolside/laguna-xs-2.1:free",
-    "source": "Tim Ferriss",
-    "link": "https://tim.blog/2026/08/14/how-to-reinvent-yourself-transcript/",
-    "tags": [
-      "solve",
-      "writing-content",
-      "case-study"
-    ],
-    "tags_zh": [
-      "解决",
-      "写作内容",
-      "案例研究"
-    ],
-    "date": "2026-08-14",
-    "summary_en": "This transcript compilation from The Tim Ferriss Show explores the profound theme of personal reinvention through compelling narratives from high-profile guests. Matthew McConaughey discusses embracing uncertainty and the power of 'letting go' of outdated identities, while Steve Young provides a masterclass on transition, describing retirement from football as 'a death' requiring proper mourning and burial before moving forward. Suleika Jaouad challenges the hero's journey narrative in cancer survival, revealing that emergence from trauma doesn't automatically confer bravery or strength—instead, healing requires ongoing integration of experience. The content offers practical frameworks for navigating major life transitions, emphasizing vulnerability, authentic grieving processes, and the courage to embrace new chapters. These insights extend beyond celebrity anecdotes to provide actionable wisdom for anyone facing career shifts, personal transformations, or the universal challenge of evolving beyond past identities. The discussion illuminates that reinvention isn't about erasing history but creating space for growth through conscious acknowledgment of what must be released.",
-    "summary_zh": "这段Tim Ferriss Show的演讲稿聚焦于个人重新定义的深层探讨，通过星级嘉宾的真实故事揭示转型的智慧。斯蒂夫·尼克尔斯将退役描述为需要哀悼的'死亡'，强调在告别旧身份后才能迎接新章节；Suleika Jaouad挑战了创伤后的英雄叙事，指出疾病经历不等于获得勇气与力量。内容提供从容应对人生大转型的实践框架，强调正面面对、真实哀悼和拥抱未知的勇气——不过是在告别历史的同时，为成长腾出空间。",
-    "best_quote_en": "The game will never leave you, but you need to leave it. You need to move on.",
-    "best_quote_zh": "比赛永远不会离开你，但你需要离开它。你需要继续前进。"
-  },
-  {
-    "id": 345,
-    "title": "Theory of Fluids Enters the 21st Century",
-    "title_zh": "流体理论进入21世纪",
-    "model_used": "nvidia/nemotron-nano-9b-v2:free",
-    "source": "Quanta Magazine",
-    "link": "https://www.quantamagazine.org/theory-of-fluids-enters-the-21st-century-20260817/",
-    "tags": [
-      "learn",
-      "science",
-      "writing-content",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "学习",
-      "科学研究",
-      "写作内容",
-      "未来预测"
-    ],
-    "date": "2026-08-17",
-    "summary_en": "This article explores the revolutionary shift in fluid dynamics from classical Navier-Stokes equations to a modern framework rooted in symmetries and effective field theories. By redefining fluids as systems governed by microscopic particle interactions rather than continuous approximations, physicists have unlocked new predictive capabilities. The work bridges cosmological insights with material science, revealing how symmetries like particle conservation and swapping dynamics shape fluid behavior. Applications range from climate modeling to understanding exotic states like fracton matter. The core insight lies in recognizing fluids not as idealized substances but as emergent phenomena from underlying symmetries, challenging traditional assumptions and opening pathways for AI-driven simulations and novel material discoveries.",
-    "summary_zh": "文章揭示流体理论从传统纳维-斯托克斯方程向对称性与有效场论框架的革命性转变。通过将流体重新定义为由微观粒子相互作用构成的系统而非连续介质，物理学家实现了新颖的预测能力。研究将宇宙学洞察与材料科学结合，展现对称性（如粒子守恒与交换动力学）如何决定流体行为。应用范围涵盖气候模拟到奇异状态（如分子物质）的研究。核心发现在于流体非为理想化物质，而是由基本对称性演化而来的复杂现象，颠覆传统认知并为AI模拟与新材料开发提供突破性路径。",
-    "best_quote_en": "Navier-Stokes is very much an approximation. It's not an exact equation.",
-    "best_quote_zh": "纳维-斯托克斯方程本质上是近似的，并非精确方程。"
-  },
-  {
-    "id": 346,
-    "title": "Can antihistamines really help with PMDD and menopausal symptoms?",
-    "title_zh": "抗组胺药真的能帮助治疗PMDD和更年期症状吗？",
-    "model_used": "poolside/laguna-xs-2.1:free",
-    "source": "Women | The Guardian",
-    "link": "https://www.theguardian.com/wellness/2026/aug/14/antihistamines-menopause-pmdd",
-    "tags": [
-      "solve",
-      "psychology",
-      "medicine",
-      "case-study"
-    ],
-    "tags_zh": [
-      "解决",
-      "心理学",
-      "医学健康",
-      "案例研究"
-    ],
-    "date": "2026-08-14",
-    "summary_en": "This article critically examines a viral social media trend where women report using over-the-counter antihistamines (Allegra and Pepcid) to manage PMDD and menopausal symptoms. While experts acknowledge the biological plausibility—linking histamine release to hormonal fluctuations during menstrual cycles and perimenopause—they emphasize the lack of robust scientific evidence supporting this approach. The analysis reveals a significant gap between anecdotal experiences and clinical validation, highlighting the urgent need for targeted research on histamine's role in women's hormonal health. Dr. Voedisch notes that symptoms like hot flashes and anxiety can mimic both histamine-related and perimenopausal manifestations, complicating diagnosis. The piece also explores evidence-based alternatives, including SSRIs, hormone therapy, and cognitive behavioral therapy, while acknowledging that non-hormonal options are often cost-prohibitive. Ultimately, the article underscores the importance of personalized treatment approaches in a field historically dominated by gender-blind research paradigms.",
-    "summary_zh": "这篇文章深入剖析了社交媒体上流行的‘抗组胺药疗法’，探讨其在缓解PMDD和更年期症状中的可行性。专家指出，尽管激素波动与组胺释放存在生物学关联，但缺乏坚实证据支持该方法。文章揭示了症状诊断的复杂性，以及个体化治疗在女性健康研究中的重要性。",
-    "best_quote_en": "When people are suffering from bothersome symptoms, and the strategies offered to them don't seem to help, it makes sense for them to look elsewhere.",
-    "best_quote_zh": "当人们因困扰的症状而苦恼时，已有的疗法没有效果，他们寻找其他方案自然合理。"
-  },
-  {
     "id": 347,
     "title": "In praise of zealotry",
     "title_zh": "赞美偏执",
@@ -2336,5 +2217,124 @@
     "summary_zh": "本文批判里根和撒切尔启动的新自由主义政策，认为这些政策削弱了民主制度，增加了债务，放缓了增长，使金融精英受益，同时削弱了公众信任。运用结构-行为-绩效（SCP）模型，文章追溯了市场自由化和金融化如何导致制度脆弱、不平等上升和反复危机。作者认为西方民主国家现在需要结构性改革：通过提高官员薪酬吸引有能力的领导者、实施如民主券的竞选财政改革、公民议会以及重新激发公民参与，以打破两党垄断并恢复民主活力。",
     "best_quote_en": "Neoliberalism brought only fragility to previously prosperous democracies.",
     "best_quote_zh": "新自由主义只为曾经繁荣的民主国家带来了脆弱性。"
+  },
+  {
+    "id": 442,
+    "title": "Where Did the Phrase \"Back to the Grind\" Come From?",
+    "title_zh": "回到日常：短语“Back to the Grind”的起源",
+    "model_used": "nvidia/nemotron-3-super-120b-a12b:free",
+    "source": "Mental Floss",
+    "link": "https://www.mentalfloss.com/language/slang/back-to-the-grind-phrase-origin?utm_source=RSS",
+    "tags": [
+      "learn",
+      "education",
+      "society"
+    ],
+    "tags_zh": [
+      "学习",
+      "教育学习",
+      "社会议题"
+    ],
+    "date": "2026-09-07",
+    "summary_en": "This article traces the etymology of the colloquial phrase 'back to the grind' from its origins in 19th-century American college slang to its widespread use in modern English. Drawing on historical sources like Benjamin Homer Hall’s 1851 glossary and literary references such as Thomas Hughes’ novel, it reveals how 'grind' evolved from a verb meaning to harass or oppress—linked to the physical act of grinding grain—into a noun symbolizing tedious, monotonous labor. The phrase gained traction in both the UK and US by the late Victorian era, only becoming specifically associated with returning to work after a break in the 1980s. Beyond linguistic curiosity, the piece invites reflection on how language encodes cultural attitudes toward work, routine, and the emotional weight of returning to obligation after respite.",
+    "summary_zh": "这篇文章不仅追溯了一个常见短语的词源，更让人反思语言如何承载着我们对工作的集体情感。从1850年哈佛的诗歌到1980年代的职场用语，“回到日常”这一表达背后，是无数人对重复劳动的疲惫与无奈。有趣的是，一个源自研磨谷物的动词，竟然演变成了描述精神压迫的隐喻——这说明语言不仅记录历史，更在无形中塑造我们对日常的体验。当我们说“回到 grind”时，或许真正在说：我又得重新面对那些让人心力交瘁的日子了。",
+    "best_quote_en": "This meaning is derived from the verb to grind, in the sense of to harass, [or] to afflict.",
+    "best_quote_zh": "这个意思来源于动词 grind，即骚扰或使人痛苦的意思。"
+  },
+  {
+    "id": 443,
+    "title": "A Political Operative on the Verge of Self-Deportation",
+    "title_zh": "政治操盘手即将自行送行",
+    "model_used": "nvidia/nemotron-3.5-lightning:free",
+    "source": "The New Yorker",
+    "link": "https://www.newyorker.com/news/the-lede/a-political-operative-on-the-verge-of-self-deportation",
+    "tags": [
+      "solve",
+      "politics",
+      "case-study"
+    ],
+    "tags_zh": [
+      "解决",
+      "政治时事",
+      "案例研究"
+    ],
+    "date": "2026-09-06",
+    "summary_en": "This compelling profile examines Daysi González, a political operative facing self-deportation as her Temporary Protected Status expires. The article masterfully juxtaposes her professional expertise in political mail strategy with her personal immigration limbo, revealing how the very tools she uses to elect Democrats become meaningless against bureaucratic deadlines. González's pragmatic acceptance—\"It'll work out how it needs to\"—contrasts with the systemic failures of both parties on immigration reform. Her pivot toward BTS concerts and digital diaries during her final month suggests finding agency in inevitable loss. The piece ultimately indicts Democratic leadership's complacency while honoring González's resilience in transforming personal crisis into community connection, however temporary.",
+    "summary_zh": "这篇文章深刻探讨了Daysi González这位政治操盘手即将自行送行的处境。文章巧妙地将她精通政治邮件策略的专业技能与她个人的移民困境形成鲜明对比，揭示了她用来选举民主党的工具在 bureaucratic（官僚）截止日期面前变得无足轻重。González那种\"按需如何发展\"的务实接受，与两党在移民改革上的系统性失职形成鲜明对比。她在即将离开的最后一个月转向BTS演唱会和数字日记，似乎是在不可避免的失去中寻找主体性。文章最终指责民主党领导层的麻木，同时赞扬了González在个人危机中转化为社区连接的韧性，尽管这种连接是暂时的。",
+    "best_quote_en": "\"People have to look at it. Even if it's just, you know, their mailbox to the recycling bin—they have to look.\"",
+    "best_quote_zh": "\"人们得去看。即便只是，你知道，从信箱到回收箱——他们得去看。\""
+  },
+  {
+    "id": 444,
+    "title": "What we tell AI / Paint sticks / The perfect catch-up",
+    "title_zh": "我们对AI说什么 / 画棒 / 完美的约会",
+    "model_used": "cohere/north-mini-code:free",
+    "source": "Kevin Kelly",
+    "link": "https://kk.org/cooltools/what-we-tell-ai-paint-sticks-the-perfect-catch-up/",
+    "tags": [
+      "solve",
+      "lifestyle",
+      "design",
+      "beginner-friendly"
+    ],
+    "tags_zh": [
+      "解决",
+      "生活方式",
+      "设计创意",
+      "新手友好"
+    ],
+    "date": "2026-09-06",
+    "summary_en": "This collection of personal reflections, product reviews, lifestyle tips, and curated quotes offers a vivid snapshot of how technology shapes modern life. Olivia Tai’s crowd‑sourced AI confessions reveal a paradoxical reliance on machines for honesty and emotional support, prompting questions about authenticity in human‑AI relationships. The paint‑stick and fountain‑pen pieces illustrate how small tools can democratize creativity, while the 84‑minute catch‑up guideline and magnesium sleep butter ritual highlight a growing desire to quantify well‑being and optimize everyday rituals. The appended wisdom snippets distill timeless lessons into bite‑size insights, encouraging readers to reflect on intention, specificity, and resilience. Together, these fragments paint a picture of a culture that simultaneously embraces novelty and seeks grounding, using both tech and tradition to navigate identity, connection, and health in an increasingly mediated world.",
+    "summary_zh": "这篇文章汇集了AI confession、画棒评测、社交时间建议、健康产品及语录，展现了科技如何渗透日常关系、消费、美学与心灵，反思了新型人机互动、产品发现、量化生活与智慧的获取，同时也揭示了用户对工具的情感依附、产品替代与生活美学的追求。",
+    "best_quote_en": "Life punishes the vague wish and rewards the specific ask. — Tim Ferriss",
+    "best_quote_zh": "生活惩罚模糊的愿望，奖励具体的请求。 — 蒂姆·弗里斯"
+  },
+  {
+    "id": 445,
+    "title": "Quiz: We Bet You Can't Name All the Countries Expected to Have the Largest Populations in 2050",
+    "title_zh": "测验：你能列出2050年人口最大的国家吗？",
+    "model_used": "poolside/laguna-xs-2.1:free",
+    "source": "Mental Floss",
+    "link": "https://www.mentalfloss.com/quizzes/name-countries-projected-largest-populations-2050?utm_source=RSS",
+    "tags": [
+      "inspire",
+      "general",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "启发",
+      "general",
+      "未来预测"
+    ],
+    "date": "2026-09-06",
+    "summary_en": "This engaging quiz explores one of the most pressing demographic shifts of our time: global population dynamics and their future trajectories. The article reveals that while the world's population will continue growing until 2080, reaching approximately 10.3 billion, the distribution is far from uniform. India and China currently hold the top two positions, but their future trajectories diverge dramatically—India gains 220 million people while China loses 150 million. The piece provides critical context through stark comparisons: China's population doubled from 560 million in 1950 to 1.41 billion today, while life expectancy in both the US and China rose from 68 to 79 over the same period. The most compelling insight lies in the demographic transition underway: fertility rates have declined globally, with China's hovering near 1.0 and the US at 1.6, while aging populations will soon outnumber children under 18. African nations like Niger and Angola will double by 2054, highlighting the continent's demographic surge. Beyond pure numbers, the article contextualizes population changes with climate change impacts (250,000 annual deaths by 2050) and immigration's role as a growth driver in 52 countries. This content transforms dry statistics into a compelling narrative about humanity's future, making complex demographic trends accessible through interactive engagement.",
+    "summary_zh": "这篇以测验形式呈现的深度 demographic 分析揭示了人类种群的未来图景：虽然全球人口将在2080年前增长至103亿，但增长分布极不均衡。印度将净增2200万，中国则将减少1.5亿，呈现出人口红利与负增长的鲜明对比。通过将1950年中国人口从5600万增至14亿的惊人数据，以及美中寿命从68岁升至79岁的提升幅度，作者将抽象的数字转化为具体的历史见证。更值得关注的是人口转型的深层逻辑：全球生育率持续下降，中国甚至接近更低点，欧美年轻一代将面临更长的“空老期”。非洲诺干、安哥拉等国将翻倍增长，这场人口浪潮正在重塑全球格局。作者不仅用数据说话，更将气候变化导致的年度死亡数（25万人）和移民潮这一现实因素纳入宏观叙事，使枯燥的统计学成为引人深思的未来预言。",
+    "best_quote_en": "Ultimately, all the above projections about population are just estimates that don't account for the uncertain nature of the future.",
+    "best_quote_zh": " ultimately, all the above projections about population are just estimates that don't account for the uncertain nature of the future."
+  },
+  {
+    "id": 446,
+    "title": "9/11 at Twenty-Five",
+    "title_zh": "九·十一：二十五年",
+    "model_used": "poolside/laguna-xs-2.1:free",
+    "source": "The New Yorker",
+    "link": "https://www.newyorker.com/magazine/2026/09/14/the-america-that-9-11-made",
+    "tags": [
+      "update",
+      "politics",
+      "legal",
+      "deep-dive"
+    ],
+    "tags_zh": [
+      "动态",
+      "政治时事",
+      "法律法规",
+      "深度分析"
+    ],
+    "date": "2026-09-06",
+    "summary_en": "Jill Lepore's reflective essay examines the enduring impact of 9/11 on American society through personal narrative and broader historical lens. The piece opens with a poignant encounter in a Minneapolis elevator where a stranger recognizes the author from her 9/11 lecture class, illustrating how the event remains viscerally present across generations. Lepore weaves together intimate stories—Kristen Breitweiser's decades-long quest for accountability, the psychological toll on survivors, and the systemic consequences including the Patriot Act's surveillance expansion. The essay critically interrogates the 'global war on terror,' citing Brown University's Costs of War project to reveal nearly a million deaths across post-9/11 military operations, including over 28,000 veteran suicides. Through characters like Muslim attorney Marlo Cadeddu defending targeted communities and FBI whistleblower Terry Albury, Lepore exposes how terrorism's aftermath reshaped domestic discourse, immigration policies, and spawned extremist movements. The piece challenges sanitized memorial narratives, arguing that America's 'different, and even angrier' evolution reflects unresolved trauma and systemic failures in justice, accountability, and collective healing that persist twenty-five years later.",
+    "summary_zh": "通过电梯中陌生人的相遇，Lepore以个人化叙事展望9/11二十五年来对美国的深远影响。她织就受难者家属求索正义、存续者心理创伤、以及大军事战争导致的近百万死亡等多维故事。追踪穆加拉南亚裔律师卡德杜 defending受迫害的美国穆斯林社区、FBI泄密者阿尔比尔的抗争，揭露恐怖主义后续改造了美国本土话语、移民政策甚至催生极端主义。作者批判性地质疑官方构建的纪念叙事，指出持续二十五年未解的创伤、对正义的系统性缺失，让美国变得'不同且更愤怒'——这不仅是历史事件，更是未被治愈的创伤史。",
+    "best_quote_en": "The rubble had been cleared, a report written, a museum built... The day's events are measured in minutes, a ticking clock; the grief in years, a beating heart.",
+    "best_quote_zh": "碎石被清除，一份报告写就，一座博物馆建成……事件以分钟计时，悲痛却以年岁流传。"
   }
 ]
