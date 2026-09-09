@@ -1,120 +1,5 @@
 [
   {
-    "id": 352,
-    "title": "What’s in my NOW? — Keith Kahn-Harris",
-    "title_zh": "我的 NOW 里有什么？—— Keith Kahn-Harris",
-    "model_used": "poolside/laguna-xs-2.1:free",
-    "source": "Kevin Kelly",
-    "link": "https://kk.org/cooltools/whats-in-my-now-keith-kahn-harris/",
-    "tags": [
-      "analyze",
-      "science",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "分析",
-      "科学研究",
-      "未来预测"
-    ],
-    "date": "2026-08-19",
-    "summary_en": "This personal essay by sociologist Keith Kahn-Harris reveals how fundamental lifestyle shifts—weight loss medication, new productivity tools, and environmental changes—can catalyze profound transformation in daily life and creative output. The author dissects his 'NOW' across three categories: physical tools (mechanical keyboard, fountain pen, yogurt), digital systems (Fedora Linux, Obsidian), and invisible changes (early morning awakening). What makes this compelling is how he connects material culture to consciousness—the mechanical keyboard isn't just hardware, it's described as a 'gorgeous, synaesthetic experience' that enhances his writing. The piece demonstrates how external tools can reshape internal rhythms, challenging the assumption that technology merely mediates human activity rather than fundamentally transforming it. Kahn-Harris's background in heavy metal culture and Jewish communities informs his unique perspective on how seemingly mundane objects become sites of meaning-making and identity formation.",
-    "summary_zh": " sociologist Keith Kahn-Harris在《我的 NOW 里有什么？》中展现了体重药物、生产力工具和环境变革如何深刻改变日常生活与创造力。他将NOW划分为物理工具、数字系统与隐性变化三类。值得探讨的是，机械键盘不仅是硬件，更是被描述为'听觉与触觉的奇妙体验'，正是这种物质文化如何从物质层面重塑意识节奏，让日常工具成为意义建构的场域。",
-    "best_quote_en": "It's no exaggeration to say that my discovery of mechanical keyboard culture over the last year has made my life much sweeter. It has also helped me as a writer. I never knew that typing could be a gorgeous, synaesthetic experience; a feat for the ears and the hands.",
-    "best_quote_zh": "不夸张地说，过去一年我发现机械键盘文化让我的生活变得更甜美了。它也帮助了我作为作家。我从未想过打字会成为一种美丽的感官体验；一种来自耳朵和手部的奇迹。"
-  },
-  {
-    "id": 353,
-    "title": "Please Fund More Science",
-    "title_zh": "请资助更多科学",
-    "model_used": "poolside/laguna-xs-2.1:free",
-    "source": "Sam Altman",
-    "link": "https://blog.samaltman.com/please-fund-more-science",
-    "tags": [
-      "solve",
-      "science",
-      "controversial"
-    ],
-    "tags_zh": [
-      "解决",
-      "科学研究",
-      "争议观点"
-    ],
-    "date": "2020-03-30",
-    "summary_en": "This compelling piece argues for increased scientific investment during the COVID-19 pandemic, identifying three potential exit strategies: vaccination, treatment, or widespread testing and mitigation. The author critiques insufficient government funding despite remarkable private sector innovation acceleration—biotech companies and research labs operating at over 10x normal speed. The core thesis is that scientists possess the solutions but require financial resources and strategic connections. The piece functions as both urgent appeal and practical guide for investors and philanthropists, highlighting unprecedented collaborative ferocity in scientific problem-solving. It emphasizes that this represents a watershed moment for global pandemic preparedness, suggesting that funding scientific efforts now will yield long-term security benefits. The author finds personal resonance in the rapid learning curve and the meaningful impact of direct scientific investment, positioning it as both practically valuable and emotionally satisfying for capital allocators.",
-    "summary_zh": "这篇文章呼吁在疫情期间增加科学投资，指出疫情三条出路：疫苗、治疗或大规模检测。作者称赞私营部门科学创新加速超过十倍，但批评政府资金不足。核心论点是科学家需要资金和资源才能解决问题。这不仅是紧急呼吁，更是为投资者提供的实用指南，强调当前科学界前所未有的协作精神。这可能是改变全球防控新病毒的历史节点，值得投身科学事业。",
-    "best_quote_en": "Scientists can get us out of this. What they need are money and connections.",
-    "best_quote_zh": "科学家能让局面改变。他们需要的是资金和资源。"
-  },
-  {
-    "id": 354,
-    "title": "Using AI to Increase Your Intelligence & Enrich Humanity | Dr. Fei-Fei Li",
-    "title_zh": "利用 AI 提升人类智力与丰富人性 | 李飞飞博士访谈",
-    "model_used": "nvidia/nemotron-3-ultra-550b-a55b:free",
-    "source": "Huberman Lab",
-    "link": "https://www.hubermanlab.com/episode/using-ai-to-increase-your-intelligence-and-enrich-humanity-fei-fei-li",
-    "tags": [
-      "analyze",
-      "ai-research",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "分析",
-      "AI研究",
-      "未来预测"
-    ],
-    "date": "2026-08-10",
-    "summary_en": "This conversation with Dr. Fei-Fei Li transcends typical AI discourse by framing technology not as a replacement for human cognition but as a catalyst for expanding it. Li draws a crucial distinction: AI excels at pattern recognition and prediction, yet lacks the embodied intuition, motivational drives, and contextual wisdom that define human intelligence. Her concept of 'spatial intelligence' — the next frontier for robotics — reveals how AI can learn to navigate and manipulate the physical world, but she insists this must remain in service of human agency. The most provocative insight? That our creativity stems from vulnerability, mortality, and lived experience — qualities no model can simulate. Li's human-centered AI framework demands we design systems that amplify our uniquely human traits: curiosity, ethical judgment, and the capacity for meaning-making. For anyone building, regulating, or simply living with AI, this reframes the central question from 'what can AI do?' to 'what should remain irreducibly human?'",
-    "summary_zh": "李飞飞将 AI 重新定位为人类智力的延伸而非替代，这比单纯讨论技术能力更具深度。她敏锐地指出：AI 擅长模式识别，却缺乏具身直觉、动机驱动与情境智慧——这些正是人类智能的核心。\"空间智能\"让机器理解物理世界，但必须服务于人的能动性。最震撼的洞见在于：创造力源于脆弱性、有限性与亲历体验，这是算法永远无法模拟的。以人为本的 AI 框架要求我们守护好奇心、伦理判断与赋予意义的能力。这场对话将核心命题从\"AI 能做什么\"转向\"什么应当永远保留为人类专属\"，值得每个建设者、监管者与使用者深思。",
-    "best_quote_en": "Your intuition and unique experiences are not replicable by AI or machines. Creativity comes from our vulnerability, our mortality, our lived experience — these are the things that make us human and that AI cannot simulate.",
-    "best_quote_zh": "你的直觉和独特经历无法被 AI 或机器复制。创造力源于我们的脆弱性、有限性与亲身经历——这些让我们成为人，也是 AI 永远无法模拟的。"
-  },
-  {
-    "id": 355,
-    "title": "Weekly Review",
-    "title_zh": "每周回顾",
-    "model_used": "google/gemma-4-26b-a4b-it:free",
-    "source": "Harper’s Magazine",
-    "link": "https://harpers.org/2026/08/weekly-review-houthi-strike-uss-abraham-lincoln-overboard-circumnavigate-arctic-ocean-archaeological-pool-palestinian-spring-ice-shock-gloves-shake-shack-robbery-paintings-recovered/",
-    "tags": [
-      "analyze",
-      "politics",
-      "education",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "分析",
-      "政治时事",
-      "教育学习",
-      "未来预测"
-    ],
-    "date": "2026-08-18",
-    "summary_en": "This weekly digest presents a fragmented yet profound tapestry of global volatility, spanning geopolitical conflicts, environmental shifts, and societal tensions. From the escalating maritime tensions in the Red Sea and the political friction within the US military to the profound implications of melting Arctic ice opening new trade routes, the content highlights a world in rapid transition. The report underscores a recurring theme of institutional tension: the clash between religious freedom and state secularism in Iowa, the ethical dilemmas of AI-related activism and surveillance via smart glasses, and the escalating humanitarian crises in Gaza and Ceuta. Notably, the intersection of climate change and geopolitics—such as China's Arctic ambitions amidst reduced US environmental funding—suggests a shifting global order where ecological shifts dictate strategic advantages. Ultimately, the collection serves as a critical lens through which to view the chaotic convergence of technological advancement, environmental instability, and the persistent friction of human rights and governance.",
-    "summary_zh": "这份周报呈现了一个充满动荡与剧变的全球图景。从红海地区的军事冲突到北极冰川融化引发的航运格局重塑，内容揭示了地缘政治与气候变化如何交织并驱动全球战略转向。文中不仅触及了美军内部的士气危机与移民问题，还深入探讨了技术伦理的灰色地带——如智能眼镜引发的隐私侵犯以及AI风险抗议者的法律困境。这种碎片化的信息组合在一起，勾勒出一个在技术进步、资源争夺与社会价值观冲突中不断震荡的复杂世界，提醒我们关注制度在极端环境与技术冲击下的脆弱性。",
-    "best_quote_en": "China established the first regularly scheduled transits through a shipping route in the Arctic Ocean, made possible by melting ice, which bypasses the blocked Strait of Hormuz.",
-    "best_quote_zh": "随着冰川融化，中国开通了首条穿越北冰洋的定期航线，从而避开了被封锁的霍尔木兹海峡。"
-  },
-  {
-    "id": 356,
-    "title": "Globle answer today – here’s the answer and hints for August 20",
-    "title_zh": "Globle答案今天 – 这里是8月20日的答案和提示",
-    "model_used": "poolside/laguna-xs-2.1:free",
-    "source": "NME",
-    "link": "https://www.nme.com/guides/gaming-guides/globle-hint-answer-today-3213991?utm_source=rss&utm_medium=rss&utm_campaign=globle-hint-answer-today",
-    "tags": [
-      "solve",
-      "gaming"
-    ],
-    "tags_zh": [
-      "解决",
-      "游戏开发"
-    ],
-    "date": "2026-08-19",
-    "summary_en": "This article provides the solution and strategic hints for today's Globle geography puzzle, a challenging variant of Wordle that tests geographical knowledge. Unlike Wordle's six-guess limit, Globle offers unlimited attempts, making it accessible yet intellectually demanding even for geography experts. The piece outlines gameplay mechanics: players guess countries and receive distance-based color feedback, with deeper colors indicating proximity to the correct answer. Strategic advice includes starting with large, border-sharing nations and experimenting across continents. Today's hints progressively narrow the field from East Asia to countries beginning with 'C' to the definitive clue of Beijing as capital, revealing China as the answer. The article also maintains an archive of previous solutions, creating a valuable resource for pattern recognition and strategic development. This content serves casual puzzle enthusiasts, geography learners, and competitive streak maintainers seeking both immediate solutions and broader gameplay intelligence.",
-    "summary_zh": "这篇文章为Globle地理拼图提供了当天的解决方案和策略提示，这款类似Wordle但更具挑战性的游戏考验地理知识。与Wordle不同，Globle允许无限次尝试，虽然开放但对地理专家同样考验。文章解释了游戏机制：玩家猜测国家获取距离反馈，颜色深浅表示靠近程度。建议从大国开始，跨洲尝试以快速缩小范围。今日提示从东亚、以'C'开头到首都北京，最终答案是中国。文章还保留了历史解答档案，帮助用户识别规律、优化策略。这为拼图爱好者和地理学习者提供了即时解答与深度策略指导。",
-    "best_quote_en": "The deeper the colour, the closer you are. After a couple of guesses you will slowly be able to narrow down the answer.",
-    "best_quote_zh": "颜色越深，你越接近答案。经过几次猜测后，你会慢慢缩小答案范围。"
-  },
-  {
     "id": 357,
     "title": "Wilderness, Solitude, and Creativity: Artist and Philosopher Rockwell Kent’s Century-Old Meditations on Art and Life During Seven Months on a Small Alaskan Island",
     "title_zh": "Wilderness, Solitude, and Creativity: Artist and Philosopher Rockwell Kent’s Century-Old Meditations on Art and Life During Seven Months on a Small Alaskan Island",
@@ -2342,5 +2227,124 @@
     "summary_zh": "OpenAI凭借自我对抗训练的强化学习技术，让五个AI代理击败半职业Dota选手，标志着深度强化学习在复杂决策问题上的重大突破。这不仅验证了算法能在计算资源充足的模拟环境中解决复杂问题，更意味着通用人工智能的重要一步。从策略到实时行动，从协调到反应，这种前所未有的学习能力正朝着更贴近现实的应用场景迈进。",
     "best_quote_en": "This is a big deal because it shows that deep reinforcement learning can solve extremely hard problems whenever you can throw enough computing scale and a really good simulated environment that captures the problem you're solving.",
     "best_quote_zh": "这是一个重大意义，因为它表明深度强化学习可以在投入足够的计算资源并构建能准确模拟目标问题的环境时，解决极其困难的问题。"
+  },
+  {
+    "id": 452,
+    "title": "Telluride 2026: Alpha Gang, The Liberation, The Idiots",
+    "title_zh": "特柳赖德电影节2026：Alpha Gang、The Liberation 与 The Idiots",
+    "model_used": "nex-agi/nex-n2.5-mini:free",
+    "source": "RogerEbert.com",
+    "link": "https://www.rogerebert.com/festivals/telluride-2026-alpha-gang-the-liberation-the-idiots",
+    "tags": [
+      "learn",
+      "music-arts",
+      "case-study"
+    ],
+    "tags_zh": [
+      "学习",
+      "音乐艺术",
+      "案例研究"
+    ],
+    "date": "2026-09-08",
+    "summary_en": "This dispatch is a critic’s field report rather than a conventional film review, and its real value lies in the contrast it draws across three festival films. Alpha Gang is read as intentionally excessive: alien invaders, Elvis imagery, deadpan comedy, and grotesque violence are not merely noise but a distorted mirror for dehumanization and the collapse of empathy. The Liberation receives a more conflicted response. Its subject—grooming, trauma, family fracture, and the search for meaning—has genuine psychological force, especially through Carrie Coon’s performance, yet the article argues that the film’s fractured chronology and borrowed autobiographical distance weaken its emotional claim. The Idiot(s) is treated as a promising premise that exhausts itself through repetition, crude humor, and an underdeveloped portrait of Anna Dostoyevsky. Across all three, the critic’s central concern is not spectacle or controversy but whether a film’s formal choices make its human insight visible. The piece is most compelling when it asks how style, structure, and performance either reveal or obscure moral complexity.",
+    "summary_zh": "这不是普通的影评，而是一篇带着现场温度的电影节观察。Alpha Gang用夸张暴力映照人的他者化；The Liberation有创伤与操控的心理重量，却败在叙事碎片化和情感距离；The Idiots premise锋利，却因重复和人物单薄耗尽力量。真正打动人的，是评论者不断追问：形式究竟是在揭示人性，还是在遮蔽它？",
+    "best_quote_en": "“Alpha Gang is a trippy, hyperviolent explosion of cool style and cooky jokes. It’s also a reminder that Bautista is one of our great deadpan comedians and Harrison Jr. can do just about anything, even seemingly falling in love with a hawk named Periwinkle as he does here.”",
+    "best_quote_zh": "“Alpha Gang是一场迷幻、血腥、充满酷感和古怪笑点的视觉爆发。它同时提醒我们：Bautista是我们最优秀的冷面喜剧演员之一，Harrison Jr.几乎什么都能做到，甚至能真心爱上名叫Periwinkle的鹰。”"
+  },
+  {
+    "id": 453,
+    "title": "Kahlil Gibran on the Courage to Weather the Uncertainties of Love",
+    "title_zh": "纪伯伦关于爱情不确定性的勇气",
+    "model_used": "nvidia/nemotron-3-super-120b-a12b:free",
+    "source": "The Marginalian",
+    "link": "https://www.themarginalian.org/2026/09/08/kahlil-gibran-prophet-love/",
+    "tags": [
+      "learn",
+      "health-wellness",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "学习",
+      "健康养生",
+      "未来预测"
+    ],
+    "date": "2026-09-08",
+    "summary_en": "This profound meditation on love draws from Kahlil Gibran's 'The Prophet' to explore love not as a passive emotion but as an active, transformative force that demands courage, vulnerability, and surrender. The analysis reveals love's dual nature: it both elevates and humbles, nurtures and challenges, ultimately serving as a path to self-discovery and connection with life's deeper essence. Gibran's poetic imagery portrays love as a divine alchemist that strips away ego illusions through processes of threshing, sifting, and kneading, transforming us into 'sacred bread' worthy of spiritual nourishment. The piece insightfully contrasts those who seek love's comforts while avoiding its trials with those who embrace love's full spectrum—including its wounds and joys—as essential to authentic connection. What emerges is not merely relationship advice but a spiritual philosophy positioning love as the ultimate teacher of the heart's secrets and a pathway to becoming 'a fragment of Life’s heart.'",
+    "summary_zh": "这篇对爱情的深刻沉思源自纪伯伦《先知》，将爱描绘为需要勇气和脆弱性的主动转化力量。爱既提升又谦卑我们，既滋养又挑战我们，最终成为自我发现和连接生命深层本质的道路。纪伯伦用诗意的意象将爱比作神圣的炼金术士，通过脱粒、筛选和揉捏的过程剥离自我幻象，将我们转化为值得精神滋养的“神圣面包”。文章深刻对比了那些只寻求爱情安慰而回避其考验的人，与那些全心拥抱爱情完整谱系——包括其创伤与喜悦——作为真实连接必要条件的人。这不仅是恋爱建议，更是一种精神哲学，将爱定位为揭示心灵奥秘的终极导师，以及成为“生命之心一片”的途径。",
+    "best_quote_en": "Think not you can direct the course of love, for love, if it finds you worthy, directs your course.",
+    "best_quote_zh": "不要以为你可以指引爱情的方向，如果爱情觉得你值得，它就会指引你的方向。"
+  },
+  {
+    "id": 454,
+    "title": "Kobuk the Destroyer",
+    "title_zh": "Kobuk the Destroyer",
+    "model_used": "inclusionai/ling-3.0-flash-fin:free",
+    "source": "99% Invisible",
+    "link": "https://99percentinvisible.org/episode/682-kobuk-the-destroyer/",
+    "tags": [
+      "learn",
+      "general",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "学习",
+      "general",
+      "未来预测"
+    ],
+    "date": "2026-09-08",
+    "summary_en": "This episode highlights the invisible yet critical world of product testing through Alex Davies' book, revealing how test engineers quietly shape the safety and reliability of everyday objects—from vehicles to camping gear. What makes this content compelling is its ability to transform a niche, overlooked profession into a narrative of genuine consequence and curiosity. The real insight lies not just in the mechanics of testing, but in the philosophical question of who bears the responsibility when products fail. This piece serves as a reminder that behind every seamless consumer experience is a hidden architecture of rigorous, often destructive, evaluation. It challenges us to reconsider the value of 'unseen' labor and the intellectual rigor required to anticipate failure before it reaches the public.",
+    "summary_zh": "这期节目通过Alex Davies的著作，揭示了一个隐形却至关重要的领域——产品测试工程。它不仅展示了测试工程师如何默默塑造日常用品的安全与可靠性，更深层地触及了一个哲学命题：当产品失效时，责任归属何在。其核心价值在于将一个被忽视的职业转化为充满张力的叙事，促使我们重新审视那些“不可见”的劳动及其背后的智识严谨性。",
+    "best_quote_en": "In your day to day life you are constantly interacting with items that have undergone all sorts of product testing. From the cars we drive, to the keyboards we type on, and the bear canisters that keep us safe while we camp, product testing touches all aspects of life.",
+    "best_quote_zh": "在你的日常生活中，你无时无刻不在与那些经历过各种产品测试的物品互动。从我们驾驶的汽车，到我们敲击的键盘，再到我们在露营时保命的熊罐，产品测试触及生活的方方面面。"
+  },
+  {
+    "id": 455,
+    "title": "Irony, Contradiction, and Perspective: Na Hong-jin and Hoyeon on “Hope”",
+    "title_zh": "讽刺、矛盾与视角：那洪진与赵惠连论“希望”",
+    "model_used": "poolside/laguna-s-2.1:free",
+    "source": "RogerEbert.com",
+    "link": "https://www.rogerebert.com/interviews/hope-na-hong-jin-hoyeon-interview",
+    "tags": [
+      "inspire",
+      "writing-content",
+      "music-arts",
+      "case-study"
+    ],
+    "tags_zh": [
+      "启发",
+      "写作内容",
+      "音乐艺术",
+      "案例研究"
+    ],
+    "date": "2026-09-08",
+    "summary_en": "This conversation with director Na Hong-jin and actor Hoyeon reveals 'Hope' as a genre-bending meditation on perspective and belief. Far from a conventional monster film, Na frames the alien encounter as a mirror reflecting human hypocrisy—where victims and perpetrators shift depending on viewpoint. His use of Biblical bookends (Luke to Hebrews) underscores his ongoing exploration of faith in an absurd universe. Hoyeon's character Sung-ae embodies the rural Korean crisis of youth abandonment, her simplicity serving as a vessel for collective human emotion. The film's excessive expletives ('shibal') and chaotic action sequences are not mere spectacle but deliberate choices to ground cosmic absurdity in raw, unfiltered humanity. What emerges is a film that weaponizes genre conventions to ask uncomfortable questions about morality, community, and the stories we tell ourselves to maintain hope.",
+    "summary_zh": "纪录片般的访谈展现了那洪진如何用怪诞的科幻题材反思人性的矛盾——在‘希望’中，外星人不是简单的威胁，而是人类虚伪的投影。赵惠连饰演的年轻女警不仅是个体，更代表着衰退乡村对年轻人的召唤。电影通过暴力与信仰、讽刺与纯真的对立，问我们：希望究竟是什么？",
+    "best_quote_en": "I see the use of the word as an expression of exclamation and surprise by characters who have to deal with a cosmically absurd situation.",
+    "best_quote_zh": "电影的结局让我们看到，面对外星人的降临，人类在反思自身过去的行为时显得渺小而惊恐——而外星人却反而成为了寄托希望的那一方。"
+  },
+  {
+    "id": 456,
+    "title": "How to Break Free from the Tyranny of Certainty: The Japanese Concept of “Ma”",
+    "title_zh": "如何从确定性的奴役中解脱：日本概念“间（Ma）”",
+    "model_used": "liquid/lfm-2.5-2.6b:free",
+    "source": "The Marginalian",
+    "link": "https://www.themarginalian.org/2026/09/07/ma/",
+    "tags": [
+      "learn",
+      "science",
+      "design",
+      "controversial"
+    ],
+    "tags_zh": [
+      "学习",
+      "科学研究",
+      "设计创意",
+      "争议观点"
+    ],
+    "date": "2026-09-08",
+    "summary_en": "The article examines \"ma\"—the Japanese concept of interval or opening—as a profound antidote to modern certainty. Through the lens of Kengo Kuma and Hasui Kawase's work, it illustrates how intentional emptiness generates creativity, contemplation, and embodied cognition. The core insight is that true understanding emerges not from complete knowledge but from embracing productive uncertainty—the \"not-know.\" This directly challenges the \"dominant addiction of the modern mind\" that mistakes surety for truth. By bridging Japanese aesthetics with Western cognitive science, the piece reveals how architectural voids and momentary pauses enable fresh perspectives and heightened awareness. Practically, the article suggests cultivating \"ma\" as a mental discipline that transforms how we engage with reality. Rather than seeking absolute answers, it encourages openness to the fertile in-betweenness where meaning emerges organically.",
+    "summary_zh": "本文探讨了日本美学核心概念“间（Ma）”，作为对现代确定性迷思的深刻反思。通过建筑师Kengo Kuma和画家Hasui Kawase的案例，文章阐释了如何通过有意识的空灵空间激发创造力与观察力。本文的关键洞见在于：真正的理解并非源于绝对知识，而是来自拥抱建设性的不知——即“不知”。这种态度挑战了当代人将“确定性”误认为真理的倾向，将传统日本美学与西方认知科学相结合，揭示了空虚与时间流动如何孕育新生。实用价值在于鼓励读者转向开放的心态，以“间”的智慧重塑感知方式，在生活与设计实践中获得更深层次的清醒与自由。",
+    "best_quote_en": "Certainty is the dominant addiction of the modern mind.",
+    "best_quote_zh": "确定性是现代人的主导成瘾。"
   }
 ]
