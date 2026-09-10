@@ -1,124 +1,5 @@
 [
   {
-    "id": 357,
-    "title": "Wilderness, Solitude, and Creativity: Artist and Philosopher Rockwell Kent’s Century-Old Meditations on Art and Life During Seven Months on a Small Alaskan Island",
-    "title_zh": "Wilderness, Solitude, and Creativity: Artist and Philosopher Rockwell Kent’s Century-Old Meditations on Art and Life During Seven Months on a Small Alaskan Island",
-    "model_used": "nvidia/nemotron-3-nano-omni-30b-a3b-reasoning:free",
-    "source": "RogerEbert.com",
-    "link": "https://www.themarginalian.org/2026/08/19/rockwell-kent-wilderness/",
-    "tags": [
-      "inspire",
-      "education",
-      "programming",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "启发",
-      "教育学习",
-      "编程开发",
-      "未来预测"
-    ],
-    "date": "2026-08-19",
-    "summary_en": "This essay presents Rockwell Kent's profound meditations on art, life, and human essence during his seven-month solitude on a remote Alaskan island during World War I and the Spanish Flu pandemic. It reveals how Kent, a painter and philosopher disillusioned with materialism, sought existential renewal through immersion in nature's 'big plan'—finding that wilderness strips away cultural noise to reveal our essential, ancient humanity. His journal entries and artworks from this period crystallize a personal credo: that physical creation (drawing, painting) is merely a fragment of life itself, with the 'ultimate'—our spiritual essence—being the true subject. The narrative shows Kent's journey from professional frustration and societal alienation (being labeled a German spy) to finding purpose through simple living with local guide Olson, where basic needs became sacred rituals. The piece argues that true artistic and personal growth emerges not from activity but from 'quietness' where the soul expands, offering timeless wisdom about maintaining essential humanity against modern alienation—a message as vital today as in Kent's era.",
-    "summary_zh": "这篇文章深刻剖析了画家哲学家罗克威尔·肯特在第一次世界大战期间，于阿拉斯加小岛七个月孤独生活中领悟到的永恒真理：在荒原般的寂静中，灵魂得以扩展，人必须超越文化束缚回归本质的人性。肯特将物质创作视为生命无限的一部分，真正的艺术源于对「至理」的追求——即我们作为自然有机一部分的神性本质。他从职业倦怠、社会排斥（被质疑为间谍）到与当地 Olson 老人共度简朴生活，证明真正的艺术生命力源于与自然的深度连接而非物质积累。这段历史回响当代——在信息过载时代，我们亟需通过「静默的孤独」重获本真自我，这份关于保持精神纯粹性的呼告比百年前更具启示意义。",
-    "best_quote_en": "In the wilderness, in uneventful solitude, men for companionship must find themselves — has come to be for me the truth. Maybe the only truth I know.",
-    "best_quote_zh": "在荒原的寂静孤独中，人们唯有通过自身的陪伴才能发现自己——这对我而言已成真理，或許是唯一的真理。"
-  },
-  {
-    "id": 358,
-    "title": "牛娃们都是怎么过暑假的？",
-    "title_zh": "牛娃们都是怎么过暑假的？",
-    "model_used": "poolside/laguna-xs-2.1:free",
-    "source": "The Marginalian",
-    "link": "http://weixin.sogou.com/weixin?type=2&query=%E4%B8%89%E8%81%94%E7%94%9F%E6%B4%BB%E5%91%A8%E5%88%8A+%E7%89%9B%E5%A8%83%E4%BB%AC%E9%83%BD%E6%98%AF%E6%80%8E%E4%B9%88%E8%BF%87%E6%9A%91%E5%81%87%E7%9A%84%EF%BC%9F",
-    "tags": [
-      "inspire",
-      "writing-content",
-      "deep-dive"
-    ],
-    "tags_zh": [
-      "启发",
-      "写作内容",
-      "深度分析"
-    ],
-    "date": "2026-08-20",
-    "summary_en": "This article challenges the conventional wisdom that academic success requires constant academic pressure during summer breaks. It reveals that top-performing students, often called 'niu va' (牛娃), actually practice strategic restraint rather than intensive cramming. The piece argues that true academic excellence stems from developing fundamental capabilities like focus and critical thinking rather than accumulating superficial knowledge. Through concrete examples, it demonstrates that children need less structured activity and more space for deep learning. The author emphasizes that effective summer planning involves 'doing less' but investing limited energy in activities that create long-term advantages. This perspective offers valuable insights for parents seeking sustainable educational strategies that prioritize cognitive development over surface-level academic achievement.",
-    "summary_zh": "文章颠覆了暑假必须「刷题」的常规认知，揭示真正的优胜者靠的是「少动作，却动得更对」。它指出，孩子需要的不是知识的碎片化积累，而是专注力和思辨能力这类能在长期内拉开差距的「软实力」。作者用案例说明，有效的假期安排恰恰相反——不是塞满时间，而是把有限精力精准投入到真正能培养深度学习能力的事情上。这对追求可持续教育方式的家长具有启发意义。",
-    "best_quote_en": "Children need to develop capabilities that aren't directly correlated with grades but determine whether they can sit still, learn progressively, and think deeply. Real 'niu va' students appear to do less over summer, but are quietly accumulating the truly differentiating abilities.",
-    "best_quote_zh": "孩子真正需要补的，不一定是知识，而是能力。比如专注力、思考力——这些看似和成绩没有直接关系的能力，却决定了孩子未来能不能坐得住、学得进、想得深。"
-  },
-  {
-    "id": 359,
-    "title": "How to Hold Death and Carry Life: A Zen Master Explains Existence to a Child and Outlines the Three Essential Principles of Zen Mind",
-    "title_zh": "如何面对死亡并承载生命：禅宗大师向孩子解释存在并阐述禅心的三个基本原则",
-    "model_used": "nvidia/nemotron-3-super-120b-a12b:free",
-    "source": "RogerEbert.com",
-    "link": "https://www.themarginalian.org/2026/08/19/dropping-ashes-on-the-buddha-death/",
-    "tags": [
-      "learn",
-      "education",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "学习",
-      "教育学习",
-      "未来预测"
-    ],
-    "date": "2026-08-19",
-    "summary_en": "This profound piece explores how Zen Master Seung Sahn uses simple, experiential dialogue to explain the nature of existence, death, and interconnectedness to a child. Through the metaphor of a cookie factory — where all forms arise from the same dough — he illustrates non-duality: that beneath names and forms lies a single, nameless reality. The exchange with seven-year-old Gita reveals Zen’s core practice: not conceptual understanding, but direct realization through 'don’t-know mind.' The article distills Zen into three pillars — great faith (steadfast commitment), great courage (single-pointed concentration), and great questioning (sincere doubt leading to openness) — showing how these cultivate a mind unified with the universe. It critiques modern education for fragmenting this innate wholeness, contrasting the child’s spontaneous enlightenment (hitting the floor as answer) with her conditioned fear of giving 'wrong' answers in school. Ultimately, it presents Zen not as philosophy, but as an embodied return to pre-thinking awareness, where subject and object dissolve.",
-    "summary_zh": "通过禅宗大师与七岁女孩的对话，本文揭示了一个深刻 verità：所有事物本质同源，如同饼干厂中的各种形状皆来自同一面团。孩子用击地而非言语回答‘什么是佛？’的瞬间悟道，展现了禅宗‘不思议心’的力量 —  — 直觉胜于概念。文中提炼出禅修的三大支柱：坚定不移的信心、如猫捕鼠般专注的勇气，以及真诚的质疑。这不仅是宗教教导，更是对现代教育碎片化思维的有力批判。作者以个人化的笔触，让古老禅意在当代语境中重新鲜活：我们不是要学习答案，而是要找回思考之前的完整心。击地笑声中的顿悟，才是面对生死最真诚的回应。",
-    "best_quote_en": "You and Buddha and God and your mother and the whole world are the same.",
-    "best_quote_zh": "你和佛陀、上帝、你的母亲以及整个世界，本质上是同一。"
-  },
-  {
-    "id": 360,
-    "title": "被年轻人狂热追捧的她，说破了当代亲密关系最深的真相？",
-    "title_zh": "被年轻人狂热追捧的她，说破了当代亲密关系最深的真相？",
-    "model_used": "nvidia/nemotron-3-nano-30b-a3b:free",
-    "source": "The Marginalian",
-    "link": "http://weixin.sogou.com/weixin?type=2&query=%E4%B8%89%E8%81%94%E7%94%9F%E6%B4%BB%E5%91%A8%E5%88%8A+%E8%A2%AB%E5%B9%B4%E8%BD%BB%E4%BA%BA%E7%8B%82%E7%83%AD%E8%BF%BD%E6%8D%A7%E7%9A%84%E5%A5%B9%EF%BC%8C%E8%AF%B4%E7%A0%B4%E4%BA%86%E5%BD%93%E4%BB%A3%E4%BA%B2%E5%AF%86%E5%85%B3%E7%B3%BB%E6%9C%80%E6%B7%B1%E7%9A%84%E7%9C%9F%E7%9B%B8%EF%BC%9F",
-    "tags": [
-      "solve",
-      "writing-content",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "解决",
-      "写作内容",
-      "未来预测"
-    ],
-    "date": "2026-08-20",
-    "summary_en": "The article profiles bestselling author Janet Wintour (translated as 珍妮特·温特森) and her recent Chinese book‑tour, using her new memoir \"Love Is Carrying a Heavy Stone Without Knowing Why\" to explore the deepest truths about modern intimate relationships. It highlights her habit of standing throughout events, her inclusive approach that invites readers onto stages and opens doors for those waiting outside, and her recurring metaphor of doors representing agency and transition. Wintour reflects on how contemporary young women reject old relational scripts yet have not yet settled on stable new ones, urging a shift from superficial equality to genuine daily practices of mutual respect. The piece also expands into broader themes of technology, AI, and societal power structures, arguing that new forms will not automatically discard outdated values. Ultimately, she frames love as a daily test of who truly shares power, urging readers to keep doors open and maintain independent lives even within relationships.",
-    "summary_zh": "这篇文章深度解析了作家珍妮特·温特森的最新中国巡讲及其新作《爱是搬起一块重石而不知缘故》，聚焦于她对当代亲密关系的洞见。她始终站立的现场表演、主动打开门让等在门外的读者进来，以及“门”作为权力与转型的隐喻，展示了她对关系中平等与尊重的独到理解。文章指出，许多年轻女性已不再接受旧有角色，却仍在寻找稳定的新模式，强调从表面平等到真实日常实践的转变。同时，她将个人叙事延伸至人工智能、技术伦理与社会权力的话题，警示新技术若携带旧有价值观将复制不公。最终，她将爱情定义为检验权力分配的日常场域，呼吁人们保持独立与开放的心态，让关系成为相互成长的舞台。",
-    "best_quote_en": "We meet on the steps of the story.",
-    "best_quote_zh": "我们在故事的台阶上相遇。"
-  },
-  {
-    "id": 361,
-    "title": "Moonlight and the Magic of the Unnecessary",
-    "title_zh": "月光与无用的奇迹",
-    "model_used": "poolside/laguna-s-2.1:free",
-    "source": "RogerEbert.com",
-    "link": "https://www.themarginalian.org/2026/08/18/moonlight/",
-    "tags": [
-      "update",
-      "writing-content",
-      "design",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "动态",
-      "写作内容",
-      "设计创意",
-      "未来预测"
-    ],
-    "date": "2026-08-19",
-    "summary_en": "This contemplative essay weaves together astronomy, literature, and personal reflection to explore how moonlight—though unnecessary for survival—imbues life with profound meaning. Through quotes from writers like Leonard Cohen, Sylvia Plath, and Toni Morrison, alongside passages from Watership Down and meditations by Huxley, the piece illuminates how the 'unnecessary' often holds the greatest beauty. The moon’s precise cosmic alignment (400 times smaller and closer than the sun) becomes a metaphor for improbable fortune, while literary voices reveal moonlight as a transformative force for the soul. Ultimately, it argues that things without utility—like art, friendship, or poetry—are precisely what make existence worthwhile, echoing C.S. Lewis’s assertion that such graces 'give value to survival.'",
-    "summary_zh": "这篇随想将天文、文学与个人回忆交织在一起，探讨尽管月光对生存毫无必要，却如何赋予生命深厚的意义。通过考顿、普拉斯、莫里索等作家的引语，以及《沃特希尔庞》中的摘录和赫胥黎的沉思，文章展现了‘无用的’东西往往蕴含着最深的美。月亮的精确宇宙排列（比太阳小400倍且近400倍）成为不可思议的幸运的隐喻，而文学的声音们则揭示了月光作为灵魂的转变力量。最终，它论证了那些没有功用的东西——如艺术、友谊或诗歌——正是使生存变得有意义的东西，呼应了C.S.刘易斯的观点，即这些恩赐‘赋予生存以价值’。",
-    "best_quote_en": "It is impossible to know this and not see the miraculous in its nightly light.",
-    "best_quote_zh": "知道这一切而不认为它的 nightly light 之下是奇迹，是不可能的。"
-  },
-  {
     "id": 362,
     "title": "A. Rimbaud: Patrick Wang’s wildly unconventional biopic of the 19th century poet",
     "title_zh": "阿里·里姆巴德：帕特里克·王的野性非传统化诗人传记",
@@ -2346,5 +2227,122 @@
     "summary_zh": "本文探讨了日本美学核心概念“间（Ma）”，作为对现代确定性迷思的深刻反思。通过建筑师Kengo Kuma和画家Hasui Kawase的案例，文章阐释了如何通过有意识的空灵空间激发创造力与观察力。本文的关键洞见在于：真正的理解并非源于绝对知识，而是来自拥抱建设性的不知——即“不知”。这种态度挑战了当代人将“确定性”误认为真理的倾向，将传统日本美学与西方认知科学相结合，揭示了空虚与时间流动如何孕育新生。实用价值在于鼓励读者转向开放的心态，以“间”的智慧重塑感知方式，在生活与设计实践中获得更深层次的清醒与自由。",
     "best_quote_en": "Certainty is the dominant addiction of the modern mind.",
     "best_quote_zh": "确定性是现代人的主导成瘾。"
+  },
+  {
+    "id": 457,
+    "title": "Oasis: Don’t Look Back in Anger: Fan-service rockumentary is very much the Gallagher brothers’ show",
+    "title_zh": "《Oasis：别回头怀疑人生》：粉丝向的摇滚纪录片，实质上是Gallagher兄弟的个人秀",
+    "model_used": "poolside/laguna-xs-2.1:free",
+    "source": "BFI",
+    "link": "https://www.bfi.org.uk/sight-and-sound/reviews/oasis-dont-look-back-anger-fan-service-rockumentary-very-much-gallagher-brothers-show",
+    "tags": [
+      "analyze",
+      "music-arts"
+    ],
+    "tags_zh": [
+      "分析",
+      "音乐艺术"
+    ],
+    "date": "2026-09-09",
+    "summary_en": "This documentary chronicles Oasis's 2025 reunion tour through the lens of fan culture and sibling reconciliation, revealing more about audience devotion than musical spectacle. While the concert footage itself lacks visual dynamism, the film's strength lies in its exploration of how Oasis's music transcended generational boundaries, evolving from 1990s Britpop rebellion to universal anthems that moved from Manchester to Tokyo. The Gallagher brothers provide unexpectedly reflective commentary, with Noel revealing improved family relationships and Liam offering wry wisdom about aging in the music industry. However, the film prioritizes fan service over critical examination, glossing over the genuine tensions that once defined the band while celebrating their comeback as triumphant rather than complex. The documentary succeeds in documenting how music creates community across cultures and decades, particularly through moving sequences featuring diverse fans including a Manchester bombing survivor and Argentine football enthusiasts. Yet it remains fundamentally a celebratory portrait that avoids uncomfortable questions about the band's fractured history.",
+    "summary_zh": "这部纪录片用粉丝文化和兄弟和解的视角讲述了Oasis 2025年复出演出的故事，展现了观众热情不及音乐现场的视觉冲击力。 Gallagher兄弟带来了意想不到的沉思，尤其是Noel透露家庭关系改善，Liam以讽刺幽默看待音乐人生涯的成熟。影片聚焦粉丝热情，记录了Britpop从曼彻斯特到东京的普遍共鸣，却回避了带裂痕的历史。",
+    "best_quote_en": "When Oasis broke up it felt like my child had died",
+    "best_quote_zh": "当Oasis解散时，感觉就像失去了我的孩子"
+  },
+  {
+    "id": 458,
+    "title": "Illustrator Spotlight: kokooma",
+    "title_zh": "插画家聚焦：kokooma",
+    "model_used": "nex-agi/nex-n2.5-pro:free",
+    "source": "BOOOOOOOM",
+    "link": "https://www.booooooom.com/2026/09/09/illustrator-spotlight-kokooma/",
+    "tags": [
+      "update",
+      "design",
+      "music-arts"
+    ],
+    "tags_zh": [
+      "动态",
+      "设计创意",
+      "音乐艺术"
+    ],
+    "date": "2026-09-09",
+    "summary_en": "This visual profile is less an article than an invitation to slow down and look. Its fifteen images establish a gallery-like encounter with kokooma’s illustration, while the near-absence of biography, process notes, or critical context leaves interpretation almost entirely to the viewer. That restraint can be powerful: the work remains unframed, and discovery of the artist’s own site is encouraged. Yet the format also limits learning. We can appreciate recurring visual qualities, but cannot understand how the practice developed, what ideas motivate it, or where it sits within contemporary illustration. The piece therefore succeeds most as inspiration and portfolio exposure, not as analysis or a practical guide. Its real value depends on what viewers do next—whether they follow the links, compare works over time, and construct their own reading of the imagery. As cultural curation, it opens a door; as editorial criticism, it barely enters the room. I find that openness refreshing, but also a missed opportunity to turn visual attention into lasting insight.",
+    "summary_zh": "这篇“聚焦”更像一场安静的线上展览，而非完整的艺术家介绍。十五幅作品让观者直接面对kokooma的视觉世界，却几乎不提供生平、创作过程或评论框架。留白赋予作品自我言说的空间，也促使人点击官网继续探索；但信息不足又削弱了学习与研究价值。我们能看到图像，却难以理解风格如何形成、创作关心什么。它适合寻找灵感，却未必能带来深刻认知。",
+    "best_quote_en": "As cultural curation, it opens a door; as editorial criticism, it barely enters the room.",
+    "best_quote_zh": "作为文化策展，它为观者打开了一扇门；作为编辑评论，它却几乎未曾真正进入房间。"
+  },
+  {
+    "id": 459,
+    "title": "Jess Cartner-Morley on fashion: this sweltering summer, I finally stopped giving a tuck",
+    "title_zh": "杰斯·卡特纳-莫利谈时尚：在这个酷热难耐的夏天，我终于不再把上衣塞进裤腰",
+    "model_used": "nex-agi/nex-n2.5-pro:free",
+    "source": "Women | The Guardian",
+    "link": "https://www.theguardian.com/fashion/2026/sep/09/jess-cartner-morley-on-fashion-this-sweltering-summer-i-finally-stopped-giving-a-tuck",
+    "tags": [
+      "update",
+      "lifestyle",
+      "ai-research",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "动态",
+      "生活方式",
+      "AI研究",
+      "未来预测"
+    ],
+    "date": "2026-09-09",
+    "summary_en": "Jess Cartner-Morley turns one small styling habit—the tucked-in shirt—into a sharp observation about heat, taste and self-surveillance. The 2026 heatwave did not merely make loose clothing practical; it exposed how much “polish” can depend on constriction. Her comparison of couture clients, street-style dressers and hot-climate traditions suggests that comfort can become a cultural signal before fashion institutions acknowledge it. I find the strongest passage in her admission that cinching was also an attempt to look smaller: a routine outfit choice quietly carries gendered discipline. Yet the essay is not a manifesto. It recognizes that loose silhouettes can still be styled, even offering a reverse French tuck for readers unable to abandon structure entirely. Its broader lesson is that trends often arrive through bodily necessity rather than aesthetic revelation. The piece is engaging and useful, though its claims about looking “out of touch” remain deliberately subjective. What lingers is the idea that climate can loosen not only fabric, but also the habits by which women police their bodies.",
+    "summary_zh": "这篇文章最打动我的，并非“衬衫不必塞进去”这一结论，而是作者承认：塞衣角既为了凉快，也源于想让自己显得更小。时尚常把束缚包装成利落，把舒适说成随意；酷热却迫使人们重新检验这套规则。从高级定制秀场到日常穿搭，宽松轮廓的流行说明趋势往往先由身体经验推动，再由审美话语追认。作者没有把解放说得绝对，反而保留“反向法式塞法”，提醒我们改变习惯可以循序渐进。真正值得思考的是：当气候持续改变穿着，女性是否也能少一点对腰线和身材的自我监视，多一点对身体感受的信任。",
+    "best_quote_en": "Tucking my shirt in was making me hot, and – this is the really bad part – making me look out of touch",
+    "best_quote_zh": "把衬衫塞进裤腰，不但让我更热，更糟的是，还让我显得跟不上时代。"
+  },
+  {
+    "id": 460,
+    "title": "Orthodox Privilege",
+    "title_zh": "正统特权",
+    "model_used": "dots-studio/dots-3-note-preview:free",
+    "source": "Paul Graham",
+    "link": "http://www.paulgraham.com/orth.html",
+    "tags": [
+      "solve",
+      "general",
+      "controversial"
+    ],
+    "tags_zh": [
+      "解决",
+      "general",
+      "争议观点"
+    ],
+    "date": "2026-09-10",
+    "summary_en": "This essay introduces the concept of 'orthodox privilege'—a psychological blindness where conventional-minded individuals assume it is universally safe to express opinions, simply because their own views align with current social norms. Drawing on Einstein's observation about the difficulty of holding non-conformist views, the author argues that this form of privilege is uniquely resistant to correction through education alone. Unlike other privileges, which can be mitigated by exposure to diverse perspectives, orthodox privilege requires a fundamental shift toward independent thinking. The piece is both a philosophical inquiry and a social critique, challenging the illusion that our era is uniquely free of taboo truths. It suggests that the inability to imagine unspeakable truths is not a sign of progress but of intellectual complacency. The author proposes politeness as a pragmatic tool for bridging this gap—urging listeners to accept others' claims of invisible truths without demanding proof. With intellectual humility and historical awareness, this essay serves as a mirror to contemporary discourse, revealing how conformity masquerades as reason.",
+    "summary_zh": "本文提出“正统特权”这一概念：人们因认同主流观念，便误以为所有人都能安全表达意见，实则是一种认知盲区。引用爱因斯坦之言，指出这种特权最难破除——它不靠增长知识就能消除，而需培养独立思考能力。作者质问：若真有不可言说的真理，我们是否正身处一个例外的时代？他呼吁以礼貌为桥梁，接纳他人所见之“不可见之真”，而非苛求证据。这不仅是对言论自由的反思，更是对思想惰性的深刻警醒。",
+    "best_quote_en": "The more conventional-minded someone is, the more it seems to them that it's safe for everyone to express their opinions.",
+    "best_quote_zh": "一个人越墨守成规，就越会认为所有人都能安全地表达自己的意见。"
+  },
+  {
+    "id": 461,
+    "title": "Tales of Overcoming the Odds, and How to Turn Losses Into Wins — Tim McGraw, Terry Crews, Dax Shepard, and More (#881)",
+    "title_zh": "逆境逆袭录：如何将失败转化为胜利——蒂姆·麦格劳、泰瑞·克鲁斯、达克斯·谢泼德等 (#881)",
+    "model_used": "inclusionai/ling-3.0-flash-sante:free",
+    "source": "Tim Ferriss",
+    "link": "https://tim.blog/2026/09/04/failure-into-success/",
+    "tags": [
+      "solve",
+      "writing-content",
+      "design",
+      "beginner-friendly"
+    ],
+    "tags_zh": [
+      "解决",
+      "写作内容",
+      "设计创意",
+      "新手友好"
+    ],
+    "date": "2026-09-04",
+    "summary_en": "This episode of The Tim Ferriss Show explores the psychology and practice of resilience through conversations with high-achievers who have navigated significant failure. Featuring Tim McGraw, Terry Crews, Dax Shepard, BJ Miller, and others, the discussion examines what happens when creative bets fail, careers stall, or paths disappear entirely. The core insight transcends mere motivational platitudes—it offers a framework for recognizing hidden opportunities within setbacks. What makes this particularly compelling is the diversity of perspectives: from a country music legend to an NFL security officer to a neuroscientist studying end-of-life care, each guest brings distinct evidence that failure is not terminal but transformative. The episode challenges the cultural obsession with uninterrupted success, instead framing losses as essential data points for growth. For listeners facing their own 'rejected work' or 'disappeared paths,' this provides not just comfort but concrete mental models for reframing defeat. The intellectual curiosity here lies in how different domains—entertainment, sports, science, law enforcement—converge on similar resilience principles, suggesting that overcoming odds is less about talent and more about perceptual agility.",
+    "summary_zh": "这期节目探讨了逆境中的心理重构，而非简单的励志鸡汤。从乡村音乐巨星到NFL安全官，不同期望背景的嘉宾共同揭示了一个真相：失败并非终点，而是转型的契机。麦格劳、克鲁斯等人的经历表明，当既定路径消失时，真正的机会往往隐藏在挫败的褶皱中。节目挑战了社会对'不间断成功'的执念，将损失重新定义为成长的数据点。对身处困境的听众而言，这不仅是慰藉，更是一套可操作的思维模型——如何在废墟中识别机遇，将逆境转化为战略资产。",
+    "best_quote_en": "Setbacks can often present opportunities if you know how to look for them.",
+    "best_quote_zh": "当你知道如何寻找时，挫折往往蕴含着机遇。"
   }
 ]
