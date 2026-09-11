@@ -1,124 +1,5 @@
 [
   {
-    "id": 362,
-    "title": "A. Rimbaud: Patrick Wang’s wildly unconventional biopic of the 19th century poet",
-    "title_zh": "阿里·里姆巴德：帕特里克·王的野性非传统化诗人传记",
-    "model_used": "poolside/laguna-xs-2.1:free",
-    "source": "BFI",
-    "link": "https://www.bfi.org.uk/sight-and-sound/reviews/rimbaud-patrick-wangs-wildly-unconventional-biopic-19th-century-poet",
-    "tags": [
-      "analyze",
-      "music-arts",
-      "science",
-      "controversial"
-    ],
-    "tags_zh": [
-      "分析",
-      "音乐艺术",
-      "科学研究",
-      "争议观点"
-    ],
-    "date": "2026-08-20",
-    "summary_en": "Patrick Wang's 'A. Rimbaud' presents a radical reimagining of the 19th-century French poet's life through an experimental biopic structure that challenges conventional narrative filmmaking. Rather than traditional biopic conventions, Wang employs a minimalist theatrical approach where single actor Blake Draper portrays Rimbaud conversing with musical instruments that serve as all other characters. The film's audacious methodology—shot on a blacked-out soundstage with stop-motion techniques and animated chalk lines—creates a unique cinematic language that mirrors Rimbaud's poetic innovation. At nearly three hours, the film demands audience investment, rewarding those willing to navigate its unconventional rhythms with profound insights into creative rebellion and artistic transformation. This is cinema as poetic statement, where form and subject merge to create an extraordinary achievement in narrative experimentation.",
-    "summary_zh": "王帕特里克的《阿里·里姆巴德》以实验性电影手法重塑了19世纪法国诗人的传记叙事。单演员对抗音乐乐器的构思，配合停机影片技巧与手绘动画，构成一部以诗意实验为内核的杰作。影片挑战观众认知，却因对创造力与叛逆精神的深度诠释而值得细细品味。",
-    "best_quote_en": "When was the last time you felt like you were watching something wholly original? It's a rare enough feeling for cinemagoers, but when considering the biopic, which tends to flatten any life into a familiar narrative shape, it's an even more alien concept.",
-    "best_quote_zh": "你最后一次感觉自己在看一部全新奇特的作品吗？观众很少体验到这种感觉，但当考虑到传记电影本来就会将任何生命简化成熟悉的叙事形态时，这种感觉就更加陌生了。"
-  },
-  {
-    "id": 363,
-    "title": "Over/Under review – beautiful coming of age story of female best friends set across five summers",
-    "title_zh": "《Over/Under》评论——一部关于五夏女性成长的美丽故事",
-    "model_used": "cohere/north-mini-code:free",
-    "source": "Women | The Guardian",
-    "link": "https://www.theguardian.com/film/2026/aug/19/over-under-review-beautiful-coming-of-age-story-set-across-five-summers",
-    "tags": [
-      "analyze",
-      "education",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "分析",
-      "教育学习",
-      "未来预测"
-    ],
-    "date": "2026-08-19",
-    "summary_en": "Over/Under offers a delicate coming-of-age narrative focusing on the friendship between two nine-year-old girls, Stella and Violet, as they navigate the complexities of adolescence across five summers. The film captures the subtle physical and emotional changes of pre-teen life, from budding breasts and growing taller to the challenges of school bullying, parental divorce, and familial illness. Notably, the movie includes a rare cinematic depiction of tampon use, a pivotal rite of passage for women. Director Sophia Silver’s restrained yet emotionally resonant approach, combined with the natural performances of Anastasia Veronica Lee and Emajean Bullock, avoids melodrama while delivering a thoughtful exploration of female friendship, bodily autonomy, and the uneasy transition from childhood to adulthood. The film’s intimate, observational style invites viewers to reflect on the universal experiences of growing up, making it both a personal and culturally significant piece of contemporary cinema.",
-    "summary_zh": "《Over/Under》讲述了两个九岁女孩Stella和Violet之间的友谊，记录了她们在五个夏天中的成长故事。影片细腻地描绘了她们在身体和情感上的变化——从乳房发育到学习使用卫生巾，同时还展现了面对校园欺凌、家庭变故和癌症的现实。这部电影罕见地刻画了女性成长中的重要里程碑，导演Sophia Silver以克制的手法，通过自然流畅的表演，呈现了一部既不落入感伤也不说教的女性成长史，引发观众对成长、友谊和女性自主权的深刻思考。",
-    "best_quote_en": "“The two leads navigate the ups and downs of adolescence, bodily changes and learning to use tampons with astonishing naturalism.”",
-    "best_quote_zh": "“两位主角以惊人的自然主义风格，展现了青少年时期的情感起伏、身体变化和学习使用卫生巾的过程。”"
-  },
-  {
-    "id": 364,
-    "title": "How to Think for Yourself",
-    "title_zh": "如何为自己思考",
-    "model_used": "poolside/laguna-xs-2.1:free",
-    "source": "Paul Graham",
-    "link": "http://www.paulgraham.com/think.html",
-    "tags": [
-      "solve",
-      "startup-strategy",
-      "case-study"
-    ],
-    "tags_zh": [
-      "解决",
-      "创业策略",
-      "案例研究"
-    ],
-    "date": "2026-08-22",
-    "summary_en": "This article explores the critical distinction between work that rewards independent thinking versus conventional conformity. Drawing from patterns across science, investing, startups, and essay writing, the author argues that truly valuable contributions emerge only when you think differently from peers. The piece examines how independent-mindedness—more nature than nurture—determines career satisfaction, and why conventional people often misjudge their own cognitive orientation. Through practical strategies like surrounding yourself with independent thinkers, cultivating skepticism, and avoiding intellectual fashions, the author provides a framework for developing more original thought. The analysis reveals how organizational dynamics, particularly in growing startups and universities, dilute independent thinking, and suggests structural solutions like hiring selective talent and creating physical separation. Ultimately, the work champions intellectual autonomy as essential for innovation and personal fulfillment, warning that those who thrive on contrarian thinking will be miserable in conventional environments and vice versa.",
-    "summary_zh": "这篇文章深入探讨了独立思考在不同职业领域的价值。作者通过科学研究、投资、创业等领域的案例，揭示了真正有价值的观点只有在与众不同时才会出现。文章指出，独立思考更多是先天特性，而大多数人都误判了自己的思维倾向。通过主动寻找独立思考者、培养怀疑精神等方法，作者为发展独立思考能力提供了实用框架。文章还警示教育机构和初创公司中思维独立性的稀释现象，并提出相应的解决方案。这是一个关于思维主权与创新活力的深度思考。",
-    "best_quote_en": "The best place to find undiscovered ideas is where no one else is looking.",
-    "best_quote_zh": "发现未被发现的想法的最佳地方，就是没有别人寻找的地方。"
-  },
-  {
-    "id": 365,
-    "title": "10 great films about making a horror film",
-    "title_zh": "10部关于拍摄恐怖片的精彩电影",
-    "model_used": "poolside/laguna-xs-2.1:free",
-    "source": "BFI",
-    "link": "https://www.bfi.org.uk/lists/10-great-films-about-making-horror-film",
-    "tags": [
-      "solve",
-      "music-arts",
-      "design",
-      "case-study"
-    ],
-    "tags_zh": [
-      "解决",
-      "音乐艺术",
-      "设计创意",
-      "案例研究"
-    ],
-    "date": "2026-08-20",
-    "summary_en": "This article explores the fascinating meta-genre of films about filmmaking horror movies, revealing how cinema can examine its own creative process and psychological toll. From experimental Spanish cinema to Japanese indie ingenuity, these films blur boundaries between fiction and reality, artifice and authenticity. The piece demonstrates how horror filmmaking serves as a lens to critique Hollywood's creative bankruptcy while celebrating the resilience and innovation of independent creators. Each featured film offers unique perspectives on the intersection of artistic ambition, commercial pressures, and psychological trauma, making this a valuable resource for film students, horror enthusiasts, and industry professionals alike. The analysis highlights how these meta-narratives illuminate both the craft of moviemaking and the deeper human experiences of creation and destruction.",
-    "summary_zh": "这篇文章深入探讨了关于拍摄恐怖电影的电影这一元类型，揭示了电影如何审视自身的创作过程与心理创伤。从西班牙的实验电影到日本的独立创意，作品不断模糊虚构与现实、人造与真实的界限。这些影片以镜头观察好莱坞的创作空洞，同时颂扬独立创作者的韧性与创新。它们揭示了艺术野心、商业压力与心理创伤的交织，为电影学生和行业专业人士提供了宝贵的洞察。",
-    "best_quote_en": "The idea of losing yourself in a movie is often taken to its most unsettling end in these films, with trauma that persists long after the credits roll.",
-    "best_quote_zh": "投身一部电影的念头常被推向最不令人安心的境地，这些电影中的创伤在片尾滚动后仍会持续发酵。"
-  },
-  {
-    "id": 366,
-    "title": "“The Magician’s Room” by Artist Lou Benesch",
-    "title_zh": "《魔术师的房间》- 艺术家 Lou Benesch",
-    "model_used": "poolside/laguna-xs-2.1:free",
-    "source": "BOOOOOOOM",
-    "link": "https://www.booooooom.com/2026/08/19/the-magicians-room-by-artist-lou-benesch/",
-    "tags": [
-      "analyze",
-      "design",
-      "music-arts"
-    ],
-    "tags_zh": [
-      "分析",
-      "设计创意",
-      "音乐艺术"
-    ],
-    "date": "2026-08-19",
-    "summary_en": "This visual showcase presents 'The Magician's Room' by artist Lou Benesch, featuring a compelling series of photographs that capture the artist's creative process and artistic vision. Through 17 striking images, the collection reveals Benesch's unique approach to contemporary art, blending technical mastery with conceptual depth. The work invites viewers into an intimate encounter with artistic creation, suggesting themes of transformation, illusion, and the alchemy of visual storytelling. Each frame offers a window into the artist's world, where reality and imagination intertwine. The absence of extensive textual commentary allows the visual narrative to speak directly, creating an immersive experience that prioritizes emotional resonance over explanatory detail. This body of work exemplifies contemporary photography's power to convey complex ideas through purely visual means, positioning Benesch as a compelling voice in modern artistic practice.",
-    "summary_zh": "《魔术师的房间》以17幻想般的摄影作品呈现Lou Benesch的艺术境界。作品以意境和视觉化学，将现实与幻想交织。纯净的影像叙事让观者在光影间自行体会其创意之美，这不仅是艺术展现，更是一场视觉的魔法体验。",
-    "best_quote_en": "The Magician's Room",
-    "best_quote_zh": "《魔术师的房间》"
-  },
-  {
     "id": 367,
     "title": "The Tim Ferriss Show Transcripts: Relationship Tools That Work — Esther Perel, Brené Brown, Dr. Sue Johnson, Terry Real, and More on Conflict, Repair, and Lasting Love (#880)",
     "title_zh": "Tim Ferriss Show 讲稿：有效的关系工具 —— Esther Perel、Brené Brown、Dr. Sue Johnson、Terry Real 等讨论冲突、修复与持久爱情(#880)",
@@ -2344,5 +2225,124 @@
     "summary_zh": "这期节目探讨了逆境中的心理重构，而非简单的励志鸡汤。从乡村音乐巨星到NFL安全官，不同期望背景的嘉宾共同揭示了一个真相：失败并非终点，而是转型的契机。麦格劳、克鲁斯等人的经历表明，当既定路径消失时，真正的机会往往隐藏在挫败的褶皱中。节目挑战了社会对'不间断成功'的执念，将损失重新定义为成长的数据点。对身处困境的听众而言，这不仅是慰藉，更是一套可操作的思维模型——如何在废墟中识别机遇，将逆境转化为战略资产。",
     "best_quote_en": "Setbacks can often present opportunities if you know how to look for them.",
     "best_quote_zh": "当你知道如何寻找时，挫折往往蕴含着机遇。"
+  },
+  {
+    "id": 462,
+    "title": "具身智能，关联交易虚火",
+    "title_zh": "具身智能，关联交易虚火",
+    "model_used": "inclusionai/ling-3.0-flash-fin:free",
+    "source": "虎嗅",
+    "link": "https://www.huxiu.com/article/4890418.html?f=rss",
+    "tags": [
+      "solve",
+      "ai-research",
+      "startup-funding",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "解决",
+      "AI研究",
+      "创业融资",
+      "数据驱动"
+    ],
+    "date": "2026-09-11",
+    "summary_en": "This article delivers a searing exposé of the 'fake-it-till-you-make-it' playbook infecting China's embodied AI sector. Drawing on rare insider testimony from Mech-Mind founder Shao Tianlan, it reveals how an entire ecosystem of robotics startups is manufacturing fake revenue through related-party transactions—'data collection centers' and 'leasing companies' that are essentially shell entities funded by local governments and used to inflate sales figures before IPO. The author contextualizes this within staggering market data: nearly 100 billion RMB in H1 2026 funding, 23 unicorn robotics companies, and valuations detached from any realistic commercialization path. The piece is intellectually compelling because it doesn't simply condemn—it traces the structural logic connecting three desperate actors (VCs needing exits, local governments needing 'new productive forces' benchmarks, and founders needing revenue narratives), showing why this collective action problem became almost inevitable. The comparison to Enron's round-tripping and the observation that this represents a new 'cross-object closed loop' variant demonstrates genuine analytical depth. The author's ultimate stance is nuanced: embodied AI is a real revolution, but the current pace is unsustainable, and a period of de-bubbling is necessary before genuine breakthroughs emerge.",
+    "summary_zh": "这篇文章以罕见的行业内部人坦白为切入点，犀利揭露了具身智能赛道中系统性造假的底层逻辑。作者借梅卡曼德邵天兰之口，将'攒局型创业'的完整闭环链条拆解得淋漓尽致——数采中心、租赁公司、地方政府出资、机器人厂商回购，数据与硬件的左手倒右手。文章的真正价值不在于批判，而在于揭示了三方博弈的结构性困境：风投需要退出窗口，地方需要新质生产力政绩，创业者需要营收故事，三者合力将行业推入不得不造假的集体行动陷阱。作者以安然循环交易为参照系，指出这是AI时代'异标的闭环'的变体，审计穿透难度更大，隐蔽性更强。结尾处作者保持理性平衡：具身智能确实是真正的产业革命，但当前节奏过快，必然经历去伪存真的周期阵痛。这种既洞察人性复杂又不失建设性视角的写作，体现了真正的思考力。",
+    "best_quote_en": "'This is classic Silicon Valley gameplay made concrete — fake it till you make it, relying on related-party transactions through 'data collection centers' and 'leasing companies' to manufacture fake, unsustainable revenue without PMF, then using big announcements to hype and co-opt local government support to rush toward IPO.'",
+    "best_quote_zh": "'靠数采中心、租赁公司这类关联交易做出虚假的、不可持续的、没有PMF的收入，靠发布大新闻炒作，并绑架地方支持，快速冲上市，fake it till make it，可谓是，经典硅谷玩法具象化了。'"
+  },
+  {
+    "id": 463,
+    "title": "Book of the month: Ryan Falzon",
+    "title_zh": "每月一书：Ryan Falzon",
+    "model_used": "poolside/laguna-xs-2.1:free",
+    "source": "A year of reading the world",
+    "link": "https://ayearofreadingtheworld.com/2026/07/29/book-of-the-month-ryan-falzon/",
+    "tags": [
+      "analyze",
+      "writing-content",
+      "case-study"
+    ],
+    "tags_zh": [
+      "分析",
+      "写作内容",
+      "案例研究"
+    ],
+    "date": "2026-07-29",
+    "summary_en": "This review examines Ryan Falzon's 'You Know the Sun Bothers Me,' a compelling Maltese novel that masterfully captures the psychological landscape of modern disconnection through the lens of a restless thirty-year-old narrator. The work stands out for its authentic portrayal of digital life, demonstrating how internet culture rewires consciousness and transforms our very perception of reality. Falzon's narrative technique—employing fragmented sentences, literary lists, and simile chains—mirrors the slippery nature of contemporary experience. The novel's local specificity, woven through Maltese language and cultural references, creates an intimate authenticity while speaking to universal themes of stagnation, online relationships, and the anxiety of pseudo-adulthood. Particularly noteworthy is its subversive depiction of a female toxic relationship dynamic, challenging literary conventions that typically feature male manipulators. Through its exploration of inaction as compelling as action, and its unflinching examination of self-sabotage, the work offers profound insights into how virtual environments shape our psychological reality. This is literature that doesn't just reflect but actively remaps how we understand modern consciousness.",
+    "summary_zh": "这部作品以断崖式的叙事手法和碎片化的句式，成功捕捉了当代人被数字世界重塑的心理现实。小说不只是描绘沉闷的夏日无奥，更深入探讨了虚拟生活如何重构意识本身。值得一提的是，作者将马耳他的语言和文化细节自然融入，既保持了地方的烂漫，又触及了成年迟缓的普遍焦虑。更值得称道的是，女性在剧中扮演的操控者角色，颠覆了传统文学中男性主导的毒关系描写模式。这不仅是一部关于懒惰与自我毁灭的叙事，更是一面镜子，照见我们如何在网络世界中重新定义自我认知的刻骨之痛。",
+    "best_quote_en": "It is one of the best novels about online life I've ever read – on par with the International Booker Prize shortlisted Perfection by Vincenzo Latronico, translated by Sophie Hughes. Not only does it portray numerous aspects of using the internet breathtakingly accurately... but it shows how these things seep into and reorder our consciousness, making distraction a default.",
+    "best_quote_zh": "这是我读过的最好的关于网络生活的小说之一——与意大利作家Vincenzo Latronico获际国际书奖提名作品《完美》不相上下。它不仅以惊人的准确性描绘了使用互联网的诸多方面……而且展示了这些事物如何渗透并重排序我们的意识，使分心成为默认状态。"
+  },
+  {
+    "id": 464,
+    "title": "The Four-Color Theorem Gets a Rare New Proof",
+    "title_zh": "四色定理获得罕见新证明",
+    "model_used": "cohere/north-mini-code:free",
+    "source": "Quanta Magazine",
+    "link": "https://www.quantamagazine.org/the-four-color-theorem-gets-a-rare-new-proof-20260910/",
+    "tags": [
+      "learn",
+      "ai-research",
+      "beginner-friendly"
+    ],
+    "tags_zh": [
+      "学习",
+      "AI研究",
+      "新手友好"
+    ],
+    "date": "2026-09-10",
+    "summary_en": "Mathematicians have produced a new computer-assisted proof of the four-color theorem, building on a century of attempts since its controversial 1976 resolution. While the result provides a more efficient coloring algorithm—reducing computational complexity from O(n²) to O(n log n)—its true value lies in the deeper insights into planar graph structures revealed during the process. The work demonstrates how revisiting \"solved\" problems can yield fresh perspectives, potentially advancing other graph theory challenges. The researchers' parallel reduction technique and newly discovered unavoidable set of 8,202 configurations open pathways for tackling coloring problems on complex surfaces like tori. Despite the breakthrough, the quest for an elegant, computer-free proof continues—a quest that has obsessed mathematicians since Francis Guthrie's 1852 observation about English county maps.\n\nThe proof represents more than just solving a famous puzzle; it showcases how computational methods, once controversial, have become essential tools for exploring mathematical truths. By transforming an inefficient sequential process into a parallel approach, the team not only proved the theorem but also provided new machinery for understanding graph structures across different mathematical domains.",
+    "summary_zh": "数学家们在经历了近一个世纪的争议和尝试后，再次通过计算机辅助方法证明了四色定理。虽然这提供了更高效的着色算法（从O(n²)复杂度降低到O(n log n)），但其真正价值在于揭示了平面图结构的更深层次特性。这项工作展示了重新审视“已解决”问题如何带来新的视角，或许能推动其他图论难题的突破。研究团队开发的并行化约技术和新发现的8,202个不可避免配置集，为解决更复杂曲面（如环面）的着色问题提供了新工具。尽管如此，寻找一个无需计算机的简洁证明的探索仍在继续——这个自1852年格思里观察英格兰郡地图时就开始的“四色病”仍困扰着数学家们。",
+    "best_quote_en": "\"Once you build up machinery, you find out what kind of problems you can solve.\" - Ellen Gethner",
+    "best_quote_zh": "\"一旦你建立了工具，你就会发现可以解决哪些问题。\" - 埃伦·盖瑟"
+  },
+  {
+    "id": 465,
+    "title": "The Chinese room",
+    "title_zh": "中文房间",
+    "model_used": "inclusionai/ling-3.0-flash-sante:free",
+    "source": "Aeon",
+    "link": "https://aeon.co/videos/could-there-ever-be-a-viable-test-for-artificial-consciousness",
+    "tags": [
+      "learn",
+      "ai-research",
+      "controversial"
+    ],
+    "tags_zh": [
+      "学习",
+      "AI研究",
+      "争议观点"
+    ],
+    "date": "2026-09-10",
+    "summary_en": "John Searle's Chinese Room argument, conceived in 1980, remains one of philosophy's most enduring challenges to machine consciousness — and its relevance has only intensified as AI systems grow increasingly sophisticated. The TED-Ed animation unpacks Searle's core intuition: a person following syntax rules in a room can produce Chinese responses without understanding a single word, suggesting that computation alone cannot yield genuine comprehension. Yet the thought experiment faces mounting criticism, particularly from those who argue that understanding might emerge from complex system-level interactions rather than individual symbol manipulation. What makes this debate especially compelling today is the epistemic humility it exposes — we still lack a rigorous definition of consciousness, even in humans, making it extraordinarily difficult to adjudicate whether machines possess it. The Chinese Room forces us to confront a deeper question: if we cannot definitively identify consciousness in ourselves, how can we claim to recognize or deny it in artifacts? As AI continues to blur the boundary between simulation and cognition, Searle's thought experiment serves not as a definitive refutation but as a provocation — demanding that we clarify what we actually mean by understanding before we can judge whether machines have it.",
+    "summary_zh": "Searle的中文房间思想实验在AI时代反而愈发尖锐——它迫使我们承认一个令人不安的事实：我们对人类意识本身仍缺乏明确定义，却急于判断机器是否具备认知。这个思想实验的真正价值不在于否定AI，而在于揭示我们概念体系中的根本模糊性。",
+    "best_quote_en": "The Chinese Room forces us to confront a deeper question: if we cannot definitively identify consciousness in ourselves, how can we claim to recognize or deny it in artifacts?",
+    "best_quote_zh": "如果我们自己都无法明确识别意识，又怎能断言机器是否拥有它？"
+  },
+  {
+    "id": 466,
+    "title": "10 Classic Whimsical Movies to Watch After 'Practical Magic 2'",
+    "title_zh": "10部经典奇幻轻松电影推荐（适合看完《实用魔法2》后）",
+    "model_used": "poolside/laguna-xs-2.1:free",
+    "source": "Mental Floss",
+    "link": "https://www.mentalfloss.com/entertainment/movies/whimsical-movies-watch-after-practical-magic-2?utm_source=RSS",
+    "tags": [
+      "update",
+      "lifestyle",
+      "music-arts",
+      "case-study"
+    ],
+    "tags_zh": [
+      "动态",
+      "生活方式",
+      "音乐艺术",
+      "案例研究"
+    ],
+    "date": "2026-09-11",
+    "summary_en": "This curated list of whimsical fantasy films serves as an enchanting bridge for viewers who have completed 'Practical Magic 2', offering a carefully selected journey through cinema's most magical moments. Each recommendation—from vintage classics like 'Bell, Book and Candle' to modern masterpieces like 'Howl's Moving Castle'—provides escapist entertainment that balances eerie witchcraft with heartwarming romance, nostalgic design, and feminist undertones. The selection spans decades and genres, yet maintains a consistent thread of feminine agency, supernatural wonder, and cinematic beauty that mirrors the Practical Magic franchise's signature blend of mysticism and sisterhood. These films don't merely replicate the source material; they expand its universe, offering viewers multiple portals into worlds where magic solves problems, fashion matters, and women wield power. Beyond entertainment, this collection functions as a cultural artifact representing how witchcraft narratives evolve while maintaining core emotional resonance across generations.",
+    "summary_zh": "这部精心策划的奇幻电影清单为《实用魔法2》后的观众提供了电影奇幻世界的魔惹之旅。从《面包书》到《猎人人形城》，每部作品都在诡异的巫术与温暖的浪漫之间取得完美平衡，传递着女性力量与时光的馈赠。值得关注的是，这些影片不仅延续了原作的魔法氛围，更以时尚、女性觉醒和心灵加油站的姿态重构了女巫题材。它们像活的图书馆，让观众在不同年代的奇迹电影间穿梭，用魔法治愈疲惫的灵魂。",
+    "best_quote_en": "These movies dive into magic, mayhem, and far-off lands, but also offer sprinkles of comfort, fashion, romance, humor, and many more of the aspects that have made the Practical Magic movies so beloved.",
+    "best_quote_zh": "这些电影涉及魔法、狂乱与远方的大陆，同时也带来舒适的零星碎屑、时尚、浪漫、幽默以及许多使《实用魔法》电影深受喜爱的方面。"
   }
 ]
