@@ -1,124 +1,5 @@
 [
   {
-    "id": 367,
-    "title": "The Tim Ferriss Show Transcripts: Relationship Tools That Work — Esther Perel, Brené Brown, Dr. Sue Johnson, Terry Real, and More on Conflict, Repair, and Lasting Love (#880)",
-    "title_zh": "Tim Ferriss Show 讲稿：有效的关系工具 —— Esther Perel、Brené Brown、Dr. Sue Johnson、Terry Real 等讨论冲突、修复与持久爱情(#880)",
-    "model_used": "poolside/laguna-xs-2.1:free",
-    "source": "Tim Ferriss",
-    "link": "https://tim.blog/2026/08/20/relationship-tools-transcript/",
-    "tags": [
-      "learn",
-      "writing-content",
-      "case-study"
-    ],
-    "tags_zh": [
-      "学习",
-      "写作内容",
-      "案例研究"
-    ],
-    "date": "2026-08-21",
-    "summary_en": "This transcript from The Tim Ferriss Show features a deep dive into relationship longevity with renowned experts Esther Perel, Brené Brown, Dr. Sue Johnson, and Terry Real. The central question—'How do you stay close to your partner over time through inevitable exhaustion, misunderstanding, conflict, disappointment, and change?'—unlocks profound insights into intimate relationships. Perel emphasizes daily appreciation rituals and the power of letter writing as vehicles for intimacy. Brown challenges the myth of 50/50 partnership balance, advocating for an 80/20 model that honors individual polarity and emotional authenticity. Johnson's dialectical approach reveals how couples can navigate contradictory needs while maintaining connection. Collectively, these experts illuminate that sustainable relationships require intentional communication, emotional vulnerability, and the ability to transform conflict into repair. The content offers actionable frameworks for listeners seeking to deepen their intimate connections, moving beyond surface-level fixes to address the fundamental human need for belonging and being truly seen. This represents cutting-edge relationship science translated into practical wisdom.",
-    "summary_zh": "这份Tim Ferriss Show讲稿聚焦时间如何让亲密关系维持温度，访谠了Perel、Brown、Johnson等关系学大师。内容揭示：每日欣赏、80/20平衡理念、情感真实的沟通艺术。专家们共同指出，可持续亲密关系的秘密在于将冲突转化为修复，在日常琐事中保持深情。这是一份将前沿关系科学转化为可操作智慧的珍贵资源，直击人类渴望被看见与归属的根本需求。",
-    "best_quote_en": "Behind every criticism, there's often a wish. If you believe that your partner has done something wrong... instead of acting them to correct it, you basically tell them they can never do it well, that they're doing this on purpose – just ask them to do it better next time.",
-    "best_quote_zh": "每一次批评背后都藏着一种愿望。如果你相信伴侣做错了什么……与其指责，不如问：\"下次你能怎么做得更好？\"这简单的话语没有贬低，没有轻视，而是温柔的邀请。"
-  },
-  {
-    "id": 368,
-    "title": "AI Agent 安全正在出现一个新的词：Authority",
-    "title_zh": "AI Agent 安全正在出现的一个新词：Authority",
-    "model_used": "poolside/laguna-xs-2.1:free",
-    "source": "虎嗅",
-    "link": "https://www.huxiu.com/article/4885226.html?f=rss",
-    "tags": [
-      "analyze",
-      "ai-research",
-      "cybersecurity"
-    ],
-    "tags_zh": [
-      "分析",
-      "AI研究",
-      "网络安全"
-    ],
-    "date": "2026-08-23",
-    "summary_en": "This article explores the emerging concept of 'Authority' in AI agent security, distinguishing it from traditional identity and authorization models. While conventional security focuses on who can access what, Authority addresses whether a specific action should actually occur. The piece traces how AI agents, capable of autonomous execution across systems, expose a gap in traditional security architectures where legitimate identity and permissions don't guarantee appropriate actions. Drawing on examples from Nuggets' Authority Control Plane and other industry initiatives, the analysis reveals a fundamental shift from controlling access to governing actual execution. The core insight is that as AI agents bridge the gap between permissions and real-world outcomes, security must evolve to answer not just 'who can do what' but 'who should let this happen now.' This represents a paradigm change from trusting individuals to trusting structured governance mechanisms.",
-    "summary_zh": "从传统身份到授权，安全一直围绕访问边界展开。如今AI Agent正推动控制从'谁能进入'向'谁能执行'转移。当合法身份、正确权限还能产生错误动作时，安全治理必须从'信任可靠的人'转向'信任可靠的结构'。Authority概念让我们第一次清晰看到：权限的终点不该是'可以做什么'，而是'这一次事情究竟能不能发生'。这标志着AI Agent安全的新范式。",
-    "best_quote_en": "The most important change isn't that the permission model itself is being overturned, but that the distance between permissions and actual reality is shrinking. The legitimate subject can produce illegitimate execution. Security control points are moving from Access toward Action.",
-    "best_quote_zh": "权限的终点，从来不应该只是'可以做什么'，而应该一直延伸到'这一次，事情究竟能不能发生'。"
-  },
-  {
-    "id": 369,
-    "title": "‘Huge Breakthrough’ in the Math of Imbalance",
-    "title_zh": "“惊人突破”：不平衡数学的突破",
-    "model_used": "poolside/laguna-xs-2.1:free",
-    "source": "Quanta Magazine",
-    "link": "https://www.quantamagazine.org/huge-breakthrough-in-the-math-of-imbalance-20260821/",
-    "tags": [
-      "solve",
-      "ai-research",
-      "science",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "解决",
-      "AI研究",
-      "科学研究",
-      "未来预测"
-    ],
-    "date": "2026-08-21",
-    "summary_en": "This article reports a monumental advance in combinatorial discrepancy theory, where computer scientists Nikhil Bansal and Haotian Jiang have achieved the first major progress on the Komlós conjecture in three decades. The conjecture proposed that discrepancy—the measure of imbalance when dividing objects into groups—remains bounded by a universal constant regardless of problem dimension. Their breakthrough algorithm reduces the upper bound to log(N)^0.25, which is nearly constant even for astronomically large inputs. This elegant solution demonstrates how complex systems can be made tractable, with potential applications in optimization, machine learning, and operations research. The discovery validates Komlós's initially dismissed hypothesis and opens new pathways for tackling fundamental mathematical problems through algorithmic innovation.",
-    "summary_zh": "这篇文章讲述了计算机科学家Nikhil Bansal和Haotian Jiang在组合不平衡理论领域的突破性进展。他们首次以30年时间推进了Komlós猜想，这个关于对象分组不平衡程度是否存在普适常数的假设。他们的算法将上限降低到log(N)^0.25，在实际应用中几乎是常数。这个发现不仅验证了Komlós的假设，还为优化理论、机器学习等领域提供了新的方法。这种从复杂到简单的转化，体现了数学探索的深刻美感。",
-    "best_quote_en": "This is really astonishing. The Komlós conjecture says it has nothing to do with the dimension of the problem. It's a universal constant.",
-    "best_quote_zh": "这真的很难以置信。Komlós猜想说这与问题的维度毫无关系。它是一个普适常数。"
-  },
-  {
-    "id": 370,
-    "title": "The fog of hunger",
-    "title_zh": "饥饿的雾",
-    "model_used": "poolside/laguna-xs-2.1:free",
-    "source": "Aeon",
-    "link": "https://aeon.co/essays/a-hungry-woman-is-easier-to-dismiss-than-a-well-fed-woman",
-    "tags": [
-      "analyze",
-      "education",
-      "medicine",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "分析",
-      "教育学习",
-      "医学健康",
-      "数据驱动"
-    ],
-    "date": "2026-08-21",
-    "summary_en": "This powerful essay explores how chronic hunger—both literal and metaphorical—has historically functioned as a cognitive tax on women, systematically undermining their intellectual capacity and social agency. Through personal narrative and scientific research, the author reveals how early dietary restraint creates lasting cognitive deficits that persist across decades, affecting women's ability to think clearly, speak confidently, and be taken seriously in professional and personal spheres. The piece connects individual experiences of hunger to broader cultural patterns of gendered scrutiny, from childhood 'figure' compliments to political appearance coverage, demonstrating how women's bodies are policed and their cognitive labor undervalued. Drawing on physiological studies of semi-starvation and contemporary research on dietary restraint's cognitive effects, the author argues that this invisible burden has shaped half the population's intellectual development. The essay concludes with a clinical observation: when women stop managing hunger signals, their cognitive presence and authority naturally return, suggesting that nourishment itself is a form of liberation rather than merely a personal choice.",
-    "summary_zh": "这篇随笔深刻揭示了饥饿如何系统性地对女性认知能力构成隐形负担。作者通过个人经历和科学研究，阐明早期饮食约束导致的认知损耗跨越数十年影响女性的思考、发声与社会认可。从童年的‘体型'夸奖到政治人物的外貌审视，这种文化性身体监控塑造了女性思维的‘负空间'。当女性停止压抑饥饿信号，认知力量与权威便自然回归。这不仅是个人治愈，更是解放学术权威的临床观察。",
-    "best_quote_en": "A well-fed woman is harder to dismiss. Harder to exhaust. Harder to convince that her own thinking is not worth following to its end.",
-    "best_quote_zh": "一个喂饱的女人更难被忽视。更难被耗尽。更难说服人们相信她的思考值得跟随到终点。"
-  },
-  {
-    "id": 371,
-    "title": "The Most Popular Movie the Year You Graduated High School",
-    "title_zh": "你毕业那年最受欢迎的电影",
-    "model_used": "poolside/laguna-xs-2.1:free",
-    "source": "Mental Floss",
-    "link": "https://www.mentalfloss.com/entertainment/movies/-most-popular-movie-year-graduated-high-school?utm_source=RSS",
-    "tags": [
-      "analyze",
-      "general",
-      "case-study"
-    ],
-    "tags_zh": [
-      "分析",
-      "general",
-      "案例研究"
-    ],
-    "date": "2026-08-22",
-    "summary_en": "This article presents a fascinating cultural time capsule, mapping the top-grossing film of each graduation year from 1975-2025. Beyond mere nostalgia, it reveals profound shifts in entertainment consumption: from VHS tapes to streaming services, from communal theater experiences to individual home viewing. The piece masterfully connects technological evolution with cultural zeitgeist—Jaws birthed the modern blockbuster era, while recent entries like Spider-Man: No Way Home demonstrate how franchises now dominate annual box office narratives. What makes this compelling is its implicit commentary on generational identity formation through shared media experiences. Each top film becomes a collective memory anchor, shaping how entire cohorts define their formative years. The chronological progression illuminates changing audience preferences, marketing strategies, and the democratization of cinema access. From cult classics like E.T. to interconnected cinematic universes, these films represent more than entertainment—they're cultural artifacts documenting 50 years of social consciousness, technological advancement, and evolving storytelling artistry. The author skillfully weaves technological context with emotional resonance, making this a compelling exploration of film's role in collective memory construction.",
-    "summary_zh": "这部文章以文化时间胶囊之名，梳理了1975-2025年每届毕业生对应的票房冠军影片，揭示了娱乐消费方式的深刻演变。从VHS到流媒体，从集体观影到个人家庭Viewing，这不仅是怀旧，更是对科技进步与文化精神同步成长的隐性记录。Jaws开启了现代大片时代，而近年蜘蛛侠等漫画电影则代表了跨媒体娱乐的崛起。每个冠军影片都成为某一代人的集体记忆锚点，塑造了他们对形成年期文化的定义。",
-    "best_quote_en": "Film has certainly evolved over the past 50 years. The special effects that captivated audiences in 1975's Jaws are a far cry from those in 2022's Top Gun: Maverick. Today, video and projection are digital, and computer-generated imagery (CGI) dominates the screen. Yet, these advancements don't make earlier films any less special; if anything, they make them more classic.",
-    "best_quote_zh": "电影 certainly inested over the past 50 years. 1975年Jaws让观众惊叹的特效，与2022年的头脑风暴：Maverick形成鲜明对比。如今，视频和投影已数字化，计算机生成影像（CGI）主导屏幕。然而，这些进步并不让更早的影片变得不那么精彩；反而让它们显得更加经典。"
-  },
-  {
     "id": 372,
     "title": "Sean Duffy in the Real World",
     "title_zh": "Sean Duffy in the Real World",
@@ -2344,5 +2225,124 @@
     "summary_zh": "这部精心策划的奇幻电影清单为《实用魔法2》后的观众提供了电影奇幻世界的魔惹之旅。从《面包书》到《猎人人形城》，每部作品都在诡异的巫术与温暖的浪漫之间取得完美平衡，传递着女性力量与时光的馈赠。值得关注的是，这些影片不仅延续了原作的魔法氛围，更以时尚、女性觉醒和心灵加油站的姿态重构了女巫题材。它们像活的图书馆，让观众在不同年代的奇迹电影间穿梭，用魔法治愈疲惫的灵魂。",
     "best_quote_en": "These movies dive into magic, mayhem, and far-off lands, but also offer sprinkles of comfort, fashion, romance, humor, and many more of the aspects that have made the Practical Magic movies so beloved.",
     "best_quote_zh": "这些电影涉及魔法、狂乱与远方的大陆，同时也带来舒适的零星碎屑、时尚、浪漫、幽默以及许多使《实用魔法》电影深受喜爱的方面。"
+  },
+  {
+    "id": 467,
+    "title": "Colin Kaepernick Misses the Game",
+    "title_zh": "科林·卡佩尼克缺席了比赛",
+    "model_used": "inclusionai/ling-3.0-flash-sante:free",
+    "source": "The New Yorker",
+    "link": "https://www.newyorker.com/culture/the-new-yorker-interview/colin-kaepernick-misses-the-game",
+    "tags": [
+      "learn",
+      "society",
+      "education",
+      "case-study"
+    ],
+    "tags_zh": [
+      "学习",
+      "社会议题",
+      "教育学习",
+      "案例研究"
+    ],
+    "date": "2026-09-11",
+    "summary_en": "This New Yorker interview with Colin Kaepernick transcends sports journalism, probing the intersection of athletic excellence, racial identity, and political courage. Kaepernick reveals the NFL combine as a ritual of humiliation echoing slave auctions—players stripped and interrogated about sexuality and family, designed to test obedience rather than ability. His systemic analysis of policing, rooted in personal experience and intellectual engagement with Malcolm X, Baldwin, and Fanon, elevates the conversation beyond anecdote. The most poignant revelation is his relationship with football itself: he misses the brotherhood and competition despite the physical destruction and political exile. Kaepernick articulates a profound tension—the game that gave him community as a Black adoptee in white suburbia also became the institution that punished him for demanding justice. His reflection on athletes 'dying twice' reframes his exclusion not as retirement but as enforced erasure. The interview ultimately asks whether American institutions can accommodate Black excellence that refuses subservience.",
+    "summary_zh": "这篇访谈远不止体育报道，它揭示了NFL体制如何将黑人运动员物化为待审商品。凯佩尼克对球探 Combine 的描述令人不寒而栗——球员被剥光衣服接受关于性取向和家庭的侮辱性提问，这分明是奴隶拍卖的当代变体。他将个人经历与 Malcolm X、Baldwin 的思想传统相连，展现出罕见的系统性思维。最动人的是他对橄榄球矛盾的深情：那项运动既给了他作为被收养黑人的归属感，又因他的抗争而将他驱逐。他拒绝将离开视为退役，而是被强行抹除的创伤。这是一次关于美国体制能否容纳不屈服的黑人卓越的深刻拷问。",
+    "best_quote_en": "I had football taken away from me. I didn't get to leave on my terms, and I didn't get to leave because, 'Oh, you're not good enough to play anymore.' It was because of the causes I was supporting, and the change I was trying to effect.",
+    "best_quote_zh": "橄榄球被从我手中夺走。我不是出于自己的选择离开，也不是因为‘你不够好了’。而是因为我支持的事业和我试图推动的改变。"
+  },
+  {
+    "id": 468,
+    "title": "Multi-charger Plugs/Crash With Couchers/Changing Travel Demands",
+    "title_zh": "多功能充电器、Couchsurfing回归与旅行需求变化",
+    "model_used": "dots-studio/dots-3-note-preview:free",
+    "source": "Kevin Kelly",
+    "link": "https://kk.org/cooltools/multi-charger-plugs-crash-with-couchers-changing-travel-demands/",
+    "tags": [
+      "update",
+      "science",
+      "writing-content",
+      "beginner-friendly"
+    ],
+    "tags_zh": [
+      "动态",
+      "科学研究",
+      "写作内容",
+      "新手友好"
+    ],
+    "date": "2026-09-10",
+    "summary_en": "This newsletter offers a pragmatic, on-the-ground perspective on nomadic living, blending practical gear advice with cultural observations. The author critiques the commercialization of Couchsurfing and highlights its non-profit successor, Couchers, as a return to community-driven hospitality. He challenges the credibility of AI-generated 'best places to live' rankings, advocating for firsthand experience over data-driven PR narratives. Drawing on TripAdvisor data, he identifies a shift toward authentic, local experiences—cooking, surfing, crafting—over passive sightseeing. The tone is conversational yet incisive, grounded in years of travel experience, and skeptical of institutionalized travel trends. It’s a masterclass in discerning signal from noise in the digital age of travel.",
+    "summary_zh": "这篇通讯以务实、亲历的视角审视游牧生活，将实用装备建议与文化观察融为一体。作者批判Couchsurfing的商业化，指出其非营利继承者Couchers正回归社区互助的本质。他质疑AI生成的“最佳居住地”排名，强调亲身实践远胜于数据包装的公关叙事。基于TripAdvisor数据，他揭示旅行趋势正从走马观花转向深度本地体验——烹饪、冲浪、手工艺。全文语气平实却犀利，植根于多年旅行经验，对数字化时代的旅行潮流保持清醒批判，是信息洪流中辨别真伪的范本。",
+    "best_quote_en": "The only real way to find out if a place is perfect for you or a 'Get me out of here' nightmare is to go there and spend some real time on location.",
+    "best_quote_zh": "判断一个地方是否适合你，还是让你想立刻逃离的噩梦，唯一真实的方法就是亲自去那里，真正地住上一段时间。"
+  },
+  {
+    "id": 469,
+    "title": "US Digital Currency",
+    "title_zh": "美国数字货币",
+    "model_used": "poolside/laguna-xs-2.1:free",
+    "source": "Sam Altman",
+    "link": "https://blog.samaltman.com/us-digital-currency",
+    "tags": [
+      "solve",
+      "ai-research",
+      "economics",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "解决",
+      "AI研究",
+      "经济金融",
+      "未来预测"
+    ],
+    "date": "2018-05-10",
+    "summary_en": "This provocative piece explores the transformative potential of a US Digital Currency (USDC) that could fundamentally reshape the global financial landscape. The author argues that while cryptocurrency appears here to stay as a store of value, the dominant form may still emerge from government innovation rather than decentralized communities. The proposal envisions USDC as a dual-currency system with built-in tax compliance and regulated anonymity, potentially giving the United States unprecedented monetary sovereignty. The most fascinating insight is the suggestion that initial distribution could create 'de novo wealth' for citizens through a social security-based allocation system. However, the analysis raises profound questions about the delicate balance between government oversight and network autonomy—suggesting that sustainable crypto governance requires a middle ground where both state interests and user freedoms can coexist. The piece positions this as a strategic power play, arguing that the first superpower to successfully implement such a system will wield global financial influence for decades to come.",
+    "summary_zh": "这篇思辨性文章探讨了美国数字货币(USDC)可能彻底重塑全球金融格局的变革性潜力。作者指出，尽管加密货币作为价值储存手段将永存，但主导形态可能源自政府创新而非去中心化社区。提出的USDC作为双币制系统，内置税收合规和受监管的匿名性，或许能赋予美国前所未有的货币主权。最引人深思的是，社会安全号分配系统可能为公民创造'从头开始的财富'。文章更深刻地揭示了政府监管与网络自治之间微妙平衡的挑战——可持续的加密治理需要一种兼顾国家利益和用户自由的中间道路。",
+    "best_quote_en": "The first superpower government to do something like this will have an enviable position in the future of the world, and some power over a worldwide currency.",
+    "best_quote_zh": "第一个尝试这类举措的超级大国政府将在世界未来占据优越位置，并对一种全球货币拥有某种权力。"
+  },
+  {
+    "id": 470,
+    "title": "The U.S. Was Never Going to Win the “War on Terror”",
+    "title_zh": "美国从未打赢‘反恐战争’",
+    "model_used": "poolside/laguna-xs-2.1:free",
+    "source": "The New Yorker",
+    "link": "https://www.newyorker.com/news/the-lede/the-us-was-never-going-to-win-the-war-on-terror",
+    "tags": [
+      "solve",
+      "politics",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "解决",
+      "政治时事",
+      "未来预测"
+    ],
+    "date": "2026-09-11",
+    "summary_en": "This comprehensive analysis examines the fundamental impossibility of the U.S. 'War on Terror' as a military-conceptual framework. Robin Wright's 2026 retrospective reveals that the 25-year campaign has cost nearly a million lives and trillions of dollars while failing to address the root ideological causes of extremism. The article demonstrates how abstract targets like 'terrorism' prove unwinnable compared to specific organizations like Al Qaeda. Through detailed case studies of Afghanistan, Iraq, and Syria, Wright illustrates how flawed nation-building strategies, corruption, and cultural misunderstanding undermined military successes. The piece traces the evolution from centralized terrorist groups to decentralized, digitally-enabled networks that adapt and fragment. Most critically, it argues that while the U.S. prevented domestic attacks, it lost the 'battle of ideas' against extremist narratives. The analysis extends to contemporary threats including domestic terrorism, state-sponsored terrorism by Russia, and the redefinition of terrorism to include organized crime under Trump-era policies. The author concludes that the underlying anti-Western ideological drivers that birthed Al Qaeda remain unaddressed, suggesting that military force alone cannot resolve ideological conflicts.",
+    "summary_zh": "这篇2026年的深度分析揭示了美国'反恐战争'作为军事概念框架的根本不可能性。25年战争造成近百万生命损失和平凡支出，却未能触及恐怖主义的根本意识形态原因。通过阿富汗、伊拉克和叙利亚的案例研究，文章展示了民族建设策略、腐败和文化误解如何破坏军事成功。作者追踪了从集中恐怖组织到去中心化、数字化网络的演变，指出美国虽防止了国内恐怖袭击，却在思想对抗中失败。文章延伸到俄罗斯的国家恐怖主义支持、特朗普时期将恐怖主义重新定义为包括有组织犯罪等当代威胁，指出西方意识形态驱动的根本原因至今未被解决。",
+    "best_quote_en": "We basically set ourselves up to fail by making the standard so impossible to achieve... It also led to a never-ending war, because, when can you actually defeat 'terrorism'? A war against al-Qaeda would have made a lot more sense, but in the US, we love to wage war on abstract concepts like drugs, poverty, and crime.",
+    "best_quote_zh": "我们基本上是在设定自己失败的标准...这还导致了永无止境的战争，因为，当我们真正能 defeated‘恐怖主义’时呢？对阿拉伯阿拉伯网络的战争会更合理，但在美国，我们喜欢对像毒品、贫困和犯罪这样抽象概念进行战争。"
+  },
+  {
+    "id": 471,
+    "title": "What’s in my NOW? — Dana Lee",
+    "title_zh": "我现在的“NOW”里有什么？——Dana Lee",
+    "model_used": "inclusionai/ling-3.0-flash-fin:free",
+    "source": "Kevin Kelly",
+    "link": "https://kk.org/cooltools/whats-in-my-now-dana-lee/",
+    "tags": [
+      "inspire",
+      "lifestyle"
+    ],
+    "tags_zh": [
+      "启发",
+      "生活方式"
+    ],
+    "date": "2026-09-09",
+    "summary_en": "Dana Lee shares what's currently in her life: an ultrasonic cleaner for dental care, a bug bite suction tool, a local CSA farm share, Wordle with her husband, and the retro website Perfectly Imperfect. She also reflects on Rilke's poetry and her interest in AI safety and Eastern philosophy.",
+    "summary_zh": "Dana Lee分享了她生活中正在使用的事物：用于牙齿护理的超声波清洁器、被蚊虫叮咬后使用的吸唾工具、本地CSA农场订阅、和丈夫一起玩Wordle，以及复古网站Perfectly Imperfect。她还引用了里尔克的诗歌，并谈到自己对AI安全与东方哲学的兴趣。",
+    "best_quote_en": "Even the small trees you planted as children have long since become too heavy; you could not carry them now.",
+    "best_quote_zh": "你小时候种下的小树早已长得太重，如今你已无法背负。"
   }
 ]
