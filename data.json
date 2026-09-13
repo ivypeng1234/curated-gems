@@ -1,126 +1,5 @@
 [
   {
-    "id": 372,
-    "title": "Sean Duffy in the Real World",
-    "title_zh": "Sean Duffy in the Real World",
-    "model_used": "nvidia/nemotron-nano-12b-v2-vl:free",
-    "source": "The New Yorker",
-    "link": "https://www.newyorker.com/news/the-lede/sean-duffy-in-the-real-world",
-    "tags": [
-      "analyze",
-      "science",
-      "politics",
-      "case-study"
-    ],
-    "tags_zh": [
-      "分析",
-      "科学研究",
-      "政治时事",
-      "案例研究"
-    ],
-    "date": "2026-08-23",
-    "summary_en": "Sean Duffy, former 'Real World' star and current Transportation Secretary under Trump, launches a YouTube travel show blending reality TV tropes with patriotic messaging. The analysis reveals a clash between its wholesome family image and political controversies, including ethical concerns about corporate sponsorships and partisan framing. The show's identity crisis—oscillating between travelogue and political propaganda—undermines its appeal, with uneven execution failing to resonate beyond niche audiences. Its cultural significance lies in reflecting reality TV's enduring influence on modern politics and media consumption.",
-    "summary_zh": "《塞恩·杜菲在真实世界中的生活》试图将真人秀与爱国主义结合，但因政治争议和身份矛盾受挫。这部由交通部长杜菲推出的YouTube系列剧，试图通过家庭公路旅行展示美国风貌，却因企业赞助伦理问题和党派化叙事受批评。其摇摆不定的定位——既想做旅游纪录片又想传递政治信息——最终未能吸引主流观众，反映了现实电视对当代政治文化的持续影响。",
-    "best_quote_en": "Duffy’s show—‘you can take the star out of reality, but not reality out of the star’—captures the paradox of his political identity, where performative Americana clashes with the genre’s inherent authenticity.",
-    "best_quote_zh": "《你可以把明星从真实世界中带走，但真实世界的本质也会带着你走》——这句话凸显了杜菲政治身份的悖论，表演性的美国精神与现实电视本真的冲突。"
-  },
-  {
-    "id": 373,
-    "title": "Beeswax / Chompy ice on demand / Price history alert",
-    "title_zh": "Recomendo: 蜂蜜 / Chompy冰 / 价格历史警报",
-    "model_used": "poolside/laguna-xs-2.1:free",
-    "source": "Kevin Kelly",
-    "link": "https://kk.org/cooltools/beeswax-chompy-ice-on-demand-price-history-alert/",
-    "tags": [
-      "learn",
-      "ai-research",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "学习",
-      "AI研究",
-      "未来预测"
-    ],
-    "date": "2026-08-23",
-    "summary_en": "This content presents a fascinating collection of six diverse recommendations spanning daily habits, smart home solutions, consumer technology, intellectual pursuits, digital culture, and product skepticism. Each recommendation offers genuine practical value: the two-minute spelling bee creates engaging daily competition, the Pearl L1 Max ice maker solves a real household pain point, Amazon's price history feature provides actionable consumer intelligence, the Encyclopedia of Concise Concepts by Women Philosophers democratizes philosophical knowledge, the phone entertainment concept challenges our understanding of media, and KYD's gadget unboxing videos offer crucial consumer protection. The underlying theme is discovery—finding efficient solutions, uncovering hidden value, and navigating the modern information landscape. What makes this particularly valuable is the author's personal engagement with each recommendation, sharing real experiences rather than abstract suggestions. This reflects a broader cultural moment where individuals seek curated, tested wisdom from trusted sources to navigate overwhelming choice and information overload.",
-    "summary_zh": "这份内容聚合了六类截然不同的推荐，从日常习惯到智能家居，从消费科技到知识探索。作者亲历亲诉，每项推荐都解决真实痛点：2分钟拼字游戏创造日常竞技，Pearl L1 Max冰机解决冰箱缺失问题，Amazon价格历史功能提供消费智慧，女性哲学家概念百科 democratize哲学知识，手机娱乐概念挑战媒体认知，KYD科技 Unpacking视频提供消费保护。核心是发现——在信息过载时代寻找高效方案、揭示隐藏价值、导航现代知识天堂。作者亲身体验，分享真实经历，而非抽象建议。",
-    "best_quote_en": "Amazon gives you the option to set up a price alert to get notified when it drops to your target price. If you are sure you want it at that price and are willing to wait, you can also set it to automatically purchase it at that price so you don't miss it.",
-    "best_quote_zh": "亚马逊提供价格警报功能，您可以设置目标价格，当价格下降到目标价时 receive通知。如果您确实想在该价格购买且愿意等待，还可以设置自动购买，以免错过。"
-  },
-  {
-    "id": 374,
-    "title": "Funding for COVID-19 Projects",
-    "title_zh": "为新冠项目融资",
-    "model_used": "poolside/laguna-xs-2.1:free",
-    "source": "Sam Altman",
-    "link": "https://blog.samaltman.com/funding-for-covid-19-projects",
-    "tags": [
-      "solve",
-      "ai-research",
-      "science",
-      "controversial"
-    ],
-    "tags_zh": [
-      "解决",
-      "AI研究",
-      "科学研究",
-      "争议观点"
-    ],
-    "date": "2020-03-15",
-    "summary_en": "This content reveals a unique intersection of entrepreneurial initiative and pandemic response, where an individual leverages their funding expertise to catalyze COVID-19 solutions. The author identifies four critical innovation gaps: rapid production scaling for medical equipment, drug repurposing for treatment, novel vaccine approaches beyond traditional pharmaceutical pipelines, and untapped therapeutic research. What distinguishes this initiative is its problem-solving pragmatism—it recognizes engineering challenges as more tractable than scientific breakthroughs, emphasizing rapid deployment over theoretical perfection. The public spreadsheet experiment suggests early-stage community-building around crisis innovation, while the specific request for viral challenge capabilities demonstrates sophisticated understanding of biotech research infrastructure. This represents grassroots entrepreneurship meeting urgent global need, illustrating how individual expertise can be redirected toward collective survival.",
-    "summary_zh": "这篇内容展现了创业智慧与疫情响应的独特结合，作者凭借融资经验启动了抗疫创新计划。他精准锁定了四个关键空白：医疗设备快速产能扩张、药物联用治疗、超越传统制药的新 vaccine 思路，以及药企难以研发的新型疗法。其问题解决导向的务实方法值得关注——将工程挑战视为可攻克的重点，而非科学难题。这种以个人专业力量服务全球生存的Grassroots 创业模式，正是危机下知识分子最可贵的生命力。",
-    "best_quote_en": "I'm trying to fund startups/projects helping with COVID-19, because it's basically the one thing I know how to do that can help.",
-    "best_quote_zh": "我正在尝试为帮助新冠项目融资，因为这是我唯一知道如何做的、能够帮忙的事情。"
-  },
-  {
-    "id": 375,
-    "title": "Why People Want to Believe the Lindsay Clancy Conspiracy Theories",
-    "title_zh": "为什么人们愿意相信林赛·克兰西阴谋论",
-    "model_used": "cohere/north-mini-code:free",
-    "source": "The New Yorker",
-    "link": "https://www.newyorker.com/news/the-lede/why-people-want-to-believe-the-lindsay-clancy-conspiracy-theories",
-    "tags": [
-      "analyze",
-      "legal",
-      "medicine",
-      "controversial"
-    ],
-    "tags_zh": [
-      "分析",
-      "法律法规",
-      "医学健康",
-      "争议观点"
-    ],
-    "date": "2026-08-22",
-    "summary_en": "The article dissects the surge of conspiracy theories surrounding Lindsay Clancy’s tragic case, probing why a grieving public clings to alternate narratives despite overwhelming evidence. Winter reveals how systemic failures—medical misdiagnosis, gender bias, and institutional opacity—fuel distrust, creating fertile ground for speculation. By weaving courtroom details, forensic ambiguities, and social‑media dynamics, she illustrates a broader cultural malaise: the erosion of trust in legal and medical authorities, amplified by the “true‑crime brain” epidemic. The piece balances empathy for Clancy’s mental‑health struggles with a critical examination of how sensationalism and algorithmic amplification distort public discourse. Winter’s nuanced reporting invites readers to reflect on the societal costs of credulity and the urgent need for systemic reform that listens to women’s voices, especially in crises of postpartum psychosis. The narrative is both a cautionary tale and a call to reclaim rational, compassionate dialogue.",
-    "summary_zh": "本文深入剖析了公众为何热衷于林赛·克兰西案的阴谋论，揭示了医疗误诊、性别偏见和制度不透明如何加剧信任危机。作者通过法庭细节、社交媒体动态和心理困境，展现了“真罪案文化”如何在信息真空和算法推动下发酵。这既是悲剧的个人故事，也是对医疗体系漠视女性心理健康的反思。文章既同情患者困境，又批判性地审视了耸人听闻和信息茧房对理性讨论的侵蚀，呼唤更具同理心和负责任的公共对话。",
-    "best_quote_en": "The American public distrusts its legal institutions and media outlets, creating a vacuum in which wild conjecture can bloom.",
-    "best_quote_zh": "美国公众对法律机构和媒体的不信任，营造了一个狂热猜测可以滋生的真空。"
-  },
-  {
-    "id": 376,
-    "title": "Book Freak #223: Scarcity Brain",
-    "title_zh": "书籍疯狂 #223：稀缺大脑",
-    "model_used": "poolside/laguna-xs-2.1:free",
-    "source": "Kevin Kelly",
-    "link": "https://kk.org/cooltools/book-freak-223-scarcity-brain/",
-    "tags": [
-      "learn",
-      "psychology",
-      "design"
-    ],
-    "tags_zh": [
-      "学习",
-      "心理学",
-      "设计创意"
-    ],
-    "date": "2026-08-21",
-    "summary_en": "This piece explores the fascinating psychological concept of 'scarcity brain' - how our evolutionary wiring continues to drive compulsive craving for more, despite living in an age of unprecedented abundance. Drawing on behavioral science, the author identifies a three-part 'scarcity loop' (opportunity, unpredictable rewards, quick repeatability) that explains addictive behaviors across domains from gambling to social media. The core insight is that our brains evolved in resource-scarce environments where 'more' was literally survival, yet we remain neurologically primed to perceive scarcity even when we have more than enough. This creates a fundamental mismatch manifesting in modern issues like obesity, shopping addiction, and doomscrolling. The solution isn't willpower but understanding - recognizing these patterns allows us to design our environments to break the cycle. The included practical exercises provide immediate tools for identifying scarcity loops, adding friction to compulsive behaviors, and practicing 'enough' awareness. This represents valuable self-knowledge for navigating our dopamine-saturated digital age.",
-    "summary_zh": "这篇文章揭示了‘稀缺大脑’的深刻心理机制——我们进化过程中激活的贪婪本能如何在物质丰富的现代社会中依然驱使我们不断渴求更多。作者通过行为科学识别出三环节的稀缺循环机制，解释了从赌博到社交媒体的各种成瘾行为。核心洞见在于，我们的大脑是在稀缺环境中进化的，对‘更多’具有本能性的生存驱动力，却始终难以摆脱稀缺的感知。这种进化与现代富足的根本性错位，导致肥胖、购物成瘾和沉溺于负面信息等问题。作者提出的解决方案不是靠意志力，而是通过认知转化——理解这些模式后，我们能够设计环境打破循环。文章附带的实践 exercises 立即可操作，为当代注意力经济时代的自我觉察提供了宝贵工具。",
-    "best_quote_en": "In the human brain, less equals bad, worse, unproductive, more equals good, better, productive. Our scarcity brain defaults to more and rarely considers less. And when we do consider less, we often think it sucks.",
-    "best_quote_zh": "在人类大脑中，少等于坏、更糟、低效，更多等于好、更好、高效。我们的稀缺大脑默认追求更多，几乎从不考虑少一些。当我们确实考虑少一些时，往往觉得很糟糕。"
-  },
-  {
     "id": 377,
     "title": "How to Improve Motivation & Overcome Procrastination | Dr. Masud Husain",
     "title_zh": "如何提升动力并克服拖延 | 马苏德·胡赛因博士",
@@ -2344,5 +2223,124 @@
     "summary_zh": "Dana Lee分享了她生活中正在使用的事物：用于牙齿护理的超声波清洁器、被蚊虫叮咬后使用的吸唾工具、本地CSA农场订阅、和丈夫一起玩Wordle，以及复古网站Perfectly Imperfect。她还引用了里尔克的诗歌，并谈到自己对AI安全与东方哲学的兴趣。",
     "best_quote_en": "Even the small trees you planted as children have long since become too heavy; you could not carry them now.",
     "best_quote_zh": "你小时候种下的小树早已长得太重，如今你已无法背负。"
+  },
+  {
+    "id": 472,
+    "title": "Essentials: Genes & the Inheritance of Memories Across Generations | Dr. Oded Rechavi",
+    "title_zh": "要点：基因与记忆的跨代遗传 | Oded Rechavi 博士",
+    "model_used": "dots-studio/dots-3-note-preview:free",
+    "source": "Huberman Lab",
+    "link": "https://www.hubermanlab.com/episode/essentials-genes-and-the-inheritance-of-memories-across-generations-oded-rechavi",
+    "tags": [
+      "analyze",
+      "general",
+      "deep-dive"
+    ],
+    "tags_zh": [
+      "分析",
+      "general",
+      "深度分析"
+    ],
+    "date": "2026-09-10",
+    "summary_en": "This Huberman Lab episode features Dr. Oded Rechavi, a geneticist at Tel Aviv University, exploring the fascinating intersection of genetics, epigenetics, and transgenerational inheritance. The conversation challenges the long-held belief that acquired traits cannot be inherited—contradicting Lamarckian ideas—by presenting compelling evidence from C. elegans research showing how small RNAs can transmit antiviral resistance and behavioral patterns across generations. The discussion delves into the Weismann Barrier, epigenetic reprogramming, and the role of RNA interference in gene silencing, offering a nuanced view of how environmental experiences might leave molecular footprints in germ cells. Of particular interest is the exploration of how neuronal activity and memory-related signals could potentially influence heritable RNA, blurring the line between somatic experience and genetic legacy. The episode also touches on future applications in reproductive health, IVF, and diagnostics, suggesting that our understanding of inheritance is far more dynamic than traditionally assumed. This is not just a review of textbook genetics—it’s a window into a paradigm shift in how we view memory, adaptation, and biological continuity.",
+    "summary_zh": "在这一集《Huberman Lab 要点》中，Oded Rechavi 博士带领我们深入基因、表观遗传与跨代遗传的前沿领域。他挑战了“获得性状不可遗传”的传统认知，通过线虫（C. elegans）研究揭示：小RNA可传递抗病毒能力与行为模式至后代，暗示环境经历可能通过分子机制影响生殖细胞。对话涵盖魏斯曼屏障、表观遗传重编程与RNA干扰，尤其引人注目的是神经活动与记忆信号或可转化为可遗传RNA，模糊了躯体经验与基因传承的边界。这不仅是对经典遗传学的刷新，更预示着生殖健康、试管婴儿与诊断技术的未来变革——我们对“遗传”的理解，正被重新书写。",
+    "best_quote_en": "Small RNAs can transmit antiviral resistance and influence behavior across generations—suggesting that the environment can leave molecular imprints in the germline, not just in somatic cells.",
+    "best_quote_zh": "小RNA可以跨代传递抗病毒能力并影响行为——这意味着环境不仅能在体细胞留下分子印记，更可能在生殖系中刻下遗传痕迹。"
+  },
+  {
+    "id": 473,
+    "title": "Weekly Review",
+    "title_zh": "每周评论",
+    "model_used": "nex-agi/nex-n2.5-pro:free",
+    "source": "Harper’s Magazine",
+    "link": "https://harpers.org/2026/09/weekly-review-sieg-heil-siegmund-ceuta-protests-wedding-strike-small-potatoes-fbi-applications-prostitutes-uss-abraham-lincoln-ice-agent-indictment-lying-amazon-lawsuit-cyborg-cockroach-diplo-burning/",
+    "tags": [
+      "analyze",
+      "politics",
+      "controversial"
+    ],
+    "tags_zh": [
+      "分析",
+      "政治时事",
+      "争议观点"
+    ],
+    "date": "2026-09-09",
+    "summary_en": "This densely curated weekly review exposes a striking pattern: institutions under pressure often become less truthful, less accountable, or both. Far-right normalization in Germany and Spain, escalation around Iran and Ukraine, and intelligence infighting in Kyiv reveal how political and military systems can normalize extremes. The domestic items sharpen the same concern through fiscal, regulatory, and judicial failures: weakened oversight coincides with lost tax revenue, food-risk concerns, and limited legal claims to safety or official candor. Yet the selection is not merely dystopian inventory. Its darkly comic juxtapositions—cyborg insects, altered timekeeping, Burning Man mud, fur-suit disputes, and sewer divers—suggest that civic life now mixes genuine danger with institutional absurdity. The piece offers breadth rather than causal proof, and several allegations remain provisional. Still, its editorial intelligence lies in making readers ask how authority is maintained when facts, competence, and restraint appear negotiable. I found the result unsettling precisely because catastrophe and farce share the same paragraph.",
+    "summary_zh": "这组周评的锋利处，不只在于事件密集，而在于它把极右翼正常化、战争升级与日常治理失灵并置：当监督被削弱，真相、能力与克制似乎都可议价。国内监管、财政与司法条目说明，制度风险并非只发生在战场；科技奇观和荒诞趣闻则让危机时代更显超现实。文章并非因果论证，部分仍是指控或报道，但其编辑判断促使我们追问：当公共机构不断消耗可信度，社会还靠什么维持秩序？",
+    "best_quote_en": "“If someone tries to drag us down the food chain, to gobble us up, to devour us, they may end up getting punched in the teeth.”",
+    "best_quote_zh": "“如果有人试图把我们拖下食物链，把我们吞掉、吃掉，他们最后可能会挨上一记牙齿被打落的拳头。”"
+  },
+  {
+    "id": 474,
+    "title": "Mastodon responds after estate of “dear departed friend” Brent Hinds sue the band",
+    "title_zh": "Mastodon回应：已故成员Brent Hinds遗产管理方起诉乐队",
+    "model_used": "inclusionai/ling-3.0-flash-fin:free",
+    "source": "NME",
+    "link": "https://www.nme.com/news/music/mastodon-responds-after-estate-of-dear-departed-friend-brent-hinds-sue-the-band-3968353?utm_source=rss&utm_medium=rss&utm_campaign=mastodon-responds-after-estate-of-dear-departed-friend-brent-hinds-sue-the-band",
+    "tags": [
+      "update",
+      "music-arts",
+      "design",
+      "controversial"
+    ],
+    "tags_zh": [
+      "动态",
+      "音乐艺术",
+      "设计创意",
+      "争议观点"
+    ],
+    "date": "2026-09-13",
+    "summary_en": "This article covers the legal dispute between Mastodon and the estate of former guitarist Brent Hinds, who died in a motorcycle accident in August 2025. The estate alleges the band never fully compensated Hinds for his departure and continued using his likeness—including on the cover art of their new album 'Marrow Deep'—without permission. Mastodon has called the lawsuit 'meritless' and vowed to defend itself vigorously, while also requesting privacy to honor Hinds' memory. The case raises complex questions about intellectual property, posthumous likeness rights, and the contractual nuances of band member departures in the music industry. Beyond the legal drama, the piece underscores the emotional toll on the surviving members, who channeled their grief into the new album with contributions from Josh Homme and Geezer Butler.",
+    "summary_zh": "这篇文章聚焦于Mastodon乐队与已故吉他手Brent Hinds遗产管理方之间的法律纠纷。Hinds于2025年8月因摩托车事故去世，其遗产方指控乐队未足额支付离职补偿，并在未经许可的情况下继续使用他的肖像——甚至出现在新专辑《Marrow Deep》封面中。Mastodon称诉讼'毫无根据'并誓言坚决抗辩，同时请求尊重Hinds的记忆以保持隐私。此案折射出音乐产业中成员离职后的知识产权、肖像权及合同模糊性等深层问题。除了法律博弈，文章更凸显了幸存成员所承受的情感重压——他们将悲痛转化为创作动力，并邀请Josh Homme与Geezer Butler共同完成这张专辑。",
+    "best_quote_en": "When that [hope] had gone, it felt like the best thing for our group just to lean on each other during that moment and prop each other up with music.",
+    "best_quote_zh": "当那份希望破灭时，我们唯一能做的就是彼此依靠，用音乐互相支撑。"
+  },
+  {
+    "id": 475,
+    "title": "TIFF 2026: Tender Loving Care, Bucking Fastard, A Long Winter",
+    "title_zh": "TIFF 2026: Tender Loving Care, Bucking Fastard, A Long Winter",
+    "model_used": "nvidia/nemotron-3.5-lightning:free",
+    "source": "RogerEbert.com",
+    "link": "https://www.rogerebert.com/festivals/tiff-2026-tender-loving-care-bucking-fastard-a-long-winter",
+    "tags": [
+      "analyze",
+      "ai-research",
+      "design",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "分析",
+      "AI研究",
+      "设计创意",
+      "未来预测"
+    ],
+    "date": "2026-09-13",
+    "summary_en": "This TIFF 2026 roundup presents three distinct directorial voices—Mike Leigh, Werner Herzog, and Andrew Haigh—each exploring human connection under duress. Leigh delivers a poignant swan song about the quiet power of presence, where two social workers' friendship becomes a testament to active listening and human decency. Herzog unleashes a surreal, Lynchian triptych about twin sisters carving their own path through bizarre, cave-bound trials, emphasizing self-determined belonging. Haigh offers a glacial, methodical study of sustained melancholy and repressed desire, where a brother's snowbound search becomes a meditation on manhood and the wilderness as escape. Across all three, a common thread emerges: the profound value of human connection, whether through friendship, familial duty, or the solitary search for meaning, suggesting that 'being there' is our most essential act. The issue highlights how these filmmakers find the extraordinary within the ordinary, the humane within the harsh, and ultimately, remind us that care is all we have.",
+    "summary_zh": "这篇TIFF 2026的影评汇总展现了三位导演不同的声音——迈克·利、威尔克·赫茨克和安德鲁·海因希克，每个人都在探索在逆境中的人类联系。利展现了一个感人的告别之作，关于存在的安静力量，两位社工的友谊成为了积极倾听和人类善良的证明。赫茨克 unleashed了一个超现实的、林奇式的三部曲，关于双胞胎姐妹通过 bizarre、洞穴般的考验来确立自己的归属感。海因希克提供了一个 glacial、 methodical 的研究，探讨持续的忧郁和压抑的欲望，其中兄弟在雪地里的搜索成为了对男子气概和作为逃避的荒野的冥想。在这三者中，一个共同的主题浮现：人类联系的深刻价值，无论是通过友谊、家庭责任还是对意义的孤独探索，表明‘在场’是我们最基本的行为。该问题突显了这些电影作家如何在平凡中发现非凡，在严酷中发现人性，最终提醒我们，关怀是我们所拥有的一切。",
+    "best_quote_en": "\"Everyone should dig a tunnel through a mountain.\"",
+    "best_quote_zh": "\"Everyone should dig a tunnel through a mountain.\""
+  },
+  {
+    "id": 476,
+    "title": "Essentials: Use Sleep to Enhance Learning, Memory & Emotional State | Dr. Gina Poe",
+    "title_zh": "Essentials: 使用睡眠增强学习、记忆与情绪状态 | Dr. Gina Poe",
+    "model_used": "nvidia/nemotron-3-nano-omni-30b-a3b-reasoning:free",
+    "source": "Huberman Lab",
+    "link": "https://www.hubermanlab.com/episode/essentials-use-sleep-to-enhance-learning-memory-and-emotional-state-gina-poe",
+    "tags": [
+      "analyze",
+      "science",
+      "education"
+    ],
+    "tags_zh": [
+      "分析",
+      "科学研究",
+      "教育学习"
+    ],
+    "date": "2026-09-03",
+    "summary_en": "This Huberman Lab Essentials episode features Dr. Gina Poe, a UCLA professor of Integrative Biology and Physiology, who provides a comprehensive breakdown of sleep architecture and its critical roles in memory consolidation, creativity, brain restoration, and emotional processing. The discussion highlights science-backed strategies to optimize sleep quality—including consistent bedtime routines, managing alcohol and nighttime urination, and leveraging specific sleep stages like REM and deep sleep for cognitive enhancement and trauma recovery. While the content is highly actionable for individuals seeking to improve learning outcomes and emotional regulation through better sleep, it also reveals a deeper paradigm: sleep as a foundational pillar of cognitive and neurological health that actively shapes brain function rather than merely supporting it. The episode stands out for its integration of cutting-edge neuroscience with practical tools, making complex sleep science accessible and directly applicable to daily life.",
+    "summary_zh": "本期Huberman Lab Essentials深度解析睡眠架构如何支撑记忆巩固、创造力激发、大脑恢复与情绪处理，Dr. Gina Poe将睡眠科学与实践工具精准结合，揭示睡眠是塑造大脑功能的核心支柱而非被动载体。内容超越基础科普，直击学习成效与情绪调节的本质，通过规律作息、控制夜尿等可操作策略，揭示睡眠质量对认知与神经健康的决定性影响，为个体优化生理节律提供科学依据与行动指南。",
+    "best_quote_en": "Sleep is not downtime—it's active brain maintenance and enhancement.",
+    "best_quote_zh": "睡眠不是消磨时间，而是大脑主动的维护与增强过程。"
   }
 ]
