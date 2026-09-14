@@ -1,122 +1,5 @@
 [
   {
-    "id": 377,
-    "title": "How to Improve Motivation & Overcome Procrastination | Dr. Masud Husain",
-    "title_zh": "如何提升动力并克服拖延 | 马苏德·胡赛因博士",
-    "model_used": "cohere/north-mini-code:free",
-    "source": "Huberman Lab",
-    "link": "https://www.hubermanlab.com/episode/how-to-improve-motivation-and-overcome-procrastination-masud-husain",
-    "tags": [
-      "solve",
-      "ai-research",
-      "medicine"
-    ],
-    "tags_zh": [
-      "解决",
-      "AI研究",
-      "医学健康"
-    ],
-    "date": "2026-08-24",
-    "summary_en": "This episode features Dr. Masud Husain, a leading Oxford neurologist and cognitive neuroscientist, exploring the science of motivation, apathy, and neurological diseases. The discussion reveals how dopamine and specific brain circuits shape our drive, particularly the effort-versus-reward trade-offs that govern goal selection. Dr. Husain provides practical tools for increasing motivation, reducing distractions, and maintaining goal pursuit, making this content highly actionable for anyone struggling with procrastination. The conversation extends to dementia, Parkinson's, and Alzheimer's diseases, offering new insights into cognitive resilience and protective factors against age-related decline. This episode bridges cutting-edge neuroscience with practical self-improvement strategies, making it valuable for both scientific understanding and personal development. The expert insights from a top researcher at Oxford University position this as thought leadership in motivation science, with significant implications for mental health, productivity, and aging populations.",
-    "summary_zh": "本期节目邀请牛津大学神经学与认知神经科学教授马苏德·胡赛因博士，探讨了动力、乏力和神经疾病的科学。胡赛因博士揭示了多巴胺和特定大脑回路如何塑造我们的动力，尤其是在权衡努力与回报时决定我们追求哪些目标方面。他还提供了实用的工具，帮助人们提高动力、减少分心和维持目标追求。这次讨论还涉及痴呆症、帕金森氏症和阿尔茨海默氏症，包括关于认知弹性和保护因素的新见解，以预防与年龄相关的认知衰退。这期节目将前沿神经科学与实用的自我提升策略相结合，对于那些努力克服拖延症的人来说非常宝贵。来自牛津大学顶尖研究人员的专业见解，使本期节目成为动机科学的领军之作，对于心理健康、生产力和老龄化人口具有重要意义。",
-    "best_quote_en": "Dopamine and specific brain circuits shape motivation, particularly how the brain weighs the trade-off between effort vs reward when deciding what goals to pursue.",
-    "best_quote_zh": "多巴胺和特定的大脑回路塑造了动机，尤其是在权衡努力与回报时决定我们追求哪些目标。"
-  },
-  {
-    "id": 378,
-    "title": "Transcendental Longing",
-    "title_zh": "超越的渴望",
-    "model_used": "nvidia/nemotron-3-super-120b-a12b:free",
-    "source": "Harper’s Magazine",
-    "link": "https://harpers.org/2026/08/transcendental-longing-general-interest-ian-penman-charlie-lee-alice-coltrane/",
-    "tags": [
-      "inspire",
-      "society",
-      "writing-content",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "启发",
-      "社会议题",
-      "写作内容",
-      "未来预测"
-    ],
-    "date": "2026-08-16",
-    "summary_en": "This Harper's Magazine interview with critic Ian Penman explores Alice Coltrane's profound spiritual journey following her husband John Coltrane's death, framing her period of intense suffering as tapasya—a Sanskrit concept of purifying penance. Penman reflects on how her music transcends genre boundaries, blending jazz, funk, disco, and electronica, and how it evokes deep emotional and even physical responses in listeners, from altered states to vivid dreams. He critiques the tendency of jazz criticism to marginalize spiritual and feminine dimensions in music, contrasting the vilification Alice faced during her life with the posthumous sainthood bestowed on John Coltrane. The conversation delves into the politics of spiritual expression in Black music, the limitations of reductive genre labels, and the transformative power of music that resists easy categorization. Penman advocates for embracing music's capacity to inspire goodness, faith, and communal connection, pushing back against culture's fixation on darkness and cynicism.",
-    "summary_zh": "这篇访谈深刻探讨了爱丽丝·科尔特兰在丈夫约翰·科尔特兰去世后经历的灵性转变，将她的痛苦时期解读为《tapasya》——一种通向觉醒的苦行。伊恩·佩恩曼反思她的音乐如何超越爵士乐的种类界限，融合放克、迪斯科和电子元素，引发听众强烈的身心共鸣。他指出，当时的爵士批评常因她的种族、性别和公开的灵性而边缘化她，而约翰·科尔特兰死后却被奉为圣人。讨论触及黑人精神传统与政治的交织，以及音乐如何提供超越虚无主义的善意与连接。佩恩曼主张我们应重新审视文化对“黑暗”的痴迷，转而关注音乐中蕴含的善意、忠诚与集体觉醒的可能。",
-    "best_quote_en": "So much of our culture maintains an easy obsession with 'darkness,' but finds it difficult to sensitively explore matters relating to goodness, faith, fidelity, sacrifice, happiness, commitment.",
-    "best_quote_zh": "我们的文化很容易沉迷于‘黑暗’，却难以敏感地探讨善良、信仰、忠诚、牺牲、幸福和承诺这些主题。"
-  },
-  {
-    "id": 379,
-    "title": "Framed answer today – here’s the solution for August 25",
-    "title_zh": "Framed 今日答案 – 8月25日解谜方案",
-    "model_used": "nvidia/nemotron-3.5-lightning:free",
-    "source": "NME",
-    "link": "https://www.nme.com/guides/gaming-guides/framed-answer-today-3192186?utm_source=rss&utm_medium=rss&utm_campaign=framed-answer-today",
-    "tags": [
-      "solve",
-      "gaming"
-    ],
-    "tags_zh": [
-      "解决",
-      "游戏开发"
-    ],
-    "date": "2026-08-24",
-    "summary_en": "This NME article serves as a comprehensive guide to today's Framed puzzle, a browser-based movie guessing game inspired by Wordle. The piece distinguishes Framed by its focus on individual movie stills rather than general trivia, requiring players to analyze visual cues and contextual clues revealed with each incorrect guess. It provides actionable hints for the August 25 puzzle—identifying it as a 2011 American science fiction thriller directed by Neil Burger starring Bradley Cooper and Robert De Niro—and reveals the answer as 'Limitless.' Beyond the immediate solution, the article offers strategic value by listing recent previous answers, emphasizing the advantage of pattern recognition. The content is highly practical for daily players, functioning as both a real-time hint service and a long-term repository of puzzle solutions, ultimately enhancing user retention through consistent daily utility.",
-    "summary_zh": "这篇 NME 的文章是对今日 Framed 益智游戏的全面指南，该游戏灵感来源于 Wordle。文章阐述了 Framed 的独特之处：它聚焦于单个电影定格，而非普通知识问答，玩家需要分析视觉线索，并在每次错误猜测后获得上下文提示。文章为8月25日的谜题提供了可操作的提示——将其识别为2011年由尼尔·伯格执导、主演布拉德利·库珀和罗伯特·德尼罗的美国科 Thriller 电影，并揭晓了答案为《Limitless》。除了即时解答，文章还通过列出近期之前的答案，提供了策略价值，强调了模式识别的优势。对于每日玩家而言，此内容高度实用，既即时提供提示，又作为长期的解谜宝库，通过持续的日常实用性提高用户留存率。",
-    "best_quote_en": "With only six guesses at your disposal, you may need a little help guessing today’s Framed answer.",
-    "best_quote_zh": "在只有六次猜测机会的情况下，你可能需要一些帮助来猜出今天的 Framed 答案。"
-  },
-  {
-    "id": 380,
-    "title": "The Vocabulary of Vulnerability: 10 Wonderfully Untranslatable Words from Around the World for Complex and Difficult Emotions",
-    "title_zh": "脆弱的词汇：来自世界各地的 10 个奇妙不可翻译的词，描述复杂而困难的情绪",
-    "model_used": "nvidia/nemotron-3-ultra-550b-a55b:free",
-    "source": "RogerEbert.com",
-    "link": "https://www.themarginalian.org/2026/08/24/book-of-human-emotions/",
-    "tags": [
-      "solve",
-      "psychology",
-      "writing-content",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "解决",
-      "心理学",
-      "写作内容",
-      "未来预测"
-    ],
-    "date": "2026-08-25",
-    "summary_en": "This piece explores how language both shapes and limits our emotional reality, drawing from Tiffany Watt Smith's 'The Book of Human Emotions' to present ten untranslatable words that name feelings English cannot capture. Each word — from Sanskrit's abhiman (the wounded pride when loved ones betray us) to Polish żal (melancholy laced with rebellious anger at irretrievable loss) — reveals how cultures encode permission structures for what we're allowed to feel. The Japanese concept of amae is particularly striking: the surrender to being cared for without obligation, framed not as weakness but as the 'glue' of trust. Finnish kaukokaipuu names homesickness for places never visited, while Thai greng jai captures the reluctance to burden others with kindness. These aren't mere linguistic curiosities; they're evidence that our emotional vocabulary determines our emotional possibility. Smith's work suggests that expanding our lexicon is an act of liberation — reclaiming the 'expansiveness of our experience' from cultural constraints. The article itself performs what it describes: by naming the unnamed, it validates emotions readers may have felt but never had permission to acknowledge.",
-    "summary_zh": "语言既是盛装体验的圣杯，也是给体验定型的模具。这篇文章从蒂凡尼·瓦特·史密斯的《人类情感书》中选取了十个英语无法对应的词汇，每个词都像一把钥匙，打开被文化压抑的情感之门。日语 amae 让我震惊：原来「理所当然地依赖他人的爱、无需感激地被照顾」不仅不是软弱，反而是信任的胶水、关系的基石。芬兰语 kaukokaipuu 为「从未去过的地方的乡愁」命名，波兰语 żal 则将「对不可挽回之失去的忧伤」与「叛逆的愤怒」交织在一起。这些词汇不仅填补词汇空白，更证明：我们能说出什么情绪，就能允许自己感受什么情绪。扩充情感词汇，是夺回体验广度的解放行动。",
-    "best_quote_en": "Language is the chalice we lift to our lips to taste our own experience — a vessel that constrains what it contains by giving it its own shape.",
-    "best_quote_zh": "语言是我们举到嘴边、用来品尝自身体验的圣杯 —— 一个因赋予形状而限制其所容之物的容器。"
-  },
-  {
-    "id": 381,
-    "title": "Essentials: How to Access Your Creativity | Rick Rubin",
-    "title_zh": "核心精华：如何激发你的创造力 | 里克·鲁宾",
-    "model_used": "nvidia/nemotron-3-ultra-550b-a55b:free",
-    "source": "Huberman Lab",
-    "link": "https://www.hubermanlab.com/episode/essentials-how-to-access-your-creativity-rick-rubin",
-    "tags": [
-      "solve",
-      "music-arts",
-      "writing-content"
-    ],
-    "tags_zh": [
-      "解决",
-      "音乐艺术",
-      "写作内容"
-    ],
-    "date": "2026-08-20",
-    "summary_en": "This conversation between Andrew Huberman and legendary music producer Rick Rubin transcends typical productivity advice, offering instead a philosophy of creative being. Rubin frames creativity not as a skill to master but as a natural state to return to—comparing ideas to clouds or dreams that pass through us when we're receptive. The most striking insight is his reframing of self-doubt: not as an obstacle but as a necessary compass pointing toward what matters. His four-phase model (seed, experimentation, craft, completion) mirrors natural cycles rather than industrial processes. The discussion on pro wrestling as metaphor for embracing constructed reality while staying present is unexpectedly profound. Rubin's emphasis on 'taste' as our only true north—rather than external validation or technique—resonates deeply in an age of algorithmic optimization. This isn't about creative output; it's about creative integrity.",
-    "summary_zh": "这不是效率指南，而是创造的生存哲学。鲁宾将创意比作云与梦——非我所造，而是我所接纳。最震撼的是：自我怀疑非障碍，乃指南针，指向在乎之处。四阶段模型（种子、实验、打磨、完成）遵循自然律而非工业流。职业摔角隐喻令人意外：在构建的真实中保持当下。\"品味\"是唯一真北，非外部认可。算法时代，这关乎创造的完整性，而非产出。",
-    "best_quote_en": "Ideas are like clouds or dreams. They pass through us. Our job is to notice them, to be receptive enough to catch them when they come through.",
-    "best_quote_zh": "创意如云如梦，流经我们。我们的任务是察觉它们，保持足够的敏感，在它们经过时接住它们。"
-  },
-  {
     "id": 382,
     "title": "9.3分强势回归，它何以成为最难被复制的神作？",
     "title_zh": "Chinese translation of title (keep original if already Chinese)",
@@ -2342,5 +2225,126 @@
     "summary_zh": "本期Huberman Lab Essentials深度解析睡眠架构如何支撑记忆巩固、创造力激发、大脑恢复与情绪处理，Dr. Gina Poe将睡眠科学与实践工具精准结合，揭示睡眠是塑造大脑功能的核心支柱而非被动载体。内容超越基础科普，直击学习成效与情绪调节的本质，通过规律作息、控制夜尿等可操作策略，揭示睡眠质量对认知与神经健康的决定性影响，为个体优化生理节律提供科学依据与行动指南。",
     "best_quote_en": "Sleep is not downtime—it's active brain maintenance and enhancement.",
     "best_quote_zh": "睡眠不是消磨时间，而是大脑主动的维护与增强过程。"
+  },
+  {
+    "id": 477,
+    "title": "The Fascinating Science of How We Think Not with the Brain But with the World",
+    "title_zh": "我们如何思考：科学揭示思维并非只发生于大脑，而是借助世界展开",
+    "model_used": "nex-agi/nex-n2.5-mini:free",
+    "source": "The Marginalian",
+    "link": "https://www.themarginalian.org/2026/09/13/the-extended-mind/",
+    "tags": [
+      "learn",
+      "ai-research",
+      "science",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "学习",
+      "AI研究",
+      "科学研究",
+      "未来预测"
+    ],
+    "date": "2026-09-13",
+    "summary_en": "This reflective essay reframes intelligence as an ecological achievement rather than an isolated property of the skull. Annie Murphy Paul’s extended-mind thesis argues that thought is assembled from bodily sensations, movement, places, tools, language, and other people. The article is especially persuasive in connecting embodied, situated, and distributed cognition while offering a useful corrective to the reduction of the brain to a self-contained machine. Its magpie metaphor is memorable: cognition depends on the quality of the world one can draw upon and the skill with which one uses those materials. The broader significance is practical and ethical. Education, work design, creativity, and wellbeing could benefit from environments that invite walking, gesturing, reflection, collaboration, and contact with nature. Yet the essay moves more confidently than its evidence permits when it hints that individual minds may belong to one universal mind, an interpretive leap that remains philosophically contested. Its cultural survey also privileges Western thinkers. Still, the central claim is enduring: to think well, we must cultivate not only our brains, but the worlds in which thinking can occur.",
+    "summary_zh": "这篇随笔把智慧重新定义为一种与环境共同生成的能力，而非大脑独自完成的封闭运算。它借安妮·墨菲·保罗的“延展心智”说，串联身体、动作、空间、工具与他人，指出专注、理解与创造力都受可用材料及其使用方式影响。最打动人的，是文章把“如何思考”转化为“如何营造可思考的世界”：教育、工作、创作与福祉，或许都应让行走、手势、反思、协作和自然重新进入认知。不过，从神经科学一路抵达“心灵或许只有一个”的形而上判断，证据仍显跳跃，西方男性思想的比重也值得留意。可它留下的提醒历久弥新：提升思维，不只是训练大脑，更是修复我们栖居其中的世界。",
+    "best_quote_en": "We extend beyond our limits, not by revving our brains like a machine or bulking them up like a muscle — but by strewing our world with rich materials, and by weaving them into our thoughts.",
+    "best_quote_zh": "我们并非靠把大脑当机器加速运转，或像锻炼肌肉一样把它练得更强壮，来超越自身局限；我们是在世界中布满丰富的材料，并把它们编织进自己的思想。"
+  },
+  {
+    "id": 478,
+    "title": "100 Objects #17: M43 Field Jacket",
+    "title_zh": "100件物品 #17：M43野战夹克",
+    "model_used": "nvidia/nemotron-3-super-120b-a12b:free",
+    "source": "99% Invisible",
+    "link": "https://99percentinvisible.org/episode/100-objects-017-m43-field-jacket/",
+    "tags": [
+      "analyze",
+      "design",
+      "case-study"
+    ],
+    "tags_zh": [
+      "分析",
+      "设计创意",
+      "案例研究"
+    ],
+    "date": "2026-09-11",
+    "summary_en": "This episode explores the M43 Field Jacket as a pivotal artifact in American military and cultural history, revealing how military necessity drove innovation that reshaped civilian fashion globally. Avery Trufelman and Roman Mars trace the jacket’s evolution from a functional solution to the military’s 'clothing problem'—balancing protection, mobility, and mass production—into a timeless design icon. The analysis highlights how utilitarian military gear often becomes embedded in everyday life, influencing workwear, streetwear, and global apparel trends. Beyond its design legacy, the M43 jacket symbolizes broader themes of industrial adaptation, user-centered design, and the unintended cultural consequences of military innovation. The discussion invites reflection on how objects born from conflict can foster connection and utility in peacetime, making it a compelling case study in design history and material culture.",
+    "summary_zh": "这一集通过M43野战夹克的故事，深刻展示了军事需求如何推动设计创新，并最终深刻影响全球平民时尚。M43不仅解决了士兵的实用问题，更成为跨越军民界限的设计典范。它提醒我们，看似冲突中的工具，往往在和平时期以意想不到的方式服务于人类——这是一段关于功能、形式与文化演化的温暖叙事。",
+    "best_quote_en": "The M43 Field Jacket didn't just change what soldiers wore—it changed what we all wear every day.",
+    "best_quote_zh": "M43野战夹克不仅改变了士兵的穿着，它改变了我们每天的穿着方式。"
+  },
+  {
+    "id": 479,
+    "title": "Wild Horse Nine: Martin McDonagh deploys his trademark irreverence in a funny-sad 1970s spy caper",
+    "title_zh": "野马九号：马丁·麦克唐纳以他标志性的不羁幽默，打造了一部1970年代间谍喜剧",
+    "model_used": "dots-studio/dots-3-note-preview:free",
+    "source": "BFI",
+    "link": "https://www.bfi.org.uk/sight-and-sound/reviews/wild-horse-nine-martin-mcdonagh-deploys-his-trademark-irreverence-funny-sad-1970s-spy-caper",
+    "tags": [
+      "analyze",
+      "ai-research",
+      "music-arts",
+      "controversial"
+    ],
+    "tags_zh": [
+      "分析",
+      "AI研究",
+      "音乐艺术",
+      "争议观点"
+    ],
+    "date": "2026-09-11",
+    "summary_en": "Martin McDonagh’s Wild Horse Nine is a darkly comedic, historically charged spy caper set in 1973, centered on two aging CIA operatives—Chris (John Malkovich) and Lee (Sam Rockwell)—navigating the twilight of their careers and the Cold War era. The film blends McDonagh’s signature razor-sharp dialogue with a bittersweet exploration of guilt, mortality, and the moral decay of American imperialism. Malkovich delivers a career-defining performance as a terminally ill, dementia-ridden agent seeking redemption through a ritualistic request to be killed by his partner, while Rockwell provides a melancholic, grounded counterpoint. The film’s strength lies in its crackling chemistry and its unflinching critique of historical atrocities—from Guatemala to Chile—though it occasionally falters by trivializing real-world tragedies for comedic effect. McDonagh’s trademark irreverence is both a weapon and a liability: it sharpens the satire but risks alienating audiences with its flippant handling of weighty subjects. Ultimately, Wild Horse Nine is a flawed yet fiercely intelligent film that interrogates the legacy of espionage, the cost of loyalty, and the absurdity of seeking grace in a world built on betrayal.",
+    "summary_zh": "《野马九号》是一部充满黑色幽默与历史沉思的间谍喜剧，背景设定于1973年，聚焦两位步入暮年的CIA特工——克里斯（约翰·马尔科维奇饰）与李（山姆·洛克威尔饰）——在冷战余烬中寻求救赎与终结。影片以麦克唐纳标志性的犀利对白与荒诞笔触，勾勒出美国帝国主义的道德溃败与个体在历史洪流中的无力感。马尔科维奇贡献了堪称生涯巅峰的表演，饰演一位身患绝症、记忆衰退、渴望以“被搭档杀死”来完成灵魂救赎的虚无主义者；洛克威尔则以沉静忧郁的演绎，成为其情感锚点。影片在讽刺与悲悯间摇摆，既尖锐批判了从危地马拉到智利的真实历史暴行，又因对悲剧的轻率调侃而引发争议。麦克唐纳的“不羁”既是锋利的手术刀，也是双刃剑——它剖开历史的脓疮，却也偶尔让观众感到被消解的痛感。最终，这是一部不完美却极具智性张力的作品，它追问：在背叛与谎言构筑的世界中，灵魂是否还能寻得安宁？",
+    "best_quote_en": "You kill one Black president and no one remembers; kill one white one and the whole world goes fucking crazy.",
+    "best_quote_zh": "你杀了一个黑人总统，没人记得；杀了一个白人总统，整个世界都他妈疯了。"
+  },
+  {
+    "id": 480,
+    "title": "How to Be a Good Explorer on the Lifelong Expedition to Yourself",
+    "title_zh": "如何成为自我终身探险的好探险者",
+    "model_used": "nvidia/nemotron-3-super-120b-a12b:free",
+    "source": "The Marginalian",
+    "link": "https://www.themarginalian.org/2026/09/12/pessoa-explorer/",
+    "tags": [
+      "solve",
+      "science",
+      "psychology",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "解决",
+      "科学研究",
+      "心理学",
+      "未来预测"
+    ],
+    "date": "2026-09-12",
+    "summary_en": "The article reflects on the distinction between experimentation and genuine exploration in the journey of self‑discovery, drawing on Fernando Pessoa’s posthumous masterpiece *The Book of Disquiet*. It argues that true self‑knowledge arises not from testing hypotheses but from an open, receptive traversal of inner landscapes — an attitude that demands courage, vulnerability, and a willingness to abandon preconceived expectations. Pessoa’s instructions urge us to feel with the mind, think with emotions, and experience sensations inwardly, ultimately revealing that the universe we seek lies within ourselves. The piece also notes the paradox of consciousness: while it enables introspection, it often turns the lens inward in a self‑conscious way that obscures authentic insight. By framing self‑exploration as an expedition rather than a experiment, the essay invites readers to cultivate a continual, exploratory stance toward their own being, suggesting that wisdom emerges when we stop analyzing and simply observe ourselves as we would nature. The essay concludes with a call to adopt Pessoa’s brief, blazing set of instructions — to feel everything in every way, to think with emotions and feel with the mind, and to use sensations internally — as a practical guide for cultivating the receptivity needed for revelatory self‑discovery.",
+    "summary_zh": "文章区分了实验与探索在自我的终身旅程中的不同，引用费尔南多·佩索阿《不安之书》指出，真正的自我认识来自于对内心景观的开放漫游，而非假设的验证。佩索阿教导我们以情感思考、以思想感受，将感觉内化，从而揭示宇宙就在我们自身。文中还指出意识虽能内省，却常因自我意识而扭曲视野。文章呼吁我们停止分析，像观察自然一样观察自己，以获得真正的智慧。",
+    "best_quote_en": "Everything is in us — all we need to do is look for it and know how to look.",
+    "best_quote_zh": "一切都在我们内心 —  — 我们只需要去寻找，并且知道如何观看。"
+  },
+  {
+    "id": 481,
+    "title": "1-800-PODCAST",
+    "title_zh": "1-800电话的历史与影响",
+    "model_used": "inclusionai/ling-3.0-flash-fin:free",
+    "source": "99% Invisible",
+    "link": "https://99percentinvisible.org/episode/681-1-800-podcast/",
+    "tags": [
+      "update",
+      "legal",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "动态",
+      "法律法规",
+      "数据驱动"
+    ],
+    "date": "2026-09-01",
+    "summary_en": "This episode traces the surprising lineage of modern 24/7 consumer culture back to a single technological innovation: the toll-free 800 number. What begins as a story about AT&T's inWATS system in the 1960s reveals itself to be a meditation on how infrastructure shapes behavior long before the applications catch up. The narrative arc—from reluctant consumers mailing paper orders to the explosive $130 billion toll-free economy of the 1990s—illuminates a crucial insight: convenience alone doesn't transform markets; it requires the convergence of multiple systems (credit cards, deregulation, television) to unlock latent demand. The piece also offers a quietly profound reflection on legacy, noting that the 800 number's original promise—removing distance and friction—now persists in degraded form through chatbots and automated systems. The secondary thread on lawyer advertising serves as a fascinating counterpoint, illustrating how deregulating speech (Bates v. State Bar of Arizona) created an entirely new commercial landscape, much like toll-free numbers reshaped retail. Together, these stories reveal that the tools we use to sell things are never neutral; they fundamentally alter when, where, and how humans make decisions.",
+    "summary_zh": "本期节目追溯了现代全天候消费文化令人惊讶的源头：免费800电话号码。从1960年代AT&T的inWATS系统开始，这个故事揭示了基础设施如何在应用出现之前就塑造了行为。从犹豫的消费者邮寄纸质订单，到1990年代1300亿美元的免费电话经济，这段历程揭示了一个关键洞见：便利本身并不能改变市场；它需要多重系统的融合（信用卡、放松管制、电视）才能释放潜在需求。节目还提供了一个关于遗产的深刻反思，指出800号码最初消除距离和摩擦的承诺，如今已通过聊天机器人和自动化系统以衰减的形式延续。律师广告的次要线索则构成了一个迷人的对照，说明放松言论管制（Bates v. State Bar of Arizona）如何创造了全新的商业格局，正如免费电话号码重塑了零售业。这些故事共同揭示了一个真理：我们用来销售的工具从来都不是中立的；它们从根本上改变了人类做出决策的时间、地点和方式。",
+    "best_quote_en": "The modern retail economy didn't invent the idea of shopping whenever you want. The 800 number taught us to expect it.",
+    "best_quote_zh": "现代零售经济并没有发明随时购物的概念。是800电话教会了我们期待它。"
   }
 ]
