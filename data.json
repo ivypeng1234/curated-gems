@@ -1,124 +1,5 @@
 [
   {
-    "id": 382,
-    "title": "9.3分强势回归，它何以成为最难被复制的神作？",
-    "title_zh": "Chinese translation of title (keep original if already Chinese)",
-    "model_used": "nvidia/nemotron-3.5-lightning:free",
-    "source": "The Marginalian",
-    "link": "http://weixin.sogou.com/weixin?type=2&query=%E4%B8%89%E8%81%94%E7%94%9F%E6%B4%BB%E5%91%A8%E5%88%8A+9.3%E5%88%86%E5%BC%BA%E5%8A%BF%E5%9B%9E%E5%BD%92%EF%BC%8C%E5%AE%83%E4%BD%95%E4%BB%A5%E6%88%90%E4%B8%BA%E6%9C%80%E9%9A%BE%E8%A2%AB%E5%A4%8D%E5%88%B6%E7%9A%84%E7%A5%9E%E4%BD%9C%EF%BC%9F",
-    "tags": [
-      "inspire",
-      "science",
-      "writing-content",
-      "beginner-friendly"
-    ],
-    "tags_zh": [
-      "启发",
-      "科学研究",
-      "写作内容",
-      "新手友好"
-    ],
-    "date": "2026-08-25",
-    "summary_en": "150-200 word English analysis focusing on core insights, implications, and critical evaluation. Write with intellectual curiosity and personal engagement.",
-    "summary_zh": "150-200 character Chinese analysis that reads like thoughtful commentary, not mere summary. Include personal reflection and broader significance.",
-    "best_quote_en": "Most insightful English quote from article (translate if originally Chinese)",
-    "best_quote_zh": "Most insightful Chinese quote from article (translate if originally English)"
-  },
-  {
-    "id": 383,
-    "title": "Spolia",
-    "title_zh": "Spolia",
-    "model_used": "nvidia/nemotron-3.5-lightning:free",
-    "source": "99% Invisible",
-    "link": "https://99percentinvisible.org/episode/680-spolia/",
-    "tags": [
-      "guide",
-      "programming",
-      "science",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "指导",
-      "编程开发",
-      "科学研究",
-      "未来预测"
-    ],
-    "date": "2026-08-25",
-    "summary_en": "This compelling article traces the historical practice of spolia—the reuse of materials from older structures in new construction—from ancient Roman propaganda to contemporary climate-conscious design. It reveals how Emperor Constantine strategically repurposed sculpted panels from earlier emperors to legitimize his rule, transforming architectural reuse into political messaging. The narrative then connects this historical practice to modern sustainability efforts through the Granby project in Liverpool, where the design collective Assemble and artist Will Shannon created Granby Rock from reclaimed bricks and slate. This evolution demonstrates how spolia has shifted from ideological tool to ecological necessity, highlighting the tension between efficient new construction and the environmental imperative to reuse existing materials. The article powerfully argues that we must relearn reuse practices not merely for cost savings, but as a critical climate strategy, recognizing that materials from the past carry both historical significance and environmental value.",
-    "summary_zh": "本文追溯了建筑史上的‘拆料’做法——从古罗马的政治宣传到现代气候意识设计的历史演变。文章揭示了罗马皇帝康斯坦丁如何策略性地重用早期皇帝的雕刻面板来合法化统治，将建筑重用转化为政治传讯。随后，叙事线索转向利物浦Granby项目，设计集体Assemble和艺术家Will Shannon利用回收的砖块和板岩创造了Granby Rock。这种演变展示了拆料如何从政治工具转变为生态必需品，凸显了高效新建与环境再利用之间的冲突。文章有力论证了我们必须重新学习再利用实践，而不仅仅是为了成本节约，更是作为关键的气候战略，认识过去的材料具有历史意义和环境价值。",
-    "best_quote_en": "\"It just felt important as part of the process of reclaiming the narrative of these houses, of this neighborhood — that actually valuing everything that was there was important,\" said Lewis Jones of Assemble.",
-    "best_quote_zh": "\"这感觉作为 reclaiming（ reclaim）这些房屋、这个街区故事的一部分很重要——其实重视一切原本在那里的东西很重要,\" Assemble的Lewis Jones说道。"
-  },
-  {
-    "id": 384,
-    "title": "Award-winning Filipiñana will be released by BFI Distribution in UK and Irish cinemas",
-    "title_zh": "Award-winning Filipiñana will be released by BFI Distribution in UK and Irish cinemas",
-    "model_used": "nvidia/nemotron-3.5-lightning:free",
-    "source": "BFI",
-    "link": "https://www.bfi.org.uk/news/filipinana-bfi-distribution",
-    "tags": [
-      "update",
-      "design",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "动态",
-      "设计创意",
-      "未来预测"
-    ],
-    "date": "2026-08-20",
-    "summary_en": "Rafael Manuel's debut feature Filipiñana emerges as a striking examination of class, colonialism, and personal reckoning through the eyes of 17-year-old Isabel, a tee-girl at an elite Manila country club. The film's Sundance Creative Vision award signals its formal ambition, but its true power lies in how it uses the microcosm of a golf course to expose the violent undercurrents of Philippine society and Isabel's own fragmented past. With Jia Zhangke's mentorship evident in its contemplative visual language, Manuel delivers a distinctive voice that feels both intimately observed and broadly resonant. The film's expansion from award-winning short to feature showcases a rare directorial patience, resulting in a work that is as visually arresting as it is thematically urgent - a significant arrival for Asian cinema on the international stage.",
-    "summary_zh": "拉斐尔·曼努埃尔的处女作《菲律比尼亚》通过17岁的艾莎尔的视角，成为了一部关于阶级、殖民和个人救赎的敏锐探索。这部获奖的影片利用高尔夫球场这一微观世界，暴露了菲律宾社会的暴力根基和艾莎尔碎片化的过去。曼努埃尔在贾樟柯的指导下，以其沉思的视觉语言展现了独特的导演声音。这部从获奖短片扩展而来的作品展现了难得的导演耐心，最终呈现出兼具视觉冲击力和主题紧迫感的作品，是亚洲电影在国际舞台上的重要到来。",
-    "best_quote_en": "The deeper she journeys into its most exclusive corners, the closer she gets to the violent truths of the club, her native Philippines, and her own past.",
-    "best_quote_zh": "她深入探索最独家的角落，越接近俱乐部、她的故乡菲律宾以及她自己的过去中的暴真相。"
-  },
-  {
-    "id": 385,
-    "title": "服饰与乐章：三百年审美共生",
-    "title_zh": "服饰与乐章：三百年审美共生",
-    "model_used": "minimax/minimax-m3:free",
-    "source": "The Marginalian",
-    "link": "http://weixin.sogou.com/weixin?type=2&query=%E4%B8%89%E8%81%94%E7%94%9F%E6%B4%BB%E5%91%A8%E5%88%8A+%E6%9C%8D%E9%A5%B0%E4%B8%8E%E4%B9%90%E7%AB%A0%EF%BC%9A%E4%B8%89%E7%99%BE%E5%B9%B4%E5%AE%A1%E7%BE%8E%E5%85%B1%E7%94%9F",
-    "tags": [
-      "solve",
-      "music-arts",
-      "design",
-      "deep-dive"
-    ],
-    "tags_zh": [
-      "解决",
-      "音乐艺术",
-      "设计创意",
-      "深度分析"
-    ],
-    "date": "2026-08-25",
-    "summary_en": "This article offers a fascinating cross-disciplinary exploration of how fashion and music have evolved in aesthetic tandem over three centuries, using the 2026 Dior Spring/Summer Haute Couture show—set to Vivaldi's Baroque \"Four Seasons\"—as its starting point. The core insight is that clothing and sound share deep structural kinship: Baroque's intricate lace mirrors Bach's polyphonic counterpoint, with multiple voices weaving like delicate fabric patterns; Classicism's white muslin gowns echo the sonata form's clarity and proportion; Romanticism's flowing silhouettes parallel Chopin and Liszt's emotional expressiveness. The piece traces how 20th-century modernism shattered this unity—Coco Chanel liberating women's bodies as Stravinsky fractured tonality—before questioning whether contemporary fashion and music can forge new aesthetic bonds. The author draws on literary evidence (Dumas, Austen) and visual culture (films like \"Marie Antoinette\") to argue that fashion has always been a form of \"audible costume.\" What elevates this analysis is its refusal to treat style as superficial: each era's garments encode its philosophical values—Baroque excess serving divine and royal authority, Enlightenment simplicity embodying reason, Romantic drapery channeling emotion. The writing carries genuine intellectual excitement about synesthetic connections.",
-    "summary_zh": "这是一篇跨越三百年、横贯音乐与服饰的审美随笔，起点是2026年迪奥春夏高定秀场上维瓦尔第《四季》的流淌。作者以敏锐的通感视角揭示了一个被忽视的真相：蕾丝的多层缠绕与巴赫复调如出一辙，新古典主义白衫的轻盈恰似奏鸣曲式的清晰比例，浪漫主义的褶裥长裙与肖邦的抒情一脉相承。启蒙运动解放了身体也解放了调性，20世纪现代主义让香奈儿剪开腰身也让斯特拉文斯基击碎和声。然而最打动我的是作者对\"穿着即仪式\"的洞察：巴赫穿刺绣外套登场、亨德尔着丝绒华服谢幕，衣饰与旋律共同构成完整的艺术修辞。在视觉文化统治的今日，这篇文章温柔地提醒我们——真正的审美判断，需要同时打开耳朵与眼睛。三百年共生，从不是巧合，而是人类对秩序与美的共同追寻。",
-    "best_quote_en": "What we wear has always been a flowing movement; and those melodies passed down through centuries are precisely the audible costume.",
-    "best_quote_zh": "我们穿在身上的，本就是流动的乐章；而那些流传百年的旋律，正是听得见的衣装。"
-  },
-  {
-    "id": 386,
-    "title": "100 Objects #14: Basketball Sleeve",
-    "title_zh": "100 件物品 #14：篮球护臂",
-    "model_used": "cohere/north-mini-code:free",
-    "source": "99% Invisible",
-    "link": "https://99percentinvisible.org/episode/100-objects-014-basketball-sleeve/",
-    "tags": [
-      "analyze",
-      "ai-research"
-    ],
-    "tags_zh": [
-      "分析",
-      "AI研究"
-    ],
-    "date": "2026-08-21",
-    "summary_en": "This episode of '100 Objects' explores the seemingly mundane basketball compression sleeve worn by NBA players, revealing a deeper narrative about race, respectability politics, and identity in sports. Through the story of Allen Iverson's journey from prison to stardom, the sleeve becomes a symbol of empowerment and resistance. The analysis examines how this simple piece of athletic gear reflects broader societal issues and the complex dynamics of race and representation in basketball. The episode invites listeners to reconsider everyday objects as carriers of cultural significance and historical context, demonstrating how a compression sleeve can tell a profound story about American history and social transformation.",
-    "summary_zh": "这个关于篮球护臂的《100 件物品》 episodes 揭示了一个看似普通但充满意义的故事。从艾伦·艾弗森的传奇经历出发，这个护臂成为一种赋权和抵抗的象征，反映了篮球运动中种族、尊重政治和身份认同的复杂关系。这个节目让我们重新审视日常物品，看到它们如何承载着文化意义和历史叙事，讲述着关于美国社会变迁的深刻故事。",
-    "best_quote_en": "The compression sleeve became a symbol of empowerment for a generation of Black athletes who wanted to claim space on their own terms.",
-    "best_quote_zh": "护臂成为了一代黑人运动员用自己的方式占据空间和赋权的象征。"
-  },
-  {
     "id": 387,
     "title": "“By the Lake” by Photographer Tommy Keith",
     "title_zh": "湖畔",
@@ -2346,5 +2227,120 @@
     "summary_zh": "本期节目追溯了现代全天候消费文化令人惊讶的源头：免费800电话号码。从1960年代AT&T的inWATS系统开始，这个故事揭示了基础设施如何在应用出现之前就塑造了行为。从犹豫的消费者邮寄纸质订单，到1990年代1300亿美元的免费电话经济，这段历程揭示了一个关键洞见：便利本身并不能改变市场；它需要多重系统的融合（信用卡、放松管制、电视）才能释放潜在需求。节目还提供了一个关于遗产的深刻反思，指出800号码最初消除距离和摩擦的承诺，如今已通过聊天机器人和自动化系统以衰减的形式延续。律师广告的次要线索则构成了一个迷人的对照，说明放松言论管制（Bates v. State Bar of Arizona）如何创造了全新的商业格局，正如免费电话号码重塑了零售业。这些故事共同揭示了一个真理：我们用来销售的工具从来都不是中立的；它们从根本上改变了人类做出决策的时间、地点和方式。",
     "best_quote_en": "The modern retail economy didn't invent the idea of shopping whenever you want. The 800 number taught us to expect it.",
     "best_quote_zh": "现代零售经济并没有发明随时购物的概念。是800电话教会了我们期待它。"
+  },
+  {
+    "id": 482,
+    "title": "“An island within the island” by succco",
+    "title_zh": "岛中之岛",
+    "model_used": "inclusionai/ling-3.0-flash-vl:free",
+    "source": "BOOOOOOOM",
+    "link": "https://www.booooooom.com/2026/09/14/an-island-within-the-island-by-succco/",
+    "tags": [
+      "inspire",
+      "general"
+    ],
+    "tags_zh": [
+      "启发",
+      "general"
+    ],
+    "date": "2026-09-14",
+    "summary_en": "Michael Francalanci's 'An island within the island' is a visually arresting photographic series that explores spatial isolation and nested environments through architectural imagery. Hosted on the renowned design platform booooooom, this portfolio functions less as a textual essay and more as an immersive visual experience — 25 carefully composed images that invite contemplation on how spaces contain microcosms within themselves. The conceptual title suggests a meditation on interiority and separation, perhaps reflecting on how physical structures create psychological territories. While the absence of written commentary might frustrate those seeking analytical depth, the work's strength lies precisely in its visual silence — allowing the images to speak through composition, light, and spatial tension. For designers, architects, and visual artists, this collection offers rich inspiration on how to frame and narrate through image alone, embodying the idea that sometimes the most powerful insight is conveyed without a single word.",
+    "summary_zh": "Michael Francalanci 的「岛中之岛」是一组极具张力的建筑摄影作品，在 booooooom 平台上以纯视觉的方式展开叙事。25 张影像构成了一场关于空间嵌套与隔离的静默对话——标题本身便是一个精妙的隐喻，暗示每个空间内部都孕育着另一个独立世界。作为创作者，我被这种无需文字的表达能力所打动：它提醒我们，影像的力量恰恰在于留白，让观者在光影与结构的缝隙中自行寻找意义。这不是一份指南，而是一面镜子，映照出空间如何成为心灵的投射。",
+    "best_quote_en": "An island within the island",
+    "best_quote_zh": "岛中之岛"
+  },
+  {
+    "id": 483,
+    "title": "Solo autumn walks for women in the UK and Europe: ‘it should be fun, not daunting’",
+    "title_zh": "女性在英国和欧洲的独自秋季徒步：“它应该是有乐趣的，而不是令人畏惧的”",
+    "model_used": "poolside/laguna-xs-2.1:free",
+    "source": "Women | The Guardian",
+    "link": "https://www.theguardian.com/lifeandstyle/2026/sep/15/solo-walks-autumn-for-women-uk-europe",
+    "tags": [
+      "analyze",
+      "lifestyle",
+      "case-study"
+    ],
+    "tags_zh": [
+      "分析",
+      "生活方式",
+      "案例研究"
+    ],
+    "date": "2026-09-15",
+    "summary_en": "This article masterfully weaves personal narrative with practical guidance, addressing the growing phenomenon of solo female hiking through a feminist lens. Abbs reveals that 27% surge in UK women solo hiking (2020-2022) reflects deeper psychological liberation rather than mere recreational trend. Her analysis transcends typical 'how-to' content by examining the intersection of gender, wilderness, and autonomy. The piece's strength lies in its nuanced portrayal of fear as both rational safety concern and societal conditioning, while offering concrete solutions that preserve solitude's sanctity. Four European routes demonstrate thoughtful curation—Swiss Alps for cultural acceptance, South Downs for historical resonance, Cleveland Way for gentle exposure, and Portuguese coast for sensory pleasure. The inclusion of 1860s pioneer Mathilde Blind adds profound historical dimension, connecting contemporary female independence to centuries-old tradition. Beyond practical advice, this represents philosophical exploration of how solitary wilderness immersion catalyzes personal transformation and collective female empowerment.",
+    "summary_zh": "这篇文章以女性独自徒步的真实经历为切入点，探讨了性别平等与自然野营之间的深层关联。27%的增长数据背后，是女性对自主权与自我实现的渴望。作者以细腻的笔触揭示恐惧背后的社会根源，同时提供实用的安全方案。值得注意的是，她精选的四条路线不仅路径优美，更传递出时代女性寻求自由与尊严的共鸣。",
+    "best_quote_en": "For once I felt truly free.",
+    "best_quote_zh": "此刻，我真正感受到了自由。"
+  },
+  {
+    "id": 484,
+    "title": "Coronavirus and Credibility",
+    "title_zh": "新冠病毒与可信度",
+    "model_used": "poolside/laguna-xs-2.1:free",
+    "source": "Paul Graham",
+    "link": "http://www.paulgraham.com/cred.html",
+    "tags": [
+      "learn",
+      "general",
+      "controversial"
+    ],
+    "tags_zh": [
+      "学习",
+      "general",
+      "争议观点"
+    ],
+    "date": "2026-09-15",
+    "summary_en": "This piece examines how the coronavirus pandemic served as an unprecedented credibility test for public figures who made confident yet inaccurate predictions about its severity. The author argues that journalists and politicians operate with impunity in making bold forecasts because most predictions either lack concrete outcomes or occur too far in the future for accountability. However, epidemics provide immediate, unambiguous falsification of predictions, creating a rare moment of truth. The pandemic thus revealed who possessed genuine expertise versus those who merely projected confidence, making it 'the most accurate test of credibility' we're likely to encounter. This analysis carries profound implications for how we evaluate expertise, authority, and truth in public discourse, especially during crisis situations where information shapes collective behavior and policy decisions.",
+    "summary_zh": "这篇文章深刻剖析了新冠疫情如何成为检验公共人物可信度的独特试金石。作者指出，许多名人轻信地预测新冠如流感般温和，却不敢面对事实的检验。这种急于下结论的现象暴露了他们对真实知识的渴求与渴望。疫情的快速发展让人们看到那些谦逊的人格光辉，那些胸有成竹的言论化为汗珠。或许此刻最值得我们铭记的，正是这种在危机中考验人性的机遇——它让我们看见了谁是真正的专家，谁是只会空谈的喷射器。",
+    "best_quote_en": "It's only when the tide goes out that you learn who's been swimming naked.",
+    "best_quote_zh": "只有潮水退去，才能看出谁在裸泳。"
+  },
+  {
+    "id": 485,
+    "title": "The Tim Ferriss Show Transcripts: How to Teach a 3-Year-Old to Read and Rethinking Education — Tim Coaches Niels Hoven of Mentava (#882)",
+    "title_zh": "Tim Ferriss Show 转录：如何教会3岁儿童识字与重新思考教育——Tim 辅导 Mentava 创始人 Niels Hoven (#882)",
+    "model_used": "poolside/laguna-xs-2.1:free",
+    "source": "Tim Ferriss",
+    "link": "https://tim.blog/2026/09/10/niels-hoven-mentava-transcript/",
+    "tags": [
+      "solve",
+      "education",
+      "case-study"
+    ],
+    "tags_zh": [
+      "解决",
+      "教育学习",
+      "案例研究"
+    ],
+    "date": "2026-09-11",
+    "summary_en": "This transcript reveals profound insights into accelerated learning through the lens of Mentava's early literacy software. Niels Hoven shares compelling evidence that children can achieve second-grade reading levels by age three, challenging fundamental assumptions about educational timelines. The conversation explores how kids naturally absorb language when presented with engaging, gamified content - two-year-old twins reading 'Hop on Pop' before their third birthday exemplifies this phenomenon. Beyond anecdotal success stories, the discussion addresses deeper questions about educational philosophy: Why do we accept slow learning paces when children demonstrate remarkable cognitive capacity? The interview also touches on the entrepreneurial journey of building Mentava, highlighting the importance of advocating fiercely for children's educational potential. This content appeals to parents, educators, and edtech entrepreneurs seeking evidence-based approaches to accelerate learning while maintaining joy and curiosity in the process.",
+    "summary_zh": "这段转录揭示了通过Mentava早期识字软件所实现的深刻学习洞见。Niels Hoven分享了令人瞠目的证据：3岁儿童即可达成二年级阅读水平，挑战了我们对教育时间线的根本假设。对话探讨了孩子在充满活力的游戏化内容中如何自然吸收语言——两岁双胞胎在3岁之前就能阅读《Hop on Pop》正是这种现象的完美例证。除了零星故事，讨论还涉及更深层的教育哲学问题：为何我们接受缓慢的学习节奏，而孩子们展现出惊人的认知能力？这场采访还触及了构建Mentava的创业之路，强调对儿童教育潜力的猛烈 advocacy 的重要性。这类内容吸引了父母、教育工作者和教育科技企业家，他们寻求基于证据的方法来加速学习，同时保持过程中的乐趣与好奇心。",
+    "best_quote_en": "Kids are these little sponges. They want to learn everything.",
+    "best_quote_zh": "孩子们就是这些小海绵。他们想学习一切。"
+  },
+  {
+    "id": 486,
+    "title": "iPhone 的垃圾时间结束了吗",
+    "title_zh": "iPhone 的垃圾时间结束了吗",
+    "model_used": "poolside/laguna-s-2.1:free",
+    "source": "虎嗅",
+    "link": "https://www.huxiu.com/article/4891303.html?f=rss",
+    "tags": [
+      "learn",
+      "design",
+      "ai-research",
+      "deep-dive"
+    ],
+    "tags_zh": [
+      "学习",
+      "设计创意",
+      "AI研究",
+      "深度分析"
+    ],
+    "date": "2026-09-15",
+    "summary_en": "This article examines Apple's belated entry into the foldable phone market with the iPhone Duo, seven years after Samsung's initial launch. The analysis reveals that Apple's timing isn't merely about innovation lag—it reflects a calculated strategy of entering mature markets with superior execution. The piece explores how Apple leverages its software expertise and supply chain dominance to monetize a shrinking but increasingly lucrative smartphone market, capturing nearly half of global revenue despite holding only 21% unit share. More critically, the article argues that while foldable screens represent yesterday's battle, Apple's real challenge lies in the AI frontier—where competitors like Doubao have already established cross-app AI capabilities. The 'intelligent personal hub' vision remains largely aspirational, lacking concrete implementation details. This represents Apple's fundamental tension: a cash-generating machine in a mature market, yet struggling to define its role in the emerging AI era.",
+    "summary_zh": "苹果七年迟的折叠屏，反映的是成熟市场的策略选择而非创新失败。真正的考题是AI——苹果如何把25亿激活设备变为个人AI中枢，才决定其未来命运。",
+    "best_quote_en": "Apple's true strength lies not in being first to market, but in entering mature categories with superior software integration and ecosystem advantages that turn hardware limitations into seamless user experiences.",
+    "best_quote_zh": "折叠屏不是新东西，这个品类已经迭代多年，甚至有厂商完整经历了从入场到倒闭的全过程。苹果真正擅长的，是用软件和生态把硬件形态里的小毛病尽量磨平。"
   }
 ]
