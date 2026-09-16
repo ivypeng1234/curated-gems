@@ -1,114 +1,5 @@
 [
   {
-    "id": 387,
-    "title": "“By the Lake” by Photographer Tommy Keith",
-    "title_zh": "湖畔",
-    "model_used": "nvidia/nemotron-3-nano-omni-30b-a3b-reasoning:free",
-    "source": "BOOOOOOOM",
-    "link": "https://www.booooooom.com/2026/08/26/by-the-lake-by-photographer-tommy-keith/",
-    "tags": [
-      "update",
-      "music-arts"
-    ],
-    "tags_zh": [
-      "动态",
-      "音乐艺术"
-    ],
-    "date": "2026-08-26",
-    "summary_en": "Tommy Keith’s series “By the Lake” presents a quiet exploration of a serene waterside landscape. Through a sequence of carefully composed photographs, the viewer is drawn into the gentle play of light on water, the subtle reflections of surrounding trees, and the stillness that pervades the scene. Each image captures a different moment of calm, from early morning mist to late afternoon glow, emphasizing the natural beauty and meditative atmosphere of the lake. The collection invites contemplation, encouraging audiences to pause and appreciate the simple elegance found in nature’s quiet moments.",
-    "summary_zh": "汤姆基思的湖畔系列通过精心构图的摄影展现湖面上光影变幻树影倒映及宁静的自然氛围引领观者在清晨薄雾到傍晚余晖之间体会自然的简约美感与沉静的冥想情绪和谐的光影交错映照心灵带来宁静的沉思",
-    "best_quote_en": "The lake mirrors the sky, inviting quiet contemplation and gentle reflection.",
-    "best_quote_zh": "湖面映照天空，邀请宁静沉思与柔和反思。"
-  },
-  {
-    "id": 388,
-    "title": "‘We’re at a crisis point’: Chappell Roan, Shirley Manson and Eli on playing Olivia Rodrigo’s female-only festival",
-    "title_zh": "“我们正处于危机时刻”：Chappell Roan、Shirley Manson 与 Eli 谈论参加 Olivia Rodrigo 的纯女性音乐节",
-    "model_used": "google/gemma-4-26b-a4b-it:free",
-    "source": "Women | The Guardian",
-    "link": "https://www.theguardian.com/music/2026/aug/27/olivia-rodrigo-daisy-chain-fields-preview-chappell-roan-interview-eli-shirley-manson",
-    "tags": [
-      "update",
-      "music-arts"
-    ],
-    "tags_zh": [
-      "动态",
-      "音乐艺术"
-    ],
-    "date": "2026-08-27",
-    "summary_en": "Olivia Rodrigo is launching her inaugural festival, Daisy Chain Fields, in Irvine, California. Featuring an intergenerational lineup including Chappell Roan, Shirley Manson, and Eli, the event aims to celebrate women's art and community while addressing gender imbalances in the industry. Unlike traditional festivals, the lineup emphasizes equality with no overlapping sets or hierarchy. Most importantly, the festival serves a mission-driven purpose: 100% of net proceeds will support reproductive rights organizations like Planned Parenthood, reflecting a growing movement of artists using large-scale events to advocate for social justice and women's rights.",
-    "summary_zh": "Olivia Rodrigo 即将在加州举办首届 Daisy Chain Fields 音乐节。该活动汇集了 Chappell Roan、Shirley Manson 及 Eli 等跨世代女性艺术家，旨在打破音乐节性别失衡的现状，并建立一个非竞争性的社区文化。不同于传统商业音乐节，该活动具有强烈的社会使命感：其净收益将全部捐赠给 Planned Parenthood 等机构，支持女性生殖权利。这标志着艺术家正利用大型现场活动，将音乐表演与社会正义及女性权利倡导紧密结合。",
-    "best_quote_en": "We’re at a crisis point.",
-    "best_quote_zh": "我们正处于一个危机时刻。"
-  },
-  {
-    "id": 389,
-    "title": "Early Work",
-    "title_zh": "早期工作",
-    "model_used": "dots-studio/dots-3-note-preview:free",
-    "source": "Paul Graham",
-    "link": "http://www.paulgraham.com/early.html",
-    "tags": [
-      "solve",
-      "startup-strategy",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "解决",
-      "创业策略",
-      "未来预测"
-    ],
-    "date": "2026-08-27",
-    "summary_en": "Paul Graham's essay 'Early Work' explores the pervasive fear of creating something inadequate, which stifles ambitious endeavors. This fear is not irrational; early stages of projects often appear unimpressive, even to creators, due to societal lack of customs for evaluating nascent ideas. Graham argues that by shifting mindset—treating new ideas as challenges to imagination rather than dismissing them—we can overcome this barrier. Drawing on Silicon Valley's culture, he highlights how optimism and supportive environments foster innovation. The essay offers actionable strategies, such as embracing overconfidence, surrounding oneself with discerning peers, and reframing failure as learning, to navigate the 'lame phase.' While Graham's insights are profoundly insightful, they primarily focus on individual psychology, potentially underestimating systemic obstacles. Ultimately, the piece calls for evolving social norms to encourage risk-taking, urging readers to appreciate the inherent value in early work and cultivate a growth mindset essential for progress.",
-    "summary_zh": "本文深入探讨了阻碍创新的恐惧心理：对做出拙劣作品的畏惧。这种恐惧合理，因初期成果常显不成熟。作者指出社会缺乏评估新想法的习俗，导致过早批判。通过硅谷案例，他强调将新想法视为想象力挑战而非否定，能促进创新。文中提供实用策略，如适度过度自信、寻求良师益友、将失败视为学习，帮助度过‘拙劣期’。尽管聚焦个人心理，但文章呼吁社会规范演变以鼓励冒险，引导读者重估早期工作的价值，培养成长心态。",
-    "best_quote_en": "The right way to deal with new ideas is to treat them as a challenge to your imagination – not just to have lower standards, but to switch polarity entirely, from listing the reasons an idea won't work to trying to think of ways it could.",
-    "best_quote_zh": "处理新想法的正确方式是将其视为对想象力的挑战——不是降低标准，而是完全切换极性，从列出想法行不通的原因转向思考它如何可能可行。"
-  },
-  {
-    "id": 390,
-    "title": "Relationship Tools That Work — Esther Perel, Brené Brown, Dr. Sue Johnson, Terry Real, and More on Conflict, Repair, and Lasting Love (#880)",
-    "title_zh": "有效的关系工具——埃丝特·佩雷尔、布伦妮·布朗、苏·约翰逊博士、特里·雷尔等关于冲突、修复与持久爱情（#880）",
-    "model_used": "dots-studio/dots-3-note-preview:free",
-    "source": "Tim Ferriss",
-    "link": "https://tim.blog/2026/08/19/relationship-tools/",
-    "tags": [
-      "learn",
-      "psychology",
-      "writing-content"
-    ],
-    "tags_zh": [
-      "学习",
-      "心理学",
-      "写作内容"
-    ],
-    "date": "2026-08-19",
-    "summary_en": "This episode convenes a rare constellation of relationship experts—Esther Perel, Brené Brown, the late Dr. Sue Johnson, Terry Real, and others—to address the universal challenge of sustaining intimacy across time. Rather than offering quick fixes, the discussion explores the structural and emotional mechanics of conflict, repair, and resilience. Drawing from attachment theory, somatic psychology, and clinical practice, the contributors reframe conflict not as a failure of love but as an inevitable and necessary phase in the cycle of closeness. The insights are grounded in decades of research and therapeutic work, offering listeners not just theory but practical tools: naming emotions, listening before responding, and understanding that the real fight is often about how we fight. The episode’s value lies in its synthesis of expert wisdom into actionable frameworks, making advanced psychological concepts accessible without sacrificing depth. It is both a diagnostic mirror and a repair manual for modern relationships.",
-    "summary_zh": "这期节目汇聚了多位关系领域顶尖专家，共同探讨如何在时间中维系亲密感。他们不提供速效解决方案，而是深入剖析冲突、修复与韧性的内在机制。借助依恋理论、身体心理学与临床实践，嘉宾们重新定义冲突——它并非爱的失败，而是亲密循环中必然且必要的一环。这些见解源于数十年研究与治疗经验，将高深心理学概念转化为可操作工具：如命名情绪、先倾听再回应、理解“真正的争执往往关乎我们如何争吵”。节目既是一面诊断之镜，也是一本修复手册，为现代关系提供兼具深度与实用性的指引。",
-    "best_quote_en": "The essential rhythm of all relationships is harmony, disharmony, and repair. Closeness, disruption, and a return to closeness.",
-    "best_quote_zh": "所有关系的基本节奏是：和谐、不和谐与修复。亲密、中断，然后回归亲密。"
-  },
-  {
-    "id": 391,
-    "title": "Illustrator Spotlight: Ibrahim Rayintakath",
-    "title_zh": "插画家专访：伊布拉希姆·赖伊因塔卡特",
-    "model_used": "poolside/laguna-xs-2.1:free",
-    "source": "BOOOOOOOM",
-    "link": "https://www.booooooom.com/2026/08/24/illustrator-spotlight-ibrahim-rayintakath/",
-    "tags": [
-      "analyze",
-      "ai-research"
-    ],
-    "tags_zh": [
-      "分析",
-      "AI研究"
-    ],
-    "date": "2026-08-24",
-    "summary_en": "This content features a comprehensive visual portfolio of Ibrahim Rayintakath, an illustrator whose work spans diverse artistic techniques and cultural themes. Through twenty detailed artwork images, the piece reveals a sophisticated approach to visual storytelling that bridges traditional and contemporary aesthetics. Rayintakath's work demonstrates mastery in color theory, composition, and narrative depth, suggesting an artist deeply engaged with both personal expression and broader cultural dialogues. The visual feast serves as both inspiration for fellow creatives and educational material for those studying illustration techniques. The absence of extensive text in favor of visual immersion speaks to the power of imagery in contemporary art discourse, allowing the work to speak for itself while providing valuable insights into the artist's creative universe.",
-    "summary_zh": "这篇内容以二十幅精美插画作品为主，深入展示了伊布拉希姆·赖伊因塔卡特的艺术风格。作品融合传统与当代审美，运用了色彩理论、构图和叙事深度。纯以图像为主，让艺术品牌力更直观，为创作者提供灵感。",
-    "best_quote_en": "Ibrahim Rayintakath's Website",
-    "best_quote_zh": "伊布拉希姆·赖伊因塔卡特的作品网站"
-  },
-  {
     "id": 392,
     "title": "Does Computer Science Need Computers?",
     "title_zh": "计算机科学需要计算机吗？",
@@ -2342,5 +2233,126 @@
     "summary_zh": "苹果七年迟的折叠屏，反映的是成熟市场的策略选择而非创新失败。真正的考题是AI——苹果如何把25亿激活设备变为个人AI中枢，才决定其未来命运。",
     "best_quote_en": "Apple's true strength lies not in being first to market, but in entering mature categories with superior software integration and ecosystem advantages that turn hardware limitations into seamless user experiences.",
     "best_quote_zh": "折叠屏不是新东西，这个品类已经迭代多年，甚至有厂商完整经历了从入场到倒闭的全过程。苹果真正擅长的，是用软件和生态把硬件形态里的小毛病尽量磨平。"
+  },
+  {
+    "id": 487,
+    "title": "Podcasting the world",
+    "title_zh": "用播客连接世界",
+    "model_used": "nex-agi/nex-n2.5-mini:free",
+    "source": "A year of reading the world",
+    "link": "https://ayearofreadingtheworld.com/2026/07/22/podcasting-the-world/",
+    "tags": [
+      "update",
+      "writing-content"
+    ],
+    "tags_zh": [
+      "动态",
+      "写作内容"
+    ],
+    "date": "2026-07-22",
+    "summary_en": "This post frames podcasting as a cultural bridge rather than mere media promotion. Across close-reading shows, Telugu literary conversations, and interviews with major writers, the author shows how audio can sustain slow attention while crossing linguistic, national, and disciplinary boundaries. Harshaneeyam is especially revealing: its focus on the pleasures and challenges of not-knowing suggests that translation is not simply the transfer of known meanings, but an encounter with uncertainty. The piece also reveals the author’s unusually flexible role—guest, interviewer, and producer—turning personal networks into a curated map of reading culture. Its strongest value lies in discovery and community-building, though the format is largely promotional and offers little critical discussion of podcasting’s economics, accessibility, or editorial standards. Still, the piece is a thoughtful reminder that listening can be a form of reading, and that cultural exchange often begins with curiosity rather than fluency.",
+    "summary_zh": "这篇随笔把播客写成跨越语言与国界的文化桥梁。从细读英美文学，到记录现代泰卢固文学，再到访谈名家，作者让“倾听”成为一种缓慢而开放的阅读。尤其可贵的是，对“不知”的探讨揭示了翻译并非搬运既有意义，而是与陌生相遇。文章也展现作者游走于嘉宾、主持人与制作人的多重身份，将个人网络汇成一张阅读文化地图。其局限是推荐意味强于批判，较少讨论平台经济与可及性；但正因此更显真诚，提醒我们文化交流往往始于好奇而非精通。",
+    "best_quote_en": "Harshaneeyam explores the pleasures and challenges of not-knowing.",
+    "best_quote_zh": "播客既是对文本的细读，也是与陌生世界保持开放的倾听。"
+  },
+  {
+    "id": 488,
+    "title": "Black Holes or Black Hole Stars? Astronomers Spar Over Webb Telescope’s ‘Little Red Dots.’",
+    "title_zh": "黑洞还是黑洞恒星？Webb望远镜的“小红点”引发天文学家争论",
+    "model_used": "poolside/laguna-xs-2.1:free",
+    "source": "Quanta Magazine",
+    "link": "https://www.quantamagazine.org/black-holes-or-black-hole-stars-astronomers-spar-over-webb-telescopes-little-red-dots-20260914/",
+    "tags": [
+      "analyze",
+      "science",
+      "ai-research",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "分析",
+      "科学研究",
+      "AI研究",
+      "数据驱动"
+    ],
+    "date": "2026-09-14",
+    "summary_en": "This groundbreaking article explores the scientific controversy surrounding the James Webb Space Telescope's mysterious 'little red dots'—glowing infrared points that have puzzled astronomers since 2023. Initially thought to be distant galaxies or supermassive black holes, these objects have now sparked a paradigm-shifting debate about a potential new astrophysical phenomenon: the 'black hole star.' These hypothetical objects would combine the explosive energy of a black hole with the surface characteristics of a star, potentially representing an early developmental stage of supermassive black holes. The article masterfully captures the scientific method in action, showing how detailed spectral analysis revealed unexpected hydrogen signatures and Balmer breaks that challenged existing theories. What makes this particularly fascinating is the collaborative yet contentious nature of modern astrophysics, where multiple research teams simultaneously proposed competing explanations. The discovery has profound implications for our understanding of cosmic evolution, potentially rewriting the timeline of black hole formation. As one researcher noted, we may be witnessing the 'birth of potentially every massive black hole in the universe.' The article demonstrates science's self-correcting nature while highlighting how cutting-edge technology continues to uncover nature's deepest mysteries.",
+    "summary_zh": "Webb望远镜捕捉的“小红点”引发天文界大争论，或许揭示宇宙黑洞诞生的全新阶段。这些极端天体或为“黑洞恒星”，将黑洞的吞噬能量与恒星的光谱特征结合。科学家通过光谱分析发现，这些前所未有的天体或是超大质量黑洞的“幼年期”，这一发现或颠覆传统宇宙演化时间表。争论中展现出科学探索的精髓：用最严谨的观测数据挑战既有理论，同时保持开放的求真态度。",
+    "best_quote_en": "We are seeing the seed. This is the birth of potentially every massive black hole in the universe.",
+    "best_quote_zh": "我们正在看到种子。这可能是宇宙中每个巨型黑洞的诞生。"
+  },
+  {
+    "id": 489,
+    "title": "Chasing la dolce vita",
+    "title_zh": "追逐甜美生活",
+    "model_used": "nvidia/nemotron-3.5-lightning:free",
+    "source": "Aeon",
+    "link": "https://aeon.co/essays/italianness-is-a-state-of-travelling-in-both-directions",
+    "tags": [
+      "analyze",
+      "lifestyle",
+      "ai-research",
+      "case-study"
+    ],
+    "tags_zh": [
+      "分析",
+      "生活方式",
+      "AI研究",
+      "案例研究"
+    ],
+    "date": "2026-09-15",
+    "summary_en": "This profound essay explores the complex, multi-generational experience of Italian diaspora identity through personal family history and broader sociological context. The narrative weaves together childhood memories of Italian rituals in London, the author's struggle with hybrid cultural belonging, and the historical reality of Italian migration. Central to the piece is the tension between performative Italianness abroad and authentic connection, illustrated through the author's failed attempts to embody Italian identity during a formative stay in Florence. The essay powerfully examines how migration trauma, particularly the internment of Italian 'enemy aliens' during WWII, creates lasting emotional landscapes. Ultimately, it argues that diasporic identity gains strength from its very multiplicity and restlessness, suggesting that the 'impossibility of return' becomes a framework for understanding how displaced Italians preserve and reinterpret their heritage across generations and continents.",
+    "summary_zh": "这篇深刻的散文通过个人家族史和更广泛的社会学背景，探索了意大利裔 diaspora 身份的复杂多代体验。叙事编织了伦敦意大利仪式的童年回忆、作者在文化归属上的挣扎，以及历史上的意大利移民现实。文章核心是境外意大利性的表演性与真实连接之间的张力，通过作者在佛罗伦萨的一次重要驻留经历未能体现意大利身份这一事实加以说明。文章有力探讨了移民创伤——特别是二战期间意大利「敌外侨」的拘留——如何形成持久的情感景观。最终，它论证了 diasporic 身份的力量源于其本身的多重性和不安感，暗示「无法返回」的不可能性成为了理解代际跨越大陆如何保存和重新诠释遗产的框架。",
+    "best_quote_en": "'I pictured young Marco as a giant striding through the forests of north-central Italy, calling to the bird of prey, waiting in vain for it to land on his outstretched hand.'",
+    "best_quote_zh": "\"我把年轻的马可想象成一个巨人，穿行在北中意大利的森林中，呼唂猛鸟，却虚等它落在他伸出的手上。\""
+  },
+  {
+    "id": 490,
+    "title": "The Top Song From Every Year in the 1980s",
+    "title_zh": "1980年代年度冠军歌曲",
+    "model_used": "dots-studio/dots-3-note-preview:free",
+    "source": "Mental Floss",
+    "link": "https://www.mentalfloss.com/entertainment/music/top-song-every-year-1980s?utm_source=RSS",
+    "tags": [
+      "analyze",
+      "science",
+      "music-arts",
+      "beginner-friendly"
+    ],
+    "tags_zh": [
+      "分析",
+      "科学研究",
+      "音乐艺术",
+      "新手友好"
+    ],
+    "date": "2026-09-15",
+    "summary_en": "This article offers a compelling retrospective on the top songs in the U.S. during the 1980s, as ranked by Billboard magazine. Beyond a simple list, it uncovers the rich narratives behind each hit, transforming them from chart-toppers into cultural artifacts. The piece highlights how the music landscape was shaped by pivotal events like the emergence of MTV and Live Aid, which amplified songs' societal impact. Critically, it delves into the creative processes and unintended meanings; for example, Sting's revelation that 'Every Breath You Take' was inspired by themes of surveillance challenges romantic interpretations. Additionally, the philanthropic drive behind 'That's What Friends Are For,' which raised over $3 million for AIDS research, underscores music's role in social advocacy. This analysis not only educates but also invites reflection on how pop music often carries deeper layers, encouraging listeners to appreciate the artistry and historical context behind the melodies. It serves as a valuable resource for understanding the interplay between music, technology, and culture in a transformative decade.",
+    "summary_zh": "本文基于《公告牌》榜单，回顾1980年代美国年度冠军歌曲的多元面貌。每首歌背后都有独特故事，如电影灵感或社会事件，使其超越单纯娱乐，成为时代印记。MTV崛起和Live Aid等事件放大了音乐的文化影响力，而Sting揭示《Every Breath You Take》暗含监控隐喻，挑战听众对情歌的认知。公益歌曲如《That's What Friends Are For》为艾滋病研究筹款，彰显音乐推动社会变革的力量。文章兼具知识性与怀旧感，启发我们重新审视经典作品的深层价值，理解艺术与历史的交织。",
+    "best_quote_en": "It sounds like a comforting love song. I didn't realize at the time how sinister it is. I think I was thinking of Big Brother, surveillance and control.",
+    "best_quote_zh": "它听起来像一首安慰性的爱情歌。我当时没意识到它有多 sinister。我想我在思考老大哥、监控和控制。"
+  },
+  {
+    "id": 491,
+    "title": "Free Virtual Incomprehension Workshop",
+    "title_zh": "免费虚拟“不理解”工作坊",
+    "model_used": "dots-studio/dots-3-note-preview:free",
+    "source": "A year of reading the world",
+    "link": "https://ayearofreadingtheworld.com/2026/07/09/free-virtual-incomprehension-workshop/",
+    "tags": [
+      "learn",
+      "education",
+      "society",
+      "beginner-friendly"
+    ],
+    "tags_zh": [
+      "学习",
+      "教育学习",
+      "社会议题",
+      "新手友好"
+    ],
+    "date": "2026-07-09",
+    "summary_en": "This workshop inverts traditional literary comprehension by centering on what readers cannot understand, offering a radical reframe of how we engage with texts. Ann Morgan’s approach invites participants to embrace discomfort, interrogate bias, and explore the creative potential of uncertainty. Rather than striving for full clarity, the session treats incomprehension as a generative space for cultural and self-reflection. By analyzing excerpts outside participants’ comfort zones, it reveals how assumptions shape interpretation and how gaps in understanding can become sites of intellectual growth. The virtual format democratizes access, making this experimental pedagogical model available globally. It’s not just a reading exercise—it’s a philosophical intervention into how we know, learn, and relate to the unfamiliar. For educators, writers, and curious minds, it challenges the very premise of comprehension as mastery, proposing instead that not-knowing is a gateway to deeper inquiry.",
+    "summary_zh": "这个工作坊颠覆了传统阅读理解模式，将“无法理解”置于核心，重新定义我们与文本的关系。安·摩根邀请参与者拥抱不适、质疑偏见，并探索不确定性的创造潜能。通过分析超出舒适区的文本片段，揭示假设如何塑造解读，以及理解的空白如何成为智识成长的契机。虚拟形式打破地理壁垒，使这一实验性教学模式全球可及。这不仅是阅读练习，更是对“理解即掌控”认知范式的哲学挑战，提出“未知”才是深度追问的入口。对教育者、写作者和求知者而言，它提供了一种全新的认知姿态：在不理解中，寻找理解的更深层可能。",
+    "best_quote_en": "Turning the school literature comprehension exercise upside down, we’ll consider a range of extracts from books likely to be outside the comfort zone of participants and play with the questions, problems or reactions that come from not knowing how to read them.",
+    "best_quote_zh": "我们将把学校文学理解练习彻底倒过来，审视一系列可能超出参与者舒适区的文本片段，并玩味那些因不知如何阅读而产生的疑问、难题与反应。"
   }
 ]
