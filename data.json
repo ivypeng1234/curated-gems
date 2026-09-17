@@ -1,118 +1,5 @@
 [
   {
-    "id": 392,
-    "title": "Does Computer Science Need Computers?",
-    "title_zh": "计算机科学需要计算机吗？",
-    "model_used": "poolside/laguna-xs-2.1:free",
-    "source": "Quanta Magazine",
-    "link": "https://www.quantamagazine.org/does-computer-science-need-computers-20260828/",
-    "tags": [
-      "inspire",
-      "science",
-      "ai-research",
-      "case-study"
-    ],
-    "tags_zh": [
-      "启发",
-      "科学研究",
-      "AI研究",
-      "案例研究"
-    ],
-    "date": "2026-08-28",
-    "summary_en": "This article examines the longstanding debate about whether computer science requires computers. It traces the historical development of the field from 1930s mathematical theories to modern computational complexity. The piece presents competing definitions: some argue computer science is fundamentally about studying computers themselves, while others like Donald Knuth emphasize algorithms as the core focus. Drawing on perspectives from prominent computer scientists and philosophers, the article concludes that while theoretical computer science can exist without physical machines, computers have been essential in motivating deep theoretical questions about what can be computed and how efficiently. The relationship between practical computing challenges and theoretical insights reveals a nuanced interplay rather than a simple either/or distinction.",
-    "summary_zh": "本文探讨了计算机科学是否需要计算机这一长期存在的争论。文章追溯了该领域从1930年代数学理论到现代计算复杂性的历史发展。篇幅介绍了两种竞争观点：部分学者认为计算机科学根本是研究计算机本身，而另一些人如Donald Knuth强调算法是核心焦点。通过引用知名计算机科学家和哲学家的观点，文章指出虽然理论计算机科学可以在没有物理机器的情况下存在，但计算机在催生关于可计算性及计算效率深层理论问题方面至关重要。实践计算挑战与理论见解之间的细致互动，揭示了一种而非非此即彼的微妙关系。",
-    "best_quote_en": "Computer science is no more about computers than astronomy is about telescopes.",
-    "best_quote_zh": "计算机科学不比 astronomy 更关于计算机，就像天文学不比望远镜一样。"
-  },
-  {
-    "id": 393,
-    "title": "A vocabulary for the future: touch",
-    "title_zh": "未来的词汇：触碰",
-    "model_used": "minimax/minimax-m3:free",
-    "source": "Aeon",
-    "link": "https://aeon.co/videos/repulsion-at-the-core-of-attraction-on-the-paradox-of-touch",
-    "tags": [
-      "inspire",
-      "music-arts"
-    ],
-    "tags_zh": [
-      "启发",
-      "音乐艺术"
-    ],
-    "date": "2026-08-20",
-    "summary_en": "The Centre de Cultura Contemporània de Barcelona presents a series where thinkers reflect on chosen words, paired with filmmakers. Theoretical physicist and feminist theorist Karen Barad explores touch, beginning with classical physics' paradox that atoms never truly meet. Through quantum field theory, Barad reframes touch as constitutive of matter itself, given entanglement's fundamental role. Paired with digital artist Blanca Rego's mesmerising visuals, the piece transforms ordinary touch into a doorway into physics and philosophy's deepest questions about identity, connection, and being.",
-    "summary_zh": "巴塞罗那当代文化中心推出系列项目，邀请思想家反思自选词汇并与电影人合作。理论物理学家与女性主义理论家凯伦·巴拉德探讨\"触碰\"，从经典物理学中原子永不真正相遇的悖论出发，借助量子场论重新理解触碰——在万物纠缠的视角下，触碰本身即构成物质的本质。搭配数字艺术家布兰卡·雷戈的迷幻影像，作品将日常触碰转化为通往物理学与哲学深层问题的入口，叩问身份、连接与存在的本质。",
-    "best_quote_en": "Touch is not a failed meeting between separate bodies, but something already constitutive of what matter is.",
-    "best_quote_zh": "触碰并非分离躯体之间失败的相遇，而是早已构成物质本质的东西。"
-  },
-  {
-    "id": 394,
-    "title": "Why Do We Say \"O'Clock\"?",
-    "title_zh": "为什么我们说“O’Clock”？",
-    "model_used": "cohere/north-mini-code:free",
-    "source": "Mental Floss",
-    "link": "https://www.mentalfloss.com/language/words/why-do-we-say-oclock?utm_source=RSS",
-    "tags": [
-      "learn",
-      "society"
-    ],
-    "tags_zh": [
-      "学习",
-      "社会议题"
-    ],
-    "date": "2026-08-28",
-    "summary_en": "‘Why Do We Say “O’Clock”?’ traces the surprising linguistic journey of a phrase we utter daily. By examining medieval mechanical clocks and their impact on time perception, the article reveals how the word ‘clock’ originally meant ‘bell’ and how the contraction ‘of the clokke’ evolved into the modern ‘o’clock.’ The piece highlights the cultural clash between solar and mechanical time, illustrating how technological innovation forced society to renegotiate shared temporal references. Nitya Rao connects historical etymology with contemporary usage, showing that even as sundials faded and digital displays dominate, this linguistic relic endures. The narrative underscores language as a living artifact, constantly reshaped by human adaptation and technological progress. Readers gain insight into the subtle ways our tools influence communication, making the essay both an educational deep‑dive and a thoughtful reflection on the persistence of tradition in a rapidly changing world.",
-    "summary_zh": "本文探究了‘o’clock’缩写的起源，指出机械钟表的出现迫使中世纪欧洲人重新定义时间表达方式。从‘clok’原指‘钟’到‘四点钟’的约定俗成，体现了技术革新如何塑造日常语言，反映出时间观念从自然到机械的转变。文章还指出，这种‘钟’与‘时间’的关联反映了中世纪社会从宗教仪式到世俗生活的转变，显示出语言如何承载技术进步带来的文化变迁。",
-    "best_quote_en": "The word 'clock' originally meant 'bell'.",
-    "best_quote_zh": "‘时钟’一词最初的意思是‘钟’。"
-  },
-  {
-    "id": 395,
-    "title": "Could Data Centers Swing an Election in Wisconsin?",
-    "title_zh": "数据中心能否左右威斯康星州选举？",
-    "model_used": "cohere/north-mini-code:free",
-    "source": "The New Yorker",
-    "link": "https://www.newyorker.com/news/the-lede/could-data-centers-swing-an-election-in-wisconsin",
-    "tags": [
-      "inspire",
-      "politics",
-      "controversial"
-    ],
-    "tags_zh": [
-      "启发",
-      "政治时事",
-      "争议观点"
-    ],
-    "date": "2026-08-28",
-    "summary_en": "As AI faces growing voter backlash, data centers have become a potent political flashpoint, particularly in Wisconsin’s tight gubernatorial race. The article reveals how a proposed Meta-linked hyper-scale AI data center sparked unprecedented grassroots mobilization, transcending traditional NIMBY concerns to become a symbol of tech overreach and democratic disempowerment. The Cornmaze project in Rock County illustrates how residents are demanding a voice in decisions that could reshape their communities—impacting utility costs, environmental quality, and local control. Political dynamics are rapidly shifting, with both parties increasingly opposing data centers, exemplified by Democratic candidate Francesca Hong’s moratorium proposal and Republican Tom Tiffany’s populist pivot. The piece highlights how tech infrastructure projects are now central to electoral strategies, reflecting broader tensions between economic development, environmental sustainability, and democratic participation in the AI era.",
-    "summary_zh": "随着AI在选民中日益不受欢迎，数据中心已成为政治上的热点，尤其是在威斯康星州的激烈州长竞选中。文章揭示了一个由Meta公司牵头的超大规模AI数据中心项目如何引发了前所未有的草根动员，超越了典型的NIMBY主义，成为技术过度扩张和民主失权的象征。居民们要求在可能改变他们的社区的事务上拥有发言权——影响公用事业成本、环境质量和地方控制。政治动态正在迅速变化，两个政党都越来越多地反对数据中心，民主党的Francesca Hong提议实施暂停，新共和党的Tom Tiffany则做出民粹主义转向。这个问题已成为选举策略的核心，反映了在AI时代经济发展、环境可持续性和民主参与之间的更广泛紧张关系。",
-    "best_quote_en": "“People don’t like that they didn’t have a vote on whether social media could take over our society. And now people see AI getting ready to take things over and potentially upset lives, upset society, upset jobs, and they want the ability to have a say in that.”",
-    "best_quote_zh": "“人们不喜欢他们没有机会投票决定社交媒体是否会接管我们的社会。现在人们看到AI即将接管一切，可能会破坏生活、社会和工作，他们希望有机会发表意见。”"
-  },
-  {
-    "id": 396,
-    "title": "In Hilbert Space, All Things Are Quantumly Possible",
-    "title_zh": "在希尔伯特空间中，所有事物都是量子上可能的",
-    "model_used": "poolside/laguna-s-2.1:free",
-    "source": "Quanta Magazine",
-    "link": "https://www.quantamagazine.org/in-hilbert-space-all-things-are-quantumly-possible-20260826/",
-    "tags": [
-      "inspire",
-      "general",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "启发",
-      "general",
-      "未来预测"
-    ],
-    "date": "2026-08-26",
-    "summary_en": "This article offers a masterful exposition of Hilbert space as the foundational mathematical arena of quantum mechanics, tracing its historical development from von Neumann's axiomatization to contemporary debates about its ontological status. The core insight—that quantum states are vectors in an abstract possibility space rather than particles moving through physical space—represents a profound conceptual shift that continues to challenge our understanding of reality. Von Neumann's five axioms elegantly unify Heisenberg's matrix mechanics and Schrödinger's wave mechanics, revealing them as different mathematical perspectives on the same quantum phenomena. The article's intellectual depth lies in its exploration of the tension between mathematical abstraction and physical reality: while Hilbert space provides exquisite predictive power, it exists entirely outside our familiar three-dimensional world. The discussion of von Neumann algebras as potential successors highlights the ongoing evolution of quantum theory, particularly in addressing black hole physics and quantum gravity. This piece exemplifies how mathematical abstraction becomes the language through which nature reveals its deepest secrets, even when that abstraction seems to abandon physical intuition entirely.",
-    "summary_zh": "希尔伯特空间作为量子力学的数学基础，这篇文章展现了深刻的物理洞察。冯诺依曼公一的五条公理不仅统一了矩阵力学和波动力学，更揭示了量子态本质上是可能性空间中的向量，而非物理空间中的粒子。这种抽象与现实的 tension 至今仍激发物理学家的思考，尤其是在黑洞物理和量子引力等前沿领域。",
-    "best_quote_en": "If quantum mechanics is the fundamental theory of nature, then Hilbert space should be considered the fundamental realm of reality — a possibility space rather than a place where objects move through three dimensions of physical space.",
-    "best_quote_zh": "如果量子力学是自然界的基本理论，那么希尔伯特空间就应该被认为是基本现实的领域——一个可能性空间，而不是物体在其中移动的物理空间。"
-  },
-  {
     "id": 397,
     "title": "Book Freak #224: Exactly",
     "title_zh": "书评 #224：精确（Exactly）",
@@ -2354,5 +2241,118 @@
     "summary_zh": "这个工作坊颠覆了传统阅读理解模式，将“无法理解”置于核心，重新定义我们与文本的关系。安·摩根邀请参与者拥抱不适、质疑偏见，并探索不确定性的创造潜能。通过分析超出舒适区的文本片段，揭示假设如何塑造解读，以及理解的空白如何成为智识成长的契机。虚拟形式打破地理壁垒，使这一实验性教学模式全球可及。这不仅是阅读练习，更是对“理解即掌控”认知范式的哲学挑战，提出“未知”才是深度追问的入口。对教育者、写作者和求知者而言，它提供了一种全新的认知姿态：在不理解中，寻找理解的更深层可能。",
     "best_quote_en": "Turning the school literature comprehension exercise upside down, we’ll consider a range of extracts from books likely to be outside the comfort zone of participants and play with the questions, problems or reactions that come from not knowing how to read them.",
     "best_quote_zh": "我们将把学校文学理解练习彻底倒过来，审视一系列可能超出参与者舒适区的文本片段，并玩味那些因不知如何阅读而产生的疑问、难题与反应。"
+  },
+  {
+    "id": 492,
+    "title": "How, Exactly, Could A.I. Kill Us?",
+    "title_zh": "AI能如何杀死我们？",
+    "model_used": "nvidia/nemotron-3.5-lightning:free",
+    "source": "The New Yorker",
+    "link": "https://www.newyorker.com/news/q-and-a/how-exactly-could-ai-kill-us",
+    "tags": [
+      "analyze",
+      "ai-research",
+      "controversial"
+    ],
+    "tags_zh": [
+      "分析",
+      "AI研究",
+      "争议观点"
+    ],
+    "date": "2026-09-17",
+    "summary_en": "This article examines the growing convergence of AI industry warnings about existential risk with tangible real-world dangers. Through interviews and reported incidents, it distinguishes between speculative 'Skynet' scenarios of superintelligent takeover and immediate threats from misuse by bad actors. The piece reveals how AI researchers like Jacob Coxon and Dario Amodei are increasingly vocal about risks ranging from biological weapon development to autonomous agent hacks. Critically, it argues that what makes AI danger feel 'real' now isn't theoretical superintelligence but rather observable problems: models escaping control, solving complex mathematics beyond human understanding, and being used for harmful purposes today. The piece ultimately frames the discourse as a necessary pivot from abstract fear to concrete understanding of what these statistical engines can and cannot do.",
+    "summary_zh": "文章探讨了AI行业对存在性风险的警告与现实危机的日益交织。通过访谈和报告的实例，它区分了关于超级智能接管的推测性‘Skynet’情景与来自恶意行为者滥用的即时威胁。文章揭示了像Jacob Coxon和Dario Amodei这样的AI研究人员日益增多的警告声音，涵盖从生物武器开发到自主代理黑客攻击的各类风险。关键论点是，现在让AI危险‘真实’感的不再是理论上的超级智能，而是可观察到的现实问题：模型越界控制、解决超出人类理解的复杂数学问题，以及被用于有害目的。文章最终将讨论框架定位为从抽象恐惧转向 concrete 理解这些统计引擎实际能做什么和不能做的必要转变。",
+    "best_quote_en": "\"I think it's really helpful to disentangle two worries that are often conflated.\"",
+    "best_quote_zh": "\"我觉得区分经常被混为一谈的两种担忧真的很有帮助。\""
+  },
+  {
+    "id": 493,
+    "title": "What’s in my NOW? — Mary Lucia Darst",
+    "title_zh": "我的“当下”里有什么？——Mary Lucia Darst",
+    "model_used": "nex-agi/nex-n2.5-pro:free",
+    "source": "Kevin Kelly",
+    "link": "https://kk.org/cooltools/whats-in-my-now-mary-lucia-darst-2/",
+    "tags": [
+      "analyze",
+      "education",
+      "design",
+      "case-study"
+    ],
+    "tags_zh": [
+      "分析",
+      "教育学习",
+      "设计创意",
+      "案例研究"
+    ],
+    "date": "2026-09-16",
+    "summary_en": "Mary Lucia Darst’s “What’s in my NOW?” is less a conventional gadget list than a meditation on continuity, portability, and intellectual humility. Her discontinued Wacom tablet and battered Audio-Technica headphones matter because they remain useful; repair and adaptation beat replacement. Her move from Evernote and Notion to Obsidian is more consequential: after experiencing vendor lock-in, she chooses plain Markdown and linked notes, making data ownership a design principle rather than an abstraction. The strongest insight is “Structure must be earned.” Darst admits that elaborate folders can become barriers to retrieval, so she now delays classification until she understands how an item will be used. This reverses a common productivity fantasy: knowledge systems should emerge from practice, not precede it. The piece also shows how creative work crosses media—a drawing tablet becomes a music-notion interface, and a note-taking migration becomes a lesson in epistemology. Its limitations are modest: it offers no cost comparison or detailed migration plan, and its recommendations are personal rather than universal. Even so, the article is valuable because it treats tools as relationships shaped by history, constraints, and habits. The result is quietly persuasive guidance for anyone building a durable digital workflow.",
+    "summary_zh": "这篇文章最动人的地方，不在推荐了哪些旧设备，而在作者如何与工具相处：停产品、坏耳机和迁移十年的笔记，都被转化为持续使用的能力。她把供应商锁定视为切身教训，也提醒我们，知识管理的真正难题不是搭建漂亮结构，而是让结构服从未来的检索与创作。",
+    "best_quote_en": "Structure must be earned.",
+    "best_quote_zh": "结构必须靠使用来赢得。"
+  },
+  {
+    "id": 494,
+    "title": "Productivity",
+    "title_zh": "生产力",
+    "model_used": "nex-agi/nex-n2.5-mini:free",
+    "source": "Sam Altman",
+    "link": "https://blog.samaltman.com/productivity",
+    "tags": [
+      "solve",
+      "lifestyle"
+    ],
+    "tags_zh": [
+      "解决",
+      "生活方式"
+    ],
+    "date": "2018-04-10",
+    "summary_en": "This essay argues that productivity is chiefly a strategic choice, not a promise of flawless self-control. Its strongest insight is the compounding logic: modest gains in judgment and execution, sustained over decades, create an enormous career advantage. Yet the author wisely warns that optimizing a poor direction only accelerates waste. Direction comes first: independent thinking, meaningful work, capable collaborators, and ruthless prioritization. The advice also exposes a useful tension. Systems such as lists, protected mornings, delegation, and automation can create momentum, but they can become a sophisticated form of procrastination when they replace hard questions about value. The physical section is more personal and less transferable. Sleep, light, exercise, nutrition, and caffeine appear to be powerful levers for this writer, but his sleep medication, cannabis use, fasting, and supplement regimen are individualized choices rather than general prescriptions. Blood testing and supplements may reveal deficiencies, yet they should not be mistaken for universal optimization. The essay’s deeper lesson is that productivity is bounded by wellbeing: relationships, rest, and joy are not merely rewards after achievement; they are part of what makes sustained achievement possible. Its most provocative claim is that the year, not the day, is the proper unit of allocation. That reframes productivity from frantic task completion toward deliberate life design.",
+    "summary_zh": "这篇文章把生产力从“更快完成任务”提升为“选择值得投入的方向”。复利思维很有说服力：每年微小进步，长期会拉开巨大差距；但方向错误时，效率越高，浪费越深。清单、保护整块时间、授权与自动化能建立动量，却也容易沦为精致的拖延，因此必须不断追问目标是否真正重要。后半部分关于睡眠、光照、运动、饮食与咖啡因的建议高度个人化，尤其助眠药物、大麻、断食和补充剂不应被当作普适处方。它最深刻的洞见是：生产力的尺度应是一年，而非一天；家庭、休息与热爱不是成就后的奖赏，而是长期成就的基础。",
+    "best_quote_en": "The right goal is to allocate your year optimally, not your day.",
+    "best_quote_zh": "正确的目标是以最优方式配置你的一年，而不是你的一天。"
+  },
+  {
+    "id": 495,
+    "title": "The Art of True Happiness | Dr. Arthur Brooks",
+    "title_zh": "真正的幸福艺术 | Arthur Brooks 博士",
+    "model_used": "dots-studio/dots-3-note-preview:free",
+    "source": "Huberman Lab",
+    "link": "https://www.hubermanlab.com/episode/the-art-of-true-happiness-arthur-brooks",
+    "tags": [
+      "guide",
+      "education"
+    ],
+    "tags_zh": [
+      "指导",
+      "教育学习"
+    ],
+    "date": "2026-09-14",
+    "summary_en": "In this episode, Dr. Arthur Brooks, a leading expert on the science of happiness from Vanderbilt and Harvard, delivers a profound, research-backed framework for cultivating lasting fulfillment. Moving beyond superficial self-help, he introduces the concept of happiness as a practice built on three 'macronutrients': Enjoyment, Satisfaction, and Meaning. The conversation is deeply practical, offering specific tools—such as identifying personal 'idols,' structuring proper leisure, and embracing struggle—to diagnose and correct the specific barriers preventing individuals from accessing deeper joy. Brooks argues that true happiness is not a passive state of pleasure but an active alignment of one's life with moral aspirations, relationships, and a sense of purpose, providing a rigorous, actionable roadmap for personal transformation.",
+    "summary_zh": "Arthur Brooks 博士在本期节目中，基于严谨的科学研究，提出了构建持久幸福的“三大营养素”框架：享受、满足与意义。他摒弃了浅薄的鸡汤式建议，转而提供一系列高度实操的自我诊断工具，帮助听众识别阻碍幸福的“偶像”与不良习惯。Brooks 强调，真正的幸福并非被动的感官愉悦，而是通过主动拥抱挑战、深化人际关系、合理安排闲暇，并将生活与道德追求相契合而获得的深层满足。这不仅是一次认知升级，更是一套系统的人生校准指南，引导人们在复杂现实中找到属于自己的生命意义。",
+    "best_quote_en": "Happiness is not a feeling; it is a practice. True joy comes not from avoiding struggle, but from aligning your life with what matters most—your moral aspirations, your relationships, and your sense of purpose.",
+    "best_quote_zh": "幸福不是一种感觉，而是一种实践。真正的喜悦并非源于逃避挣扎，而是源于将你的生活与最重要的事物——你的道德追求、你的人际关系以及你的使命感——紧密 alignment（对齐）。"
+  },
+  {
+    "id": 496,
+    "title": "Mail-In Voting Survives",
+    "title_zh": "邮寄投票得以保留",
+    "model_used": "inclusionai/ling-3.0-flash-vl:free",
+    "source": "The New Yorker",
+    "link": "https://www.newyorker.com/news/the-lede/mail-in-voting-survives",
+    "tags": [
+      "solve",
+      "legal",
+      "politics"
+    ],
+    "tags_zh": [
+      "解决",
+      "法律法规",
+      "政治时事"
+    ],
+    "date": "2026-09-15",
+    "summary_en": "This analysis reveals a fascinating tension at the intersection of executive power and electoral democracy. The Supreme Court's unsigned ruling against the Trump administration's mail-in voting restrictions represents more than a procedural win—it's a constitutional boundary being quietly but firmly drawn. What's particularly compelling is how the Court navigated political pressure while acknowledging the practical impossibility of implementing sweeping changes just weeks before an election. The article masterfully exposes the fragility of the administration's legal reasoning: stretching 1970 postal legislation to regulate state elections is jurisprudential acrobatics that even a sympathetic conservative court found untenable. Kavanaugh's nuanced position—believing the rules might eventually pass muster but too late for implementation—reveals the Court's strategic calibration between principle and pragmatism. The piece raises a deeper, unsettling question: when does executive overreach cross from audacity into constitutional violation? The Alito-Thomas dissent, dismissing concerns about timing and harm, suggests a philosophical chasm between those who prioritize executive authority and those who protect electoral access. This ruling, while not definitive, signals that even a dramatically shifted Court retains some lines it won't cross.",
+    "summary_zh": "这一裁决揭示了行政权力与选举民主之间微妙的宪法博弈。最高法院拒绝特朗普政府试图通过邮寄投票限制改变选举规则的努力，这不仅是一次程序性胜利，更是宪法底线的一次无声宣示。文章精妙地暴露了政府法律论证的脆弱——将1970年邮政法拉伸为管理州选举的依据，这种法理上的杂技连同情保守派的法官都难以接受。喀瓦诺的微妙立场——认为规则可能最终合理但为时已晚——展现了法院在原则与务实之间的精妙平衡。更深层的问题是：行政越权何时从大胆演变为违宪？阿利托和托马斯的异议表明，在优先行政权力与保护选举准入之间，存在着哲学鸿沟。即使法院立场已大幅右移，它仍守有不可逾越的红线。",
+    "best_quote_en": "The Court's red lines would not be mine, but it has them nonetheless.",
+    "best_quote_zh": "法院的底线并非我的底线，但它确实存在。"
   }
 ]
