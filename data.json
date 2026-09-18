@@ -1,120 +1,5 @@
 [
   {
-    "id": 397,
-    "title": "Book Freak #224: Exactly",
-    "title_zh": "书评 #224：精确（Exactly）",
-    "model_used": "poolside/laguna-xs-2.1:free",
-    "source": "Kevin Kelly",
-    "link": "https://kk.org/cooltools/book-freak-224-exactly/",
-    "tags": [
-      "inspire",
-      "ai-research",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "启发",
-      "AI研究",
-      "未来预测"
-    ],
-    "date": "2026-08-28",
-    "summary_en": "This content introduces 'Exactly' by Simon Winchester, a historical exploration of precision engineering's transformative role in human civilization. The piece reveals how precision measurement capabilities evolved from 18th-century cannon boring to modern microchip fabrication, fundamentally enabling technological progress. Key insights include how interchangeable parts revolutionized mass production, making items like the Model T affordable, and how precision advances through orders of magnitude—from 0.1 inches to atomic scales. The content thoughtfully examines precision's dual nature, noting how obsessive pursuit can sometimes undermine craftsmanship and appreciation for imperfection, particularly through Japanese aesthetic philosophy. The 'Try It Now' section encourages practical reflection on precision's presence in daily life, prompting readers to consider where perfection serves versus hinders personal and professional goals. A compelling statistic concludes the piece: there are now more transistors globally than leaves on all trees, illustrating precision engineering's profound impact on our material civilization.",
-    "summary_zh": "《精确》探讨了精密工程如何从18世纪的炮筒 boring 到现代芯片制造，推动人类文明发展。交換零件使大眾生產成為可能，譬如 Model T。書中思考精密的矛盾性：過度追求完美可能損害工藝美學，日本講究不對稱與不完美之美。15 Quintillion 转換臺比所有樹葉還多，彰顯精密工程的深遠影響。",
-    "best_quote_en": "There are now more transistors at work on this planet (some 15 quintillion, or 15,000,000,000,000,000,000) than there are leaves on all the trees in the world.",
-    "best_quote_zh": "地球上現在有更多的轉換臺在工作（約 15 千億，或 15,000,000,000,000,000,000）比所有樹木的葉子還多。"
-  },
-  {
-    "id": 398,
-    "title": "The Virus",
-    "title_zh": "病毒",
-    "model_used": "poolside/laguna-xs-2.1:free",
-    "source": "Sam Altman",
-    "link": "https://blog.samaltman.com/the-virus",
-    "tags": [
-      "solve",
-      "general",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "解决",
-      "general",
-      "未来预测"
-    ],
-    "date": "2020-03-07",
-    "summary_en": "This piece offers a sobering reflection on the COVID-19 pandemic's immediate and long-term implications, drawing from expert consultations to warn of the global tragedy that may unfold. Beyond the current crisis, the author urges society to view this as a cautionary tale for future pandemics—human-made or natural—that are likely inevitable in our lifetimes. The analysis reveals how the virus is reshaping social norms, with some changes like reduced business travel and increased hygiene likely to persist, while others like permanent remote work may not. Most critically, the piece exposes the fragility of our interconnected economic systems, suggesting that recent market disruptions are not solely due to the virus but signal deeper vulnerabilities in how complex systems cascade into broader crises. The author advocates for proactive preparedness, emphasizing that young, healthy individuals must still avoid infection to protect vulnerable populations, as unchecked spread accelerates mortality among the elderly and immunocompromised.",
-    "summary_zh": "这篇文章从专家角度深刻剖析了新冠疫情带来的深层警示。作者不仅预见数十万死亡的全球悲剧，更将其视为人类生活中必然面对的未来疫情的预演。文章洞察社会行为的微妙转变：某些新习惯如减少商务旅行和增强卫生将永久改变生活方式，而远程办公等变革或许难以久立。更值得警惕的是，作者揭示经济体系的脆弱性——近期美国国债收益率暴跌不仅是疫情产物，更是复杂系统链式效应的警钟。这种思考让人不寒而栗：技术社会的每一次危机，都可能暴露我们对自然与人造风险的渺茫。",
-    "best_quote_en": "I hope that society views this as a warning for the future. Covid-19 is bad, but only a warm-up. I think it's unlikely that this is the worst new pandemic (human-created or otherwise) we'll see in our lifetimes. We need to be ready to deal with it much better next time.",
-    "best_quote_zh": "我希望社会会把这视作对未来的警示。新冠疫情很糟糕，但它只是热身场。我认为，在我们的一生中，这几乎不可能是我们将遇到的最糟糕的新型传染病（不论是人为的还是其他原因）。我们需要为下次做好准备，处理得更好。"
-  },
-  {
-    "id": 399,
-    "title": "How Your Immune System Works & How to Improve It | Dr. Max Krummel",
-    "title_zh": "免疫系统工作原理及改善方法 | Max Krummel博士",
-    "model_used": "poolside/laguna-xs-2.1:free",
-    "source": "Huberman Lab",
-    "link": "https://www.hubermanlab.com/episode/how-your-immune-system-works-and-how-to-improve-it-max-krummel",
-    "tags": [
-      "solve",
-      "science",
-      "medicine"
-    ],
-    "tags_zh": [
-      "解决",
-      "科学研究",
-      "医学健康"
-    ],
-    "date": "2026-08-03",
-    "summary_en": "This episode with renowned immunologist Dr. Max Krummel delivers profound insights into the intricate mechanisms of immune function, extending far beyond basic biology. The discussion reveals how sleep, emotions, and even memories directly influence immune responses—a connection that challenges conventional understanding. Krummel's expertise shines through his explanations of thymus function and its paradoxical role in autoimmunity, while his perspectives on immune surveillance offer compelling implications for cancer prevention. The conversation masterfully bridges fundamental research with practical applications, covering everything from childhood immunizations to computational immunology. What makes this content exceptional is its actionable framework that translates cutting-edge immunological research into accessible health strategies. The episode demonstrates how systems biology approaches are revolutionizing our understanding of immune memory and stress responses. For intellectually curious readers seeking evidence-based health optimization strategies, this represents thought leadership at its finest—grounded in UCSF-level research yet remarkably accessible.",
-    "summary_zh": "这期与UCSF权威免疫学家Max Krummel博士的对话，深入探讨了免疫系统的运行机制及其与睡眠、情绪、记忆的深层联系。他揭示了胸腺功能在自身免疫病中的悖论作用，并从免疫监视角度提供了防癌的前瞻视角。内容将前沿免疫学研究转化为可操作的健康策略，涵盖从儿童免疫接种到计算免疫学的全方位视野。这种将底层免疫学转化为可实践健康优化方案的方法论，值得我们深思。",
-    "best_quote_en": "The thymus is central to understanding not just immune function, but also autoimmunity and potentially even cancer surveillance mechanisms.",
-    "best_quote_zh": "胸腺是理解不仅仅免疫功能，更是理解自身免疫病以及潜在的癌症监视机制的核心。"
-  },
-  {
-    "id": 400,
-    "title": "Travel Shaving Cream/Best Airports for Deals/South America Prices",
-    "title_zh": "旅行剃须膏/寻找最佳机场优惠/南美价格",
-    "model_used": "poolside/laguna-s-2.1:free",
-    "source": "Kevin Kelly",
-    "link": "https://kk.org/cooltools/travel-shaving-cream-best-airports-for-deals-south-america-prices/",
-    "tags": [
-      "update",
-      "general",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "动态",
-      "general",
-      "数据驱动"
-    ],
-    "date": "2026-08-27",
-    "summary_en": "This newsletter curates practical travel intelligence across three domains: product efficiency, spending patterns, and price optimization. The spotlight on Bigelow's tin-packaged shaving cream reveals a micro-trend toward sustainable, space-conscious travel gear that lasts a year. Europe's capture of one-third of global vacation spend ($2 trillion) signals both overtourism saturation and shifting traveler preferences away from the U.S., with implications for destination marketing and seasonal planning. Data-driven airport analyses show competitive hubs like Denver and Dublin consistently yield the best deals, while political volatility in South America has rendered older pricing guides obsolete—underscoring how macroeconomic forces directly reshape consumer travel economics. The underlying thread is value extraction: how to travel farther, longer, and more meaningfully with fewer resources. What emerges is a portrait of the modern traveler as both strategist and minimalist, optimizing not just cost but experience quality and environmental impact.",
-    "summary_zh": "这期内容聚焦旅行性价比：从一年用不完的环保剃须膏，到欧洄近三分之一全球旅游支出，再到南美政治变动导致汇率剧变，可见现代旅行者正变得更加精明与节省。",
-    "best_quote_en": "If there’s a lesson from that article, it’s to avoid July and August if at all possible and try to get into less-visited areas that will be happy to see you instead of destinations that are wishing you would stay away.",
-    "best_quote_zh": "如果从那篇文章中能得出一点启示，那就是尽可能避开七八月，去那些还会很高兴见到你的冷门目的地，而不是那些希望你离开的热门景点。"
-  },
-  {
-    "id": 401,
-    "title": "Hard Startups",
-    "title_zh": "艰难的初创企业",
-    "model_used": "cohere/north-mini-code:free",
-    "source": "Sam Altman",
-    "link": "https://blog.samaltman.com/hard-startups",
-    "tags": [
-      "solve",
-      "startup-strategy",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "解决",
-      "创业策略",
-      "未来预测"
-    ],
-    "date": "2020-02-26",
-    "summary_en": "Hard startups require more money, time, coordination, or technological development than most startups. While easy startups are simple to launch, they are difficult to make successful. Talented people are drawn to meaningful projects, and a hard startup can serve as a tailwind, attracting talent, advice, partnerships, and funding. By committing to a long-term, ambitious vision and taking reasonable steps, entrepreneurs can gain a significant edge in a world of compounding advantages.",
-    "summary_zh": "艰难的初创企业需要比大多数初创企业更多的资金、时间和协调或技术开发。虽然简单的初创企业容易启动，但要取得成功却很困难。目前，人才是初创生态系统中最宝贵的商品，大多数人才希望从事有意义的工作。艰难的初创企业可以作为一种顺风，帮助吸引人才、建议、合作伙伴和资金。通过设定一个雄心勃勃的愿景并采取合理的步骤，创业者可以在一个基于复利的优势的世界中获得巨大的优势。",
-    "best_quote_en": "A hard startup is a tailwind; an easy startup is a headwind.",
-    "best_quote_zh": "艰难的初创企业是顺风，简单的初创企业是逆风。"
-  },
-  {
     "id": 402,
     "title": "Harry Styles jokes about Taylor Swift’s wedding during MSG residency",
     "title_zh": "哈利·斯蒆斯在麦当娜中心演唱会调侃泰勒·斯威夫特的婚礼",
@@ -2354,5 +2239,120 @@
     "summary_zh": "这一裁决揭示了行政权力与选举民主之间微妙的宪法博弈。最高法院拒绝特朗普政府试图通过邮寄投票限制改变选举规则的努力，这不仅是一次程序性胜利，更是宪法底线的一次无声宣示。文章精妙地暴露了政府法律论证的脆弱——将1970年邮政法拉伸为管理州选举的依据，这种法理上的杂技连同情保守派的法官都难以接受。喀瓦诺的微妙立场——认为规则可能最终合理但为时已晚——展现了法院在原则与务实之间的精妙平衡。更深层的问题是：行政越权何时从大胆演变为违宪？阿利托和托马斯的异议表明，在优先行政权力与保护选举准入之间，存在着哲学鸿沟。即使法院立场已大幅右移，它仍守有不可逾越的红线。",
     "best_quote_en": "The Court's red lines would not be mine, but it has them nonetheless.",
     "best_quote_zh": "法院的底线并非我的底线，但它确实存在。"
+  },
+  {
+    "id": 497,
+    "title": "Weekly Review",
+    "title_zh": "每周评论",
+    "model_used": "nex-agi/nex-n2.5-pro:free",
+    "source": "Harper’s Magazine",
+    "link": "https://harpers.org/2026/09/weekly-review-september-11-attacks-mamdani-exclusion-trump-ceremony-skip-war-on-terror-iran-russia-escalation-charlie-kirk-assassination-tiktok-dance-build-the-wall-tetris-meat-pic-history-horse-traff/",
+    "tags": [
+      "analyze",
+      "legal",
+      "politics",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "分析",
+      "法律法规",
+      "政治时事",
+      "未来预测"
+    ],
+    "date": "2026-09-15",
+    "summary_en": "This weekly review juxtaposes solemn remembrance with geopolitical opportunism: newly released warnings expose the gap between intelligence and action, while 9/11 is invoked to frame a conflict with Iran despite no Iranian role in the attacks. Oil shocks, Russian strikes, and election rhetoric reveal how security narratives can legitimate escalation and normalize institutional strain. The Charlie Kirk commemorations, AI threat warnings, viral school scares, and politicized White House games trace a culture in which grief, fear, and technology become tools of mobilization. Trade disputes push Canada toward an unprecedented EU relationship, while ferry disasters and infrastructure failures expose unequal exposure to catastrophe. Lighter episodes are not mere filler; they show ritual, spectacle, and absurdity restoring texture after crisis. The piece’s curated montage is analytically valuable because it reveals recurring patterns across domains, though its brevity and sardonic tone limit causal depth and source context. It invites readers to ask how societies convert memory into policy, danger into entertainment, and public institutions into partisan stages.",
+    "summary_zh": "这篇周评以并置制造判断：九一一纪念与新解密文件揭示预警与行动间的断裂，伊朗战争叙事则显示记忆如何被政治挪用。油价、俄乌冲突与选举豪言彼此牵动；AI风险、校园恐慌和官方游戏又把技术变成动员工具。灾难报道提醒脆弱性并不均等，而荒诞小事保留生活质感。它不提供因果论证，却以蒙太奇逼问公共记忆、恐惧与权力如何互相塑形，读来既像新闻速写，也像一份制度疲惫的诊断书。",
+    "best_quote_en": "“Everything changes, everything falls apart.”",
+    "best_quote_zh": "“一切都在改变，一切都在崩塌。”"
+  },
+  {
+    "id": 498,
+    "title": "Every song on the ‘Neagley’ soundtrack",
+    "title_zh": "《Neagley》原声带全曲目盘点",
+    "model_used": "inclusionai/ling-3.0-flash-vl:free",
+    "source": "NME",
+    "link": "https://www.nme.com/news/tv/neagley-soundtrack-every-song-3969463?utm_source=rss&utm_medium=rss&utm_campaign=neagley-soundtrack-every-song",
+    "tags": [
+      "update",
+      "personal-finance"
+    ],
+    "tags_zh": [
+      "动态",
+      "个人理财"
+    ],
+    "date": "2026-09-17",
+    "summary_en": "This NME feature catalogues every song across all eight episodes of the Amazon Prime crime drama 'Neagley,' a spin-off centering on Maria Stern's PI Frances Neagley. Beyond mere playlist curation, the soundtrack reveals a deliberate tonal architecture — from Baby Huey's raw funk to Elvis Costello's wry melancholy and Wet Leg's post-punk edge. Composer Tony Morales, returning from 'Reacher,' anchors the sonic identity, but the needledrops do the real narrative heavy lifting, spanning blues, classic rock, new wave, and electronic genres. The eclectic mix mirrors Neagley's own journey through suspicious circumstances and moral ambiguity. For music supervisors and cinephiles alike, this listing serves as a masterclass in how curated music drives character-driven crime storytelling. The breadth of era and style suggests a protagonist who exists outside conventional time — a fitting portrait of a woman unraveling secrets.",
+    "summary_zh": "这份NME盘点揭示了《Neagley》原声带如何成为叙事的一部分——从Baby Huey的原始放克到Elvis Costello的讽刺式忧郁，音乐选择精准映射主角在悬疑与道德灰色地带的探索。Tony Morales的配乐奠定基调，但真正推动叙事的是这些跨越蓝调、经典摇滚与新浪潮的曲目拼贴，展现了一个超越时代界限的女性侦探形象。",
+    "best_quote_en": "Neagley features a wealth of needledrops, ranging from bands like Wet Leg to Elvis Costello.",
+    "best_quote_zh": "《Neagley》收录了丰富的精选曲目，从Wet Leg到Elvis Costello，风格跨度极大。"
+  },
+  {
+    "id": 499,
+    "title": "TIFF 2026: Furies, Re/Pair",
+    "title_zh": " TIFF 2026：Furies，Re/Pair",
+    "model_used": "poolside/laguna-xs-2.1:free",
+    "source": "RogerEbert.com",
+    "link": "https://www.rogerebert.com/festivals/tiff-2026-furies-re-pair",
+    "tags": [
+      "inspire",
+      "general",
+      "deep-dive"
+    ],
+    "tags_zh": [
+      "启发",
+      "general",
+      "深度分析"
+    ],
+    "date": "2026-09-17",
+    "summary_en": "This TIFF 2026 coverage presents two compelling documentary and narrative films addressing systemic injustice and intercommunity dialogue. 'Furies' stands out as a remarkable debut, transforming Lebanon's 2019 banking collapse into a visceral heist thriller where sisters fight for their frozen savings. Director Rami Kodeih crafts an original inversion of genre conventions, where the ticking clock isn't money but cancer treatment deadlines. The film's shaky, feverish visual language mirrors the protagonist's desperation while maintaining narrative momentum over two hours. Conversely, 'Re/Pair' attempts ambitious intercommunity dialogue between Black and Jewish communities, featuring 19 conversations with notable figures. While intellectually ambitious and timely given contemporary sociopolitical tensions, it occasionally struggles to balance depth with breadth across complex historical topics. Both films demonstrate exceptional commitment to their respective missions: one through genre reinvention, the other through courageous conversation.",
+    "summary_zh": "TIFF 2026的这两部影片分别以非洲裔女兄妹争取冻结存款和黑人犹太社群对话展现社会议题。《Furies》以 Lebanese 银行崩溃为背景，颠覆劫掠片公式，将癌症治疗时限作为紧迫压力，镜头氏狂躁却节奏不息。而《Re/Pair》尝试跨社群对话，收录19对话但在历史复杂度与深度之间寻求平衡。两部影片分别以题材革新和勇敢对话彰显社会关怀。",
+    "best_quote_en": "It's an original addition to the ticking clocks we so often see in heist movies: In this case, it's to stop a cancer from growing.",
+    "best_quote_zh": "这在劫掠电影中常见的倒计时元素上有了原创添加：在这里，倒计时是为了阻止癌症的扩散。"
+  },
+  {
+    "id": 500,
+    "title": "The Coziest Place on the Moon: Or, How to Bear Your Loneliness",
+    "title_zh": "月球上最舒适的地方：或者，如何忍受你的孤独",
+    "model_used": "inclusionai/ling-3.0-flash-fin:free",
+    "source": "The Marginalian",
+    "link": "https://www.themarginalian.org/2026/09/17/the-coziest-place-on-the-moon/",
+    "tags": [
+      "inspire",
+      "general",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "启发",
+      "general",
+      "未来预测"
+    ],
+    "date": "2026-09-18",
+    "summary_en": "This piece weaves together NASA's discovery of thermally stable lunar pits—cosmic shelters at a perfect 63°F—with a deeply human meditation on loneliness, love, and the poetic architecture of solitude. Maria Popova draws elegant parallels between Einstein's teenage reverie about chasing a beam of light and Rilke's vision of love as 'two solitudes that protect, border, and greet each other,' suggesting that connection emerges not from the dissolution of individual space but from the shared illumination of it. The article culminates in a children's book born from this philosophical synthesis—a story about a character who escapes unbearable loneliness by journeying to the Moon's coziest niche, only to discover that love is the solitary light between people. What makes this piece intellectually compelling is its refusal to treat science and sentiment as separate domains; instead, it reveals how the same gravitational physics that slowly drift the Moon from Earth also binds human hearts across the vastness of spacetime.",
+    "summary_zh": "这篇文章将NASA发现的月球热稳定坑洞——温度恰好63华氏度的宇宙庇护所——与关于孤独、爱与诗意栖居的深刻人文沉思交织在一起。玛利亚·波波娃巧妙地将爱因斯坦少年时代追逐光束的遐想与里尔克关于爱是'两个孤独相互保护、毗邻并问候'的洞见并置，暗示真正的联结并非消融个体的空间，而是共享照亮它。这篇文章最终凝结为一部儿童哲学绘本——一个角色为逃离难以忍受的孤独而登上月球最舒适的角落，却领悟到爱不过是人与人之间孤独的光束。文章最迷人之处在于它拒绝将科学与情感视为割裂的领域，而是揭示出让月球缓缓远离地球的引力物理，与联结人类心灵的某种力量，本质上是同一回事。",
+    "best_quote_en": "Love is simply the solitary light between people, neither partitioned nor merged but shared, to light up the sliver of spacetime we have each been allotted before returning our borrowed stardust to the universe.",
+    "best_quote_zh": "爱不过是人与人之间孤独的光束，既不被分割也不被融合，而是被共享，照亮我们各自被分配的那一小片时空，然后把我们借来的星尘归还给宇宙。"
+  },
+  {
+    "id": 501,
+    "title": "A Perfect Victim",
+    "title_zh": "完美的受害者",
+    "model_used": "dots-studio/dots-3-note-preview:free",
+    "source": "Harper’s Magazine",
+    "link": "https://harpers.org/2026/09/general-interest-kyle-berlin-will-stephenson-kamel-daoud-houris/",
+    "tags": [
+      "analyze",
+      "writing-content",
+      "controversial"
+    ],
+    "tags_zh": [
+      "分析",
+      "写作内容",
+      "争议观点"
+    ],
+    "date": "2026-09-13",
+    "summary_en": "This interview with journalist Kyle Berlin explores the profound ethical and artistic implications surrounding Kamel Daoud's Prix Goncourt-winning novel 'Houris,' which became embroiled in a legal and moral controversy. Berlin details how Daoud allegedly used the real-life trauma of Saâda Arbane—a survivor of a horrific attack that left her orphaned and disfigured—without her consent, leveraging her story for literary acclaim. The analysis exposes the uncomfortable intersection of Western literary patronage, standpoint epistemology, and the exploitation of marginalized voices. Berlin critiques the novel's portrayal of its female narrator as a 'perfect victim' who offers sophisticated sociological insights, arguing that such a depiction is historically accurate but artistically false, as genuine trauma rarely yields such polished intellectualism. The piece further examines the political dimensions of the scandal, contrasting the French civil suit with Algeria's criminal prosecution of Daoud under reconciliation laws, highlighting how the Algerian state weaponized Arbane's story to silence dissent while ignoring the military atrocities that caused her suffering. Ultimately, the conversation reveals the tension between artistic freedom and moral responsibility, the commodification of trauma in the literary market, and the complex reality of betrayal, as Arbane's simple yet powerful declaration—'Je déteste la trahison'—underscores the human cost of artistic appropriation.",
+    "summary_zh": "这篇采访深入探讨了卡迈勒·达乌德（Kamel Daoud）的小说《乌里斯》（Houris）引发的伦理与艺术争议。记者凯尔·柏林（Kyle Berlin）揭示了达乌德如何在未经萨阿达·阿尔巴内（Saâda Arbane）同意的情况下，利用其真实创伤经历进行文学创作，并因此获得龚古尔奖。分析批判了西方文学界对“立场认识论”的狭隘理解，以及对边缘化声音的剥削。柏林指出，小说将受害者塑造成“完美的受害者”，虽然符合历史真实，却在艺术上显得虚假，因为真实的创伤不会产生如此精辟的社会学见解。此外，文章对比了法国的民事诉讼与阿尔及利亚依据《和解法案》对达乌德的刑事追诉，揭示了阿尔及利亚国家如何利用阿尔巴内的故事来压制异见，同时掩盖导致她受难的军队暴行。最终，采访凸显了艺术自由与道德责任之间的张力，以及创伤在文学市场中的商品化问题，而阿尔巴内那句“我仇恨背叛”则深刻揭示了艺术挪用带来的真实人性代价。",
+    "best_quote_en": "What made Houris right as history, in other words, made it wrong as fiction. The one thing that did stay with me from Arbane’s correspondence was this: 'Je déteste la trahison' ('I hate betrayal'). Although her prose was not as brilliant as Daoud’s, I believed fully in the reality of every word she wrote.",
+    "best_quote_zh": "换句话说，让《乌里斯》在历史上显得真实的原因，恰恰让它在小说中显得虚假。从阿尔巴内的信件中留在我心中的唯一一句话是：‘我仇恨背叛’。虽然她的文字不如达乌德那般华丽，但我完全相信她所写的每一个字都是真实的。"
   }
 ]
