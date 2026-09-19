@@ -1,122 +1,5 @@
 [
   {
-    "id": 402,
-    "title": "Harry Styles jokes about Taylor Swift’s wedding during MSG residency",
-    "title_zh": "哈利·斯蒆斯在麦当娜中心演唱会调侃泰勒·斯威夫特的婚礼",
-    "model_used": "poolside/laguna-xs-2.1:free",
-    "source": "NME",
-    "link": "https://www.nme.com/news/music/harry-styles-jokes-about-taylor-swifts-wedding-during-msg-residency-3965679?utm_source=rss&utm_medium=rss&utm_campaign=harry-styles-jokes-about-taylor-swifts-wedding-during-msg-residency",
-    "tags": [
-      "update",
-      "music-arts",
-      "case-study"
-    ],
-    "tags_zh": [
-      "动态",
-      "音乐艺术",
-      "案例研究"
-    ],
-    "date": "2026-08-30",
-    "summary_en": "This entertainment news piece captures a lighthearted moment during Harry Styles' record-breaking 30-night residency at Madison Square Garden, where he humorously referenced Taylor Swift's recent wedding to Travis Kelce at the same iconic venue. The article contextualizes this anecdote within the broader 'Together, Together' tour, which has already achieved historic milestones including a 12-show run at Wembley Stadium. Beyond the celebrity gossip angle, the piece illustrates how artists use live performances to engage with contemporary cultural moments while maintaining their artistic identity. Styles' playful jab reflects the complex dynamics of former partners in the public eye, demonstrating how nostalgia and current events intersect in celebrity culture. The article also highlights the tour's diverse supporting acts and memorable performances, positioning this moment as part of a larger narrative of artistic achievement and cultural commentary. For fans and entertainment journalists, this represents the ongoing public fascination with celebrity relationships and their evolution in the digital age.",
-    "summary_zh": "哈利·斯蒆斯在麦当娜中心30场传奇演唱会期间调侃泰勒·斯威夫特与特雷斯·克莱恩的婚礼，展现明星文化中旧情人的当代互动。此篇报道不仅记录娱乐现场的轻松瞬间，更映射出粉丝对明星人际关系的持续关注。斯蒆斯的调侃既保留着个人人设，又巧妙融入时下热点，体现顶级艺术家在文化对话中的独特视角。",
-    "best_quote_en": "We're at Madison Square Garden, home of the world champion New York Knicks! And they also do weddings.",
-    "best_quote_zh": "我们在麦当娜中心，这里是世界冠军纽约掘石队的主场！他们这里还举办婚礼。"
-  },
-  {
-    "id": 403,
-    "title": "Frankenstein Author Mary Shelley on the Surest Remedy for a Sunken Spirit and What Makes Life Worth Living",
-    "title_zh": "玛丽·雪莱：在沉重的精神中寻找确定的良药，什么让生活值得活下去",
-    "model_used": "nvidia/nemotron-3.5-lightning:free",
-    "source": "RogerEbert.com",
-    "link": "https://www.themarginalian.org/2026/08/30/mary-shelley-the-last-man/",
-    "tags": [
-      "analyze",
-      "writing-content",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "分析",
-      "写作内容",
-      "未来预测"
-    ],
-    "date": "2026-08-30",
-    "summary_en": "This profound reflection on Mary Shelley's 'The Last Man' reveals how personal tragedy can birth universal wisdom. Written during the bleakest period of Shelley's life—after losing three children to disease and her husband to drowning—this 1826 novel becomes a meditation on life's meaning through pandemic narrative. The protagonist Lionel Verney's journey from social entanglement to solitary communion with nature offers a timeless insight: life's worth lies not in human achievement but in 'improving ourselves and contributing to the happiness of others.' Shelley's work anticipates Whitman's later question about life's meaning, suggesting the answer resides in nature's enduring presence and our connection to it. The piece powerfully demonstrates how art transforms personal grief into collective understanding, turning Shelley into her husband's posthumous editor and ensuring his legacy. This analysis reveals how literature processes collective trauma while affirming individual resilience through our relationship with the natural world.",
-    "summary_zh": "雪莱在经历了三个孩子离世、丈夫溺水离世的绝望时期创作了《最后一人》。这部1826年的小说通过 pandemic 故事，探索了生命的意义。主人公 Lionel Verney 从社会纠葛到与自然的独处，最终领悟到：生命的价值不在于人类的成就，而在于‘改善 ourselves，为他人贡献幸福’。雪莱的作品先于惠特曼对生命意义的思考，表明答案在于自然的持久存在以及我们与之的连接。这篇文章有力地展示了如何将个人悲伤转化为集体理解，通过雪莱对丈夫诗作的终身编辑和出版，确保了他的遗产。这项分析揭示了文学如何处理集体创伤，通过我们与自然世界的关系确认个体的韧性。",
-    "best_quote_en": "\"There is but one solution to the intricate riddle of life; to improve ourselves, and contribute to the happiness of others.\"",
-    "best_quote_zh": "\"There is but one solution to the intricate riddle of life; to improve ourselves, and contribute to the happiness of others.\""
-  },
-  {
-    "id": 404,
-    "title": "你在培养“预制孩子”吗？",
-    "title_zh": "你在培养“预制孩子”吗？",
-    "model_used": "nvidia/nemotron-3-super-120b-a12b:free",
-    "source": "The Marginalian",
-    "link": "http://weixin.sogou.com/weixin?type=2&query=%E4%B8%89%E8%81%94%E7%94%9F%E6%B4%BB%E5%91%A8%E5%88%8A+%E4%BD%A0%E5%9C%A8%E5%9F%B9%E5%85%BB%E2%80%9C%E9%A2%84%E5%88%B6%E5%AD%A9%E5%AD%90%E2%80%9D%E5%90%97%EF%BC%9F",
-    "tags": [
-      "inspire",
-      "education",
-      "writing-content",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "启发",
-      "教育学习",
-      "写作内容",
-      "未来预测"
-    ],
-    "date": "2026-08-29",
-    "summary_en": "This article critically examines the growing trend of 'pre-fabricated' child-rearing in China, where children are trained to excel in standardized testing and rote memorization at the expense of critical thinking, curiosity, and emotional intelligence. Drawing on Erikson’s stages of psychosocial development, it argues that ages 6–18 are crucial for forming a stable self-identity and value system—yet current educational practices undermine this by prioritizing external expectations over internal motivation. The piece highlights symptoms of over-structuring: children who can recite formulas but not question principles, write model essays but fear expressing opinions, and solve exam questions but feel lost in real-world complexity. In response, the authors—journalists from 《三联生活周刊》—propose a news-based critical thinking course for ages 10–15, using real-world topics like geopolitical conflicts, media literacy, and local economic shifts to foster independent judgment, empathy, and civic engagement. The core insight is that true education must nurture not just high scores, but the courage to question, the capacity to think independently, and the warmth to connect with others—qualities essential for navigating an uncertain future.",
-    "summary_zh": "这篇文章深刻剖析了当下中国家庭教育中‘预制孩子’的现象：孩子被训练成高分机器，却失去了提问的勇气、独立思考的能力和共情的温度。作者结合埃里克森的人格发展理论，指出6至18岁是形成自我价值观和身份认同的关键期，而过度结构化的教育恰恰在此时剥夺了孩子们探索世界的权利。文中不仅指出了问题——孩子会背公式却不问为什么，能写范文却不敢说观点，能应付考题却对现实世界茫然——更给出了可行的解决方案：以新闻为媒介，构建一个面向10至15岁少年的思辨课程，让真实世界的问题成为学习的入口。这不仅是对教育方式的反思，更是对‘什么样的孩子才是有价值的孩子’的重新定义。文章的力量在于，它没有停留在批评层面，而是用一个具体的课程设计点亮了希望：教育的终极目标，不是制造出能考高分的孩子，而是培养出能独立思考、勇敢表达、善于共情、真正理解世界的年轻人。",
-    "best_quote_en": "Overly structured upbringing is depriving adolescents of the courage to question, the capacity for critical thought, and the warmth of empathy.",
-    "best_quote_zh": "过度的结构化培养，正在剥夺少年提问的勇气、思辨的能力和共情的温度。"
-  },
-  {
-    "id": 405,
-    "title": "Watch Olivia Rodrigo sing ‘Landslide’ with Stevie Nicks and ‘Ironic’ with Alanis Morissette at Daisy Chain Fields",
-    "title_zh": "Olivia Rodrigo 与 Stevie Nicks 演绎《Landslide》 与 Alanis Morissette 演绎《Ironic》",
-    "model_used": "nvidia/nemotron-3.5-lightning:free",
-    "source": "NME",
-    "link": "https://www.nme.com/news/music/watch-olivia-rodrigo-landslide-stevie-nicks-ironic-alanis-morissette-daisy-chain-fields-3965682?utm_source=rss&utm_medium=rss&utm_campaign=watch-olivia-rodrigo-landslide-stevie-nicks-ironic-alanis-morissette-daisy-chain-fields",
-    "tags": [
-      "update",
-      "music-arts",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "动态",
-      "音乐艺术",
-      "未来预测"
-    ],
-    "date": "2026-08-30",
-    "summary_en": "Olivia Rodrigo headlined the one-day Daisy Chain Fields festival at Great Park, Irvine, bringing out Stevie Nicks for Fleetwood Mac's 'Landslide' and Alanis Morissette for a duet of 'Ironic'. The all-female event, conceived by Rodrigo, honored Dolly Parton and supported women's charities. She also debuted new track 'Serena Joy,' inspired by The Handmaid's Tale, while the festival featured Chappell Roan, Doechii, and other artists, with all fees waived for non-profit causes.",
-    "summary_zh": "Olivia Rodrigo 头条演出 Daisy Chain Fields 音乐节，邀请 Stevie Nicks 合唱 Fleetwood Mac 《Landslide》，Alanis Morissette 合唱《Ironic》。该节日由 Rodrigo 策划，致敬已故歌手 Dolly Parton，并支持女性权益慈善。现场首次演绎新歌 'Serena Joy'，阵容包括 Chappell Roan、Doechii 等，所有演出费用全捐赠。",
-    "best_quote_en": "Without Lilith Fair, there would be no Daisy Chain.",
-    "best_quote_zh": "没有 Lilith Fair，就没有 Daisy Chain。"
-  },
-  {
-    "id": 406,
-    "title": "Barry Lopez on the Cure for Our Existential Loneliness and the Three Tenets of a Full Life",
-    "title_zh": "巴里·洛佩兹关于存在主义孤独的解药及充实人生的三大准则",
-    "model_used": "nvidia/nemotron-3-super-120b-a12b:free",
-    "source": "RogerEbert.com",
-    "link": "https://www.themarginalian.org/2026/08/29/barry-lopez-place-loneliness/",
-    "tags": [
-      "inspire",
-      "writing-content",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "启发",
-      "写作内容",
-      "未来预测"
-    ],
-    "date": "2026-08-29",
-    "summary_en": "This profound meditation by Barry Lopez confronts the epidemic of existential loneliness in modern civilization, arguing that our disconnection from place—understood as deep, embodied intimacy with the natural world—lies at the root of feeling inconsequential. Drawing from his experiences with indigenous cultures and a lifetime of attentive wandering, Lopez reframes our relationship to place not as primitive sentiment but as a therapeutic necessity. He proposes that truly knowing a place fosters reciprocity: we come to feel known by it, which counters alienation and restores a sense of necessity in the world. His prescription—pay attention, be patient, heed what the body knows—offers a quiet revolution against the abstraction and haste of modern life. The piece resonates as both literary reflection and urgent invitation to reclaim belonging through presence, perception, and patience.",
-    "summary_zh": "洛佩兹深刻指出，现代人的存在主义孤独源于我们与地方的关系被切断。真正认识一个地方，不是为了征服或消费，而是为了建立一种互相认识的关系：当你离开时，你能感觉到那地方在想念你。这种互惠让人感受到自身在世界中的必要性。他的三条准则——专注、耐心、倾听身体——看似简单，却是对抗现代性疏离的有力实践。这不仅是自然写作，更是一种精神生存指南。",
-    "best_quote_en": "Existential loneliness and a sense that one’s life is inconsequential, both of which are hallmarks of modern civilizations, seem to me to derive in part from our abandoning a belief in the therapeutic dimensions of a relationship with place.",
-    "best_quote_zh": "存在主义的孤独以及觉得自己生命毫无意义的感觉——这两种现代文明的典型特征——在我看来，部分源于我们放弃了对与地方关系具有治疗作用这一信念。"
-  },
-  {
     "id": 407,
     "title": "100 Objects #15: Bundy Clock",
     "title_zh": "100个物件 #15：邦迪打卡钟",
@@ -2354,5 +2237,120 @@
     "summary_zh": "这篇采访深入探讨了卡迈勒·达乌德（Kamel Daoud）的小说《乌里斯》（Houris）引发的伦理与艺术争议。记者凯尔·柏林（Kyle Berlin）揭示了达乌德如何在未经萨阿达·阿尔巴内（Saâda Arbane）同意的情况下，利用其真实创伤经历进行文学创作，并因此获得龚古尔奖。分析批判了西方文学界对“立场认识论”的狭隘理解，以及对边缘化声音的剥削。柏林指出，小说将受害者塑造成“完美的受害者”，虽然符合历史真实，却在艺术上显得虚假，因为真实的创伤不会产生如此精辟的社会学见解。此外，文章对比了法国的民事诉讼与阿尔及利亚依据《和解法案》对达乌德的刑事追诉，揭示了阿尔及利亚国家如何利用阿尔巴内的故事来压制异见，同时掩盖导致她受难的军队暴行。最终，采访凸显了艺术自由与道德责任之间的张力，以及创伤在文学市场中的商品化问题，而阿尔巴内那句“我仇恨背叛”则深刻揭示了艺术挪用带来的真实人性代价。",
     "best_quote_en": "What made Houris right as history, in other words, made it wrong as fiction. The one thing that did stay with me from Arbane’s correspondence was this: 'Je déteste la trahison' ('I hate betrayal'). Although her prose was not as brilliant as Daoud’s, I believed fully in the reality of every word she wrote.",
     "best_quote_zh": "换句话说，让《乌里斯》在历史上显得真实的原因，恰恰让它在小说中显得虚假。从阿尔巴内的信件中留在我心中的唯一一句话是：‘我仇恨背叛’。虽然她的文字不如达乌德那般华丽，但我完全相信她所写的每一个字都是真实的。"
+  },
+  {
+    "id": 502,
+    "title": "100 Objects #18: Hair Relaxer",
+    "title_zh": "100 Objects #18: Hair Relaxer",
+    "model_used": "nvidia/nemotron-3.5-lightning:free",
+    "source": "99% Invisible",
+    "link": "https://99percentinvisible.org/episode/100-objects-018-hair-relaxer/",
+    "tags": [
+      "solve",
+      "ai-research"
+    ],
+    "tags_zh": [
+      "解决",
+      "AI研究"
+    ],
+    "date": "2026-09-18",
+    "summary_en": "This episode of 99% Invisible reveals how a ubiquitous beauty product became a cultural Rorschach test for America's deepest contradictions. The hair relaxer, used by the vast majority of Black women, carries a dual legacy: it fueled economic mobility and Black entrepreneurship while simultaneously internalizing the message that natural hair was inherently deficient. Through Roman Mars and Priscilla Alabi's deft storytelling, the narrative transcends personal hair journeys to expose broader societal tensions around conformity, capitalism, and identity. The most arresting insight is how a chemical treatment built generational wealth yet exacted a physical and psychological toll, suggesting that America's pursuit of 'manageability' has come at a steep health and self-acceptance cost. It is a masterclass in how everyday objects can unpack complex histories of race, gender, and capital.",
+    "summary_zh": "《99% Invisible》这一集揭示了一个普遍的美容产品如何成为美国 deepest 矛盾的折射镜。对多数黑人女性而言，发 relaxer 不仅是经济起步的捷径，也是一场关于“顺从”与“自我接纳”的内在斗争。它既助推了黑人创业的经济繁荣，又潜移默化地教导一代代人将自己的头发视为“问题”。节目最深刻的洞察在于：一种化学制品既建立了世代财富，也换来了身体与心理的双重代价。罗马·马尔斯和普里斯卡·阿拉比的叙事将个人的发型经历上升为种族、性别与资本主义的社会隐喻，令人唏嘘的是，在“易管理”的追求背后，是对健康与自尊的双重背叛。",
+    "best_quote_en": "\"It built Black wealth and opened economic doors, but also taught generations to see their hair as a problem to be solved.\"",
+    "best_quote_zh": "\"它建立了黑人财富，打开了经济之门，但也教导了几代人把头发视为需要解决的问题。\""
+  },
+  {
+    "id": 503,
+    "title": "Remake: A heartbreaking exploration of the slippage between documentary and fiction",
+    "title_zh": "Remake: 对纪录片与虚构之间滑移的心碎探索",
+    "model_used": "inclusionai/ling-3.0-flash-sante:free",
+    "source": "BFI",
+    "link": "https://www.bfi.org.uk/sight-and-sound/reviews/remake-heartbreaking-exploration-slippage-between-documentary-fiction",
+    "tags": [
+      "update",
+      "science",
+      "music-arts",
+      "case-study"
+    ],
+    "tags_zh": [
+      "动态",
+      "科学研究",
+      "音乐艺术",
+      "案例研究"
+    ],
+    "date": "2026-09-18",
+    "summary_en": "This review examines Ross McElwee's documentary 'Remake' (2025), a deeply personal exploration of grief and memory through cinema's lens. The film weaves home movies, clips from McElwee's previous work, and footage shot by his late son Adrian, who died from a fentanyl overdose. The reviewer explores the fundamental tension between documentary and fiction, questioning whether recorded images preserve truth or create a new kind of lie. McElwee's compulsive filming—now examined through the irony of his wife refusing to be filmed—raises questions about documentation's ethics and psychology. The review critically engages with memory's unreliability, noting how technology mediates our experience of the past. While acknowledging the film's emotional power, the reviewer wishes for deeper exploration of McElwee's compulsion to film. The piece reflects on cinema's unique ability to preserve life after death, creating what the reviewer calls a 'half-life' of existence through images. This sophisticated criticism speaks to anyone grappling with loss, memory, and the stories we tell through images.",
+    "summary_zh": "这篇影评深入剖析了Ross McElwee的纪录片《Remake》，通过家庭影像探讨失去与记忆的本质。影片将私人悲痛转化为对电影本质的哲学追问：当影像凝固逝去时刻，记录究竟是保存还是篡改？评论者敏锐指出McElwee的拍摄冲动本身值得深思——他沉迷记录生活，却对妻子拒绝入镜感到矛盾。评论还触及数字时代记忆的本质问题：GoPro的鱼眼效果与胶片影像同样'不真实'，都是机器捕捉而非人眼体验。在阿片类药物危机的背景下，Adrian的死亡不仅是个人悲剧，更是社会失职的缩影。评论以温情而克制的笔触指出，尽管主题沉重，影片却被爱所驱动，而非绝望。这是对电影、记忆与存在关系的深刻反思。",
+    "best_quote_en": "'gone but not gone', existing in a ghostly cinematic 'half-life'",
+    "best_quote_zh": "'逝去却未消逝，在幽灵般的电影半衰期中存在'"
+  },
+  {
+    "id": 504,
+    "title": "“A Dinner With Myself” by Graphic Designer Kübra Çetin",
+    "title_zh": "与自己共进晚餐：设计师库布拉·塞丁",
+    "model_used": "poolside/laguna-s-2.1:free",
+    "source": "BOOOOOOOM",
+    "link": "https://www.booooooom.com/2026/09/18/a-dinner-with-myself-by-graphic-designer-kubra-cetin/",
+    "tags": [
+      "update",
+      "design",
+      "writing-content"
+    ],
+    "tags_zh": [
+      "动态",
+      "设计创意",
+      "写作内容"
+    ],
+    "date": "2026-09-18",
+    "summary_en": "This visual essay by graphic designer Kübra Çetin presents a contemplative dinner scene through a series of evocative photographs. Rather than offering explicit narrative, the work invites viewers to project their own interpretations onto intimate domestic moments—half-lit tables, folded garments, and quiet reflections. The absence of text or captions transforms the experience into one of pure visual storytelling, where meaning emerges from lighting, composition, and symbolic detail. Çetin's aesthetic leans into soft realism, capturing vulnerability and solitude without romanticizing them. This piece functions less as traditional design communication and more as an exercise in emotional resonance—highlighting how visual media can convey interiority and existential reflection. For designers and artists, it raises questions about authorship, personal narrative, and the boundaries between commercial practice and personal expression. It’s a subtle yet powerful reminder that sometimes silence speaks louder than words.",
+    "summary_zh": "塞丁以一组静思的晚餐照片讲述孤独与内省，没有文字富有想象空间。这种视觉叙事方式让人思考设计如何传递情感而非信息。",
+    "best_quote_en": "The absence of text or captions transforms the experience into one of pure visual storytelling, where meaning emerges from lighting, composition, and symbolic detail.",
+    "best_quote_zh": "没有文字或字幕的存在，将体验转变为纯粹的视觉叙事，其中意义从光线、构图和象征性细节中浮现。"
+  },
+  {
+    "id": 505,
+    "title": "Doves Type",
+    "title_zh": "鸽子类型",
+    "model_used": "cohere/north-mini-code:free",
+    "source": "99% Invisible",
+    "link": "https://99percentinvisible.org/episode/683-doves-type/",
+    "tags": [
+      "analyze",
+      "ai-research",
+      "case-study"
+    ],
+    "tags_zh": [
+      "分析",
+      "AI研究",
+      "案例研究"
+    ],
+    "date": "2026-09-15",
+    "summary_en": "This episode of 99% Invisible explores a fascinating dispute between two typeface creators over ownership rights after their collaboration sours. Host Roman Mars delves into the legal and creative complexities of type design, featuring insights from Helen Zaltzman, who presents a musical live show titled 'Souvenirs' about the conflict. The episode examines how intellectual property battles shape creative industries and highlights the tangible aspects of type design, including the use of two tons of lead in production. Listeners gain a unique perspective on the intersection of art, law, and commerce in the world of typography, while also learning about innovative approaches to presenting complex narratives through multimedia formats.",
+    "summary_zh": "本期99% Invisible探讨了两位字体设计师在合作破裂后因字体所有权问题产生的争议。罗曼·马斯深入解析了类型设计的法律与创意困境，邀请海伦·萨尔兹曼分享她关于这场冲突的音乐现场表演《纪念品》。节目揭示了知识产权纠纷如何影响创意产业，并展示了字体设计中从无到有的物质过程——用两吨铅来制作字体。听众不仅能了解 typography 领域的法律与商业交锋，还能看到创新的多媒体叙事方式，将复杂的故事通过音乐表演生动呈现。",
+    "best_quote_en": "What happens when two people who create a successful typeface have a falling out and can’t decide who owns the type?",
+    "best_quote_zh": "当两位成功设计字体的设计师反目成仇，无法决定谁拥有字体时，会发生什么？"
+  },
+  {
+    "id": 506,
+    "title": "Pulp: What Do You Do for an Encore?: Documentary charts the thrilling story of Pulp, with a few forgivable omissions",
+    "title_zh": "《Pulp：返场唱什么？》：纪录片绘出乐队扣人心弦的历程，虽有缺漏，仍可原谅",
+    "model_used": "nex-agi/nex-n2.5-pro:free",
+    "source": "BFI",
+    "link": "https://www.bfi.org.uk/sight-and-sound/reviews/pulp-what-do-you-do-encore-documentary-charts-thrilling-story-pulp-with-few-forgivable-omissions",
+    "tags": [
+      "update",
+      "music-arts",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "动态",
+      "音乐艺术",
+      "未来预测"
+    ],
+    "date": "2026-09-18",
+    "summary_en": "This review treats Garth Jennings’s Pulp documentary as more than a victory-lap concert film: it is a study of pop artifice, working-class outsiderhood, and who gets to own a band’s story. The key insight is that Pulp were never simply Britpop’s second act to Oasis. Jarvis Cocker’s generation, art-school sensibility, and fascination with rejection gave the group a stranger, more humane mythology, while his insistence that pop improves reality helps explain the film’s theatrical scale. Davies is especially alert to the central tension: Jennings and Cocker filter the archive through Jarvis, so family photographs, teenage notebooks, and a handmade Dalek become evidence of authorship. Yet that focus turns the other members into foils, sidelines Russell Senior’s Glastonbury brilliance, and omits the Brit Awards protest. The review does not condemn those choices; it asks what emotional truth justifies them. I find the answer persuasive but incomplete. By ending with songs as “real time travel,” the film suggests reunion is not nostalgia so much as a negotiated return to earlier selves. Its omissions may therefore be less failures than the cost of a sharply subjective, deeply felt story.",
+    "summary_zh": "这篇评论最动人之处，在于它把演唱会纪录片读成一场关于记忆所有权的辩论。Pulp确实绕着Jarvis旋转，其他成员常被压成陪衬；但正是这种偏心眼，让旧照片、少年笔记与舞台上的“Common People”组成私人时间机器。省略Glastonbury高光与颁奖礼抗议当然可惜，却也让影片承认：重聚并非完整复刻历史，而是选择让哪些过去重新发声。",
+    "best_quote_en": "“Songs contain pockets of energy from your past life, which are released when you perform them. They’re real time travel, better than Doctor Who.”",
+    "best_quote_zh": "“歌曲里藏着过去生命中的能量碎片，只有当你演唱时才会释放。它们是真实的时间旅行，比《神秘博士》更厉害。”"
   }
 ]
