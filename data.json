@@ -1,118 +1,5 @@
 [
   {
-    "id": 407,
-    "title": "100 Objects #15: Bundy Clock",
-    "title_zh": "100个物件 #15：邦迪打卡钟",
-    "model_used": "dots-studio/dots-3-note-preview:free",
-    "source": "99% Invisible",
-    "link": "https://99percentinvisible.org/episode/100-objects-015-bundy-clock/",
-    "tags": [
-      "analyze",
-      "general",
-      "case-study"
-    ],
-    "tags_zh": [
-      "分析",
-      "general",
-      "案例研究"
-    ],
-    "date": "2026-08-28",
-    "summary_en": "This episode explores the surprising legacy of Willard Bundy’s 1888 time clock—an invention initially designed to track worker attendance that ultimately reshaped American labor, surveillance, and our very perception of time. What began as a mechanical solution for punctuality evolved into a cultural and industrial catalyst, embedding efficiency and temporal discipline into the fabric of modern work. The narrative reveals how a simple object became a symbol of corporate control, time commodification, and the rise of industrial capitalism. Beyond its utilitarian origins, the Bundy clock reflects broader shifts in societal values: the normalization of surveillance, the quantification of human labor, and the internalization of punctuality as a moral virtue. Its ripple effects extend into contemporary debates about work-life balance, digital monitoring, and the ethics of productivity. This is not just a story of invention, but of how technology redefines human behavior and social norms—often in ways its creator never envisioned.",
-    "summary_zh": "一盏打卡钟，竟悄然重塑了美国人对时间与劳动的理解。邦迪发明之初只为记录工时，却意外点燃了效率革命与职场监控的浪潮。它不仅是工业化的工具，更成为时间商品化、劳动异化与社会规训的象征。从道德化的“准时”到数字化的“追踪”，这台钟映照出技术如何潜移默化地重构人类行为与价值观念。今日我们对“ productivity”的执念，其根源或许就藏在这台老式齿轮之中。",
-    "best_quote_en": "The time clock didn’t just measure time—it standardized it, and in doing so, it changed how we think about work, worth, and our lives.",
-    "best_quote_zh": "打卡钟不只是测量时间——它规范了时间，而正是这种规范，改变了我们对工作、价值乃至生命本身的理解。"
-  },
-  {
-    "id": 408,
-    "title": "In pictures: Vivid behind-the-scenes shots from the jazz club in The L-shaped Room",
-    "title_zh": "图片：《L形房间》爵士俱乐部幕后生动照片",
-    "model_used": "dots-studio/dots-3-note-preview:free",
-    "source": "BFI",
-    "link": "https://www.bfi.org.uk/features/pictures-vivid-behind-scenes-shots-from-jazz-club-l-shaped-room",
-    "tags": [
-      "analyze",
-      "music-arts",
-      "case-study"
-    ],
-    "tags_zh": [
-      "分析",
-      "音乐艺术",
-      "案例研究"
-    ],
-    "date": "2026-08-28",
-    "summary_en": "This article presents rare behind-the-scenes photographs from the filming of Bryan Forbes' 1962 drama 'The L-shaped Room,' specifically the jazz club scene. These vivid Kodachrome images, likely captured by Forbes himself, provide an intimate look at the early 1960s beatnik and Mod culture in London. Beyond mere visual appeal, the photos serve as a historical document, capturing a society on the brink of radical change—post-rationing, pre-Swinging London, with undertones of the Profumo scandal. The article delves into the novel's context, the film's adaptations, and the cultural significance of locations like Joe Cannon's Jazz Club. It highlights how Forbes' attention to detail, including authentic extras and professional musicians, lends a vérité quality to the scenes. Personally, I find these images fascinating as they bridge the gap between fiction and reality, offering a tangible connection to a bygone era. They underscore the importance of film archives in preserving not just cinematic history but also social history, making us reflect on how transient cultural moments are immortalized through art.",
-    "summary_zh": "本文展示了1962年电影《L形房间》爵士俱乐部场景的幕后彩色照片，这些珍贵影像由导演布莱恩·福布斯拍摄，生动再现了60年代初伦敦的时尚与文化。照片不仅呈现了波西米亚风情，更折射出社会变革前夕的动荡——从战后配给制结束到“摇摆伦敦”兴起前的过渡期。文章深入探讨了小说改编、爵士俱乐部的历史背景，以及普罗富莫丑闻的影响。个人而言，这些影像连接了虚构与现实，让我们触摸到逝去时代的脉搏。它们凸显了电影档案在保存社会史中的价值，提醒我们文化瞬间如何通过艺术永恒。",
-    "best_quote_en": "For this blissful moment they can forget their secrets and find solace from the loneliness of their furnished rooms together.",
-    "best_quote_zh": "在这一刻，他们可以忘记秘密，从家具房间的孤独中找到慰藉。"
-  },
-  {
-    "id": 409,
-    "title": "Illustrator Spotlight: Musubu Hagi",
-    "title_zh": "插画家专访：Musubu Hagi",
-    "model_used": "poolside/laguna-xs-2.1:free",
-    "source": "BOOOOOOOM",
-    "link": "https://www.booooooom.com/2026/08/28/illustrator-spotlight-musubu-hagi/",
-    "tags": [
-      "analyze",
-      "ai-research"
-    ],
-    "tags_zh": [
-      "分析",
-      "AI研究"
-    ],
-    "date": "2026-08-28",
-    "summary_en": "This visual spotlight presents Musubu Hagi as a contemporary illustrator whose work bridges cultural narratives with digital artistry. The gallery format showcases 20+ pieces spanning character design, environmental storytelling, and conceptual art, revealing a distinctive visual language. While textually sparse, the collection functions as an immersive portfolio study, offering viewers insight into artistic process and creative identity. For aspiring illustrators, this represents both inspiration and a masterclass in visual communication. The work hints at deeper explorations of human experience through fantastical imagery, suggesting an artist deeply attuned to emotional resonance. The absence of extensive commentary actually enhances the viewer's active engagement, allowing the artwork to speak directly to the imagination.",
-    "summary_zh": "这组视觉专访以20多幅插画作品呈现Musubu Hagi的当代艺术风格，从角色设计到环境叙事，展现独特的视觉语言。虽然文字稀少，但这组作品集本身就是一场沉浸式的艺术鉴赏，让观者通过画作理解创意过程与艺术家的身份认同。对于正在追求插画事业的创作者而言，这不仅是灵感来源，更是视觉传播的范本。作品中隐含的情感共鸣与幻想意象，折射出该艺术家对人类体验的深层洞察。",
-    "best_quote_en": "Musubu Hagi's Website",
-    "best_quote_zh": "Musubu Hagi的作品网站"
-  },
-  {
-    "id": 410,
-    "title": "Daisy Chain Fields review – Olivia Rodrigo’s women-led festival is electric amid extreme heat",
-    "title_zh": "戴西链域 Fields 音乐节评论 – 奥利维亚·罗德里戈领导的女性音乐节在酷热中闪耀",
-    "model_used": "poolside/laguna-xs-2.1:free",
-    "source": "Women | The Guardian",
-    "link": "https://www.theguardian.com/music/2026/aug/30/daisy-chain-fields-festival-review-olivia-rodrigo",
-    "tags": [
-      "analyze",
-      "music-arts"
-    ],
-    "tags_zh": [
-      "分析",
-      "音乐艺术"
-    ],
-    "date": "2026-08-30",
-    "summary_en": "This review examines Olivia Rodrigo's groundbreaking Daisy Chain Fields festival, a women-led benefit concert that raised $20 million for charitable causes while navigating the challenges of extreme heat in Irvine, California. The 29-year-old pop star demonstrated remarkable foresight by creating a festival that honored both historical protest movements like riot grrrl and Lilith Fair, while incorporating contemporary Gen-Z activism. Rodrigo's vision extended beyond entertainment to create a space of 'radical dreaming' featuring interactive art installations, activist messaging, and carefully curated performances by iconic female artists spanning decades. However, the festival's poor pandemic preparedness—insufficient water stations, medical tents, and shaded areas—marred what could have been a flawless execution of her progressive ideals. The review reveals how Rodrigo's commitment to tangible change contrasts sharply with her contemporaries who merely offer performative allyship, making this both a celebration of female musical solidarity and a critical examination of how even well-intentioned activism can falter under practical pressures.",
-    "summary_zh": "奥利维亚·罗德里戈创办的Daisy Chain Fields音乐节不仅筹得2000万美元慈善款，更以女性为核心重塑了音乐节新范式。从Riot grrrl到Lilith Fair的传承激情，从Yoko Ono的Wish Tree到Jenny Holzer的艺术呐喊，这场充满实践暴政色彩的音乐节让人感受到千年女性运动的脉搏。尽管酷热让水站排长队、草地上汗水味扑鼻，但正是这种艰难中的团结——粗茆淡饮中彼此递出友谊 bracelet 的温情——最能体现罗德里戈创造的'荒凉日常的幻想之地'。她用音符缝合时代的裂痕，用Bikini Kill的叛逆与Sarah McLachlan的慈悲，在极端气候中证明了最深沉的信念：女性音乐的力量可以治愈整个世界。",
-    "best_quote_en": "We're at a crisis point... a world that makes the seething songs of Garbage, Bikini Kill and other performers at the festival – penned decades ago – upsettingly prescient, a world where so much more needs to be done and where a concert is a call for change.",
-    "best_quote_zh": "我们正处于危机之中……一个让Lilith Fair那些由Bikini Kill等乐手演绎的咆哮歌曲在过去数十年间变得令人痛心的世纪奇迹，一个需要做得更多的世界，在那里，一场音乐会是一声号召。"
-  },
-  {
-    "id": 411,
-    "title": "The Bone Wars",
-    "title_zh": "骨战争",
-    "model_used": "poolside/laguna-xs-2.1:free",
-    "source": "99% Invisible",
-    "link": "https://99percentinvisible.org/episode/679-the-bone-wars/",
-    "tags": [
-      "analyze",
-      "science",
-      "personal-finance",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "分析",
-      "科学研究",
-      "个人理财",
-      "数据驱动"
-    ],
-    "date": "2026-08-18",
-    "summary_en": "The Bone Wars narrative reveals how competitive fervor can simultaneously drive discovery and destroy scientific integrity. This historical account of Edward Cope and Othniel Charles Marsh's rivalry illuminates the complex relationship between ambition, ego, and scientific progress in America's emerging paleontological establishment. Their frantic race to catalog fossil species resulted in approximately 76% of their 136 named dinosaurs being invalid—either duplicates, misidentifications, or based on fragmentary remains. Yet paradoxically, their destructive competition also accelerated paleontology from an esoteric pursuit into a public spectacle that funded grand natural history museums. The story exposes how wealthy industrialists like Rockefeller and Carnegie manipulated scientific institutions to showcase their philanthropy while obscuring wealth inequality. Cope's purchase of 'The American Naturalist' to expedite publication and Marsh's political maneuvering to block federal funding demonstrate how personal vendettas can corrupt institutional science. Ultimately, both men's reputations collapsed, yet their fossils populate the halls of America's most visited museums, creating a haunting irony: the very chaos they unleashed became the foundation of public wonder. This serves as a cautionary tale about the double-edged nature of competitive scientific discovery and the institutional forces that shape what gets preserved in history.",
-    "summary_zh": "骨战争揭示了竞争热情如何同时推动发现又毁灭科学诚信。可惜科学道德常被个人野心所驱动。76%的命名恐龙都无效却建成了美国最受欢迎的博物馆，这种矛盾恰恰是人类科学进步的必然结果。",
-    "best_quote_en": "Every child who has ever stood awestruck beneath a towering dinosaur skeleton owes a small, complicated debt to two men who could barely stand to be in the same state.",
-    "best_quote_zh": "每一个站在巨大的恐龙骨骼搭架下感到惊叹的孩子，都欠两位连同州都无法和平相处的科学家一点小而复杂的债务。"
-  },
-  {
     "id": 412,
     "title": "Modeling a Wealth Tax",
     "title_zh": "财富税建模分析",
@@ -2352,5 +2239,126 @@
     "summary_zh": "这篇评论最动人之处，在于它把演唱会纪录片读成一场关于记忆所有权的辩论。Pulp确实绕着Jarvis旋转，其他成员常被压成陪衬；但正是这种偏心眼，让旧照片、少年笔记与舞台上的“Common People”组成私人时间机器。省略Glastonbury高光与颁奖礼抗议当然可惜，却也让影片承认：重聚并非完整复刻历史，而是选择让哪些过去重新发声。",
     "best_quote_en": "“Songs contain pockets of energy from your past life, which are released when you perform them. They’re real time travel, better than Doctor Who.”",
     "best_quote_zh": "“歌曲里藏着过去生命中的能量碎片，只有当你演唱时才会释放。它们是真实的时间旅行，比《神秘博士》更厉害。”"
+  },
+  {
+    "id": 507,
+    "title": "Jess Cartner-Morley on fashion: pair a little skirt with a chunky jumper for the perfect balancing act",
+    "title_zh": "杰丝·卡特纳-莫利：穿上一件短裙配上厚实的毛衣，完美的平衡之术",
+    "model_used": "poolside/laguna-s-2.1:free",
+    "source": "Women | The Guardian",
+    "link": "https://www.theguardian.com/fashion/2026/sep/16/jess-cartner-morley-on-fashion-pair-skirt-with-chunky-jumper",
+    "tags": [
+      "update",
+      "lifestyle",
+      "ai-research",
+      "case-study"
+    ],
+    "tags_zh": [
+      "动态",
+      "生活方式",
+      "AI研究",
+      "案例研究"
+    ],
+    "date": "2026-09-16",
+    "summary_en": "This piece transcends typical fashion advice by offering a sartorial philosophy for navigating the liminal space between seasons. Cartner-Morley’s core insight is that early autumn dressing presents a unique opportunity to blend summer’s liberatory spirit with autumn’s pragmatic layering, creating outfits that feel intentional rather than transitional. The recommended formula—delicate, short skirts paired with substantial tops—embodies a tension that is both visual and temporal: honoring the last warmth of summer while acknowledging the encroaching chill. What elevates this beyond mere styling tips is its psychological dimension: the author encourages readers to resist the performative rush into autumn aesthetics (corduroy, burgundy, heritage motifs) and instead maintain a ‘summer swagger’ that is as much about mindset as silhouette. The emphasis on color cohesion, shoe choice, and the rejection of ‘old-lady talk’ about leg suitability reveals a deeper commentary on how fashion can combat seasonal affective shifts. This is styling as emotional stewardship—using clothes to preserve not just physical comfort but also the psyche’s summer glow. The piece cleverly positions fashion as a form of temporal negotiation, where the right outfit can extend the feeling of freedom just a little longer.",
+    "summary_zh": "这篇时尚随笔超越了简单的穿搭建议，探讨了如何在秋夏交替之际用衣服仲裁时间的流动。作者提出的短裙搭厚上衣不仅是视觉上的撞色，更是对夏末温度的一种心理对抗——拒绝急于转入秋季的仪式感，保留夏天的轻松与自由。这种穿搭哲学告诉我们，时尚可以是情感的延续，而非季节的顺从。",
+    "best_quote_en": "The skirt is still daydreaming about holidays, but the top has read the forecast. Boudoir down below, bus stop up top.",
+    "best_quote_zh": "裙子还在幻想假期的事情，而上衣已经看过天气预报了。裙子像是私密的睡房，上衣像是公交车站。"
+  },
+  {
+    "id": 508,
+    "title": "How to Write Usefully",
+    "title_zh": "如何写得有用",
+    "model_used": "dots-studio/dots-3-note-preview:free",
+    "source": "Paul Graham",
+    "link": "http://www.paulgraham.com/useful.html",
+    "tags": [
+      "solve",
+      "startup-strategy",
+      "writing-content",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "解决",
+      "创业策略",
+      "写作内容",
+      "未来预测"
+    ],
+    "date": "2026-09-20",
+    "summary_en": "This essay redefines the purpose of writing from persuasion to utility, arguing that truly valuable writing must be correct, important, novel, and strong—four qualities that multiply to determine an essay's overall usefulness. The author critiques vague academic prose and bold demagoguery as opposite failures, advocating instead for precise, truthful claims that reveal what readers didn't know they knew. Drawing on Robert Morris's principle of only publishing ideas worth hearing, the author outlines a rigorous writing process: rapid ideation followed by exhaustive revision until every sentence feels inevitable. The essay also addresses the social cost of novelty—how useful writing often provokes discomfort by challenging cherished beliefs—and offers practical strategies for beginners: narrow your audience, write privately first, and embrace the vast, largely unexplored landscape of online essay writing as a frontier for discovery.",
+    "summary_zh": "本文将写作目的从“说服”重新定义为“有用”，主张真正有价值的写作必须同时具备正确性、重要性、新颖性和力度——这四个要素相乘决定了文章的实用价值。作者批判了模糊的学术腔调与狂妄的煽动言论这两种极端失败，倡导精确而真实的陈述，揭示读者未曾察觉的深层认知。借鉴罗伯特·莫里斯“只发布值得听的观点”之原则，作者提出一套严谨的写作流程：快速构思后进行数日精修，直至每个句子都无可挑剔。文章还探讨了新颖性的社会代价——有用写作常因挑战固有信念而引发不适，并为初学者提供实用策略：缩小受众范围、先私密写作、拥抱互联网带来的广阔创作空间，视散文写作为思想发现的前沿阵地。",
+    "best_quote_en": "Useful writing tells people something true and important that they didn't already know, and tells them as unequivocally as possible.",
+    "best_quote_zh": "有用的写作，是告诉人们某种真实且重要的、他们原本不知道的事，并且尽可能毫不含糊地传达它。"
+  },
+  {
+    "id": 509,
+    "title": "The Tim Ferriss Show Transcripts: How to Legalize Medical Psychedelics in Your Country — Tania de Jong on The Playbook Behind Australia’s World-First Breakthrough (#883)",
+    "title_zh": "《蒂姆·费里斯秀》 transcript：如何在你的国家合法化医疗迷幻药物——谭雅妮·德容谈澳大利亚世界首创突破的背后 (#883)",
+    "model_used": "cohere/north-mini-code:free",
+    "source": "Tim Ferriss",
+    "link": "https://tim.blog/2026/09/18/how-to-legalize-medical-psychedelics-transcript/",
+    "tags": [
+      "solve",
+      "medicine",
+      "science",
+      "case-study"
+    ],
+    "tags_zh": [
+      "解决",
+      "医学健康",
+      "科学研究",
+      "案例研究"
+    ],
+    "date": "2026-09-19",
+    "summary_en": "This transcript from The Tim Ferriss Show explores how Tania de Jong, co-founder of Mind Medicine Australia, spearheaded the campaign that made Australia the first country to allow prescribed MDMA and psilocybin for psychiatric conditions. De Jong shares her personal journey, from reading Michael Pollan's \"The Trip Treatment\" to experiencing psilocybin therapy in Europe, which ultimately inspired her advocacy. The conversation reveals the strategic playbook behind Australia's breakthrough, including building public support, leveraging scientific evidence, and navigating regulatory pathways. De Jong emphasizes the importance of personal experience, grassroots mobilization, and evidence-based approaches in driving policy change. The interview offers actionable insights for activists and policymakers worldwide seeking to legalize medical psychedelics, highlighting the power of storytelling, coalition-building, and persistent advocacy in transforming mental health landscapes.",
+    "summary_zh": "本文是《蒂姆·费里斯秀》的 transcript，探讨了谭雅妮·德容（Tania de Jong）如何推动澳大利亚成为全球首个允许处方使用MDMA和Psilocybin治疗精神疾病的国家。德容分享了她的个人经历，从阅读迈克尔·波兰（Michael Pollan）的《迷幻药物疗法》开始，到在欧洲体验了Psilocybin治疗，这激发了她成为倡导者。对话揭示了澳大利亚突破背后的策略性计划，包括建立公众支持、利用科学证据和导航监管途径。德容强调了个人经历、基层动员和循证方法在推动政策变革中的重要性。本次采访为全球活动家和政策制定者提供了可行的见解，帮助他们推动医疗迷幻药物的合法化，展示了讲故事、建立联盟和持续倡导的力量如何改变心理健康领域。",
+    "best_quote_en": "What have you got to lose? Seriously, what have you got to lose?",
+    "best_quote_zh": "你有什么可以失去的？认真的，你有什么可以失去的？"
+  },
+  {
+    "id": 510,
+    "title": "具身智能，留不住“一把手”",
+    "title_zh": "具身智能，留不住“一把手”",
+    "model_used": "poolside/laguna-xs-2.1:free",
+    "source": "虎嗅",
+    "link": "https://www.huxiu.com/article/4892619.html?f=rss",
+    "tags": [
+      "analyze",
+      "science",
+      "deep-dive"
+    ],
+    "tags_zh": [
+      "分析",
+      "科学研究",
+      "深度分析"
+    ],
+    "date": "2026-09-20",
+    "summary_en": "This article examines a paradox shaking the embodied intelligence sector: explosive valuation growth coexisting with mass exodus of key executives. Through detailed case studies of high-profile departures from companies like Smart Medical, Lingxing Robotics, and Baidu, the analysis reveals that these aren't signs of industry decline but rather growing pains. The piece traces how talent flows from internet and new energy sectors into embodied AI, driven by massive capital inflows—with salaries reaching 15 million yuan for chief scientists. However, a fundamental misalignment emerges between capital's 3-year exit timeline and technology's 5-10 year maturation cycle, squeezing mid-tier executives. The author argues this represents the industry's 'coming of age' moment, transitioning from 'technology competition' to 'business competition' requiring organizational restructuring. Historical parallels with Apple and Tencent illustrate that executive turnover during scaling phases is normal, signaling rather than indicating collapse. The core insight: sustainable success requires building systems to retain and develop talent, not merely accumulating it.",
+    "summary_zh": "这篇文章揭示了具身智能行业的矛盾现象：估值飙升却高层频频离职。作者通过智元、小鹏等企业核心人才变动案例，指出这是行业从\"技术竞赛\"转向\"商业竞争\"的必然经历。资本以倍数增长估值，推高人才薪酬（科学家年薪可达1.24亿），但资本3年退出周期与技术5-10年成熟周期错位，使中坛领导者被挤压。历史经验表明，大规模人才流动是行业成长的\"成年礼\"，关键在于构建人才留得下、能成长的组织机制。",
+    "best_quote_en": "The essence of this wave of departures lies not in where they went, but in what happened on the ship itself.",
+    "best_quote_zh": "这波离职潮虽然来的突然，但是是必然的是具身行业发展迟来的\"成年礼\"。当行业从\"技术竞赛\"切换到\"商业竞赛\"，组织架构必须跟着变，人才的流动是这一阶段最显性的特征之一。"
+  },
+  {
+    "id": 511,
+    "title": "Book of the month: Jeyamohan",
+    "title_zh": "本月好书：Jeyamohan",
+    "model_used": "inclusionai/ling-3.0-flash-sante:free",
+    "source": "A year of reading the world",
+    "link": "https://ayearofreadingtheworld.com/2026/06/30/book-of-the-month-jeyamohan/",
+    "tags": [
+      "analyze",
+      "writing-content",
+      "case-study"
+    ],
+    "tags_zh": [
+      "分析",
+      "写作内容",
+      "案例研究"
+    ],
+    "date": "2026-06-30",
+    "summary_en": "This essay serves as both a book review and a philosophical meditation on art, empathy, and moral complexity. The author introduces Jeyamohan, a Tamil writer whose work is finally reaching English-speaking audiences through 'White Elephant' and 'The Abyss.' The latter novel is the true focus: a harrowing exploration of a wealthy man who profits from exploiting physically deformed beggars, forcing readers to confront the porous boundary between oppressor and oppressed. What makes this analysis remarkable is its refusal to offer easy moral resolution. The author acknowledges the novel's extraordinary humanity—its humor, tenderness, and the translator's Joyce-level achievement—while honestly grappling with the author's documented misogyny. Drawing on Claire Dederer's framework, the essay interrogates whether we can separate art from artist, especially when the controversy exists outside our linguistic and cultural competence. The conclusion is disarmingly honest: these are exceptional books by a deeply flawed human being, and the reader's only recourse is transparent acknowledgment of that paradox.",
+    "summary_zh": "这是一篇书评，更是一场关于艺术、同理心与道德复杂性的哲学沉思。作者介绍泰米尔作家Jeyamohan的作品进入英语世界，聚焦小说《深渊》——一个关于富人剥削畸形乞丐的残酷故事。然而真正引人入胜的是作者拒绝给出简单的道德判断：既赞叹小说的非凡人性与翻译的杰出成就，又坦诚面对作者本身的厌女言论。在艺术与艺术家的分离问题上，作者以诚实而非教条的方式回应了这个当代困境——这是优秀之作，也是有缺陷之人所写，读者唯一的选择就是透明地承认这种矛盾。",
+    "best_quote_en": "To empathise is to be someone 'who is there as one among' those we read about. Only then can we understand why they make the choices that they do.",
+    "best_quote_zh": "去同理，就是成为那个‘与他们在一起’的人。只有这样，我们才能理解他们为何做出那样的选择。"
   }
 ]
