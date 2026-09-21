@@ -1,124 +1,5 @@
 [
   {
-    "id": 412,
-    "title": "Modeling a Wealth Tax",
-    "title_zh": "财富税建模分析",
-    "model_used": "poolside/laguna-s-2.1:free",
-    "source": "Paul Graham",
-    "link": "http://www.paulgraham.com/wtax.html",
-    "tags": [
-      "analyze",
-      "startup-strategy",
-      "deep-dive"
-    ],
-    "tags_zh": [
-      "分析",
-      "创业策略",
-      "深度分析"
-    ],
-    "date": "2026-09-01",
-    "summary_en": "This article presents a compelling quantitative analysis of how wealth taxes compound over time, using a startup founder's stock accumulation as a case study. The author demonstrates that even seemingly modest annual wealth tax rates—like 1% or 2%—can consume a substantial portion of an individual's assets over a 60-year period due to the compounding effect of annual taxation on the same base. What makes this analysis particularly insightful is its focus on the structural mechanics of wealth taxation rather than ideological debates. By modeling scenarios with varying tax rates and thresholds, the piece reveals how wealth taxes are fundamentally different from income taxes: they repeatedly erode the same asset pool, leading to exponential loss of ownership over time. This has profound implications for entrepreneurship and long-term wealth accumulation, suggesting that such policies could significantly disincentivize risk-taking and innovation. The analysis is both educational and thought-provoking, offering readers a clearer understanding of tax policy's unintended consequences on wealth dynamics.",
-    "summary_zh": "这篇文章通过量化分析揭示了财富税如何通过复利效应在长期内显著侵蚀财富。即使看似温和的年税率也可能在60年间消耗大量财产，挑战了人们对财富税的直观认知。这提醒我们，在评估税收政策时不能忽视其长远影响。",
-    "best_quote_en": "A wealth tax will usually have a threshold at which it starts. How much difference would a high threshold make?",
-    "best_quote_zh": "财富税通常有一个起征点。这一高阈值会带来多大的差别？"
-  },
-  {
-    "id": 413,
-    "title": "How to Reinvent Yourself and Make Bold Moves — Decisive Stories from Matthew McConaughey, Steve Young, Samin Nosrat, and More (#879)",
-    "title_zh": "如何重塑自己并做出大胆举动——来自马修·麦康纳、史蒂夫·扬、萨敏·诺斯拉特等人的决定性故事",
-    "model_used": "cohere/north-mini-code:free",
-    "source": "Tim Ferriss",
-    "link": "https://tim.blog/2026/08/12/how-to-reinvent-yourself/",
-    "tags": [
-      "solve",
-      "writing-content",
-      "leadership"
-    ],
-    "tags_zh": [
-      "解决",
-      "写作内容",
-      "领导管理"
-    ],
-    "date": "2026-08-12",
-    "summary_en": "This episode explores the profound art of personal reinvention through compelling stories from transformative figures across diverse fields. Listeners gain actionable frameworks for shedding outdated identities and embracing bold new directions. The content bridges theory with practice, offering concrete strategies for navigating uncertainty during life transitions. Each guest contributes unique perspectives on timing, courage, and the psychological mechanics of change. The episode serves as both inspiration and practical guidance for anyone facing pivotal moments of transformation. McConaughey's artistic evolution, Young's athletic-to-business transition, Nosrat's culinary journey, and other narratives create a rich tapestry of human potential. The synthesis of these experiences provides listeners with a comprehensive roadmap for making decisive, meaningful changes.",
-    "summary_zh": "这集节目通过来自不同领域的变革者故事，探索个人重塑的艺术。听众将获得实用的框架，学会抛弃过时的身份并拥抱新的方向。内容将理论与实践相结合，为生活转型期的不确定性提供具体策略。每位嘉宾都分享了关于时机、勇气和变革心理学的独特见解。这集节目既是激励也是实践指南，适合任何面临重要转型时刻的人。",
-    "best_quote_en": "Reinvention isn't about finding something new to become—it's about uncovering what you were always meant to be.",
-    "best_quote_zh": "重塑不是找到什么新东西去成为，而是发掘你一直以来注定要成为的那个人。"
-  },
-  {
-    "id": 414,
-    "title": "起底线上恋爱交友乱象：围猎中老年男性？“公会”称“有兼职聊天员日赚1万”",
-    "title_zh": "起底线上恋爱交友乱象：围猎中老年男性？\"公会\"称\"有兼职聊天员日赚1万\"",
-    "model_used": "minimax/minimax-m3:free",
-    "source": "虎嗅",
-    "link": "https://www.huxiu.com/article/4887622.html?f=rss",
-    "tags": [
-      "analyze",
-      "business-model",
-      "science",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "分析",
-      "商业模式",
-      "科学研究",
-      "数据驱动"
-    ],
-    "date": "2026-09-01",
-    "summary_en": "This investigative exposé unveils a sophisticated predatory ecosystem lurking within China's online dating and social platforms, where loneliness becomes a lucrative commodity. The article traces a multi-tiered gray industry—from \"guilds\" recruiting female \"chat operators\" who earn up to 10,000 yuan daily by deploying manipulative scripts, to AI-powered phones running DeepSeek models that can simulate human conversation across 200 platforms simultaneously. Middle-aged and elderly men emerge as the primary victims, with one case exceeding 800,000 yuan in losses, systematically extracted through small frequent charges and emotional manipulation. The investigation also resurrects concerns about traditional matchmaking services, where \"matchmaking photos\" become bait for expensive memberships averaging 4,888 yuan, and even models are recruited as fake dating prospects. Legally, the situation presents a paradox: victims often refuse to acknowledge they've been defrauded, hampering police investigations despite clear patterns meeting fraud criteria. The piece raises profound questions about the misalignment between platform business models and genuine human connection needs, particularly as Z-generation users demand authenticity that algorithms cannot manufacture. It exposes how the commodification of intimacy has created an industrial-scale harvesting operation exploiting China's massive single population.",
-    "summary_zh": "这篇深度调查揭示了中国线上婚恋社交平台背后精密的灰产链条。当孤独被转化为商业模式，一场系统性的围猎已然就绪。文章追踪了从\"公会\"招募年轻女性兼职聊天员，到AI定制手机挂机200个平台日入万元的产业链全貌。中老年男性成为主要猎物，有人充值逾80万元仍执迷不悟。婚介平台同样深陷泥潭：精心展示的\"优质嘉宾\"实为付费诱饵，已婚护士被反复用作展示素材，甚至模特被雇来假扮相亲对象。最吊诡的是法律困境——受害者往往不承认被骗，导致警方难以立案。这不仅是商业伦理的溃败，更折射出整个陌生人社交模式的结构性矛盾：当情感连接被明码标价，真诚便成了最稀缺的商品。",
-    "best_quote_en": "When the desire to find a partner and expand social circles is transformed into a business model of \"payment required to chat,\" a precision harvest around loneliness may already be ready.",
-    "best_quote_zh": "当寻找伴侣、拓宽人际交往圈的渴望，被转化为\"付费才能聊天\"的商业模式，一场围绕孤独感进行的精密收割或许已经就绪。"
-  },
-  {
-    "id": 415,
-    "title": "‘Stunning’ Percolation Proof Solves Decades-Old Puzzle About Phase Transitions",
-    "title_zh": "“令人惊叹”的渗流证明解决了关于相变的数十年难题",
-    "model_used": "z-ai/glm-5.2:free",
-    "source": "Quanta Magazine",
-    "link": "https://www.quantamagazine.org/stunning-percolation-proof-solves-decades-old-puzzle-about-phase-transitions-20260831/",
-    "tags": [
-      "solve",
-      "general",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "解决",
-      "general",
-      "未来预测"
-    ],
-    "date": "2026-08-31",
-    "summary_en": "This article chronicles a landmark mathematical breakthrough in percolation theory, where a five-person team at ETH Zurich solved the decades-old supercritical sharpness conjecture for infinite transitive graphs. Originating from Rosalind Franklin's mid-20th-century research on coal, percolation theory models how networks undergo phase transitions—shifting abruptly from isolated clusters to total connectivity at a critical threshold. While sharpness was proven for regular lattices in the 1980s, extending this to the vastly broader, more abstract class of transitive graphs remained an elusive 'fortress' for mathematicians. The breakthrough's elegance lies in its simplicity: by reversing the traditional order of a probabilistic technique called 'sprinkling,' the team unlocked a proof that applies universally to all infinite transitive graphs. Beyond resolving a foundational question in probability theory, this elegant framework provides new analytical tools to study complex real-world phase transitions in physics, from quantum materials to freezing water. It stands as a testament to the enduring power of collaborative, intuitive problem-solving in theoretical mathematics.",
-    "summary_zh": "渗流理论自上世纪40年代罗莎琳德·富兰克林研究煤炭孔隙起步，如今在ETH Zurich五人团队的努力下迎来了里程碑式突破。他们以极其简洁的证明攻克了无限传递图上的超临界锐度猜想——一个困扰数学界数十年的难题。这不仅填补了概率论的重要空白，更打通了理解物理相变的新路径。当复杂问题被化繁为简的那一刻，往往就是数学最动人心魄的瞬间。",
-    "best_quote_en": "You have a stage, which is geometry, and a dancer, which is the random process.",
-    "best_quote_zh": "几何是舞台，随机过程是舞者。"
-  },
-  {
-    "id": 416,
-    "title": "The Singapore strategies",
-    "title_zh": "新加坡的策略",
-    "model_used": "nvidia/nemotron-3-super-120b-a12b:free",
-    "source": "Aeon",
-    "link": "https://aeon.co/essays/did-singapore-go-wrong-in-its-quest-for-food-security",
-    "tags": [
-      "inspire",
-      "society",
-      "environment",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "启发",
-      "社会议题",
-      "环境科学",
-      "未来预测"
-    ],
-    "date": "2026-08-31",
-    "summary_en": "The essay examines Singapore’s pursuit of water and food security through the lens of comparative advantage and economic realism. It contrasts Brunei’s struggling rice self‑sufficiency push with Singapore’s successful diversification of water supplies via NEWater, desalination, and strategic imports, projecting that by 2061 most water will come from non‑Malaysian sources. Regarding food, the author critiques the ambitious ‘30 by 30’ target as misaligned with Singapore’s land constraints and comparative advantage in trade, logistics, and high‑value sectors such as biotech. Citing Adam Smith, the piece argues that Singapore’s wealth and sophisticated supply chains already guarantee food security, making domestic production of low‑value crops an inefficient use of scarce urban land. The author suggests that resources would be better spent on reducing waste, improving supply‑chain efficiency, and leveraging Singapore’s strengths in agribiotech R&D rather than chasing symbolic self‑sufficiency metrics. Overall, the essay warns against security‑first policies that ignore opportunity costs, urging policymakers to align resilience strategies with genuine economic strengths.",
-    "summary_zh": "文章指出，新加坡在水资源上通过多元化来源（NEWater、海水淡化及战略进口）实现了成功的自给自足，而其在食品上的‘30之30’目标则与土地稀缺和比较优势相悖。作者引用斯密的观点，认为新加坡凭借其富裕、高效的全球供应链已基本保障食品安全，强行发展低价值农作物只会浪费宝贵的城市土地。他建议把精力放在减少浪费、提升供应链效率以及发挥新加坡在农业生物技术方面的研发优势，而非追求象征性的自给率。文章警示，安全第一的政策若忽视机会成本，可能适得其反，呼吁政策制定者将复原力策略与真实的经济优势相结合。",
-    "best_quote_en": "It is not from the benevolence of the butcher, the brewer, or the baker, that we expect our dinner, but from their regard to their own interest.",
-    "best_quote_zh": "我们期待得到晚餐，并不是因为屠夫、酿酒师或面包师的仁慈，而是因为他们考虑自己的利益。"
-  },
-  {
     "id": 417,
     "title": "More nothing now",
     "title_zh": "更多的无聊",
@@ -2360,5 +2241,122 @@
     "summary_zh": "这是一篇书评，更是一场关于艺术、同理心与道德复杂性的哲学沉思。作者介绍泰米尔作家Jeyamohan的作品进入英语世界，聚焦小说《深渊》——一个关于富人剥削畸形乞丐的残酷故事。然而真正引人入胜的是作者拒绝给出简单的道德判断：既赞叹小说的非凡人性与翻译的杰出成就，又坦诚面对作者本身的厌女言论。在艺术与艺术家的分离问题上，作者以诚实而非教条的方式回应了这个当代困境——这是优秀之作，也是有缺陷之人所写，读者唯一的选择就是透明地承认这种矛盾。",
     "best_quote_en": "To empathise is to be someone 'who is there as one among' those we read about. Only then can we understand why they make the choices that they do.",
     "best_quote_zh": "去同理，就是成为那个‘与他们在一起’的人。只有这样，我们才能理解他们为何做出那样的选择。"
+  },
+  {
+    "id": 512,
+    "title": "Mathematicians Build Long-Awaited Graph Sandwich",
+    "title_zh": "数学家构建了久违的图的三明治",
+    "model_used": "poolside/laguna-xs-2.1:free",
+    "source": "Quanta Magazine",
+    "link": "https://www.quantamagazine.org/mathematicians-build-long-awaited-graph-sandwich-20260918/",
+    "tags": [
+      "learn",
+      "ai-research",
+      "beginner-friendly"
+    ],
+    "tags_zh": [
+      "学习",
+      "AI研究",
+      "新手友好"
+    ],
+    "date": "2026-09-18",
+    "summary_en": "This article reports on a groundbreaking achievement in graph theory: the proof of the 'sandwich conjecture' that mathematicians have pursued for over two decades. The conjecture involves creating a mathematical sandwich where a random binomial graph is nested between two regular graphs, allowing properties of the easier-to-analyze binomial graph to transfer to the more complex regular graph. The proof, accomplished by Richard Montgomery, Natalie Behague, and Daniel Iľkovič in 2025, represents a profound connection between two seemingly different random processes. Their innovative approach builds graphs edge-by-edge with carefully calibrated probabilities, ensuring both the containment relationship and regularity constraints are satisfied. This breakthrough not only resolves a long-standing open problem but also provides mathematicians with powerful new tools for analyzing complex networks across disciplines, from computer science to neuroscience. The work exemplifies the elegance and interconnectedness of mathematical thinking, demonstrating how abstract theoretical advances can unlock new avenues of research.",
+    "summary_zh": "这项突破性成果解决了图论中困扰学者二十余年的“三明治猜想”。作者们通过边缘构建方式巧妙地将随机二项图嵌入正则图中，揭示了看似不同随机过程之间的深层联系。该证明不仅开辟了分析复杂网络的新方法，更为数学工具箱注入了强大的研究力量，具有跨越计算机科学到神经科学的广泛应用前景。",
+    "best_quote_en": "The notion is so beautiful. What attracts me most is actually the beauty of it.",
+    "best_quote_zh": "这种概念太美丽了。我最感兴趣的正是它的美。"
+  },
+  {
+    "id": 513,
+    "title": "Cosmic amnesia",
+    "title_zh": "宇宙遗忘症",
+    "model_used": "nvidia/nemotron-3-ultra-550b-a55b:free",
+    "source": "Aeon",
+    "link": "https://aeon.co/essays/black-holes-ring-like-bells-what-happens-next-is-stranger",
+    "tags": [
+      "learn",
+      "science",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "学习",
+      "科学研究",
+      "未来预测"
+    ],
+    "date": "2026-09-18",
+    "summary_en": "This essay masterfully weaves together black hole physics, thermodynamics, and human experience through the metaphor of a ringing bell. The author, a Cambridge researcher, uses the 'ringdown' phase of merging black holes—where gravitational waves fade to silence—as a gateway to explore the no-hair theorem: black holes retain only mass, spin, and charge, forgetting all else. The profound insight emerges when connecting this to entropy: just as perfume diffuses irreversibly in a room, black holes represent nature's ultimate information loss. The event horizon acts as a one-way membrane, making the microscopic details of a black hole's violent history permanently inaccessible to outside observers. This isn't merely a cosmic curiosity—it mirrors our own existence. We, too, experience only macroscopic summaries (temperature, sound, memory) while microscopic details wash away. The essay's closing reflection—that 'you must have loss to have existence'—transforms physics into philosophy. The writing achieves rare elegance, making general relativity and statistical mechanics feel intimate. One wishes for more engagement with the black hole information paradox (quantum mechanics suggests information isn't truly lost), but as a classical treatment, it's exemplary.",
+    "summary_zh": "作者以剑桥教堂钟声为引，将黑洞合并时的“振铃衰减”比作钟声渐歇，层层深入阐释无毛定理：黑洞只保留质量、自旋、电荷，其余暴力历史尽数遗忘。更深刻的是将此与熵增联系——事件视界像单向膜，让微观细节永不可知，正如香水扩散不可逆，我们只能感知宏观统计量（温度、气味、记忆）。结尾“要有存在，必有失去”将物理升华为哲学：黑洞遗忘，宇宙遗忘，我们亦然。文笔优雅克制，把广义相对论与统计力学写得贴近人心。唯一遗憾是未触及量子层面的信息悖论，但作为经典视角的叙事已臻完美。",
+    "best_quote_en": "You must have loss to have existence. Somewhere out there, a black hole rings into silence, too. Space, time and the air around me forget, as will I. Still, I am glad that I am there to hear it.",
+    "best_quote_zh": "要有存在，必有失去。某处黑洞亦在振铃归寂。时空、空气、我，终将遗忘。庆幸的是，我曾聆听过这声音。"
+  },
+  {
+    "id": 514,
+    "title": "15 Life-Saving Facts Everyone Should Know",
+    "title_zh": "15个每个人都应该知道的救命常识",
+    "model_used": "inclusionai/ling-3.0-flash-fin:free",
+    "source": "Mental Floss",
+    "link": "https://www.mentalfloss.com/random-facts/life-saving-facts-everyone-should-know?utm_source=RSS",
+    "tags": [
+      "solve",
+      "medicine",
+      "beginner-friendly"
+    ],
+    "tags_zh": [
+      "解决",
+      "医学健康",
+      "新手友好"
+    ],
+    "date": "2026-09-21",
+    "summary_en": "This article delivers a compact, high-impact collection of 15 actionable emergency-response facts designed to bridge the gap between panic and effective action. What makes it genuinely valuable isn't just the novelty of the information — it's the quiet urgency of knowing that any one of these facts could be the difference between life and death when seconds count. From CPR and the recovery position to navigating rip currents and electrical fires, the content spans a surprisingly wide spectrum of scenarios that most people never think to prepare for until tragedy strikes. The piece wisely acknowledges that knowledge alone won't eliminate panic, but frames preparedness as a risk-reduction strategy rather than a guarantee. What stands out is the practical specificity: advice like 'don't yank out an embedded fishhook' or 'don't induce vomiting after unknown poisoning' reflects real-world medical guidance that most people simply don't have access to in everyday life. The broader implication is a call for democratizing emergency literacy — these aren't lessons reserved for medical professionals, but baseline knowledge every person should carry.",
+    "summary_zh": "这篇文章以紧凑而有力的方式呈现了15个实用的急救常识，精准地填补了恐慌与有效行动之间的认知空白。真正让它具备价值的不只是信息的新鲜感，而是那种安静的紧迫感——任何一个知识点都可能在关键时刻决定生死。从心肺复苏、复原姿势到应对激流和电气火灾，内容覆盖的场景之广远超日常想象。文章坦诚地承认知识本身无法消除恐慌，却将准备定位为一种降低风险的策略，而非绝对保证。令人印象深刻的是建议的具体性：比如“不要拔出嵌入的鱼钩”或“未知物质中毒后不要催吐”，这些都源自真实的医疗指导，却是大多数人日常生活中从未接触过的常识。它的深层意义在于呼吁普及急救素养——这些不是医护人员的专属技能，而是每个人都应具备的底线知识。",
+    "best_quote_en": "Just knowing these life-saving facts might not prevent panic (it happens to the best of us), but they can make a difference in (or even reduce the risk of) an emergency.",
+    "best_quote_zh": "仅仅知道这些救命常识可能无法阻止恐慌（这对任何人都会发生），但它们可以在紧急情况中发挥作用，甚至降低风险。"
+  },
+  {
+    "id": 515,
+    "title": "Empirical safety claims from frontier labs should be replicated, scrutinized, and open-sourced",
+    "title_zh": "前沿实验室的实证安全声明应当被复现、审查与开源",
+    "model_used": "nvidia/nemotron-3-ultra-550b-a55b:free",
+    "source": "LessWrong",
+    "link": "https://www.lesswrong.com/posts/MmfzfGcQ3h3p6N9pD/empirical-safety-claims-from-frontier-labs-should-be-1",
+    "tags": [
+      "analyze",
+      "science",
+      "ai-research",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "分析",
+      "科学研究",
+      "AI研究",
+      "未来预测"
+    ],
+    "date": "2026-09-21",
+    "summary_en": "This article makes a compelling case for treating AI safety research from frontier labs with the same rigorous meta-scientific standards we apply to other high-stakes fields. The authors identify a dangerous gap: labs like Anthropic and OpenAI publish empirical safety claims—often without code, methodological detail, or independent verification—yet these claims underpin existential risk narratives. Drawing parallels to psychology's replication crisis and irreproducible deep RL results from the 2010s, they argue that systematic replication, stress-testing, and open-sourcing of lab experiments constitute 'the cheapest insurance we have against repeating history.' What strikes me most is the pragmatic acknowledgment that this work is 'unsexy and unincentivized'—a structural problem requiring dedicated funding and talent pipelines rather than mere exhortation. The proposal to focus on model cards as high-leverage replication targets is particularly sharp: when labs claim 'most aligned model ever,' we should demand auditable evidence. The piece balances urgency with epistemic humility, noting that failed replications could stem from model differences rather than lab error. This isn't just about catching mistakes; it's about building a self-correcting scientific community capable of consensus on what actually works.",
+    "summary_zh": "文章直指AI安全研究的阿喀琉斯之踵：前沿实验室发布关乎人类存续的实证声明，却常无代码、无细节、无独立验证。作者借心理学复现危机与深度RL不可复现史为鉴，主张建立系统性的复现、压力测试与开源机制——这是\"防止重蹈覆辙最廉价的保险\"。最击中我的洞见：这类工作\"不性感、无激励\"，靠呼吁无用，需专项资金与人才梯队。聚焦模型卡片作为高杠杆复现目标尤为精准：当实验室宣称\"最对齐模型\"，我们理应要求可审计证据。文章在紧迫感与认识论谦逊间取得平衡，承认复现失败可能源于模型差异而非实验室过失。这不仅是纠错，更是构建能就\"什么真正有效\"达成共识的自我修正科学共同体。",
+    "best_quote_en": "Meta-science at a frontier scale is unglamorous and unincentivized. But it's also the cheapest insurance we have against repeating history.",
+    "best_quote_zh": "前沿规模的元科学既不光鲜，也缺乏激励。但它也是我们防止历史重演、成本最低的保险。"
+  },
+  {
+    "id": 516,
+    "title": "Our A.I. Problem",
+    "title_zh": "我们的A.I.问题",
+    "model_used": "poolside/laguna-xs-2.1:free",
+    "source": "The New Yorker",
+    "link": "https://www.newyorker.com/magazine/2026/09/28/our-ai-problem",
+    "tags": [
+      "solve",
+      "ai-research",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "解决",
+      "AI研究",
+      "未来预测"
+    ],
+    "date": "2026-09-20",
+    "summary_en": "This provocative piece examines the fundamental contradiction at the heart of the artificial intelligence revolution: while companies like OpenAI and Anthropic possess unprecedented power to shape society, their leadership struggles to coordinate on safety measures that could prevent existential risk. The article traces how Silicon Valley's 'move fast and break things' ethos evolved into 'you can just do things' in the AI era, enabling remarkable technological capabilities yet creating democratic deficits and public anxiety. Lewis-Kraus argues that the industry's inability to collectively implement safety protocols represents a prisoner's dilemma—individual companies benefit from racing ahead, but collective action is required for genuine security. The piece explores how AI populism reflects broader political frustrations with governmental inaction, while noting that private AI investment ($1 trillion+) dwarfs public sector capabilities. The central tension emerges between technical achievement and governance failure: these same innovators who can build transformative infrastructure cannot seemingly coordinate on basic safety frameworks, raising profound questions about democratic oversight and the future of powerful technology.",
+    "summary_zh": "这篇文章揭示了AI革命中的根本矛盾：技术巨头拥有改变社会的前所未有力量，却无能为力于协调安全措施。作者追踪硅谷从'快速行动破坏规则'到'AI时代你可以随意行动'的思维转变，既赋能了非凡技术能力，又加剧了公众焦虑。文章指出，行业无法实现联合安全框架的困境恰似囚徒困境——各公司从竞速中获益，却需要集体行动方能实现真正安全。AI民粹主义反映了政府无能的更广泛政治不满，而私营部门AI投资(千亿美元)远超公共部门。核心张力在于：同一批创新者既能构建变革性基础设施，却无法协调基本安全框架，这对民主监督和强大技术的未来提出深刻问题。",
+    "best_quote_en": "Why, then, can't these same people just do the things that prevent extinction? Unfortunately, they often sigh, they are trapped by commercial and geopolitical realities.",
+    "best_quote_zh": "那么，为什么这些同样能做事的人不能只做防止绝望灭亡的事情呢？不幸的是，他们常常叹气，因为被商业和地缘政治现实所困。"
   }
 ]
