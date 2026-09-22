@@ -1,126 +1,5 @@
 [
   {
-    "id": 417,
-    "title": "More nothing now",
-    "title_zh": "更多的无聊",
-    "model_used": "poolside/laguna-xs-2.1:free",
-    "source": "Aeon",
-    "link": "https://aeon.co/essays/play-is-doing-its-work-even-if-were-not-keeping-score",
-    "tags": [
-      "inspire",
-      "society",
-      "design",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "启发",
-      "社会议题",
-      "设计创意",
-      "未来预测"
-    ],
-    "date": "2026-09-01",
-    "summary_en": "This essay explores the profound distinction between 'playing a game' and 'playing in a game' – between structured competition (agôn) and free, exploratory play (paidia). Drawing on theories from Caillois, Huizinga, Winnicott, and Schiller, the author argues that contemporary digital life has commodified leisure through 'value capture,' transforming play into productivity metrics. The piece advocates for reclaiming paidia – unstructured, non-optimizing play that fosters creativity, presence, and authentic human connection. Through personal anecdotes involving children rearranging Settlers of Catan and the author's own walking meditation, it demonstrates how transitional spaces enable 'creative apperception' where meaning emerges organically. The essay concludes that play is not leisure but a fundamental human practice essential for feeling 'real' and whole, calling for a cultural revaluation of eutrapelia – the virtue of playing well.",
-    "summary_zh": "这篇随笔深刻探讨了'遵循游戏规则'与'沉浸于游戏之中'的本质区别。作者通过个人经历与哲学思辨，揭示当代数字生活如何将乐趣异化为效率指标。文章坚持重拾纯粹的'自由游戏'——这种无目标、无竞争的玩耍方式，能激发创造力与真实的人际联结。从孩子们重新构想托尼游戏到作者的步行冥想，皆见'过渡空间'如何孕育出意义本身。最终，作者呼吁重估'游戏之美'这一古老德性：玩耍不仅是娱乐，更是维系人性本真的根本实践。",
-    "best_quote_en": "Boredom isn't a problem; rather, it's the condition in which the mind, left alone, begins to play by itself, to wander, associate, drift toward the transitional space where unexpected connections assemble unbidden.",
-    "best_quote_zh": "无聊并非问题；恰恰相反，它是心灵被允许自行游戏、漫游、联想、漂泊，趋向过渡空间，意外联结自发汇聚的境况。"
-  },
-  {
-    "id": 418,
-    "title": "Trivia of the Day for September 2, 2026: We Bet You Can’t Get Every Question Right",
-    "title_zh": "每日趣闻 2026年9月2日：我们打赌你无法答对所有问题",
-    "model_used": "nvidia/nemotron-3-super-120b-a12b:free",
-    "source": "Mental Floss",
-    "link": "https://www.mentalfloss.com/quizzes/trivia-of-the-day/september-2-2026?utm_source=RSS",
-    "tags": [
-      "solve",
-      "politics",
-      "education",
-      "beginner-friendly"
-    ],
-    "tags_zh": [
-      "解决",
-      "政治时事",
-      "教育学习",
-      "新手友好"
-    ],
-    "date": "2026-09-02",
-    "summary_en": "The September 2, 2026 Trivia of the Day offers a lively mental workout that blends historical milestones with pop‑culture nostalgia. By presenting twenty date‑specific questions, twenty broader September facts, and five random brain‑teasers, the piece invites readers to test their recall across domains ranging from World War II endings to the debut of Friends. Beyond mere amusement, the quiz functions as a low‑stakes learning tool: each answer reinforces factual knowledge while encouraging curiosity about the stories behind events such as the Great Fire of London or the establishment of the U.S. Treasury. The format promotes active retrieval, a proven method for long‑term retention, and the light‑hearted tone makes erudition feel accessible. In an era of endless scrolling, this structured challenge reminds us that deliberate, playful engagement with information can sharpen both memory and critical thinking, turning a simple pastime into a subtle catalyst for lifelong learning. It also highlights the value of interdisciplinary knowledge, showing how seemingly trivial facts can connect to larger cultural narratives.",
-    "summary_zh": "这份9月2日的每日趣闻不仅是一场轻松的智力挑战，更是一种隐性的学习方式。通过二十个与当日相关的历史题目、二十个关于九月的通用知识以及五个随机脑筋急转弯，它促使读者在娱乐中复习从伦敦大火到《老友记》首播的各类事实。答题过程激活了主动回忆机制，有助于长期记忆，而轻松的语气降低了学习门槛。在信息碎片化的今天，这种结构化的趣味提醒我们，有意识的、游戏化的知识获取同样能够提升思考力和记忆力，使看似琐碎的 trivia 成为终身学习的温和催化剂。",
-    "best_quote_en": "We Bet You Can’t Get Every Question Right",
-    "best_quote_zh": "我们打赌你无法答对所有问题"
-  },
-  {
-    "id": 419,
-    "title": "Dolphins and other lovers",
-    "title_zh": "海豚与其他爱慕者",
-    "model_used": "poolside/laguna-xs-2.1:free",
-    "source": "Aeon",
-    "link": "https://aeon.co/essays/why-the-andoque-of-the-amazon-fear-the-seductive-dolphin",
-    "tags": [
-      "learn",
-      "leadership",
-      "society",
-      "controversial"
-    ],
-    "tags_zh": [
-      "学习",
-      "领导管理",
-      "社会议题",
-      "争议观点"
-    ],
-    "date": "2026-08-20",
-    "summary_en": "This anthropological essay explores the Andoque people's complex relationship with river dolphins through the lens of their 'ecology of persons' worldview. The author recounts vivid encounters where dolphins are perceived as shape-shifting tricksters who can transform into human form to seduce and destroy victims. Central to this analysis is the Andoque belief that dolphins are 'bad people' who violate the sacred boundaries between human and non-human realms. The essay reveals how this Indigenous cosmology emerged from historical trauma—the Andoque's near-extinction following rubber slavery—and how their language, rituals, and oral traditions serve as protective mechanisms against supernatural dangers. The author's personal journey illustrates the profound challenge of cross-cultural immersion: while initially fascinated by Andoque power dynamics, she ultimately recognizes her own vulnerability to Western epistemological frameworks. The piece argues that Indigenous knowledge systems offer sophisticated survival strategies, where storytelling and ritual function as essential defenses against both literal and metaphysical threats in a world where the boundaries between persons and non-persons remain permeable.",
-    "summary_zh": "这篇人类学随笔探讨了安多克人与河豚的复杂关系，揭示了他们' persons 生态' 的世界观。作者通过形象叙述，呈现安多克人将海豚视为能变形为人类的欺骗者——它们会伪装成人类来诱惑并毁灭受害者。文章深刻阐明了这种本土神情学如何从历史创伤中萌生：安多克人因橡胶奴役几近灭绝。他们的语言、仪式和口头传统成为抵御超自然威胁的防御机制。在作者的个人化学旅程中，她逐渐认识到自己对西方认知框架的脆弱——从对权力的热情，转向对自身局限的觉悟。这部作品论证，原住民知识体系提供了精密的生存策略，叙事与仪式在人与非人的边界模糊的世界中，构成了必要的防御。",
-    "best_quote_en": "‘Such are dolphins,’ Rosa concluded. 'You’re talking about sea dolphins. Those may be different. But river dolphins here are evil.'",
-    "best_quote_zh": "'这就是海豚的本性，'罗莎得出结论。'你说的可能是海里的海豚，那些可能不同。但这里的河豚都是恶的。'"
-  },
-  {
-    "id": 420,
-    "title": "The Most Popular Music Genre in Every State, Mapped",
-    "title_zh": "美国各州最受欢迎的音乐流派地图",
-    "model_used": "cohere/north-mini-code:free",
-    "source": "Mental Floss",
-    "link": "https://www.mentalfloss.com/geography/states/most-popular-music-genre-every-state-mapped?utm_source=RSS",
-    "tags": [
-      "analyze",
-      "ai-research",
-      "music-arts"
-    ],
-    "tags_zh": [
-      "分析",
-      "AI研究",
-      "音乐艺术"
-    ],
-    "date": "2026-09-01",
-    "summary_en": "This article presents a fascinating data-driven exploration of America's musical landscape, revealing regional preferences through Google Trends analysis. SeatPick's research identifies pop as the dominant genre across 13 states, with metal claiming Ohio, Oklahoma, Maine, and Montana, among others. The study highlights how geographic location shapes musical taste, from Soul's stronghold in the South to country music's four-state preference. By mapping 18 genres and associating them with top artists like Taylor Swift, Sleep Token, and Bad Bunny, the article offers insights into cultural patterns and demographic influences on music consumption. This type of regional analysis not only satisfies curiosity about American diversity but also provides valuable market intelligence for the music industry, demonstrating how data can illuminate cultural geography and consumer behavior across the United States.",
-    "summary_zh": "这篇文章通过谷歌趋势数据分析，绘制出美国各州最受欢迎的音乐流派地图。SeatPick的研究显示，流行乐是全国最受欢迎的流派，覆盖13个州，包括加州、德克萨斯州、犹他州等。金属乐在俄亥俄州、俄克拉荷马州、明尼苏达州等八州占据首位。南方各州则偏爱灵魂乐，而乡村音乐在四个州最受欢迎。通过与泰勒·斯威夫特、Sleep Token等顶级艺人的关联，该分析揭示了美国音乐文化的地域差异，为理解美国文化多样性和消费行为提供了宝贵的视角。",
-    "best_quote_en": "Pop music is among Americans' favorite genres, streaming through headphones in 13 states, including California, Texas, Utah, Arizona, Michigan, and Minnesota, to name a few.",
-    "best_quote_zh": "流行音乐是美国人的最爱之一，在13个州流行，包括加州、德克萨斯州、犹他州、亚利桑那州、密歇根州和明尼苏达州等。"
-  },
-  {
-    "id": 421,
-    "title": "George W. Bush’s Code of Silence",
-    "title_zh": "乔治·W·布什的沉默",
-    "model_used": "nvidia/nemotron-3-nano-omni-30b-a3b-reasoning:free",
-    "source": "The New Yorker",
-    "link": "https://www.newyorker.com/news/essay/george-w-bushs-code-of-silence",
-    "tags": [
-      "update",
-      "politics",
-      "controversial"
-    ],
-    "tags_zh": [
-      "动态",
-      "政治时事",
-      "争议观点"
-    ],
-    "date": "2026-09-01",
-    "summary_en": "The essay examines why former President George W. Bush has refrained from publicly condemning Donald Trump, despite Trump's direct attacks on the Bush family, his dismantling of policies such as PEPFAR that saved millions of lives, and his erosion of democratic norms. It traces Bush's adherence to the tradition of post‑presidential restraint, contrasting it with the more outspoken criticism offered by former presidents like Carter and Obama. The author argues that Bush's silence is driven less by legal or customary constraints and more by personal concerns—self‑protection, family safety, financial interests, and a deep fear of damaging his already tarnished historical reputation. Bush's low approval ratings, his desire to avoid reopening wounds from the Iraq war, and his strategic focus on preserving his legacy through philanthropy and his presidential center further explain his reticence. The piece suggests that if Bush had broken his silence earlier, he might have altered electoral outcomes in 2016 and 2024, but his prolonged abstention now represents a missed opportunity to uphold the values he once championed.",
-    "summary_zh": "这篇文章揭示前总统小布什为何在特朗普攻击其家族、削减PEPFAR等关键政策以及破坏民主规范的情况下仍保持沉默。作者指出，这并非出于宪法或传统的正式限制，而是源于个人防护、家庭安全、商业利益以及对自己已被抨击的历史声誉的极度顾虑。小布什低落的民望、对伊拉克战争的记忆以及专注于通过慈善和机构巩固自己的遗产，使他选择回避公开批评。若他在2016或2024年及时发声，或许能改变选举结果，但他如今的缄默已成了其总统任期的最终、令人痛心的失败。",
-    "best_quote_en": "He showed me what it means to be a President who serves with integrity, leads with courage, and acts with love in his heart for the citizens of our country.",
-    "best_quote_zh": "他教会我，什么是一位以诚信服务、以勇气领袖、以爱心行动的总统。"
-  },
-  {
     "id": 422,
     "title": "What’s in my NOW? — Paul A. Bennett",
     "title_zh": "我的当下之物 — Paul A. Bennett",
@@ -2358,5 +2237,118 @@
     "summary_zh": "这篇文章揭示了AI革命中的根本矛盾：技术巨头拥有改变社会的前所未有力量，却无能为力于协调安全措施。作者追踪硅谷从'快速行动破坏规则'到'AI时代你可以随意行动'的思维转变，既赋能了非凡技术能力，又加剧了公众焦虑。文章指出，行业无法实现联合安全框架的困境恰似囚徒困境——各公司从竞速中获益，却需要集体行动方能实现真正安全。AI民粹主义反映了政府无能的更广泛政治不满，而私营部门AI投资(千亿美元)远超公共部门。核心张力在于：同一批创新者既能构建变革性基础设施，却无法协调基本安全框架，这对民主监督和强大技术的未来提出深刻问题。",
     "best_quote_en": "Why, then, can't these same people just do the things that prevent extinction? Unfortunately, they often sigh, they are trapped by commercial and geopolitical realities.",
     "best_quote_zh": "那么，为什么这些同样能做事的人不能只做防止绝望灭亡的事情呢？不幸的是，他们常常叹气，因为被商业和地缘政治现实所困。"
+  },
+  {
+    "id": 517,
+    "title": "Hiring",
+    "title_zh": "慧聘贤才",
+    "model_used": "nex-agi/nex-n2.5-mini:free",
+    "source": "Kevin Kelly",
+    "link": "https://kk.org/cooltools/hiring/",
+    "tags": [
+      "solve",
+      "leadership",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "解决",
+      "领导管理",
+      "未来预测"
+    ],
+    "date": "2026-09-21",
+    "summary_en": "The piece argues that careful hiring is a company’s highest-leverage investment because talented people compound across every task. It recommends studying past behavior, sourcing broadly, using structured interviews, assigning practical mini-projects, and checking references with a neutral callback test. Team review improves judgment, while listening more than talking reveals how candidates think and respond. The broader message is to invest in people rather than ideas, recognize that employers often resist bad news after courting applicants, and use precise outsourcing when specialized work must be delivered quickly, affordably, and reliably.",
+    "summary_zh": "文章强调审慎招聘是效率最高的组织投资。应考察过往行为、广泛寻源、结构化面试，并用小型实战任务与中性背调验证能力。团队复评可减少个人偏差，多听少说能观察候选人的思维与反应。其核心是投资人才而非空想，警惕因前期热情而回避坏消息，并在需要专长时借助精准外包快速交付。",
+    "best_quote_en": "“Invest in people, not ideas.”",
+    "best_quote_zh": "“投资人才，而非点子。”"
+  },
+  {
+    "id": 518,
+    "title": "A Clarification",
+    "title_zh": "澄清",
+    "model_used": "poolside/laguna-xs-2.1:free",
+    "source": "Sam Altman",
+    "link": "https://blog.samaltman.com/a-clarification",
+    "tags": [
+      "inspire",
+      "society",
+      "controversial"
+    ],
+    "tags_zh": [
+      "启发",
+      "社会议题",
+      "争议观点"
+    ],
+    "date": "2017-12-16",
+    "summary_en": "This piece presents a nuanced exploration of free speech, social progress, and the tension between tolerating controversial ideas versus endorsing harmful behavior. Sam Altman clarifies his earlier statement, emphasizing that scientific advancement doesn't require tolerating bigoted individuals, but rather that society must protect controversial yet valuable ideas. He draws compelling parallels between historical shifts in social norms—from gay rights to potential future views on meat consumption—highlighting how orthodoxy often resists necessary change. The central thesis is that free speech enables society to self-correct, allowing unpopular but morally significant ideas to emerge and gain traction over time. Altman acknowledges the difficulty in drawing clear boundaries between legitimate debate and hate speech, noting that the challenge isn't just practical but fundamentally moral. His argument ultimately suggests that open discourse, even when uncomfortable, is essential for collective moral progress and evolving ethical standards.",
+    "summary_zh": "这篇文章深入探讨了言论自由、社会进步以及容忍争议观点与反对有害行为之间的张力。作者澄清称，科学进步不在于容忍偏激分子，而在于社会保护具有价值的争议性思想。从同性婚姻到未来对肉食的看法，都映射出正统观念抵制变革的模式。他强调，言论自由让社会得以自我纠正，孕育进步思想。尽管界定善意争议与仇恨言论的边界极具挑战性，但敞开的对话仍是道德进化的必要条件。这不仅是实践问题，更是道德命题。",
+    "best_quote_en": "What I meant is simply that we need, as a society, to tolerate controversial ideas. The biggest new scientific ideas, and the most important changes to society, both start as extremely unpopular ideas.",
+    "best_quote_zh": "我所要表达的，只是我们作为社会需要容忍这些争议性的观点。最大的新科学想法，社会最重要的变革，都始于极不受欢迎的想法。"
+  },
+  {
+    "id": 519,
+    "title": "Best Tools for Gut Health & Weight Loss | Dr. Chris Thompson",
+    "title_zh": "最佳肠道健康与减重工具 | 克里斯·汤普森博士访谈",
+    "model_used": "nvidia/nemotron-3-ultra-550b-a55b:free",
+    "source": "Huberman Lab",
+    "link": "https://www.hubermanlab.com/episode/best-tools-for-gut-health-and-weight-loss-chris-thompson",
+    "tags": [
+      "solve",
+      "medicine"
+    ],
+    "tags_zh": [
+      "解决",
+      "医学健康"
+    ],
+    "date": "2026-09-21",
+    "summary_en": "This Huberman Lab episode features Dr. Chris Thompson, a Harvard gastroenterology professor and obesity medicine pioneer, delivering a masterclass on the gut as the body's metabolic command center. What distinguishes this conversation is Thompson's unique position straddling cutting-edge endoscopic interventions, GLP-1 pharmacology, and fundamental gut physiology—he's not just observing the obesity treatment revolution, he's architecting it. The discussion traverses from the mechanistic (how ghrelin, CCK, GIP, and GLP-1 orchestrate hunger/satiety) to the practical (fiber types, fermented foods, resistant starch) to the frontier (duodenal mucosal resurfacing, endoscopic sleeve gastroplasty, GLP-1 gene therapy). Thompson's insight that bariatric surgery's metabolic benefits precede weight loss—via foregut exclusion altering incretin signaling—reframes obesity as a gut signaling disorder rather than mere caloric imbalance. His nuanced take on GLP-1s—advocating lower doses to preserve muscle, addressing 'food noise' versus true hunger, and warning of apathy side effects—reflects clinical wisdom beyond protocol. The episode's through-line: gut health isn't a wellness trend but the substrate of systemic metabolism, immunity, and longevity. For anyone navigating weight management or metabolic health, this isn't information—it's a navigation system.",
+    "summary_zh": "汤普森博士不仅是哈佛教授，更是肥胖治疗革命的建筑师之一。这期对话最让我震撼的是他重新定义了肥胖本质：不是热量平衡失调，而是肠道信号传导紊乱。减重手术的代谢获益先于体重下降——通过排除前肠改变肠促胰岛素信号，这个洞见彻底改变了我看待代谢疾病的视角。他对GLP-1药物的态度极其克制且深刻：主张低剂量保肌肉、区分'食物噪音'与真实饥饿、警惕冷漠副作用，这是临床一线才有的智慧。从丁酸盐到十二指肠黏膜重塑，从内镜袖状胃成形术到GLP-1基因治疗，他串联起肠道作为全身代谢指挥中心的完整图景。这不只是科普，是给每个在代谢健康迷雾中摸索者的导航系统。",
+    "best_quote_en": "Obesity is not a disorder of caloric balance—it's a disorder of gut signaling. Bariatric surgery's metabolic benefits precede weight loss because foregut exclusion fundamentally alters incretin signaling.",
+    "best_quote_zh": "肥胖不是热量平衡的失调，而是肠道信号传导的紊乱。减重手术的代谢获益先于体重下降，因为前肠排除从根本上改变了肠促胰岛素信号。"
+  },
+  {
+    "id": 520,
+    "title": "The Forever War and the First Amendment",
+    "title_zh": "永恒的战争与第一修正案",
+    "model_used": "inclusionai/ling-3.0-flash-vl:free",
+    "source": "Harper’s Magazine",
+    "link": "https://harpers.org/2026/08/the-forever-war-and-the-first-amendment/",
+    "tags": [
+      "solve",
+      "ai-research",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "解决",
+      "AI研究",
+      "未来预测"
+    ],
+    "date": "2026-08-27",
+    "summary_en": "This announcement frames a symposium examining how the post-9/11 'war on terror' has reshaped democratic freedoms—particularly free expression and press independence. What strikes me as genuinely significant is the temporal framing: calling it a 'forever war' invokes not just military endurance but the slow erosion of civil liberties that outlasts any formal conflict. Kunzru's essay on art and censorship after 9/11 promises to interrogate how cultural production itself became a battlefield. The pairing of Harper's Magazine—a publication with a long tradition of dissenting voices—with Columbia's First Amendment Institute suggests a serious intellectual reckoning rather than a ceremonial retrospective. The fact that this is free and open to the public, yet requires registration, subtly mirrors the tension between openness and gatekeeping that pervades democratic discourse. This event sits at the intersection where journalism ethics, artistic freedom, and national security policy converge—a junction that remains profoundly unresolved two decades on.",
+    "summary_zh": "这场研讨会将9/11之后的反恐战争称为'永恒的战争'，暗示民主自由的侵蚀远比军事冲突本身更为持久。Kunzru关于艺术审查的论文值得关注——它触及了一个根本性问题：在安全名义下，文化生产如何悄然成为新的战场。Harper's与哥伦比亚第一修正案研究所的合作，暗示这不是一次仪式性的回顾，而是一场严肃的思想交锋。免费开放却需注册的规定，巧妙地折射出民主话语中开放与把关之间永恒的张力。新闻伦理、艺术自由与国家安全政策的交汇地带，二十年后仍未真正解决。",
+    "best_quote_en": "The Forever War and the First Amendment",
+    "best_quote_zh": "永恒的战争与第一修正案"
+  },
+  {
+    "id": 521,
+    "title": "DesignPatentDaily / Origin Myth Map / Magnifying Desk Lamp",
+    "title_zh": "设计专利日报 / 起源神话地图 / 放大台灯",
+    "model_used": "inclusionai/ling-3.0-flash-sante:free",
+    "source": "Kevin Kelly",
+    "link": "https://kk.org/cooltools/designpatentdaily-origin-myth-map-magnifying-desk-lamp/",
+    "tags": [
+      "inspire",
+      "design",
+      "beginner-friendly"
+    ],
+    "tags_zh": [
+      "启发",
+      "设计创意",
+      "新手友好"
+    ],
+    "date": "2026-09-20",
+    "summary_en": "This week's collection spans the beautifully technical to the deeply human. DesignPatentDaily reveals that patent drawings are an unrecognized art form — functional elegance distilled into crisp ink lines. The Origin Myth Map offers an interactive journey through humanity's creation stories, where every archetype branches into new pathways of understanding. The magnifying desk lamp recommendation is a quiet reminder that the right tool transforms ordinary acts into pleasures. The speed clamp and the BuyItForLife stories converge on a single truth: quality tools honor their owners across decades. Peter McEwen's contemplative guide on difficult emotions stands out as the most profound piece — the radical act of not fixing what aches, but simply staying with it, builds an inner spaciousness that resolves nothing and everything at once.",
+    "summary_zh": "本周合集从技术之美延伸到人性深处。专利图纸是未被识别的艺术，起源神话地图让人类创世故事可交互探索。一盏放大台灯提醒我们工具可以转化日常体验。快速夹具和品牌终身保修的故事共同指向一个真相：优质工具跨越数十年仍回应主人。而彼得·麦文的情绪沉思录最为深刻——不试图修复痛苦，只是与它共处，反而构建出内心的开阔与自由。",
+    "best_quote_en": "Practiced over time, this small, kind act builds your capacity to let conflicting feelings sit side by side without needing to fix them.",
+    "best_quote_zh": "久而久之，这个微小而善意之举，会让你有能力让相互矛盾的情绪并排存在，而无需去修复它们。"
   }
 ]
