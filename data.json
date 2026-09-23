@@ -1,120 +1,5 @@
 [
   {
-    "id": 422,
-    "title": "What’s in my NOW? — Paul A. Bennett",
-    "title_zh": "我的当下之物 — Paul A. Bennett",
-    "model_used": "minimax/minimax-m3:free",
-    "source": "Kevin Kelly",
-    "link": "https://kk.org/cooltools/whats-in-my-now-paul-a-bennett/",
-    "tags": [
-      "inspire",
-      "lifestyle"
-    ],
-    "tags_zh": [
-      "启发",
-      "生活方式"
-    ],
-    "date": "2026-09-02",
-    "summary_en": "This intimate inventory piece reveals how a retired quantity surveyor curates his daily life through carefully chosen physical, digital, and invisible objects. Bennett's selections speak to practical wisdom accumulated over years: a mandoline he treats with respect after learning its dangers, a blackout sleep mask purchased out of frustration, and a tiny USB fan outperforming expectations. His adaptation to post-Covid spice tolerance offers a quietly humorous self-portrait of aging bodies finding new equilibria. The piece transcends typical \"what's in my bag\" content by revealing personality through utility—his NYT digital subscription despite imperial measurement frustrations shows intellectual openness to good content regardless of presentation. The Oysterband lyrics chosen as his \"invisible\" item elevate the entire piece, suggesting Bennett sees life as a flowing river between two people, never quite reaching completion. This is a meditation on accumulated taste, practical adaptation, and finding resonance in everyday objects and art.",
-    "summary_zh": "这篇私人化的物品清单揭示了一位退休工料测量师如何通过实体、数字与无形之物构建自己的日常。Bennett的选择体现了多年积累的生活智慧：因教训而心生敬畏的切片器、因失眠而购买的遮光眼罩、超出预期的迷你USB风扇。他对新冠后味觉变化的幽默自嘲，是一幅关于身体在岁月中寻找新平衡的肖像。最打动我的是他把Oysterband的歌词选为\"无形之物\"——将人生看作两人之间流淌的河流，永远抵达不了终点。这种从实用物品升华到诗意哲思的写法，让一份普通的清单拥有了意想不到的深度与温度。",
-    "best_quote_en": "a river runs through you and me / never reaches the ocean, never reaches the sea",
-    "best_quote_zh": "河流穿越你与我 / 永远到不了海洋，永远到不了大海"
-  },
-  {
-    "id": 423,
-    "title": "How To Invest In Startups",
-    "title_zh": "如何投资初创企业",
-    "model_used": "cohere/north-mini-code:free",
-    "source": "Sam Altman",
-    "link": "https://blog.samaltman.com/how-to-invest-in-startups",
-    "tags": [
-      "learn",
-      "startup-funding",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "学习",
-      "创业融资",
-      "未来预测"
-    ],
-    "date": "2020-01-13",
-    "summary_en": "This article offers a pragmatic guide for aspiring startup investors, focusing on three critical phases: gaining access, making decisions, and closing deals. The author emphasizes that success requires hard work, networking, and building a personal brand through long-form content. Key insights include evaluating founders based on their improvement trajectory, work ethic, and ability to scale, as well as prioritizing market growth over current size. The piece challenges conventional investment wisdom by highlighting the importance of founder-friendly approaches, decisive action, and providing tangible tactical support. It also stresses the need for investors to balance ambition with realistic goal-setting and to intervene when founders risk missing scaling opportunities. This content is particularly valuable for new investors navigating today's capital-rich but deal-scarce environment.",
-    "summary_zh": "本文为初学者提供了一份实用的初创企业投资指南，分为三个关键阶段：获取机会、做出决策和完成交易。作者强调成功需要努力工作、建立联系和通过撰写长篇内容建立个人品牌等。关键见解包括根据创始人改善轨迹、工作态度和规模化能力来评估创始人，以及优先考虑市场增长而非当前规模。本文挑战了传统的投资智慧，强调了创始人友好型方法、果断行动和提供切实支持的重要性。它还强调投资者需要平衡雄心壮志与现实目标，并及时干预创始人可能错过扩张的机会。最后，作者指出当创始人寻求模糊的帮助时，他们通常需要的是来自朋友的情感支持。",
-    "best_quote_en": "The better the investment opportunity is (i.e., expected value relative to valuation), the harder it usually is to get the company to choose you as an investor.",
-    "best_quote_zh": "投资机会越好（即预期价值与估值的比率越高），公司选择你作为投资者的难度就越大。"
-  },
-  {
-    "id": 424,
-    "title": "How to Accelerate Learning & Improve Education | Joe Liemandt",
-    "title_zh": "如何加速学习并改善教育 | Joe Liemandt",
-    "model_used": "dots-studio/dots-3-note-preview:free",
-    "source": "Huberman Lab",
-    "link": "https://www.hubermanlab.com/episode/how-to-accelerate-learning-and-improve-education-joe-liemandt",
-    "tags": [
-      "solve",
-      "ai-research",
-      "education",
-      "beginner-friendly"
-    ],
-    "tags_zh": [
-      "解决",
-      "AI研究",
-      "教育学习",
-      "新手友好"
-    ],
-    "date": "2026-08-31",
-    "summary_en": "This episode explores a radical reimagining of K-12 education through AI-driven, individualized learning at Alpha School, founded by tech entrepreneur Joe Liemandt. The core insight is that mastery-based education—where students progress only after fully grasping concepts—can compress academic timelines to just two hours daily, freeing time for real-world application, entrepreneurship, and personal development. Liemandt argues that traditional schooling often prioritizes compliance over competence, and that AI can serve as a personalized tutor, adapting pace and content to each student’s cognitive profile. The discussion covers practical tools available today, the role of motivation and shame in learning, and how interest-led projects foster deeper engagement. Critically, it challenges the industrial-era model of education, suggesting that technology, when paired with human mentorship, can unlock human potential at scale. The episode is both a case study and a vision statement—offering actionable insights for educators, parents, and policymakers while inviting reflection on what education is truly for.",
-    "summary_zh": "本期节目深入探讨了由科技企业家Joe Liemandt创立的Alpha School如何通过AI驱动的个性化学习，彻底重塑K-12教育模式。核心洞见在于：基于掌握的学习（mastery-based learning）允许学生在完全掌握知识后才进入下一阶段，从而将每日学术时间压缩至两小时，释放大量时间用于实践、创业与人格成长。Liemandt指出，传统教育常以服从替代能力，而AI可作为个性化导师，根据每个学生的认知节奏调整教学内容与进度。节目不仅提供当前可落地的工具与方法，还深入剖析了动机、羞耻感与成长型思维在学习中的作用，并强调以兴趣为导向的项目式学习能激发深层投入。这不仅是对现有教育体系的批判，更是一份面向未来的行动蓝图——为教育者、家长与政策制定者提供了可操作的启发，同时促使我们重新思考：教育的本质究竟是什么？技术与人文如何协同释放人类潜能？",
-    "best_quote_en": "Education should not be about compliance; it should be about competence. When we design systems that respect individual pace and mastery, we don’t just teach subjects—we teach people how to learn, think, and create.",
-    "best_quote_zh": "教育不应关乎服从，而应关乎能力。当我们设计尊重个体节奏与掌握程度的系统时，我们不仅在教授学科，更是在教会人们如何学习、思考与创造。"
-  },
-  {
-    "id": 425,
-    "title": "Weekly Review",
-    "title_zh": "每周评论",
-    "model_used": "poolside/laguna-xs-2.1:free",
-    "source": "Harper’s Magazine",
-    "link": "https://harpers.org/2026/09/weekly-review-mission-accomplished-iran-iraq-war-kid-rock-defense-secretary-resignations-war-crimes-dolly-parton-tropical-storm-dolly-nepal-floods-lake-america-smoked-snails-tomatina-malaria-dead-bird/",
-    "tags": [
-      "update",
-      "legal",
-      "politics",
-      "controversial"
-    ],
-    "tags_zh": [
-      "动态",
-      "法律法规",
-      "政治时事",
-      "争议观点"
-    ],
-    "date": "2026-09-01",
-    "summary_en": "This weekly review presents a kaleidoscopic panorama of 2026's geopolitical turbulence, cultural peculiarities, and natural disasters. The content reveals how political rhetoric ('MISSION ACCOMPLISHED' echoes) intersects with military realities—Senator Cruz defending extended Iran involvement while Defense Secretary turmoil unfolds. Beyond geopolitics, the piece captures human absurdity: Coldstream Guards playing Dolly Parton, Italian faux Greek theaters, and Burning Man's laser ban. Environmental catastrophes compound human conflict, from Himalayan floods killing 900+ to Venezuelan oil concessions. The article masterfully juxtaposes high-stakes international diplomacy with domestic eccentricity—from Lake Ontario's renaming to Meta's $17B settlement. This collection functions as both chronicle and commentary, illustrating how governance, environment, and culture spiral into unexpected narratives that reveal deeper truths about contemporary society's complexity.",
-    "summary_zh": "这篇2026年每周评论如同时空拼贴，将地缘政治动荡、文化荒诞与自然灾害交织。特朗普宣称'2026年任务完成'，与伊拉克战争历史呼应，伊朦冲突延续七个月。国会警察在卡车上发现法西奇刀，空客否认商务 lounge 被当作性密室。藏族高原滑坡致900+死亡，Meta拟付170亿和解。湖 Ontario 改名'湖 America'，西班牙番茄节外国人占40%。这些离奇事件揭示当代社会的错综复杂：权力、自然、文化在荒诞中交织，折射出时代的深层张力与人性的奇观。",
-    "best_quote_en": "“MISSION ACCOMPLISHED 2026,” declared the U.S. president in reference to the U.S.–Israeli war against Iran on Truth Social, echoing the banner that hung behind his predecessor George W. Bush during a 2003 speech eight years before the Iraq War ended.",
-    "best_quote_zh": "“任务完成2026年，”美国总统在Truth Social宣布，称美以对伊朗战争取得成功，呼应了乔·Bush在2003年发表演讲时背后悬挂的旗帜——那时伊拉克战争还没结束八年。"
-  },
-  {
-    "id": 426,
-    "title": "Every song on the ‘Leviticus’ soundtrack",
-    "title_zh": "每首《Leviticus》原声带歌曲",
-    "model_used": "nvidia/nemotron-3-nano-omni-30b-a3b-reasoning:free",
-    "source": "NME",
-    "link": "https://www.nme.com/news/film/leviticus-soundtrack-every-song-3965137?utm_source=rss&utm_medium=rss&utm_campaign=leviticus-soundtrack-every-song",
-    "tags": [
-      "update",
-      "music-arts"
-    ],
-    "tags_zh": [
-      "动态",
-      "音乐艺术"
-    ],
-    "date": "2026-09-03",
-    "summary_en": "The NME article provides a comprehensive overview of the upcoming supernatural horror film 'Leviticus,' directed by Adriana Chiarella. The piece highlights the film's premise about teenagers escaping a violent entity formed by their romantic desires after a conversion therapy ritual, featuring a notable cast including Mia Wasikowska. Crucially, it details the film's score by Jed Kurzel (The Mess Hall founder, known for 'Monkey Man' and 'Alien: Covenant') and reveals Frank Ocean's 'Self Control' as the first approved soundtrack song since 2019, marking significant musical context for the film's atmospheric tension and cultural relevance.",
-    "summary_zh": "《Leviticus》由Adriana Chiarella执导，讲述两名青少年逃离转化疗法后被欲望化为暴力实体的恐怖故事。Jed Kurzel作曲，Frank Ocean首次获批2019年后的歌曲《Self Control》入片，彰显影片音乐与心理恐怖的深层关联，预计2026年9月英国上映。",
-    "best_quote_en": "Frank Ocean's 'Self Control' marks the first time the singer has approved one of his songs for a film since 2019's 'Waves,' highlighting the track's thematic resonance with the film's psychological horror elements.",
-    "best_quote_zh": "Frank Ocean首次获批2019年后的歌曲《Self Control》入片，彰显影片音乐与心理恐怖的深层关联。"
-  },
-  {
     "id": 427,
     "title": "Visible and Powerful: Gloria Steinem (1934-2026)",
     "title_zh": "可见且强大的格洛丽亚·斯坦因",
@@ -2350,5 +2235,122 @@
     "summary_zh": "本周合集从技术之美延伸到人性深处。专利图纸是未被识别的艺术，起源神话地图让人类创世故事可交互探索。一盏放大台灯提醒我们工具可以转化日常体验。快速夹具和品牌终身保修的故事共同指向一个真相：优质工具跨越数十年仍回应主人。而彼得·麦文的情绪沉思录最为深刻——不试图修复痛苦，只是与它共处，反而构建出内心的开阔与自由。",
     "best_quote_en": "Practiced over time, this small, kind act builds your capacity to let conflicting feelings sit side by side without needing to fix them.",
     "best_quote_zh": "久而久之，这个微小而善意之举，会让你有能力让相互矛盾的情绪并排存在，而无需去修复它们。"
+  },
+  {
+    "id": 522,
+    "title": "Javier Bardem shares petition to remove Pink as UNICEF ambassador over Macklemore Palestine row",
+    "title_zh": "哈维尔·巴德姆分享请愿书，要求将Pink移除联合国儿童基金会大使职务，因其回应麦克莱莫尔对巴勒斯坦的言论",
+    "model_used": "nvidia/nemotron-3-super-120b-a12b:free",
+    "source": "NME",
+    "link": "https://www.nme.com/news/music/javier-bardem-petition-remove-pink-unicef-ambassador-macklemore-palestine-3970297?utm_source=rss&utm_medium=rss&utm_campaign=javier-bardem-petition-remove-pink-unicef-ambassador-macklemore-palestine",
+    "tags": [
+      "update",
+      "society",
+      "music-arts",
+      "controversial"
+    ],
+    "tags_zh": [
+      "动态",
+      "社会议题",
+      "音乐艺术",
+      "争议观点"
+    ],
+    "date": "2026-09-23",
+    "summary_en": "This article examines the growing cultural and political tension surrounding celebrity activism, specifically the backlash against Macklemore’s pro-Palestine statements during his tour with Ed Sheeran, and the subsequent campaign led by Javier Bardem to remove Pink as a UNICEF ambassador. The core insight lies not just in the conflict itself, but in how it reveals the increasing expectation that public figures must take explicit stances on geopolitical issues — and face consequences when perceived as neutral or oppositional. Bardem’s involvement adds weight to the movement, leveraging his long-standing advocacy for Palestinian rights to frame the petition not as censorship, but as accountability. The piece highlights a broader societal shift: audiences now demand moral clarity from influencers, and institutions like UNICEF are caught between humanitarian missions and political perception. What’s particularly striking is how Pink’s defense — that a repost isn’t a statement — underscores the generational divide in understanding social media’s role in activism. This isn’t merely a feud between artists; it’s a case study in how art, activism, and institutional integrity collide in the digital age, raising urgent questions about who gets to define solidarity, and what accountability looks like when moral claims are weaponized in public discourse.",
+    "summary_zh": "这则新闻不仅是明星之间的争执，更揭示了当代公众人物在全球政治议题中的困境：沉默即立场，表态即风险。巴德姆通过分享请愿书，将个人人道主义立场与机构问责挂钩，反映出观众如今要求名人不仅娱乐，更要承担道德责任。Pink的辩解——“转发不是声明” —  — 暴露了她对社交媒体在 activism 中力量的误解或回避，而这种天真恰恰成为争议的焦点。事件背后是更深层的文化冲突：在去殖民化、种族正义与反犹太主义交织的叙事中，如何平衡同情与指责？UNICEF作为人道机构，如今被迫在政治压力下审视其大使的言论，这既是其使命的考验，也凸显了全球公共空间日益两极化的现实。我们正在见证一种新规则的形成：影响力不仅来自 talento，更来自清晰的价值立场 —  — 而一旦立场模糊，就可能被解读为共谋。",
+    "best_quote_en": "“A repost isn’t a statement, and a meme isn’t a spine,” she wrote. “Social media makes all of us cheap and fast, and we all know it.”",
+    "best_quote_zh": "“转发不是声明，而表情包不是脊梁，”她写道。“社交媒体让我们都变得廉价而快速，这一点我们都心知肚明。”"
+  },
+  {
+    "id": 523,
+    "title": "Fantastic Fest 2026: Into the Sky, Play House, Posthumous",
+    "title_zh": "2026 Fantasia节：《天空之中》《玩吧》《遗作》",
+    "model_used": "poolside/laguna-xs-2.1:free",
+    "source": "RogerEbert.com",
+    "link": "https://www.rogerebert.com/festivals/fantastic-fest-2026-into-the-sky-play-house-posthumous",
+    "tags": [
+      "solve",
+      "lifestyle",
+      "design",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "解决",
+      "生活方式",
+      "设计创意",
+      "未来预测"
+    ],
+    "date": "2026-09-22",
+    "summary_en": "This article provides a refreshing counterpoint to the prevalent dystopian anxiety at Fantastic Fest 2026, showcasing three distinct genre films that prioritize levity and innovation. 'Into the Sky' cleverly subverts the alien abduction narrative with a unique meet-cute: a man returns from forced interstellar travel to find his divorcee has rented out his house. The sci-fi rom-com succeeds through its likable ensemble cast and charming premise, though occasionally slips into forced whimsy. 'Play House' represents a groundbreaking festival initiative where creators pitch films during the event, with winners produced and premiering the following year. This debut feature about lost media and ghost stories demonstrates remarkable production values and authentic found-footage aesthetics, though its third act undermines its strong first hour. 'Posthumous' struggles with pacing and emotional engagement, relying too heavily on manufactured scares and flat dialogue despite intriguing supernatural concepts involving VHS tapes as conduits to otherworldly horrors. The festival's embrace of both innovative production models and genre diversity reveals its evolution beyond mere horror showcase.",
+    "summary_zh": "Fantastic Fest 2026以轻松幽默的影片提供疫情焦虑的治愈疗法。《天空之中》以外星劫持后的荒诞生活为科幻浪漫注入新意，演员阵容可爱又真实。《玩吧》创新发布会模式，获胜作品仅一年即亮相，VHS幽灵故事制作精良却尾大不堂；《遗作》则沉浸式恐怖氛围不足，两小时拖沓。节日从血腥恐怖转向多元创意，镜头下的时代焦虑被温暖的奇思妙想化解。",
+    "best_quote_en": "The idea that a fest that's built its reputation on the work of indie filmmakers could be the launchpad to create indie movies itself? Very cool.",
+    "best_quote_zh": "一个建立在独立导演作品基础上的节日，能否成为创造独立电影的启动平台？这真是太酷了。"
+  },
+  {
+    "id": 524,
+    "title": "Dostoyevsky, Just After His Death Sentence Was Repealed, on the Meaning of Life",
+    "title_zh": "毛姆耶夫斯基：在死刑被撤销之际，谈生命的意义",
+    "model_used": "poolside/laguna-xs-2.1:free",
+    "source": "The Marginalian",
+    "link": "https://www.themarginalian.org/2026/09/22/dostoyevsky-execution-life/",
+    "tags": [
+      "solve",
+      "psychology",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "解决",
+      "心理学",
+      "未来预测"
+    ],
+    "date": "2026-09-22",
+    "summary_en": "This profound piece explores Dostoyevsky's existential awakening moments after his reprieved death sentence in 1849, revealing his hard-won philosophy that life's meaning emerges from choosing humanity amid suffering. The article illuminates how near-death experiences can catalyze deep spiritual rebirth, as Dostoyevsky's letter to his brother reveals his triumphant recognition that 'life is everywhere, life is in us ourselves, not outside.' Beyond historical intrigue, the piece connects Dostoyevsky's struggle with universal themes of resilience, creativity, and the transformative power of adversity, drawing parallels to Viktor Frankl's logotherapy and Walt Whitman's celebration of life. The author reflects personally on how material hardship shaped their own creative path, suggesting that suffering can forge extraordinary artistic perseverance. This is a meditation on how constraints and crises can become crucibles for authentic self-realization and enduring creative fire.",
+    "summary_zh": "这篇深刻的文章探讨了1849年毛姆耶夫斯基在死刑被撤销之际的生命觉醒，揭示了他如何在痛苦中选择人性化，便得出生命意义在于在苦难中保持人性。文章不仅闪耀历史细节，更关联到维克多·弗兰克的生命意义理论与华特·惠特曼的生命赞歌。作者亲身反思那些物质匮乏如何塑造了自己的创作之路，认为苦难能锻造出非凡的艺术坚韧。",
+    "best_quote_en": "To be a human being among people and to remain one forever, no matter in what circumstances, not to grow despondent and not to lose heart — that's what life is all about, that's its task.",
+    "best_quote_zh": "做人间的一员，永远做一个人——无论处于何种境况，不要气馁，不要失去信心，这就是生命的全部意义，这就是它的任务。"
+  },
+  {
+    "id": 525,
+    "title": "Watch Slayyyter play her version of Turnstile’s ‘Birds’ live for the first time in Atlanta",
+    "title_zh": "Slayyyter现场首次演唱改编版《Birds》",
+    "model_used": "poolside/laguna-xs-2.1:free",
+    "source": "NME",
+    "link": "https://www.nme.com/news/music/watch-slayyyter-play-her-version-of-turnstiles-birds-live-for-the-first-time-in-atlanta-3970294?utm_source=rss&utm_medium=rss&utm_campaign=watch-slayyyter-play-her-version-of-turnstiles-birds-live-for-the-first-time-in-atlanta",
+    "tags": [
+      "update",
+      "music-arts",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "动态",
+      "音乐艺术",
+      "未来预测"
+    ],
+    "date": "2026-09-23",
+    "summary_en": "This article documents Slayyyter's live debut of her reimagined cover of Turnstile's 'Birds' during her Atlanta performance, marking a significant milestone in her evolving artistry. The piece reveals how her interpretation transforms the hardcore original into an electronic, maximalist take aligned with her 'Wor$t Girl In America' aesthetic. Beyond the performance itself, the context illuminates a breakthrough year for the artist, highlighted by critical acclaim for her third album and notable endorsements from figures like Courtney Love. The article situates this moment within broader musical collaborations—Turnstile's Grammy-winning 'Never Enough' album featuring diverse reimaginings—showcasing how genre boundaries are increasingly fluid. This coverage reflects the growing cultural significance of alternative pop artists who reinterpret rock and metal through contemporary electronic lenses, while also demonstrating the power of festival circuit exposure in cementing emerging talent.",
+    "summary_zh": "Slayyyter在亚特兰大演唱会现场首次演绎改编版《Birds》，展现她将硬核原作转化为电子 maxi 风格的创造力。此举标志着她艺术成长的关键节点，同时折射出跨界乐迹的活力——如Turnstile Grammy 获奖专辑中百姐好改编的丰富性。这不仅是演出纪实，更是另类流行艺术家在重新定义摇滚边界中的价值实践。",
+    "best_quote_en": "In a five-star review of 'Never Enough', NME described 'Birds' and 'Sole' as tracks that harked back to the band's hardcore roots, while praising the wider record for 'furthering their unique, pop-facing take on hardcore'.",
+    "best_quote_zh": "NME在五星评论《Never Enough》时指出，'Birds'与'Sole'回归硬核根基，同时赞扬整张专辑'进一步发展了他们独特的、面向流行的硬核风格'。"
+  },
+  {
+    "id": 526,
+    "title": "The Heart at the Center Of It: Domhnall Gleeson on “The Incomer”",
+    "title_zh": "心之核心：多姆纳尔·格里森谈《外来者》",
+    "model_used": "nex-agi/nex-n2.5-mini:free",
+    "source": "RogerEbert.com",
+    "link": "https://www.rogerebert.com/interviews/domhnall-gleeson-the-incomer-interview",
+    "tags": [
+      "guide",
+      "music-arts"
+    ],
+    "tags_zh": [
+      "指导",
+      "音乐艺术"
+    ],
+    "date": "2026-09-22",
+    "summary_en": "The article is less a conventional review than a guided tour of how tone, vulnerability, and storytelling coalesce in Louis Paxton’s “The Incomer.” Domhnall Gleeson argues that the film’s tonal stability comes from emotional truth: broad comedy, uncanny eeriness, and isolation coexist because the character’s need to connect remains central. The Lord of the Rings story becomes a revealing performance—the shy Daniel finally has an audience, and storytelling restores the imaginative confidence childhood can suppress. Gleeson also exposes the discipline behind apparently effortless acting: dialect coaching, physical commitment, and complete belief in the moment. His Taylor Swift anecdote broadens this into a general performance ethic. The independent-production passages add weight, showing how care, shared purpose, and artistic risk can energize a first-time filmmaker. The piece is candid and accessible, though it offers little discussion of the islanders or Paxton’s own filmmaking choices. Its lasting value lies in treating cinema as an act of attention: stories matter because they let hidden selves be seen.",
+    "summary_zh": "本文并非普通影评，而是一次关于《外来者》如何以情感真实统摄喜剧、怪诞与孤绝的访谈。格里森认为，主角的倾诉欲是影片不变的核心；《指环王》故事让他终于拥有听众，也唤回童年想象力。方言训练、肢体投入和百分百相信当下，揭示表演的幕后纪律。泰勒·斯威夫特的舞蹈经历进一步延伸为行动伦理：重要不在完美，而在全然相信并投入。独立电影段则凸显创作者因热爱而共同承担风险。不足是较少触及岛民及导演本人的视听设计。可贵之处在于，它把电影理解为一种被看见的邀请：故事让隐秘自我获得回应。",
+    "best_quote_en": "“A well-told story brings everybody together.”",
+    "best_quote_zh": "“一个讲得好的故事，能把所有人聚集在一起。”"
   }
 ]
