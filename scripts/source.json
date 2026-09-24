@@ -94,5 +94,9 @@
   {
     "name": "虎嗅",
     "url": "https://rss.huxiu.com/"
+  },
+  {
+    "name": "三联生活周刊",
+    "url": "https://plink.anyfeeder.com/weixin/lifeweek"
   }
 ]
