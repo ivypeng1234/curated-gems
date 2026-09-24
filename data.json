@@ -1,126 +1,5 @@
 [
   {
-    "id": 427,
-    "title": "Visible and Powerful: Gloria Steinem (1934-2026)",
-    "title_zh": "可见且强大的格洛丽亚·斯坦因",
-    "model_used": "cohere/north-mini-code:free",
-    "source": "RogerEbert.com",
-    "link": "https://www.rogerebert.com/tributes/visible-and-powerful-gloria-steinem-1934-2026",
-    "tags": [
-      "analyze",
-      "writing-content",
-      "ai-research",
-      "case-study"
-    ],
-    "tags_zh": [
-      "分析",
-      "写作内容",
-      "AI研究",
-      "案例研究"
-    ],
-    "date": "2026-09-03",
-    "summary_en": "This poignant tribute explores Gloria Steinem's enduring impact on feminism and media, revealing her complex legacy. From pioneering Ms. magazine to confronting reproductive rights and trans advocacy, Steinem's journey illustrates the relentless struggle for gender equality. The narrative weaves personal reflections with historical context, highlighting how Steinem's early experiences with marital titles sparked a lifelong commitment to women's empowerment. Through journalism, activism, and cultural influence, she transformed feminist discourse while navigating controversies. The piece underscores the ongoing relevance of bodily autonomy and the necessity of continued advocacy, reminding readers that true liberation demands perpetual vigilance and collective effort.",
-    "summary_zh": "这篇充满情感的悼文探讨了格洛丽亚·斯坦因对女权主义和媒体的深远影响，揭示了她复杂的遗产。从创办《Ms.》杂志到面对生殖权利和跨性别权利的挑战，斯坦因的历程体现了为性别平等不懈奋斗的精神。文章将个人反思与历史背景交织，讲述了斯坦因如何从对婚姻称谓的早期质疑开始，开启了终身的女性赋权事业。通过新闻报道、积极行动和文化影响，她重塑了女权主义话语，同时也面临诸多争议。文章强调， bodily 自主权和持续倡导的必要性，对于实现所有人自由的艰辛道路至关重要。",
-    "best_quote_en": "\"Reproductive freedom is as basic, maybe more basic, than freedom of speech.\"",
-    "best_quote_zh": "\"生殖自由可能比言论自由更基本。\""
-  },
-  {
-    "id": 428,
-    "title": "The Creative Power of Uncertainty: Polish Poet Wisława Szymborska’s Magnificent Nobel Prize Acceptance Speech",
-    "title_zh": "不确定性的创造力：波兰诗人维斯拉瓦·辛波尔斯卡的诺贝尔奖获奖演讲",
-    "model_used": "cohere/north-mini-code:free",
-    "source": "The Marginalian",
-    "link": "https://www.themarginalian.org/2026/09/03/wislawa-szymborska-nobel-speech/",
-    "tags": [
-      "learn",
-      "education",
-      "music-arts",
-      "beginner-friendly"
-    ],
-    "tags_zh": [
-      "学习",
-      "教育学习",
-      "音乐艺术",
-      "新手友好"
-    ],
-    "date": "2026-09-03",
-    "summary_en": "This article explores the creative power of uncertainty through Wisława Szymborska's Nobel Prize acceptance speech, revealing how 'not-knowing' fuels artistic and human innovation. Drawing parallels with artists like Richard Diebenkorn and Ann Hamilton, Szymborska argues that inspiration emerges from continuous curiosity rather than certainty. She contrasts this generative uncertainty with authoritarian figures who 'know too much,' showing how knowledge that doesn't lead to new questions becomes stagnant and dangerous. Through historical examples like Newton and Marie Curie, she demonstrates how embracing 'I don't know' expands human potential and wonder. The piece also references her poem 'Utopia,' depicting a world of certainty as an empty island where no one resides. This profound meditation on uncertainty's role in creativity and human progress makes the speech a timeless exploration of what makes us truly human.",
-    "summary_zh": "本文通过波兰诗人维斯拉瓦·辛波尔斯卡的诺贝尔奖获奖演讲，探讨了不确定性的创造力。辛波尔斯卡认为，灵感源于持续的‘不知道’，这种持续的好奇心推动着艺术和人类的创新。她将这种不确定性与艺术家的创造力联系起来，并指出，当知识不再带来新问题时，它就会变得危险。文章引用了牛顿和居里夫人等历史人物的例子，说明了‘我不知道’如何推动了人类的进步。同时，辛波尔斯卡还通过她的诗歌《乌托邦》描绘了一个充满确定性的世界，揭示了这种世界其实是空虚的。",
-    "best_quote_en": "\"Whatever inspiration is, it's born from a continuous 'I don't know.'\"",
-    "best_quote_zh": "\"无论灵感是什么，它都源于持续的‘我不知道’。\""
-  },
-  {
-    "id": 429,
-    "title": "100 Objects #16: Wheel of Fortune Dalmatian",
-    "title_zh": "100 Objects #16：幸运转盘的达尔文犬",
-    "model_used": "poolside/laguna-xs-2.1:free",
-    "source": "99% Invisible",
-    "link": "https://99percentinvisible.org/episode/100-objects-016-wheel-of-fortune-dalmatian/",
-    "tags": [
-      "analyze",
-      "general",
-      "case-study"
-    ],
-    "tags_zh": [
-      "分析",
-      "general",
-      "案例研究"
-    ],
-    "date": "2026-09-04",
-    "summary_en": "This episode explores the curious cultural phenomenon of the ceramic Dalmatian as Wheel of Fortune's most memorable prize, revealing how seemingly 'useless' objects can become powerful symbols of shared American experience. Through historian Adam Nedeff's research and owner Terry Eldrige's personal accounts, the analysis uncovers how game show prizes reflect evolving definitions of value and the American dream itself. The Dalmatian's ubiquity—appearing on tens of millions of screens nightly—demonstrates how mass media creates collective meaning from the mundane. This micro-history illuminates broader shifts in American values: from post-war material abundance to contemporary questions about utility versus sentiment. The episode masterfully uses this single object to examine how popular culture shapes national identity, making the case that our relationship with objects reveals deeper truths about aspiration, nostalgia, and the stories we tell ourselves about progress. It's a fascinating lens into how America's changing dreams are reflected in its most banal consumer artifacts.",
-    "summary_zh": "这集节目用‘无用’的瓷玩达尔文犬作切入口，探讨了流行文化如何从琐碎物品中孕育出集体记忆与美国梦的变迁。达尔文犬在电视上的普遍出现，实则映射了媒体时代意义建构的机制——当千家万户的生活被同一符号覆盖时，个人的‘奖品’便转化为民族的共鸣器。",
-    "best_quote_en": "For a brief moment, that prize—perhaps the ultimate useless object—became the mascot for one of America's most popular game shows, appearing on tens of millions of TV screens, night after night, all across the country.",
-    "best_quote_zh": "在短暂的时刻里，这件奖品——或许是‘最终的无用之物’——成了美国最受欢迎的游戏秀的吉祥物，连夜登上全美千家万户的电视屏幕。"
-  },
-  {
-    "id": 430,
-    "title": "Peacock’s “The Paper” Starts To Run Out Of Ink In Season 2",
-    "title_zh": "孔雀平台的《The Paper》第二季开始墨水告急",
-    "model_used": "minimax/minimax-m3:free",
-    "source": "RogerEbert.com",
-    "link": "https://www.rogerebert.com/streaming/the-paper-season-2-office-spinoff-peacock-tv-review-2026",
-    "tags": [
-      "analyze",
-      "lifestyle",
-      "ai-research",
-      "case-study"
-    ],
-    "tags_zh": [
-      "分析",
-      "生活方式",
-      "AI研究",
-      "案例研究"
-    ],
-    "date": "2026-09-03",
-    "summary_en": "This review of Peacock's 'The Paper' Season 2 offers a measured critique of a spinoff that never quite escapes the shadow of its predecessor. Greg Daniels, who masterfully adapted 'The Office' for American audiences, co-creates a show with familiar DNA—same workplace setup, Oscar Martinez cameo, mockumentary DNA—but lacks the comic precision that made its parent series iconic. The reviewer identifies genuine strengths: Domhnall Gleeson and Chelsea Frei share chemistry reminiscent of television's greatest workplace couples, while supporting players like Melvin Gregg and Gbemisola Ikumelo elevate the ensemble. The darkest, most politically incorrect comedy lands best. However, the series suffers from tonal inconsistency—Sabrina Impacciatore's broad performance feels disconnected from reality, and certain character behavior crosses from quirky into genuinely unsettling territory without earning laughs. The critique raises a fundamental question: when does unconventional behavior become careless writing? Shows like 'Seinfeld' and 'Curb' made terrible behavior hilarious through precision; 'The Paper' merely makes it weird.",
-    "summary_zh": "这篇评论对《The Paper》第二季做出了冷静的诊断——一部注定活在母剧阴影下的衍生作。Greg Daniels曾成功将《办公室》本土化，却无法复制其喜剧精髓。Gleeson与Frei之间的化学反应令人联想到经典的办公室情侣，但配角阵容的亮点未能弥补整体的失衡。Impacciatore过于夸张的表演脱离现实，而部分角色的怪异行为从幽默滑向了令人不安的领域，缺乏《Seinfeld》或《Curb》那种对荒诞行为的精准掌控。核心问题在于：当反常规角色缺乏喜剧精度时，怪诞就变成了失控。这部剧需要的不是更深的阴暗，而是更精准的笔触。",
-    "best_quote_en": "It's more unsettling than terrible, but it doesn't have the level of precision comedy we've seen on those shows. It feels like the series either needs to lean even more into the shadiness of some characters, or have them get their respective acts together.",
-    "best_quote_zh": "它让人感到不安而非糟糕，缺乏我们在那些经典剧集里见过的精准喜剧。这部剧要么需要更彻底地拥抱角色的阴暗面，要么需要让它们各自收敛一下。"
-  },
-  {
-    "id": 431,
-    "title": "Italo Calvino on Reading and Sex",
-    "title_zh": "卡尔维诺论阅读与性",
-    "model_used": "inclusionai/ling-3.0-flash-fin:free",
-    "source": "The Marginalian",
-    "link": "https://www.themarginalian.org/2026/09/03/calvino-if-on-a-winters-night-a-traveler-love/",
-    "tags": [
-      "solve",
-      "writing-content",
-      "controversial"
-    ],
-    "tags_zh": [
-      "解决",
-      "写作内容",
-      "争议观点"
-    ],
-    "date": "2026-09-03",
-    "summary_en": "This piece explores Italo Calvino's extraordinary meditation on the parallel between reading and intimacy, drawn from his 1979 novel 'If on a winter's night a traveler.' Calvino posits that both reading and lovemaking share a fundamental quality: they open times and spaces that transcend measurable reality. The author brilliantly articulates how lovers read each other's bodies with the same non-linear, immersive attention one brings to a novel—skipping, repeating, lingering, and discovering. What emerges is a profound philosophical argument that reading is not merely intellectual but deeply somatic and erotic, requiring the same delicate balance of total surrender and sovereign awareness. Calvino's insight that 'you are two tu's, more separate and circumscribed than before' even at moments of apparent union speaks to the irreducible solitude within connection. This passage elevates reading from passive consumption to an act of passionate, total engagement—one that mirrors the vulnerability, curiosity, and beauty of physical love. The piece ultimately asks us to reconsider how we approach books: not as objects to be consumed, but as lovers to be courted, understood, and cherished.",
-    "summary_zh": "这篇文章探讨了卡尔维诺关于阅读与亲密之间关系的非凡沉思。卡尔维诺认为，阅读与做爱共享一种本质特征：它们都开启超越可测量现实的时空。恋人以非线性、全浸入的方式阅读彼此的身体，正如读者对待小说一般——跳跃、重复、流连、发现。卡尔维诺将阅读从被动消费提升为充满激情与脆弱的全身心投入，揭示阅读不仅是智性活动，更是身体性与感官性的体验。他那句'在最像合一的时候，你们反而是两个你，比以往更加分离和界限分明'，道出了联结中不可消解的孤独。这段文字邀请我们重新审视阅读的方式——不是将书视为消费品，而是当作需要追求、理解与珍视的爱人。",
-    "best_quote_en": "What makes lovemaking and reading resemble each other most is that within both of them times and spaces open, different from measurable time and space.",
-    "best_quote_zh": "做爱与阅读最相似之处在于，在两者之中，都开启了不同于可测量时间与空间的时空。"
-  },
-  {
     "id": 432,
     "title": "A home movie for Planet Earth: Ed Sayers on his Super 8 odyssey Super Nature",
     "title_zh": "行星地球的家庭影片：Ed Sayers谈论他的Super 8冒险《超级自然》",
@@ -2352,5 +2231,126 @@
     "summary_zh": "本文并非普通影评，而是一次关于《外来者》如何以情感真实统摄喜剧、怪诞与孤绝的访谈。格里森认为，主角的倾诉欲是影片不变的核心；《指环王》故事让他终于拥有听众，也唤回童年想象力。方言训练、肢体投入和百分百相信当下，揭示表演的幕后纪律。泰勒·斯威夫特的舞蹈经历进一步延伸为行动伦理：重要不在完美，而在全然相信并投入。独立电影段则凸显创作者因热爱而共同承担风险。不足是较少触及岛民及导演本人的视听设计。可贵之处在于，它把电影理解为一种被看见的邀请：故事让隐秘自我获得回应。",
     "best_quote_en": "“A well-told story brings everybody together.”",
     "best_quote_zh": "“一个讲得好的故事，能把所有人聚集在一起。”"
+  },
+  {
+    "id": 527,
+    "title": "The Rocky Statue",
+    "title_zh": "The Rocky Statue",
+    "model_used": "inclusionai/ling-3.0-flash-fin:free",
+    "source": "99% Invisible",
+    "link": "https://99percentinvisible.org/episode/684-the-rocky-statue/",
+    "tags": [
+      "analyze",
+      "ai-research",
+      "controversial"
+    ],
+    "tags_zh": [
+      "分析",
+      "AI研究",
+      "争议观点"
+    ],
+    "date": "2026-09-22",
+    "summary_en": "This article unveils the fascinating cultural backstory of the Rocky Balboa statue outside the Philadelphia Museum of Art—a bronze figure that now draws four million visitors annually, rivaling the Statue of Liberty in foot traffic. What makes this narrative so compelling is its central irony: Sylvester Stallone's gift was initially rebuffed by Philadelphia's arts establishment in the early 1980s, sparking a decades-long battle over class, public space, and the power of popular culture to redefine urban identity. The piece raises profound questions about who holds the authority to decide what constitutes 'worthy' public art and how a seemingly kitschy pop-culture artifact can evolve into a genuine civic symbol. It is a meditation on the tension between elite cultural gatekeeping and grassroots popular expression, and how time transforms rejection into reverence. The story invites reflection on how cities gradually reshape their relationship with symbols that initially challenged their self-image, suggesting that cultural value is not static but negotiated through collective experience.",
+    "summary_zh": "这篇文章揭示了费城艺术馆前洛奇雕像背后引人深思的文化故事：这座如今每年吸引四百万游客的标志性青铜雕塑，曾在八十年代初被城市艺术界果断拒绝，从而引发了一场长达半个世纪的文化辩论。辩论的核心涉及阶层分化、公共空间归属以及流行文化符号如何重塑一座城市的集体身份。它深刻提醒我们，真正有价值的公共艺术往往诞生于精英审美与大众表达之间的持久张力之中，而时间最终能将最初的排斥转化为崇敬。这不仅是一座雕像的命运史，更是一面映照城市自我认知演变的镜子。",
+    "best_quote_en": "That set off a 50 year battle about class, public space and what it means for a single piece of art to represent an entire city.",
+    "best_quote_zh": "这引发了一场长达五十年的关于阶层、公共空间以及一件艺术品如何代表整座城市的辩论。"
+  },
+  {
+    "id": 528,
+    "title": "Ghost Song: A fleshed-out and full-blooded portrayal of youthful amour fou",
+    "title_zh": "鬼之歌：对青春疯狂之爱的生动而血腥的描绘",
+    "model_used": "cohere/north-mini-code:free",
+    "source": "BFI",
+    "link": "https://www.bfi.org.uk/sight-and-sound/reviews/ghost-song-fleshed-out-full-blooded-portrayal-youthful-amour-fou",
+    "tags": [
+      "update",
+      "music-arts",
+      "design",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "动态",
+      "音乐艺术",
+      "设计创意",
+      "未来预测"
+    ],
+    "date": "2026-09-23",
+    "summary_en": "Fatih Akin’s 'Ghost Song' offers a Gen Z variation of 'Wings of Desire', exploring a metaphysical romance set in Hamburg. The film follows 20-year-old physics students Faris and Farasha, whose instant connection persists beyond death, allowing a 40-day 'long-distance relationship' rooted in Muslim mourning traditions. With acclaimed cinematography by Frank Griebe, the black-and-white version emphasizes urban grandeur, while a color-only version provides additional depth. Blending Middle Eastern beats and electro/techno, the soundtrack subtly illustrates Farasha’s evolving interpretation of her Islamic faith. Though slightly kitschy in its final stages, the film’s absorbing visuals and heartfelt narrative make it a striking, persuasive exploration of youthful love transcending mortality.",
+    "summary_zh": "阿金的《鬼之歌》为《天使的双翼》提供了生动的年轻版诠释，将一部形而上的爱情故事置于汉堡。影片讲述了两位20岁的物理学学生法里斯和法拉沙的 instant 灵魂伴侣关系，即使在死亡之后，这种联系依然存在，允许他们在传统的穆斯林哀悼期（40天）内保持“异地恋”。这部电影以黑白为主，辅以精致的章节标题和最终部分的彩色，展现了城市夜晚的壮丽景象。配乐融合了中东风格的节奏和电子/技术风格， subtly 地体现了法拉沙对伊斯兰教信仰的动态演变。尽管后期略显俗气，但电影的视觉效果和真挚叙事使其成为一部关于青春之爱超越死亡的引人入胜的作品。",
+    "best_quote_en": "'Ghost Song' manages to find a certain distinctive groove via the absorbing visuals and a soundtrack which blends middle-eastern-coded beats and electro/techno stylings.",
+    "best_quote_zh": "《鬼之歌》通过引人入胜的视觉效果和融合了中东风格节奏与电子/技术风格的配乐，找到了一种独特的节奏。"
+  },
+  {
+    "id": 529,
+    "title": "Artist Spotlight: Tommy Carroll",
+    "title_zh": "艺术家 spotlight：Tommy Carroll",
+    "model_used": "cohere/north-mini-code:free",
+    "source": "BOOOOOOOM",
+    "link": "https://www.booooooom.com/2026/09/23/artist-spotlight-tommy-carroll/",
+    "tags": [
+      "update",
+      "design",
+      "music-arts"
+    ],
+    "tags_zh": [
+      "动态",
+      "设计创意",
+      "音乐艺术"
+    ],
+    "date": "2026-09-23",
+    "summary_en": "Tommy Carroll emerges as a compelling contemporary artist whose work bridges abstract expressionism and digital photography, creating immersive visual narratives that challenge conventional perceptions of space and form. His portfolio, showcased through a dedicated website, demonstrates a mastery of composition that transforms everyday scenes into profound artistic statements. Carroll's distinctive approach combines meticulous technical precision with an intuitive sense of color theory, producing images that resonate with emotional depth while maintaining visual sophistication. The artist's methodology suggests a deep engagement with the interplay between light, shadow, and geometric patterns, inviting viewers to contemplate the boundaries between the tangible and the imagined. Through his Instagram presence, Carroll cultivates an accessible artistic dialogue that democratizes contemporary art appreciation, making complex aesthetic concepts approachable while preserving artistic integrity. This spotlight reveals an artist whose work transcends traditional artistic categorization, positioning him at the intersection of commercial viability and avant-garde experimentation.",
+    "summary_zh": "Tommy Carroll是一位当代艺术家，其作品将抽象表现主义与数字摄影相融合，创造出挑战空间与形式常规的视觉叙事。他的作品展示出对构图的精湛掌握，将平凡场景转化为深刻的艺术宣言。艺术家独特的手法结合了技术上的精确性与色彩理论的直觉，创造出具有情感深度和视觉复杂性的作品。通过Instagram，Carroll以通俗易懂的方式建立起与观众的艺术对话，使复杂的美学概念变得易于理解，同时又不失艺术的深度。这种作品超越了传统的艺术分类，将其置于商业可行性与先锋实验的交界处。",
+    "best_quote_en": "Art should not just be seen, but felt in the spaces between the pixels.",
+    "best_quote_zh": "艺术不应该被看到，而应该被在像素之间的空间中感受到。"
+  },
+  {
+    "id": 530,
+    "title": "I tried to become a gay tradwife – and failed abysmally | Arwa Mahdawi",
+    "title_zh": "我试图成为一个同性恋传统主妇——结果惨败",
+    "model_used": "dots-studio/dots-3-note-preview:free",
+    "source": "Women | The Guardian",
+    "link": "https://www.theguardian.com/commentisfree/2026/sep/23/gay-tradwife-fail-gardening-baking",
+    "tags": [
+      "solve",
+      "society",
+      "personal-finance",
+      "controversial"
+    ],
+    "tags_zh": [
+      "解决",
+      "社会议题",
+      "个人理财",
+      "争议观点"
+    ],
+    "date": "2026-09-23",
+    "summary_en": "Arwa Mahdawi’s essay is a witty, self-deprecating critique of the 'tradwife' aesthetic—particularly its recent appropriation by queer women seeking meaning in domesticity. Through her failed attempts at gardening, sourdough baking, and community plot maintenance, she exposes the romanticization of hard labor as a modern escape from digital fatigue and existential dread. The piece is not merely a personal anecdote; it’s a cultural commentary on how aspirational lifestyles often mask structural realities—domestic work remains undervalued, physically taxing, and socially constrained, regardless of who performs it. Mahdawi’s humor undercuts the myth of effortless femininity and challenges the idea that回归传统生活 is a viable solution to contemporary anxiety. Her failure becomes a lens to question broader societal trends: the commodification of simplicity, the illusion of control through self-sufficiency, and the persistent gendered expectations embedded in 'tradwife' ideology. The essay is both relatable and incisive, offering a nuanced take on identity, labor, and the search for authenticity in a hyper-connected world.",
+    "summary_zh": "马赫达维以幽默自嘲的笔触，批判了“传统主妇”美学在 queer 女性群体中的流行。她试图通过园艺、烘焙和社区菜园劳作来对抗存在主义焦虑，却屡屡失败——酸种面包发霉、番茄成本高昂、杂草丛生遭警告。这不仅是个人挫折，更是对“回归传统生活”神话的解构：所谓“治愈系”劳作，实为被美化且性别化的无偿劳动。文章揭示了当代人对简单生活的幻想如何被消费主义收编，也质问了“自给自足”背后的结构性困境。她的失败反而成为清醒的觉醒：拒绝将家务劳动浪漫化，直面数字时代下真实的疲惫与无序。",
+    "best_quote_en": "I should have just gone to Aldi.",
+    "best_quote_zh": "我本该直接去阿尔迪超市。"
+  },
+  {
+    "id": 531,
+    "title": "In search of the locations from Horace Ové’s Pressure, half a century on",
+    "title_zh": "追寻《压力》的拍摄地点：半个世纪后的回顾",
+    "model_used": "poolside/laguna-xs-2.1:free",
+    "source": "BFI",
+    "link": "https://www.bfi.org.uk/features/locations-horace-ove-pressure",
+    "tags": [
+      "analyze",
+      "music-arts",
+      "programming",
+      "case-study"
+    ],
+    "tags_zh": [
+      "分析",
+      "音乐艺术",
+      "编程开发",
+      "案例研究"
+    ],
+    "date": "2026-09-23",
+    "summary_en": "This article explores the evolution of Notting Hill and Ladbroke Grove through the lens of Horace Ové's groundbreaking 1975 film 'Pressure', the first British feature by a Black director. The piece examines how these locations have transformed over five decades, documenting the area's architectural and social shifts from pre-gentrification to present day. Beyond mere location scouting, the article serves as historical documentation, capturing a vanishing urban landscape that once embodied the authentic Black British experience of the 1970s. Through detailed then-and-now comparisons, it reveals how gentrification has erased industrial remnants and altered community character, while the film itself remains a vital artifact of early British New Wave location filmmaking and Black British cinema history.",
+    "summary_zh": "本文以《压力》1975年经典影片为切入口，探究牛顿堡和拉德布莱克广场五十年的城市变迁。影片作为首位黑人导演的英国首部长片，记录了1970年代真实的黑人英国经历。文章通过当下与昔日的细致对比，展现了 Gentrification 对这片社区的彻底重塑——工业遗迹消失，社区属性被重构。这不仅是地点考察，更是流逝时光中失去的历史记忆，与《压力》本身构成双重见证。",
+    "best_quote_en": "Pressure evidences a deep knowledge of this part of the city and the communities who lived there, using not just its more famous streets and sites, but also smaller, more detailed locations. Because of this, Ové's film also acts as a form of documentation, showing architecture and industrial remnants of the area long before gentrification took a hold and swept them aside.",
+    "best_quote_zh": "《压力》展现了对这片区域及其居民的深厚了解，既使用了著名街道，亦关注细枝末节之地。正因如此，Ové的影片亦成为纪实，记录了 Gentrification 降临前的建筑与工业痕迹。"
   }
 ]
