@@ -1,118 +1,5 @@
 [
   {
-    "id": 432,
-    "title": "A home movie for Planet Earth: Ed Sayers on his Super 8 odyssey Super Nature",
-    "title_zh": "行星地球的家庭影片：Ed Sayers谈论他的Super 8冒险《超级自然》",
-    "model_used": "poolside/laguna-xs-2.1:free",
-    "source": "BFI",
-    "link": "https://www.bfi.org.uk/interviews/home-movie-planet-earth-ed-sayers-his-super-8-odyssey-super-nature",
-    "tags": [
-      "solve",
-      "music-arts",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "解决",
-      "音乐艺术",
-      "未来预测"
-    ],
-    "date": "2026-09-04",
-    "summary_en": "This article profiles Ed Sayers' 'Super Nature', a groundbreaking 82-minute documentary shot entirely on vintage Super 8mm film across 25 countries. Sayers leveraged the format's inherent limitations—grainy texture, two-minute roll constraints, no sound—to create an impressionistic, emotionally resonant portrait of our planet's disappearing biodiversity. The piece reveals how Sayers democratized filmmaking by recruiting novice Super 8 users worldwide, discovering their shared passion for nature. Beyond aesthetic choices, the film serves as both elegy for vanishing ecosystems and beacon of environmental hope, using nostalgia for analog media to frame urgent climate conversations. Sayers' bikepacking promotion tour and planned 16mm fiction projects demonstrate his commitment to low-impact storytelling that reconnects humanity with nature's fundamental rhythms.",
-    "summary_zh": "《超级自然》是一部全程使用复古Super 8胶片拍摄的纪录片，穿越25个国家记录地球消逝的自然风光。导演Sayers巧妙利用胶片的颗粒感和时间限制，创造出兼具怀旧质感与现场紧迫感的生态讨论。影片不仅是对自然界消逝的追思，更是通过复古技术唤醒人类与自然共生的希望。",
-    "best_quote_en": "I think our brain leans in more because there's something to interpolate, to explore. We know it's a shot of a kingfisher, but it's not a clean, crisp rendering… I think it makes us more engaged.",
-    "best_quote_zh": "我觉得我们的大脑会更倾向于去推测、去探索。我们知道这是一只金针鹨的画面，但它并不是清晰锐利的呈现……我觉得这会让我们更有参与感。"
-  },
-  {
-    "id": 433,
-    "title": "“Nwanne M Nwaanyi” by Photographer Chiemeka Offor",
-    "title_zh": "《女儿》",
-    "model_used": "poolside/laguna-xs-2.1:free",
-    "source": "BOOOOOOOM",
-    "link": "https://www.booooooom.com/2026/09/04/nwanne-m-nwaanyi-by-photographer-chiemeka-offor/",
-    "tags": [
-      "update",
-      "music-arts"
-    ],
-    "tags_zh": [
-      "动态",
-      "音乐艺术"
-    ],
-    "date": "2026-09-04",
-    "summary_en": "Nwanne M Nwaanyi by Chiemeka Offor captures the intimate bond between Nigerian mothers and daughters through evocative portraiture. The series showcases tender moments of connection, highlighting cultural identity and maternal love. Offor's visual storytelling reveals the quiet strength and resilience embedded in everyday family life, celebrating the profound beauty of intergenerational relationships in Nigeria.",
-    "summary_zh": "《女儿》系列摄影展以尼日利亚母女之间的亲密羁绊为题，通过富有情感的肖像捕捉瞬间。作品展现母女间温柔的相处，彰显文化身份与母爱。奥菲尔的视觉叙事揭示日常家庭生活中的坚韧与力量，赞颂尼日利亚代际情感的深刻之美。",
-    "best_quote_en": "Photography reveals the quiet strength in everyday maternal love.",
-    "best_quote_zh": "摄影揭示日常母爱中的静默力量。"
-  },
-  {
-    "id": 434,
-    "title": "For Gloria Steinem, fashion was about much more than aesthetics",
-    "title_zh": " Gloria Steinem, 时尚远不止于审美",
-    "model_used": "poolside/laguna-xs-2.1:free",
-    "source": "Women | The Guardian",
-    "link": "https://www.theguardian.com/world/2026/sep/04/gloria-steinem-fashion-feminism-aesthetics",
-    "tags": [
-      "inspire",
-      "ai-research",
-      "politics",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "启发",
-      "AI研究",
-      "政治时事",
-      "未来预测"
-    ],
-    "date": "2026-09-04",
-    "summary_en": "This compelling obituary reveals how Gloria Steinem masterfully weaponized fashion as strategic activism, transforming personal style into a powerful civil rights tool. Far from mere aesthetics, Steinem's iconic eyewear, bell-bottoms, and 'anti-fashion' jeans created a 'Trojan horse' that captured public attention and disarmed critics. By controlling her image in an era when feminists were stereotyped as unattractive, she challenged patriarchal assumptions that smart women should be invisible or that feminists looked like 'bra-burning radicals.' Her style was deeply political—part practicality for activism, part agency over personal choice. The article illuminates how Steinem understood media dynamics better than most, using clothing as both shield and platform to deliver 'uncompromising messages on reproductive rights or systemic sexism.' Her legacy extends beyond feminism into fashion influence, with designers like Michael Kors incorporating her aesthetic DNA. This piece demonstrates that authentic self-expression can be the most potent form of resistance.",
-    "summary_zh": "这篇引人深思的追悼篇章揭示了Gloria Steinem如何将时尚转化为战略活跃的武器，个人风格成为强大民权运动的工具。她的标志性眼镜、阔腿裤和'反时尚'牛仔裤制造了'罗马车'，驯服公众注意力。她精准把握媒体脉搏，用衣着挑战父权制假设——智慧女性不该隐形，女权主义者也不该呈现'烤焦胸針'的形象。风格兼具实用性与表达权力，成为她传递 reproductive rights诉求的护身符。她的影响力跨越女权与时尚，连Michael Kors都汲取了她的审美密码。这证明，真实的自我表达是最有力的抵抗方式。",
-    "best_quote_en": "Fashion in the past meant conforming and losing oneself; fashion in the present means being unique and finding oneself.",
-    "best_quote_zh": "过去的时尚意味着遵从和失去自我；当下的时尚则意味着独特和发现自我。"
-  },
-  {
-    "id": 435,
-    "title": "The Four Quadrants of Conformism",
-    "title_zh": "从众主义的四个象限",
-    "model_used": "minimax/minimax-m3:free",
-    "source": "Paul Graham",
-    "link": "http://www.paulgraham.com/conformism.html",
-    "tags": [
-      "solve",
-      "startup-strategy",
-      "controversial"
-    ],
-    "tags_zh": [
-      "解决",
-      "创业策略",
-      "争议观点"
-    ],
-    "date": "2026-09-05",
-    "summary_en": "Paul Graham offers a compelling taxonomy of human behavior, mapping people onto a two-axis grid: conventional-minded to independent-minded horizontally, passive to aggressive vertically. The four resulting quadrants—aggressive conformists, sheep, dreamers, and rebels—persist across cultures and ages, revealing that personality trumps environment as a predictor of one's quadrant. Graham argues that aggressively conventional-minded individuals cause disproportionate harm, and that Enlightenment-era customs protecting free inquiry exist primarily as defenses against them. Drawing on Robert George's classroom anecdote about slavery, he contends that today's self-proclaimed abolitionists would likely have been slavery's defenders in the antebellum South—a sobering thought experiment about moral consistency. The essay's most urgent contemporary observation concerns social media: Silicon Valley, populated by independent-minded builders, inadvertently handed the aggressive conformists an unprecedented tool for enforcing orthodoxy. Graham worries universities—the last safe spaces—may be compromised, but ends on a hopeful note: the independent-minded excel at creating new institutions when old ones fail. A sharp, provocative read that combines personality psychology with political philosophy.",
-    "summary_zh": "Graham提出一个精妙的人格分类框架：将人按\"从众程度\"与\"攻击性\"两轴划分，得出四种普遍存在的人格类型——主动守旧者、被动顺从者、淡泊超脱者、主动反叛者。他指出，这种分类跨越文化与年龄，性格本身远比社会规则更能决定一个人落在哪个象限。Graham的锋芒直指\"主动从众者\"：他认为这个群体制造了世界上的大部分麻烦，而启蒙运动以来保护思想自由的社会契约，本质上就是其余人类为抵御这种压力而建起的防火墙。最令人警醒的当代观察是：硅谷本由独立思考者构建，却亲手将社交媒体这件武器交到了主动从众者手中——这记乌龙球可能正在动摇大学的最后避风港。但Graham仍怀抱希望：独立思考者最擅长的，恰恰是在旧制度崩塌时想象并创造新制度。这篇文章既是个体心理学的优雅切片，也是一份关于思想自由的当代宣言。",
-    "best_quote_en": "When the conventional-minded get the upper hand, they always say it's in the service of a greater good. It just happens to be a different, incompatible greater good each time.",
-    "best_quote_zh": "当从众主义者占据上风时，他们总会宣称这是为了某种更高的善。只不过每次所谓的\"更高的善\"都彼此矛盾、互不相容。"
-  },
-  {
-    "id": 436,
-    "title": "BFI Distribution acquires Cannes winner Everytime for UK and Irish cinemas",
-    "title_zh": "BFI Distribution 获得戛纳获奖影片《Everytime》在英国和爱尔兰影院的发行权",
-    "model_used": "nvidia/nemotron-3-super-120b-a12b:free",
-    "source": "BFI",
-    "link": "https://www.bfi.org.uk/news/bfi-distribution-acquires-cannes-winner-everytime-uk-irish-cinemas",
-    "tags": [
-      "update",
-      "music-arts"
-    ],
-    "tags_zh": [
-      "动态",
-      "音乐艺术"
-    ],
-    "date": "2026-09-03",
-    "summary_en": "BFI Distribution has acquired the UK and Irish theatrical rights to Sandra Wollner's Cannes award-winning film 'Everytime', which won the Un Certain Regard Prize at Cannes 2026. The film, described as an enigmatic exploration of grief, forgiveness, and healing, follows a mother, daughter, and teenage boy on a trip to Tenerife after an untimely death. Wollner, an Austrian director based in Berlin, brings her distinctive lyrical style to this third feature, which has already garnered acclaim at Sydney, Karlovy Vary, Sarajevo, and upcoming TIFF and NYIFF festivals. Selected as Germany's 2027 Oscar entry for Best International Feature Film, 'Everytime' is set for a UK premiere at the BFI London Film Festival on October 16, 2026, with a general release in early 2027. The acquisition highlights BFI's commitment to bringing artistically significant international cinema to British and Irish audiences, supported by strong critical praise for Wollner's direction and Gregory Oke's cinematography.",
-    "summary_zh": "BFI Distribution 获得 Sandra Wollner 戛纳获奖影片《Everytime》的英国和爱尔兰发行权，这部探索悲伤与宽恕的诗意影片已获戛纳某一单元奖并被选为德国2027年奥斯卡参赛片。影片将于2026年10月16日在BFI伦敦电影节首映，2027年初公映。此次收购体现了BFI对引进具有艺术价值的国际影片的承诺，也为观众提供了深刻反思人际关系与情感疗愈的机会。",
-    "best_quote_en": "We were stunned by Sandra Wollner’s Everytime, a profound and lyrical study of grief that will break and then mend your heart, while taking you on a hallucinatory journey through forgiveness and healing.",
-    "best_quote_zh": "我们被桑德拉·沃尔纳的《Everytime》深深震撼——这是一部关于悲伤的深刻且诗意的研究，它会先让你心碎，然后让你心愈，同时带你踏上一场关于宽恕与治愈的幻觉之旅。"
-  },
-  {
     "id": 437,
     "title": "The Tim Ferriss Show Transcripts: Tales of Overcoming the Odds, and How to Turn Losses Into Wins — Tim McGraw, Terry Crews, Dax Shepard, and More (#881)",
     "title_zh": "Tim Ferriss Show播客稿：克服逆境的故事，如何将失败转化为胜利 —— Tim McGraw、Terry Crews、Dax Shepard等人 (#881)",
@@ -2352,5 +2239,124 @@
     "summary_zh": "本文以《压力》1975年经典影片为切入口，探究牛顿堡和拉德布莱克广场五十年的城市变迁。影片作为首位黑人导演的英国首部长片，记录了1970年代真实的黑人英国经历。文章通过当下与昔日的细致对比，展现了 Gentrification 对这片社区的彻底重塑——工业遗迹消失，社区属性被重构。这不仅是地点考察，更是流逝时光中失去的历史记忆，与《压力》本身构成双重见证。",
     "best_quote_en": "Pressure evidences a deep knowledge of this part of the city and the communities who lived there, using not just its more famous streets and sites, but also smaller, more detailed locations. Because of this, Ové's film also acts as a form of documentation, showing architecture and industrial remnants of the area long before gentrification took a hold and swept them aside.",
     "best_quote_zh": "《压力》展现了对这片区域及其居民的深厚了解，既使用了著名街道，亦关注细枝末节之地。正因如此，Ové的影片亦成为纪实，记录了 Gentrification 降临前的建筑与工业痕迹。"
+  },
+  {
+    "id": 532,
+    "title": "Being a Noob",
+    "title_zh": "做一个新手",
+    "model_used": "nex-agi/nex-n2.5-pro:free",
+    "source": "Paul Graham",
+    "link": "http://www.paulgraham.com/noob.html",
+    "tags": [
+      "solve",
+      "startup-strategy",
+      "beginner-friendly"
+    ],
+    "tags_zh": [
+      "解决",
+      "创业策略",
+      "新手友好"
+    ],
+    "date": "2026-09-25",
+    "summary_en": "The essay turns the stigma of being a “noob” into a counterintuitive measure of growth: acute local incompetence can signal global learning. By contrasting familiarity at home with disorientation in a radically unfamiliar place, it argues that discomfort is inversely related to ignorance when that discomfort comes from novelty rather than lack of ability. The evolutionary detour—our brain treating newness like a competence threat—is the piece I find most revealing. It explains why modern exploration still feels like failure even when it is producing knowledge. I would qualify the conclusion, though: feeling lost is useful only when the setting is genuinely novel, feedback is available, and one can distinguish productive confusion from repeated, unexamined mistakes. Ridicule makes this distinction harder, especially for beginners. Still, the core reframing is powerful. Rather than asking how to eliminate beginnerhood, we might ask whether our discomfort marks the frontier of what we are learning. In a rapidly changing world, tolerance for that feeling may be a practical form of intelligence.",
+    "summary_zh": "这篇文章最可贵之处，是把“菜鸟感”从羞耻改写为学习信号：局部越陌生，整体可能越开阔。它把不适区分为能力不足与新事物冲击，提醒我们别把探索误判成失败。这个框架很解放，但也不能神化迷茫；只有环境确实新颖、反馈持续且错误能被修正时，笨拙才有成长价值。面对快速变化的世界，保留一点做新手的勇气，或许比维持全知姿态更接近真正的能力。",
+    "best_quote_en": "The more of a noob you are locally, the less of a noob you are globally.",
+    "best_quote_zh": "你在局部越是新手，在全球意义上就越不是新手。"
+  },
+  {
+    "id": 533,
+    "title": "How to Spot 10-Year Trends and Build Billion-Dollar Companies — Kevin Ryan of DoubleClick, MongoDB, Business Insider, and Many More (#884)",
+    "title_zh": "如何识别十年趋势并打造十亿美元公司——Kevin Ryan（DoubleClick、MongoDB、Business Insider 等创始人）",
+    "model_used": "inclusionai/ling-3.0-flash-sante:free",
+    "source": "Tim Ferriss",
+    "link": "https://tim.blog/2026/09/24/kevin-rya/",
+    "tags": [
+      "solve",
+      "startup-funding",
+      "startup-strategy",
+      "controversial"
+    ],
+    "tags_zh": [
+      "解决",
+      "创业融资",
+      "创业策略",
+      "争议观点"
+    ],
+    "date": "2026-09-25",
+    "summary_en": "Kevin Ryan, often dubbed the 'Godfather of NYC tech,' offers a masterclass in long-term trend identification and venture building. Having co-founded MongoDB, Business Insider, Zola, Gilt Groupe, and Transcend Therapeutics—and grown DoubleClick from 20 to 1,500+ employees—his framework is battle-tested. The episode reveals AlleyCorp's disciplined model: $500K seed, one year to build, then raise. Key insights include the contrarian maxim 'the second mouse gets the cheese,' the importance of starting narrow, and the radical focus on 'three things only; everything else cut 80%.' Ryan's skepticism about 'the next internet' and his emphasis on product-market fit over exit fantasies challenge the hype-driven startup orthodoxy. The conversation also touches on psychedelic therapeutics (methylone for PTSD), nuclear energy via Valar Atomics, and public benefit corporations—painting a portrait of a founder who bets on deep science and patience over FOMO. Critical takeaway: billion-dollar companies emerge from obsessive focus on solving real problems, not chasing trends.",
+    "summary_zh": "Kevin Ryan，纽约科技界的'教父'，用数十年创业投资经验拆解十年趋势的识别逻辑。从DoubleClick到MongoDB，他验证了'AlleyCorp模式'：500K美元起步，一年打磨产品，再融资。核心洞见在于'做三件事，切掉80%'的极端聚焦，以及'第二只老鼠吃奶酪'的逆向思维——不抢首仓，等待模式清晰再入场。他对'下一个互联网'的否定和对产品力的执着，构成了对炒作驱动创业观的有力反驳。",
+    "best_quote_en": "'There is no next internet.' — Kevin Ryan",
+    "best_quote_zh": "'没有下一个互联网。'——Kevin Ryan"
+  },
+  {
+    "id": 534,
+    "title": "为什么找对象一定要找前额叶发达的？",
+    "title_zh": "为什么找对象一定要找前额叶发达的？",
+    "model_used": "poolside/laguna-xs-2.1:free",
+    "source": "虎嗅",
+    "link": "https://www.huxiu.com/article/4893939.html?f=rss",
+    "tags": [
+      "solve",
+      "science",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "解决",
+      "科学研究",
+      "未来预测"
+    ],
+    "date": "2026-09-25",
+    "summary_en": "This article explores the neuroscience behind emotional regulation in intimate relationships, arguing that prefrontal cortex development is more crucial for long-term partnership success than superficial qualities. Drawing on neuroscientific research and relationship studies, the author distinguishes between emotional stability and emotional absence, explaining how the prefrontal cortex acts as the brain's 'CEO' that regulates impulsive reactions from the limbic system. The piece examines how intimate relationships serve as 'stress testing grounds' where emotional regulation is put to the test, particularly during conflict. Through five practical indicators for assessing someone's prefrontal cortex maturity—including their behavior when exhausted, their ability to pause during arguments, emotional articulation skills, repair attempts, and future orientation—the author provides a neurologically-informed framework for evaluating potential partners. Crucially, the article emphasizes self-reflection, suggesting that relationship success requires both partners to develop emotional regulation skills, supported by neuroplasticity's promise of change. The core insight: seek not someone who never gets angry, but someone who, even at their most irate, still refuses to harm you.",
+    "summary_zh": "文章以神经科学视角解构情绪管理在亲密关系中的核心作用，提出前额叶发达程度比外在条件更关乎长期搭配成功。通过前额叶皮层作为'大脑CEO'与边缘系统的生理张力，阐释情绪稳定的真正含义。在Gottman情绪泛滥理论和Finkel研究的基础上，提出五项前额叶成熟度评估标准。最具启发性的是自我反省观点：关系的本质是双向的，要求双方同步提升情绪调节能力。最终洞见——寻找的不是永不生气的人，而是在激动时仍顾及伤害对方的人。",
+    "best_quote_en": "You want to find not someone who will never get angry. But someone who, even at their most irate, still refuses to hurt you.",
+    "best_quote_zh": "你要找的，不是一个永远不会生气的人。而是一个在最生气的时候，也依然舍不得伤害你的人。"
+  },
+  {
+    "id": 535,
+    "title": "联联看｜当机器人开始跳舞，我们能和它成为伙伴吗？",
+    "title_zh": "联联看｜当机器人开始跳舞，我们能和它成为伙伴吗？",
+    "model_used": "nvidia/nemotron-3-ultra-550b-a55b:free",
+    "source": "三联生活周刊",
+    "link": "http://weixin.sogou.com/weixin?type=2&query=%E4%B8%89%E8%81%94%E7%94%9F%E6%B4%BB%E5%91%A8%E5%88%8A+%E8%81%94%E8%81%94%E7%9C%8B%EF%BD%9C%E5%BD%93%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%BC%80%E5%A7%8B%E8%B7%B3%E8%88%9E%EF%BC%8C%E6%88%91%E4%BB%AC%E8%83%BD%E5%92%8C%E5%AE%83%E6%88%90%E4%B8%BA%E4%BC%99%E4%BC%B4%E5%90%97%EF%BC%9F",
+    "tags": [
+      "analyze",
+      "science",
+      "design",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "分析",
+      "科学研究",
+      "设计创意",
+      "数据驱动"
+    ],
+    "date": "2026-09-24",
+    "summary_en": "This article documents a profound artistic experiment at the 2026 Beijing Art & Technology Week, where the award-winning TianGong 3.0 humanoid robot and Tao Body 2 contemporary dance troupe performed 'Infinite Walking' in 798's public square. What emerges is not a tech demo but a meditation on co-creation: the dancer learning the robot's 'inhuman' movement logic while engineers rewrite code to match artistic intuition. The piece reframes our daily invisible collaboration with AI—algorithmic recommendations, chatbot confidants—into visible, embodied negotiation. The central insight: productive human-machine relationships aren't about replacement or command, but 'mutual accommodation' where two distinct systems meet halfway, generating 1+1>2 outcomes. This mirrors how we actually work with AI today: not as tools but as alien intelligences that surprise us, requiring us to develop new literacies of trust, timing, and shared agency. The public setting matters—passersby become unwitting participants in rehearsing our collective future.",
+    "summary_zh": "在798火车头广场，天工3.0与陶身体2团完成了一场8分38秒的『双向驯化』：舞者学会机器人的突发启动逻辑，工程师为艺术直觉重写底层代码。这不是表演，是我们正在经历的隐形人机协作的具象化排练。最动人处在于拒绝『工具论』与『替代论』——真正的共生是两套截然不同的系统互相迁就、各出所长，长出1+1>2的可能。看着路人驻足围观，恍然：我们每天与算法推荐、AI对话的协作，本质上也是在和一种『无眼神、无气场、说动就动』的异质智能建立信任与节奏。公共空间的实验，正是为这种新素养做的彩排。",
+    "best_quote_en": "Good human-machine relationships have never been about 'who replaces whom' or 'who commands whom,' but rather two different entities, each bringing their own strengths, ultimately producing a 1+1>2 result.",
+    "best_quote_zh": "好的人机关系从来都不是『谁替谁』，也不是『谁指挥谁』，而是两个不同的主体，各自拿出自己的优势，最后长出1+1>2的结果。"
+  },
+  {
+    "id": 536,
+    "title": "Book of the month: Iris Wolff",
+    "title_zh": "本月之书：艾瑞斯·沃尔夫",
+    "model_used": "nex-agi/nex-n2.5-pro:free",
+    "source": "A year of reading the world",
+    "link": "https://ayearofreadingtheworld.com/2026/05/28/book-of-the-month-iris-wolff/",
+    "tags": [
+      "analyze",
+      "writing-content",
+      "case-study"
+    ],
+    "tags_zh": [
+      "分析",
+      "写作内容",
+      "案例研究"
+    ],
+    "date": "2026-05-28",
+    "summary_en": "This review is more than praise for Iris Wolff’s Blurred: it is a compact inquiry into how translated literature reaches readers. The critic links Ruth Martin’s involvement, Moth Books’ loyalty to Wolff, and the independence of small presses to show that literary value is shaped by editorial ecosystems, not prose alone. Wolff’s portrait of a German community in Ceaușescu-era Transylvania also exposes a market paradox: Anglophone publishers often demand recognizable national settings and familiar cultural signals, while the most revealing books resist such categories. I am especially drawn to the analysis of time as a spiral and empathy as embodied connection; these ideas give the novel’s private losses historical force. The review is candid about occasional over-explanation, yet its larger argument is generous and persuasive: translation, independent publishing, and narrative imagination can expand what English-language readers consider legible. Its brief treatment of translation choices leaves room for deeper inquiry, but it powerfully frames Blurred as both a humane novel and a challenge to publishing conventions.",
+    "summary_zh": "这篇评论真正谈的是翻译文学如何被看见。评论者从译者露丝·马丁、飞蛾书局的持续支持，谈到独立出版社在突破市场分类时的作用，指出《模糊》的价值不只在于文笔，也在于它挑战了英语出版对“可识别民族性”的依赖。最打动我的是，小说把齐奥塞斯库时代的压抑、迁徙后的疏离与人物跨越时间的联系编织在一起，让私人创伤拥有历史重量。作者也坦率指出技术说明偶尔过于直白，这种保留反而增强了判断的可信度。它提醒我们，真正开阔视野的作品，往往先要穿过出版与营销的窄门。",
+    "best_quote_en": "Writing is a rebellion against time and its greatest impertinence, transience.",
+    "best_quote_zh": "写作是对时间的反叛，也是对它最大的无礼——短暂易逝——的反叛。"
   }
 ]
