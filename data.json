@@ -1,126 +1,5 @@
 [
   {
-    "id": 437,
-    "title": "The Tim Ferriss Show Transcripts: Tales of Overcoming the Odds, and How to Turn Losses Into Wins — Tim McGraw, Terry Crews, Dax Shepard, and More (#881)",
-    "title_zh": "Tim Ferriss Show播客稿：克服逆境的故事，如何将失败转化为胜利 —— Tim McGraw、Terry Crews、Dax Shepard等人 (#881)",
-    "model_used": "poolside/laguna-xs-2.1:free",
-    "source": "Tim Ferriss",
-    "link": "https://tim.blog/2026/09/04/failure-into-success-transcript/",
-    "tags": [
-      "solve",
-      "writing-content",
-      "legal",
-      "case-study"
-    ],
-    "tags_zh": [
-      "解决",
-      "写作内容",
-      "法律法规",
-      "案例研究"
-    ],
-    "date": "2026-09-05",
-    "summary_en": "This transcript from The Tim Ferriss Show explores the profound human capacity to transform setbacks into opportunities through resilience, creativity, and community support. Featuring compelling narratives from BJ Miller, Terry Crews, and others, the episode reveals how individuals navigate profound losses—whether physical disability, athletic defeat, or existential crisis—and discover unexpected pathways forward. The central insight is that failure isn't terminal but transformative; what matters is developing the 'tracker' within, attuning to intrinsic wisdom beyond social conditioning. BJ Miller's story of adapting to life with three damaged limbs exemplifies this philosophy, demonstrating how proper collaboration with visionary collaborators like Randy can convert seemingly insurmountable obstacles into liberating innovations. The episode suggests that setbacks often reveal hidden opportunities for those equipped with the right mindset and supportive networks, challenging listeners to examine their own 'bullshit excuses' for not pursuing their dreams.",
-    "summary_zh": "这期播客深刻探讨了人类将挫折转化为机遇的神奇力量。通过BJ Miller、Terry Crews等人的感人故事，揭示了如何在生理伤残、运动失利甚至存在危机中找到前行的道路。核心洞见在于，失败并非终点而是转折点——关键在于培养内在的'追踪者'，敏锐捕捉超越社会规范的本真智慧。Miller先生的经历完美诠释了这一哲学，他成功将三肢受伤的困境转化为人生新高度。这期播客邀请我们反思：我们有多少自我设限的'屁股理由'阻碍了梦想的实现？",
-    "best_quote_en": "I’m doing nothing with my prosthetic arm except for hold on to the bike. So all the action is in my right hand. Brakes the one lever, and then Randy built this box and moved all the controls, the turn signals, horn and all that stuff, over to the right side of the bike in good distance for my thumb to reach them. So I have throttle, brake lever and then the turn signal box all going with one hand. That’s it, you know. Away you go!",
-    "best_quote_zh": "我 prosthetic 手臂除了握着自行车之外一无所有。所以所有动作都在我的右手里。刹车只有一根 Lever，然后Rand搬建了一个盒子，把所有控制台—转向灯、哨声和其他设备—都搬到自行车右侧，刚好让我的拇指能轻松触及。于是我只有右手就能完成油门、刹车和转向灯的操作。这就完事了，你们知道吗？开车啦！"
-  },
-  {
-    "id": 438,
-    "title": "7700亿巨头，要抄底了",
-    "title_zh": "7700亿巨头，要抄底了",
-    "model_used": "nvidia/nemotron-3.5-lightning:free",
-    "source": "虎嗅",
-    "link": "https://www.huxiu.com/article/4888914.html?f=rss",
-    "tags": [
-      "analyze",
-      "business-model",
-      "startup-funding",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "分析",
-      "商业模式",
-      "创业融资",
-      "数据驱动"
-    ],
-    "date": "2026-09-06",
-    "summary_en": "This article examines the potential acquisition of Workday by Silver Lake, analyzing the stark contrast between market narrative and operational reality in the software industry. It reveals how Silver Lake specializes in acquiring distressed tech assets during market panic, offering a contrarian perspective that challenges the prevailing SaaS doom narrative. The piece critically evaluates how AI fears have created a quantum superposition in software valuation, where companies are simultaneously written off as obsolete and acquired at premium multiples. Key insights include the distinction between emotional market selling and fundamental business health, the role of PE's patient capital versus public market's narrative-driven pricing, and how the Workday-Silver Lake deal could reset software valuation logic. The article ultimately argues that while software faces AI disruption, the transition will be gradual, and value will be redefined rather than eliminated.",
-    "summary_zh": "本文探讨了Silver Lake潜在收购Workday的交易，分析了软件行业中市场叙事与运营现实的鲜明对立。揭示了Silver Lake擅长在市场恐慌时收购受困科技资产的策略，提供了挑战主流SaaS末日叙事的反向视角。文章批判性地评估了AI恐惧如何在软件估值中形成量子叠加态，公司同时被写成过时且以溢价收购。关键见解包括情绪化抛售与基本面健康的区别、PE耐心资本与公共市场叙事驱动定价的作用，以及Workday-Silver Lake交易可能如何重设软件估值逻辑。文章最终论证了尽管软件面临AI颠覆，但转型将是渐进的，价值将被重新定义而非消失。",
-    "best_quote_en": "\"AI can write code, but it cannot write trust. Enterprises won't hand over their entire company's payroll records and financial reporting processes to an application that generated last week.\"",
-    "best_quote_zh": "\"无论多少氛围编程，也编不出一套HR或ERP系统。换言之，AI可以写代码，但写不出信任。企业不会把全公司员工的薪酬记录和财报流程，交给一个上周才生成的应用。\""
-  },
-  {
-    "id": 439,
-    "title": "Book of the month: Lana Abdelrahman",
-    "title_zh": "本月之书：拉娜·阿卜杜勒拉赫曼",
-    "model_used": "dots-studio/dots-3-note-preview:free",
-    "source": "A year of reading the world",
-    "link": "https://ayearofreadingtheworld.com/2026/08/31/book-of-the-month-lana-abdelrahman/",
-    "tags": [
-      "solve",
-      "writing-content",
-      "case-study"
-    ],
-    "tags_zh": [
-      "解决",
-      "写作内容",
-      "案例研究"
-    ],
-    "date": "2026-08-31",
-    "summary_en": "This book review offers a deeply personal and intellectually rich engagement with Lana Abdelrahman’s short story collection *A Spell of Longing*, published by Egypt’s Azha Books and translated by a trio of skilled translators. The reviewer, a writer herself, approaches the text not as a distant critic but as a fellow artist who recognizes the deliberate distortions of perspective, the haunting presence of unresolved trauma, and the subtle resistance to Western narrative norms. The stories are steeped in cognitive dissonance and surrealism, often set in mundane environments that feel destabilized by psychological rupture—such as a woman encountering her dead uncle on a city street or a girl’s consciousness trapped in her bedroom, unable to communicate with grieving parents. What makes the collection particularly powerful is how it refracts the lingering devastation of Lebanon’s war not through explicit exposition but through absence and implication, creating a pervasive sense of unease that mirrors the lived reality of those navigating post-conflict societies. The reviewer highlights 'Five Faces of Hayat’s World' as a standout, praising its raw portrayal of creative paralysis and the existential toll of unfinished work. Equally significant is the thread of female agency—women asserting autonomy in the face of male entitlement or betrayal, echoing the legacy of Scheherazade as a storyteller who survives through narrative ingenuity. The review also notes the cultural specificity of the text: its refusal to cater to Western literary expectations, its unconventional pacing, and its typographical choices (indented epigraphs, hyphenated dashes) all serve as deliberate acts of cultural assertion. For the reviewer, reading this book is not merely an act of consumption but an invitation into someone else’s worldview—a humbling, disruptive, and ultimately liberating experience that challenges the reader’s own literary habits and assumptions.",
-    "summary_zh": "这篇书评以极具个人色彩与智性深度的方式，探讨了拉娜·阿卜杜勒拉赫曼的短篇小说集《渴望的咒语》。作为一位同样热爱叙事技巧的作家，评论者将自己置于同行的位置，敏锐捕捉到文本中刻意扭曲的视角、未言明的创伤以及对西方叙事规范的隐性抵抗。小说常以日常场景为舞台，却因心理断裂而充满不安——如女子街头遇见亡叔、少女意识困于卧室无法与悲痛父母沟通。黎巴嫩战争的创伤并非直述，而是通过缺席与暗示渗透文本，营造出“表面安全实则一触即发”的集体焦虑。评论者特别推崇《海亚特世界的五张面孔》，称其对创作困境与未完成之痛的描写堪称典范。书中女性主体性的觉醒亦是一条主线：女仆争取游泳日、 niece 退婚、邻居女性追寻真相，皆呼应着 Scheherazade 以故事求生的古老智慧。文本拒绝迎合西方读者期待，节奏突兀、排版非常规（如首段缩进如题记、破折号代 dashes），实为文化自主的宣言。对评论者而言，阅读此书非消遣，而是进入他者世界的仪式——一种谦卑的侵入，打破惯性，提醒我们：所谓“规范”不过是选择。合卷掩面，她如书中主角般决心：继续走自己的路。",
-    "best_quote_en": "This is not a book aimed at or curated for a reader like me. Indeed, it is a book that I would be unlikely to encounter in the UK at all. As such, when I read it, I am a guest in someone else’s space, given the opportunity to see how things are done elsewhere, without any attempt to mediate or dilute them for my perceived taste.",
-    "best_quote_zh": "这不是一本为像我这样的读者所写或策划的书。事实上，我几乎不可能在英国遇到它。因此，当我阅读它时，我成了他人空间的客人，有机会看到别处是如何行事的——没有任何试图为我的口味进行调和或稀释的举动。"
-  },
-  {
-    "id": 440,
-    "title": "Live from ICM 2026: What Is Math For in the Age of AI?",
-    "title_zh": "在AI时代数学究竟有何用处？",
-    "model_used": "nvidia/nemotron-3.5-lightning:free",
-    "source": "Quanta Magazine",
-    "link": "https://www.quantamagazine.org/live-from-icm-2026-what-is-math-for-in-the-age-of-ai-20260903/",
-    "tags": [
-      "learn",
-      "ai-research",
-      "science",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "学习",
-      "AI研究",
-      "科学研究",
-      "未来预测"
-    ],
-    "date": "2026-09-03",
-    "summary_en": "This live episode from the International Congress of Mathematicians 2026 captures a pivotal moment as AI systems demonstrate remarkable proof capabilities. The discussion reveals that mathematicians value not just problem-solving efficiency, but the deeper human elements of understanding, storytelling, and mathematical journey. While AI can solve Erdős problems and generate proofs, panelists emphasize that the true value lies in what machines cannot replicate: the creative process, conceptual leaps, and narrative structure that gives mathematics meaning. The conversation suggests a future where AI handles routine proof generation, freeing human mathematicians to pursue higher-level conceptual work and novel connections. The panel uniquely agrees that AI's greatest contribution may be expanding the mathematical frontier rather than replacing human mathematicians, creating what Kontorovich calls a 'golden age' of discovery through human-AI collaboration.",
-    "summary_zh": "这次来自2026年国际数学家大会的现场录音，捕捉到了AI系统在数学证明能力上的突破。数学家们重视的不只是解决问题的效率，更是理解、讲故事和数学旅程这更深层的人文要素。虽然AI可以解决 Erdős 问题并生成证明，但与会者强调，真正的价值在于机器无法复制的创造性过程、概念跨越和叙事结构，这些赋予了数学意义。对话表明，未来AI将处理常规证明生成，让人类数学家专注于更高层次的概念工作和新颖联系。与会者独特的一致观见是，AI的最大贡献可能在于扩展数学前沿，而非取代人类数学家，创造出何凯文所说的通过人机协作进入的‘黄金时代’。",
-    "best_quote_en": "\"The first time a model answers a question, it's exciting. A milestone is reached. The seventh time a model answers a question, it's far less interesting, and the seventh time a student answers the same question is far less interesting, for similar reasons.\" - Alex Kontorovich",
-    "best_quote_zh": "\"模型第一次回答问题很令人兴奋，达成了一个里程碑。模型第七次回答同一个问题没什么意思，学生第七次回答同一个问题也同样没什么意思，原因类似。\" - Alex Kontorovich"
-  },
-  {
-    "id": 441,
-    "title": "Upend the trickle-down",
-    "title_zh": "颠覆滴落理论",
-    "model_used": "nvidia/nemotron-3-super-120b-a12b:free",
-    "source": "Aeon",
-    "link": "https://aeon.co/essays/why-western-democracy-is-ailing-and-how-to-fix-it",
-    "tags": [
-      "inspire",
-      "politics",
-      "controversial"
-    ],
-    "tags_zh": [
-      "启发",
-      "政治时事",
-      "争议观点"
-    ],
-    "date": "2026-09-04",
-    "summary_en": "This essay critiques neoliberal policies initiated by Reagan and Thatcher, arguing they weakened democratic institutions, increased debt, slowed growth, and enriched financial elites while eroding public trust. Using the structure-conduct-performance (SCP) model, it traces how market liberalisation and financialisation led to institutional fragility, rising inequality, and recurring crises. The author contends that Western democracies now require structural reform: better-paid officials to attract competent leadership, campaign finance reforms like democracy vouchers, citizens’ assemblies, and renewed civic engagement to break the two-party duopoly and restore democratic vitality.",
-    "summary_zh": "本文批判里根和撒切尔启动的新自由主义政策，认为这些政策削弱了民主制度，增加了债务，放缓了增长，使金融精英受益，同时削弱了公众信任。运用结构-行为-绩效（SCP）模型，文章追溯了市场自由化和金融化如何导致制度脆弱、不平等上升和反复危机。作者认为西方民主国家现在需要结构性改革：通过提高官员薪酬吸引有能力的领导者、实施如民主券的竞选财政改革、公民议会以及重新激发公民参与，以打破两党垄断并恢复民主活力。",
-    "best_quote_en": "Neoliberalism brought only fragility to previously prosperous democracies.",
-    "best_quote_zh": "新自由主义只为曾经繁荣的民主国家带来了脆弱性。"
-  },
-  {
     "id": 442,
     "title": "Where Did the Phrase \"Back to the Grind\" Come From?",
     "title_zh": "回到日常：短语“Back to the Grind”的起源",
@@ -2358,5 +2237,120 @@
     "summary_zh": "这篇评论真正谈的是翻译文学如何被看见。评论者从译者露丝·马丁、飞蛾书局的持续支持，谈到独立出版社在突破市场分类时的作用，指出《模糊》的价值不只在于文笔，也在于它挑战了英语出版对“可识别民族性”的依赖。最打动我的是，小说把齐奥塞斯库时代的压抑、迁徙后的疏离与人物跨越时间的联系编织在一起，让私人创伤拥有历史重量。作者也坦率指出技术说明偶尔过于直白，这种保留反而增强了判断的可信度。它提醒我们，真正开阔视野的作品，往往先要穿过出版与营销的窄门。",
     "best_quote_en": "Writing is a rebellion against time and its greatest impertinence, transience.",
     "best_quote_zh": "写作是对时间的反叛，也是对它最大的无礼——短暂易逝——的反叛。"
+  },
+  {
+    "id": 537,
+    "title": "Gravity Seems Holographic. What Does That Mean for Reality?",
+    "title_zh": "引力似乎是全息的。这对现实意味着什么？",
+    "model_used": "dots-studio/dots-3-note-preview:free",
+    "source": "Quanta Magazine",
+    "link": "https://www.quantamagazine.org/gravity-seems-holographic-what-does-that-mean-for-reality-20260925/",
+    "tags": [
+      "learn",
+      "science",
+      "deep-dive"
+    ],
+    "tags_zh": [
+      "学习",
+      "科学研究",
+      "深度分析"
+    ],
+    "date": "2026-09-25",
+    "summary_en": "This article delves into the holographic principle in theoretical physics, exploring how gravity may emerge from quantum mechanics rather than being a fundamental force. It examines the AdS/CFT correspondence, black hole entropy, and the controversial idea that our universe might be a projection from a lower-dimensional boundary. The author presents both mainstream enthusiasm and skeptical counterarguments, highlighting that while the mathematics is compelling, empirical verification remains elusive. The piece challenges our intuitive understanding of space, time, and reality itself, suggesting that what we perceive as three-dimensional existence could be an illusion encoded on a two-dimensional surface. This has profound implications for quantum gravity, the nature of spacetime, and the search for a unified theory of physics.",
+    "summary_zh": "本文深入探讨了理论物理学中的全息原理，揭示引力如何可能并非基本力，而是从量子力学中涌现。文章审视了AdS/CFT对偶、黑洞熵以及宇宙可能是低维边界投影的争议性观点。作者呈现了主流物理学界的热情与怀疑论者的反驳，指出尽管数学框架令人信服，但实证验证依然困难。这挑战了我们对空间、时间和现实的直觉认知，暗示我们所感知的三维存在可能是编码在二维表面上的幻象。这对量子引力、时空本质以及寻找统一理论具有深远意义。",
+    "best_quote_en": "The undeniable message of AdS/CFT is that, at least in this special snow globe, the rules of gravity and the rules of quantum mechanics are secretly describing the same game — despite the storied antagonism between the two theories.",
+    "best_quote_zh": "AdS/CFT传达的不可否认的信息是：至少在这个特殊的雪球中，引力的规则和量子力学的规则其实在描述同一场游戏——尽管这两个理论之间有着著名的对立。"
+  },
+  {
+    "id": 538,
+    "title": "Reasoning together",
+    "title_zh": "共同推理",
+    "model_used": "dots-studio/dots-3-note-preview:free",
+    "source": "Aeon",
+    "link": "https://aeon.co/essays/habermass-theory-of-truth-meant-he-changed-his-mind",
+    "tags": [
+      "inspire",
+      "education",
+      "controversial"
+    ],
+    "tags_zh": [
+      "启发",
+      "教育学习",
+      "争议观点"
+    ],
+    "date": "2026-09-25",
+    "summary_en": "This essay offers a profound reflection on the legacy of Jürgen Habermas, blending personal memoir with intellectual history to explore the evolution of his thought on communicative reason and deliberative democracy. The author recounts his experiences as a student under Habermas, highlighting how the philosopher's ideas came alive in the classroom and his willingness to engage critically with his own framework. Key insights include Habermas's response to critiques from Nancy Fraser and Geoff Eley on the exclusions inherent in the bourgeois public sphere, and his adaptation to the challenges posed by digital media, where algorithms and platforms distort public discourse. The article critically examines the erosion of shared standards of truth and justification in an age of social media, where people retreat into echo chambers, losing the ability to discern better arguments. While Habermas's theory provides a benchmark for democratic legitimacy, the author expresses skepticism about its feasibility today, questioning whether the conditions for open, inclusive discourse can be met. The piece is both informative and thought-provoking, inviting readers to reconsider the foundations of democratic authority and the role of philosophy in addressing contemporary crises.",
+    "summary_zh": "本文是对德国哲学家尤尔根·哈贝马斯的深情缅怀，通过作者的个人经历与学术反思，深入探讨了哈贝马斯沟通理性与协商民主理论的演变。文章强调了理性作为集体实践的本质，并展现了哈贝马斯在课堂上及与学生的互动中开放、自省的品格。关键洞见包括哈贝马斯对公共领域批评的回应，如对性别和阶级排斥的承认，以及他对数字媒体影响的诊断。作者批判性地分析了当代社会中公共讨论的碎片化，指出共享真理标准的丧失。虽然哈贝马斯的理念为民主合法性提供了基准，但作者对其在当下的可行性表示怀疑，质疑开放、包容的 discourse 条件是否仍能实现。这不仅是对一位思想家的致敬，也是对民主本质的深刻反思，邀请读者重新思考合法权威的基础与未来。",
+    "best_quote_en": "a conflict of opinions that remains recognisable as a dispute about which position is backed by the better reasons",
+    "best_quote_zh": "一场意见的冲突，仍可辨认出是关于哪一方立场有更好理由支持的争论"
+  },
+  {
+    "id": 539,
+    "title": "17 Spanish Words You Use Every Day Without Realizing",
+    "title_zh": "你每天都在用却浑然不知的17个西班牙语词汇",
+    "model_used": "nvidia/nemotron-3-ultra-550b-a55b:free",
+    "source": "Mental Floss",
+    "link": "https://www.mentalfloss.com/language/words/spanish-words-you-use-every-day?utm_source=RSS",
+    "tags": [
+      "learn",
+      "design",
+      "beginner-friendly"
+    ],
+    "tags_zh": [
+      "学习",
+      "设计创意",
+      "新手友好"
+    ],
+    "date": "2026-09-26",
+    "summary_en": "This article reveals the invisible Spanish architecture underlying everyday English, tracing 17 common words—from 'patio' and 'canyon' to 'vigilante' and 'cafeteria'—back to their Iberian and Latin American roots. What strikes me is how these aren't merely loanwords but cultural sediments: 'bonanza' once meant 'calm sea' before gold rushes flipped its meaning to sudden wealth; 'mosquito' is literally 'little fly'; 'cafeteria' began as a humble coffeehouse. The piece illuminates language as a living archive of empire, migration, and exchange—Spanish words entering English via Mexican Spanish (coyote from Nahuatl), Cuban place names (daiquiri), and Andean Quechua (condor via kuntur). Each etymology is a miniature history lesson: cargo pants from 'cargar' (to load), mesa from 'table,' embargo from maritime blockades. The article's quiet brilliance lies in making the familiar strange again, reminding us that English is a mongrel tongue enriched by conquest, trade, and neighborly proximity. It's a delightful corrective to linguistic nationalism, showing how 'our' words are often 'theirs' first.",
+    "summary_zh": "这篇文章像考古学家拂去尘沙，揭示日常英语表层下沉睡的西班牙语地层。从patio到vigilante，17个词的溯源之旅让我惊觉：语言不是静态标本，而是帝国、移民、贸易交织的活化石。bonanza从\"平静大海\"变身\"暴富\"，折射淘金热如何重写词义；coyote经纳瓦特尔语、墨西哥西班牙语辗转入英，condor更追溯至克丘亚语kuntur——每个词都是跨大陆迁徙的微缩史诗。最动人的是平凡词汇的异域来历：cafeteria本是咖啡馆，cargo裤源自cargar（装载），mesa只是\"桌子\"的地质放大版。文章以轻盈笔触完成深重使命：让熟悉变得陌生，提醒英语从未纯粹，而是掠夺、借用、共生的混血儿。这是对语言民族主义最优雅的反讽。",
+    "best_quote_en": "\"English is a mongrel tongue enriched by conquest, trade, and neighborly proximity—'our' words are often 'theirs' first.\"",
+    "best_quote_zh": "\"英语从未纯粹，而是掠夺、借用、共生的混血儿——'我们'的词，往往先属于'他们'。\""
+  },
+  {
+    "id": 540,
+    "title": "Night dreams have a tech tree?",
+    "title_zh": "梦境拥有科技树吗？",
+    "model_used": "poolside/laguna-xs-2.1:free",
+    "source": "LessWrong",
+    "link": "https://www.lesswrong.com/posts/JEaeNbhYy4qJsFahi/night-dreams-have-a-tech-tree",
+    "tags": [
+      "learn",
+      "ai-research",
+      "design"
+    ],
+    "tags_zh": [
+      "学习",
+      "AI研究",
+      "设计创意"
+    ],
+    "date": "2026-09-26",
+    "summary_en": "This deeply introspective piece explores the fascinating intersection of dreams, consciousness, and emergent narrative structures. The author discovers that their dreams now generate coherent, persistent text and complex fictional worlds with their own internal logic systems - a 'Snow class' caste system that operates independently of explicit exposition. Most remarkably, the dreams demonstrate sophisticated narrative techniques: unreliable narrators, hidden state tracking, and cinematic storytelling with clear protagonist identification despite ambiguous visual cues. This suggests that dreaming may be evolving into a form of collaborative world-building between conscious and unconscious mind, where the dreamer's awareness becomes both audience and author. The piece raises profound questions about the nature of fiction, consciousness, and how our minds construct meaning during sleep. It reads like a fascinating glimpse into the future of dream research and the potential for lucid dreaming as a creative practice.",
+    "summary_zh": "这篇散文深入探讨了梦境、意识与自发生叙事结构之间的奇妙交叉点。作者发现梦中生成了持久的文本和复杂虚构世界，拥有独立的内部逻辑体系。更惊人的是，梦境展现出精妙的叙事技巧：不可靠的叙述者、隐藏状态追踪，以及清晰的主角识别 despite 模糊的视觉线索。这暗示了梦境可能正在演变为意识与潜意识之间协作式世界构建的方式。",
+    "best_quote_en": "Reading a book in a room with my late grandma who's been overhearing people from the kitchen whom I only hear as muffled voices that I don't understand made me realize: there are readable letters in my dreams now that stay the same when I look away and then back at them",
+    "best_quote_zh": "在房间里读书时，我的晚年 grandmother 正从厨房偷听话语，我只听到模糊的声音却不理解，于是我意识到：我的梦中出现了可读的文字，当我移开目光再回头时，它们依然保持原样"
+  },
+  {
+    "id": 541,
+    "title": "Susan Collins’s Maine Money Machine",
+    "title_zh": "苏珊·柯林斯的缅因州金钱机器",
+    "model_used": "inclusionai/ling-3.0-flash-fin:free",
+    "source": "The New Yorker",
+    "link": "https://www.newyorker.com/news/the-lede/susan-collinss-maine-money-machine",
+    "tags": [
+      "analyze",
+      "politics",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "分析",
+      "政治时事",
+      "数据驱动"
+    ],
+    "date": "2026-09-25",
+    "summary_en": "This article offers a nuanced portrait of Senator Susan Collins's political survival strategy, centered on her mastery of congressional appropriations as a mechanism for delivering tangible resources to Maine. The core insight is that Collins has built a unique political currency—federal funding for fire stations, ports, airports, and rural infrastructure—that transcends partisan loyalty in a deeply divided state. The piece raises provocative questions about democratic representation: can a Republican senator effectively serve a state that overwhelmingly leans Democratic by leveraging institutional power rather than ideological alignment? The ProPublica investigation into alleged pay-to-play schemes with defense firm Navatek adds tension, suggesting that the line between constituent service and corruption may be perilously thin. Yet the article's deeper reflection is on the extinction of the moderate political species—Collins is one of the last 'bridge-builders' in a Senate that no longer rewards coalition politics. Her 'secret voter' phenomenon—people who privately support her despite public disdain—speaks to a broader crisis of political identity in America, where voters simultaneously reject party affiliation and crave pragmatic governance.",
+    "summary_zh": "这篇文章以细腻的笔触描绘了苏珊·柯林斯参议员如何通过国会拨款委员会的权力，将联邦资金转化为缅因州的政治资本。核心洞察在于：她建立了一种独特的政治货币——消防站、港口、机场和农村基础设施的实质拨款——使其在深度分裂的州中超越了党派忠诚。文章提出了挑衅性的民主代表问题：一个共和党参议员能否通过制度权力而非意识形态对齐来有效服务一个绝大多数选民倾向民主党的州？ProPublica关于Navatek国防公司权钱交易的调查为叙事增添了张力，暗示公共服务与腐败之间的界限可能极其微妙。但更深层的反思在于温和派政治物种的灭绝——柯林斯是最后的'桥梁建造者'之一。文章揭示的'秘密选民'现象——公开鄙视却私下支持——折射出美国政治身份的深层危机：选民既拒绝党派归属，又渴望务实治理。",
+    "best_quote_en": "Even among people who despise Susan Collins, there can be a certain nostalgia for her brand of politics. Senators like her are 'potential bridge-builders. They sometimes play coalitional politics,' Hersh said. 'Most people have a sense that that's good. But they have a hard time stomaching what that looks like.'",
+    "best_quote_zh": "即便在鄙视苏珊·柯林斯的人群中，对她的政治风格也存在某种怀旧之情。赫什说：'像她这样的参议员是潜在的桥梁建造者，有时会进行联合政治运作。大多数人觉得那很好，但很难忍受那看起来是什么样子。'"
   }
 ]
