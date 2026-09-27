@@ -1,124 +1,5 @@
 [
   {
-    "id": 442,
-    "title": "Where Did the Phrase \"Back to the Grind\" Come From?",
-    "title_zh": "回到日常：短语“Back to the Grind”的起源",
-    "model_used": "nvidia/nemotron-3-super-120b-a12b:free",
-    "source": "Mental Floss",
-    "link": "https://www.mentalfloss.com/language/slang/back-to-the-grind-phrase-origin?utm_source=RSS",
-    "tags": [
-      "learn",
-      "education",
-      "society"
-    ],
-    "tags_zh": [
-      "学习",
-      "教育学习",
-      "社会议题"
-    ],
-    "date": "2026-09-07",
-    "summary_en": "This article traces the etymology of the colloquial phrase 'back to the grind' from its origins in 19th-century American college slang to its widespread use in modern English. Drawing on historical sources like Benjamin Homer Hall’s 1851 glossary and literary references such as Thomas Hughes’ novel, it reveals how 'grind' evolved from a verb meaning to harass or oppress—linked to the physical act of grinding grain—into a noun symbolizing tedious, monotonous labor. The phrase gained traction in both the UK and US by the late Victorian era, only becoming specifically associated with returning to work after a break in the 1980s. Beyond linguistic curiosity, the piece invites reflection on how language encodes cultural attitudes toward work, routine, and the emotional weight of returning to obligation after respite.",
-    "summary_zh": "这篇文章不仅追溯了一个常见短语的词源，更让人反思语言如何承载着我们对工作的集体情感。从1850年哈佛的诗歌到1980年代的职场用语，“回到日常”这一表达背后，是无数人对重复劳动的疲惫与无奈。有趣的是，一个源自研磨谷物的动词，竟然演变成了描述精神压迫的隐喻——这说明语言不仅记录历史，更在无形中塑造我们对日常的体验。当我们说“回到 grind”时，或许真正在说：我又得重新面对那些让人心力交瘁的日子了。",
-    "best_quote_en": "This meaning is derived from the verb to grind, in the sense of to harass, [or] to afflict.",
-    "best_quote_zh": "这个意思来源于动词 grind，即骚扰或使人痛苦的意思。"
-  },
-  {
-    "id": 443,
-    "title": "A Political Operative on the Verge of Self-Deportation",
-    "title_zh": "政治操盘手即将自行送行",
-    "model_used": "nvidia/nemotron-3.5-lightning:free",
-    "source": "The New Yorker",
-    "link": "https://www.newyorker.com/news/the-lede/a-political-operative-on-the-verge-of-self-deportation",
-    "tags": [
-      "solve",
-      "politics",
-      "case-study"
-    ],
-    "tags_zh": [
-      "解决",
-      "政治时事",
-      "案例研究"
-    ],
-    "date": "2026-09-06",
-    "summary_en": "This compelling profile examines Daysi González, a political operative facing self-deportation as her Temporary Protected Status expires. The article masterfully juxtaposes her professional expertise in political mail strategy with her personal immigration limbo, revealing how the very tools she uses to elect Democrats become meaningless against bureaucratic deadlines. González's pragmatic acceptance—\"It'll work out how it needs to\"—contrasts with the systemic failures of both parties on immigration reform. Her pivot toward BTS concerts and digital diaries during her final month suggests finding agency in inevitable loss. The piece ultimately indicts Democratic leadership's complacency while honoring González's resilience in transforming personal crisis into community connection, however temporary.",
-    "summary_zh": "这篇文章深刻探讨了Daysi González这位政治操盘手即将自行送行的处境。文章巧妙地将她精通政治邮件策略的专业技能与她个人的移民困境形成鲜明对比，揭示了她用来选举民主党的工具在 bureaucratic（官僚）截止日期面前变得无足轻重。González那种\"按需如何发展\"的务实接受，与两党在移民改革上的系统性失职形成鲜明对比。她在即将离开的最后一个月转向BTS演唱会和数字日记，似乎是在不可避免的失去中寻找主体性。文章最终指责民主党领导层的麻木，同时赞扬了González在个人危机中转化为社区连接的韧性，尽管这种连接是暂时的。",
-    "best_quote_en": "\"People have to look at it. Even if it's just, you know, their mailbox to the recycling bin—they have to look.\"",
-    "best_quote_zh": "\"人们得去看。即便只是，你知道，从信箱到回收箱——他们得去看。\""
-  },
-  {
-    "id": 444,
-    "title": "What we tell AI / Paint sticks / The perfect catch-up",
-    "title_zh": "我们对AI说什么 / 画棒 / 完美的约会",
-    "model_used": "cohere/north-mini-code:free",
-    "source": "Kevin Kelly",
-    "link": "https://kk.org/cooltools/what-we-tell-ai-paint-sticks-the-perfect-catch-up/",
-    "tags": [
-      "solve",
-      "lifestyle",
-      "design",
-      "beginner-friendly"
-    ],
-    "tags_zh": [
-      "解决",
-      "生活方式",
-      "设计创意",
-      "新手友好"
-    ],
-    "date": "2026-09-06",
-    "summary_en": "This collection of personal reflections, product reviews, lifestyle tips, and curated quotes offers a vivid snapshot of how technology shapes modern life. Olivia Tai’s crowd‑sourced AI confessions reveal a paradoxical reliance on machines for honesty and emotional support, prompting questions about authenticity in human‑AI relationships. The paint‑stick and fountain‑pen pieces illustrate how small tools can democratize creativity, while the 84‑minute catch‑up guideline and magnesium sleep butter ritual highlight a growing desire to quantify well‑being and optimize everyday rituals. The appended wisdom snippets distill timeless lessons into bite‑size insights, encouraging readers to reflect on intention, specificity, and resilience. Together, these fragments paint a picture of a culture that simultaneously embraces novelty and seeks grounding, using both tech and tradition to navigate identity, connection, and health in an increasingly mediated world.",
-    "summary_zh": "这篇文章汇集了AI confession、画棒评测、社交时间建议、健康产品及语录，展现了科技如何渗透日常关系、消费、美学与心灵，反思了新型人机互动、产品发现、量化生活与智慧的获取，同时也揭示了用户对工具的情感依附、产品替代与生活美学的追求。",
-    "best_quote_en": "Life punishes the vague wish and rewards the specific ask. — Tim Ferriss",
-    "best_quote_zh": "生活惩罚模糊的愿望，奖励具体的请求。 — 蒂姆·弗里斯"
-  },
-  {
-    "id": 445,
-    "title": "Quiz: We Bet You Can't Name All the Countries Expected to Have the Largest Populations in 2050",
-    "title_zh": "测验：你能列出2050年人口最大的国家吗？",
-    "model_used": "poolside/laguna-xs-2.1:free",
-    "source": "Mental Floss",
-    "link": "https://www.mentalfloss.com/quizzes/name-countries-projected-largest-populations-2050?utm_source=RSS",
-    "tags": [
-      "inspire",
-      "general",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "启发",
-      "general",
-      "未来预测"
-    ],
-    "date": "2026-09-06",
-    "summary_en": "This engaging quiz explores one of the most pressing demographic shifts of our time: global population dynamics and their future trajectories. The article reveals that while the world's population will continue growing until 2080, reaching approximately 10.3 billion, the distribution is far from uniform. India and China currently hold the top two positions, but their future trajectories diverge dramatically—India gains 220 million people while China loses 150 million. The piece provides critical context through stark comparisons: China's population doubled from 560 million in 1950 to 1.41 billion today, while life expectancy in both the US and China rose from 68 to 79 over the same period. The most compelling insight lies in the demographic transition underway: fertility rates have declined globally, with China's hovering near 1.0 and the US at 1.6, while aging populations will soon outnumber children under 18. African nations like Niger and Angola will double by 2054, highlighting the continent's demographic surge. Beyond pure numbers, the article contextualizes population changes with climate change impacts (250,000 annual deaths by 2050) and immigration's role as a growth driver in 52 countries. This content transforms dry statistics into a compelling narrative about humanity's future, making complex demographic trends accessible through interactive engagement.",
-    "summary_zh": "这篇以测验形式呈现的深度 demographic 分析揭示了人类种群的未来图景：虽然全球人口将在2080年前增长至103亿，但增长分布极不均衡。印度将净增2200万，中国则将减少1.5亿，呈现出人口红利与负增长的鲜明对比。通过将1950年中国人口从5600万增至14亿的惊人数据，以及美中寿命从68岁升至79岁的提升幅度，作者将抽象的数字转化为具体的历史见证。更值得关注的是人口转型的深层逻辑：全球生育率持续下降，中国甚至接近更低点，欧美年轻一代将面临更长的“空老期”。非洲诺干、安哥拉等国将翻倍增长，这场人口浪潮正在重塑全球格局。作者不仅用数据说话，更将气候变化导致的年度死亡数（25万人）和移民潮这一现实因素纳入宏观叙事，使枯燥的统计学成为引人深思的未来预言。",
-    "best_quote_en": "Ultimately, all the above projections about population are just estimates that don't account for the uncertain nature of the future.",
-    "best_quote_zh": " ultimately, all the above projections about population are just estimates that don't account for the uncertain nature of the future."
-  },
-  {
-    "id": 446,
-    "title": "9/11 at Twenty-Five",
-    "title_zh": "九·十一：二十五年",
-    "model_used": "poolside/laguna-xs-2.1:free",
-    "source": "The New Yorker",
-    "link": "https://www.newyorker.com/magazine/2026/09/14/the-america-that-9-11-made",
-    "tags": [
-      "update",
-      "politics",
-      "legal",
-      "deep-dive"
-    ],
-    "tags_zh": [
-      "动态",
-      "政治时事",
-      "法律法规",
-      "深度分析"
-    ],
-    "date": "2026-09-06",
-    "summary_en": "Jill Lepore's reflective essay examines the enduring impact of 9/11 on American society through personal narrative and broader historical lens. The piece opens with a poignant encounter in a Minneapolis elevator where a stranger recognizes the author from her 9/11 lecture class, illustrating how the event remains viscerally present across generations. Lepore weaves together intimate stories—Kristen Breitweiser's decades-long quest for accountability, the psychological toll on survivors, and the systemic consequences including the Patriot Act's surveillance expansion. The essay critically interrogates the 'global war on terror,' citing Brown University's Costs of War project to reveal nearly a million deaths across post-9/11 military operations, including over 28,000 veteran suicides. Through characters like Muslim attorney Marlo Cadeddu defending targeted communities and FBI whistleblower Terry Albury, Lepore exposes how terrorism's aftermath reshaped domestic discourse, immigration policies, and spawned extremist movements. The piece challenges sanitized memorial narratives, arguing that America's 'different, and even angrier' evolution reflects unresolved trauma and systemic failures in justice, accountability, and collective healing that persist twenty-five years later.",
-    "summary_zh": "通过电梯中陌生人的相遇，Lepore以个人化叙事展望9/11二十五年来对美国的深远影响。她织就受难者家属求索正义、存续者心理创伤、以及大军事战争导致的近百万死亡等多维故事。追踪穆加拉南亚裔律师卡德杜 defending受迫害的美国穆斯林社区、FBI泄密者阿尔比尔的抗争，揭露恐怖主义后续改造了美国本土话语、移民政策甚至催生极端主义。作者批判性地质疑官方构建的纪念叙事，指出持续二十五年未解的创伤、对正义的系统性缺失，让美国变得'不同且更愤怒'——这不仅是历史事件，更是未被治愈的创伤史。",
-    "best_quote_en": "The rubble had been cleared, a report written, a museum built... The day's events are measured in minutes, a ticking clock; the grief in years, a beating heart.",
-    "best_quote_zh": "碎石被清除，一份报告写就，一座博物馆建成……事件以分钟计时，悲痛却以年岁流传。"
-  },
-  {
     "id": 447,
     "title": "How To Be Successful",
     "title_zh": "如何成功",
@@ -2352,5 +2233,122 @@
     "summary_zh": "这篇文章以细腻的笔触描绘了苏珊·柯林斯参议员如何通过国会拨款委员会的权力，将联邦资金转化为缅因州的政治资本。核心洞察在于：她建立了一种独特的政治货币——消防站、港口、机场和农村基础设施的实质拨款——使其在深度分裂的州中超越了党派忠诚。文章提出了挑衅性的民主代表问题：一个共和党参议员能否通过制度权力而非意识形态对齐来有效服务一个绝大多数选民倾向民主党的州？ProPublica关于Navatek国防公司权钱交易的调查为叙事增添了张力，暗示公共服务与腐败之间的界限可能极其微妙。但更深层的反思在于温和派政治物种的灭绝——柯林斯是最后的'桥梁建造者'之一。文章揭示的'秘密选民'现象——公开鄙视却私下支持——折射出美国政治身份的深层危机：选民既拒绝党派归属，又渴望务实治理。",
     "best_quote_en": "Even among people who despise Susan Collins, there can be a certain nostalgia for her brand of politics. Senators like her are 'potential bridge-builders. They sometimes play coalitional politics,' Hersh said. 'Most people have a sense that that's good. But they have a hard time stomaching what that looks like.'",
     "best_quote_zh": "即便在鄙视苏珊·柯林斯的人群中，对她的政治风格也存在某种怀旧之情。赫什说：'像她这样的参议员是潜在的桥梁建造者，有时会进行联合政治运作。大多数人觉得那很好，但很难忍受那看起来是什么样子。'"
+  },
+  {
+    "id": 542,
+    "title": "Easy Silk Road Tour/Another Bankrupt Airline/Key to Happiness",
+    "title_zh": "轻松丝绸之路之旅/另一家破产航空公司/幸福的关键",
+    "model_used": "nvidia/nemotron-3-super-120b-a12b:free",
+    "source": "Kevin Kelly",
+    "link": "https://kk.org/cooltools/easy-silk-road-tour-another-bankrupt-airline-key-to-happiness/",
+    "tags": [
+      "solve",
+      "lifestyle",
+      "medicine"
+    ],
+    "tags_zh": [
+      "解决",
+      "生活方式",
+      "医学健康"
+    ],
+    "date": "2026-09-24",
+    "summary_en": "This reflective newsletter weaves together personal travel experiences with broader observations about modern nomadism, travel accessibility, and the pursuit of happiness. The author recounts their shift from anti-tour backpacker to appreciating guided tours through a seamless G Adventures trip to Uzbekistan, highlighting how outsourced planning solves real logistical barriers. Parallelly, it examines the fragility of the airline industry post-pandemic and amid geopolitical tensions, citing airBaltic’s bankruptcy as symptomatic of systemic strain. A practical tip emerges with Panama’s free travel insurance for visitors, illustrating how policy can reduce travel friction. Most poignantly, the piece explores the emotional cost of perpetual movement, suggesting that long-term nomads often settle not from fatigue but loneliness—underscoring that social capital, not just freedom, is central to well-being. The writing balances utility with introspection, framing travel not just as logistics but as a lens on human connection.",
+    "summary_zh": "这篇通讯将个人旅行经历与对现代游牧主义、旅行便利性和幸福追求的广泛观察交织在一起。作者讲述了自己从反对团游的背包客转变为欣赏导游旅行的过程，以一次轻松的乌兹别克斯坦G Adventures之旅为例，突显了外包规划如何解决实际后勤问题。同时，它审视了后疫情时代和地缘政治紧张局势下航空业的脆弱性，将airBaltic的破产视为系统性压力的症状。一个实用的建议出现：巴拿马对游客提供免费旅行保险，展示了政策如何减少旅行摩擦。最动人的是，文章探讨了持续移动的情感代价，表明长期游牧者常常因孤独而非疲惫而定居——凸显了社会资本而非仅仅自由才是福祉的核心。文字在实用性与内省之间取得平衡，将旅行不仅视为后勤问题，更视为理解人际关系的窗口。",
+    "best_quote_en": "“Social capital’s importance to well-being cannot be overstated.”",
+    "best_quote_zh": "“社会资本对福祉的重要性不容忽视。”"
+  },
+  {
+    "id": 543,
+    "title": "E Pur Si Muove",
+    "title_zh": "E Pur Si Muove",
+    "model_used": "nvidia/nemotron-3.5-lightning:free",
+    "source": "Sam Altman",
+    "link": "https://blog.samaltman.com/e-pur-si-muove",
+    "tags": [
+      "solve",
+      "tech-trends",
+      "writing-content",
+      "controversial"
+    ],
+    "tags_zh": [
+      "解决",
+      "技术趋势",
+      "写作内容",
+      "争议观点"
+    ],
+    "date": "2017-12-14",
+    "summary_en": "This essay presents a compelling and provocative analysis of the deteriorating intellectual climate in San Francisco, arguing that increasing speech restrictions and political correctness are stifling innovation and driving away critical thinkers. The author contrasts the relative openness of Beijing with the increasingly toxic environment in the Bay Area, suggesting that the inability to tolerate 'wacky' or controversial ideas—regardless of their merit—prevents the emergence of breakthrough thinking. Drawing historical parallels to Galileo and Newton, the piece contends that true innovation requires a culture of radical tolerance, warning that when we move from debating ideas to casting people as heretics, we halt all intellectual progress. It serves as a stark warning that the current trajectory in tech hubs like San Francisco could lead to a 'brain drain' of the very minds needed to solve society's hardest problems.",
+    "summary_zh": "这篇文章对旧金山的智力氛围进行了犀利且富有 provocative 的分析，认为日益严苛的言论限制和政治正确正在扼杀创新并驱走关键思想家。作者将北京相对的开放与旧金山日益有毒的环境进行了对比，认为无论主意多‘蹭’，容忍不被接受的主意都是产生突破性思维的必要条件。引用牛顿和伽利略的历史案例，文章论证真正的创新需要激进的容忍文化，警告一旦从辩论主意转向将人定义为异端，就会扼杀所有智力进步。它是一个鲜明的警告，指出旧金山等科技中心目前的走向可能会导致最需要解决社会难题的头脑外流。",
+    "best_quote_en": "\"If people live a lot longer it will be disastrous for the environment, so people working on this must be really unethical\" was a memorable quote I heard this year.",
+    "best_quote_zh": "\"如果人类活得久了对环境将是灾难，所以从事这项工作的人一定非常不道德\"是今年我听到的一个令人难忘的引语。"
+  },
+  {
+    "id": 544,
+    "title": "Essentials: Optimal Protocols to Build Strength & Grow Muscles | Dr. Andy Galpin",
+    "title_zh": "Essentials: Optimal Protocols to Build Strength & Grow Muscles | Dr. Andy Galpin",
+    "model_used": "nvidia/nemotron-3.5-lightning:free",
+    "source": "Huberman Lab",
+    "link": "https://www.hubermanlab.com/episode/essentials-optimal-protocols-to-build-strength-and-grow-muscles-andy-galpin",
+    "tags": [
+      "guide",
+      "ai-research",
+      "education"
+    ],
+    "tags_zh": [
+      "指导",
+      "AI研究",
+      "教育学习"
+    ],
+    "date": "2026-09-24",
+    "summary_en": "In this Huberman Lab Essentials episode revisiting Dr. Andy Galpin's foundational work, the discussion cuts through fitness noise to establish science-based protocols for strength and hypertrophy. Galpin compellingly distinguishes between strength and muscle growth as distinct adaptive responses, arguing that resistance training is essential not just for aesthetics but for maintaining physical function throughout the aging process. The conversation delivers practical value through the '3 to 5' approach framework and detailed variables like repetition speed and weekly volume. What makes this particularly insightful is Galpin's emphasis on individualization—training must adapt to specific goals, available equipment, and schedule constraints. The episode successfully bridges expert knowledge with actionable guidance, making complex exercise science accessible for novices and practitioners alike.",
+    "summary_zh": "本期Huberman Lab Essentials节目重访了Dr. Andy Galpin关于力量与肌肉增长的核心科学。Galpin清晰区分了力量与肥大作为两种不同的适应性响应，有力论证了抗阻训练对维持老年身体功能的重要性而非仅仅是审美目的。节目提供了实用的‘3到5’方法框架以及重复速度、每周训练量等详细变量。最有价值的是个性化原则——训练必须根据目标、器材和时间表进行调整。该节目成功将专业知识与可操作指南相结合，让复杂的运动科学对新手和从业者 alike 都变得易于理解。",
+    "best_quote_en": "Strength and hypertrophy are two different adaptations... you can train for one, the other, or both depending on your goals.",
+    "best_quote_zh": "力量与肥大是两种不同的适应性响应……取决于你的目标，你可以训练其中一种、另一种或两者兼顾。"
+  },
+  {
+    "id": 545,
+    "title": "Boy From the North Country Paperback Release Party",
+    "title_zh": "《北方之城的男孩》纸版出版庆典",
+    "model_used": "poolside/laguna-xs-2.1:free",
+    "source": "Harper’s Magazine",
+    "link": "https://harpers.org/2026/08/boy-from-the-north-country-paperback-release-party/",
+    "tags": [
+      "update",
+      "ai-research"
+    ],
+    "tags_zh": [
+      "动态",
+      "AI研究"
+    ],
+    "date": "2026-08-25",
+    "summary_en": "Join the paperback release celebration of Boy From the North Country by Sam Sussman, a National Jewish Book Award finalist and USA Today bestseller. The event is hosted by Penguin Press, Harper's Magazine, PEN America, and the Jewish Book Council on September 16, 2026 at 7 pm at T.J. Byrnes Bar & Restaurant in New York. The book was inspired by Sussman's Harper's essay 'The Silent Type' about possibly being Bob Dylan's son.",
+    "summary_zh": "欢迎参加赛姆·苏斯坎的《北方之城的男孩》纸版出版庆典。该书是国家犹太书奖提名奖作品和USA Today畅销书。活动由Penguin Press、Harper's Magazine、PEN America和犹太书坊会议主办，将于2026年9月16日晚上7点在纽约T.J. Byrnes酒吧餐厅举办。这本书灵感来自作者发表于Harper's的论文《The Silent Type》中关于他可能是鲍勃·迪克森之子的探讨。",
+    "best_quote_en": "Celebrate the paperback release of Boy From the North Country, a National Jewish Book Award finalist and USA Today bestseller.",
+    "best_quote_zh": "庆祝《北方之城的男孩》纸版出版，这本书是国家犹太书奖提名奖作品和USA Today畅销书。"
+  },
+  {
+    "id": 546,
+    "title": "What’s in my NOW? — Martynas Sagaitis",
+    "title_zh": "我现在有什么？——Martynas Sagaitis",
+    "model_used": "cohere/north-mini-code:free",
+    "source": "Kevin Kelly",
+    "link": "https://kk.org/cooltools/whats-in-my-now-martynas-sagaitis/",
+    "tags": [
+      "update",
+      "lifestyle",
+      "design",
+      "beginner-friendly"
+    ],
+    "tags_zh": [
+      "动态",
+      "生活方式",
+      "设计创意",
+      "新手友好"
+    ],
+    "date": "2026-09-23",
+    "summary_en": "Martynas Sagaitis offers an intimate glimpse into his current life through a curated collection of interests spanning physical, digital, and spiritual domains. The article showcases his practical exploration of modern technology—highlighting an electric bicycle that redefines urban mobility, Linux Mint as his primary operating system, and Claude Code as an accessible programming gateway. His physical interests include a German-made Raymon electric bike with impressive range, a LEGO Bonsai Tree that combines artistry with playfulness, and \"The Soul of Money,\" a reflective book on philanthropy. This content exemplifies contemporary digital nomadism, the democratization of technology, and the intersection of material and spiritual growth. Sagaitis demonstrates how everyday tools can expand personal horizons while maintaining grounded values, offering readers inspiration for their own personal inventory and potential transformation.\n\nThe piece stands out for its authentic self-documentation approach, blending practical tech reviews with philosophical reflection. It serves as both a tutorial for newcomers to Linux and programming, and a meditation on modern living. The author's transparent sharing of his current interests creates a relatable narrative that encourages readers to contemplate their own \"NOW\" moment, making it valuable for those seeking inspiration, practical guidance, and personal growth insights.",
+    "summary_zh": "Martynas Sagaitis分享了他当前生活的点滴，从物理、数字到精神层面，展示了现代科技与个人成长的交织。他介绍了电动自行车、LEGO Bonsai树、《The Soul of Money》等兴趣爱好，以及Linux Mint和Claude Code等数字工具。这个内容体现了当今数字游民的生活方式，展示了技术民主化与个人价值的结合。通过真实的自我记录，作者激励读者反思自己的“当下”，寻找个人成长与启发的可能性。",
+    "best_quote_en": "The LORD is my shepherd; I shall not want.",
+    "best_quote_zh": "耶和华是我的牧者，我必不致缺乏。"
   }
 ]
