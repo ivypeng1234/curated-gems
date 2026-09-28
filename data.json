@@ -1,124 +1,5 @@
 [
   {
-    "id": 447,
-    "title": "How To Be Successful",
-    "title_zh": "如何成功",
-    "model_used": "nvidia/nemotron-3-nano-omni-30b-a3b-reasoning:free",
-    "source": "Sam Altman",
-    "link": "https://blog.samaltman.com/how-to-be-successful",
-    "tags": [
-      "solve",
-      "startup-strategy",
-      "leadership",
-      "controversial"
-    ],
-    "tags_zh": [
-      "解决",
-      "创业策略",
-      "领导管理",
-      "争议观点"
-    ],
-    "date": "2019-01-24",
-    "summary_en": "The article offers 13 thoughts on outlier success, emphasizing compounding, self-belief, independent thinking, sales, risk-taking, focus, hard work, boldness, and internal drive. It argues that true success requires an exponential growth mindset, long-term perspective, and ownership of equity rather than linear labor. The author highlights that many principles are only effective after achieving baseline success, yet they are broadly applicable. Strengths: clear frameworks, actionable advice, emphasis on leverage and compounding. Weaknesses: assumes a certain level of privilege or prior achievement, may be less accessible to those starting from poverty; the broad scope can feel vague. The piece successfully blends personal anecdotes (e.g., Elon Musk story) with strategic concepts, making it both inspirational and instructive. Overall, it serves as a high‑level guide for aspiring founders, urging them to think beyond linear progress and cultivate exponential, self‑driven trajectories. The narrative also underscores the importance of resilience, noting that setbacks are inevitable but compound when approached with patience and a willingness to iterate. By framing success as a series of exponential steps rather than a linear climb, the author challenges conventional wisdom that equates effort with proportional reward, urging readers to re‑evaluate their career and business models for sustainable, high‑impact growth.",
-    "summary_zh": "文章提出13条实现出众成功的思路，强调复利效应、长期视角、自我信念与独立思考，以及主动销售与风险承担。作者指出，这些原则在已具备基础成功的人群中更易落地，但对普遍适用性仍有局限，尤其是缺乏起点的弱势群体。文中通过埃隆·马斯克的亲身经历，生动展示了坚定信念的力量，同时提醒工作与生活的平衡与自我驱动的重要性。整体而言，这篇指南兼具启发性与实用性，鼓励读者摆脱线性思维，以指数级增长为目标，追求更具意义的影响。它不仅提供了可操作的框架，还鼓励读者反思自身动机，避免盲目模仿，从而更真诚地追求个人价值与社会贡献。",
-    "best_quote_en": "I think the biggest competitive advantage in business—either for a company or for an individual’s career—is long-term thinking with a broad view of how different systems in the world are going to come together.",
-    "best_quote_zh": "我认为在商业中，无论是公司还是个人职业，最大的竞争优势是长期思考，并拥有对世界不同系统如何汇聚的广阔视角。"
-  },
-  {
-    "id": 448,
-    "title": "How Mitochondria Control Your Metabolism | Dr. Jared Rutter",
-    "title_zh": "线粒体如何控制你的新陈代谢 | Jared Rutter博士",
-    "model_used": "inclusionai/ling-3.0-flash-sante:free",
-    "source": "Huberman Lab",
-    "link": "https://www.hubermanlab.com/episode/how-mitochondria-control-your-metabolism-jared-rutter",
-    "tags": [
-      "learn",
-      "ai-research",
-      "medicine"
-    ],
-    "tags_zh": [
-      "学习",
-      "AI研究",
-      "医学健康"
-    ],
-    "date": "2026-09-07",
-    "summary_en": "Dr. Jared Rutter, a distinguished biochemist, illuminates mitochondria as far more than cellular power plants—they are master regulators of metabolism, growth, and cellular identity. The conversation reveals a fascinating hierarchy of energy prioritization: cells must choose between using fuel for immediate energy or diverting resources toward growth and replication, a decision with profound implications for cancer and aging. Rutter unpacks the Warburg Effect, showing how cancer cells reprogram their metabolism, and discusses the MPC1/MPC2 molecule discovery that reshaped our understanding of metabolic transport. What struck me most is the spatial distribution of mitochondria—different cells tailor their mitochondrial arrangements to specific metabolic demands, suggesting that health is not a single number but a trillions-strong negotiation. The link between excess energy, reactive oxygen species, and mitochondrial dysfunction offers a compelling framework for understanding modern metabolic diseases. This episode bridges fundamental biochemistry with practical health implications, positioning metabolism as the intersection of genetics, environment, and cellular decision-making.",
-    "summary_zh": "Rutter博士揭示线粒体远非简单能量工厂，而是代谢与细胞命运的主控者。细胞在能量利用与生长复制间的抉择深刻影响癌症与衰老。MPC分子发现重塑代谢运输认知，线粒体空间分布揭示细胞特异性代谢需求。过剩能量与活性氧的关联为现代代谢疾病提供全新解释框架。",
-    "best_quote_en": "Your metabolism is the composite of trillions of individual cells, each making decisions about energy allocation that collectively determine health and disease.",
-    "best_quote_zh": "你的新陈代谢是数万亿个独立细胞的总和，每个细胞都在做出能量分配的决策，这些决策共同决定了健康与疾病。"
-  },
-  {
-    "id": 449,
-    "title": "Meat of the Matter",
-    "title_zh": "肉的真相",
-    "model_used": "nvidia/nemotron-3-ultra-550b-a55b:free",
-    "source": "Harper’s Magazine",
-    "link": "https://harpers.org/2026/08/general-interest-meat-of-the-matter-erin-somers-jess-bergman-interview-cultivated-meat/",
-    "tags": [
-      "analyze",
-      "startup-funding",
-      "society",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "分析",
-      "创业融资",
-      "社会议题",
-      "未来预测"
-    ],
-    "date": "2026-08-30",
-    "summary_en": "This interview with Erin Somers reveals the cultivated meat industry as a microcosm of our techno-utopian delusions. What began as a climate salvation narrative has devolved into a landscape of abandoned factories, political theater, and the unsettling 'Knowing' of how slurry becomes dinner. Somers' journey from curious observer to reluctant meat-eater exposes the central tension: the technology works scientifically but fails economically, politically, and viscerally. The industry's pivot from 'save the world' to 'make mammoth meatballs for foodies' signals a profound surrender to market reality. Most haunting is Somers' realization that vegetarianism, once an ethical stance, becomes arbitrary when the boundary between 'real' and 'cultivated' flesh dissolves. This isn't just a story about failed startups—it's about how we outsource moral complexity to technology, only to confront the biological reality that meat, however produced, remains meat.",
-    "summary_zh": "这篇访谈像一面镜子，映照出我们对技术救世的集体妄想。培养肉从拯救气候的圣杯，沦为废弃工厂、政治表演和令人作呕的'知情感'。萨默斯从旁观者变为被迫食肉者，暴露了核心矛盾：科学上可行，却在经济、政治和生理层面全线崩塌。行业从'拯救世界'转向'为美食家造猛犸象肉丸'，是向市场现实的彻底投降。最令人不安的是：当'真肉'与'培养肉'的界限消融，素食主义的伦理边界也随之瓦解。这不只是创业失败的故事，而是我们如何将道德复杂性外包给技术，最终不得不面对生物学的赤裸真相——肉，无论怎么造，终究是肉。",
-    "best_quote_en": "The Knowing was what ruined it for me in the end, what ended up repulsing me, not the meat itself.",
-    "best_quote_zh": "毁掉我食欲的不是肉本身，而是'知情感'——那种对制造过程的图景式了解。"
-  },
-  {
-    "id": 450,
-    "title": "Billy Joel announces death of friend and longtime collaborator Jon Small",
-    "title_zh": "比利·乔尔宣告逝世：朋友且长期合作伙伴乔恩·史莫德",
-    "model_used": "poolside/laguna-xs-2.1:free",
-    "source": "NME",
-    "link": "https://www.nme.com/news/music/billy-joel-announces-death-of-friend-and-longtime-collaborator-jon-small-3967477?utm_source=rss&utm_medium=rss&utm_campaign=billy-joel-announces-death-of-friend-and-longtime-collaborator-jon-small",
-    "tags": [
-      "update",
-      "music-arts",
-      "design"
-    ],
-    "tags_zh": [
-      "动态",
-      "音乐艺术",
-      "设计创意"
-    ],
-    "date": "2026-09-08",
-    "summary_en": "This obituary chronicles the profound legacy of Jon Small, a pivotal figure in music video history whose collaborations with Billy Joel spanned decades and genres. Beyond his early work with the Hassles and Atilla, Small pioneered music video direction during MTV's formative era, creating iconic visuals for Whitney Houston, Run-DMC, and Aerosmith. The article reveals deeply personal dimensions—Small's presence during Joel's suicide attempt following the devastating affair with his wife, and their eventual reconciliation through collaborative projects like 'Uptown Girl' and 'Tell Her About It.' This narrative transcends mere celebrity death announcement, offering intimate insights into creative partnerships, personal betrayal, redemption, and the artistic relationships that shape cultural history. Small's Grammy nomination and influence on Long Island's music scene underscore his lasting impact on popular culture.",
-    "summary_zh": "乔恩·史莫德的逝世不仅是音乐史上的离别，更是一段创造经典音乐视频时代的见证。从哈斯尔斯乐队到 MTV 时代的开拓者，史莫德用专业与热情定义了流行文化的视觉语言。更值得铭记的是，他不仅是乔尔的合作伙伴，更是朋友——在那段人际坎坷中始终如一。这种跨越时代的友情与艺术，正是史莫德留给我们的永恒价值。",
-    "best_quote_en": "And Billy one day came up to me, became a little honest, and said to me, 'I'm in love with your wife.' So it was a very devastating thing for me, because these were basically my two best friends.",
-    "best_quote_zh": "乔恩·史莫德在纪录片中深情回忆：‘贝利有一天坦诚告诉我：『我爱上了你妻子。』这对我来说是非常毁灭性的，因为他们本是我最好的两个朋友。’ 这段人情冷暖，足以让人感受到友情与背叛交织的复杂情感。"
-  },
-  {
-    "id": 451,
-    "title": "Reinforcement Learning Progress",
-    "title_zh": "强化学习进展",
-    "model_used": "poolside/laguna-xs-2.1:free",
-    "source": "Sam Altman",
-    "link": "https://blog.samaltman.com/reinforcement-learning-progress",
-    "tags": [
-      "solve",
-      "ai-research",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "解决",
-      "AI研究",
-      "未来预测"
-    ],
-    "date": "2018-06-25",
-    "summary_en": "OpenAI's recent breakthrough demonstrates that deep reinforcement learning can tackle extremely complex, real-world-like problems through self-play training. By deploying PPO (Proximal Policy Optimization) to train five AI agents to defeat semi-professional Dota players—a game embodying strategy, tactics, coordination, and real-time decision-making—the research showcases remarkable progress in multi-agent systems. The agents achieved 90-95% win rates against two-week-old versions of themselves, learning entirely through self-play without human game data. This success validates that with sufficient computational resources and well-designed simulated environments, reinforcement learning can solve problems previously deemed too complex for traditional programming. The implications extend beyond gaming, suggesting a viable pathway toward general intelligence and practical applications in domains requiring sophisticated decision-making and coordination.",
-    "summary_zh": "OpenAI凭借自我对抗训练的强化学习技术，让五个AI代理击败半职业Dota选手，标志着深度强化学习在复杂决策问题上的重大突破。这不仅验证了算法能在计算资源充足的模拟环境中解决复杂问题，更意味着通用人工智能的重要一步。从策略到实时行动，从协调到反应，这种前所未有的学习能力正朝着更贴近现实的应用场景迈进。",
-    "best_quote_en": "This is a big deal because it shows that deep reinforcement learning can solve extremely hard problems whenever you can throw enough computing scale and a really good simulated environment that captures the problem you're solving.",
-    "best_quote_zh": "这是一个重大意义，因为它表明深度强化学习可以在投入足够的计算资源并构建能准确模拟目标问题的环境时，解决极其困难的问题。"
-  },
-  {
     "id": 452,
     "title": "Telluride 2026: Alpha Gang, The Liberation, The Idiots",
     "title_zh": "特柳赖德电影节2026：Alpha Gang、The Liberation 与 The Idiots",
@@ -2350,5 +2231,122 @@
     "summary_zh": "Martynas Sagaitis分享了他当前生活的点滴，从物理、数字到精神层面，展示了现代科技与个人成长的交织。他介绍了电动自行车、LEGO Bonsai树、《The Soul of Money》等兴趣爱好，以及Linux Mint和Claude Code等数字工具。这个内容体现了当今数字游民的生活方式，展示了技术民主化与个人价值的结合。通过真实的自我记录，作者激励读者反思自己的“当下”，寻找个人成长与启发的可能性。",
     "best_quote_en": "The LORD is my shepherd; I shall not want.",
     "best_quote_zh": "耶和华是我的牧者，我必不致缺乏。"
+  },
+  {
+    "id": 547,
+    "title": "Oasis’ ‘Live ’27’ tour completely sells out after staggered weekend ticket sales",
+    "title_zh": "Oasis' 'Live '27'演唱会全场售罄",
+    "model_used": "poolside/laguna-xs-2.1:free",
+    "source": "NME",
+    "link": "https://www.nme.com/news/music/oasis-live-27-tour-completely-sells-out-after-staggered-weekend-ticket-sales-3970994?utm_source=rss&utm_medium=rss&utm_campaign=oasis-live-27-tour-completely-sells-out-after-staggered-weekend-ticket-sales",
+    "tags": [
+      "update",
+      "music-arts",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "动态",
+      "音乐艺术",
+      "未来预测"
+    ],
+    "date": "2026-09-28",
+    "summary_en": "Oasis's highly anticipated 'Live '27' tour has completely sold out across all 42 dates spanning the UK, Europe, and US, following a more streamlined weekend ticket sale process. This marks a significant improvement from the chaotic 2024 reunion tour ticketing experience, which saw website crashes and dynamic pricing complaints. The staggered sales approach, implemented after fan backlash, resulted in a smoother purchasing experience that garnered positive feedback. The tour features multiple Glasgow residencies, Manchester's Etihad Stadium, and iconic venues like Knebworth and Slane Castle. While Noel Gallagher confirmed no new music will accompany the tour, fans continue to request deep cuts and rarities. Liam Gallagher suggested this could be Oasis's final tour, adding emotional weight to the sold-out shows. The announcement coincided with the release of the documentary 'Don't Look Back In Anger,' which received critical acclaim for capturing the band's legacy.",
+    "summary_zh": "劳伦斯·甘勒治父子用更有序的分阶段售票方式，成功将全球42场演唱会全部售罄。相较于2024年重组演唱会的网络拥堵与动态定价争议，此次流程更顺畅获乐迷好评。巴黎圣母院等经典场馆将迎来Oasis历史性演出，甘勒治兄弟透露或为决战之夜，纪录片《别回头怀恨》亦获四星好评，捕捉乐队魂魄。",
+    "best_quote_en": "That's all folks we have officially sold out no more tickets left. Congratulations to everyone who got a ticket and to the people who didn't sneak in fuck it yolo.",
+    "best_quote_zh": "那我们完事了，我们正式售罄，票已经全部售完。恭喜所有买到票的粉丝，也恭喜没抢到的——行就行， YOLO！"
+  },
+  {
+    "id": 548,
+    "title": "NYFF 2026: Opening Night Preview and Early Highlights",
+    "title_zh": "NYFF 2026：开幕夜预览与早期亮点",
+    "model_used": "nvidia/nemotron-3-ultra-550b-a55b:free",
+    "source": "RogerEbert.com",
+    "link": "https://www.rogerebert.com/festivals/nyff-2026-opening-night-preview-and-early-highlights",
+    "tags": [
+      "analyze",
+      "music-arts",
+      "leadership",
+      "controversial"
+    ],
+    "tags_zh": [
+      "分析",
+      "音乐艺术",
+      "领导管理",
+      "争议观点"
+    ],
+    "date": "2026-09-25",
+    "summary_en": "This dispatch from the 64th New York Film Festival reads less like a schedule and more like a critic's vindication. After a lean eight months yielding only three potential top-ten contenders, the festival's early screenings have suddenly delivered five films that could dominate year-end lists. The piece centers on two lightning rods: Cristian Mungiu's 'Fjord,' a Palme d'Or winner about Norwegian child services seizing a Romanian Christian family's children, and 'Naza,' Yuval Abraham and Rachel Szor's clandestine documentary exposing Israeli soldiers' testimony about Gaza. Both films weaponize cinema's capacity to unsettle—'Fjord' by framing state overreach as horror, 'Naza' by forcing complicity onto the viewer. The surrounding slate—Hamaguchi's caregiving drama, Firstman's queer comedy, Zvyagintsev's Russian rot thriller—suggests a festival unafraid of moral complexity. Gray's 'Paper Tiger' opens, DuVernay's '14th' closes, and Guadagnino's Altman biopic 'Artificial' looms as the year's definitive AI film. What emerges is a portrait of cinema reclaiming its urgency: not escapism, but confrontation.",
+    "summary_zh": "影评人年度十佳的焦虑在此得到缓解：前八个月仅三部入选候选，NYFF前三天便贡献五部。蒙吉乌《峡湾》将挪威强夺移民儿童拍成现实版恐怖片，戛纳金棕榈加身却被美式视角误读为右翼立场；《Naza》更炸裂——以色列情报人员亲述加沙屠杀细节，映后全场起立25分钟，内塔尼亚胡政府欲剥夺导演国籍。哈马口《突如其来》、弗斯特曼《Club Kid》、兹维亚金采夫《牛头怪》围绕照护、身份、腐败展开。格雷《纸老虎》开幕，杜威奈《第十四修正案》闭幕，瓜达尼诺《人造》直指奥特曼。这不是电影节，是良知的集体复苏。",
+    "best_quote_en": "Unless I miss my guess, 'Naza' will end up being not just greatly acclaimed but historic, with a greater impact on public perceptions and events than any previous movie.",
+    "best_quote_zh": "除非我判断失误，《Naza》将不仅是备受赞誉，更将成为历史性作品——其对公众认知与现实进程的影响，恐超越任何前作。"
+  },
+  {
+    "id": 549,
+    "title": "The Weasel and the Meaning of It All: Annie Dillard on How to Live",
+    "title_zh": "鼬鼠与存在的意义：安妮·迪拉德论如何生活",
+    "model_used": "inclusionai/ling-3.0-flash-sante:free",
+    "source": "The Marginalian",
+    "link": "https://www.themarginalian.org/2026/09/27/annie-dillard-weasel/",
+    "tags": [
+      "solve",
+      "writing-content",
+      "education",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "解决",
+      "写作内容",
+      "教育学习",
+      "未来预测"
+    ],
+    "date": "2026-09-27",
+    "summary_en": "Annie Dillard's encounter with a wild weasel becomes a profound meditation on how to live authentically in a world of infinite choice. The essay contrasts the weasel's existence—governed by pure necessity—with the human condition, burdened by consciousness, self-reference, and the paralysis of endless options. Dillard argues that we might learn from the weasel not to mimic its behaviors, but to adopt its mindlessness: a purity of being, living without bias or motive, open to time and death. The encounter itself is described as an enchantment—a moment where two creatures lock eyes and the world dismantles into meaning. The deepest insight emerges in Dillard's call to 'grasp your one necessity and not let it go,' suggesting that authentic living requires yielding to a single, fierce purpose rather than fighting against life's current. This is not a self-help manual but a poetic reminder that meaning arises not from overthinking but from embodied presence.",
+    "summary_zh": "迪拉德与鼬鼠的对视成为一则关于如何真实生活的寓言。鼬鼠活在必然性中，而人类被选择的自由所困。真正的智慧不是模仿野兽，而是习得那份无念的纯粹——不偏不倚地活着，向死而生，牢牢抓住唯一必需之物。这不是自助指南，而是一记温柔的当头棒喝：意义不在思虑中诞生，而在全然的临在里。",
+    "best_quote_en": "I think it would be well, and proper, and obedient, and pure, to grasp your one necessity and not let it go, to dangle from it limp wherever it takes you. Then even death, where you're going no matter how you live, cannot you part.",
+    "best_quote_zh": "我想，牢牢抓住你的唯一必需之物，不放手，柔软地悬挂在它无论带你去往何处的地方，这才算端正、纯洁、顺从。于是连死亡也无法将你分离——无论你如何生活，死亡终将到来，但它不能将你带走。"
+  },
+  {
+    "id": 550,
+    "title": "Watch Madonna team up with Charli XCX and Sabrina Carpenter for her first MTV VMAs performance in 23 years",
+    "title_zh": "Madonna首次时隔23年回归MTV VMAs舞台，与Charli XCX和Sabrina Carpenter合作",
+    "model_used": "nvidia/nemotron-3.5-lightning:free",
+    "source": "NME",
+    "link": "https://www.nme.com/news/music/watch-madonna-charli-xcx-sabrina-carpenter-mtv-vmas-performance-3970993?utm_source=rss&utm_medium=rss&utm_campaign=watch-madonna-charli-xcx-sabrina-carpenter-mtv-vmas-performance",
+    "tags": [
+      "update",
+      "music-arts"
+    ],
+    "tags_zh": [
+      "动态",
+      "音乐艺术"
+    ],
+    "date": "2026-09-28",
+    "summary_en": "Madonna's triumphant return to the MTV VMAs after 23 years serves as a masterclass in pop reinvention and legacy preservation. The performance ingeniously woven tracks from 'Confessions II' with surprise collaborations, creating a narrative arc that traced her artistic evolution from 1984's groundbreaking 'Like A Virgin' to present-day genre collaborations with Charli XCX and Sabrina Carpenter. The set design, transitioning from a piano to a Danceteria bathroom recreation, functioned as a visual timeline of dance music history. Beyond nostalgia, the performance signaled Madonna's continued relevance in the current pop landscape, particularly through her productive collaborations with Gen Z artists, suggesting a deliberate strategy to bridge generational gaps while maintaining her status as the 'Queen of Pop.' The seven awards cemented not just a successful performance, but a cultural moment where past and present pop aesthetics converged.",
+    "summary_zh": "Madonna时隔23年重返MTV VMAs，这次表演不仅是对辉煌过去的致敬，更是对当下流行文化的重新定义。从1984年的《Like A Virgin》到如今与Charli XCX、Sabrina Carpenter的跨代合作，整个舞台如同一部流行音乐的时间线。布景的转换——从钢琴到Danceteria浴室，再到白色面纱合唱团，不仅是视觉盛宴，更是对她艺术历程的深度回望。她与新生代艺人的合作，巧妙地跨越了代际鸿沟，证明了“流行天后”依然具备引领潮流的能力，而非仅仅停留在怀旧的边缘。",
+    "best_quote_en": "'Madonna opening the VMAs 2026 (featuring Sabrina Carpenter, Charli XCX)' - Twitter post capturing the magnitude of the reunion.",
+    "best_quote_zh": "'Madonna开场的2026 VMAs（ Sabrina Carpenter，Charli XCX 合作}' - 探捕这一盛况的推文。"
+  },
+  {
+    "id": 551,
+    "title": "I’m Not Going Anywhere: Twiggy and Sadie Frost on “Twiggy”",
+    "title_zh": "我不会消失：Twiggy 和 Sadie Frost 谈《Twiggy》",
+    "model_used": "cohere/north-mini-code:free",
+    "source": "RogerEbert.com",
+    "link": "https://www.rogerebert.com/interviews/im-not-going-anywhere-twiggy-and-sadie-frost-on-twiggy",
+    "tags": [
+      "guide",
+      "general",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "指导",
+      "general",
+      "数据驱动"
+    ],
+    "date": "2026-09-25",
+    "summary_en": "Director Sadie Frost’s documentary “Twiggy” offers a richly layered portrait of Leslie Hornby, the teenage model who became the defining face of the 1960s Mod revolution. Through intimate interviews with both Frost and Twiggy, the film unpacks how Twiggy’s distinctive look—penciled lashes, boyish cut, and the iconic “Twiggies” eye line—redefined fashion while also serving as a blueprint for youthful rebellion. The narrative moves beyond the glossy image to explore Twiggy’s subsequent work in theatre, film, and music, illustrating how she turned early fame into a multifaceted career. Frost’s approach, built on mutual trust and respect, foregrounds the collaborative nature of memory and the ways in which personal agency can reshape cultural legacy. The documentary also draws compelling parallels between the Mod era’s social upheaval and today’s revival of 1960s aesthetics, suggesting that Twiggy’s influence persists as a living, evolving phenomenon. Ultimately, “Twiggy” is both a celebration of an icon’s enduring impact and a thoughtful meditation on how individual stories can illuminate broader cultural shifts.",
+    "summary_zh": "这部纪录片深描传奇模特Twiggy，从时尚ICON到跨领域艺术家，展现60年代Mod革命的影响。导演Frost与Twiggy的信任对话，揭示时代美学与个人力量的共鸣，引发观众反思当今文化重塑与身份认同的意义。",
+    "best_quote_en": "I’m not going anywhere.",
+    "best_quote_zh": "我不会消失。"
   }
 ]
