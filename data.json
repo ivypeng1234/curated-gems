@@ -1,124 +1,5 @@
 [
   {
-    "id": 452,
-    "title": "Telluride 2026: Alpha Gang, The Liberation, The Idiots",
-    "title_zh": "特柳赖德电影节2026：Alpha Gang、The Liberation 与 The Idiots",
-    "model_used": "nex-agi/nex-n2.5-mini:free",
-    "source": "RogerEbert.com",
-    "link": "https://www.rogerebert.com/festivals/telluride-2026-alpha-gang-the-liberation-the-idiots",
-    "tags": [
-      "learn",
-      "music-arts",
-      "case-study"
-    ],
-    "tags_zh": [
-      "学习",
-      "音乐艺术",
-      "案例研究"
-    ],
-    "date": "2026-09-08",
-    "summary_en": "This dispatch is a critic’s field report rather than a conventional film review, and its real value lies in the contrast it draws across three festival films. Alpha Gang is read as intentionally excessive: alien invaders, Elvis imagery, deadpan comedy, and grotesque violence are not merely noise but a distorted mirror for dehumanization and the collapse of empathy. The Liberation receives a more conflicted response. Its subject—grooming, trauma, family fracture, and the search for meaning—has genuine psychological force, especially through Carrie Coon’s performance, yet the article argues that the film’s fractured chronology and borrowed autobiographical distance weaken its emotional claim. The Idiot(s) is treated as a promising premise that exhausts itself through repetition, crude humor, and an underdeveloped portrait of Anna Dostoyevsky. Across all three, the critic’s central concern is not spectacle or controversy but whether a film’s formal choices make its human insight visible. The piece is most compelling when it asks how style, structure, and performance either reveal or obscure moral complexity.",
-    "summary_zh": "这不是普通的影评，而是一篇带着现场温度的电影节观察。Alpha Gang用夸张暴力映照人的他者化；The Liberation有创伤与操控的心理重量，却败在叙事碎片化和情感距离；The Idiots premise锋利，却因重复和人物单薄耗尽力量。真正打动人的，是评论者不断追问：形式究竟是在揭示人性，还是在遮蔽它？",
-    "best_quote_en": "“Alpha Gang is a trippy, hyperviolent explosion of cool style and cooky jokes. It’s also a reminder that Bautista is one of our great deadpan comedians and Harrison Jr. can do just about anything, even seemingly falling in love with a hawk named Periwinkle as he does here.”",
-    "best_quote_zh": "“Alpha Gang是一场迷幻、血腥、充满酷感和古怪笑点的视觉爆发。它同时提醒我们：Bautista是我们最优秀的冷面喜剧演员之一，Harrison Jr.几乎什么都能做到，甚至能真心爱上名叫Periwinkle的鹰。”"
-  },
-  {
-    "id": 453,
-    "title": "Kahlil Gibran on the Courage to Weather the Uncertainties of Love",
-    "title_zh": "纪伯伦关于爱情不确定性的勇气",
-    "model_used": "nvidia/nemotron-3-super-120b-a12b:free",
-    "source": "The Marginalian",
-    "link": "https://www.themarginalian.org/2026/09/08/kahlil-gibran-prophet-love/",
-    "tags": [
-      "learn",
-      "health-wellness",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "学习",
-      "健康养生",
-      "未来预测"
-    ],
-    "date": "2026-09-08",
-    "summary_en": "This profound meditation on love draws from Kahlil Gibran's 'The Prophet' to explore love not as a passive emotion but as an active, transformative force that demands courage, vulnerability, and surrender. The analysis reveals love's dual nature: it both elevates and humbles, nurtures and challenges, ultimately serving as a path to self-discovery and connection with life's deeper essence. Gibran's poetic imagery portrays love as a divine alchemist that strips away ego illusions through processes of threshing, sifting, and kneading, transforming us into 'sacred bread' worthy of spiritual nourishment. The piece insightfully contrasts those who seek love's comforts while avoiding its trials with those who embrace love's full spectrum—including its wounds and joys—as essential to authentic connection. What emerges is not merely relationship advice but a spiritual philosophy positioning love as the ultimate teacher of the heart's secrets and a pathway to becoming 'a fragment of Life’s heart.'",
-    "summary_zh": "这篇对爱情的深刻沉思源自纪伯伦《先知》，将爱描绘为需要勇气和脆弱性的主动转化力量。爱既提升又谦卑我们，既滋养又挑战我们，最终成为自我发现和连接生命深层本质的道路。纪伯伦用诗意的意象将爱比作神圣的炼金术士，通过脱粒、筛选和揉捏的过程剥离自我幻象，将我们转化为值得精神滋养的“神圣面包”。文章深刻对比了那些只寻求爱情安慰而回避其考验的人，与那些全心拥抱爱情完整谱系——包括其创伤与喜悦——作为真实连接必要条件的人。这不仅是恋爱建议，更是一种精神哲学，将爱定位为揭示心灵奥秘的终极导师，以及成为“生命之心一片”的途径。",
-    "best_quote_en": "Think not you can direct the course of love, for love, if it finds you worthy, directs your course.",
-    "best_quote_zh": "不要以为你可以指引爱情的方向，如果爱情觉得你值得，它就会指引你的方向。"
-  },
-  {
-    "id": 454,
-    "title": "Kobuk the Destroyer",
-    "title_zh": "Kobuk the Destroyer",
-    "model_used": "inclusionai/ling-3.0-flash-fin:free",
-    "source": "99% Invisible",
-    "link": "https://99percentinvisible.org/episode/682-kobuk-the-destroyer/",
-    "tags": [
-      "learn",
-      "general",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "学习",
-      "general",
-      "未来预测"
-    ],
-    "date": "2026-09-08",
-    "summary_en": "This episode highlights the invisible yet critical world of product testing through Alex Davies' book, revealing how test engineers quietly shape the safety and reliability of everyday objects—from vehicles to camping gear. What makes this content compelling is its ability to transform a niche, overlooked profession into a narrative of genuine consequence and curiosity. The real insight lies not just in the mechanics of testing, but in the philosophical question of who bears the responsibility when products fail. This piece serves as a reminder that behind every seamless consumer experience is a hidden architecture of rigorous, often destructive, evaluation. It challenges us to reconsider the value of 'unseen' labor and the intellectual rigor required to anticipate failure before it reaches the public.",
-    "summary_zh": "这期节目通过Alex Davies的著作，揭示了一个隐形却至关重要的领域——产品测试工程。它不仅展示了测试工程师如何默默塑造日常用品的安全与可靠性，更深层地触及了一个哲学命题：当产品失效时，责任归属何在。其核心价值在于将一个被忽视的职业转化为充满张力的叙事，促使我们重新审视那些“不可见”的劳动及其背后的智识严谨性。",
-    "best_quote_en": "In your day to day life you are constantly interacting with items that have undergone all sorts of product testing. From the cars we drive, to the keyboards we type on, and the bear canisters that keep us safe while we camp, product testing touches all aspects of life.",
-    "best_quote_zh": "在你的日常生活中，你无时无刻不在与那些经历过各种产品测试的物品互动。从我们驾驶的汽车，到我们敲击的键盘，再到我们在露营时保命的熊罐，产品测试触及生活的方方面面。"
-  },
-  {
-    "id": 455,
-    "title": "Irony, Contradiction, and Perspective: Na Hong-jin and Hoyeon on “Hope”",
-    "title_zh": "讽刺、矛盾与视角：那洪진与赵惠连论“希望”",
-    "model_used": "poolside/laguna-s-2.1:free",
-    "source": "RogerEbert.com",
-    "link": "https://www.rogerebert.com/interviews/hope-na-hong-jin-hoyeon-interview",
-    "tags": [
-      "inspire",
-      "writing-content",
-      "music-arts",
-      "case-study"
-    ],
-    "tags_zh": [
-      "启发",
-      "写作内容",
-      "音乐艺术",
-      "案例研究"
-    ],
-    "date": "2026-09-08",
-    "summary_en": "This conversation with director Na Hong-jin and actor Hoyeon reveals 'Hope' as a genre-bending meditation on perspective and belief. Far from a conventional monster film, Na frames the alien encounter as a mirror reflecting human hypocrisy—where victims and perpetrators shift depending on viewpoint. His use of Biblical bookends (Luke to Hebrews) underscores his ongoing exploration of faith in an absurd universe. Hoyeon's character Sung-ae embodies the rural Korean crisis of youth abandonment, her simplicity serving as a vessel for collective human emotion. The film's excessive expletives ('shibal') and chaotic action sequences are not mere spectacle but deliberate choices to ground cosmic absurdity in raw, unfiltered humanity. What emerges is a film that weaponizes genre conventions to ask uncomfortable questions about morality, community, and the stories we tell ourselves to maintain hope.",
-    "summary_zh": "纪录片般的访谈展现了那洪진如何用怪诞的科幻题材反思人性的矛盾——在‘希望’中，外星人不是简单的威胁，而是人类虚伪的投影。赵惠连饰演的年轻女警不仅是个体，更代表着衰退乡村对年轻人的召唤。电影通过暴力与信仰、讽刺与纯真的对立，问我们：希望究竟是什么？",
-    "best_quote_en": "I see the use of the word as an expression of exclamation and surprise by characters who have to deal with a cosmically absurd situation.",
-    "best_quote_zh": "电影的结局让我们看到，面对外星人的降临，人类在反思自身过去的行为时显得渺小而惊恐——而外星人却反而成为了寄托希望的那一方。"
-  },
-  {
-    "id": 456,
-    "title": "How to Break Free from the Tyranny of Certainty: The Japanese Concept of “Ma”",
-    "title_zh": "如何从确定性的奴役中解脱：日本概念“间（Ma）”",
-    "model_used": "liquid/lfm-2.5-2.6b:free",
-    "source": "The Marginalian",
-    "link": "https://www.themarginalian.org/2026/09/07/ma/",
-    "tags": [
-      "learn",
-      "science",
-      "design",
-      "controversial"
-    ],
-    "tags_zh": [
-      "学习",
-      "科学研究",
-      "设计创意",
-      "争议观点"
-    ],
-    "date": "2026-09-08",
-    "summary_en": "The article examines \"ma\"—the Japanese concept of interval or opening—as a profound antidote to modern certainty. Through the lens of Kengo Kuma and Hasui Kawase's work, it illustrates how intentional emptiness generates creativity, contemplation, and embodied cognition. The core insight is that true understanding emerges not from complete knowledge but from embracing productive uncertainty—the \"not-know.\" This directly challenges the \"dominant addiction of the modern mind\" that mistakes surety for truth. By bridging Japanese aesthetics with Western cognitive science, the piece reveals how architectural voids and momentary pauses enable fresh perspectives and heightened awareness. Practically, the article suggests cultivating \"ma\" as a mental discipline that transforms how we engage with reality. Rather than seeking absolute answers, it encourages openness to the fertile in-betweenness where meaning emerges organically.",
-    "summary_zh": "本文探讨了日本美学核心概念“间（Ma）”，作为对现代确定性迷思的深刻反思。通过建筑师Kengo Kuma和画家Hasui Kawase的案例，文章阐释了如何通过有意识的空灵空间激发创造力与观察力。本文的关键洞见在于：真正的理解并非源于绝对知识，而是来自拥抱建设性的不知——即“不知”。这种态度挑战了当代人将“确定性”误认为真理的倾向，将传统日本美学与西方认知科学相结合，揭示了空虚与时间流动如何孕育新生。实用价值在于鼓励读者转向开放的心态，以“间”的智慧重塑感知方式，在生活与设计实践中获得更深层次的清醒与自由。",
-    "best_quote_en": "Certainty is the dominant addiction of the modern mind.",
-    "best_quote_zh": "确定性是现代人的主导成瘾。"
-  },
-  {
     "id": 457,
     "title": "Oasis: Don’t Look Back in Anger: Fan-service rockumentary is very much the Gallagher brothers’ show",
     "title_zh": "《Oasis：别回头怀疑人生》：粉丝向的摇滚纪录片，实质上是Gallagher兄弟的个人秀",
@@ -2348,5 +2229,122 @@
     "summary_zh": "这部纪录片深描传奇模特Twiggy，从时尚ICON到跨领域艺术家，展现60年代Mod革命的影响。导演Frost与Twiggy的信任对话，揭示时代美学与个人力量的共鸣，引发观众反思当今文化重塑与身份认同的意义。",
     "best_quote_en": "I’m not going anywhere.",
     "best_quote_zh": "我不会消失。"
+  },
+  {
+    "id": 552,
+    "title": "Tootle of a Devilish Song",
+    "title_zh": "魔性歌曲的土卢",
+    "model_used": "cohere/north-mini-code:free",
+    "source": "99% Invisible",
+    "link": "https://99percentinvisible.org/episode/685-tootle-of-a-devilish-song/",
+    "tags": [
+      "inspire",
+      "ai-research",
+      "music-arts",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "启发",
+      "AI研究",
+      "音乐艺术",
+      "未来预测"
+    ],
+    "date": "2026-09-29",
+    "summary_en": "This 99% Invisible episode explores the mysterious origins of yodeling, tracing its evolution from Alpine cattle herding communication to a defining element of Swiss national identity and, ultimately, to its unexpected role in shaping American music. The narrative reveals how a seemingly simple pastoral pastime transcended cultural boundaries, emerging as a global phenomenon that bridges centuries of tradition with cross-continental musical innovation. The episode invites listeners to appreciate the unexpected ways cultural practices can evolve and influence artistic expression across geographical and temporal divides.",
+    "summary_zh": "这期99% Invisible播客探讨了约旦的神秘起源，追溯了它从阿尔卑斯山牧民的远距离交流工具，到成为瑞士民族认同的标志性民间传统和精致表演艺术的演变过程。故事揭示了19世纪初发生的事件，如何将这种典型的瑞士唱法带出了阿尔卑斯山，穿越了大西洋，帮助定义了美国音乐风格。这种看似简单的牧区娱乐活动，如何跨越文化界限，成为全球现象，影响着艺术表达的演变。",
+    "best_quote_en": "The eerie, warbling sound might have been first used by cattle herders in the mountains, communicating across long distances; or as part of religious ceremonies; or just for fun.",
+    "best_quote_zh": "这种可怕的颤音可能最早被山中的牧民所使用，用于长距离沟通；或者作为宗教仪式的一部分；或者只是为了娱乐。"
+  },
+  {
+    "id": 553,
+    "title": "Works-in-Progress Showcase projects announced for 2026 BFI London Film Festival",
+    "title_zh": "2026年伦敦影展工作进行中展览项目公布",
+    "model_used": "poolside/laguna-xs-2.1:free",
+    "source": "BFI",
+    "link": "https://www.bfi.org.uk/london-film-festival/news/works-progress-showcase-projects-announced-2026-bfi-london-film-festival",
+    "tags": [
+      "update",
+      "music-arts",
+      "science",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "动态",
+      "音乐艺术",
+      "科学研究",
+      "未来预测"
+    ],
+    "date": "2026-09-28",
+    "summary_en": "The BFI London Film Festival's Works-in-Progress Showcase presents eight compelling UK and Irish feature films and documentaries at various stages of post-production and production. This industry-focused event serves as a crucial discovery platform where filmmakers present exclusive extracts to international buyers, sales agents, distributors, and festival programmers. The selection reveals remarkable diversity in storytelling approaches, from Maythem Ridha's deeply personal documentary '40 Years of Silence' exploring trauma and political history, to Maryam Tafakory's politically charged hybrid 'Gol-e Sorkh' examining Iranian censorship. Other notable projects include 'Echolalic's' intimate exploration of neurodiversity and professional boundaries, and 'Switch's' satirical examination of gender dynamics in contemporary society. The showcase demonstrates the UK's vibrant independent filmmaking landscape while providing essential networking opportunities through roundtable discussions and masterclasses. With strong international festival track records for previous showcase participants, these 2026 projects represent significant potential for global distribution and critical acclaim. The event exemplifies how film festivals function as vital ecosystems connecting emerging talent with international markets.",
+    "summary_zh": "伦敦影展工作进行中展览聚焦8部UK爱尔兰独立电影，作为行业发现平台连接全球买家与创作者。从政治创伤纪实到性别幽默的多元叙事映照UK电影繁荣。过往参展作品成功进入洛卡纳、檢讀等国际影展，此次项目具备全球发行潜力。影展作为创意经济枢纽，连接新锐人才与国际市场，推动跨文化对话与艺术价值实现。",
+    "best_quote_en": "This year's selection spans a range of work across narrative and non-fiction forms, from both debut and established practitioners.",
+    "best_quote_zh": "今年的选作跨越叙事与纪录片形式，涵盖新锐与资深创作者的作品。"
+  },
+  {
+    "id": 554,
+    "title": "“Big Cherry” by Photographer Ksenia Mikhailova",
+    "title_zh": "摄影师 Ksenia Mikhailova 的《大樱桃》",
+    "model_used": "google/gemma-4-26b-a4b-it:free",
+    "source": "BOOOOOOOM",
+    "link": "https://www.booooooom.com/2026/09/28/big-cherry-by-photographer-ksenia-mikhailova/",
+    "tags": [
+      "update",
+      "music-arts",
+      "design"
+    ],
+    "tags_zh": [
+      "动态",
+      "音乐艺术",
+      "设计创意"
+    ],
+    "date": "2026-09-28",
+    "summary_en": "In her captivating series 'Big Cherry,' photographer Ksenia Mikhailova explores a surreal and vibrant aesthetic through striking visual compositions. The collection utilizes bold colors, playful imagery, and a dreamlike atmosphere to transform everyday elements into something extraordinary. By playing with scale and texture, Mikhailova creates a whimsical world that invites viewers to reconsider their perception of reality. Her work seamlessly blends fashion-like elegance with a pop-art sensibility, resulting in a visually stunning exploration of color, form, and playful imagination that lingers in the mind long after viewing.",
+    "summary_zh": "在摄影系列《大樱桃》中，摄影师 Ksenia Mikhailova 通过引人注目的视觉构图探索了一种超现实且充满活力的美学。该系列利用大胆的色彩、俏皮的意象和梦幻般的氛围，将日常元素转化为非凡的存在。通过对比例与纹理的巧妙运用，她创造了一个奇幻世界，引导观众重新审视现实。她的作品将时尚的优雅与波普艺术的感性完美融合，呈现了一场关于色彩、形态与想象力的视觉盛宴。",
+    "best_quote_en": "A whimsical world that invites viewers to reconsider their perception of reality.",
+    "best_quote_zh": "一个奇幻的世界，邀请观众重新审视他们对现实的感知。"
+  },
+  {
+    "id": 555,
+    "title": "‘I can’t be the mum I want to be’: why does parenthood feel so impossible for millennial mothers?",
+    "title_zh": "'我无法成为想成为的母亲'：为什么为人父母对千禧一代母亲来说如此不可能？",
+    "model_used": "inclusionai/ling-3.0-flash-sante:free",
+    "source": "Women | The Guardian",
+    "link": "https://www.theguardian.com/lifeandstyle/2026/sep/28/parenthood-millennial-mothers-overwhelmed",
+    "tags": [
+      "analyze",
+      "ai-research",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "分析",
+      "AI研究",
+      "数据驱动"
+    ],
+    "date": "2026-09-27",
+    "summary_en": "This article dissects the structural impossibility facing millennial mothers caught between rising economic pressures and outdated social infrastructure. Through Katherine's story—who turned to ChatGPT for life advice—the piece reveals how even AI can only mirror the problem back, offering no real solutions. ABS data shows single and partnered mothers alike face crushing time poverty, while care work hours have increased for both genders over decades without a corresponding shift in domestic labor. Prof Lyn Craig's research exposes the core contradiction: the workplace has become 'too greedy,' demanding more hours even as women's paid work participation surged, yet homes have not adjusted. School schedules designed for traditional family structures, workplace cultures equating success with visible busyness, and policy failures around parental leave and childcare create a system where mothers are set up to fail. The deeper insight is that this isn't a personal failing but a structural one—and solutions require cultural rewiring, not individual coping strategies.",
+    "summary_zh": "这篇文章揭示千禧一代母亲面临的结构性困境——经济压力上升与社会基础设施滞后之间的矛盾。Katherine向ChatGPT求助的案例表明，即使AI也只能反射问题而无解决方案。澳统计局数据显示，无论单身或已婚母亲都面临严重时间贫困，照顾工作时长持续增加但家庭劳动分工未见根本改变。职场'过于贪婪'的文化、学校制度设计缺陷、育儿假与托育政策缺失，共同构成让母亲注定失败的系统。核心洞察：这不是个人失败，而是结构问题——解决方案需要文化层面重塑，而非单纯个人应对策略。",
+    "best_quote_en": "Millennial women, it seems, are not trapped by their homes but by an impossible expectation that they maintain everything – career, motherhood, partnership, self-care – simultaneously and without complaint.",
+    "best_quote_zh": "千禧一代女性似乎并非被家庭困住，而是被困在一种不可能的期望中——必须同时、无怨无悔地维持事业、母亲角色、伴侣关系和自我关怀。"
+  },
+  {
+    "id": 556,
+    "title": "100 Objects #19: Western Electric 500 Series",
+    "title_zh": "100 Objects #19: Western Electric 500 Series",
+    "model_used": "nvidia/nemotron-3-nano-omni-30b-a3b-reasoning:free",
+    "source": "99% Invisible",
+    "link": "https://99percentinvisible.org/episode/100-objects-019-western-electric-500-series/",
+    "tags": [
+      "solve",
+      "ai-research"
+    ],
+    "tags_zh": [
+      "解决",
+      "AI研究"
+    ],
+    "date": "2026-09-25",
+    "summary_en": "This episode of 99% Invisible explores the cultural and design legacy of the Western Electric 500 Series telephone, which dominated communication spaces for over five decades. Through Adam Savage's expert lens, the episode reveals how this phone achieved iconic status through industrial design excellence, durability, and standardization — qualities that made it 'the default phone' across homes and offices. The deeper insight lies in examining what modern technology has sacrificed in pursuit of convenience and obsolescence: the 500 Series represents a rare era of long-term product stewardship and user-centered engineering. Its decline reflects shifting priorities in tech — from reliability and repairability to planned obsolescence and rapid iteration. The conversation serves as both historical reflection and subtle critique of contemporary design values, prompting listeners to reconsider what 'progress' truly means in consumer technology.",
+    "summary_zh": "本期《100 Objects》深度剖析西方电气500系列电话的辉煌与消逝，揭示其作为半个世纪「通用之电话」的根源：工业级耐用性、标准化设计与用户信任的积累。亚当·萨维的专业视角让我们看到，这部电话不仅是技术器件，更是工业设计与产品责任的典范。它的衰落恰当时代科技追求快速迭代与计划性淘汰的缩影，令人深省：当我们抛弃可修复、经得起时间考验的器物时，是否也丧失了某种实质性的连接与稳定？",
+    "best_quote_en": "We don't live in a world where things are built to last anymore — but the 500 Series was built to last.",
+    "best_quote_zh": "我们不再生活在事物被建造得经久耐用的世界里 —  — 而500系列正是被建造得经久耐用的。"
   }
 ]
