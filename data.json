@@ -1,122 +1,5 @@
 [
   {
-    "id": 457,
-    "title": "Oasis: Don’t Look Back in Anger: Fan-service rockumentary is very much the Gallagher brothers’ show",
-    "title_zh": "《Oasis：别回头怀疑人生》：粉丝向的摇滚纪录片，实质上是Gallagher兄弟的个人秀",
-    "model_used": "poolside/laguna-xs-2.1:free",
-    "source": "BFI",
-    "link": "https://www.bfi.org.uk/sight-and-sound/reviews/oasis-dont-look-back-anger-fan-service-rockumentary-very-much-gallagher-brothers-show",
-    "tags": [
-      "analyze",
-      "music-arts"
-    ],
-    "tags_zh": [
-      "分析",
-      "音乐艺术"
-    ],
-    "date": "2026-09-09",
-    "summary_en": "This documentary chronicles Oasis's 2025 reunion tour through the lens of fan culture and sibling reconciliation, revealing more about audience devotion than musical spectacle. While the concert footage itself lacks visual dynamism, the film's strength lies in its exploration of how Oasis's music transcended generational boundaries, evolving from 1990s Britpop rebellion to universal anthems that moved from Manchester to Tokyo. The Gallagher brothers provide unexpectedly reflective commentary, with Noel revealing improved family relationships and Liam offering wry wisdom about aging in the music industry. However, the film prioritizes fan service over critical examination, glossing over the genuine tensions that once defined the band while celebrating their comeback as triumphant rather than complex. The documentary succeeds in documenting how music creates community across cultures and decades, particularly through moving sequences featuring diverse fans including a Manchester bombing survivor and Argentine football enthusiasts. Yet it remains fundamentally a celebratory portrait that avoids uncomfortable questions about the band's fractured history.",
-    "summary_zh": "这部纪录片用粉丝文化和兄弟和解的视角讲述了Oasis 2025年复出演出的故事，展现了观众热情不及音乐现场的视觉冲击力。 Gallagher兄弟带来了意想不到的沉思，尤其是Noel透露家庭关系改善，Liam以讽刺幽默看待音乐人生涯的成熟。影片聚焦粉丝热情，记录了Britpop从曼彻斯特到东京的普遍共鸣，却回避了带裂痕的历史。",
-    "best_quote_en": "When Oasis broke up it felt like my child had died",
-    "best_quote_zh": "当Oasis解散时，感觉就像失去了我的孩子"
-  },
-  {
-    "id": 458,
-    "title": "Illustrator Spotlight: kokooma",
-    "title_zh": "插画家聚焦：kokooma",
-    "model_used": "nex-agi/nex-n2.5-pro:free",
-    "source": "BOOOOOOOM",
-    "link": "https://www.booooooom.com/2026/09/09/illustrator-spotlight-kokooma/",
-    "tags": [
-      "update",
-      "design",
-      "music-arts"
-    ],
-    "tags_zh": [
-      "动态",
-      "设计创意",
-      "音乐艺术"
-    ],
-    "date": "2026-09-09",
-    "summary_en": "This visual profile is less an article than an invitation to slow down and look. Its fifteen images establish a gallery-like encounter with kokooma’s illustration, while the near-absence of biography, process notes, or critical context leaves interpretation almost entirely to the viewer. That restraint can be powerful: the work remains unframed, and discovery of the artist’s own site is encouraged. Yet the format also limits learning. We can appreciate recurring visual qualities, but cannot understand how the practice developed, what ideas motivate it, or where it sits within contemporary illustration. The piece therefore succeeds most as inspiration and portfolio exposure, not as analysis or a practical guide. Its real value depends on what viewers do next—whether they follow the links, compare works over time, and construct their own reading of the imagery. As cultural curation, it opens a door; as editorial criticism, it barely enters the room. I find that openness refreshing, but also a missed opportunity to turn visual attention into lasting insight.",
-    "summary_zh": "这篇“聚焦”更像一场安静的线上展览，而非完整的艺术家介绍。十五幅作品让观者直接面对kokooma的视觉世界，却几乎不提供生平、创作过程或评论框架。留白赋予作品自我言说的空间，也促使人点击官网继续探索；但信息不足又削弱了学习与研究价值。我们能看到图像，却难以理解风格如何形成、创作关心什么。它适合寻找灵感，却未必能带来深刻认知。",
-    "best_quote_en": "As cultural curation, it opens a door; as editorial criticism, it barely enters the room.",
-    "best_quote_zh": "作为文化策展，它为观者打开了一扇门；作为编辑评论，它却几乎未曾真正进入房间。"
-  },
-  {
-    "id": 459,
-    "title": "Jess Cartner-Morley on fashion: this sweltering summer, I finally stopped giving a tuck",
-    "title_zh": "杰斯·卡特纳-莫利谈时尚：在这个酷热难耐的夏天，我终于不再把上衣塞进裤腰",
-    "model_used": "nex-agi/nex-n2.5-pro:free",
-    "source": "Women | The Guardian",
-    "link": "https://www.theguardian.com/fashion/2026/sep/09/jess-cartner-morley-on-fashion-this-sweltering-summer-i-finally-stopped-giving-a-tuck",
-    "tags": [
-      "update",
-      "lifestyle",
-      "ai-research",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "动态",
-      "生活方式",
-      "AI研究",
-      "未来预测"
-    ],
-    "date": "2026-09-09",
-    "summary_en": "Jess Cartner-Morley turns one small styling habit—the tucked-in shirt—into a sharp observation about heat, taste and self-surveillance. The 2026 heatwave did not merely make loose clothing practical; it exposed how much “polish” can depend on constriction. Her comparison of couture clients, street-style dressers and hot-climate traditions suggests that comfort can become a cultural signal before fashion institutions acknowledge it. I find the strongest passage in her admission that cinching was also an attempt to look smaller: a routine outfit choice quietly carries gendered discipline. Yet the essay is not a manifesto. It recognizes that loose silhouettes can still be styled, even offering a reverse French tuck for readers unable to abandon structure entirely. Its broader lesson is that trends often arrive through bodily necessity rather than aesthetic revelation. The piece is engaging and useful, though its claims about looking “out of touch” remain deliberately subjective. What lingers is the idea that climate can loosen not only fabric, but also the habits by which women police their bodies.",
-    "summary_zh": "这篇文章最打动我的，并非“衬衫不必塞进去”这一结论，而是作者承认：塞衣角既为了凉快，也源于想让自己显得更小。时尚常把束缚包装成利落，把舒适说成随意；酷热却迫使人们重新检验这套规则。从高级定制秀场到日常穿搭，宽松轮廓的流行说明趋势往往先由身体经验推动，再由审美话语追认。作者没有把解放说得绝对，反而保留“反向法式塞法”，提醒我们改变习惯可以循序渐进。真正值得思考的是：当气候持续改变穿着，女性是否也能少一点对腰线和身材的自我监视，多一点对身体感受的信任。",
-    "best_quote_en": "Tucking my shirt in was making me hot, and – this is the really bad part – making me look out of touch",
-    "best_quote_zh": "把衬衫塞进裤腰，不但让我更热，更糟的是，还让我显得跟不上时代。"
-  },
-  {
-    "id": 460,
-    "title": "Orthodox Privilege",
-    "title_zh": "正统特权",
-    "model_used": "dots-studio/dots-3-note-preview:free",
-    "source": "Paul Graham",
-    "link": "http://www.paulgraham.com/orth.html",
-    "tags": [
-      "solve",
-      "general",
-      "controversial"
-    ],
-    "tags_zh": [
-      "解决",
-      "general",
-      "争议观点"
-    ],
-    "date": "2026-09-10",
-    "summary_en": "This essay introduces the concept of 'orthodox privilege'—a psychological blindness where conventional-minded individuals assume it is universally safe to express opinions, simply because their own views align with current social norms. Drawing on Einstein's observation about the difficulty of holding non-conformist views, the author argues that this form of privilege is uniquely resistant to correction through education alone. Unlike other privileges, which can be mitigated by exposure to diverse perspectives, orthodox privilege requires a fundamental shift toward independent thinking. The piece is both a philosophical inquiry and a social critique, challenging the illusion that our era is uniquely free of taboo truths. It suggests that the inability to imagine unspeakable truths is not a sign of progress but of intellectual complacency. The author proposes politeness as a pragmatic tool for bridging this gap—urging listeners to accept others' claims of invisible truths without demanding proof. With intellectual humility and historical awareness, this essay serves as a mirror to contemporary discourse, revealing how conformity masquerades as reason.",
-    "summary_zh": "本文提出“正统特权”这一概念：人们因认同主流观念，便误以为所有人都能安全表达意见，实则是一种认知盲区。引用爱因斯坦之言，指出这种特权最难破除——它不靠增长知识就能消除，而需培养独立思考能力。作者质问：若真有不可言说的真理，我们是否正身处一个例外的时代？他呼吁以礼貌为桥梁，接纳他人所见之“不可见之真”，而非苛求证据。这不仅是对言论自由的反思，更是对思想惰性的深刻警醒。",
-    "best_quote_en": "The more conventional-minded someone is, the more it seems to them that it's safe for everyone to express their opinions.",
-    "best_quote_zh": "一个人越墨守成规，就越会认为所有人都能安全地表达自己的意见。"
-  },
-  {
-    "id": 461,
-    "title": "Tales of Overcoming the Odds, and How to Turn Losses Into Wins — Tim McGraw, Terry Crews, Dax Shepard, and More (#881)",
-    "title_zh": "逆境逆袭录：如何将失败转化为胜利——蒂姆·麦格劳、泰瑞·克鲁斯、达克斯·谢泼德等 (#881)",
-    "model_used": "inclusionai/ling-3.0-flash-sante:free",
-    "source": "Tim Ferriss",
-    "link": "https://tim.blog/2026/09/04/failure-into-success/",
-    "tags": [
-      "solve",
-      "writing-content",
-      "design",
-      "beginner-friendly"
-    ],
-    "tags_zh": [
-      "解决",
-      "写作内容",
-      "设计创意",
-      "新手友好"
-    ],
-    "date": "2026-09-04",
-    "summary_en": "This episode of The Tim Ferriss Show explores the psychology and practice of resilience through conversations with high-achievers who have navigated significant failure. Featuring Tim McGraw, Terry Crews, Dax Shepard, BJ Miller, and others, the discussion examines what happens when creative bets fail, careers stall, or paths disappear entirely. The core insight transcends mere motivational platitudes—it offers a framework for recognizing hidden opportunities within setbacks. What makes this particularly compelling is the diversity of perspectives: from a country music legend to an NFL security officer to a neuroscientist studying end-of-life care, each guest brings distinct evidence that failure is not terminal but transformative. The episode challenges the cultural obsession with uninterrupted success, instead framing losses as essential data points for growth. For listeners facing their own 'rejected work' or 'disappeared paths,' this provides not just comfort but concrete mental models for reframing defeat. The intellectual curiosity here lies in how different domains—entertainment, sports, science, law enforcement—converge on similar resilience principles, suggesting that overcoming odds is less about talent and more about perceptual agility.",
-    "summary_zh": "这期节目探讨了逆境中的心理重构，而非简单的励志鸡汤。从乡村音乐巨星到NFL安全官，不同期望背景的嘉宾共同揭示了一个真相：失败并非终点，而是转型的契机。麦格劳、克鲁斯等人的经历表明，当既定路径消失时，真正的机会往往隐藏在挫败的褶皱中。节目挑战了社会对'不间断成功'的执念，将损失重新定义为成长的数据点。对身处困境的听众而言，这不仅是慰藉，更是一套可操作的思维模型——如何在废墟中识别机遇，将逆境转化为战略资产。",
-    "best_quote_en": "Setbacks can often present opportunities if you know how to look for them.",
-    "best_quote_zh": "当你知道如何寻找时，挫折往往蕴含着机遇。"
-  },
-  {
     "id": 462,
     "title": "具身智能，关联交易虚火",
     "title_zh": "具身智能，关联交易虚火",
@@ -2346,5 +2229,128 @@
     "summary_zh": "本期《100 Objects》深度剖析西方电气500系列电话的辉煌与消逝，揭示其作为半个世纪「通用之电话」的根源：工业级耐用性、标准化设计与用户信任的积累。亚当·萨维的专业视角让我们看到，这部电话不仅是技术器件，更是工业设计与产品责任的典范。它的衰落恰当时代科技追求快速迭代与计划性淘汰的缩影，令人深省：当我们抛弃可修复、经得起时间考验的器物时，是否也丧失了某种实质性的连接与稳定？",
     "best_quote_en": "We don't live in a world where things are built to last anymore — but the 500 Series was built to last.",
     "best_quote_zh": "我们不再生活在事物被建造得经久耐用的世界里 —  — 而500系列正是被建造得经久耐用的。"
+  },
+  {
+    "id": 557,
+    "title": "The Tim Ferriss Show Transcripts: How to Spot 10-Year Trends and Build Billion-Dollar Companies — Kevin Ryan of DoubleClick, MongoDB, Business Insider, and Many More (#884)",
+    "title_zh": "《蒂姆费里斯脱口秀》实录：如何发现10年趋势并打造十亿美元公司 — Kevin Ryan (第884集)",
+    "model_used": "poolside/laguna-s-2.1:free",
+    "source": "Tim Ferriss",
+    "link": "https://tim.blog/2026/09/25/kevin-ryan-transcript/",
+    "tags": [
+      "solve",
+      "startup-strategy",
+      "economics",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "解决",
+      "创业策略",
+      "经济金融",
+      "未来预测"
+    ],
+    "date": "2026-09-25",
+    "summary_en": "Kevin Ryan's trajectory—from DoubleClick's $1.1B exit to co-founding MongoDB, Business Insider, and Gilt Groupe—reveals a consistent thesis: bet on decade-long trends, not quarterly hype. His framework of listing 20 societal shifts and projecting 10-year implications is a masterclass in pattern recognition. What strikes me is his admission of misses (longevity, psychedelics timing) alongside wins (internet ads, unstructured data, nuclear energy, creator economy, value-based care). The insight isn't just about picking winners; it's about patience—building meaningful companies requires 10-year conviction in trends that will outlast market cycles. His current focus on deep tech and AI through AlleyCorp's $335M fund signals he's doubling down on this philosophy as technological convergence accelerates.",
+    "summary_zh": "Ryan的投资哲学启人：十年耐心胜过短期投机。他用20个趋势预测未来十年，抓住互联网广告、非结构化数据等宏大浪潮，同时坦言长寿医疗等领域尚未找到切入点。最深刻的是，伟大公司需要十年定力，而非两三年的热捧。",
+    "best_quote_en": "First of all, 10 years is important because to build an important company, unfortunately you can't do it in two or three years. It does take 10 years. And so you've got to bet on a long-term trend.",
+    "best_quote_zh": "首先，10年很重要，因为要建立一家重要的公司，恋恋不及的是，你无法在两三年内完成。它确实需要10年。因此，你必须押宝于长期趋势。"
+  },
+  {
+    "id": 558,
+    "title": "我遇到一件很惨烈的事，人生第一次坐在警车里爆哭",
+    "title_zh": "我遇到一件很惨烈的事，人生第一次坐在警车里爆哭",
+    "model_used": "dots-studio/dots-3-note-preview:free",
+    "source": "虎嗅",
+    "link": "https://www.huxiu.com/article/4894846.html?f=rss",
+    "tags": [
+      "solve",
+      "science",
+      "psychology",
+      "controversial"
+    ],
+    "tags_zh": [
+      "解决",
+      "科学研究",
+      "心理学",
+      "争议观点"
+    ],
+    "date": "2026-09-30",
+    "summary_en": "This deeply unsettling narrative recounts a harrowing real-life incident where a distinguished 70-year-old Dutch economist has his finger severed by a car window while boarding a ride-share vehicle in Shanghai. The author, present as a witness, describes the visceral horror of the moment—the blood, the severed fingertip stuck to the glass, the collective panic—and the emotional aftermath that led to her breakdown in a police car. Beyond the trauma, the piece evolves into a critical investigation into automotive safety design: the author and others test multiple vehicles and discover that the anti-pinch feature fails when the window switch is held down continuously, a design logic prioritizing user command over safety. The article exposes a widespread, overlooked hazard in modern electric windows, challenging the assumption of inherent safety and calling for industry accountability. It is both a personal trauma account and a public safety warning, blending emotional vulnerability with technical revelation.",
+    "summary_zh": "这是一次令人心碎的真实经历：一位年逾古稀的荷兰经济学家在搭乘网约车时，手指竟被电动车窗生生夹断。作者作为目击者，详细还原了那令人窒息的瞬间——鲜血喷涌、断指黏在玻璃上、在场所有人惊恐尖叫。更令人动容的是，老教授在救护车上仍安慰司机，展现宽厚胸襟。然而，文章并未止步于悲情，而是深入挖掘事故背后的设计漏洞：作者与朋友实测多款车型，发现只要长按关窗键，防夹功能即失效。这一“常识性安全设计”竟普遍存在致命风险，尤其对老人与儿童威胁极大。文章既是对创伤的倾诉，也是对现代汽车安全标准的质问，呼吁行业正视隐患，避免类似悲剧重演。",
+    "best_quote_en": "We all assumed electric windows were safe by default—after all, it’s 2026. But this tragedy revealed that safety features can be overridden by a simple, continuous press, and no one, not even auto industry insiders, knew this.",
+    "best_quote_zh": "我们原本以为电动车窗天然安全，毕竟都2026年了。但这场惨剧告诉我们，只需长按一下，安全机制就会失效——而这一点，连汽车行业内部都鲜有人知。"
+  },
+  {
+    "id": 559,
+    "title": "去旅行，不为追寻远方，是为活好当下",
+    "title_zh": "去旅行，不为追寻远方，是为活好当下",
+    "model_used": "nvidia/nemotron-3.5-lightning:free",
+    "source": "三联生活周刊",
+    "link": "http://weixin.sogou.com/weixin?type=2&query=%E4%B8%89%E8%81%94%E7%94%9F%E6%B4%BB%E5%91%A8%E5%88%8A+%E5%8E%BB%E6%97%85%E8%A1%8C%EF%BC%8C%E4%B8%8D%E4%B8%BA%E8%BF%BD%E5%AF%BB%E8%BF%9C%E6%96%B9%EF%BC%8C%E6%98%AF%E4%B8%BA%E6%B4%BB%E5%A5%BD%E5%BD%93%E4%B8%8B",
+    "tags": [
+      "update",
+      "design",
+      "ai-research",
+      "beginner-friendly"
+    ],
+    "tags_zh": [
+      "动态",
+      "设计创意",
+      "AI研究",
+      "新手友好"
+    ],
+    "date": "2026-09-30",
+    "summary_en": "This article challenges the conventional wisdom of travel as mere destination-checking, reframing it as a practice of present-moment living. Drawing on Alain de Botton's insights, it explores how travelers are shifting from hurried sightseeing to intentional, slower pacing—prioritizing depth over breadth. The piece highlights emerging trends like county-town tourism, staycations, and sportcations, suggesting a move toward travel as personal renewal rather than status display. Ultimately, it argues that the true value of travel lies not in the miles logged, but in the renewed perspective it brings to everyday life back home.",
+    "summary_zh": "这篇文章重新定义了旅行的意义，将其从单纯的「打卡」行为转化为当下生活的修行。引用阿兰·德波顿的观点，文章探讨了旅行者从匆忙打卡转向慢节奏、深体验的转变。报道了县域旅游、Staycation以及Sportcation等新兴趋势，表明人们正将旅行从身份展示转向个人重塑。最终，旅行的真正价值不在于走过的里程，而在于它带回家的全新视角。",
+    "best_quote_en": "\"If the purpose of life is to pursue happiness, then, aside from travel, there are few behaviors that can present the passion and contradiction of this pursuit process\" — Alain de Botton, The Art of Travel",
+    "best_quote_zh": "\"如果生活的要义在于追求幸福，那么，除却旅行，很少有别的行为能呈现这一追求过程中的热情和矛盾\" — 阿兰·德波顿, 《旅行的艺术》"
+  },
+  {
+    "id": 560,
+    "title": "Relearning to Read ebook now available",
+    "title_zh": "重学阅读电子书现已上市",
+    "model_used": "inclusionai/ling-3.0-flash-sante:free",
+    "source": "A year of reading the world",
+    "link": "https://ayearofreadingtheworld.com/2026/05/18/relearning-to-read-ebook-now-available/",
+    "tags": [
+      "update",
+      "society",
+      "controversial"
+    ],
+    "tags_zh": [
+      "动态",
+      "社会议题",
+      "争议观点"
+    ],
+    "date": "2026-05-18",
+    "summary_en": "Ann Morgan's 'Relearning to Read' has now launched its ebook edition eight months after the paperback release, marking a significant milestone for a book that challenges conventional reading habits. The work has garnered impressive critical acclaim—from Prospect calling it 'a genius move' that 'rips up the rules about reading' to the Times Literary Supplement praising its radical invitation to view reading as 'a more active, connected, and connected pastime.' What makes this book genuinely valuable is its philosophical stance: reading not as passive consumption but as an act of deliberate discomfort and intellectual bravery. The endorsements from prominent literary figures like Anton Hur and Maureen Freely underscore its credibility within the international literature community. The near-sold-out paperback entering second printing reveals strong audience demand. Morgan's approach—creating conditions for readers to step outside safe literary spaces—speaks to a deeper cultural need in an era of algorithmic reading habits and filter bubbles. The ebook's unique highlighted-words cover design cleverly mirrors the digital reading experience while maintaining the book's tactile ethos.",
+    "summary_zh": "Ann Morgan的《重学阅读》电子书版问世，恰逢纸质书几近售罄并启动再版之际。这部作品的价值远不止于出版里程碑——它挑战的是一种文化惯性：将阅读从被动消费重新定义为一种主动的、近乎激进的精神冒险。评论界用'天才之举'形容它并非溢美之词，而是精准捕捉了Morgan的核心主张：文学最强大的力量在于让我们走出舒适区，包括安全的文学空间。在算法推荐日益主导阅读选择的时代，这种'故意不懂'的工作坊精神近乎一种抵抗。值得玩味的是电子书封面特意模拟了电子阅读器的高亮显示——数字时代的身体性隐喻。",
+    "best_quote_en": "In 12 short chapters it rips up the rules about reading and reminds us about fiction's greatest strength: that it lets you step out of your life and, if you're brave, out of your safe literary spaces.",
+    "best_quote_zh": "将阅读视为一种更加主动、互联且激进消遣——这恰恰是Morgan最值得称道的追求。"
+  },
+  {
+    "id": 561,
+    "title": "How to Spot 10-Year Trends and Build Billion-Dollar Companies — Kevin Ryan of DoubleClick, MongoDB, Business Insider, and Many More (#884)",
+    "title_zh": "如何发现十年趋势并打造十亿美元公司 —— Kevin Ryan 的创业智慧",
+    "model_used": "dots-studio/dots-3-note-preview:free",
+    "source": "Tim Ferriss",
+    "link": "https://tim.blog/2026/09/24/kevin-ryan/",
+    "tags": [
+      "solve",
+      "startup-strategy",
+      "startup-funding",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "解决",
+      "创业策略",
+      "创业融资",
+      "未来预测"
+    ],
+    "date": "2026-09-25",
+    "summary_en": "Kevin Ryan, the 'Godfather of NYC tech,' shares his insights on identifying long-term trends and building billion-dollar companies. As founder of AlleyCorp and co-founder of MongoDB, Business Insider, and others, he discusses how to spot massive opportunities early. The episode covers his journey from DoubleClick to creating multiple unicorns, offering actionable advice for entrepreneurs seeking to build enduring, high-impact businesses by focusing on foundational shifts rather than short-term fads.",
+    "summary_zh": "被誉为“纽约科技教父”的 Kevin Ryan 分享了如何发现长期趋势并打造十亿美元公司的经验。作为 AlleyCorp 创始人及 MongoDB、Business Insider 等多家明星企业的联合创始人，他探讨了如何早期识别巨大机会。本期节目涵盖他从 DoubleClick 到多次创造独角兽企业的历程，为创业者提供实用建议：聚焦基础性变革而非短期热潮，从而建立持久且高影响力的企业。",
+    "best_quote_en": "Focus on the next decade, not the next quarter — great companies are built on long-term conviction.",
+    "best_quote_zh": "关注下一个十年，而非下一个季度 —— 伟大的公司建立在长期信念之上。"
   }
 ]
