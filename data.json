@@ -1,124 +1,5 @@
 [
   {
-    "id": 462,
-    "title": "具身智能，关联交易虚火",
-    "title_zh": "具身智能，关联交易虚火",
-    "model_used": "inclusionai/ling-3.0-flash-fin:free",
-    "source": "虎嗅",
-    "link": "https://www.huxiu.com/article/4890418.html?f=rss",
-    "tags": [
-      "solve",
-      "ai-research",
-      "startup-funding",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "解决",
-      "AI研究",
-      "创业融资",
-      "数据驱动"
-    ],
-    "date": "2026-09-11",
-    "summary_en": "This article delivers a searing exposé of the 'fake-it-till-you-make-it' playbook infecting China's embodied AI sector. Drawing on rare insider testimony from Mech-Mind founder Shao Tianlan, it reveals how an entire ecosystem of robotics startups is manufacturing fake revenue through related-party transactions—'data collection centers' and 'leasing companies' that are essentially shell entities funded by local governments and used to inflate sales figures before IPO. The author contextualizes this within staggering market data: nearly 100 billion RMB in H1 2026 funding, 23 unicorn robotics companies, and valuations detached from any realistic commercialization path. The piece is intellectually compelling because it doesn't simply condemn—it traces the structural logic connecting three desperate actors (VCs needing exits, local governments needing 'new productive forces' benchmarks, and founders needing revenue narratives), showing why this collective action problem became almost inevitable. The comparison to Enron's round-tripping and the observation that this represents a new 'cross-object closed loop' variant demonstrates genuine analytical depth. The author's ultimate stance is nuanced: embodied AI is a real revolution, but the current pace is unsustainable, and a period of de-bubbling is necessary before genuine breakthroughs emerge.",
-    "summary_zh": "这篇文章以罕见的行业内部人坦白为切入点，犀利揭露了具身智能赛道中系统性造假的底层逻辑。作者借梅卡曼德邵天兰之口，将'攒局型创业'的完整闭环链条拆解得淋漓尽致——数采中心、租赁公司、地方政府出资、机器人厂商回购，数据与硬件的左手倒右手。文章的真正价值不在于批判，而在于揭示了三方博弈的结构性困境：风投需要退出窗口，地方需要新质生产力政绩，创业者需要营收故事，三者合力将行业推入不得不造假的集体行动陷阱。作者以安然循环交易为参照系，指出这是AI时代'异标的闭环'的变体，审计穿透难度更大，隐蔽性更强。结尾处作者保持理性平衡：具身智能确实是真正的产业革命，但当前节奏过快，必然经历去伪存真的周期阵痛。这种既洞察人性复杂又不失建设性视角的写作，体现了真正的思考力。",
-    "best_quote_en": "'This is classic Silicon Valley gameplay made concrete — fake it till you make it, relying on related-party transactions through 'data collection centers' and 'leasing companies' to manufacture fake, unsustainable revenue without PMF, then using big announcements to hype and co-opt local government support to rush toward IPO.'",
-    "best_quote_zh": "'靠数采中心、租赁公司这类关联交易做出虚假的、不可持续的、没有PMF的收入，靠发布大新闻炒作，并绑架地方支持，快速冲上市，fake it till make it，可谓是，经典硅谷玩法具象化了。'"
-  },
-  {
-    "id": 463,
-    "title": "Book of the month: Ryan Falzon",
-    "title_zh": "每月一书：Ryan Falzon",
-    "model_used": "poolside/laguna-xs-2.1:free",
-    "source": "A year of reading the world",
-    "link": "https://ayearofreadingtheworld.com/2026/07/29/book-of-the-month-ryan-falzon/",
-    "tags": [
-      "analyze",
-      "writing-content",
-      "case-study"
-    ],
-    "tags_zh": [
-      "分析",
-      "写作内容",
-      "案例研究"
-    ],
-    "date": "2026-07-29",
-    "summary_en": "This review examines Ryan Falzon's 'You Know the Sun Bothers Me,' a compelling Maltese novel that masterfully captures the psychological landscape of modern disconnection through the lens of a restless thirty-year-old narrator. The work stands out for its authentic portrayal of digital life, demonstrating how internet culture rewires consciousness and transforms our very perception of reality. Falzon's narrative technique—employing fragmented sentences, literary lists, and simile chains—mirrors the slippery nature of contemporary experience. The novel's local specificity, woven through Maltese language and cultural references, creates an intimate authenticity while speaking to universal themes of stagnation, online relationships, and the anxiety of pseudo-adulthood. Particularly noteworthy is its subversive depiction of a female toxic relationship dynamic, challenging literary conventions that typically feature male manipulators. Through its exploration of inaction as compelling as action, and its unflinching examination of self-sabotage, the work offers profound insights into how virtual environments shape our psychological reality. This is literature that doesn't just reflect but actively remaps how we understand modern consciousness.",
-    "summary_zh": "这部作品以断崖式的叙事手法和碎片化的句式，成功捕捉了当代人被数字世界重塑的心理现实。小说不只是描绘沉闷的夏日无奥，更深入探讨了虚拟生活如何重构意识本身。值得一提的是，作者将马耳他的语言和文化细节自然融入，既保持了地方的烂漫，又触及了成年迟缓的普遍焦虑。更值得称道的是，女性在剧中扮演的操控者角色，颠覆了传统文学中男性主导的毒关系描写模式。这不仅是一部关于懒惰与自我毁灭的叙事，更是一面镜子，照见我们如何在网络世界中重新定义自我认知的刻骨之痛。",
-    "best_quote_en": "It is one of the best novels about online life I've ever read – on par with the International Booker Prize shortlisted Perfection by Vincenzo Latronico, translated by Sophie Hughes. Not only does it portray numerous aspects of using the internet breathtakingly accurately... but it shows how these things seep into and reorder our consciousness, making distraction a default.",
-    "best_quote_zh": "这是我读过的最好的关于网络生活的小说之一——与意大利作家Vincenzo Latronico获际国际书奖提名作品《完美》不相上下。它不仅以惊人的准确性描绘了使用互联网的诸多方面……而且展示了这些事物如何渗透并重排序我们的意识，使分心成为默认状态。"
-  },
-  {
-    "id": 464,
-    "title": "The Four-Color Theorem Gets a Rare New Proof",
-    "title_zh": "四色定理获得罕见新证明",
-    "model_used": "cohere/north-mini-code:free",
-    "source": "Quanta Magazine",
-    "link": "https://www.quantamagazine.org/the-four-color-theorem-gets-a-rare-new-proof-20260910/",
-    "tags": [
-      "learn",
-      "ai-research",
-      "beginner-friendly"
-    ],
-    "tags_zh": [
-      "学习",
-      "AI研究",
-      "新手友好"
-    ],
-    "date": "2026-09-10",
-    "summary_en": "Mathematicians have produced a new computer-assisted proof of the four-color theorem, building on a century of attempts since its controversial 1976 resolution. While the result provides a more efficient coloring algorithm—reducing computational complexity from O(n²) to O(n log n)—its true value lies in the deeper insights into planar graph structures revealed during the process. The work demonstrates how revisiting \"solved\" problems can yield fresh perspectives, potentially advancing other graph theory challenges. The researchers' parallel reduction technique and newly discovered unavoidable set of 8,202 configurations open pathways for tackling coloring problems on complex surfaces like tori. Despite the breakthrough, the quest for an elegant, computer-free proof continues—a quest that has obsessed mathematicians since Francis Guthrie's 1852 observation about English county maps.\n\nThe proof represents more than just solving a famous puzzle; it showcases how computational methods, once controversial, have become essential tools for exploring mathematical truths. By transforming an inefficient sequential process into a parallel approach, the team not only proved the theorem but also provided new machinery for understanding graph structures across different mathematical domains.",
-    "summary_zh": "数学家们在经历了近一个世纪的争议和尝试后，再次通过计算机辅助方法证明了四色定理。虽然这提供了更高效的着色算法（从O(n²)复杂度降低到O(n log n)），但其真正价值在于揭示了平面图结构的更深层次特性。这项工作展示了重新审视“已解决”问题如何带来新的视角，或许能推动其他图论难题的突破。研究团队开发的并行化约技术和新发现的8,202个不可避免配置集，为解决更复杂曲面（如环面）的着色问题提供了新工具。尽管如此，寻找一个无需计算机的简洁证明的探索仍在继续——这个自1852年格思里观察英格兰郡地图时就开始的“四色病”仍困扰着数学家们。",
-    "best_quote_en": "\"Once you build up machinery, you find out what kind of problems you can solve.\" - Ellen Gethner",
-    "best_quote_zh": "\"一旦你建立了工具，你就会发现可以解决哪些问题。\" - 埃伦·盖瑟"
-  },
-  {
-    "id": 465,
-    "title": "The Chinese room",
-    "title_zh": "中文房间",
-    "model_used": "inclusionai/ling-3.0-flash-sante:free",
-    "source": "Aeon",
-    "link": "https://aeon.co/videos/could-there-ever-be-a-viable-test-for-artificial-consciousness",
-    "tags": [
-      "learn",
-      "ai-research",
-      "controversial"
-    ],
-    "tags_zh": [
-      "学习",
-      "AI研究",
-      "争议观点"
-    ],
-    "date": "2026-09-10",
-    "summary_en": "John Searle's Chinese Room argument, conceived in 1980, remains one of philosophy's most enduring challenges to machine consciousness — and its relevance has only intensified as AI systems grow increasingly sophisticated. The TED-Ed animation unpacks Searle's core intuition: a person following syntax rules in a room can produce Chinese responses without understanding a single word, suggesting that computation alone cannot yield genuine comprehension. Yet the thought experiment faces mounting criticism, particularly from those who argue that understanding might emerge from complex system-level interactions rather than individual symbol manipulation. What makes this debate especially compelling today is the epistemic humility it exposes — we still lack a rigorous definition of consciousness, even in humans, making it extraordinarily difficult to adjudicate whether machines possess it. The Chinese Room forces us to confront a deeper question: if we cannot definitively identify consciousness in ourselves, how can we claim to recognize or deny it in artifacts? As AI continues to blur the boundary between simulation and cognition, Searle's thought experiment serves not as a definitive refutation but as a provocation — demanding that we clarify what we actually mean by understanding before we can judge whether machines have it.",
-    "summary_zh": "Searle的中文房间思想实验在AI时代反而愈发尖锐——它迫使我们承认一个令人不安的事实：我们对人类意识本身仍缺乏明确定义，却急于判断机器是否具备认知。这个思想实验的真正价值不在于否定AI，而在于揭示我们概念体系中的根本模糊性。",
-    "best_quote_en": "The Chinese Room forces us to confront a deeper question: if we cannot definitively identify consciousness in ourselves, how can we claim to recognize or deny it in artifacts?",
-    "best_quote_zh": "如果我们自己都无法明确识别意识，又怎能断言机器是否拥有它？"
-  },
-  {
-    "id": 466,
-    "title": "10 Classic Whimsical Movies to Watch After 'Practical Magic 2'",
-    "title_zh": "10部经典奇幻轻松电影推荐（适合看完《实用魔法2》后）",
-    "model_used": "poolside/laguna-xs-2.1:free",
-    "source": "Mental Floss",
-    "link": "https://www.mentalfloss.com/entertainment/movies/whimsical-movies-watch-after-practical-magic-2?utm_source=RSS",
-    "tags": [
-      "update",
-      "lifestyle",
-      "music-arts",
-      "case-study"
-    ],
-    "tags_zh": [
-      "动态",
-      "生活方式",
-      "音乐艺术",
-      "案例研究"
-    ],
-    "date": "2026-09-11",
-    "summary_en": "This curated list of whimsical fantasy films serves as an enchanting bridge for viewers who have completed 'Practical Magic 2', offering a carefully selected journey through cinema's most magical moments. Each recommendation—from vintage classics like 'Bell, Book and Candle' to modern masterpieces like 'Howl's Moving Castle'—provides escapist entertainment that balances eerie witchcraft with heartwarming romance, nostalgic design, and feminist undertones. The selection spans decades and genres, yet maintains a consistent thread of feminine agency, supernatural wonder, and cinematic beauty that mirrors the Practical Magic franchise's signature blend of mysticism and sisterhood. These films don't merely replicate the source material; they expand its universe, offering viewers multiple portals into worlds where magic solves problems, fashion matters, and women wield power. Beyond entertainment, this collection functions as a cultural artifact representing how witchcraft narratives evolve while maintaining core emotional resonance across generations.",
-    "summary_zh": "这部精心策划的奇幻电影清单为《实用魔法2》后的观众提供了电影奇幻世界的魔惹之旅。从《面包书》到《猎人人形城》，每部作品都在诡异的巫术与温暖的浪漫之间取得完美平衡，传递着女性力量与时光的馈赠。值得关注的是，这些影片不仅延续了原作的魔法氛围，更以时尚、女性觉醒和心灵加油站的姿态重构了女巫题材。它们像活的图书馆，让观众在不同年代的奇迹电影间穿梭，用魔法治愈疲惫的灵魂。",
-    "best_quote_en": "These movies dive into magic, mayhem, and far-off lands, but also offer sprinkles of comfort, fashion, romance, humor, and many more of the aspects that have made the Practical Magic movies so beloved.",
-    "best_quote_zh": "这些电影涉及魔法、狂乱与远方的大陆，同时也带来舒适的零星碎屑、时尚、浪漫、幽默以及许多使《实用魔法》电影深受喜爱的方面。"
-  },
-  {
     "id": 467,
     "title": "Colin Kaepernick Misses the Game",
     "title_zh": "科林·卡佩尼克缺席了比赛",
@@ -2352,5 +2233,122 @@
     "summary_zh": "被誉为“纽约科技教父”的 Kevin Ryan 分享了如何发现长期趋势并打造十亿美元公司的经验。作为 AlleyCorp 创始人及 MongoDB、Business Insider 等多家明星企业的联合创始人，他探讨了如何早期识别巨大机会。本期节目涵盖他从 DoubleClick 到多次创造独角兽企业的历程，为创业者提供实用建议：聚焦基础性变革而非短期热潮，从而建立持久且高影响力的企业。",
     "best_quote_en": "Focus on the next decade, not the next quarter — great companies are built on long-term conviction.",
     "best_quote_zh": "关注下一个十年，而非下一个季度 —— 伟大的公司建立在长期信念之上。"
+  },
+  {
+    "id": 562,
+    "title": "Surprisingly Complex Waves Reveal the Brain’s Inner Workings",
+    "title_zh": "惊人的复杂脑波揭示大脑内部运作机制",
+    "model_used": "nvidia/nemotron-3-ultra-550b-a55b:free",
+    "source": "Quanta Magazine",
+    "link": "https://www.quantamagazine.org/surprisingly-complex-waves-reveal-the-brains-inner-workings-20260930/",
+    "tags": [
+      "analyze",
+      "science",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "分析",
+      "科学研究",
+      "未来预测"
+    ],
+    "date": "2026-09-30",
+    "summary_en": "This Quanta Magazine article reveals a paradigm shift in neuroscience: traveling brain waves are not mere epiphenomena but fundamental computational motifs. The discovery of spiral, source, and sink waves—beyond simple planar oscillations—suggests the cortex dynamically reconfigures itself in real-time via biophysical field effects. Jacobs' intracranial recordings show task-dependent wave geometries: rotating spirals for spatial navigation, simpler back-to-front waves for verbal memory. Crucially, Ye's mouse work reveals mirrored interhemispheric spirals anchored in spiral-wired axonal circuits, implying evolutionary conservation. Miller's 'Humpty Dumpty' metaphor—neurons perched at firing threshold, tipped by wave-modulated voltage gradients—offers a compelling mechanism: waves as the brain's rapid, flexible layer of information expression atop stable anatomical connectivity. Buzsáki's skepticism (waves as synaptic epiphenomena) remains a vital counterpoint. This work reframes cognition as an emergent dance of spatiotemporal field dynamics, not just synaptic computation.",
+    "summary_zh": "这篇文章彻底改变了我对大脑计算的理解：脑波不是副产品，而是皮层实时重组的核心机制。螺旋波、源波、汇波的发现，配合小鼠跨半球镜像螺旋回路的硬连线证据，指向进化保守的场计算架构。Miller的'汉普蒂·丹普蒂'隐喻精准捕捉了波如何通过电压梯度瞬间调控神经元阈值——这是解剖连接之上更敏捷的表达层。Buzsáki的质疑虽犀利，但无法解释为何大脑要精心布线螺旋回路。认知或许本质上是时空场动力学的涌现之舞。",
+    "best_quote_en": "\"The architecture of the brain is really important, and the traveling waves tend to follow the anatomy, but they don't strictly follow it. … The connectivity is more like the information that's baked into the brain for long-term storage, and the waves are when that information gets expressed in terms of thought and neural processing.\" — Earl K. Miller",
+    "best_quote_zh": "\"大脑的架构非常重要，行波倾向于遵循解剖结构，但并不严格遵循。……连接性更像是烘焙进大脑用于长期存储的信息，而波则是这些信息以思想和神经处理形式表达出来的时刻。\" — Earl K. Miller"
+  },
+  {
+    "id": 563,
+    "title": "Passportless mess",
+    "title_zh": "无护照的流浪者",
+    "model_used": "poolside/laguna-xs-2.1:free",
+    "source": "Aeon",
+    "link": "https://aeon.co/videos/searching-for-a-local-legend-a-filmmaker-stumbles-into-a-tragicomedy",
+    "tags": [
+      "analyze",
+      "ai-research",
+      "deep-dive"
+    ],
+    "tags_zh": [
+      "分析",
+      "AI研究",
+      "深度分析"
+    ],
+    "date": "2026-09-30",
+    "summary_en": "Maja Penčič's documentary 'Passportless' presents a fascinating exploration of identity fragmentation through the enigmatic figure of Zoran, a Belgrade resident whose posthumous persona defies coherent narrative construction. The film masterfully employs a rotating chorus of witnesses to construct a character study that deliberately resists resolution, instead embracing the contradictions and contradictions that define human complexity. Penčič's choice to avoid settling on a singular truth reflects a sophisticated understanding of how memory and myth co-construct our understanding of individuals. The 'home-video aesthetic' not only provides intimate access but also mirrors the unreliable nature of recollection itself. What emerges is less a biography than a philosophical meditation on the impossibility of truly knowing another person—a cautionary tale about the gap between perception and reality, and the stories we construct to make sense of the incomprehensible. This is documentary as art form, challenging traditional narrative structures while illuminating the social construction of identity.",
+    "summary_zh": "《无护照的流浪者》以托尔纳尔为镜，映照人性身份的碎片化与记忆的不可靠。导演用流动的见证者声音构建角色，拒绝给出单一答案，反而呈现人性复杂性的哲学思考。这种纪录片艺术性挑战了传统叙事，揭示了我们构建意义的必然性。",
+    "best_quote_en": "He is, in simple terms, a man who destroys everything.",
+    "best_quote_zh": "他简单地说，是个毁灭一切的人。"
+  },
+  {
+    "id": 564,
+    "title": "The Best U.S. Cities for Vegans and Vegetarians, Ranked",
+    "title_zh": "The Best U.S. Cities for Vegans and Vegetarians, Ranked",
+    "model_used": "nvidia/nemotron-3-nano-omni-30b-a3b-reasoning:free",
+    "source": "Mental Floss",
+    "link": "https://www.mentalfloss.com/geography/cities/best-cities-vegans-vegetarians-ranked?utm_source=RSS",
+    "tags": [
+      "analyze",
+      "general",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "分析",
+      "general",
+      "未来预测"
+    ],
+    "date": "2026-10-01",
+    "summary_en": "This WalletHub study reveals a compelling counter-narrative to the 'expensive plant-based diet' myth, demonstrating how rising meat prices and increased availability are making vegan and vegetarian lifestyles more accessible and budget-friendly across America. Portland, Oregon emerges as the top destination, excelling in affordable, high-quality plant-based dining and robust local food infrastructure including community gardens and farmers markets. The West Coast dominates the rankings, with California cities like Los Angeles and San Francisco showcasing strong plant-based cultures despite varying affordability. Austin, Texas stands out as an affordable, underrated hub with cooking resources and community events, while cities like New York and Chicago lag due to high costs. The analysis challenges assumptions about geographic and economic barriers to plant-based eating, highlighting that location and policy choices—not just individual preference—shape dietary accessibility. This data-driven ranking offers practical value for consumers seeking affordable, diverse, and sustainable food options while underscoring the need for equitable food system investments beyond coastal hubs.",
+    "summary_zh": "这项WalletHub研究彻底颠覆了‘素食很贵'的常见误解，通过数据揭示肉价上涨和餐饮选择增多正在使美国植物性饮食更经济实惠、更易获得。波特兰凭借高性价比的素食餐厅和完善的本地食物系统（如社区花园、农贸市场）脱颖而出。西海岸城市（尤其是加州）在素食文化方面表现突出，但消费水平参差不齐；奥斯汀等南部城市则以低廉食材和丰富的烹饪资源成为性价比之选。纽约、芝加哥因高昂生活成本落后，说明食物可及性受城市政策与经济因素制约。这项研究为追求可持续、经济的饮食选择提供了实用参考，同时呼吁超越沿海城市的食品正义实践。",
+    "best_quote_en": "Meat prices have surged across the board, with steak jumping around 16% and ground beef up as much as 13% over the past year. Those rising costs are turning the myth that a plant-based diet is a pricey habit right on its head.",
+    "best_quote_zh": "肉类价格普遍上涨，牛排涨幅达16%，绞肉甚至飙升13%，这些 rising costs 正在粉碎‘素食习惯太贵'的谬误。"
+  },
+  {
+    "id": 565,
+    "title": "We started an AI safety party in Sweden: here's how it went",
+    "title_zh": "我们在瑞典发起了一个AI安全政党：以下是它的经过",
+    "model_used": "nvidia/nemotron-3-super-120b-a12b:free",
+    "source": "LessWrong",
+    "link": "https://www.lesswrong.com/posts/usZvXEwyrzdD4n2D4/we-started-an-ai-safety-party-in-sweden-here-s-how-it-went",
+    "tags": [
+      "inspire",
+      "politics",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "启发",
+      "政治时事",
+      "未来预测"
+    ],
+    "date": "2026-10-01",
+    "summary_en": "This reflective piece chronicles the grassroots effort to launch RegleraAI.nu (RegulateAI.now), a single-issue Swedish political party focused on AI existential risk, formed just four weeks before the 2026 general election. The author details how frustration over mainstream parties’ silence on AI catalyzed the initiative, drawing inspiration from past single-issue movements like pirate and feminist parties in Sweden. Despite limited time and resources, the party distributed 200,000 ballot papers, gained media traction, and secured 390 votes—a figure interpreted as evidence of broader latent concern. The piece critically evaluates the trade-offs between raising awareness and risking political polarization, ultimately advocating for replication in other multi-party democracies with better timing and planning. It frames such efforts as a means to shift the Overton window and channel public anxiety into constructive political action, even if immediate electoral success is unlikely.",
+    "summary_zh": "这篇文章记录了在瑞典大选前四周草创的AI安全单一议题政党RegleraAI.nu的实践经历。作者表达了对主流政党在AI风险问题上沉默的挫败感，并借鉴了瑞典海盗党、女权党等先例。尽管时间紧张，该党仍成功分发了20万张选票，获得媒体关注并得到390票，暗示其影响远超选票数。文中深入反思了提升议题可见度与避免政治两极化之间的权衡，认为此模式在其他多党制国家中可被复制——前提是更早启动、更充分准备。作者认为，即便未能进入议会，这样的尝试也能推动Overton窗口的移位，将公众对AI风险的关切转化为建设性的政治行动，这正是民主社会应有的回应。",
+    "best_quote_en": "We were also careful to point out that we had no ties to any other parties and had no place on any existing spectrum.",
+    "best_quote_zh": "我们也特别强调，我们与其他任何政党都没有关联，也不属于任何既有的政治光谱。"
+  },
+  {
+    "id": 566,
+    "title": "Why Trump Delayed Cancelling Legal Status for Salvadorans",
+    "title_zh": "特朗普为何推迟取消萨尔瓦多人的合法身份",
+    "model_used": "inclusionai/ling-3.0-flash-sante:free",
+    "source": "The New Yorker",
+    "link": "https://www.newyorker.com/news/the-lede/why-trump-delayed-cancelling-legal-status-for-salvadorans",
+    "tags": [
+      "analyze",
+      "politics",
+      "legal",
+      "case-study"
+    ],
+    "tags_zh": [
+      "分析",
+      "政治时事",
+      "法律法规",
+      "案例研究"
+    ],
+    "date": "2026-09-30",
+    "summary_en": "This article reveals the messy intersection of immigration policy, labor economics, and political pragmatism within the Trump administration's second term. At its core, it's a story about how the machinery of deportation collided with the practical needs of industries dependent on Temporary Protected Status holders—particularly construction in the Washington D.C. area. The delay wasn't born of humanitarian concern but of pressure from lobbyists and a calculation about economic disruption. What's striking is the administration's own internal contradiction: while Stephen Miller's nativist faction pushes for aggressive enforcement, a pro-industry wing recognizes that mass deportation of Salvadorans would cripple key sectors. The article also exposes the Kafkaesque reality faced by T.P.S. holders—people who have built lives, families, and careers in the U.S. for decades, yet remain in a state of perpetual uncertainty. The fact that DHS prepared termination memos in advance, only to pause at the last minute, suggests this is political theater rather than genuine policy deliberation. The broader implication is clear: immigrant legal status has become a bargaining chip, wielded and withheld based on convenience rather than principle or law.",
+    "summary_zh": "这篇文章揭示了特朗普政府在第二任期内移民政策、劳工经济与政治实用主义之间的复杂博弈。核心在于驱逐机器与依赖临时保护身份劳工的行业需求发生了碰撞——尤其是华盛顿特区的建筑业。推迟并非出于人道关怀，而是来自游说团体的压力和对经济破坏的权衡。文章还暴露出政府内部的矛盾：民族主义派系推动严厉执法，而亲产业派则意识到大规模驱逐萨尔瓦多人将重创关键行业。更令人不安的是，DHS提前准备了终止备忘录，却在最后时刻暂停——这更像是政治戏剧而非真正的政策考量。临时保护身份持有者数十年如一日活在不确定性中，他们的法律地位已成为政治交易的筹码。",
+    "best_quote_en": "Imagine if, year after year, I said, 'I'm not going to buy a car because I have a temporary status and possibly in another year I'll have to leave; or I'm not going to get married because in a year I'll have to return; or I'm not going to have my children because I may have to leave.' No one can live like that.",
+    "best_quote_zh": "试想，如果年复一年，我说：‘我不买车，因为我身份临时，可能一年后就得离开；我不结婚，因为一年后我必须回去；我不生孩子，因为我可能得走。’没有人能这样活着。"
   }
 ]
