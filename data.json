@@ -1,124 +1,5 @@
 [
   {
-    "id": 472,
-    "title": "Essentials: Genes & the Inheritance of Memories Across Generations | Dr. Oded Rechavi",
-    "title_zh": "要点：基因与记忆的跨代遗传 | Oded Rechavi 博士",
-    "model_used": "dots-studio/dots-3-note-preview:free",
-    "source": "Huberman Lab",
-    "link": "https://www.hubermanlab.com/episode/essentials-genes-and-the-inheritance-of-memories-across-generations-oded-rechavi",
-    "tags": [
-      "analyze",
-      "general",
-      "deep-dive"
-    ],
-    "tags_zh": [
-      "分析",
-      "general",
-      "深度分析"
-    ],
-    "date": "2026-09-10",
-    "summary_en": "This Huberman Lab episode features Dr. Oded Rechavi, a geneticist at Tel Aviv University, exploring the fascinating intersection of genetics, epigenetics, and transgenerational inheritance. The conversation challenges the long-held belief that acquired traits cannot be inherited—contradicting Lamarckian ideas—by presenting compelling evidence from C. elegans research showing how small RNAs can transmit antiviral resistance and behavioral patterns across generations. The discussion delves into the Weismann Barrier, epigenetic reprogramming, and the role of RNA interference in gene silencing, offering a nuanced view of how environmental experiences might leave molecular footprints in germ cells. Of particular interest is the exploration of how neuronal activity and memory-related signals could potentially influence heritable RNA, blurring the line between somatic experience and genetic legacy. The episode also touches on future applications in reproductive health, IVF, and diagnostics, suggesting that our understanding of inheritance is far more dynamic than traditionally assumed. This is not just a review of textbook genetics—it’s a window into a paradigm shift in how we view memory, adaptation, and biological continuity.",
-    "summary_zh": "在这一集《Huberman Lab 要点》中，Oded Rechavi 博士带领我们深入基因、表观遗传与跨代遗传的前沿领域。他挑战了“获得性状不可遗传”的传统认知，通过线虫（C. elegans）研究揭示：小RNA可传递抗病毒能力与行为模式至后代，暗示环境经历可能通过分子机制影响生殖细胞。对话涵盖魏斯曼屏障、表观遗传重编程与RNA干扰，尤其引人注目的是神经活动与记忆信号或可转化为可遗传RNA，模糊了躯体经验与基因传承的边界。这不仅是对经典遗传学的刷新，更预示着生殖健康、试管婴儿与诊断技术的未来变革——我们对“遗传”的理解，正被重新书写。",
-    "best_quote_en": "Small RNAs can transmit antiviral resistance and influence behavior across generations—suggesting that the environment can leave molecular imprints in the germline, not just in somatic cells.",
-    "best_quote_zh": "小RNA可以跨代传递抗病毒能力并影响行为——这意味着环境不仅能在体细胞留下分子印记，更可能在生殖系中刻下遗传痕迹。"
-  },
-  {
-    "id": 473,
-    "title": "Weekly Review",
-    "title_zh": "每周评论",
-    "model_used": "nex-agi/nex-n2.5-pro:free",
-    "source": "Harper’s Magazine",
-    "link": "https://harpers.org/2026/09/weekly-review-sieg-heil-siegmund-ceuta-protests-wedding-strike-small-potatoes-fbi-applications-prostitutes-uss-abraham-lincoln-ice-agent-indictment-lying-amazon-lawsuit-cyborg-cockroach-diplo-burning/",
-    "tags": [
-      "analyze",
-      "politics",
-      "controversial"
-    ],
-    "tags_zh": [
-      "分析",
-      "政治时事",
-      "争议观点"
-    ],
-    "date": "2026-09-09",
-    "summary_en": "This densely curated weekly review exposes a striking pattern: institutions under pressure often become less truthful, less accountable, or both. Far-right normalization in Germany and Spain, escalation around Iran and Ukraine, and intelligence infighting in Kyiv reveal how political and military systems can normalize extremes. The domestic items sharpen the same concern through fiscal, regulatory, and judicial failures: weakened oversight coincides with lost tax revenue, food-risk concerns, and limited legal claims to safety or official candor. Yet the selection is not merely dystopian inventory. Its darkly comic juxtapositions—cyborg insects, altered timekeeping, Burning Man mud, fur-suit disputes, and sewer divers—suggest that civic life now mixes genuine danger with institutional absurdity. The piece offers breadth rather than causal proof, and several allegations remain provisional. Still, its editorial intelligence lies in making readers ask how authority is maintained when facts, competence, and restraint appear negotiable. I found the result unsettling precisely because catastrophe and farce share the same paragraph.",
-    "summary_zh": "这组周评的锋利处，不只在于事件密集，而在于它把极右翼正常化、战争升级与日常治理失灵并置：当监督被削弱，真相、能力与克制似乎都可议价。国内监管、财政与司法条目说明，制度风险并非只发生在战场；科技奇观和荒诞趣闻则让危机时代更显超现实。文章并非因果论证，部分仍是指控或报道，但其编辑判断促使我们追问：当公共机构不断消耗可信度，社会还靠什么维持秩序？",
-    "best_quote_en": "“If someone tries to drag us down the food chain, to gobble us up, to devour us, they may end up getting punched in the teeth.”",
-    "best_quote_zh": "“如果有人试图把我们拖下食物链，把我们吞掉、吃掉，他们最后可能会挨上一记牙齿被打落的拳头。”"
-  },
-  {
-    "id": 474,
-    "title": "Mastodon responds after estate of “dear departed friend” Brent Hinds sue the band",
-    "title_zh": "Mastodon回应：已故成员Brent Hinds遗产管理方起诉乐队",
-    "model_used": "inclusionai/ling-3.0-flash-fin:free",
-    "source": "NME",
-    "link": "https://www.nme.com/news/music/mastodon-responds-after-estate-of-dear-departed-friend-brent-hinds-sue-the-band-3968353?utm_source=rss&utm_medium=rss&utm_campaign=mastodon-responds-after-estate-of-dear-departed-friend-brent-hinds-sue-the-band",
-    "tags": [
-      "update",
-      "music-arts",
-      "design",
-      "controversial"
-    ],
-    "tags_zh": [
-      "动态",
-      "音乐艺术",
-      "设计创意",
-      "争议观点"
-    ],
-    "date": "2026-09-13",
-    "summary_en": "This article covers the legal dispute between Mastodon and the estate of former guitarist Brent Hinds, who died in a motorcycle accident in August 2025. The estate alleges the band never fully compensated Hinds for his departure and continued using his likeness—including on the cover art of their new album 'Marrow Deep'—without permission. Mastodon has called the lawsuit 'meritless' and vowed to defend itself vigorously, while also requesting privacy to honor Hinds' memory. The case raises complex questions about intellectual property, posthumous likeness rights, and the contractual nuances of band member departures in the music industry. Beyond the legal drama, the piece underscores the emotional toll on the surviving members, who channeled their grief into the new album with contributions from Josh Homme and Geezer Butler.",
-    "summary_zh": "这篇文章聚焦于Mastodon乐队与已故吉他手Brent Hinds遗产管理方之间的法律纠纷。Hinds于2025年8月因摩托车事故去世，其遗产方指控乐队未足额支付离职补偿，并在未经许可的情况下继续使用他的肖像——甚至出现在新专辑《Marrow Deep》封面中。Mastodon称诉讼'毫无根据'并誓言坚决抗辩，同时请求尊重Hinds的记忆以保持隐私。此案折射出音乐产业中成员离职后的知识产权、肖像权及合同模糊性等深层问题。除了法律博弈，文章更凸显了幸存成员所承受的情感重压——他们将悲痛转化为创作动力，并邀请Josh Homme与Geezer Butler共同完成这张专辑。",
-    "best_quote_en": "When that [hope] had gone, it felt like the best thing for our group just to lean on each other during that moment and prop each other up with music.",
-    "best_quote_zh": "当那份希望破灭时，我们唯一能做的就是彼此依靠，用音乐互相支撑。"
-  },
-  {
-    "id": 475,
-    "title": "TIFF 2026: Tender Loving Care, Bucking Fastard, A Long Winter",
-    "title_zh": "TIFF 2026: Tender Loving Care, Bucking Fastard, A Long Winter",
-    "model_used": "nvidia/nemotron-3.5-lightning:free",
-    "source": "RogerEbert.com",
-    "link": "https://www.rogerebert.com/festivals/tiff-2026-tender-loving-care-bucking-fastard-a-long-winter",
-    "tags": [
-      "analyze",
-      "ai-research",
-      "design",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "分析",
-      "AI研究",
-      "设计创意",
-      "未来预测"
-    ],
-    "date": "2026-09-13",
-    "summary_en": "This TIFF 2026 roundup presents three distinct directorial voices—Mike Leigh, Werner Herzog, and Andrew Haigh—each exploring human connection under duress. Leigh delivers a poignant swan song about the quiet power of presence, where two social workers' friendship becomes a testament to active listening and human decency. Herzog unleashes a surreal, Lynchian triptych about twin sisters carving their own path through bizarre, cave-bound trials, emphasizing self-determined belonging. Haigh offers a glacial, methodical study of sustained melancholy and repressed desire, where a brother's snowbound search becomes a meditation on manhood and the wilderness as escape. Across all three, a common thread emerges: the profound value of human connection, whether through friendship, familial duty, or the solitary search for meaning, suggesting that 'being there' is our most essential act. The issue highlights how these filmmakers find the extraordinary within the ordinary, the humane within the harsh, and ultimately, remind us that care is all we have.",
-    "summary_zh": "这篇TIFF 2026的影评汇总展现了三位导演不同的声音——迈克·利、威尔克·赫茨克和安德鲁·海因希克，每个人都在探索在逆境中的人类联系。利展现了一个感人的告别之作，关于存在的安静力量，两位社工的友谊成为了积极倾听和人类善良的证明。赫茨克 unleashed了一个超现实的、林奇式的三部曲，关于双胞胎姐妹通过 bizarre、洞穴般的考验来确立自己的归属感。海因希克提供了一个 glacial、 methodical 的研究，探讨持续的忧郁和压抑的欲望，其中兄弟在雪地里的搜索成为了对男子气概和作为逃避的荒野的冥想。在这三者中，一个共同的主题浮现：人类联系的深刻价值，无论是通过友谊、家庭责任还是对意义的孤独探索，表明‘在场’是我们最基本的行为。该问题突显了这些电影作家如何在平凡中发现非凡，在严酷中发现人性，最终提醒我们，关怀是我们所拥有的一切。",
-    "best_quote_en": "\"Everyone should dig a tunnel through a mountain.\"",
-    "best_quote_zh": "\"Everyone should dig a tunnel through a mountain.\""
-  },
-  {
-    "id": 476,
-    "title": "Essentials: Use Sleep to Enhance Learning, Memory & Emotional State | Dr. Gina Poe",
-    "title_zh": "Essentials: 使用睡眠增强学习、记忆与情绪状态 | Dr. Gina Poe",
-    "model_used": "nvidia/nemotron-3-nano-omni-30b-a3b-reasoning:free",
-    "source": "Huberman Lab",
-    "link": "https://www.hubermanlab.com/episode/essentials-use-sleep-to-enhance-learning-memory-and-emotional-state-gina-poe",
-    "tags": [
-      "analyze",
-      "science",
-      "education"
-    ],
-    "tags_zh": [
-      "分析",
-      "科学研究",
-      "教育学习"
-    ],
-    "date": "2026-09-03",
-    "summary_en": "This Huberman Lab Essentials episode features Dr. Gina Poe, a UCLA professor of Integrative Biology and Physiology, who provides a comprehensive breakdown of sleep architecture and its critical roles in memory consolidation, creativity, brain restoration, and emotional processing. The discussion highlights science-backed strategies to optimize sleep quality—including consistent bedtime routines, managing alcohol and nighttime urination, and leveraging specific sleep stages like REM and deep sleep for cognitive enhancement and trauma recovery. While the content is highly actionable for individuals seeking to improve learning outcomes and emotional regulation through better sleep, it also reveals a deeper paradigm: sleep as a foundational pillar of cognitive and neurological health that actively shapes brain function rather than merely supporting it. The episode stands out for its integration of cutting-edge neuroscience with practical tools, making complex sleep science accessible and directly applicable to daily life.",
-    "summary_zh": "本期Huberman Lab Essentials深度解析睡眠架构如何支撑记忆巩固、创造力激发、大脑恢复与情绪处理，Dr. Gina Poe将睡眠科学与实践工具精准结合，揭示睡眠是塑造大脑功能的核心支柱而非被动载体。内容超越基础科普，直击学习成效与情绪调节的本质，通过规律作息、控制夜尿等可操作策略，揭示睡眠质量对认知与神经健康的决定性影响，为个体优化生理节律提供科学依据与行动指南。",
-    "best_quote_en": "Sleep is not downtime—it's active brain maintenance and enhancement.",
-    "best_quote_zh": "睡眠不是消磨时间，而是大脑主动的维护与增强过程。"
-  },
-  {
     "id": 477,
     "title": "The Fascinating Science of How We Think Not with the Brain But with the World",
     "title_zh": "我们如何思考：科学揭示思维并非只发生于大脑，而是借助世界展开",
@@ -2346,5 +2227,120 @@
     "summary_zh": "Victoria Pace的Substack专栏提供了一个令人耳目一新的个人视角，展现了塑造现代 nomadic 生活方式的刻意选择。超越‘我的现在有什么’的表面，这篇文章揭示了在物理、数字和看不见的维度上进行的深思熟虑的生活框架。明信片和影子工作代表了脚踏实地的脚注仪式和自我反思，而精选的数字工具——Good On You和 Housesitters——优先考虑伦理和实际的问题解决。最引人入胜的是‘看不见’部分的感恩实践，它将普通的时刻转化为有意义的体验。这篇专栏是一篇微妙而有力的冥想，探讨了小而有意识的习惯如何提升日常生活，为读者提供了不强制的指南，而是一个鼓舞人心的邀请，让读者审视自己的节奏。",
     "best_quote_en": "\"Everyone loves getting mail, and it feels meaningful to write notes to my friends.\"",
     "best_quote_zh": "\"Everyone loves getting mail, and it feels meaningful to write notes to my friends.\""
+  },
+  {
+    "id": 572,
+    "title": "Zach Bryan wears ‘Free Palestine’ shirt at Gillette Stadium following Robert Kraft-Macklemore row",
+    "title_zh": "Zach Bryan在Gillette Stadium身穿'Free Palestine'衬衫，紧随Robert Kraft与Macklemore争议之后",
+    "model_used": "inclusionai/ling-3.0-flash-sante:free",
+    "source": "NME",
+    "link": "https://www.nme.com/news/music/zach-bryan-wears-free-palestine-shirt-at-gillette-stadium-following-robert-kraft-macklemore-row-3972037?utm_source=rss&utm_medium=rss&utm_campaign=zach-bryan-wears-free-palestine-shirt-at-gillette-stadium-following-robert-kraft-macklemore-row",
+    "tags": [
+      "solve",
+      "music-arts",
+      "controversial"
+    ],
+    "tags_zh": [
+      "解决",
+      "音乐艺术",
+      "争议观点"
+    ],
+    "date": "2026-10-03",
+    "summary_en": "This article documents a politically charged moment in live music: Zach Bryan's deliberate choice to wear a 'Free Palestine' shirt at Gillette Stadium — a venue owned by Robert Kraft, the very figure at the center of the Macklemore controversy. The piece traces the escalating chain of events: Macklemore's pro-Palestine speech at Ed Sheeran's tour, his removal from Gillette Stadium, the solidarity withdrawals by FINNEAS and others, the mutual donations between Macklemore and Kraft, and now Bryan's symbolic statement at the same contested venue. What makes this significant is not just the political statement itself, but the theatrical irony — Bryan performing to a sold-out country crowd at the stadium Kraft controls, wearing the exact message that got Macklemore banned. The article raises uncomfortable questions about who gets to speak politically in commercial spaces, and whether solidarity statements carry different weight depending on the artist's genre and audience. The narrative arc suggests that the Kraft-Macklemore row has opened a door that can't be closed: artists are now compelled to take sides, and venues that once seemed neutral are revealed as political actors. The story remains unfolding, with Bryan's second show still ahead.",
+    "summary_zh": "Zach Bryan在Gillette Stadium穿\"Free Palestine\"衬衫的举动，堪称一场精心设计的政治表态——这个场地正是Robert Kraft控制的、此前以Macklemore言论为由将其禁演的同一空间。文章串联起整个争议链条：Macklemore的演讲、被撤、同行声援、双方捐款，直至Bryan的再次挑战。最耐人寻味的是这种\"以场地之矛攻场地之盾\"的戏剧性——当商业空间标榜中立时，艺术家的身体本身就成了政治宣言。这不仅仅是音乐新闻，而是关于谁有权在公共空间发声、谁的声音被允许存在的深层追问。",
+    "best_quote_en": "When those in power try to silence our calls for liberation, art will always be a form of resistance.",
+    "best_quote_zh": "当权者试图让我们的解放呼声沉默时，艺术永远是一种抵抗形式。"
+  },
+  {
+    "id": 573,
+    "title": "NYFF 2026: Bardi, Heil Jupiter!",
+    "title_zh": "NYFF 2026：《巴尔迪》与《赫伊尔·木星》",
+    "model_used": "poolside/laguna-xs-2.1:free",
+    "source": "RogerEbert.com",
+    "link": "https://www.rogerebert.com/festivals/nyff-2026-bardi-heil-jupiter",
+    "tags": [
+      "learn",
+      "music-arts",
+      "beginner-friendly"
+    ],
+    "tags_zh": [
+      "学习",
+      "音乐艺术",
+      "新手友好"
+    ],
+    "date": "2026-10-02",
+    "summary_en": "This New York Film Festival coverage presents two contrasting cinematic approaches through Tala Hadid's 'Bardi' and Carlos Reygadas' 'Heil Jupiter!'. 'Bardi' offers a meditative anthropological exploration of Morocco's Tbourida tradition, immersing viewers in the spiritual connection between riders and horses while examining themes of masculine identity, intergenerational transmission, and cultural resistance to female participation. The film's documentary-fiction hybrid achieves beauty through patient observation, though its leisurely pace occasionally loses narrative momentum. Conversely, 'Heil Jupiter!' represents ambitious but ultimately inscrutable experimental filmmaking that employs shocking imagery and episodic structure to address immigration, sexuality, and oppression, yet fails to coalesce into meaningful artistic statement. While 'Bardi' succeeds in revealing cultural depth and human connection, 'Heil Jupiter!' struggles with thematic coherence despite its provocative intentions, raising questions about the balance between artistic ambition and narrative clarity.",
+    "summary_zh": "《巴尔迪》以温柔的摄影笔触记录摩洛哥骑术传统的精神世界，镜头轻柔地捕捉到 rider 与 horse 之间那份羁绊，也映照出世代间对传统的传承与女性对这一仪式的包容。相比之下，《赫伊尔·木星》以疯狂的画面拼贴尝试讲述抗争与压迫的议题，却因结构松散、概念过重，难以触及观众的心灵。前者静谧见证人情，后者狂放却失去方向。",
+    "best_quote_en": "Hadid plays these dramas out with the intimacy and proximity of narrative film, but keeps her doc moving at a leisurely, meditative pace. It's less sports doc than anthropology, as her ethereal style keeps us locked into the spiritual connection between man and beast.",
+    "best_quote_zh": "哈迪德以叙事电影的亲密感展开这些戏码，却保持纪录片的冷静节奏。她的空灵风格不只是体育纪录片，而是人类与兽的精神联结。"
+  },
+  {
+    "id": 574,
+    "title": "The Dandelion and the Meaning of Life: G.K. Chesterton on How to Live in Wonder",
+    "title_zh": "蒲公英与人生意义：G.K. 切斯顿论如何在惊奇中生活",
+    "model_used": "poolside/laguna-xs-2.1:free",
+    "source": "The Marginalian",
+    "link": "https://www.themarginalian.org/2026/10/03/g-k-chesterton-dandelion/",
+    "tags": [
+      "solve",
+      "design",
+      "writing-content",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "解决",
+      "设计创意",
+      "写作内容",
+      "未来预测"
+    ],
+    "date": "2026-10-03",
+    "summary_en": "This contemplative piece explores the profound philosophical question of how we create meaning in an indifferent universe. Through the lens of a simple dandelion encountered during a morning run, the author draws on G.K. Chesterton's wisdom to argue that meaning isn't discovered but actively created in the brief interlude of conscious existence between chaos and chaos. Chesterton's insight—that childhood wonder represents a 'miraculous world' rather than merely a world full of miracles—challenges our modern numbness to existence's fundamental improbability. The article masterfully connects the mundane (a weed in a garden) to the cosmic (our place in an indifferent universe), suggesting that recognizing our 'astonishment at our own existence' is the true art of living. This isn't escapist optimism but a radical acceptance of existence's gift, demanding we cultivate wonder as both philosophical stance and creative practice. The piece ultimately argues that meaning-making begins with awakening from the myth of predetermined purpose to embrace the responsibility and joy of creating significance in our brief conscious moment.",
+    "summary_zh": "这篇思辨性文章通过清晨跑步时路边一朵蒲公英的思考，探讨了我们如何在冷漠宇宙中创造意义。切斯顿的智慧揭示，意义并非被发现，而是在意识的短暂时刻中主动创造。将寻常景物与宇宙思想巧妙连接，呼吁我们从意义的神话中觉醒，拥抱惊奇作为生活的艺术。",
+    "best_quote_en": "No man knows how much he is an optimist, even when he calls himself a pessimist, because he has not really measured the depths of his debt to whatever created him and enabled him to call himself anything. At the back of our brains... [there is] a forgotten blaze or burst of astonishment at our own existence.",
+    "best_quote_zh": "没有人知道自己有多乐观，即便他自称悲观，因为他从未真正衡量过他对创造他的那些东西的债务，也没有意识到自己竟能成为自己所谓的一切。在我们脑后...有一股被遗忘的光热或惊讶之火，对我们的存在如此惊讶。"
+  },
+  {
+    "id": 575,
+    "title": "‘Behemoth!’ Review: Tony Gilroy & Pedro Pascal Turn Music, Memory & The Burden Of Family Legacy Into A Graceful Crescendo",
+    "title_zh": "《巨兽！》评论：Tony Gilroy与Pedro Pascal将音乐、记忆与家族遗产的重担化为优雅的高潮",
+    "model_used": "inclusionai/ling-3.0-flash-sante:free",
+    "source": "The Playlist",
+    "link": "https://theplaylist.net/behemoth-review-tony-gilroy-pedro-pascal-20261002/",
+    "tags": [
+      "update",
+      "music-arts",
+      "case-study"
+    ],
+    "tags_zh": [
+      "动态",
+      "音乐艺术",
+      "案例研究"
+    ],
+    "date": "2026-10-03",
+    "summary_en": "Tony Gilroy's intimate drama follows Alex Serian, a nomadic cellist and former child prodigy, as he returns to Los Angeles after 20 years to face his dying mother and fractured family. Through music as both refuge and burden, the film explores legacy, longing, and the cost of a lifetime built around extraordinary talent. Pedro Pascal delivers a subtly terrific performance, while Olivia Wilde and Will Arnett add vibrant emotional texture.",
+    "summary_zh": "Tony Gilroy执导的细腻剧情片讲述大提琴手Alex Serian二十年后重返洛杉矶，面对病重的母亲与破碎的家庭。影片以音乐为线索，探讨遗产、渴望与天赋的代价。Pedro Pascal表演克制而动人，Olivia Wilde与Will Arnett亦贡献精彩层次。",
+    "best_quote_en": "Music isn't merely Alex's conduit to painful memory. It is his refuge and the place where he seems most fully alive.",
+    "best_quote_zh": "音乐不仅是Alex通往痛苦记忆的通道，更是他最后的避难所，也是他感到最真实活着的所在。"
+  },
+  {
+    "id": 576,
+    "title": "Every song on the ‘East Of Eden’ soundtrack",
+    "title_zh": "《伊甸园东》配乐中的每一首歌",
+    "model_used": "cohere/north-mini-code:free",
+    "source": "NME",
+    "link": "https://www.nme.com/news/tv/east-of-eden-soundtrack-every-song-3971682?utm_source=rss&utm_medium=rss&utm_campaign=east-of-eden-soundtrack-every-song",
+    "tags": [
+      "update",
+      "general"
+    ],
+    "tags_zh": [
+      "动态",
+      "general"
+    ],
+    "date": "2026-10-02",
+    "summary_en": "This article explores the soundtrack of Netflix's 'East of Eden' TV adaptation, highlighting composer Laura Karpman's score and notable song selections. The piece details how Karpman, known for 'American Fiction' and 'Lovecraft Country', created the show's musical landscape. While the series features only a few curated songs—Scott Joplin's 'The Easy Winners', The Rolling Stones' 'Paint It, Black', and the WWI marching tune 'Pack Up Your Troubles'—these selections serve specific narrative functions across the seven episodes. The content offers insights into contemporary adaptation strategies, bridging literary classic with modern musical tastes, and provides a comprehensive soundtrack guide for viewers interested in the intersection of television drama and curated music selection.",
+    "summary_zh": "这篇文章探讨了Netflix电视剧《伊甸园东》的配乐，重点介绍了作曲家劳拉·卡尔普曼（Laura Karpman）的工作和选曲策略。文章提到，卡尔普曼曾创作过《美国小说》、《惊奇小姐》和《洛夫克拉夫特国度》等作品。该剧仅在七集中插入了少数歌曲，包括斯科特·乔普林（Scott Joplin）的《The Easy Winners》、滚石乐队（The Rolling Stones）的《Paint It, Black》和一首第一次世界大战的进行曲《Pack Up Your Troubles In Your Old Kit-Bag, and Smile, Smile, Smile》。这些歌曲在叙事中起到了特定作用。文章揭示了当代改编如何将文学经典与现代音乐审美相结合，为观众提供了关于电视剧与精心挑选的音乐的见解。",
+    "best_quote_en": "The show’s score is by Laura Karpman, whose previous credits include American Fiction, Ms. Marvel, What If…?, and Lovecraft Country.",
+    "best_quote_zh": "该剧的配乐由劳拉·卡尔普曼（Laura Karpman）创作，她之前曾参与《美国小说》、《惊奇小姐》、《奇异博士》和《洛夫克拉夫特国度》等作品。"
   }
 ]
