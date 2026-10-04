@@ -1,126 +1,5 @@
 [
   {
-    "id": 477,
-    "title": "The Fascinating Science of How We Think Not with the Brain But with the World",
-    "title_zh": "我们如何思考：科学揭示思维并非只发生于大脑，而是借助世界展开",
-    "model_used": "nex-agi/nex-n2.5-mini:free",
-    "source": "The Marginalian",
-    "link": "https://www.themarginalian.org/2026/09/13/the-extended-mind/",
-    "tags": [
-      "learn",
-      "ai-research",
-      "science",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "学习",
-      "AI研究",
-      "科学研究",
-      "未来预测"
-    ],
-    "date": "2026-09-13",
-    "summary_en": "This reflective essay reframes intelligence as an ecological achievement rather than an isolated property of the skull. Annie Murphy Paul’s extended-mind thesis argues that thought is assembled from bodily sensations, movement, places, tools, language, and other people. The article is especially persuasive in connecting embodied, situated, and distributed cognition while offering a useful corrective to the reduction of the brain to a self-contained machine. Its magpie metaphor is memorable: cognition depends on the quality of the world one can draw upon and the skill with which one uses those materials. The broader significance is practical and ethical. Education, work design, creativity, and wellbeing could benefit from environments that invite walking, gesturing, reflection, collaboration, and contact with nature. Yet the essay moves more confidently than its evidence permits when it hints that individual minds may belong to one universal mind, an interpretive leap that remains philosophically contested. Its cultural survey also privileges Western thinkers. Still, the central claim is enduring: to think well, we must cultivate not only our brains, but the worlds in which thinking can occur.",
-    "summary_zh": "这篇随笔把智慧重新定义为一种与环境共同生成的能力，而非大脑独自完成的封闭运算。它借安妮·墨菲·保罗的“延展心智”说，串联身体、动作、空间、工具与他人，指出专注、理解与创造力都受可用材料及其使用方式影响。最打动人的，是文章把“如何思考”转化为“如何营造可思考的世界”：教育、工作、创作与福祉，或许都应让行走、手势、反思、协作和自然重新进入认知。不过，从神经科学一路抵达“心灵或许只有一个”的形而上判断，证据仍显跳跃，西方男性思想的比重也值得留意。可它留下的提醒历久弥新：提升思维，不只是训练大脑，更是修复我们栖居其中的世界。",
-    "best_quote_en": "We extend beyond our limits, not by revving our brains like a machine or bulking them up like a muscle — but by strewing our world with rich materials, and by weaving them into our thoughts.",
-    "best_quote_zh": "我们并非靠把大脑当机器加速运转，或像锻炼肌肉一样把它练得更强壮，来超越自身局限；我们是在世界中布满丰富的材料，并把它们编织进自己的思想。"
-  },
-  {
-    "id": 478,
-    "title": "100 Objects #17: M43 Field Jacket",
-    "title_zh": "100件物品 #17：M43野战夹克",
-    "model_used": "nvidia/nemotron-3-super-120b-a12b:free",
-    "source": "99% Invisible",
-    "link": "https://99percentinvisible.org/episode/100-objects-017-m43-field-jacket/",
-    "tags": [
-      "analyze",
-      "design",
-      "case-study"
-    ],
-    "tags_zh": [
-      "分析",
-      "设计创意",
-      "案例研究"
-    ],
-    "date": "2026-09-11",
-    "summary_en": "This episode explores the M43 Field Jacket as a pivotal artifact in American military and cultural history, revealing how military necessity drove innovation that reshaped civilian fashion globally. Avery Trufelman and Roman Mars trace the jacket’s evolution from a functional solution to the military’s 'clothing problem'—balancing protection, mobility, and mass production—into a timeless design icon. The analysis highlights how utilitarian military gear often becomes embedded in everyday life, influencing workwear, streetwear, and global apparel trends. Beyond its design legacy, the M43 jacket symbolizes broader themes of industrial adaptation, user-centered design, and the unintended cultural consequences of military innovation. The discussion invites reflection on how objects born from conflict can foster connection and utility in peacetime, making it a compelling case study in design history and material culture.",
-    "summary_zh": "这一集通过M43野战夹克的故事，深刻展示了军事需求如何推动设计创新，并最终深刻影响全球平民时尚。M43不仅解决了士兵的实用问题，更成为跨越军民界限的设计典范。它提醒我们，看似冲突中的工具，往往在和平时期以意想不到的方式服务于人类——这是一段关于功能、形式与文化演化的温暖叙事。",
-    "best_quote_en": "The M43 Field Jacket didn't just change what soldiers wore—it changed what we all wear every day.",
-    "best_quote_zh": "M43野战夹克不仅改变了士兵的穿着，它改变了我们每天的穿着方式。"
-  },
-  {
-    "id": 479,
-    "title": "Wild Horse Nine: Martin McDonagh deploys his trademark irreverence in a funny-sad 1970s spy caper",
-    "title_zh": "野马九号：马丁·麦克唐纳以他标志性的不羁幽默，打造了一部1970年代间谍喜剧",
-    "model_used": "dots-studio/dots-3-note-preview:free",
-    "source": "BFI",
-    "link": "https://www.bfi.org.uk/sight-and-sound/reviews/wild-horse-nine-martin-mcdonagh-deploys-his-trademark-irreverence-funny-sad-1970s-spy-caper",
-    "tags": [
-      "analyze",
-      "ai-research",
-      "music-arts",
-      "controversial"
-    ],
-    "tags_zh": [
-      "分析",
-      "AI研究",
-      "音乐艺术",
-      "争议观点"
-    ],
-    "date": "2026-09-11",
-    "summary_en": "Martin McDonagh’s Wild Horse Nine is a darkly comedic, historically charged spy caper set in 1973, centered on two aging CIA operatives—Chris (John Malkovich) and Lee (Sam Rockwell)—navigating the twilight of their careers and the Cold War era. The film blends McDonagh’s signature razor-sharp dialogue with a bittersweet exploration of guilt, mortality, and the moral decay of American imperialism. Malkovich delivers a career-defining performance as a terminally ill, dementia-ridden agent seeking redemption through a ritualistic request to be killed by his partner, while Rockwell provides a melancholic, grounded counterpoint. The film’s strength lies in its crackling chemistry and its unflinching critique of historical atrocities—from Guatemala to Chile—though it occasionally falters by trivializing real-world tragedies for comedic effect. McDonagh’s trademark irreverence is both a weapon and a liability: it sharpens the satire but risks alienating audiences with its flippant handling of weighty subjects. Ultimately, Wild Horse Nine is a flawed yet fiercely intelligent film that interrogates the legacy of espionage, the cost of loyalty, and the absurdity of seeking grace in a world built on betrayal.",
-    "summary_zh": "《野马九号》是一部充满黑色幽默与历史沉思的间谍喜剧，背景设定于1973年，聚焦两位步入暮年的CIA特工——克里斯（约翰·马尔科维奇饰）与李（山姆·洛克威尔饰）——在冷战余烬中寻求救赎与终结。影片以麦克唐纳标志性的犀利对白与荒诞笔触，勾勒出美国帝国主义的道德溃败与个体在历史洪流中的无力感。马尔科维奇贡献了堪称生涯巅峰的表演，饰演一位身患绝症、记忆衰退、渴望以“被搭档杀死”来完成灵魂救赎的虚无主义者；洛克威尔则以沉静忧郁的演绎，成为其情感锚点。影片在讽刺与悲悯间摇摆，既尖锐批判了从危地马拉到智利的真实历史暴行，又因对悲剧的轻率调侃而引发争议。麦克唐纳的“不羁”既是锋利的手术刀，也是双刃剑——它剖开历史的脓疮，却也偶尔让观众感到被消解的痛感。最终，这是一部不完美却极具智性张力的作品，它追问：在背叛与谎言构筑的世界中，灵魂是否还能寻得安宁？",
-    "best_quote_en": "You kill one Black president and no one remembers; kill one white one and the whole world goes fucking crazy.",
-    "best_quote_zh": "你杀了一个黑人总统，没人记得；杀了一个白人总统，整个世界都他妈疯了。"
-  },
-  {
-    "id": 480,
-    "title": "How to Be a Good Explorer on the Lifelong Expedition to Yourself",
-    "title_zh": "如何成为自我终身探险的好探险者",
-    "model_used": "nvidia/nemotron-3-super-120b-a12b:free",
-    "source": "The Marginalian",
-    "link": "https://www.themarginalian.org/2026/09/12/pessoa-explorer/",
-    "tags": [
-      "solve",
-      "science",
-      "psychology",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "解决",
-      "科学研究",
-      "心理学",
-      "未来预测"
-    ],
-    "date": "2026-09-12",
-    "summary_en": "The article reflects on the distinction between experimentation and genuine exploration in the journey of self‑discovery, drawing on Fernando Pessoa’s posthumous masterpiece *The Book of Disquiet*. It argues that true self‑knowledge arises not from testing hypotheses but from an open, receptive traversal of inner landscapes — an attitude that demands courage, vulnerability, and a willingness to abandon preconceived expectations. Pessoa’s instructions urge us to feel with the mind, think with emotions, and experience sensations inwardly, ultimately revealing that the universe we seek lies within ourselves. The piece also notes the paradox of consciousness: while it enables introspection, it often turns the lens inward in a self‑conscious way that obscures authentic insight. By framing self‑exploration as an expedition rather than a experiment, the essay invites readers to cultivate a continual, exploratory stance toward their own being, suggesting that wisdom emerges when we stop analyzing and simply observe ourselves as we would nature. The essay concludes with a call to adopt Pessoa’s brief, blazing set of instructions — to feel everything in every way, to think with emotions and feel with the mind, and to use sensations internally — as a practical guide for cultivating the receptivity needed for revelatory self‑discovery.",
-    "summary_zh": "文章区分了实验与探索在自我的终身旅程中的不同，引用费尔南多·佩索阿《不安之书》指出，真正的自我认识来自于对内心景观的开放漫游，而非假设的验证。佩索阿教导我们以情感思考、以思想感受，将感觉内化，从而揭示宇宙就在我们自身。文中还指出意识虽能内省，却常因自我意识而扭曲视野。文章呼吁我们停止分析，像观察自然一样观察自己，以获得真正的智慧。",
-    "best_quote_en": "Everything is in us — all we need to do is look for it and know how to look.",
-    "best_quote_zh": "一切都在我们内心 —  — 我们只需要去寻找，并且知道如何观看。"
-  },
-  {
-    "id": 481,
-    "title": "1-800-PODCAST",
-    "title_zh": "1-800电话的历史与影响",
-    "model_used": "inclusionai/ling-3.0-flash-fin:free",
-    "source": "99% Invisible",
-    "link": "https://99percentinvisible.org/episode/681-1-800-podcast/",
-    "tags": [
-      "update",
-      "legal",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "动态",
-      "法律法规",
-      "数据驱动"
-    ],
-    "date": "2026-09-01",
-    "summary_en": "This episode traces the surprising lineage of modern 24/7 consumer culture back to a single technological innovation: the toll-free 800 number. What begins as a story about AT&T's inWATS system in the 1960s reveals itself to be a meditation on how infrastructure shapes behavior long before the applications catch up. The narrative arc—from reluctant consumers mailing paper orders to the explosive $130 billion toll-free economy of the 1990s—illuminates a crucial insight: convenience alone doesn't transform markets; it requires the convergence of multiple systems (credit cards, deregulation, television) to unlock latent demand. The piece also offers a quietly profound reflection on legacy, noting that the 800 number's original promise—removing distance and friction—now persists in degraded form through chatbots and automated systems. The secondary thread on lawyer advertising serves as a fascinating counterpoint, illustrating how deregulating speech (Bates v. State Bar of Arizona) created an entirely new commercial landscape, much like toll-free numbers reshaped retail. Together, these stories reveal that the tools we use to sell things are never neutral; they fundamentally alter when, where, and how humans make decisions.",
-    "summary_zh": "本期节目追溯了现代全天候消费文化令人惊讶的源头：免费800电话号码。从1960年代AT&T的inWATS系统开始，这个故事揭示了基础设施如何在应用出现之前就塑造了行为。从犹豫的消费者邮寄纸质订单，到1990年代1300亿美元的免费电话经济，这段历程揭示了一个关键洞见：便利本身并不能改变市场；它需要多重系统的融合（信用卡、放松管制、电视）才能释放潜在需求。节目还提供了一个关于遗产的深刻反思，指出800号码最初消除距离和摩擦的承诺，如今已通过聊天机器人和自动化系统以衰减的形式延续。律师广告的次要线索则构成了一个迷人的对照，说明放松言论管制（Bates v. State Bar of Arizona）如何创造了全新的商业格局，正如免费电话号码重塑了零售业。这些故事共同揭示了一个真理：我们用来销售的工具从来都不是中立的；它们从根本上改变了人类做出决策的时间、地点和方式。",
-    "best_quote_en": "The modern retail economy didn't invent the idea of shopping whenever you want. The 800 number taught us to expect it.",
-    "best_quote_zh": "现代零售经济并没有发明随时购物的概念。是800电话教会了我们期待它。"
-  },
-  {
     "id": 482,
     "title": "“An island within the island” by succco",
     "title_zh": "岛中之岛",
@@ -2342,5 +2221,120 @@
     "summary_zh": "这篇文章探讨了Netflix电视剧《伊甸园东》的配乐，重点介绍了作曲家劳拉·卡尔普曼（Laura Karpman）的工作和选曲策略。文章提到，卡尔普曼曾创作过《美国小说》、《惊奇小姐》和《洛夫克拉夫特国度》等作品。该剧仅在七集中插入了少数歌曲，包括斯科特·乔普林（Scott Joplin）的《The Easy Winners》、滚石乐队（The Rolling Stones）的《Paint It, Black》和一首第一次世界大战的进行曲《Pack Up Your Troubles In Your Old Kit-Bag, and Smile, Smile, Smile》。这些歌曲在叙事中起到了特定作用。文章揭示了当代改编如何将文学经典与现代音乐审美相结合，为观众提供了关于电视剧与精心挑选的音乐的见解。",
     "best_quote_en": "The show’s score is by Laura Karpman, whose previous credits include American Fiction, Ms. Marvel, What If…?, and Lovecraft Country.",
     "best_quote_zh": "该剧的配乐由劳拉·卡尔普曼（Laura Karpman）创作，她之前曾参与《美国小说》、《惊奇小姐》、《奇异博士》和《洛夫克拉夫特国度》等作品。"
+  },
+  {
+    "id": 577,
+    "title": "100 Objects #20: AA Sobriety Chip",
+    "title_zh": "100个有趣事物 #20：AA戒酒芯片",
+    "model_used": "poolside/laguna-xs-2.1:free",
+    "source": "99% Invisible",
+    "link": "https://99percentinvisible.org/episode/100-objects-020-aa-sobriety-chip/",
+    "tags": [
+      "analyze",
+      "general",
+      "case-study"
+    ],
+    "tags_zh": [
+      "分析",
+      "general",
+      "案例研究"
+    ],
+    "date": "2026-10-02",
+    "summary_en": "This episode of 'A History of the United States in 100 Objects' explores the profound cultural significance of the AA sobriety chip through Jamie Loftus's personal journey of discovery. Beginning with childhood memories of her father's AA collection, Loftus uncovers how this seemingly simple plastic token encapsulates America's complex relationship with gender, religion, and morality—tracing connections from Prohibition to women's suffrage. The analysis reveals how a humble recovery symbol serves as a lens for examining broader societal transformations, demonstrating how material culture can illuminate hidden histories. This content uniquely bridges personal narrative with historical inquiry, offering listeners both intimate storytelling and macro-level insights into American social evolution. The piece exemplifies how examining everyday objects can reveal extraordinary cultural narratives.",
+    "summary_zh": "通过Jamie Loftus对AA戒酒芯片的探索，这段内容将个人记忆与美国社会史交织。从禁酒令到妇女 suffrage，这枚小小塑料芯片承载了性别、宗教与道德的复杂历史。内容以细致入微的物质文化为切入口，揭示了看似平凡的康复象征背后隐藏的社会变迁，引发人们对日常物件所蕴含的文化深度思考。",
+    "best_quote_en": "What she found is that imbued in that little chip is a hidden history — from Prohibition to women's suffrage — of America's relationship to gender, religion, and morality.",
+    "best_quote_zh": "她发现，这枚小小的芯片中融合了从禁酒令到妇女 suffrage 的隐秘历史，映射了美国对性别、宗教与道德的 complex 关系。"
+  },
+  {
+    "id": 578,
+    "title": "Take It Or Leave It: the making of Madness",
+    "title_zh": "取之不舍：疯狂的诞生",
+    "model_used": "nvidia/nemotron-3.5-lightning:free",
+    "source": "BFI",
+    "link": "https://www.bfi.org.uk/interviews/take-it-or-leave-it-making-madness",
+    "tags": [
+      "update",
+      "music-arts"
+    ],
+    "tags_zh": [
+      "动态",
+      "音乐艺术"
+    ],
+    "date": "2026-10-02",
+    "summary_en": "This documentary reappraisal of Madness's 1981 film offers a fascinating case study in grassroots filmmaking and artistic integrity. Director Dave Robinson's decision to ground the band's rise in social realism rather than glossy melodrama reveals much about working-class creativity under constraint. The film's unique approach—shooting in actual venues with non-professional cast members—creates an authentic document of a specific London moment before gentrification erased it. Perhaps most compelling is how the documentary reframes Madness not as cartoonish pop stars but as complex individuals from council estates navigating poverty and violence. The contrast between their zany public personas and private struggles adds surprising depth. The 4K restoration's timely re-release feels less like commercial revival and more overdue recognition of a humble work that captured an irreproachable era with humor and humanity.",
+    "summary_zh": "这部对Madness 1981年电影的重新审视，是草根电影制作和艺术诚信的迷人案例。戴夫·罗宾逊导演选择用社会现实主义而非粉饰的 melodrama 来讲述乐队成名的故事，揭示了在限制条件下的工人阶级创造力。影片取景于实际场所，使用非专业演员的做法，创造了一个在 gentrification 之前伦敦特定时刻的真实记录。最引人入胜的是，这部纪录片如何将Madness从粗俗的流行明星重新定义为来自市政公寓的复杂个体，他们在贫困和暴力中挣扎。他们喧闹的公众形象与私下的挣扎之间的反差，出人意料地增加了深度。4K修复的及时重映，感觉不像是商业复兴，而更像是对一部谦逊的作品的迟到的认可，它以幽默和人性捕捉了一个不可复制的时代。",
+    "best_quote_en": "\"I wanted to show how a band could get together and take on the world,\" Robinson explains. \"And that is the same for the Beatles as it is for everybody else.\"",
+    "best_quote_zh": "\"我要展示一个乐队如何聚在一起并征服世界\"，罗宾逊解释道。\"对甲虫乐队来说也是一样，这适用于所有人.\""
+  },
+  {
+    "id": 579,
+    "title": "“West of the River” by Photographer Christian Badach",
+    "title_zh": "“河西” by 摄影师 Christian Badach",
+    "model_used": "inclusionai/ling-3.0-flash-sante:free",
+    "source": "BOOOOOOOM",
+    "link": "https://www.booooooom.com/2026/10/02/west-of-the-river-by-photographer-christian-badach/",
+    "tags": [
+      "inspire",
+      "general"
+    ],
+    "tags_zh": [
+      "启发",
+      "general"
+    ],
+    "date": "2026-10-02",
+    "summary_en": "Christian Badach's photographic series 'West of the River' presents a visual meditation on landscape, solitude, and the subtle interplay between human presence and natural environments. The collection demonstrates a masterful command of composition, light, and mood — each frame feels deliberately composed yet effortlessly evocative. What distinguishes Badach's work is his ability to find narrative tension in stillness; these are not merely scenic photographs but contemplative spaces that invite the viewer to project their own emotional landscape onto the image. The series raises important questions about how we relate to unfamiliar terrain — both geographically and psychologically. In an era of oversaturated visual content, Badach's restrained aesthetic serves as a reminder that photography's power lies in what is left unsaid, in the negative space between subject and viewer. The work sits at the intersection of documentary and fine art, challenging conventional boundaries of genre while maintaining accessibility.",
+    "summary_zh": "Christian Badach的《河西》系列是一次关于景观、孤独与人的存在感的视觉冥想。画面中的克制与张力令人印象深刻——他善于在静止中捕捉叙事，让观者将自己的情感投射进画框。在这个图像过剩的时代，Badach提醒我们：摄影的力量往往在于那些未被言说的留白。",
+    "best_quote_en": "These are not merely scenic photographs but contemplative spaces that invite the viewer to project their own emotional landscape onto the image.",
+    "best_quote_zh": "他善于在静止中捕捉叙事，让观者将自己的情感投射进画框。"
+  },
+  {
+    "id": 580,
+    "title": "My relationship with food was broken. Then I killed my own dinner",
+    "title_zh": "我与食物的关系破裂了。后来我亲手杀了自己的晚餐",
+    "model_used": "cohere/north-mini-code:free",
+    "source": "Women | The Guardian",
+    "link": "https://www.theguardian.com/lifeandstyle/ng-interactive/2026/oct/03/food-diet-weight-hunting",
+    "tags": [
+      "solve",
+      "psychology",
+      "lifestyle",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "解决",
+      "心理学",
+      "生活方式",
+      "数据驱动"
+    ],
+    "date": "2026-10-03",
+    "summary_en": "Katherine Hill recounts how her disordered relationship with food transformed after hunting and consuming a deer, forcing a radical reassessment of body image, fatphobia, and cultural narratives around food and weight. Her journey from restrictive eating to embracing seasonal fat as a sign of health challenges the pervasive diet culture that equates thinness with virtue, exposing the psychological chaos caused by a disconnect from food origins. Interviews with psychologist Dr. Hannah Carl and author Elise Loehnen underscore how caloric dogma has misled women for decades, while statistics reveal the extreme social cost of body stigma. Hill’s personal story, interwoven with broader reflections on hunting, mortality, and the privilege of food insecurity, invites readers to reconsider what it means to be healthy, to value food, and to confront the toxic beauty standards that dictate our self‑perception.",
+    "summary_zh": "凯瑟琳·希尔讲述了她如何通过狩猎并食用鹿肉，从此改变了对食物的扭曲认知，她开始将脂肪视为生命与健康的标志，对抗普遍的饮食文化和对瘦身的痴迷。她揭露了与食物来源的脱节如何导致心理混乱，引用专家观点指出卡路里平衡理论的过时，并呈现了女性因体型焦虑而付出的惨重代价。她的故事不仅是个人成长的写照，更是对社会审美标准的深刻反思，呼吁人们重新审视健康、体重与食物的关系。",
+    "best_quote_en": "What would happen if society saw human bodies the same way I saw my first doe, with fat as proof of life and health?",
+    "best_quote_zh": "如果社会以我看待第一只母鹿的方式来看待人体——将脂肪视为生命与健康的证明——那会发生什么？"
+  },
+  {
+    "id": 581,
+    "title": "“Sick and kinky”: The BBFC and Ken Russell’s The Devils",
+    "title_zh": "‘病态且性幻想’: 《魔教徒》论片商委员会与肯·拉塞尔",
+    "model_used": "poolside/laguna-xs-2.1:free",
+    "source": "BFI",
+    "link": "https://www.bfi.org.uk/sight-and-sound/features/sick-kinky-bbfc-ken-russells-devils",
+    "tags": [
+      "analyze",
+      "ai-research",
+      "science",
+      "deep-dive"
+    ],
+    "tags_zh": [
+      "分析",
+      "AI研究",
+      "科学研究",
+      "深度分析"
+    ],
+    "date": "2026-10-01",
+    "summary_en": "This compelling analysis examines the cultural and political battle surrounding Ken Russell's controversial 1971 film 'The Devils', revealing how the British Board of Film Censors navigated a perfect storm of blasphemy concerns, obscenity fears, and shifting social mores. Through meticulous archival research, Linda Ruth Williams illuminates the schism between censorial voices who found the film 'nauseating' and those who defended artistic freedom. The piece demonstrates how censorship operated not through single decisive moments but through 'death by a thousand cuts'—incremental editing demands that fundamentally altered Russell's vision. Beyond film history, this becomes a meditation on how institutions balance moral guardianship against creative expression, offering profound insights for contemporary debates about artistic freedom, religious sensitivity, and the role of cultural gatekeepers in democratic societies.",
+    "summary_zh": "本文深入剖析肯·拉塞尔1971年经典影片《魔教徒》的审查风波，揭示英国电影委员会如何在亵渎与低俗的夹缝中把握艺术自由。拉塞尔的激进创作在审查层层压迫下被匮乏，却意外成为时代精神符号。影片不仅是影评史诗，更是艺术审查与公共道德博弈的永恒典范。",
+    "best_quote_en": "Any cuts that we make in [Russell's] grossness and excesses to the bare bone will improve the film. It is thoroughly sick and kinky.",
+    "best_quote_zh": "任何对拉塞尔‘肮脏’和‘过度’手段的裁剪都将改善电影。此片完全病态且充满性幻想。"
   }
 ]
