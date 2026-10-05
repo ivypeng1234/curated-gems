@@ -1,120 +1,5 @@
 [
   {
-    "id": 482,
-    "title": "“An island within the island” by succco",
-    "title_zh": "岛中之岛",
-    "model_used": "inclusionai/ling-3.0-flash-vl:free",
-    "source": "BOOOOOOOM",
-    "link": "https://www.booooooom.com/2026/09/14/an-island-within-the-island-by-succco/",
-    "tags": [
-      "inspire",
-      "general"
-    ],
-    "tags_zh": [
-      "启发",
-      "general"
-    ],
-    "date": "2026-09-14",
-    "summary_en": "Michael Francalanci's 'An island within the island' is a visually arresting photographic series that explores spatial isolation and nested environments through architectural imagery. Hosted on the renowned design platform booooooom, this portfolio functions less as a textual essay and more as an immersive visual experience — 25 carefully composed images that invite contemplation on how spaces contain microcosms within themselves. The conceptual title suggests a meditation on interiority and separation, perhaps reflecting on how physical structures create psychological territories. While the absence of written commentary might frustrate those seeking analytical depth, the work's strength lies precisely in its visual silence — allowing the images to speak through composition, light, and spatial tension. For designers, architects, and visual artists, this collection offers rich inspiration on how to frame and narrate through image alone, embodying the idea that sometimes the most powerful insight is conveyed without a single word.",
-    "summary_zh": "Michael Francalanci 的「岛中之岛」是一组极具张力的建筑摄影作品，在 booooooom 平台上以纯视觉的方式展开叙事。25 张影像构成了一场关于空间嵌套与隔离的静默对话——标题本身便是一个精妙的隐喻，暗示每个空间内部都孕育着另一个独立世界。作为创作者，我被这种无需文字的表达能力所打动：它提醒我们，影像的力量恰恰在于留白，让观者在光影与结构的缝隙中自行寻找意义。这不是一份指南，而是一面镜子，映照出空间如何成为心灵的投射。",
-    "best_quote_en": "An island within the island",
-    "best_quote_zh": "岛中之岛"
-  },
-  {
-    "id": 483,
-    "title": "Solo autumn walks for women in the UK and Europe: ‘it should be fun, not daunting’",
-    "title_zh": "女性在英国和欧洲的独自秋季徒步：“它应该是有乐趣的，而不是令人畏惧的”",
-    "model_used": "poolside/laguna-xs-2.1:free",
-    "source": "Women | The Guardian",
-    "link": "https://www.theguardian.com/lifeandstyle/2026/sep/15/solo-walks-autumn-for-women-uk-europe",
-    "tags": [
-      "analyze",
-      "lifestyle",
-      "case-study"
-    ],
-    "tags_zh": [
-      "分析",
-      "生活方式",
-      "案例研究"
-    ],
-    "date": "2026-09-15",
-    "summary_en": "This article masterfully weaves personal narrative with practical guidance, addressing the growing phenomenon of solo female hiking through a feminist lens. Abbs reveals that 27% surge in UK women solo hiking (2020-2022) reflects deeper psychological liberation rather than mere recreational trend. Her analysis transcends typical 'how-to' content by examining the intersection of gender, wilderness, and autonomy. The piece's strength lies in its nuanced portrayal of fear as both rational safety concern and societal conditioning, while offering concrete solutions that preserve solitude's sanctity. Four European routes demonstrate thoughtful curation—Swiss Alps for cultural acceptance, South Downs for historical resonance, Cleveland Way for gentle exposure, and Portuguese coast for sensory pleasure. The inclusion of 1860s pioneer Mathilde Blind adds profound historical dimension, connecting contemporary female independence to centuries-old tradition. Beyond practical advice, this represents philosophical exploration of how solitary wilderness immersion catalyzes personal transformation and collective female empowerment.",
-    "summary_zh": "这篇文章以女性独自徒步的真实经历为切入点，探讨了性别平等与自然野营之间的深层关联。27%的增长数据背后，是女性对自主权与自我实现的渴望。作者以细腻的笔触揭示恐惧背后的社会根源，同时提供实用的安全方案。值得注意的是，她精选的四条路线不仅路径优美，更传递出时代女性寻求自由与尊严的共鸣。",
-    "best_quote_en": "For once I felt truly free.",
-    "best_quote_zh": "此刻，我真正感受到了自由。"
-  },
-  {
-    "id": 484,
-    "title": "Coronavirus and Credibility",
-    "title_zh": "新冠病毒与可信度",
-    "model_used": "poolside/laguna-xs-2.1:free",
-    "source": "Paul Graham",
-    "link": "http://www.paulgraham.com/cred.html",
-    "tags": [
-      "learn",
-      "general",
-      "controversial"
-    ],
-    "tags_zh": [
-      "学习",
-      "general",
-      "争议观点"
-    ],
-    "date": "2026-09-15",
-    "summary_en": "This piece examines how the coronavirus pandemic served as an unprecedented credibility test for public figures who made confident yet inaccurate predictions about its severity. The author argues that journalists and politicians operate with impunity in making bold forecasts because most predictions either lack concrete outcomes or occur too far in the future for accountability. However, epidemics provide immediate, unambiguous falsification of predictions, creating a rare moment of truth. The pandemic thus revealed who possessed genuine expertise versus those who merely projected confidence, making it 'the most accurate test of credibility' we're likely to encounter. This analysis carries profound implications for how we evaluate expertise, authority, and truth in public discourse, especially during crisis situations where information shapes collective behavior and policy decisions.",
-    "summary_zh": "这篇文章深刻剖析了新冠疫情如何成为检验公共人物可信度的独特试金石。作者指出，许多名人轻信地预测新冠如流感般温和，却不敢面对事实的检验。这种急于下结论的现象暴露了他们对真实知识的渴求与渴望。疫情的快速发展让人们看到那些谦逊的人格光辉，那些胸有成竹的言论化为汗珠。或许此刻最值得我们铭记的，正是这种在危机中考验人性的机遇——它让我们看见了谁是真正的专家，谁是只会空谈的喷射器。",
-    "best_quote_en": "It's only when the tide goes out that you learn who's been swimming naked.",
-    "best_quote_zh": "只有潮水退去，才能看出谁在裸泳。"
-  },
-  {
-    "id": 485,
-    "title": "The Tim Ferriss Show Transcripts: How to Teach a 3-Year-Old to Read and Rethinking Education — Tim Coaches Niels Hoven of Mentava (#882)",
-    "title_zh": "Tim Ferriss Show 转录：如何教会3岁儿童识字与重新思考教育——Tim 辅导 Mentava 创始人 Niels Hoven (#882)",
-    "model_used": "poolside/laguna-xs-2.1:free",
-    "source": "Tim Ferriss",
-    "link": "https://tim.blog/2026/09/10/niels-hoven-mentava-transcript/",
-    "tags": [
-      "solve",
-      "education",
-      "case-study"
-    ],
-    "tags_zh": [
-      "解决",
-      "教育学习",
-      "案例研究"
-    ],
-    "date": "2026-09-11",
-    "summary_en": "This transcript reveals profound insights into accelerated learning through the lens of Mentava's early literacy software. Niels Hoven shares compelling evidence that children can achieve second-grade reading levels by age three, challenging fundamental assumptions about educational timelines. The conversation explores how kids naturally absorb language when presented with engaging, gamified content - two-year-old twins reading 'Hop on Pop' before their third birthday exemplifies this phenomenon. Beyond anecdotal success stories, the discussion addresses deeper questions about educational philosophy: Why do we accept slow learning paces when children demonstrate remarkable cognitive capacity? The interview also touches on the entrepreneurial journey of building Mentava, highlighting the importance of advocating fiercely for children's educational potential. This content appeals to parents, educators, and edtech entrepreneurs seeking evidence-based approaches to accelerate learning while maintaining joy and curiosity in the process.",
-    "summary_zh": "这段转录揭示了通过Mentava早期识字软件所实现的深刻学习洞见。Niels Hoven分享了令人瞠目的证据：3岁儿童即可达成二年级阅读水平，挑战了我们对教育时间线的根本假设。对话探讨了孩子在充满活力的游戏化内容中如何自然吸收语言——两岁双胞胎在3岁之前就能阅读《Hop on Pop》正是这种现象的完美例证。除了零星故事，讨论还涉及更深层的教育哲学问题：为何我们接受缓慢的学习节奏，而孩子们展现出惊人的认知能力？这场采访还触及了构建Mentava的创业之路，强调对儿童教育潜力的猛烈 advocacy 的重要性。这类内容吸引了父母、教育工作者和教育科技企业家，他们寻求基于证据的方法来加速学习，同时保持过程中的乐趣与好奇心。",
-    "best_quote_en": "Kids are these little sponges. They want to learn everything.",
-    "best_quote_zh": "孩子们就是这些小海绵。他们想学习一切。"
-  },
-  {
-    "id": 486,
-    "title": "iPhone 的垃圾时间结束了吗",
-    "title_zh": "iPhone 的垃圾时间结束了吗",
-    "model_used": "poolside/laguna-s-2.1:free",
-    "source": "虎嗅",
-    "link": "https://www.huxiu.com/article/4891303.html?f=rss",
-    "tags": [
-      "learn",
-      "design",
-      "ai-research",
-      "deep-dive"
-    ],
-    "tags_zh": [
-      "学习",
-      "设计创意",
-      "AI研究",
-      "深度分析"
-    ],
-    "date": "2026-09-15",
-    "summary_en": "This article examines Apple's belated entry into the foldable phone market with the iPhone Duo, seven years after Samsung's initial launch. The analysis reveals that Apple's timing isn't merely about innovation lag—it reflects a calculated strategy of entering mature markets with superior execution. The piece explores how Apple leverages its software expertise and supply chain dominance to monetize a shrinking but increasingly lucrative smartphone market, capturing nearly half of global revenue despite holding only 21% unit share. More critically, the article argues that while foldable screens represent yesterday's battle, Apple's real challenge lies in the AI frontier—where competitors like Doubao have already established cross-app AI capabilities. The 'intelligent personal hub' vision remains largely aspirational, lacking concrete implementation details. This represents Apple's fundamental tension: a cash-generating machine in a mature market, yet struggling to define its role in the emerging AI era.",
-    "summary_zh": "苹果七年迟的折叠屏，反映的是成熟市场的策略选择而非创新失败。真正的考题是AI——苹果如何把25亿激活设备变为个人AI中枢，才决定其未来命运。",
-    "best_quote_en": "Apple's true strength lies not in being first to market, but in entering mature categories with superior software integration and ecosystem advantages that turn hardware limitations into seamless user experiences.",
-    "best_quote_zh": "折叠屏不是新东西，这个品类已经迭代多年，甚至有厂商完整经历了从入场到倒闭的全过程。苹果真正擅长的，是用软件和生态把硬件形态里的小毛病尽量磨平。"
-  },
-  {
     "id": 487,
     "title": "Podcasting the world",
     "title_zh": "用播客连接世界",
@@ -2336,5 +2221,124 @@
     "summary_zh": "本文深入剖析肯·拉塞尔1971年经典影片《魔教徒》的审查风波，揭示英国电影委员会如何在亵渎与低俗的夹缝中把握艺术自由。拉塞尔的激进创作在审查层层压迫下被匮乏，却意外成为时代精神符号。影片不仅是影评史诗，更是艺术审查与公共道德博弈的永恒典范。",
     "best_quote_en": "Any cuts that we make in [Russell's] grossness and excesses to the bare bone will improve the film. It is thoroughly sick and kinky.",
     "best_quote_zh": "任何对拉塞尔‘肮脏’和‘过度’手段的裁剪都将改善电影。此片完全病态且充满性幻想。"
+  },
+  {
+    "id": 582,
+    "title": "The Tim Ferriss Show Transcripts: How to Simplify Your Life — Tips from Oliver Burkeman, Chip Conley, Elizabeth Gilbert, and More (#885)",
+    "title_zh": "Tim Ferriss Show 转录：如何简化生活 —— 来自奥利弗·伯克曼、Chip Conley、Elizabeth Gilbert 等人的建议（#885）",
+    "model_used": "poolside/laguna-xs-2.1:free",
+    "source": "Tim Ferriss",
+    "link": "https://tim.blog/2026/10/03/how-to-simplify-your-life-4-transcript/",
+    "tags": [
+      "solve",
+      "writing-content",
+      "case-study"
+    ],
+    "tags_zh": [
+      "解决",
+      "写作内容",
+      "案例研究"
+    ],
+    "date": "2026-10-03",
+    "summary_en": "This transcript compilation from The Tim Ferriss Show features profound insights on life simplification from multiple thought leaders. Chip Conley's narrative reveals a powerful transformation story: his near-death experience at 47 catalyzed a mindful decoupling from his founder identity, leading to a two-year period of exploration across 36 festivals in 16 countries. His concept of 'midlife atrium' - a fertile chrysalis space between caterpillar and butterfly - offers a novel framework for intentional life redesign. Oliver Burkeman's perspective emphasizes psychological freedom through acceptance rather than rigid control, advocating for fluid adaptability over minimalist aesthetics. The content demonstrates that simplification isn't about reducing possessions but about releasing identity attachments that compromise well-being. These insights provide actionable frameworks for midlife transitions, career pivots, and finding meaning beyond professional success metrics. The compilation's strength lies in its diverse perspectives on intentional living, making it valuable for entrepreneurs, professionals at crossroads, and anyone seeking purposeful life design.",
+    "summary_zh": "这段Tim Ferriss Show的转录收录了来自多位思想领袖的深度智慧。Chip Conley的故事揭示了从创始人身份的觉醒式解绑——在47岁近死经历后，他以「人生蜕皮空间」为名，跨越36场国际节庆寻找自我。伯克曼则提出：简化是心理自由，接受现实而非执念控制。这不关乎收拾物品，更是放下身份枷锁。从企业家到处境转折期的求索者，这些人生设计智慧，正是当下对意义的渴求。",
+    "best_quote_en": "Between caterpillar and butterfly, there is a chrysalis. In the chrysalis, the transformation happens. I spent two years from age 50 to 52 in what I would call... the midlife atrium.",
+    "best_quote_zh": "「蝴蝶与毛虫之间，是茧。茧中才发生蜕变。我50到52岁的两年，正是人生蜕皮空间。」——Chip Conley"
+  },
+  {
+    "id": 583,
+    "title": "“谷子经济”，赚钱的逻辑变了吗？",
+    "title_zh": "谷子经济”，赚钱的逻辑变了吗？",
+    "model_used": "cohere/north-mini-code:free",
+    "source": "虎嗅",
+    "link": "https://www.huxiu.com/article/4895437.html?f=rss",
+    "tags": [
+      "update",
+      "science",
+      "business-model",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "动态",
+      "科学研究",
+      "商业模式",
+      "未来预测"
+    ],
+    "date": "2026-10-05",
+    "summary_en": "The ‘Gouzi economy’—the market for character‑licensed goods such as badges and figurines—has been a headline driver of China’s IP sector for more than two decades. Yet 2025‑2026 has brought a noticeable cooling: growth has halved, many small‑scale stores have closed, and the once‑dominant “big IP” model is losing steam. The article traces a shift toward lighter, more flexible licensing arrangements, zero‑fee revenue‑share deals, and a blurring of gender‑based consumer segments. It also highlights how nostalgia‑driven IPs are being re‑engineered for adult audiences through short‑form video and meme‑style merchandise, while AI‑generated content threatens traditional hand‑crafted production. By examining case studies—from exotic‑pet IPs that attract young female collectors to long‑standing cartoon brands that now target multi‑generational markets—the piece offers a nuanced view of the industry’s evolving business logic. It leaves readers pondering whether the next wave of profitability will come from truly differentiated, quality‑focused offerings rather than merely scaling down. The analysis suggests that sustainable growth will require creators and distributors to blend innovative technology with authentic storytelling, ensuring that the ‘lightweight’ approach does not sacrifice the emotional resonance that originally made these IPs beloved.",
+    "summary_zh": "IP授权从高价大IP转向轻量化、性别模糊的细分市场，童年回忆持续造势，但市场降温与AI冲击迫切需要行业重构价值链。如何在保持质感的同时实现轻量创新，是每个从业者必须面对的挑战。",
+    "best_quote_en": "The logic of making money has changed, from ‘high‑priced’ licensing fees to ‘sales‑share’ partnerships.",
+    "best_quote_zh": "赚钱的逻辑变了，从‘高高在上’的授权费到‘按销售分账’的合作。"
+  },
+  {
+    "id": 584,
+    "title": "高能量人都在追求的这件事，正在悄悄毁掉你的前额叶？",
+    "title_zh": "高能量人都在追求的这件事，正在悄悄毁掉你的前额叶？",
+    "model_used": "poolside/laguna-s-2.1:free",
+    "source": "三联生活周刊",
+    "link": "http://weixin.sogou.com/weixin?type=2&query=%E4%B8%89%E8%81%94%E7%94%9F%E6%B4%BB%E5%91%A8%E5%88%8A+%E9%AB%98%E8%83%BD%E9%87%8F%E4%BA%BA%E9%83%BD%E5%9C%A8%E8%BF%BD%E6%B1%82%E7%9A%84%E8%BF%99%E4%BB%B6%E4%BA%8B%EF%BC%8C%E6%AD%A3%E5%9C%A8%E6%82%84%E6%82%84%E6%AF%81%E6%8E%89%E4%BD%A0%E7%9A%84%E5%89%8D%E9%A2%9D%E5%8F%B6%EF%BC%9F",
+    "tags": [
+      "analyze",
+      "science",
+      "beginner-friendly"
+    ],
+    "tags_zh": [
+      "分析",
+      "科学研究",
+      "新手友好"
+    ],
+    "date": "2026-10-04",
+    "summary_en": "This article explores the neuroscience behind multitasking, challenging the popular myth that humans can truly process multiple tasks simultaneously. Drawing on brain imaging studies, it explains how the prefrontal cortex acts as a bottleneck—capable of processing only one complex task at a time. What appears as multitasking is often rapid task-switching. However, recent research from Georgetown University reveals that extensive training can shift task processing from the prefrontal cortex to the temporal cortex, enabling genuine dual-task performance. The key insight: automatization through repetition frees up cognitive resources. Like expert drivers who multitask effortlessly, the brain can rewire itself—but only after thousands of repetitions transform conscious effort into unconscious habit. This has profound implications for productivity culture.",
+    "summary_zh": "多任务处理是幻觉？前额叶瓶颈理论被突破，但代价是苛刻的训练。高效能人的「一心多用」背后，是熟能生巧改造大脑回路的真相。这挑战了我们对「同时处理」的直觉，启发我们重新思考专注与自动化的关系。",
+    "best_quote_en": "The prefrontal cortex is the brain's highest-level control center, responsible for planning and decision-making, and its processing requires 100% of attention—anything less and it won't work.",
+    "best_quote_zh": "前额叶皮质是人脑最高级别的控制中心，专门负责制定计划和做决策，而前额叶皮质的处理过程需要投入100%的注意力，少一点都不行。"
+  },
+  {
+    "id": 585,
+    "title": "Book of the month: Hanna Komar",
+    "title_zh": "书籍之月：Hanna Komar",
+    "model_used": "nvidia/nemotron-3.5-lightning:free",
+    "source": "A year of reading the world",
+    "link": "https://ayearofreadingtheworld.com/2026/09/30/book-of-the-month-hanna-komar/",
+    "tags": [
+      "guide",
+      "politics",
+      "design"
+    ],
+    "tags_zh": [
+      "指导",
+      "政治时事",
+      "设计创意"
+    ],
+    "date": "2026-09-30",
+    "summary_en": "Hanna Komar's 'When I Get Out of Here' is a choric, formally daring work that transforms personal imprisonment into a universal testament to human resilience. The book's most striking feature is its visual language—the blacked-out cover, red-text/black-grey text distinction, and gap-indicated pauses create a disrupted reading experience mirroring the detained world. Beyond form, Komar's generosity shines through: she writes in the second person to include the reader, documents kindness in cruelty, and even extends curiosity to her guards. This isn't merely testimony; it's a survival manual and a warning. As democracies strain, Komar's insight that we may one day need these tools feels prophetic. The book succeeds because it refuses to reduce others to abstractions, finding dignity in the mundane and the extreme alike.",
+    "summary_zh": "汉娜·科马的《我出狱时：在独裁者的监狱里保持人性》是一部将个人监禁转化为对人类韧性普世见证的choric（合唱式/交错式）作品。本书最显著的特征是其视觉语言——黑ed的封面、红字/黑灰字的文本区分以及表示暂停的间距，形成了一种破碎的阅读体验，镜像着被囚禁的世界。除了形式，科马的慷慨无处不在：她以第二人称写作以包含读者，在残酷中记录善良，甚至对看守表现出好奇。这不仅是证言，更是一本生存手册和警示。随着民主受到压力，科马的见解——我们可能迟早需要这些工具——显得先知般。本书之所以成功，是因为它拒绝将他人简化为抽象概念，在平凡和极端中都找到了尊严。",
+    "best_quote_en": "Democracies everywhere are under strain – and we need to be prepared. [This book is] about hope that survives behind bars, and how solidarity can be built anywhere – even if you've never had to before.",
+    "best_quote_zh": "Democracies everywhere are under strain – and we need to be prepared. [这本书是]关于在监狱里存活的希望，以及团结可以在任何地方建立——即使你以前从未这样做过。"
+  },
+  {
+    "id": 586,
+    "title": "How to Simplify Your Life — Tips from Oliver Burkeman, Chip Conley, Elizabeth Gilbert, and More (#885)",
+    "title_zh": "如何简化生活——来自奥利弗·伯克曼、奇普·科尼、伊丽莎白·吉尔伯特等人的建议",
+    "model_used": "cohere/north-mini-code:free",
+    "source": "Tim Ferriss",
+    "link": "https://tim.blog/2026/10/01/how-to-simplify-your-life-4/",
+    "tags": [
+      "solve",
+      "lifestyle",
+      "writing-content",
+      "beginner-friendly"
+    ],
+    "tags_zh": [
+      "解决",
+      "生活方式",
+      "写作内容",
+      "新手友好"
+    ],
+    "date": "2026-10-02",
+    "summary_en": "This episode of Tim Ferriss's show explores practical strategies for simplifying life through insights from renowned thinkers. The discussion centers on identifying 1-3 transformative decisions that can dramatically reduce complexity and enhance well-being. Guests like Chip Conley share how a near-death experience reshaped his approach to life, while Greg McKeown connects stormtrooper costumes to our relationship with clutter. David Allen explains the hidden costs of mental to-do lists, Elizabeth Gilbert offers her philosophy of email management, and Oliver Burkeman critiques conventional simplicity advice. The episode provides actionable frameworks for decluttering, boundary-setting, and finding authentic joy beyond dopamine-driven distractions. With practical applications ranging from productivity techniques to philosophical perspectives on minimalism, this content offers valuable tools for anyone seeking to reduce overwhelm and increase intentional living.",
+    "summary_zh": "这期《蒂姆·费里斯秀》探讨了来自知名思想家的生活简化策略。节目聚焦于找出1-3个能彻底改变生活的关键决策。奇普·科尼分享了舞台上的濒死经历如何重塑他的人生观；格雷格·麦奎恩将风暴兵服饰与现代人的杂物问题相联系；大卫·艾伦揭示了脑海中的待办事项清单所隐含的真实成本；伊丽莎白·吉尔伯特则提出了类似管理房屋的方式来处理电子邮件；奥利弗·伯克曼则批判了传统简化建议的局限性，并分享了他真正行之有效的方法。本期内容提供了从生产力工具到生活哲学等实用框架，帮助人们减少焦虑，过上更加专注和充实的生活。",
+    "best_quote_en": "What are 1–3 decisions that could dramatically simplify my life?",
+    "best_quote_zh": "有哪些1-3个决定可以彻底简化我的生活？"
   }
 ]
