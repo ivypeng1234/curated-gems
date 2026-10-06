@@ -1,126 +1,5 @@
 [
   {
-    "id": 487,
-    "title": "Podcasting the world",
-    "title_zh": "用播客连接世界",
-    "model_used": "nex-agi/nex-n2.5-mini:free",
-    "source": "A year of reading the world",
-    "link": "https://ayearofreadingtheworld.com/2026/07/22/podcasting-the-world/",
-    "tags": [
-      "update",
-      "writing-content"
-    ],
-    "tags_zh": [
-      "动态",
-      "写作内容"
-    ],
-    "date": "2026-07-22",
-    "summary_en": "This post frames podcasting as a cultural bridge rather than mere media promotion. Across close-reading shows, Telugu literary conversations, and interviews with major writers, the author shows how audio can sustain slow attention while crossing linguistic, national, and disciplinary boundaries. Harshaneeyam is especially revealing: its focus on the pleasures and challenges of not-knowing suggests that translation is not simply the transfer of known meanings, but an encounter with uncertainty. The piece also reveals the author’s unusually flexible role—guest, interviewer, and producer—turning personal networks into a curated map of reading culture. Its strongest value lies in discovery and community-building, though the format is largely promotional and offers little critical discussion of podcasting’s economics, accessibility, or editorial standards. Still, the piece is a thoughtful reminder that listening can be a form of reading, and that cultural exchange often begins with curiosity rather than fluency.",
-    "summary_zh": "这篇随笔把播客写成跨越语言与国界的文化桥梁。从细读英美文学，到记录现代泰卢固文学，再到访谈名家，作者让“倾听”成为一种缓慢而开放的阅读。尤其可贵的是，对“不知”的探讨揭示了翻译并非搬运既有意义，而是与陌生相遇。文章也展现作者游走于嘉宾、主持人与制作人的多重身份，将个人网络汇成一张阅读文化地图。其局限是推荐意味强于批判，较少讨论平台经济与可及性；但正因此更显真诚，提醒我们文化交流往往始于好奇而非精通。",
-    "best_quote_en": "Harshaneeyam explores the pleasures and challenges of not-knowing.",
-    "best_quote_zh": "播客既是对文本的细读，也是与陌生世界保持开放的倾听。"
-  },
-  {
-    "id": 488,
-    "title": "Black Holes or Black Hole Stars? Astronomers Spar Over Webb Telescope’s ‘Little Red Dots.’",
-    "title_zh": "黑洞还是黑洞恒星？Webb望远镜的“小红点”引发天文学家争论",
-    "model_used": "poolside/laguna-xs-2.1:free",
-    "source": "Quanta Magazine",
-    "link": "https://www.quantamagazine.org/black-holes-or-black-hole-stars-astronomers-spar-over-webb-telescopes-little-red-dots-20260914/",
-    "tags": [
-      "analyze",
-      "science",
-      "ai-research",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "分析",
-      "科学研究",
-      "AI研究",
-      "数据驱动"
-    ],
-    "date": "2026-09-14",
-    "summary_en": "This groundbreaking article explores the scientific controversy surrounding the James Webb Space Telescope's mysterious 'little red dots'—glowing infrared points that have puzzled astronomers since 2023. Initially thought to be distant galaxies or supermassive black holes, these objects have now sparked a paradigm-shifting debate about a potential new astrophysical phenomenon: the 'black hole star.' These hypothetical objects would combine the explosive energy of a black hole with the surface characteristics of a star, potentially representing an early developmental stage of supermassive black holes. The article masterfully captures the scientific method in action, showing how detailed spectral analysis revealed unexpected hydrogen signatures and Balmer breaks that challenged existing theories. What makes this particularly fascinating is the collaborative yet contentious nature of modern astrophysics, where multiple research teams simultaneously proposed competing explanations. The discovery has profound implications for our understanding of cosmic evolution, potentially rewriting the timeline of black hole formation. As one researcher noted, we may be witnessing the 'birth of potentially every massive black hole in the universe.' The article demonstrates science's self-correcting nature while highlighting how cutting-edge technology continues to uncover nature's deepest mysteries.",
-    "summary_zh": "Webb望远镜捕捉的“小红点”引发天文界大争论，或许揭示宇宙黑洞诞生的全新阶段。这些极端天体或为“黑洞恒星”，将黑洞的吞噬能量与恒星的光谱特征结合。科学家通过光谱分析发现，这些前所未有的天体或是超大质量黑洞的“幼年期”，这一发现或颠覆传统宇宙演化时间表。争论中展现出科学探索的精髓：用最严谨的观测数据挑战既有理论，同时保持开放的求真态度。",
-    "best_quote_en": "We are seeing the seed. This is the birth of potentially every massive black hole in the universe.",
-    "best_quote_zh": "我们正在看到种子。这可能是宇宙中每个巨型黑洞的诞生。"
-  },
-  {
-    "id": 489,
-    "title": "Chasing la dolce vita",
-    "title_zh": "追逐甜美生活",
-    "model_used": "nvidia/nemotron-3.5-lightning:free",
-    "source": "Aeon",
-    "link": "https://aeon.co/essays/italianness-is-a-state-of-travelling-in-both-directions",
-    "tags": [
-      "analyze",
-      "lifestyle",
-      "ai-research",
-      "case-study"
-    ],
-    "tags_zh": [
-      "分析",
-      "生活方式",
-      "AI研究",
-      "案例研究"
-    ],
-    "date": "2026-09-15",
-    "summary_en": "This profound essay explores the complex, multi-generational experience of Italian diaspora identity through personal family history and broader sociological context. The narrative weaves together childhood memories of Italian rituals in London, the author's struggle with hybrid cultural belonging, and the historical reality of Italian migration. Central to the piece is the tension between performative Italianness abroad and authentic connection, illustrated through the author's failed attempts to embody Italian identity during a formative stay in Florence. The essay powerfully examines how migration trauma, particularly the internment of Italian 'enemy aliens' during WWII, creates lasting emotional landscapes. Ultimately, it argues that diasporic identity gains strength from its very multiplicity and restlessness, suggesting that the 'impossibility of return' becomes a framework for understanding how displaced Italians preserve and reinterpret their heritage across generations and continents.",
-    "summary_zh": "这篇深刻的散文通过个人家族史和更广泛的社会学背景，探索了意大利裔 diaspora 身份的复杂多代体验。叙事编织了伦敦意大利仪式的童年回忆、作者在文化归属上的挣扎，以及历史上的意大利移民现实。文章核心是境外意大利性的表演性与真实连接之间的张力，通过作者在佛罗伦萨的一次重要驻留经历未能体现意大利身份这一事实加以说明。文章有力探讨了移民创伤——特别是二战期间意大利「敌外侨」的拘留——如何形成持久的情感景观。最终，它论证了 diasporic 身份的力量源于其本身的多重性和不安感，暗示「无法返回」的不可能性成为了理解代际跨越大陆如何保存和重新诠释遗产的框架。",
-    "best_quote_en": "'I pictured young Marco as a giant striding through the forests of north-central Italy, calling to the bird of prey, waiting in vain for it to land on his outstretched hand.'",
-    "best_quote_zh": "\"我把年轻的马可想象成一个巨人，穿行在北中意大利的森林中，呼唂猛鸟，却虚等它落在他伸出的手上。\""
-  },
-  {
-    "id": 490,
-    "title": "The Top Song From Every Year in the 1980s",
-    "title_zh": "1980年代年度冠军歌曲",
-    "model_used": "dots-studio/dots-3-note-preview:free",
-    "source": "Mental Floss",
-    "link": "https://www.mentalfloss.com/entertainment/music/top-song-every-year-1980s?utm_source=RSS",
-    "tags": [
-      "analyze",
-      "science",
-      "music-arts",
-      "beginner-friendly"
-    ],
-    "tags_zh": [
-      "分析",
-      "科学研究",
-      "音乐艺术",
-      "新手友好"
-    ],
-    "date": "2026-09-15",
-    "summary_en": "This article offers a compelling retrospective on the top songs in the U.S. during the 1980s, as ranked by Billboard magazine. Beyond a simple list, it uncovers the rich narratives behind each hit, transforming them from chart-toppers into cultural artifacts. The piece highlights how the music landscape was shaped by pivotal events like the emergence of MTV and Live Aid, which amplified songs' societal impact. Critically, it delves into the creative processes and unintended meanings; for example, Sting's revelation that 'Every Breath You Take' was inspired by themes of surveillance challenges romantic interpretations. Additionally, the philanthropic drive behind 'That's What Friends Are For,' which raised over $3 million for AIDS research, underscores music's role in social advocacy. This analysis not only educates but also invites reflection on how pop music often carries deeper layers, encouraging listeners to appreciate the artistry and historical context behind the melodies. It serves as a valuable resource for understanding the interplay between music, technology, and culture in a transformative decade.",
-    "summary_zh": "本文基于《公告牌》榜单，回顾1980年代美国年度冠军歌曲的多元面貌。每首歌背后都有独特故事，如电影灵感或社会事件，使其超越单纯娱乐，成为时代印记。MTV崛起和Live Aid等事件放大了音乐的文化影响力，而Sting揭示《Every Breath You Take》暗含监控隐喻，挑战听众对情歌的认知。公益歌曲如《That's What Friends Are For》为艾滋病研究筹款，彰显音乐推动社会变革的力量。文章兼具知识性与怀旧感，启发我们重新审视经典作品的深层价值，理解艺术与历史的交织。",
-    "best_quote_en": "It sounds like a comforting love song. I didn't realize at the time how sinister it is. I think I was thinking of Big Brother, surveillance and control.",
-    "best_quote_zh": "它听起来像一首安慰性的爱情歌。我当时没意识到它有多 sinister。我想我在思考老大哥、监控和控制。"
-  },
-  {
-    "id": 491,
-    "title": "Free Virtual Incomprehension Workshop",
-    "title_zh": "免费虚拟“不理解”工作坊",
-    "model_used": "dots-studio/dots-3-note-preview:free",
-    "source": "A year of reading the world",
-    "link": "https://ayearofreadingtheworld.com/2026/07/09/free-virtual-incomprehension-workshop/",
-    "tags": [
-      "learn",
-      "education",
-      "society",
-      "beginner-friendly"
-    ],
-    "tags_zh": [
-      "学习",
-      "教育学习",
-      "社会议题",
-      "新手友好"
-    ],
-    "date": "2026-07-09",
-    "summary_en": "This workshop inverts traditional literary comprehension by centering on what readers cannot understand, offering a radical reframe of how we engage with texts. Ann Morgan’s approach invites participants to embrace discomfort, interrogate bias, and explore the creative potential of uncertainty. Rather than striving for full clarity, the session treats incomprehension as a generative space for cultural and self-reflection. By analyzing excerpts outside participants’ comfort zones, it reveals how assumptions shape interpretation and how gaps in understanding can become sites of intellectual growth. The virtual format democratizes access, making this experimental pedagogical model available globally. It’s not just a reading exercise—it’s a philosophical intervention into how we know, learn, and relate to the unfamiliar. For educators, writers, and curious minds, it challenges the very premise of comprehension as mastery, proposing instead that not-knowing is a gateway to deeper inquiry.",
-    "summary_zh": "这个工作坊颠覆了传统阅读理解模式，将“无法理解”置于核心，重新定义我们与文本的关系。安·摩根邀请参与者拥抱不适、质疑偏见，并探索不确定性的创造潜能。通过分析超出舒适区的文本片段，揭示假设如何塑造解读，以及理解的空白如何成为智识成长的契机。虚拟形式打破地理壁垒，使这一实验性教学模式全球可及。这不仅是阅读练习，更是对“理解即掌控”认知范式的哲学挑战，提出“未知”才是深度追问的入口。对教育者、写作者和求知者而言，它提供了一种全新的认知姿态：在不理解中，寻找理解的更深层可能。",
-    "best_quote_en": "Turning the school literature comprehension exercise upside down, we’ll consider a range of extracts from books likely to be outside the comfort zone of participants and play with the questions, problems or reactions that come from not knowing how to read them.",
-    "best_quote_zh": "我们将把学校文学理解练习彻底倒过来，审视一系列可能超出参与者舒适区的文本片段，并玩味那些因不知如何阅读而产生的疑问、难题与反应。"
-  },
-  {
     "id": 492,
     "title": "How, Exactly, Could A.I. Kill Us?",
     "title_zh": "AI能如何杀死我们？",
@@ -2340,5 +2219,120 @@
     "summary_zh": "这期《蒂姆·费里斯秀》探讨了来自知名思想家的生活简化策略。节目聚焦于找出1-3个能彻底改变生活的关键决策。奇普·科尼分享了舞台上的濒死经历如何重塑他的人生观；格雷格·麦奎恩将风暴兵服饰与现代人的杂物问题相联系；大卫·艾伦揭示了脑海中的待办事项清单所隐含的真实成本；伊丽莎白·吉尔伯特则提出了类似管理房屋的方式来处理电子邮件；奥利弗·伯克曼则批判了传统简化建议的局限性，并分享了他真正行之有效的方法。本期内容提供了从生产力工具到生活哲学等实用框架，帮助人们减少焦虑，过上更加专注和充实的生活。",
     "best_quote_en": "What are 1–3 decisions that could dramatically simplify my life?",
     "best_quote_zh": "有哪些1-3个决定可以彻底简化我的生活？"
+  },
+  {
+    "id": 587,
+    "title": "Is AI the End of Math As We Know It?",
+    "title_zh": "AI是否会终结我们所熟知的数学？",
+    "model_used": "poolside/laguna-xs-2.1:free",
+    "source": "Quanta Magazine",
+    "link": "https://www.quantamagazine.org/is-ai-the-end-of-math-as-we-know-it-20261005/",
+    "tags": [
+      "inspire",
+      "ai-research",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "启发",
+      "AI研究",
+      "未来预测"
+    ],
+    "date": "2026-10-05",
+    "summary_en": "This thought-provoking article examines the profound crisis facing mathematics as AI systems rapidly solve long-standing conjectures, fundamentally challenging the discipline's core values and incentive structures. Through interviews with mathematicians, it reveals deep concerns about AI's ability to generate correct but incomprehensible proofs that lack the 'understanding' and collaborative spirit that define mathematical culture. The piece explores how companies like OpenAI are disrupting open science by keeping discoveries secret while mathematicians grapple with existential questions about their profession's future. Yet hope emerges through initiatives like the Association for Human Mathematics, which seeks to preserve mathematics' human-centered values while adapting to technological change. The article ultimately argues that mathematics must evolve to emphasize understanding, communication, and creative exploration over mere theorem-proving, potentially emerging stronger if the community successfully navigates this transformation.",
+    "summary_zh": "AI正在冲击数学学术的核心价值。文章通过数学家的声嘶力竭，揭示了人工智能生成的‘正确但不可读’证明如何瓦解数学文化中关于理解、协作与美的传统。尽管OpenAI等公司以股份为导向地隐藏突破， mathematics community仍在创造新的生存路径。未来或许，数学将从“证明至上”的惯性束缚中解放，重新焕发生人联想、跨域沟通与深度思考的活力——这或许是学术在数字时代逆势成长的另一种可能。",
+    "best_quote_en": "What is missing is understanding, the currency that mathematicians trade in. If there is a journey, humans are not invited along for the ride.",
+    "best_quote_zh": "缺少的正是理解，这是数学家们交易的货币。如果有旅程，人类却没有被邀请参与。"
+  },
+  {
+    "id": 588,
+    "title": "All-around junior male",
+    "title_zh": "全能青年",
+    "model_used": "google/gemma-4-31b-it:free",
+    "source": "Aeon",
+    "link": "https://aeon.co/videos/a-traditional-inuit-game-of-balance-and-strength-stylishly-captured",
+    "tags": [
+      "analyze",
+      "society"
+    ],
+    "tags_zh": [
+      "分析",
+      "社会议题"
+    ],
+    "date": "2026-10-05",
+    "summary_en": "Lindsay McIntyre's 'All-around Junior Male' is more than a sports documentary; it is a meditative exploration of cultural endurance and physical mastery. By focusing on the Inuit 'one-foot high kick,' the piece transforms a traditional hunting skill into a visceral study of human equilibrium and strength. I find the choice of monochrome, hand-processed film particularly poignant—it strips away the distractions of the Arctic landscape to elevate the athlete's body to a sculptural form. The intersection of ancestral utility (hunting) and contemporary athletic expression creates a powerful dialogue on identity. The work challenges the viewer to perceive movement not just as a physical act, but as a living archive of a people's survival and resilience.",
+    "summary_zh": "这部作品将传统的因纽特高踢游戏升华为一场关于身体控制与文化记忆的冥想。导演通过手工处理的黑白胶片，将运动员的躯体抽离出地理环境，使其呈现出一种雕塑般的永恒感。这不仅是对体能的记录，更是对生存本能与文化认同的深情凝视。这种将“狩猎技能”转化为“艺术表达”的处理方式，让观众在梦幻的氛围中感受到一种跨越时空的坚韧与力量。",
+    "best_quote_en": "The game was once used by hunters to indicate a successful hunt and demands extraordinary strength, balance and control.",
+    "best_quote_zh": "这项游戏曾被猎人们用来预示狩猎的成功，它要求极强的力量、平衡感与控制力。"
+  },
+  {
+    "id": 589,
+    "title": "5 Cursed Coastal Towns Straight Out of 'Widow’s Bay'",
+    "title_zh": "五个来自《寡妇湾》的诅咒海滨小镇",
+    "model_used": "inclusionai/ling-3.0-flash-sante:free",
+    "source": "Mental Floss",
+    "link": "https://www.mentalfloss.com/geography/wanderlust/cursed-coastal-towns-widows-bay?utm_source=RSS",
+    "tags": [
+      "analyze",
+      "society"
+    ],
+    "tags_zh": [
+      "分析",
+      "社会议题"
+    ],
+    "date": "2026-10-06",
+    "summary_en": "This article blends travel writing with supernatural folklore, exploring six New England coastal towns that blur the line between scenic charm and eerie legend. Rather than treating ghost stories as mere tourism gimmicks, it positions them as embedded historical narratives—from Rockport's connection to the Salem Witch Trials to Block Island's phantom ship, the Palatine Light. The piece implicitly questions what we seek when we chase the 'cursed': is it thrill, heritage, or a deeper connection to place? What makes these towns compelling is that their haunting is documented, not manufactured—ghost footsteps on museum ships and WWII bunker whispers carry the weight of real experience. The article subtly critiques the commodification of spookiness while acknowledging its appeal, inviting readers to consider whether the supernatural adds meaning or merely distracts from harder histories like the Mystic Massacre. For the curious traveler, it offers a framework for distinguishing authentic lore from performance.",
+    "summary_zh": "这篇文章将旅行写作与超自然传说交织，探索新英格兰六个海滨小镇如何在风景与诡异之间模糊边界。作者巧妙指出这些小镇的\"诅咒\"并非营销噱头，而是有据可查的历史叙事——从塞勒姆女巫审判的逃亡者到波罗的海幽灵船。文中隐含一个值得深思的问题：我们追逐\"被诅咒之地\"时，究竟在追寻刺激、遗产，还是与地方的深层联结？最有趣的是作者对超自然旅游的微妙批判——当鬼魅足迹出现在博物馆船上时，它们承载的是真实体验，而非表演。但文章也留下悬念：这些传说是否在某种程度上分散了我们对更沉重历史（如神秘大屠杀）的注意力？对于旅行者而言，这是一篇教人辨别真伪传说的精彩指南。",
+    "best_quote_en": "In places as old as the country itself, ghost stories are part of the historical record, not a sales pitch.",
+    "best_quote_zh": "在这些和这个国家一样古老的地方，鬼故事是历史记录的一部分，而非销售话术。"
+  },
+  {
+    "id": 590,
+    "title": "What's the Type of an Ontological Mismatch?",
+    "title_zh": "What's the Type of an Ontological Mismatch?",
+    "model_used": "nvidia/nemotron-3-nano-omni-30b-a3b-reasoning:free",
+    "source": "LessWrong",
+    "link": "https://www.lesswrong.com/posts/CJE8csmjWdqLrSjy4/what-s-the-type-of-an-ontological-mismatch",
+    "tags": [
+      "inspire",
+      "ai-research",
+      "lifestyle",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "启发",
+      "AI研究",
+      "生活方式",
+      "未来预测"
+    ],
+    "date": "2026-10-06",
+    "summary_en": "This article explores the ontological mismatch as a fundamental concept where different frameworks for categorizing reality inherently shape actions and outcomes. The author develops a type analysis suggesting that ontological mismatch should be measured as O × O × ΔT → ℝ, accounting for both ontological structures and the actual existence of entities in the world (ΔT). Key insights include: ontologies may be structured as partitions or topologies on a 'thingspace,' with labels being critical even when structures match; mismatch measurement may need to be asymmetric to reflect hierarchical differences (e.g., finer/coarser ontologies); and crucially, ontological conflicts only matter when they manifest in actual existence (ΔT), making witnessed mismatches essential for practical assessment. The work bridges abstract philosophy with algorithmic implications, suggesting information-theoretic approaches to quantifying mismatches while emphasizing that unobserved mismatches in unpopulated spaces are epistemically meaningless. This connects to larger themes in AI alignment and systems design where framework compatibility directly impacts actionability.",
+    "summary_zh": "本文将本体论不匹配视为不同认知框架导致行动差异的根本问题。作者提出测量本体论差异的类型分析：差异应考虑本体结构（O×O）与实际存在实体的分布（ΔT），即O×O×ΔT→ℝ。关键洞见包括：本体可视为事物空间的划分或拓扑结构，标签决定意义；差异测度可能需非对称性以反映细粒/粗粒关系；最重要的，未见于实际存在的差异在形而上学上无意义。文章将哲学概念与算法应用结合，强调在AI对齐与系统设计中，框架兼容性直接影响可操作性，呼应了'不同切割世界的方式决定行动方式'这一核心原理。",
+    "best_quote_en": "different ways of cutting up and understanding the world lead unavoidably to different ways of taking actions in the world",
+    "best_quote_zh": "不同切割和理解世界的方式，必然导致不同的世界行动方式"
+  },
+  {
+    "id": 591,
+    "title": "Year of the Horse",
+    "title_zh": "马年",
+    "model_used": "dots-studio/dots-3-note-preview:free",
+    "source": "The New Yorker",
+    "link": "https://www.newyorker.com/magazine/2026/10/12/year-of-the-horse",
+    "tags": [
+      "solve",
+      "ai-research",
+      "politics",
+      "controversial"
+    ],
+    "tags_zh": [
+      "解决",
+      "AI研究",
+      "政治时事",
+      "争议观点"
+    ],
+    "date": "2026-10-05",
+    "summary_en": "This article provides a deeply reported, emotionally resonant examination of the debate surrounding horse-drawn carriages in Central Park, catalyzed by the tragic death of an 18-year-old tourist, Romanch Mahajan. It juxtaposes the visceral horror of the accident with the complex cultural, economic, and ethical dimensions of the industry. The piece humanizes all stakeholders: the grieving family, the dedicated drivers like Christina Hansen and Ahmet Bilici who view the horses as partners in a centuries-old tradition, and the animal-rights activists pushing for a ban. It critically evaluates the systemic failures—poor infrastructure, lack of hitching posts, and the chaotic modern park environment—that contribute to accidents, while also acknowledging the genuine concerns over animal welfare, highlighted by past incidents of horse collapses and toxic plant ingestion. The article moves beyond a simple binary of tradition versus progress, framing the conflict as a clash between a romanticized past and an unsustainable, high-risk present in a hyper-dense urban space.",
+    "summary_zh": "本文通过一名18岁印度游客在中央公园不幸身亡的悲剧，深入剖析了马车行业存废之争。作者以极具同理心的笔触，既展现了家属的切肤之痛，也呈现了司机们视马匹为“伙伴”的传统情怀，更直指动物权益倡导者对城市生态与动物福利的合理担忧。文章没有简单站队，而是揭示了事故背后的系统性漏洞——混乱的交通、缺失的拴马桩、以及现代公园超负荷的游客量。它本质上是一场关于“传统浪漫”与“现代安全”、“经济生计”与“道德责任”的激烈博弈，折射出纽约在城市化进程中对历史遗产与生命价值的艰难权衡。",
+    "best_quote_en": "Horses have been with us for six thousand years. Civilization as we know it is a partnership, and what you're seeing is an attempt to sever this partnership.",
+    "best_quote_zh": "马与我们同行了六千年。我们所知的文明，是一种 partnership（伙伴关系），而你正在目睹的，是一场试图割裂这种伙伴关系的尝试。"
   }
 ]
