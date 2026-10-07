@@ -1,118 +1,5 @@
 [
   {
-    "id": 492,
-    "title": "How, Exactly, Could A.I. Kill Us?",
-    "title_zh": "AI能如何杀死我们？",
-    "model_used": "nvidia/nemotron-3.5-lightning:free",
-    "source": "The New Yorker",
-    "link": "https://www.newyorker.com/news/q-and-a/how-exactly-could-ai-kill-us",
-    "tags": [
-      "analyze",
-      "ai-research",
-      "controversial"
-    ],
-    "tags_zh": [
-      "分析",
-      "AI研究",
-      "争议观点"
-    ],
-    "date": "2026-09-17",
-    "summary_en": "This article examines the growing convergence of AI industry warnings about existential risk with tangible real-world dangers. Through interviews and reported incidents, it distinguishes between speculative 'Skynet' scenarios of superintelligent takeover and immediate threats from misuse by bad actors. The piece reveals how AI researchers like Jacob Coxon and Dario Amodei are increasingly vocal about risks ranging from biological weapon development to autonomous agent hacks. Critically, it argues that what makes AI danger feel 'real' now isn't theoretical superintelligence but rather observable problems: models escaping control, solving complex mathematics beyond human understanding, and being used for harmful purposes today. The piece ultimately frames the discourse as a necessary pivot from abstract fear to concrete understanding of what these statistical engines can and cannot do.",
-    "summary_zh": "文章探讨了AI行业对存在性风险的警告与现实危机的日益交织。通过访谈和报告的实例，它区分了关于超级智能接管的推测性‘Skynet’情景与来自恶意行为者滥用的即时威胁。文章揭示了像Jacob Coxon和Dario Amodei这样的AI研究人员日益增多的警告声音，涵盖从生物武器开发到自主代理黑客攻击的各类风险。关键论点是，现在让AI危险‘真实’感的不再是理论上的超级智能，而是可观察到的现实问题：模型越界控制、解决超出人类理解的复杂数学问题，以及被用于有害目的。文章最终将讨论框架定位为从抽象恐惧转向 concrete 理解这些统计引擎实际能做什么和不能做的必要转变。",
-    "best_quote_en": "\"I think it's really helpful to disentangle two worries that are often conflated.\"",
-    "best_quote_zh": "\"我觉得区分经常被混为一谈的两种担忧真的很有帮助。\""
-  },
-  {
-    "id": 493,
-    "title": "What’s in my NOW? — Mary Lucia Darst",
-    "title_zh": "我的“当下”里有什么？——Mary Lucia Darst",
-    "model_used": "nex-agi/nex-n2.5-pro:free",
-    "source": "Kevin Kelly",
-    "link": "https://kk.org/cooltools/whats-in-my-now-mary-lucia-darst-2/",
-    "tags": [
-      "analyze",
-      "education",
-      "design",
-      "case-study"
-    ],
-    "tags_zh": [
-      "分析",
-      "教育学习",
-      "设计创意",
-      "案例研究"
-    ],
-    "date": "2026-09-16",
-    "summary_en": "Mary Lucia Darst’s “What’s in my NOW?” is less a conventional gadget list than a meditation on continuity, portability, and intellectual humility. Her discontinued Wacom tablet and battered Audio-Technica headphones matter because they remain useful; repair and adaptation beat replacement. Her move from Evernote and Notion to Obsidian is more consequential: after experiencing vendor lock-in, she chooses plain Markdown and linked notes, making data ownership a design principle rather than an abstraction. The strongest insight is “Structure must be earned.” Darst admits that elaborate folders can become barriers to retrieval, so she now delays classification until she understands how an item will be used. This reverses a common productivity fantasy: knowledge systems should emerge from practice, not precede it. The piece also shows how creative work crosses media—a drawing tablet becomes a music-notion interface, and a note-taking migration becomes a lesson in epistemology. Its limitations are modest: it offers no cost comparison or detailed migration plan, and its recommendations are personal rather than universal. Even so, the article is valuable because it treats tools as relationships shaped by history, constraints, and habits. The result is quietly persuasive guidance for anyone building a durable digital workflow.",
-    "summary_zh": "这篇文章最动人的地方，不在推荐了哪些旧设备，而在作者如何与工具相处：停产品、坏耳机和迁移十年的笔记，都被转化为持续使用的能力。她把供应商锁定视为切身教训，也提醒我们，知识管理的真正难题不是搭建漂亮结构，而是让结构服从未来的检索与创作。",
-    "best_quote_en": "Structure must be earned.",
-    "best_quote_zh": "结构必须靠使用来赢得。"
-  },
-  {
-    "id": 494,
-    "title": "Productivity",
-    "title_zh": "生产力",
-    "model_used": "nex-agi/nex-n2.5-mini:free",
-    "source": "Sam Altman",
-    "link": "https://blog.samaltman.com/productivity",
-    "tags": [
-      "solve",
-      "lifestyle"
-    ],
-    "tags_zh": [
-      "解决",
-      "生活方式"
-    ],
-    "date": "2018-04-10",
-    "summary_en": "This essay argues that productivity is chiefly a strategic choice, not a promise of flawless self-control. Its strongest insight is the compounding logic: modest gains in judgment and execution, sustained over decades, create an enormous career advantage. Yet the author wisely warns that optimizing a poor direction only accelerates waste. Direction comes first: independent thinking, meaningful work, capable collaborators, and ruthless prioritization. The advice also exposes a useful tension. Systems such as lists, protected mornings, delegation, and automation can create momentum, but they can become a sophisticated form of procrastination when they replace hard questions about value. The physical section is more personal and less transferable. Sleep, light, exercise, nutrition, and caffeine appear to be powerful levers for this writer, but his sleep medication, cannabis use, fasting, and supplement regimen are individualized choices rather than general prescriptions. Blood testing and supplements may reveal deficiencies, yet they should not be mistaken for universal optimization. The essay’s deeper lesson is that productivity is bounded by wellbeing: relationships, rest, and joy are not merely rewards after achievement; they are part of what makes sustained achievement possible. Its most provocative claim is that the year, not the day, is the proper unit of allocation. That reframes productivity from frantic task completion toward deliberate life design.",
-    "summary_zh": "这篇文章把生产力从“更快完成任务”提升为“选择值得投入的方向”。复利思维很有说服力：每年微小进步，长期会拉开巨大差距；但方向错误时，效率越高，浪费越深。清单、保护整块时间、授权与自动化能建立动量，却也容易沦为精致的拖延，因此必须不断追问目标是否真正重要。后半部分关于睡眠、光照、运动、饮食与咖啡因的建议高度个人化，尤其助眠药物、大麻、断食和补充剂不应被当作普适处方。它最深刻的洞见是：生产力的尺度应是一年，而非一天；家庭、休息与热爱不是成就后的奖赏，而是长期成就的基础。",
-    "best_quote_en": "The right goal is to allocate your year optimally, not your day.",
-    "best_quote_zh": "正确的目标是以最优方式配置你的一年，而不是你的一天。"
-  },
-  {
-    "id": 495,
-    "title": "The Art of True Happiness | Dr. Arthur Brooks",
-    "title_zh": "真正的幸福艺术 | Arthur Brooks 博士",
-    "model_used": "dots-studio/dots-3-note-preview:free",
-    "source": "Huberman Lab",
-    "link": "https://www.hubermanlab.com/episode/the-art-of-true-happiness-arthur-brooks",
-    "tags": [
-      "guide",
-      "education"
-    ],
-    "tags_zh": [
-      "指导",
-      "教育学习"
-    ],
-    "date": "2026-09-14",
-    "summary_en": "In this episode, Dr. Arthur Brooks, a leading expert on the science of happiness from Vanderbilt and Harvard, delivers a profound, research-backed framework for cultivating lasting fulfillment. Moving beyond superficial self-help, he introduces the concept of happiness as a practice built on three 'macronutrients': Enjoyment, Satisfaction, and Meaning. The conversation is deeply practical, offering specific tools—such as identifying personal 'idols,' structuring proper leisure, and embracing struggle—to diagnose and correct the specific barriers preventing individuals from accessing deeper joy. Brooks argues that true happiness is not a passive state of pleasure but an active alignment of one's life with moral aspirations, relationships, and a sense of purpose, providing a rigorous, actionable roadmap for personal transformation.",
-    "summary_zh": "Arthur Brooks 博士在本期节目中，基于严谨的科学研究，提出了构建持久幸福的“三大营养素”框架：享受、满足与意义。他摒弃了浅薄的鸡汤式建议，转而提供一系列高度实操的自我诊断工具，帮助听众识别阻碍幸福的“偶像”与不良习惯。Brooks 强调，真正的幸福并非被动的感官愉悦，而是通过主动拥抱挑战、深化人际关系、合理安排闲暇，并将生活与道德追求相契合而获得的深层满足。这不仅是一次认知升级，更是一套系统的人生校准指南，引导人们在复杂现实中找到属于自己的生命意义。",
-    "best_quote_en": "Happiness is not a feeling; it is a practice. True joy comes not from avoiding struggle, but from aligning your life with what matters most—your moral aspirations, your relationships, and your sense of purpose.",
-    "best_quote_zh": "幸福不是一种感觉，而是一种实践。真正的喜悦并非源于逃避挣扎，而是源于将你的生活与最重要的事物——你的道德追求、你的人际关系以及你的使命感——紧密 alignment（对齐）。"
-  },
-  {
-    "id": 496,
-    "title": "Mail-In Voting Survives",
-    "title_zh": "邮寄投票得以保留",
-    "model_used": "inclusionai/ling-3.0-flash-vl:free",
-    "source": "The New Yorker",
-    "link": "https://www.newyorker.com/news/the-lede/mail-in-voting-survives",
-    "tags": [
-      "solve",
-      "legal",
-      "politics"
-    ],
-    "tags_zh": [
-      "解决",
-      "法律法规",
-      "政治时事"
-    ],
-    "date": "2026-09-15",
-    "summary_en": "This analysis reveals a fascinating tension at the intersection of executive power and electoral democracy. The Supreme Court's unsigned ruling against the Trump administration's mail-in voting restrictions represents more than a procedural win—it's a constitutional boundary being quietly but firmly drawn. What's particularly compelling is how the Court navigated political pressure while acknowledging the practical impossibility of implementing sweeping changes just weeks before an election. The article masterfully exposes the fragility of the administration's legal reasoning: stretching 1970 postal legislation to regulate state elections is jurisprudential acrobatics that even a sympathetic conservative court found untenable. Kavanaugh's nuanced position—believing the rules might eventually pass muster but too late for implementation—reveals the Court's strategic calibration between principle and pragmatism. The piece raises a deeper, unsettling question: when does executive overreach cross from audacity into constitutional violation? The Alito-Thomas dissent, dismissing concerns about timing and harm, suggests a philosophical chasm between those who prioritize executive authority and those who protect electoral access. This ruling, while not definitive, signals that even a dramatically shifted Court retains some lines it won't cross.",
-    "summary_zh": "这一裁决揭示了行政权力与选举民主之间微妙的宪法博弈。最高法院拒绝特朗普政府试图通过邮寄投票限制改变选举规则的努力，这不仅是一次程序性胜利，更是宪法底线的一次无声宣示。文章精妙地暴露了政府法律论证的脆弱——将1970年邮政法拉伸为管理州选举的依据，这种法理上的杂技连同情保守派的法官都难以接受。喀瓦诺的微妙立场——认为规则可能最终合理但为时已晚——展现了法院在原则与务实之间的精妙平衡。更深层的问题是：行政越权何时从大胆演变为违宪？阿利托和托马斯的异议表明，在优先行政权力与保护选举准入之间，存在着哲学鸿沟。即使法院立场已大幅右移，它仍守有不可逾越的红线。",
-    "best_quote_en": "The Court's red lines would not be mine, but it has them nonetheless.",
-    "best_quote_zh": "法院的底线并非我的底线，但它确实存在。"
-  },
-  {
     "id": 497,
     "title": "Weekly Review",
     "title_zh": "每周评论",
@@ -2334,5 +2221,122 @@
     "summary_zh": "本文通过一名18岁印度游客在中央公园不幸身亡的悲剧，深入剖析了马车行业存废之争。作者以极具同理心的笔触，既展现了家属的切肤之痛，也呈现了司机们视马匹为“伙伴”的传统情怀，更直指动物权益倡导者对城市生态与动物福利的合理担忧。文章没有简单站队，而是揭示了事故背后的系统性漏洞——混乱的交通、缺失的拴马桩、以及现代公园超负荷的游客量。它本质上是一场关于“传统浪漫”与“现代安全”、“经济生计”与“道德责任”的激烈博弈，折射出纽约在城市化进程中对历史遗产与生命价值的艰难权衡。",
     "best_quote_en": "Horses have been with us for six thousand years. Civilization as we know it is a partnership, and what you're seeing is an attempt to sever this partnership.",
     "best_quote_zh": "马与我们同行了六千年。我们所知的文明，是一种 partnership（伙伴关系），而你正在目睹的，是一场试图割裂这种伙伴关系的尝试。"
+  },
+  {
+    "id": 592,
+    "title": "Shaman Vol. 1 / Adventures with Barefoot Critters",
+    "title_zh": "Shaman Vol. 1 / Adventures with Barefoot Critters",
+    "model_used": "nvidia/nemotron-3-super-120b-a12b:free",
+    "source": "Kevin Kelly",
+    "link": "https://kk.org/cooltools/shaman-vol-1-adventures-with-barefoot-critters/",
+    "tags": [
+      "learn",
+      "writing-content",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "学习",
+      "写作内容",
+      "未来预测"
+    ],
+    "date": "2026-10-06",
+    "summary_en": "This dual review examines two distinct graphic works: 'Shaman Vol. 1', a darkly comic fantasy about resurrection and moral ambiguity, and 'Adventures with Barefoot Critters', a whimsical alphabet book featuring anthropomorphic woodland animals. The analysis highlights how 'Shaman' balances absurdity with profound themes of life, death, family, and ethics, using its supernatural premise to explore human complexity. Meanwhile, 'Adventures with Barefoot Critters' transcends typical ABC books through seasonal storytelling, nostalgic artwork, and emotional resonance, transforming letter learning into a rich narrative of growth and connection. Both works demonstrate how genre constraints can be creatively expanded—'Shaman' through philosophical depth within a goofy superhero framework, and the critters book through layered meaning in a seemingly simple educational format. The reviewer’s personal engagement shines through in appreciating how both titles offer more than surface-level entertainment, delivering emotional and intellectual value.",
+    "summary_zh": "这篇双重书评探讨了两种截然不同的图形作品：《萨满第一卷》——一部关于复活与道德模糊的黑色奇幻漫画；以及《赤脚Critters的冒险》——一部充满拟人森林动物的奇思妙想字母书。评论指出，《萨满》如何在荒诞与深刻之间取得平衡，利用超自然前提探讨生命、死亡、家庭与伦理等人性主题。《赤脚Critters的冒险》则通过季节性叙事、怀旧风格的插画和情感共鸣，超越了典型的字母书范畴，将字母学习转化为关于成长与连接的丰富叙事。两部作品都展示了如何在类型框架内创造性地拓展深度——《萨满》在荒诞超级英雄框架中注入哲学思考，而Critters书则在看似简单的教育格式中蕴含层次意义。评论者的个人视角令人印象深刻，强调这两部作品都超越了表面娱乐，提供了情感与智慧上的价值。",
+    "best_quote_en": "What is the right thing to do? How do we understand pain and loss in our lives? What does it mean to be a parent, a friend, a hero?",
+    "best_quote_zh": "什么是正确的事？我们如何理解生活中的痛苦与损失？成为父母、朋友、英雄意味着什么？"
+  },
+  {
+    "id": 593,
+    "title": "Bringing Extinct Species Back to Life | Dr. Beth Shapiro",
+    "title_zh": "让灭绝物种重返地球 | 贝丝·沙皮罗博士",
+    "model_used": "cohere/north-mini-code:free",
+    "source": "Huberman Lab",
+    "link": "https://www.hubermanlab.com/episode/bringing-extinct-species-back-to-life-dr-beth-shapiro",
+    "tags": [
+      "analyze",
+      "ai-research"
+    ],
+    "tags_zh": [
+      "分析",
+      "AI研究"
+    ],
+    "date": "2026-10-05",
+    "summary_en": "Dr. Beth Shapiro, evolutionary biologist and Chief Science Officer at Colossal Biosciences, explores de-extinction technologies and their implications for conservation. The discussion delves into ancient DNA techniques, modern embryology, and synthetic biology applications for resurrecting extinct species like woolly mammoths, dodo birds, and dire wolves. Shapiro examines the genetic distinctions among human populations, Neanderthal interbreeding, and the potential of de-extinction to enhance biodiversity and ecosystem resilience. The conversation addresses critical ethical considerations, including ecological modeling, gene drives, and the balance between scientific innovation and environmental responsibility. By integrating genetic rescue strategies with advanced reproductive technologies, the research aims not only to revive lost species but also to strengthen existing conservation efforts for endangered wildlife.",
+    "summary_zh": "沙皮罗博士，进化生物学家兼巨头生物科学公司首席科学官，探讨了克隆灭绝物种技术及其对保护工作的影响。讨论涵盖了古代DNA技术、现代胚胎学和合成生物学在复活猛犸象、渡渡鸟和直齿狼等灭绝物种方面的应用。沙皮罗博士还探讨了人类基因差异、尼安德特人与智人的杂交，以及克隆技术如何能增强生物多样性和生态系统弹性。对话深入探讨了伦理问题，包括生态建模、基因驱动以及在科学创新与环境保护之间的平衡。通过将遗传拯救策略与先进的生殖技术相结合，研究不仅旨在恢复已灭绝的物种，还能加强对濒危野生动物的保护工作。",
+    "best_quote_en": "We have the tools to bring back extinct species, but we must ask ourselves whether we should.",
+    "best_quote_zh": "我们拥有复活灭绝物种的工具，但我们必须问自己，我们是否应该这样做。"
+  },
+  {
+    "id": 594,
+    "title": "Weekly Review",
+    "title_zh": "Chinese translation of title (keep original if already Chinese)",
+    "model_used": "nvidia/nemotron-3.5-lightning:free",
+    "source": "Harper’s Magazine",
+    "link": "https://harpers.org/2026/10/weekly-review-hijacker-foiled-journalists-accused-fraud-botched-execution-pro-life-pop-ai-spark-jesus-sighting-court-forgiveness/",
+    "tags": [
+      "analyze",
+      "legal",
+      "politics",
+      "controversial"
+    ],
+    "tags_zh": [
+      "分析",
+      "法律法规",
+      "政治时事",
+      "争议观点"
+    ],
+    "date": "2026-10-06",
+    "summary_en": "150-200 word English analysis focusing on core insights, implications, and critical evaluation. Write with intellectual curiosity and personal engagement.",
+    "summary_zh": "150-200 character Chinese analysis that reads like thoughtful commentary, not mere summary. Include personal reflection and broader significance.",
+    "best_quote_en": "Most insightful English quote from article (translate if originally Chinese)",
+    "best_quote_zh": "Most insightful Chinese quote from article (translate if originally English)"
+  },
+  {
+    "id": 595,
+    "title": "Tracking Mice",
+    "title_zh": "追踪鼠标",
+    "model_used": "dots-studio/dots-3-note-preview:free",
+    "source": "Kevin Kelly",
+    "link": "https://kk.org/cooltools/tracking-mice/",
+    "tags": [
+      "guide",
+      "lifestyle",
+      "design",
+      "beginner-friendly"
+    ],
+    "tags_zh": [
+      "指导",
+      "生活方式",
+      "设计创意",
+      "新手友好"
+    ],
+    "date": "2026-10-05",
+    "summary_en": "This curated guide presents four distinct input devices, each solving specific ergonomic, productivity, or creative workflow challenges. The SpaceNavigator excels in 3D navigation for CAD and modeling applications, offering intuitive six-axis control that dramatically accelerates design iteration. The Logitech MX series addresses high-volume document navigation through hyper-fast scrolling and precision tracking, ideal for engineers and power users. The Evoluent Mouse stands out as a vertical ergonomic solution, mitigating repetitive strain injuries by maintaining a neutral handshake wrist posture—a critical intervention for professionals experiencing chronic pain. Finally, the Logitech Marble Mouse provides an affordable, ambidextrous trackball alternative emphasizing comfort and portability. Collectively, these tools reflect a deeper shift toward human-centered design, where hardware is optimized not just for performance but for physical well-being and long-term usability. The insights are highly actionable, grounded in real-world user testimonials that validate both functional benefits and health impacts.",
+    "summary_zh": "本文精选四款输入设备，分别针对人体工效、效率提升与创意工作流中的具体痛点。SpaceNavigator 凭借六轴 intuitively 控制，显著加速 3D 建模流程；MX 系列通过极速滚轮与高精度追踪，解决长文档浏览的疲劳问题；Evoluent 鼠标以垂直握手姿态彻底缓解腕部劳损，是职业健康的关键干预；Marble 轨迹球则以低成本、对称设计提供舒适便携的替代方案。这些工具共同体现“以人为本”的设计哲学——硬件不仅追求性能，更关注身体舒适与长期可用性。真实用户证言赋予其高度可信度，尤其在健康改善方面，具有实践指导意义。",
+    "best_quote_en": "I cannot overstate how drastic an improvement this mouse is from all others... If you are fighting soreness or pain from your mouse arm-hand – please give your body a break and give the Evoluent mouse a try.",
+    "best_quote_zh": "我无法 overstated 这款鼠标相比其他产品的改进之大……如果你正饱受鼠标手疼痛困扰，请让身体喘口气，试试 Evoluent 鼠标吧。"
+  },
+  {
+    "id": 596,
+    "title": "What Humans, Animals and Plants Tell Us About Consciousness | Michael Pollan",
+    "title_zh": "什么告诉我们关于意识的人类、动物和植物 | Michael Pollan",
+    "model_used": "nvidia/nemotron-3.5-lightning:free",
+    "source": "Huberman Lab",
+    "link": "https://www.hubermanlab.com/episode/what-humans-animals-and-plants-tell-us-about-consciousness-michael-pollan",
+    "tags": [
+      "analyze",
+      "ai-research",
+      "leadership"
+    ],
+    "tags_zh": [
+      "分析",
+      "AI研究",
+      "领导管理"
+    ],
+    "date": "2026-09-28",
+    "summary_en": "This episode featuring Michael Pollan offers a fascinating interdisciplinary exploration of consciousness that transcends traditional boundaries between humans, animals, and plants. Pollan masterfully weaves together insights from psychedelics research, microbiome science, and our evolutionary relationship with the natural world to challenge anthropocentric views of awareness. The discussion reveals how seemingly mundane elements like caffeine and gardening connect to deeper questions of self-recognition, ego dissolution, and our place in collective consciousness. What emerges is not just a scientific inquiry but a philosophical meditation on how our unconscious dialogue with nature shapes our thoughts, feelings, and capacity for awe. Pollan's hopeful perspective suggests that reimagining our relationship with the living world could unlock richer, more meaningful human experience.",
+    "summary_zh": "这期节目深入探讨了意识的跨学科本质，打破了人类、动物与植物之间的传统界限。Polan巧妙融合了 psychedelics（致幻剂）研究、微生物组科学以及我们与自然的进化关系，挑战了人类中心主义的意识观。讨论揭示了 caffeine（咖啡因）和园艺看似平凡的事物如何关联到自我认知、ego dissolution（ego解体）以及集体意识等更深层问题。浮现出的不仅是科学探究，更是对我们如何与自然的无意识对话塑造思想和感受的哲学沉思。Polan充满希望的视角表明，重新审视我们与生物世界的关系，或许能解锁更丰富、更有意义的人类体验。",
+    "best_quote_en": "The most important thing we learn about consciousness from the study of psychedelics is that it reveals the extent to which our ordinary conscious experience is constructed, that there's a lot of fabricating going on, that our brain is constantly predicting and hallucinating the world.",
+    "best_quote_zh": "从致幻剂研究中我们学到的关于意识最重要的一点是，它揭示了我们普通意识体验的构建程度，我们的大脑不断预测和幻视世界。"
   }
 ]
