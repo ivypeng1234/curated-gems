@@ -1,120 +1,5 @@
 [
   {
-    "id": 502,
-    "title": "100 Objects #18: Hair Relaxer",
-    "title_zh": "100 Objects #18: Hair Relaxer",
-    "model_used": "nvidia/nemotron-3.5-lightning:free",
-    "source": "99% Invisible",
-    "link": "https://99percentinvisible.org/episode/100-objects-018-hair-relaxer/",
-    "tags": [
-      "solve",
-      "ai-research"
-    ],
-    "tags_zh": [
-      "解决",
-      "AI研究"
-    ],
-    "date": "2026-09-18",
-    "summary_en": "This episode of 99% Invisible reveals how a ubiquitous beauty product became a cultural Rorschach test for America's deepest contradictions. The hair relaxer, used by the vast majority of Black women, carries a dual legacy: it fueled economic mobility and Black entrepreneurship while simultaneously internalizing the message that natural hair was inherently deficient. Through Roman Mars and Priscilla Alabi's deft storytelling, the narrative transcends personal hair journeys to expose broader societal tensions around conformity, capitalism, and identity. The most arresting insight is how a chemical treatment built generational wealth yet exacted a physical and psychological toll, suggesting that America's pursuit of 'manageability' has come at a steep health and self-acceptance cost. It is a masterclass in how everyday objects can unpack complex histories of race, gender, and capital.",
-    "summary_zh": "《99% Invisible》这一集揭示了一个普遍的美容产品如何成为美国 deepest 矛盾的折射镜。对多数黑人女性而言，发 relaxer 不仅是经济起步的捷径，也是一场关于“顺从”与“自我接纳”的内在斗争。它既助推了黑人创业的经济繁荣，又潜移默化地教导一代代人将自己的头发视为“问题”。节目最深刻的洞察在于：一种化学制品既建立了世代财富，也换来了身体与心理的双重代价。罗马·马尔斯和普里斯卡·阿拉比的叙事将个人的发型经历上升为种族、性别与资本主义的社会隐喻，令人唏嘘的是，在“易管理”的追求背后，是对健康与自尊的双重背叛。",
-    "best_quote_en": "\"It built Black wealth and opened economic doors, but also taught generations to see their hair as a problem to be solved.\"",
-    "best_quote_zh": "\"它建立了黑人财富，打开了经济之门，但也教导了几代人把头发视为需要解决的问题。\""
-  },
-  {
-    "id": 503,
-    "title": "Remake: A heartbreaking exploration of the slippage between documentary and fiction",
-    "title_zh": "Remake: 对纪录片与虚构之间滑移的心碎探索",
-    "model_used": "inclusionai/ling-3.0-flash-sante:free",
-    "source": "BFI",
-    "link": "https://www.bfi.org.uk/sight-and-sound/reviews/remake-heartbreaking-exploration-slippage-between-documentary-fiction",
-    "tags": [
-      "update",
-      "science",
-      "music-arts",
-      "case-study"
-    ],
-    "tags_zh": [
-      "动态",
-      "科学研究",
-      "音乐艺术",
-      "案例研究"
-    ],
-    "date": "2026-09-18",
-    "summary_en": "This review examines Ross McElwee's documentary 'Remake' (2025), a deeply personal exploration of grief and memory through cinema's lens. The film weaves home movies, clips from McElwee's previous work, and footage shot by his late son Adrian, who died from a fentanyl overdose. The reviewer explores the fundamental tension between documentary and fiction, questioning whether recorded images preserve truth or create a new kind of lie. McElwee's compulsive filming—now examined through the irony of his wife refusing to be filmed—raises questions about documentation's ethics and psychology. The review critically engages with memory's unreliability, noting how technology mediates our experience of the past. While acknowledging the film's emotional power, the reviewer wishes for deeper exploration of McElwee's compulsion to film. The piece reflects on cinema's unique ability to preserve life after death, creating what the reviewer calls a 'half-life' of existence through images. This sophisticated criticism speaks to anyone grappling with loss, memory, and the stories we tell through images.",
-    "summary_zh": "这篇影评深入剖析了Ross McElwee的纪录片《Remake》，通过家庭影像探讨失去与记忆的本质。影片将私人悲痛转化为对电影本质的哲学追问：当影像凝固逝去时刻，记录究竟是保存还是篡改？评论者敏锐指出McElwee的拍摄冲动本身值得深思——他沉迷记录生活，却对妻子拒绝入镜感到矛盾。评论还触及数字时代记忆的本质问题：GoPro的鱼眼效果与胶片影像同样'不真实'，都是机器捕捉而非人眼体验。在阿片类药物危机的背景下，Adrian的死亡不仅是个人悲剧，更是社会失职的缩影。评论以温情而克制的笔触指出，尽管主题沉重，影片却被爱所驱动，而非绝望。这是对电影、记忆与存在关系的深刻反思。",
-    "best_quote_en": "'gone but not gone', existing in a ghostly cinematic 'half-life'",
-    "best_quote_zh": "'逝去却未消逝，在幽灵般的电影半衰期中存在'"
-  },
-  {
-    "id": 504,
-    "title": "“A Dinner With Myself” by Graphic Designer Kübra Çetin",
-    "title_zh": "与自己共进晚餐：设计师库布拉·塞丁",
-    "model_used": "poolside/laguna-s-2.1:free",
-    "source": "BOOOOOOOM",
-    "link": "https://www.booooooom.com/2026/09/18/a-dinner-with-myself-by-graphic-designer-kubra-cetin/",
-    "tags": [
-      "update",
-      "design",
-      "writing-content"
-    ],
-    "tags_zh": [
-      "动态",
-      "设计创意",
-      "写作内容"
-    ],
-    "date": "2026-09-18",
-    "summary_en": "This visual essay by graphic designer Kübra Çetin presents a contemplative dinner scene through a series of evocative photographs. Rather than offering explicit narrative, the work invites viewers to project their own interpretations onto intimate domestic moments—half-lit tables, folded garments, and quiet reflections. The absence of text or captions transforms the experience into one of pure visual storytelling, where meaning emerges from lighting, composition, and symbolic detail. Çetin's aesthetic leans into soft realism, capturing vulnerability and solitude without romanticizing them. This piece functions less as traditional design communication and more as an exercise in emotional resonance—highlighting how visual media can convey interiority and existential reflection. For designers and artists, it raises questions about authorship, personal narrative, and the boundaries between commercial practice and personal expression. It’s a subtle yet powerful reminder that sometimes silence speaks louder than words.",
-    "summary_zh": "塞丁以一组静思的晚餐照片讲述孤独与内省，没有文字富有想象空间。这种视觉叙事方式让人思考设计如何传递情感而非信息。",
-    "best_quote_en": "The absence of text or captions transforms the experience into one of pure visual storytelling, where meaning emerges from lighting, composition, and symbolic detail.",
-    "best_quote_zh": "没有文字或字幕的存在，将体验转变为纯粹的视觉叙事，其中意义从光线、构图和象征性细节中浮现。"
-  },
-  {
-    "id": 505,
-    "title": "Doves Type",
-    "title_zh": "鸽子类型",
-    "model_used": "cohere/north-mini-code:free",
-    "source": "99% Invisible",
-    "link": "https://99percentinvisible.org/episode/683-doves-type/",
-    "tags": [
-      "analyze",
-      "ai-research",
-      "case-study"
-    ],
-    "tags_zh": [
-      "分析",
-      "AI研究",
-      "案例研究"
-    ],
-    "date": "2026-09-15",
-    "summary_en": "This episode of 99% Invisible explores a fascinating dispute between two typeface creators over ownership rights after their collaboration sours. Host Roman Mars delves into the legal and creative complexities of type design, featuring insights from Helen Zaltzman, who presents a musical live show titled 'Souvenirs' about the conflict. The episode examines how intellectual property battles shape creative industries and highlights the tangible aspects of type design, including the use of two tons of lead in production. Listeners gain a unique perspective on the intersection of art, law, and commerce in the world of typography, while also learning about innovative approaches to presenting complex narratives through multimedia formats.",
-    "summary_zh": "本期99% Invisible探讨了两位字体设计师在合作破裂后因字体所有权问题产生的争议。罗曼·马斯深入解析了类型设计的法律与创意困境，邀请海伦·萨尔兹曼分享她关于这场冲突的音乐现场表演《纪念品》。节目揭示了知识产权纠纷如何影响创意产业，并展示了字体设计中从无到有的物质过程——用两吨铅来制作字体。听众不仅能了解 typography 领域的法律与商业交锋，还能看到创新的多媒体叙事方式，将复杂的故事通过音乐表演生动呈现。",
-    "best_quote_en": "What happens when two people who create a successful typeface have a falling out and can’t decide who owns the type?",
-    "best_quote_zh": "当两位成功设计字体的设计师反目成仇，无法决定谁拥有字体时，会发生什么？"
-  },
-  {
-    "id": 506,
-    "title": "Pulp: What Do You Do for an Encore?: Documentary charts the thrilling story of Pulp, with a few forgivable omissions",
-    "title_zh": "《Pulp：返场唱什么？》：纪录片绘出乐队扣人心弦的历程，虽有缺漏，仍可原谅",
-    "model_used": "nex-agi/nex-n2.5-pro:free",
-    "source": "BFI",
-    "link": "https://www.bfi.org.uk/sight-and-sound/reviews/pulp-what-do-you-do-encore-documentary-charts-thrilling-story-pulp-with-few-forgivable-omissions",
-    "tags": [
-      "update",
-      "music-arts",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "动态",
-      "音乐艺术",
-      "未来预测"
-    ],
-    "date": "2026-09-18",
-    "summary_en": "This review treats Garth Jennings’s Pulp documentary as more than a victory-lap concert film: it is a study of pop artifice, working-class outsiderhood, and who gets to own a band’s story. The key insight is that Pulp were never simply Britpop’s second act to Oasis. Jarvis Cocker’s generation, art-school sensibility, and fascination with rejection gave the group a stranger, more humane mythology, while his insistence that pop improves reality helps explain the film’s theatrical scale. Davies is especially alert to the central tension: Jennings and Cocker filter the archive through Jarvis, so family photographs, teenage notebooks, and a handmade Dalek become evidence of authorship. Yet that focus turns the other members into foils, sidelines Russell Senior’s Glastonbury brilliance, and omits the Brit Awards protest. The review does not condemn those choices; it asks what emotional truth justifies them. I find the answer persuasive but incomplete. By ending with songs as “real time travel,” the film suggests reunion is not nostalgia so much as a negotiated return to earlier selves. Its omissions may therefore be less failures than the cost of a sharply subjective, deeply felt story.",
-    "summary_zh": "这篇评论最动人之处，在于它把演唱会纪录片读成一场关于记忆所有权的辩论。Pulp确实绕着Jarvis旋转，其他成员常被压成陪衬；但正是这种偏心眼，让旧照片、少年笔记与舞台上的“Common People”组成私人时间机器。省略Glastonbury高光与颁奖礼抗议当然可惜，却也让影片承认：重聚并非完整复刻历史，而是选择让哪些过去重新发声。",
-    "best_quote_en": "“Songs contain pockets of energy from your past life, which are released when you perform them. They’re real time travel, better than Doctor Who.”",
-    "best_quote_zh": "“歌曲里藏着过去生命中的能量碎片，只有当你演唱时才会释放。它们是真实的时间旅行，比《神秘博士》更厉害。”"
-  },
-  {
     "id": 507,
     "title": "Jess Cartner-Morley on fashion: pair a little skirt with a chunky jumper for the perfect balancing act",
     "title_zh": "杰丝·卡特纳-莫利：穿上一件短裙配上厚实的毛衣，完美的平衡之术",
@@ -2342,5 +2227,122 @@
     "summary_zh": "帕洛玛·施奈德曼的 \"Big Girls Don't Cry\" 成为了细腻的成长故事，捕捉了在新西兰乡村长大的酷儿青少年无声的痛苦。电影的力量在于其微妙的孤独与困惑表现，缺乏戏剧化的暴力。时代细节——MSN Messenger、短信费用、LimeWire——作为有生命的时光胶囊而非空洞的模仿。在Jane Campion的指导下历时五年的磨练，让她的直觉转化为影片的情感深度。影片之所以超越，是因为其普世性；虽然根植于特定的乡村经历，但对联系的渴望和被评判的恐惧在全球范围内回响。这部影片属于每一个曾被某种未命名事物 \"托举\" 的人，它为创作者提供了宣泄，也为观众提供了自我理解的语言。它证明了1990年代和2000年代那些被 \"取消\" 的 queer 故事现在被认可为杰作。",
     "best_quote_en": "\"what really makes this film special is the way Schneideman subtly indicates how painful it was in that era to grow up queer without any real support system, even if you never experienced any actual violence.\"",
     "best_quote_zh": "\"帕洛玛·施奈德曼微妙地表明在那个时代长大成酷儿是多么痛苦，即使你从未经历过任何实际暴力。\""
+  },
+  {
+    "id": 602,
+    "title": "(Not Just) Another Brick in the Wall",
+    "title_zh": "（非）另一堵砖墙",
+    "model_used": "nvidia/nemotron-3.5-lightning:free",
+    "source": "99% Invisible",
+    "link": "https://99percentinvisible.org/episode/685-not-just-another-brick-in-the-wall/",
+    "tags": [
+      "analyze",
+      "design"
+    ],
+    "tags_zh": [
+      "分析",
+      "设计创意"
+    ],
+    "date": "2026-10-06",
+    "summary_en": "This fascinating article from 99% Invisible explores the overlooked history of Chicago common bricks—utilitarian, fire-resistant building materials made from glacial clay that became ubiquitous after the Great Fire. Beyond their physical properties, the piece reveals how design aesthetics shaped urban landscapes: architects deliberately concealed these humble bricks behind more expensive face bricks to maintain curb appeal, creating stark visual contrasts between a building's front and side. The article offers a compelling meditation on how functional necessity, economic practicality, and aesthetic hierarchy intertwine in everyday architecture, suggesting that the most enduring urban elements are often those deliberately hidden in plain sight.",
+    "summary_zh": "这篇来自《99% Invisible》的文章揭示了芝加哥普通砖这一被忽视的历史——这种由城市下冰川黏土制成的耐火建筑材料在大火后大量涌现，帮助城市重建。文章不仅探讨了砖的物理属性，更揭示了设计美学如何塑造城市景观：建筑师有意为之将这些朴实的砖隐藏在更昂贵的面砖背后以保持外观，导致建筑正面与侧面形成鲜明对比。文章发人深省地探讨了功能必要性、经济务实性与审美层级如何在日常建筑中交织，暗示那些默默无闻却无处不在的城市元素，往往正是那些被刻意隐藏在显眼处的事物。",
+    "best_quote_en": "\"Chicago commons have a very specific look, the contrast between the bricks on the front of a building and the bricks on the side could be quite stark,\" highlighting the intentional aesthetic divide between visible and hidden construction.",
+    "best_quote_zh": "\"芝加哥普通砖有非常特殊的外观，建筑正面的砖与侧面的砖之间对比可能非常巨大，\" 强调了可见与隐蔽建筑之间故意的美学分界。"
+  },
+  {
+    "id": 603,
+    "title": "“My one political film”: Ken Russell on The Devils",
+    "title_zh": "肯·罗素谈《魔鬼》：我的唯一一部政治电影",
+    "model_used": "poolside/laguna-s-2.1:free",
+    "source": "BFI",
+    "link": "https://www.bfi.org.uk/sight-and-sound/interviews/my-one-political-film-ken-russell-devils",
+    "tags": [
+      "update",
+      "music-arts",
+      "design",
+      "deep-dive"
+    ],
+    "tags_zh": [
+      "动态",
+      "音乐艺术",
+      "设计创意",
+      "深度分析"
+    ],
+    "date": "2026-10-07",
+    "summary_en": "In this 1995 reflection, Ken Russell defends his 1971 film 'The Devils' as both a faithful historical adaptation and his singular political statement—a meditation on state oppression and brainwashing rooted in 17th-century France. Russell, then a devout Catholic, frames the film's controversial imagery not as exploitation but as necessary truth-telling, drawing from Aldous Huxley's historical account and extensive research into period torture methods. He recounts clashes with censors (notably BBFC's John Trevelyan), American distributors who demanded cuts to nudity, and critics like Alexander Walker whose misreadings sparked physical confrontation. Russell's defense reveals a filmmaker committed to artistic integrity over commercial safety, using stylization and provocation to illuminate historical parallels to contemporary authoritarianism. The piece offers rare insight into the tension between artistic vision and institutional control in cinema.",
+    "summary_zh": "罗素将《魔鬼》视为其唯一政治电影，借历史事件抨击国家暴政。面对审查与批评，他坚持以真实与激烈的视觉呈现真相，展现艺术家与权力机构间的永恒冲突。",
+    "best_quote_en": "I always viewed The Devils as my one political film. To me, it was about brainwashing, about the state taking over.",
+    "best_quote_zh": "我一直认为《魔鬼》是我唯一的一部政治电影。对我来说，它是关于洗脑，关于国家夺权。"
+  },
+  {
+    "id": 604,
+    "title": "“Borrowed History” by Artist Tang Shuo",
+    "title_zh": "“借来的历史”——艺术家唐硕",
+    "model_used": "apodex/apodex-1.1-mini:free",
+    "source": "BOOOOOOOM",
+    "link": "https://www.booooooom.com/2026/10/08/borrowed-history-by-artist-tang-shuo/",
+    "tags": [
+      "analyze",
+      "design",
+      "controversial"
+    ],
+    "tags_zh": [
+      "分析",
+      "设计创意",
+      "争议观点"
+    ],
+    "date": "2026-10-08",
+    "summary_en": "This is an image-led artist profile centered on Tang Shuo's project 'Borrowed History,' but the accompanying text is essentially skeletal: mostly image links, a website, and an Instagram handle. The title itself is the richest signal. 'Borrowed History' suggests a practice of appropriating, recontextualizing, or reassembling historical imagery and narratives—possibly through collage, photomontage, or digital manipulation—to expose how history is constructed, curated, and commodified. I find myself drawn to the ethical tension embedded in the word 'borrowed': it implies temporary use, ambiguity of ownership, and a refusal to claim original authorship over inherited cultural material. In an era of deepfakes and AI-generated archives, such work becomes a mirror reflecting our own anxiety about what is authentic. Without the artist's statement or captions, I can only infer intent from the title and the visual evidence, which is itself a limitation worth naming. The value here is primarily inspirational and aesthetic rather than instructional. For the audience, this is a visual discovery piece—curiosity-driven, mood-setting, and likely to attract art students, contemporary art enthusiasts, and collectors interested in Chinese contemporary practice. The challenge is that image-only content rarely ranks well in text-based search; discoverability depends on alt text, captions, and context that are absent here. Still, the concept is strong enough to warrant deeper engagement—ideally with the artist's own words on how 'borrowing' functions as both method and critique.",
+    "summary_zh": "“借来的历史”这一标题本身即是最丰富的线索。它暗示了一种挪用、重构历史图像的当代艺术实践——或许通过拼贴、摄影蒙太奇或数字处理，揭示历史如何被建构、筛选与商品化。我尤其被“borrowed”一词蕴含的伦理张力所吸引：借用意味着暂时性、权属模糊，以及对继承性文化材料的原创性宣称之拒绝。在深度伪造与AI档案泛滥的时代，此类作品恰似一面镜子，映照出我们对真实性的集体焦虑。可惜正文几乎为空，仅有图片链接与社交账号，我们只能从标题与视觉证据中推断意图——这本身就是一个值得指出的局限。内容的价值主要是启发性与审美性的，而非教学性。对受众而言，这是以视觉发现为导向的内容，适合艺术学生、当代艺术爱好者及关注中国当代艺术的藏家。但纯图片内容在文本搜索中难以获得良好排名，可发现性高度依赖缺失的替代文本与上下文。尽管如此，这一概念足够有力，值得进一步深入——理想情况下应结合艺术家本人的阐述，说明“借用”如何同时成为方法与批判。",
+    "best_quote_en": "\"Borrowed History\" suggests a practice of appropriating, recontextualizing, or reassembling historical imagery and narratives to expose how history is constructed, curated, and commodified.",
+    "best_quote_zh": "“借用”意味着暂时性、权属模糊，以及对继承性文化材料的原创性宣称之拒绝。"
+  },
+  {
+    "id": 605,
+    "title": "Here’s what connects the Cornell alleged rape case to those before: accused men not being held to serious account | Emma Brockes",
+    "title_zh": "康奈尔涉嫌强奸案与过往案件的共通点：被指控的男子从未受到严肃追责",
+    "model_used": "apodex/apodex-1.1-mini:free",
+    "source": "Women | The Guardian",
+    "link": "https://www.theguardian.com/commentisfree/2026/oct/08/cornell-alleged-rape-metoo-men-victims",
+    "tags": [
+      "solve",
+      "legal",
+      "science",
+      "controversial"
+    ],
+    "tags_zh": [
+      "解决",
+      "法律法规",
+      "科学研究",
+      "争议观点"
+    ],
+    "date": "2026-10-08",
+    "summary_en": "Emma Brockes delivers a piercing critique that reframes the Cornell gang-rape allegations not as an isolated failure, but as the latest chapter in a decades-long pattern where accused men escape meaningful accountability. Her analysis cuts through the fashionable 'death of #MeToo' narrative by reaching further back than 2017, to the Obama era and the 2015 Stanford swimmer case. What emerges is a devastating pattern: Title IX, initially a progressive triumph, has proven structurally inadequate for prosecuting serious felonies on campus, while public discourse persistently centers the victim's intoxication rather than the perpetrator's entitlement. Brockes's most powerful insight dismantles Gladwell's 'transparency failure' framing—alcohol wasn't the disinhibiting agent; it was misogyny, entitlement, and a well-founded assumption of impunity. The 8% conviction rate statistic anchors her argument in hard reality. This is essential reading for anyone believing the pendulum has swung too far toward protecting women; the evidence suggests the pendulum has barely moved at all.",
+    "summary_zh": "Brockes 穿透了#MeToo已死的流行论调，指出康奈尔案并非孤立失败，而是数十年来被指控男性逃避追责的延续。从2015年斯坦福泳将案到如今的Title IX，制度进步远不足以惩处严重性犯罪。她最有力的洞见在于：酒精并非解除抑制的因素，真正驱动侵害的是厌女、特权感，以及施暴者有理由相信不会受到严肃追究。8%的定罪率数据让这一批判落地为残酷现实。",
+    "best_quote_en": "The pivotal disinhibiting agent in the sexual assault of Chanel Miller, and in the alleged assault of the latest Jane Doe, wasn't drugs or alcohol, but entitlement, misogyny and a well-founded assumption on the part of the men accused that they would never be held to serious account.",
+    "best_quote_zh": "Chanel Miller 被性侵以及最新Jane Doe被控性侵的关键解除抑制因素，并非药物或酒精，而是特权感、厌女心理，以及被控男子有理由坚信他们绝不会受到严肃追究。"
+  },
+  {
+    "id": 606,
+    "title": "Queer Edward II: New Derek Jarman documentary captures a vital piece of cinematic history",
+    "title_zh": "酷儿爱德华二世：新纪录片揭示德里克·雅曼电影史上的重要篇章",
+    "model_used": "dots-studio/dots-3-note-preview:free",
+    "source": "BFI",
+    "link": "https://www.bfi.org.uk/sight-and-sound/reviews/queer-edward-ii-new-derek-jarman-documentary-captures-vital-piece-cinematic-history",
+    "tags": [
+      "analyze",
+      "music-arts",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "分析",
+      "音乐艺术",
+      "未来预测"
+    ],
+    "date": "2026-10-07",
+    "summary_en": "Theo Rollason’s Queer Edward II is a revelatory found-footage documentary that excavates the political and personal turbulence surrounding Derek Jarman’s 1991 adaptation of Marlowe’s play. Through previously unseen Betacam footage shot by cinematographer Seamus McGarvey, the film reconstructs not only Jarman’s radical directorial process but also the socio-political crucible of early 1990s Britain—where Section 28, the AIDS crisis, and institutional homophobia collided. The documentary captures Jarman’s fusion of art and activism, notably in the impromptu protest by OutRage against Cliff Richard, which underscores how Jarman’s work was inseparable from the lived realities of queer resistance. More than a behind-the-scenes account, Queer Edward II is a testament to artistic endurance: Jarman, diagnosed with HIV five years prior, continued to create masterpieces like Wittgenstein and Blue despite a prognosis of 18 months. Rollason’s curation of over 30 hours of footage, interwoven with archival protest materials, transforms the documentary into a vital archive of queer cinema history. It reframes Jarman not merely as a filmmaker but as a cultural warrior whose legacy remains urgently relevant in contemporary debates over LGBTQ+ rights, censorship, and artistic freedom.",
+    "summary_zh": "西奥·罗拉森的《酷儿爱德华二世》是一部开创性的拾得影像纪录片，深入挖掘了德里克·雅曼1991年改编马洛剧作背后的政治与个人风暴。通过摄影师西莫斯·麦加维从未面世的Betacam影像，影片不仅重现了雅曼激进的创作过程，更还原了90年代初英国的社会政治熔炉——-section 28、艾滋病危机与制度性恐同交织成一片压抑的土壤。纪录片捕捉到雅曼艺术与行动主义的不可分割，尤其是“OutRage”团体突袭克里夫·理查德录音室的即兴抗议，彰显其作品与酷儿抵抗的现实密不可分。这不仅是幕后花絮，更是对艺术韧性的礼赞：雅曼在确诊HIV仅剩18个月预期寿命的情况下，仍创作出《维特根斯坦》与《蓝》等杰作。罗拉森从30余小时素材中精选编排，结合时代抗议档案，将本片升华为一部酷儿电影史的珍贵档案，迫使我们重新审视雅曼不仅是导演，更是文化战士——其遗产在今日关于LGBTQ+权利、审查与艺术自由的争论中依然振聋发聩。",
+    "best_quote_en": "Jarman managed to scramble these timelines in a postmodern stylistic menagerie that elicits a poignant combination of impending doom and the universal endurance of love in the face of all forms of oppression.",
+    "best_quote_zh": "雅曼以一种后现代风格的混杂体，打乱了这些时间线，唤起了一种迫在眉睫的 doom 与爱在一切压迫形式下普遍存续的动人结合。"
   }
 ]
