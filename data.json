@@ -1,118 +1,5 @@
 [
   {
-    "id": 517,
-    "title": "Hiring",
-    "title_zh": "慧聘贤才",
-    "model_used": "nex-agi/nex-n2.5-mini:free",
-    "source": "Kevin Kelly",
-    "link": "https://kk.org/cooltools/hiring/",
-    "tags": [
-      "solve",
-      "leadership",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "解决",
-      "领导管理",
-      "未来预测"
-    ],
-    "date": "2026-09-21",
-    "summary_en": "The piece argues that careful hiring is a company’s highest-leverage investment because talented people compound across every task. It recommends studying past behavior, sourcing broadly, using structured interviews, assigning practical mini-projects, and checking references with a neutral callback test. Team review improves judgment, while listening more than talking reveals how candidates think and respond. The broader message is to invest in people rather than ideas, recognize that employers often resist bad news after courting applicants, and use precise outsourcing when specialized work must be delivered quickly, affordably, and reliably.",
-    "summary_zh": "文章强调审慎招聘是效率最高的组织投资。应考察过往行为、广泛寻源、结构化面试，并用小型实战任务与中性背调验证能力。团队复评可减少个人偏差，多听少说能观察候选人的思维与反应。其核心是投资人才而非空想，警惕因前期热情而回避坏消息，并在需要专长时借助精准外包快速交付。",
-    "best_quote_en": "“Invest in people, not ideas.”",
-    "best_quote_zh": "“投资人才，而非点子。”"
-  },
-  {
-    "id": 518,
-    "title": "A Clarification",
-    "title_zh": "澄清",
-    "model_used": "poolside/laguna-xs-2.1:free",
-    "source": "Sam Altman",
-    "link": "https://blog.samaltman.com/a-clarification",
-    "tags": [
-      "inspire",
-      "society",
-      "controversial"
-    ],
-    "tags_zh": [
-      "启发",
-      "社会议题",
-      "争议观点"
-    ],
-    "date": "2017-12-16",
-    "summary_en": "This piece presents a nuanced exploration of free speech, social progress, and the tension between tolerating controversial ideas versus endorsing harmful behavior. Sam Altman clarifies his earlier statement, emphasizing that scientific advancement doesn't require tolerating bigoted individuals, but rather that society must protect controversial yet valuable ideas. He draws compelling parallels between historical shifts in social norms—from gay rights to potential future views on meat consumption—highlighting how orthodoxy often resists necessary change. The central thesis is that free speech enables society to self-correct, allowing unpopular but morally significant ideas to emerge and gain traction over time. Altman acknowledges the difficulty in drawing clear boundaries between legitimate debate and hate speech, noting that the challenge isn't just practical but fundamentally moral. His argument ultimately suggests that open discourse, even when uncomfortable, is essential for collective moral progress and evolving ethical standards.",
-    "summary_zh": "这篇文章深入探讨了言论自由、社会进步以及容忍争议观点与反对有害行为之间的张力。作者澄清称，科学进步不在于容忍偏激分子，而在于社会保护具有价值的争议性思想。从同性婚姻到未来对肉食的看法，都映射出正统观念抵制变革的模式。他强调，言论自由让社会得以自我纠正，孕育进步思想。尽管界定善意争议与仇恨言论的边界极具挑战性，但敞开的对话仍是道德进化的必要条件。这不仅是实践问题，更是道德命题。",
-    "best_quote_en": "What I meant is simply that we need, as a society, to tolerate controversial ideas. The biggest new scientific ideas, and the most important changes to society, both start as extremely unpopular ideas.",
-    "best_quote_zh": "我所要表达的，只是我们作为社会需要容忍这些争议性的观点。最大的新科学想法，社会最重要的变革，都始于极不受欢迎的想法。"
-  },
-  {
-    "id": 519,
-    "title": "Best Tools for Gut Health & Weight Loss | Dr. Chris Thompson",
-    "title_zh": "最佳肠道健康与减重工具 | 克里斯·汤普森博士访谈",
-    "model_used": "nvidia/nemotron-3-ultra-550b-a55b:free",
-    "source": "Huberman Lab",
-    "link": "https://www.hubermanlab.com/episode/best-tools-for-gut-health-and-weight-loss-chris-thompson",
-    "tags": [
-      "solve",
-      "medicine"
-    ],
-    "tags_zh": [
-      "解决",
-      "医学健康"
-    ],
-    "date": "2026-09-21",
-    "summary_en": "This Huberman Lab episode features Dr. Chris Thompson, a Harvard gastroenterology professor and obesity medicine pioneer, delivering a masterclass on the gut as the body's metabolic command center. What distinguishes this conversation is Thompson's unique position straddling cutting-edge endoscopic interventions, GLP-1 pharmacology, and fundamental gut physiology—he's not just observing the obesity treatment revolution, he's architecting it. The discussion traverses from the mechanistic (how ghrelin, CCK, GIP, and GLP-1 orchestrate hunger/satiety) to the practical (fiber types, fermented foods, resistant starch) to the frontier (duodenal mucosal resurfacing, endoscopic sleeve gastroplasty, GLP-1 gene therapy). Thompson's insight that bariatric surgery's metabolic benefits precede weight loss—via foregut exclusion altering incretin signaling—reframes obesity as a gut signaling disorder rather than mere caloric imbalance. His nuanced take on GLP-1s—advocating lower doses to preserve muscle, addressing 'food noise' versus true hunger, and warning of apathy side effects—reflects clinical wisdom beyond protocol. The episode's through-line: gut health isn't a wellness trend but the substrate of systemic metabolism, immunity, and longevity. For anyone navigating weight management or metabolic health, this isn't information—it's a navigation system.",
-    "summary_zh": "汤普森博士不仅是哈佛教授，更是肥胖治疗革命的建筑师之一。这期对话最让我震撼的是他重新定义了肥胖本质：不是热量平衡失调，而是肠道信号传导紊乱。减重手术的代谢获益先于体重下降——通过排除前肠改变肠促胰岛素信号，这个洞见彻底改变了我看待代谢疾病的视角。他对GLP-1药物的态度极其克制且深刻：主张低剂量保肌肉、区分'食物噪音'与真实饥饿、警惕冷漠副作用，这是临床一线才有的智慧。从丁酸盐到十二指肠黏膜重塑，从内镜袖状胃成形术到GLP-1基因治疗，他串联起肠道作为全身代谢指挥中心的完整图景。这不只是科普，是给每个在代谢健康迷雾中摸索者的导航系统。",
-    "best_quote_en": "Obesity is not a disorder of caloric balance—it's a disorder of gut signaling. Bariatric surgery's metabolic benefits precede weight loss because foregut exclusion fundamentally alters incretin signaling.",
-    "best_quote_zh": "肥胖不是热量平衡的失调，而是肠道信号传导的紊乱。减重手术的代谢获益先于体重下降，因为前肠排除从根本上改变了肠促胰岛素信号。"
-  },
-  {
-    "id": 520,
-    "title": "The Forever War and the First Amendment",
-    "title_zh": "永恒的战争与第一修正案",
-    "model_used": "inclusionai/ling-3.0-flash-vl:free",
-    "source": "Harper’s Magazine",
-    "link": "https://harpers.org/2026/08/the-forever-war-and-the-first-amendment/",
-    "tags": [
-      "solve",
-      "ai-research",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "解决",
-      "AI研究",
-      "未来预测"
-    ],
-    "date": "2026-08-27",
-    "summary_en": "This announcement frames a symposium examining how the post-9/11 'war on terror' has reshaped democratic freedoms—particularly free expression and press independence. What strikes me as genuinely significant is the temporal framing: calling it a 'forever war' invokes not just military endurance but the slow erosion of civil liberties that outlasts any formal conflict. Kunzru's essay on art and censorship after 9/11 promises to interrogate how cultural production itself became a battlefield. The pairing of Harper's Magazine—a publication with a long tradition of dissenting voices—with Columbia's First Amendment Institute suggests a serious intellectual reckoning rather than a ceremonial retrospective. The fact that this is free and open to the public, yet requires registration, subtly mirrors the tension between openness and gatekeeping that pervades democratic discourse. This event sits at the intersection where journalism ethics, artistic freedom, and national security policy converge—a junction that remains profoundly unresolved two decades on.",
-    "summary_zh": "这场研讨会将9/11之后的反恐战争称为'永恒的战争'，暗示民主自由的侵蚀远比军事冲突本身更为持久。Kunzru关于艺术审查的论文值得关注——它触及了一个根本性问题：在安全名义下，文化生产如何悄然成为新的战场。Harper's与哥伦比亚第一修正案研究所的合作，暗示这不是一次仪式性的回顾，而是一场严肃的思想交锋。免费开放却需注册的规定，巧妙地折射出民主话语中开放与把关之间永恒的张力。新闻伦理、艺术自由与国家安全政策的交汇地带，二十年后仍未真正解决。",
-    "best_quote_en": "The Forever War and the First Amendment",
-    "best_quote_zh": "永恒的战争与第一修正案"
-  },
-  {
-    "id": 521,
-    "title": "DesignPatentDaily / Origin Myth Map / Magnifying Desk Lamp",
-    "title_zh": "设计专利日报 / 起源神话地图 / 放大台灯",
-    "model_used": "inclusionai/ling-3.0-flash-sante:free",
-    "source": "Kevin Kelly",
-    "link": "https://kk.org/cooltools/designpatentdaily-origin-myth-map-magnifying-desk-lamp/",
-    "tags": [
-      "inspire",
-      "design",
-      "beginner-friendly"
-    ],
-    "tags_zh": [
-      "启发",
-      "设计创意",
-      "新手友好"
-    ],
-    "date": "2026-09-20",
-    "summary_en": "This week's collection spans the beautifully technical to the deeply human. DesignPatentDaily reveals that patent drawings are an unrecognized art form — functional elegance distilled into crisp ink lines. The Origin Myth Map offers an interactive journey through humanity's creation stories, where every archetype branches into new pathways of understanding. The magnifying desk lamp recommendation is a quiet reminder that the right tool transforms ordinary acts into pleasures. The speed clamp and the BuyItForLife stories converge on a single truth: quality tools honor their owners across decades. Peter McEwen's contemplative guide on difficult emotions stands out as the most profound piece — the radical act of not fixing what aches, but simply staying with it, builds an inner spaciousness that resolves nothing and everything at once.",
-    "summary_zh": "本周合集从技术之美延伸到人性深处。专利图纸是未被识别的艺术，起源神话地图让人类创世故事可交互探索。一盏放大台灯提醒我们工具可以转化日常体验。快速夹具和品牌终身保修的故事共同指向一个真相：优质工具跨越数十年仍回应主人。而彼得·麦文的情绪沉思录最为深刻——不试图修复痛苦，只是与它共处，反而构建出内心的开阔与自由。",
-    "best_quote_en": "Practiced over time, this small, kind act builds your capacity to let conflicting feelings sit side by side without needing to fix them.",
-    "best_quote_zh": "久而久之，这个微小而善意之举，会让你有能力让相互矛盾的情绪并排存在，而无需去修复它们。"
-  },
-  {
     "id": 522,
     "title": "Javier Bardem shares petition to remove Pink as UNICEF ambassador over Macklemore Palestine row",
     "title_zh": "哈维尔·巴德姆分享请愿书，要求将Pink移除联合国儿童基金会大使职务，因其回应麦克莱莫尔对巴勒斯坦的言论",
@@ -2346,5 +2233,120 @@
     "summary_zh": "这篇文章深入剖析了2025-2026年红区划战争的激烈程度，揭示了两党在选区划分上的激烈争夺如何对民主制度造成深远威胁。穆根塔利的案例说明了州层面法律争执如何演变为全国性的混乱，法院层出不穷地下达矛盾裁决，选民被剥夺了选举权。作者追踪了特朗普的中期红区划计划如何将这项平常的政治活动武器化，意图通过 Georgia、路易斯安那和 Tennessee 等州的行动破坏少数民族代表权保护。尽管民主党通过公投和反向选图进行反击，但作者警告这种'以火灼火'的方式最终会消耗掉民主制度本身。文章将此 conflict 置于一个世纪的红区划争斗史中回顾，从1922年穆根塔利的投票公投胜利到1960年代的选举权法案革命，认为虽然改革有可能，但当前的进程正威胁代表性民主的根本完整性。",
     "best_quote_en": "Fighting fire with fire, Cleaver told me, is 'good, in this case, I guess. But, we need to keep in mind that, when you do that, nothing is left but ash in the end.'",
     "best_quote_zh": "Cleaver说：'用火去灭火，至少在这种情况下，我可以接受。但我们要记住，当这样做时，最终剩下的只有火灾的灰烬。'"
+  },
+  {
+    "id": 617,
+    "title": "Jurassic sounds / Free Utilities / China travel tip",
+    "title_zh": "侏罗纪之声 / 免费实用工具 / 中国旅行贴士",
+    "model_used": "apodex/apodex-1.1-mini:free",
+    "source": "Kevin Kelly",
+    "link": "https://kk.org/cooltools/jurassic-sounds-free-utilities-china-travel-tip/",
+    "tags": [
+      "update",
+      "general",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "动态",
+      "general",
+      "未来预测"
+    ],
+    "date": "2026-10-11",
+    "summary_en": "This curated digest is a fascinating mosaic of disparate discoveries, yet it reveals a coherent underlying theme: the democratization of experience through accessible tools and technology. The Jurassic forest audio reconstruction is particularly striking—it transforms paleontology from a visual, static discipline into an immersive auditory one, reminding us that our understanding of deep time is constantly being enriched by new methodologies. The practical recommendations, from budget exercise headphones to a 193-tool browser utility suite, demonstrate a pragmatic appreciation for low-cost, high-utility solutions that respect the user's time and privacy. The China travel tip and the book restoration project add layers of cultural and historical context, while the sponsor's question about why smart people miss the future serves as a meta-commentary on the newsletter's very purpose: helping readers anticipate change. The inclusion of AI in translating an out-of-print German classic is a subtle but significant nod to how generative tools are rescuing cultural heritage. Overall, the content feels like a conversation between curious, well-traveled enthusiasts who value both wonder and utility.",
+    "summary_zh": "这份精选辑看似零散，实则贯穿一条主线：技术与工具让体验变得民主。侏罗纪森林的听觉重构尤为动人，它将古生物学从静态视觉转向沉浸式听觉。实用推荐如百元耳机、193 款浏览器工具集，体现对低成本高效解决方案的欣赏。中国旅行贴士与绝版书修复则增添了文化与历史维度。AI 翻译德文经典的细节，更是生成式工具挽救文化遗产的微妙注脚。整篇如同好奇、博学的爱好者之间的对话，既珍视惊奇，也看重实用。",
+    "best_quote_en": "Scientists have reconstructed what a Jurassic forest might have sounded like 165 million years ago, and the one-minute audio is a really cool soundscape to imaginatively step into.",
+    "best_quote_zh": "科学家们重构了 1.65 亿年前侏罗纪森林可能发出的声音，这段一分钟音频是一个可以想象着踏入其中的美妙声景。"
+  },
+  {
+    "id": 618,
+    "title": "How Food Choices Shape Memory, Cognition & Cravings | Dr. Scott Kanoski",
+    "title_zh": "食物选择如何塑造记忆、认知与渴望 | Dr. Scott Kanoski",
+    "model_used": "nvidia/nemotron-3-super-120b-a12b:free",
+    "source": "Huberman Lab",
+    "link": "https://www.hubermanlab.com/episode/how-food-choices-shape-memory-cognition-and-cravings-scott-kanoski",
+    "tags": [
+      "inspire",
+      "health-wellness",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "启发",
+      "健康养生",
+      "未来预测"
+    ],
+    "date": "2026-10-12",
+    "summary_en": "This episode features Dr. Scott Kanoski, a leading researcher in neurobiology and human evolutionary biology, exploring the bidirectional relationship between diet and brain function. The discussion reveals how food choices directly influence memory formation, cognitive performance, and craving mechanisms, while also examining how memory and emotional states feed back into eating behaviors. Key topics include the role of GLP-1 in hunger regulation—both naturally occurring and pharmaceutical forms—the impact of artificial sweeteners on appetite signaling, and the profound effects of Western diets high in sugar and processed foods on hippocampal function and dementia risk. The conversation further examines the gut microbiome’s influence on mood and food preference via the vagus nerve, the dopamine-driven reinforcement of unhealthy eating patterns, and how social factors like oxytocin modulate consumption. Notably, the dialogue connects individual nutrition to broader societal issues, touching on food addiction, highly processed foods, and the influence of political lobbying on dietary environments. The insights are both scientifically rigorous and practically relevant, offering a nuanced understanding of how what we eat shapes not just our bodies, but our minds, memories, and long-term neurological health.",
+    "summary_zh": "此次对话深刻揭示了饮食与大脑功能之间的双向作用：我们吃的东西如何影响记忆和认知，同时我们的记忆和情绪又如何塑造饮食选择。Kanoski博士不仅解释了GLP-1在饥饿调节中的作用（无论是天然还是药物形式），还深入探讨了人工甜味剂如何干扰食欲信号，以及高糖、加工食品如何损害海马体功能、增加痴呆风险。特别值得注意的是，他将肠道微生物群通过迷走神经影响情绪和食欲的机制，与多巴胺驱动的不健康饮食强化形成闭环，并进一步延伸到社会因素如催产素如何调节进食行为。更有深度的是，该讨论跳出个体层面，关联到食物成瘾、超加工食品的泛滥以及政治游说对食物环境的塑造——提醒我们，个人营养选择永远嵌入更大的社会与政治结构中。这不仅是一场关于神经科学的讲座，更是一次对现代饮食文化的反思，让人重新审视每一口食物背后的科学、习惯与系统力量。",
+    "best_quote_en": "Our memory impacts our food choices just as much as our food choices impact our memory.",
+    "best_quote_zh": "我们的记忆影响着我们的食物选择，就像我们的食物选择影响着我们的记忆一样。"
+  },
+  {
+    "id": 619,
+    "title": "Last Cull",
+    "title_zh": "Last Cull",
+    "model_used": "nvidia/nemotron-3.5-lightning:free",
+    "source": "Harper’s Magazine",
+    "link": "https://harpers.org/2026/10/last-cull-ostrich-conspiracy-canada-jb-mackinnon-matthew-sherrill/",
+    "tags": [
+      "analyze",
+      "ai-research",
+      "marketing",
+      "controversial"
+    ],
+    "tags_zh": [
+      "分析",
+      "AI研究",
+      "市场营销",
+      "争议观点"
+    ],
+    "date": "2026-10-11",
+    "summary_en": "This article examines the 'Ostrich Army'—a group of right-wing activists in rural British Columbia who believe the Canadian government's culling of ostriches during an H5N1 bird flu outbreak was actually an attempt to suppress a supposed 'universal cure' for COVID-19 hidden in the birds' genetics. Through J.B. Mackinnon's immersive reporting, the piece explores the intersection of pandemic paranoia, agricultural policy, and far-right conspiracy thinking in Canada. Mackinnon offers a nuanced portrait of the movement, acknowledging legitimate concerns about government transparency and corporate influence while critiquing the leap to secretive, malevolent forces. The article ultimately argues that the cull may have been necessary given the ubiquity of bird flu in wild populations, suggesting that a more 'normie' advocacy focused on biosecurity rather than fascism could have saved the birds. It's a compelling study of how conspiratorial thinking flourishes when ordinary policies lack adequate public explanation, and how the movement's proximity to pro-Trump sentiment reveals deeper tensions around Canadian sovereignty and identity.",
+    "summary_zh": "本文探讨了不列颠哥伦比亚省农村的一群右翼激进分子——'鸵鸟军'——在H5N1禽流感爆发期间，认为加拿大政府屠杀鸵鸟的行动其实是试图压制隐藏在鸟类基因组中某种'万能疫苗'疗法的阴谋。通过J.B. Mackinnon的深度报道，文章探讨了大流行后的阴谋思维、农业政策与加拿大极右翼思维的交叉点。Mackinnon对该运动给出了细致入微的描绘，既承认了政府透明度和企业影响力的合理担忧，又批判了对秘密邪恶势力的过度描绘。文章最终认为，鉴于禽流感在野生鸟类中已普及，屠杀可能是必要的，更'普通化'的倡导者若专注于生物安全而非指责法西主义，或许鸵鸟本可以保全。这是一部精彩的研究，探讨了在普通政策缺乏充分公开解释时，阴谋思维如何滋生，以及该运动与亲特朗普情绪的接近性如何揭示了加拿大主权与认同层面的更深张力。",
+    "best_quote_en": "\"The less likely the theory, the more fiercely it's believed and defended. To the Canadian conspiracy theorist, the fact that the trappings of tyranny mostly cannot be seen is just a sign of how deeply hidden and powerful it must be.\"",
+    "best_quote_zh": "\"理论越不可能，人们越死心塌地地相信和捍卫。对于加拿大阴谋论者来说，暴政的外在标志大多看不见，这只能说明它必须隐藏得有多深、有多有力量。\""
+  },
+  {
+    "id": 620,
+    "title": "Book Freak #221: Ways of the Six-Footed",
+    "title_zh": "书评 #221：六足之道",
+    "model_used": "nvidia/nemotron-3-ultra-550b-a55b:free",
+    "source": "Kevin Kelly",
+    "link": "https://kk.org/cooltools/book-freak-221-ways-of-the-six-footed/",
+    "tags": [
+      "solve",
+      "lifestyle",
+      "design"
+    ],
+    "tags_zh": [
+      "解决",
+      "生活方式",
+      "设计创意"
+    ],
+    "date": "2026-10-09",
+    "summary_en": "This piece introduces Anna Botsford Comstock's 'Ways of the Six-Footed,' a century-old collection of insect essays that transcends natural history to offer profound life philosophy. The author extracts four core principles from Comstock's observations: every life confronts problems and solves them with ingenuity; observing the humble reveals grand truths; the individual serves the collective; and resilience means returning to do your part despite setbacks. What makes this analysis compelling is how it bridges Victorian-era entomology with modern self-help, framing insect behaviors not as biological curiosities but as metaphorical toolkits for human problem-solving. The 'Try It Now' section operationalizes these insights into actionable practices—observing a spider to reframe personal challenges, breaking overwhelming problems into insect-sized steps, building with available materials rather than waiting for perfection. The closing quote captures a stoic optimism: trusting that the 'net proceeds of struggle are greater than the cost.' This is biomimicry for the soul, suggesting that six-legged creatures, in their relentless, unglamorous persistence, may be better life coaches than most bestselling authors.",
+    "summary_zh": "这篇书评引领我重读百年前安娜·康斯托克的昆虫随笔，惊觉那些六足小生竟是最朴素的生命导师。作者提炼四大原则：生命皆在解题、微观见宏大、个体服务整体、挫折后仍回归本分。最动人的是将昆虫行为转化为可操作的生活哲学——观察蜘蛛重构心态、将巨大困境拆解为微小步骤、用手边材料即刻开工。结尾那句\"斗争的净收益大于成本\"，是斯多葛式的乐观，也是对完美主义最有力的反驳。昆虫不讲叙事，只做功课，这或许比任何成功学都更治愈。",
+    "best_quote_en": "\"I felt inspired to go back and serenely do my own little part as well as I could, trusting that somehow, somewhere, and to Some One the net proceeds of struggle are greater than the cost.\"",
+    "best_quote_zh": "\"我感到受鼓舞，要回去平静地、尽我所能地做好自己的那一点微小的份内事，相信不知怎么、在何处、对何人，斗争的净收益大于成本。\""
+  },
+  {
+    "id": 621,
+    "title": "Essentials: Manage Stress & Build Resilience | Dr. Elissa Epel",
+    "title_zh": "Essentials：管理压力与构建韧性 | Dr. Elissa Epel",
+    "model_used": "apodex/apodex-1.1-mini:free",
+    "source": "Huberman Lab",
+    "link": "https://www.hubermanlab.com/episode/essentials-manage-stress-and-build-resilience-elissa-epel",
+    "tags": [
+      "learn",
+      "psychology"
+    ],
+    "tags_zh": [
+      "学习",
+      "心理学"
+    ],
+    "date": "2026-10-08",
+    "summary_en": "Dr. Elissa Epel's conversation with Huberman reframes stress not as an enemy to eliminate but as a physiological signal to be understood and skillfully managed. What makes this content genuinely valuable is its grounding in cellular biology—linking chronic stress to mitochondrial health and accelerated cellular aging—while simultaneously offering concrete, immediately applicable tools. The 'threat vs. challenge' reframe is particularly compelling: it's not about denying stress but about interpreting the body's arousal as readiness rather than danger. Epel's distinction between stressors we can act on versus those requiring radical acceptance cuts through the toxic positivity that dominates self-help. The 'drop the rope' metaphor elegantly captures the exhaustion of fighting the uncontrollable. What I find most intellectually honest is the admission that some stress is unavoidable, which shifts the goal from stress elimination to resilience building. This is science-backed wisdom that respects human complexity rather than promising quick fixes.",
+    "summary_zh": "Epel将压力重新定义为需理解的生理信号而非敌人。最可贵的是将慢性压力与线粒体健康、细胞衰老相连，同时提供即刻可用的工具。'威胁vs挑战'的重构尤为深刻——并非否认压力，而是将身体唤醒解读为准备而非危险。区分可控与不可控压力，直指自助领域泛滥的毒性积极。'松开绳子'的隐喻精准捕捉了与不可控之事搏斗的耗竭。最诚实的是承认压力无法完全消除，目标应从消除转向韧性构建。这是尊重人性复杂而非承诺速效的科学智慧。",
+    "best_quote_en": "The goal isn't to eliminate stress; it's to build resilience so that stress doesn't erode your health and your sense of purpose over time.",
+    "best_quote_zh": "目标不是消除压力，而是建立韧性，让压力不会随时间侵蚀你的健康和使命感。"
   }
 ]
