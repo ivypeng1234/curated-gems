@@ -1,122 +1,5 @@
 [
   {
-    "id": 522,
-    "title": "Javier Bardem shares petition to remove Pink as UNICEF ambassador over Macklemore Palestine row",
-    "title_zh": "哈维尔·巴德姆分享请愿书，要求将Pink移除联合国儿童基金会大使职务，因其回应麦克莱莫尔对巴勒斯坦的言论",
-    "model_used": "nvidia/nemotron-3-super-120b-a12b:free",
-    "source": "NME",
-    "link": "https://www.nme.com/news/music/javier-bardem-petition-remove-pink-unicef-ambassador-macklemore-palestine-3970297?utm_source=rss&utm_medium=rss&utm_campaign=javier-bardem-petition-remove-pink-unicef-ambassador-macklemore-palestine",
-    "tags": [
-      "update",
-      "society",
-      "music-arts",
-      "controversial"
-    ],
-    "tags_zh": [
-      "动态",
-      "社会议题",
-      "音乐艺术",
-      "争议观点"
-    ],
-    "date": "2026-09-23",
-    "summary_en": "This article examines the growing cultural and political tension surrounding celebrity activism, specifically the backlash against Macklemore’s pro-Palestine statements during his tour with Ed Sheeran, and the subsequent campaign led by Javier Bardem to remove Pink as a UNICEF ambassador. The core insight lies not just in the conflict itself, but in how it reveals the increasing expectation that public figures must take explicit stances on geopolitical issues — and face consequences when perceived as neutral or oppositional. Bardem’s involvement adds weight to the movement, leveraging his long-standing advocacy for Palestinian rights to frame the petition not as censorship, but as accountability. The piece highlights a broader societal shift: audiences now demand moral clarity from influencers, and institutions like UNICEF are caught between humanitarian missions and political perception. What’s particularly striking is how Pink’s defense — that a repost isn’t a statement — underscores the generational divide in understanding social media’s role in activism. This isn’t merely a feud between artists; it’s a case study in how art, activism, and institutional integrity collide in the digital age, raising urgent questions about who gets to define solidarity, and what accountability looks like when moral claims are weaponized in public discourse.",
-    "summary_zh": "这则新闻不仅是明星之间的争执，更揭示了当代公众人物在全球政治议题中的困境：沉默即立场，表态即风险。巴德姆通过分享请愿书，将个人人道主义立场与机构问责挂钩，反映出观众如今要求名人不仅娱乐，更要承担道德责任。Pink的辩解——“转发不是声明” —  — 暴露了她对社交媒体在 activism 中力量的误解或回避，而这种天真恰恰成为争议的焦点。事件背后是更深层的文化冲突：在去殖民化、种族正义与反犹太主义交织的叙事中，如何平衡同情与指责？UNICEF作为人道机构，如今被迫在政治压力下审视其大使的言论，这既是其使命的考验，也凸显了全球公共空间日益两极化的现实。我们正在见证一种新规则的形成：影响力不仅来自 talento，更来自清晰的价值立场 —  — 而一旦立场模糊，就可能被解读为共谋。",
-    "best_quote_en": "“A repost isn’t a statement, and a meme isn’t a spine,” she wrote. “Social media makes all of us cheap and fast, and we all know it.”",
-    "best_quote_zh": "“转发不是声明，而表情包不是脊梁，”她写道。“社交媒体让我们都变得廉价而快速，这一点我们都心知肚明。”"
-  },
-  {
-    "id": 523,
-    "title": "Fantastic Fest 2026: Into the Sky, Play House, Posthumous",
-    "title_zh": "2026 Fantasia节：《天空之中》《玩吧》《遗作》",
-    "model_used": "poolside/laguna-xs-2.1:free",
-    "source": "RogerEbert.com",
-    "link": "https://www.rogerebert.com/festivals/fantastic-fest-2026-into-the-sky-play-house-posthumous",
-    "tags": [
-      "solve",
-      "lifestyle",
-      "design",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "解决",
-      "生活方式",
-      "设计创意",
-      "未来预测"
-    ],
-    "date": "2026-09-22",
-    "summary_en": "This article provides a refreshing counterpoint to the prevalent dystopian anxiety at Fantastic Fest 2026, showcasing three distinct genre films that prioritize levity and innovation. 'Into the Sky' cleverly subverts the alien abduction narrative with a unique meet-cute: a man returns from forced interstellar travel to find his divorcee has rented out his house. The sci-fi rom-com succeeds through its likable ensemble cast and charming premise, though occasionally slips into forced whimsy. 'Play House' represents a groundbreaking festival initiative where creators pitch films during the event, with winners produced and premiering the following year. This debut feature about lost media and ghost stories demonstrates remarkable production values and authentic found-footage aesthetics, though its third act undermines its strong first hour. 'Posthumous' struggles with pacing and emotional engagement, relying too heavily on manufactured scares and flat dialogue despite intriguing supernatural concepts involving VHS tapes as conduits to otherworldly horrors. The festival's embrace of both innovative production models and genre diversity reveals its evolution beyond mere horror showcase.",
-    "summary_zh": "Fantastic Fest 2026以轻松幽默的影片提供疫情焦虑的治愈疗法。《天空之中》以外星劫持后的荒诞生活为科幻浪漫注入新意，演员阵容可爱又真实。《玩吧》创新发布会模式，获胜作品仅一年即亮相，VHS幽灵故事制作精良却尾大不堂；《遗作》则沉浸式恐怖氛围不足，两小时拖沓。节日从血腥恐怖转向多元创意，镜头下的时代焦虑被温暖的奇思妙想化解。",
-    "best_quote_en": "The idea that a fest that's built its reputation on the work of indie filmmakers could be the launchpad to create indie movies itself? Very cool.",
-    "best_quote_zh": "一个建立在独立导演作品基础上的节日，能否成为创造独立电影的启动平台？这真是太酷了。"
-  },
-  {
-    "id": 524,
-    "title": "Dostoyevsky, Just After His Death Sentence Was Repealed, on the Meaning of Life",
-    "title_zh": "毛姆耶夫斯基：在死刑被撤销之际，谈生命的意义",
-    "model_used": "poolside/laguna-xs-2.1:free",
-    "source": "The Marginalian",
-    "link": "https://www.themarginalian.org/2026/09/22/dostoyevsky-execution-life/",
-    "tags": [
-      "solve",
-      "psychology",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "解决",
-      "心理学",
-      "未来预测"
-    ],
-    "date": "2026-09-22",
-    "summary_en": "This profound piece explores Dostoyevsky's existential awakening moments after his reprieved death sentence in 1849, revealing his hard-won philosophy that life's meaning emerges from choosing humanity amid suffering. The article illuminates how near-death experiences can catalyze deep spiritual rebirth, as Dostoyevsky's letter to his brother reveals his triumphant recognition that 'life is everywhere, life is in us ourselves, not outside.' Beyond historical intrigue, the piece connects Dostoyevsky's struggle with universal themes of resilience, creativity, and the transformative power of adversity, drawing parallels to Viktor Frankl's logotherapy and Walt Whitman's celebration of life. The author reflects personally on how material hardship shaped their own creative path, suggesting that suffering can forge extraordinary artistic perseverance. This is a meditation on how constraints and crises can become crucibles for authentic self-realization and enduring creative fire.",
-    "summary_zh": "这篇深刻的文章探讨了1849年毛姆耶夫斯基在死刑被撤销之际的生命觉醒，揭示了他如何在痛苦中选择人性化，便得出生命意义在于在苦难中保持人性。文章不仅闪耀历史细节，更关联到维克多·弗兰克的生命意义理论与华特·惠特曼的生命赞歌。作者亲身反思那些物质匮乏如何塑造了自己的创作之路，认为苦难能锻造出非凡的艺术坚韧。",
-    "best_quote_en": "To be a human being among people and to remain one forever, no matter in what circumstances, not to grow despondent and not to lose heart — that's what life is all about, that's its task.",
-    "best_quote_zh": "做人间的一员，永远做一个人——无论处于何种境况，不要气馁，不要失去信心，这就是生命的全部意义，这就是它的任务。"
-  },
-  {
-    "id": 525,
-    "title": "Watch Slayyyter play her version of Turnstile’s ‘Birds’ live for the first time in Atlanta",
-    "title_zh": "Slayyyter现场首次演唱改编版《Birds》",
-    "model_used": "poolside/laguna-xs-2.1:free",
-    "source": "NME",
-    "link": "https://www.nme.com/news/music/watch-slayyyter-play-her-version-of-turnstiles-birds-live-for-the-first-time-in-atlanta-3970294?utm_source=rss&utm_medium=rss&utm_campaign=watch-slayyyter-play-her-version-of-turnstiles-birds-live-for-the-first-time-in-atlanta",
-    "tags": [
-      "update",
-      "music-arts",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "动态",
-      "音乐艺术",
-      "未来预测"
-    ],
-    "date": "2026-09-23",
-    "summary_en": "This article documents Slayyyter's live debut of her reimagined cover of Turnstile's 'Birds' during her Atlanta performance, marking a significant milestone in her evolving artistry. The piece reveals how her interpretation transforms the hardcore original into an electronic, maximalist take aligned with her 'Wor$t Girl In America' aesthetic. Beyond the performance itself, the context illuminates a breakthrough year for the artist, highlighted by critical acclaim for her third album and notable endorsements from figures like Courtney Love. The article situates this moment within broader musical collaborations—Turnstile's Grammy-winning 'Never Enough' album featuring diverse reimaginings—showcasing how genre boundaries are increasingly fluid. This coverage reflects the growing cultural significance of alternative pop artists who reinterpret rock and metal through contemporary electronic lenses, while also demonstrating the power of festival circuit exposure in cementing emerging talent.",
-    "summary_zh": "Slayyyter在亚特兰大演唱会现场首次演绎改编版《Birds》，展现她将硬核原作转化为电子 maxi 风格的创造力。此举标志着她艺术成长的关键节点，同时折射出跨界乐迹的活力——如Turnstile Grammy 获奖专辑中百姐好改编的丰富性。这不仅是演出纪实，更是另类流行艺术家在重新定义摇滚边界中的价值实践。",
-    "best_quote_en": "In a five-star review of 'Never Enough', NME described 'Birds' and 'Sole' as tracks that harked back to the band's hardcore roots, while praising the wider record for 'furthering their unique, pop-facing take on hardcore'.",
-    "best_quote_zh": "NME在五星评论《Never Enough》时指出，'Birds'与'Sole'回归硬核根基，同时赞扬整张专辑'进一步发展了他们独特的、面向流行的硬核风格'。"
-  },
-  {
-    "id": 526,
-    "title": "The Heart at the Center Of It: Domhnall Gleeson on “The Incomer”",
-    "title_zh": "心之核心：多姆纳尔·格里森谈《外来者》",
-    "model_used": "nex-agi/nex-n2.5-mini:free",
-    "source": "RogerEbert.com",
-    "link": "https://www.rogerebert.com/interviews/domhnall-gleeson-the-incomer-interview",
-    "tags": [
-      "guide",
-      "music-arts"
-    ],
-    "tags_zh": [
-      "指导",
-      "音乐艺术"
-    ],
-    "date": "2026-09-22",
-    "summary_en": "The article is less a conventional review than a guided tour of how tone, vulnerability, and storytelling coalesce in Louis Paxton’s “The Incomer.” Domhnall Gleeson argues that the film’s tonal stability comes from emotional truth: broad comedy, uncanny eeriness, and isolation coexist because the character’s need to connect remains central. The Lord of the Rings story becomes a revealing performance—the shy Daniel finally has an audience, and storytelling restores the imaginative confidence childhood can suppress. Gleeson also exposes the discipline behind apparently effortless acting: dialect coaching, physical commitment, and complete belief in the moment. His Taylor Swift anecdote broadens this into a general performance ethic. The independent-production passages add weight, showing how care, shared purpose, and artistic risk can energize a first-time filmmaker. The piece is candid and accessible, though it offers little discussion of the islanders or Paxton’s own filmmaking choices. Its lasting value lies in treating cinema as an act of attention: stories matter because they let hidden selves be seen.",
-    "summary_zh": "本文并非普通影评，而是一次关于《外来者》如何以情感真实统摄喜剧、怪诞与孤绝的访谈。格里森认为，主角的倾诉欲是影片不变的核心；《指环王》故事让他终于拥有听众，也唤回童年想象力。方言训练、肢体投入和百分百相信当下，揭示表演的幕后纪律。泰勒·斯威夫特的舞蹈经历进一步延伸为行动伦理：重要不在完美，而在全然相信并投入。独立电影段则凸显创作者因热爱而共同承担风险。不足是较少触及岛民及导演本人的视听设计。可贵之处在于，它把电影理解为一种被看见的邀请：故事让隐秘自我获得回应。",
-    "best_quote_en": "“A well-told story brings everybody together.”",
-    "best_quote_zh": "“一个讲得好的故事，能把所有人聚集在一起。”"
-  },
-  {
     "id": 527,
     "title": "The Rocky Statue",
     "title_zh": "The Rocky Statue",
@@ -2348,5 +2231,122 @@
     "summary_zh": "Epel将压力重新定义为需理解的生理信号而非敌人。最可贵的是将慢性压力与线粒体健康、细胞衰老相连，同时提供即刻可用的工具。'威胁vs挑战'的重构尤为深刻——并非否认压力，而是将身体唤醒解读为准备而非危险。区分可控与不可控压力，直指自助领域泛滥的毒性积极。'松开绳子'的隐喻精准捕捉了与不可控之事搏斗的耗竭。最诚实的是承认压力无法完全消除，目标应从消除转向韧性构建。这是尊重人性复杂而非承诺速效的科学智慧。",
     "best_quote_en": "The goal isn't to eliminate stress; it's to build resilience so that stress doesn't erode your health and your sense of purpose over time.",
     "best_quote_zh": "目标不是消除压力，而是建立韧性，让压力不会随时间侵蚀你的健康和使命感。"
+  },
+  {
+    "id": 622,
+    "title": "Myha’la responds to ‘Celebrity Traitors’ racism claims: “I do have to defend my dear friends”",
+    "title_zh": "Myha'la回应《Celebrity Traitors》种族主义指控：“我必须为亲密朋友辩护”",
+    "model_used": "poolside/laguna-xs-2.1:free",
+    "source": "NME",
+    "link": "https://www.nme.com/news/tv/myhala-celebrity-traitors-racism-claims-unconcious-bias-richard-3973011?utm_source=rss&utm_medium=rss&utm_campaign=myhala-celebrity-traitors-racism-claims-unconcious-bias-richard",
+    "tags": [
+      "learn",
+      "general",
+      "controversial"
+    ],
+    "tags_zh": [
+      "学习",
+      "general",
+      "争议观点"
+    ],
+    "date": "2026-10-13",
+    "summary_en": "Myha'la's response to racism allegations surrounding her elimination from The Celebrity Traitors reveals a nuanced discussion about unconscious bias in reality television. Her Instagram reply demonstrates both vulnerability and defiance as she addresses a fan's claim that her departure was racially motivated. The actress acknowledges legitimate concerns about bias while simultaneously defending her fellow contestants from unfair characterizations. Her most compelling insight centers on the performative nature of authenticity in high-pressure social games, where cultural unfamiliarity can manifest as suspicion. This situation illuminates broader questions about representation in media and the complex intersection of personal identity, strategic gameplay, and societal expectations. Myha'la's willingness to engage with these difficult topics publicly represents a significant moment for authentic dialogue about race and media consumption.",
+    "summary_zh": "Myha'la回应《Celebrity Traitors》种族指控，揭示了对现实节目中无意识偏见的深刻思考。她在Instagram上回复时展现出既脆弱又坚定的态度，正面处理粉丝对其被淘汰是否与种族有关的质疑。这种情境不仅关乎个人身份与社会期待的复杂交织，更触及媒体代表性与观众敏感度的边界。她直面这些尴尬现场的勇气，为多元声音在娱乐内容中的可见性贡献了独特视角。",
+    "best_quote_en": "I'm not saying it's right, I'm not saying racism doesn't exist, but I do have to defend my dear friends on this show who in no way consciously put bias on me because of my race. That's not a fair or complete assessment of what really happened in my case.",
+    "best_quote_zh": "我并不认同这种说法，也不否认种族主义的存在，但我必须为该节目录有的亲密朋友辩护——他们绝无意识地因我的种族对我产生偏见。这并非对我具体情况的公平或完整评估。"
+  },
+  {
+    "id": 623,
+    "title": "Devotion is Deeply Human: Bassam Tariq and John Cho on “Your Mother Your Mother Your Mother”",
+    "title_zh": "奉献是深层次的人性：巴萨姆·塔里克和乔恩·乔对《你的母亲，你的母亲，你的母亲》的探讨",
+    "model_used": "cohere/north-mini-code:free",
+    "source": "RogerEbert.com",
+    "link": "https://www.rogerebert.com/interviews/your-mother-your-mother-your-mother-basasm-tariq-john-cho-interview",
+    "tags": [
+      "learn",
+      "design",
+      "music-arts",
+      "case-study"
+    ],
+    "tags_zh": [
+      "学习",
+      "设计创意",
+      "音乐艺术",
+      "案例研究"
+    ],
+    "date": "2026-10-12",
+    "summary_en": "This article delves into Bassam Tariq and John Cho's perspectives on their film \"Your Mother Your Mother Your Mother,\" exploring themes of devotion, extremism, and faith. The interview reveals how the film examines the complexities of religious belief through the lens of two assassins, one Muslim and one Christian, both seeking divine purpose. Tariq's background in documenting extremist thought and Cho's personal connection to Korean Christian communities provide rich insights into how devotion can manifest in both destructive and redemptive ways. The conversation highlights the film's subversion of religious and cultural stereotypes, its exploration of the gap between spiritual ideals and human reality, and its examination of how faith can both divide and unite. The directors discuss their artistic choices, from the film's ending to its visual symbolism, revealing their commitment to challenging audiences' perceptions and creating space for uncomfortable truths. The piece ultimately suggests that true devotion requires vulnerability, community, and the courage to confront one's limitations.",
+    "summary_zh": "本文探讨了巴萨姆·塔里克和乔恩·乔对电影《你的母亲，你的母亲，你的母亲》的见解，深入挖掘了奉献、极端主义和信仰的复杂主题。采访揭示了导演如何通过两位刺客（一位穆斯林，一位基督徒）来审视宗教信仰的多种面相。塔里克本人对极端主义思想的记录经验，以及乔恩·乔与韩国基督教社区的个人联系，为理解信仰如何既能导致破坏，也能带来救赎提供了宝贵的视角。文章还探讨了电影如何颠覆宗教和文化刻板印象，揭示了理想与现实之间的矛盾。导演们分享了他们的艺术选择，从电影结局到视觉符号，展现了他们挑战观众认知、接纳不舒适真相的创作理念。文章最终传达了一个观点：真正的奉献需要脆弱性、社区支持和直面自身局限的勇气。",
+    "best_quote_en": "“I think it takes courage to believe. I think what devotion looks like in all of its imperfections is deeply human, and that is what I love to explore.”",
+    "best_quote_zh": "“我认为勇敢地信仰需要勇气。无论奉献如何不完美，它都是深层次的人性，这正是我热衷于探索的。”"
+  },
+  {
+    "id": 624,
+    "title": "Hermann Hesse on How to Read a Book and How to Read Yourself",
+    "title_zh": "Hermann Hesse on How to Read a Book and How to Read Yourself",
+    "model_used": "nvidia/nemotron-3.5-lightning:free",
+    "source": "The Marginalian",
+    "link": "https://www.themarginalian.org/2026/10/12/hermann-hesse-books-poem/",
+    "tags": [
+      "solve",
+      "ai-research",
+      "case-study"
+    ],
+    "tags_zh": [
+      "解决",
+      "AI研究",
+      "案例研究"
+    ],
+    "date": "2026-10-13",
+    "summary_en": "This profound reflection on the paradox of reading explores how books simultaneously connect us to others and isolate us in our own experience. Hesse's 1918 poem reveals that while literature can build secret paths toward our hearts, true wisdom ultimately emerges from within. The article masterfully weaves together Hesse's insights with those of Baldwin, Proust, and Solnit to argue that reading serves as a foothold for disorientation rather than a substitute for lived experience. The core tension—between borrowed wisdom and personal truth—resonates deeply in our age of information overload, suggesting that the most valuable reading doesn't provide answers but learns to ask better questions of ourselves.",
+    "summary_zh": "这篇文章深刻反思了阅读的悖论：书籍既连接他人，也孤立于个人经验。赫尔曼· Hesse 的1918年诗作揭示了，虽然文学可以通向内心的秘密道路，但真正的智慧最终源于内在。文章巧妙地将赫尔曼·Hesse、Baldwin、Proust 和 Solnit 的见解交织在一起，认为阅读是对迷失的脚手架，而非代替真实体验。在信息过载的时代，这种 borrowed wisdom 与个人真相之间的核心张力深刻提醒：最有价值的阅读不提供答案，而是学会向自己提问。",
+    "best_quote_en": "\"All the books of the world will not bring you happiness, but build a secret path toward your heart. What you need is in you: the sun, the stars, the moon, the illumination you were seeking shines up from within you.\"",
+    "best_quote_zh": "\"世间所有的书都不会带来幸福，却能通向内心的秘密之路。你需要的在你自身：太阳、星星、月亮，你曾寻找的照明，是从你内心升起的。\""
+  },
+  {
+    "id": 625,
+    "title": "Marvel’s ‘Zodiac’ Series Will Be A Globetrotting Espionage Thriller About “Secrets And Lies And Betrayals,” Brad Winderbaum Teases",
+    "title_zh": "漫威的《星象》系列将成为一部环游世界的间谍惊悚剧，讲述“秘密、谎言和背叛”，布拉德·温德鲍姆调侃道",
+    "model_used": "cohere/north-mini-code:free",
+    "source": "The Playlist",
+    "link": "https://theplaylist.net/marvel-zodiac-brad-winderbaum-globetrotting-espionage-thriller-20261012/",
+    "tags": [
+      "guide",
+      "writing-content",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "指导",
+      "写作内容",
+      "未来预测"
+    ],
+    "date": "2026-10-12",
+    "summary_en": "Marvel's upcoming 'Zodiac' series promises a fresh departure from traditional superhero fare, positioning itself within the international spy genre. Set to film in London next spring, the show emphasizes globetrotting espionage, secrets, lies, betrayals, and complex character dynamics. Unlike typical Marvel offerings, this series appears to draw inspiration from James Bond-style intrigue, focusing on competing loyalties and covert operations. The project, announced at New York Comic Con, maintains an air of mystery with its plot details deliberately withheld. While the series' connection to the Marvel Comics' Zodiac criminal organization remains unclear, its ensemble cast and thematic elements suggest a sophisticated narrative exploring espionage and moral ambiguity. This strategic pivot could represent Marvel's attempt to diversify its television portfolio beyond established superhero franchises, potentially appealing to audiences seeking more nuanced, adult-oriented storytelling within the Marvel universe.",
+    "summary_zh": "漫威即将推出的《星象》系列将成为一部环游世界的间谍惊悚剧，讲述“秘密、谎言和背叛”。这部剧将从伦敦开拍，强调国际间谍活动、秘密、谎言、背叛和复杂的角色关系。这与传统的超级英雄题材有所不同，更像是詹姆斯·邦德式的谍战剧。剧集将探索间谍活动和道德上的忠诚度，这可能代表了漫威在电视剧领域的创新尝试，试图摆脱超级英雄的束缚，呈现更成熟、更复杂的叙事。",
+    "best_quote_en": "'It's a globetrotting, international espionage show about secrets and lies and betrayals and secret acts of loyalty and an insane cast of characters—I have to stop talking.'",
+    "best_quote_zh": "“这是一部环游世界的国际间谍剧，讲述秘密、谎言和背叛，还有秘密的忠诚行为，以及疯狂的角色阵容——我得停下来不说了。”"
+  },
+  {
+    "id": 626,
+    "title": "Check out Fontaines D.C.’s and Rosalía’s sweeping, cinematic collab ‘Where Is Gone?’",
+    "title_zh": "Fontaines D.C. 与 Rosalía 推出史诗级电影感合作单曲《Where Is Gone?》",
+    "model_used": "nvidia/nemotron-3-ultra-550b-a55b:free",
+    "source": "NME",
+    "link": "https://www.nme.com/news/music/check-out-fontaines-dc-and-rosalia-sweeping-cinematic-collab-where-is-gone-3973006?utm_source=rss&utm_medium=rss&utm_campaign=check-out-fontaines-dc-and-rosalia-sweeping-cinematic-collab-where-is-gone",
+    "tags": [
+      "update",
+      "music-arts",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "动态",
+      "音乐艺术",
+      "未来预测"
+    ],
+    "date": "2026-10-13",
+    "summary_en": "This article covers the release of 'Where Is Gone?', a cinematic collaboration between Irish post-punk band Fontaines D.C. and Spanish avant-pop star Rosalía, ahead of the band's fifth album 'Dopamine Chamber'. The track marks Fontaines D.C.'s first-ever guest vocalist, a significant milestone for a band known for their tight-knit, insular sound. What makes this collaboration profound is the cultural resonance: guitarist Carlos O'Connell explicitly connects Rosalía's revival of Spanish folk traditions to Fontaines D.C.'s own project of reimagining Irish musical heritage. The song itself defies commercial expectations — rather than a 'pop banger', it's a 'lovelorn Morricone meets Bond theme ballad' that embraces melancholy and restraint. NME's five-star review of the album notes its darkness and lack of 'Radio X bangers', suggesting the band is doubling down on artistic integrity even as they graduate to stadiums. The contrast between an intimate Roundhouse charity gig and upcoming Slane Castle stadium shows encapsulates a band at a fascinating inflection point: scaling up without selling out.",
+    "summary_zh": "这首合作单曲不仅是两大音乐人的强强联手，更是两种文化复兴叙事的共鸣。Fontaines D.C. 首次引入客座歌手，选的是同样致力于「让传统在当代重生」的 Rosalía，这种精神共鸣比商业考量更动人。歌曲拒绝流行套路，转向莫里康内式的西部史诗感，配合专辑整体的「黑暗而令人振奋」基调，展现出乐队在体育场级别的规模面前，依然选择艺术诚信而非迎合电台的勇气。从圆形剧场慈善演出到斯兰城堡两晚售罄，这支乐队正在书写如何「放大音量却不稀释灵魂」的教科书案例。",
+    "best_quote_en": "\"What really excited me was how she was keeping a Spanish tradition of music alive, which in a spiritual way felt akin to what we've tried to do with Irish music.\" — Carlos O'Connell",
+    "best_quote_zh": "\"真正让我兴奋的是，她让西班牙音乐传统在当代延续，这在精神层面上，与我们试图对爱尔兰音乐所做的事情有着异曲同工之妙。\" — Carlos O'Connell"
   }
 ]
