@@ -1,124 +1,5 @@
 [
   {
-    "id": 532,
-    "title": "Being a Noob",
-    "title_zh": "做一个新手",
-    "model_used": "nex-agi/nex-n2.5-pro:free",
-    "source": "Paul Graham",
-    "link": "http://www.paulgraham.com/noob.html",
-    "tags": [
-      "solve",
-      "startup-strategy",
-      "beginner-friendly"
-    ],
-    "tags_zh": [
-      "解决",
-      "创业策略",
-      "新手友好"
-    ],
-    "date": "2026-09-25",
-    "summary_en": "The essay turns the stigma of being a “noob” into a counterintuitive measure of growth: acute local incompetence can signal global learning. By contrasting familiarity at home with disorientation in a radically unfamiliar place, it argues that discomfort is inversely related to ignorance when that discomfort comes from novelty rather than lack of ability. The evolutionary detour—our brain treating newness like a competence threat—is the piece I find most revealing. It explains why modern exploration still feels like failure even when it is producing knowledge. I would qualify the conclusion, though: feeling lost is useful only when the setting is genuinely novel, feedback is available, and one can distinguish productive confusion from repeated, unexamined mistakes. Ridicule makes this distinction harder, especially for beginners. Still, the core reframing is powerful. Rather than asking how to eliminate beginnerhood, we might ask whether our discomfort marks the frontier of what we are learning. In a rapidly changing world, tolerance for that feeling may be a practical form of intelligence.",
-    "summary_zh": "这篇文章最可贵之处，是把“菜鸟感”从羞耻改写为学习信号：局部越陌生，整体可能越开阔。它把不适区分为能力不足与新事物冲击，提醒我们别把探索误判成失败。这个框架很解放，但也不能神化迷茫；只有环境确实新颖、反馈持续且错误能被修正时，笨拙才有成长价值。面对快速变化的世界，保留一点做新手的勇气，或许比维持全知姿态更接近真正的能力。",
-    "best_quote_en": "The more of a noob you are locally, the less of a noob you are globally.",
-    "best_quote_zh": "你在局部越是新手，在全球意义上就越不是新手。"
-  },
-  {
-    "id": 533,
-    "title": "How to Spot 10-Year Trends and Build Billion-Dollar Companies — Kevin Ryan of DoubleClick, MongoDB, Business Insider, and Many More (#884)",
-    "title_zh": "如何识别十年趋势并打造十亿美元公司——Kevin Ryan（DoubleClick、MongoDB、Business Insider 等创始人）",
-    "model_used": "inclusionai/ling-3.0-flash-sante:free",
-    "source": "Tim Ferriss",
-    "link": "https://tim.blog/2026/09/24/kevin-rya/",
-    "tags": [
-      "solve",
-      "startup-funding",
-      "startup-strategy",
-      "controversial"
-    ],
-    "tags_zh": [
-      "解决",
-      "创业融资",
-      "创业策略",
-      "争议观点"
-    ],
-    "date": "2026-09-25",
-    "summary_en": "Kevin Ryan, often dubbed the 'Godfather of NYC tech,' offers a masterclass in long-term trend identification and venture building. Having co-founded MongoDB, Business Insider, Zola, Gilt Groupe, and Transcend Therapeutics—and grown DoubleClick from 20 to 1,500+ employees—his framework is battle-tested. The episode reveals AlleyCorp's disciplined model: $500K seed, one year to build, then raise. Key insights include the contrarian maxim 'the second mouse gets the cheese,' the importance of starting narrow, and the radical focus on 'three things only; everything else cut 80%.' Ryan's skepticism about 'the next internet' and his emphasis on product-market fit over exit fantasies challenge the hype-driven startup orthodoxy. The conversation also touches on psychedelic therapeutics (methylone for PTSD), nuclear energy via Valar Atomics, and public benefit corporations—painting a portrait of a founder who bets on deep science and patience over FOMO. Critical takeaway: billion-dollar companies emerge from obsessive focus on solving real problems, not chasing trends.",
-    "summary_zh": "Kevin Ryan，纽约科技界的'教父'，用数十年创业投资经验拆解十年趋势的识别逻辑。从DoubleClick到MongoDB，他验证了'AlleyCorp模式'：500K美元起步，一年打磨产品，再融资。核心洞见在于'做三件事，切掉80%'的极端聚焦，以及'第二只老鼠吃奶酪'的逆向思维——不抢首仓，等待模式清晰再入场。他对'下一个互联网'的否定和对产品力的执着，构成了对炒作驱动创业观的有力反驳。",
-    "best_quote_en": "'There is no next internet.' — Kevin Ryan",
-    "best_quote_zh": "'没有下一个互联网。'——Kevin Ryan"
-  },
-  {
-    "id": 534,
-    "title": "为什么找对象一定要找前额叶发达的？",
-    "title_zh": "为什么找对象一定要找前额叶发达的？",
-    "model_used": "poolside/laguna-xs-2.1:free",
-    "source": "虎嗅",
-    "link": "https://www.huxiu.com/article/4893939.html?f=rss",
-    "tags": [
-      "solve",
-      "science",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "解决",
-      "科学研究",
-      "未来预测"
-    ],
-    "date": "2026-09-25",
-    "summary_en": "This article explores the neuroscience behind emotional regulation in intimate relationships, arguing that prefrontal cortex development is more crucial for long-term partnership success than superficial qualities. Drawing on neuroscientific research and relationship studies, the author distinguishes between emotional stability and emotional absence, explaining how the prefrontal cortex acts as the brain's 'CEO' that regulates impulsive reactions from the limbic system. The piece examines how intimate relationships serve as 'stress testing grounds' where emotional regulation is put to the test, particularly during conflict. Through five practical indicators for assessing someone's prefrontal cortex maturity—including their behavior when exhausted, their ability to pause during arguments, emotional articulation skills, repair attempts, and future orientation—the author provides a neurologically-informed framework for evaluating potential partners. Crucially, the article emphasizes self-reflection, suggesting that relationship success requires both partners to develop emotional regulation skills, supported by neuroplasticity's promise of change. The core insight: seek not someone who never gets angry, but someone who, even at their most irate, still refuses to harm you.",
-    "summary_zh": "文章以神经科学视角解构情绪管理在亲密关系中的核心作用，提出前额叶发达程度比外在条件更关乎长期搭配成功。通过前额叶皮层作为'大脑CEO'与边缘系统的生理张力，阐释情绪稳定的真正含义。在Gottman情绪泛滥理论和Finkel研究的基础上，提出五项前额叶成熟度评估标准。最具启发性的是自我反省观点：关系的本质是双向的，要求双方同步提升情绪调节能力。最终洞见——寻找的不是永不生气的人，而是在激动时仍顾及伤害对方的人。",
-    "best_quote_en": "You want to find not someone who will never get angry. But someone who, even at their most irate, still refuses to hurt you.",
-    "best_quote_zh": "你要找的，不是一个永远不会生气的人。而是一个在最生气的时候，也依然舍不得伤害你的人。"
-  },
-  {
-    "id": 535,
-    "title": "联联看｜当机器人开始跳舞，我们能和它成为伙伴吗？",
-    "title_zh": "联联看｜当机器人开始跳舞，我们能和它成为伙伴吗？",
-    "model_used": "nvidia/nemotron-3-ultra-550b-a55b:free",
-    "source": "三联生活周刊",
-    "link": "http://weixin.sogou.com/weixin?type=2&query=%E4%B8%89%E8%81%94%E7%94%9F%E6%B4%BB%E5%91%A8%E5%88%8A+%E8%81%94%E8%81%94%E7%9C%8B%EF%BD%9C%E5%BD%93%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%BC%80%E5%A7%8B%E8%B7%B3%E8%88%9E%EF%BC%8C%E6%88%91%E4%BB%AC%E8%83%BD%E5%92%8C%E5%AE%83%E6%88%90%E4%B8%BA%E4%BC%99%E4%BC%B4%E5%90%97%EF%BC%9F",
-    "tags": [
-      "analyze",
-      "science",
-      "design",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "分析",
-      "科学研究",
-      "设计创意",
-      "数据驱动"
-    ],
-    "date": "2026-09-24",
-    "summary_en": "This article documents a profound artistic experiment at the 2026 Beijing Art & Technology Week, where the award-winning TianGong 3.0 humanoid robot and Tao Body 2 contemporary dance troupe performed 'Infinite Walking' in 798's public square. What emerges is not a tech demo but a meditation on co-creation: the dancer learning the robot's 'inhuman' movement logic while engineers rewrite code to match artistic intuition. The piece reframes our daily invisible collaboration with AI—algorithmic recommendations, chatbot confidants—into visible, embodied negotiation. The central insight: productive human-machine relationships aren't about replacement or command, but 'mutual accommodation' where two distinct systems meet halfway, generating 1+1>2 outcomes. This mirrors how we actually work with AI today: not as tools but as alien intelligences that surprise us, requiring us to develop new literacies of trust, timing, and shared agency. The public setting matters—passersby become unwitting participants in rehearsing our collective future.",
-    "summary_zh": "在798火车头广场，天工3.0与陶身体2团完成了一场8分38秒的『双向驯化』：舞者学会机器人的突发启动逻辑，工程师为艺术直觉重写底层代码。这不是表演，是我们正在经历的隐形人机协作的具象化排练。最动人处在于拒绝『工具论』与『替代论』——真正的共生是两套截然不同的系统互相迁就、各出所长，长出1+1>2的可能。看着路人驻足围观，恍然：我们每天与算法推荐、AI对话的协作，本质上也是在和一种『无眼神、无气场、说动就动』的异质智能建立信任与节奏。公共空间的实验，正是为这种新素养做的彩排。",
-    "best_quote_en": "Good human-machine relationships have never been about 'who replaces whom' or 'who commands whom,' but rather two different entities, each bringing their own strengths, ultimately producing a 1+1>2 result.",
-    "best_quote_zh": "好的人机关系从来都不是『谁替谁』，也不是『谁指挥谁』，而是两个不同的主体，各自拿出自己的优势，最后长出1+1>2的结果。"
-  },
-  {
-    "id": 536,
-    "title": "Book of the month: Iris Wolff",
-    "title_zh": "本月之书：艾瑞斯·沃尔夫",
-    "model_used": "nex-agi/nex-n2.5-pro:free",
-    "source": "A year of reading the world",
-    "link": "https://ayearofreadingtheworld.com/2026/05/28/book-of-the-month-iris-wolff/",
-    "tags": [
-      "analyze",
-      "writing-content",
-      "case-study"
-    ],
-    "tags_zh": [
-      "分析",
-      "写作内容",
-      "案例研究"
-    ],
-    "date": "2026-05-28",
-    "summary_en": "This review is more than praise for Iris Wolff’s Blurred: it is a compact inquiry into how translated literature reaches readers. The critic links Ruth Martin’s involvement, Moth Books’ loyalty to Wolff, and the independence of small presses to show that literary value is shaped by editorial ecosystems, not prose alone. Wolff’s portrait of a German community in Ceaușescu-era Transylvania also exposes a market paradox: Anglophone publishers often demand recognizable national settings and familiar cultural signals, while the most revealing books resist such categories. I am especially drawn to the analysis of time as a spiral and empathy as embodied connection; these ideas give the novel’s private losses historical force. The review is candid about occasional over-explanation, yet its larger argument is generous and persuasive: translation, independent publishing, and narrative imagination can expand what English-language readers consider legible. Its brief treatment of translation choices leaves room for deeper inquiry, but it powerfully frames Blurred as both a humane novel and a challenge to publishing conventions.",
-    "summary_zh": "这篇评论真正谈的是翻译文学如何被看见。评论者从译者露丝·马丁、飞蛾书局的持续支持，谈到独立出版社在突破市场分类时的作用，指出《模糊》的价值不只在于文笔，也在于它挑战了英语出版对“可识别民族性”的依赖。最打动我的是，小说把齐奥塞斯库时代的压抑、迁徙后的疏离与人物跨越时间的联系编织在一起，让私人创伤拥有历史重量。作者也坦率指出技术说明偶尔过于直白，这种保留反而增强了判断的可信度。它提醒我们，真正开阔视野的作品，往往先要穿过出版与营销的窄门。",
-    "best_quote_en": "Writing is a rebellion against time and its greatest impertinence, transience.",
-    "best_quote_zh": "写作是对时间的反叛，也是对它最大的无礼——短暂易逝——的反叛。"
-  },
-  {
     "id": 537,
     "title": "Gravity Seems Holographic. What Does That Mean for Reality?",
     "title_zh": "引力似乎是全息的。这对现实意味着什么？",
@@ -2344,5 +2225,126 @@
     "summary_zh": "关于《玫瑰》的深度访谈揭示了贝斯·德拉乌加如何从创伤后成长角度探讨性暴力。这种沉浸式叙事方式将焦点置于未成年人眼中的世界，剖析了儿童如何在面对无法理解的暴力时构建意义与支撑。导演坚定认为，只有直面现实而非回避暴力，才能唤醒观众的共情能力和行动力量。影片通过玛莎的视角展现了创伤对成长的深远影响，同时也警示创作者在处理敏感主题时必须保持伦理高度。访谈中提到的儿童心理学原理与社会 collectiv无助感之间的交织，映射出当代美国对创伤教育的迫切需求。这不仅是一部艺术作品，更是一场关于勇气、责任与真相的社会对话。",
     "best_quote_en": "I think sometimes, especially right now in America, there’s such a sense of helplessness. We can’t take everything on fully, we just do what we can do as people to try to help and resist.",
     "best_quote_zh": "我想，在现在的美国，确实存在一种无助感。我们无法完全承担一切，只能做作为普通人所能做的一切，为他人提供支持和抵抗。"
+  },
+  {
+    "id": 632,
+    "title": "Haters",
+    "title_zh": "仇恨",
+    "model_used": "nvidia/nemotron-3.5-lightning:free",
+    "source": "Paul Graham",
+    "link": "http://www.paulgraham.com/fh.html",
+    "tags": [
+      "analyze",
+      "startup-strategy"
+    ],
+    "tags_zh": [
+      "分析",
+      "创业策略"
+    ],
+    "date": "2026-10-15",
+    "summary_en": "This essay offers a profound reframing of the phenomenon of online hatred, positing that haters are essentially fanboys with the sign flipped. The author argues that both obsessive fans and obsessive haters stem from the same psychological root: the inability to maintain a critical, separate identity in relation to a famous person's work. The piece is notable for its sharp observational wit and its dismantling of the 'fraud' narrative often deployed by haters to reconcile their resentment with the subject's undeniable fame. Beyond the psychological analysis, the essay provides a practical and liberating strategy for the famous: by recognizing haters as mirror images of fans, one can dismiss their obsession as irrelevant to one's own work. The author's personal stance—admiring the work of P.G. Wodehouse as a fanboy but rejecting the role of a hater entirely—adds a layer of moral clarity to the analysis. Ultimately, the text serves as a sophisticated meditation on fame, identity, and the asymmetric emotional economies of admiration versus resentment.",
+    "summary_zh": "这篇文章通过一种深刻的重构，重新定义了网络仇恨的现象，认为仇恨者本质上就是粉丝，只是情感符号翻转了。作者论证，无论是痴迷的粉丝还是痴迷的仇恨者，其心理根源都是无法对名人的作品保持批判、独立的身份。文章以其敏锐的观察力和机智著称，尤其是对仇恨者常用‘fraud（骗子）」叙事进行的剖析，展示了他们如何试图调和对名人的憎恨与其既有的名气。除了心理层面的分析，文章还提供了一个实用且解放的策略：通过识别仇恨者与粉丝的镜像关系，名人可以将他们的仇恨视为与自身工作无关的无关紧要的偏执。作者个人的立场——把 P.G. Wodehouse 视为偶像，却绝不愿成为仇恨者——为分析增添了一层道德清晰度。最终，这篇文章是对名望、身份以及钦佩与怨恨之间非对称情感经济学的高级思考。",
+    "best_quote_en": "\"Haters are just fanboys with the sign switched.\"",
+    "best_quote_zh": "\"仇恨者只不过是把符号翻转的粉丝而已。\""
+  },
+  {
+    "id": 633,
+    "title": "The Tim Ferriss Show Transcripts: The Random Show — AI Super Assistants, Boner Pills, Dream Engineering, Wizards, Supplements, Books, and More (#886)",
+    "title_zh": "蒂姆·费瑞斯秀转录：随机秀 — AI超级助手、阴茎头疼药、梦境工程、巫师、补充剂、书籍等更多内容（#886）",
+    "model_used": "poolside/laguna-xs-2.1:free",
+    "source": "Tim Ferriss",
+    "link": "https://tim.blog/2026/10/11/the-random-show-ai-super-assistants-boner-pills-dream-engineering-wizards-supplements-books-and-more-transcript/",
+    "tags": [
+      "inspire",
+      "ai-research",
+      "writing-content",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "启发",
+      "AI研究",
+      "写作内容",
+      "未来预测"
+    ],
+    "date": "2026-10-11",
+    "summary_en": "This transcript from The Tim Ferriss Show reveals a pivotal moment in AI evolution, where personal assistant AI has transcended traditional chatbot functionality to become deeply integrated with personal data ecosystems. Kevin Rose discusses how AI assistants like Instinct operate through iMessage integration, requiring extensive Google account access that raises significant privacy concerns. The conversation spans diverse topics from biohacking supplements like beta-alanine for climbing endurance to psychological insights about dream engineering and anesthesia experiences. The dialogue also touches on societal issues including male enhancement products, cryptocurrency risks, and the emerging landscape of AI-driven personal productivity. What emerges is a fascinating snapshot of early 2020s AI adoption patterns, where users must weigh convenience against data security while navigating an increasingly complex intersection of technology, health, and personal privacy. The casual, humorous tone contrasts sharply with the serious implications of AI systems that can access intimate personal data through seemingly simple text messaging interfaces.",
+    "summary_zh": "这段转录记录了AI助手进入个人生活的关键时刻，从传统聊天机器人演变为深度整合个人数据生态系统。费瑞斯和罗斯讨论了AI助手如Instinct通过iMessage集成，需要广泛Google账户访问的隐私问题。话题涵盖补充剂、梦境工程、阴茎头疼药等多元化内容，展现了AI时代用户在便利性与数据安全之间的抉择挑战。",
+    "best_quote_en": "AI has turned into something that I kind of saw it coming, but I didn't think it would come this rapidly, which is it is replacing... So, when I first thought of AI, I thought, 'Okay, we have this chatbot, we can launch it. We can ask questions of whatever like I got to repair this light switch. How do I do it?' That's typical AI use case over the last, call it two years.",
+    "best_quote_zh": "AI已经发展出我本可以通过预见但没想到会这么快，这就是它正在取代......当我第一次想到AI时，我想'好吧，我们有这个聊天机器人，可以发布它。我们可以问它任何问题，比如我需要修理这盏灯，怎么修？'这过去两年都典型的AI使用案例。"
+  },
+  {
+    "id": 634,
+    "title": "比尔·盖茨最新专访：AI比核武器更危险，也可能比核能更有用",
+    "title_zh": "比尔·盖茨最新专访：AI比核武器更危险，也可能比核能更有用",
+    "model_used": "cohere/north-mini-code:free",
+    "source": "虎嗅",
+    "link": "https://www.huxiu.com/article/4897747.html?f=rss",
+    "tags": [
+      "update",
+      "ai-research",
+      "politics",
+      "beginner-friendly"
+    ],
+    "tags_zh": [
+      "动态",
+      "AI研究",
+      "政治时事",
+      "新手友好"
+    ],
+    "date": "2026-10-15",
+    "summary_en": "In a recent interview with Vatican News, Bill Gates made a striking assertion: AI is more dangerous than nuclear weapons but could be more beneficial than nuclear energy. He emphasized the urgent need for governance, warning that technological risks could outpace policy responses. Gates highlighted AI’s dual potential to either widen or narrow global inequality, advocating for its responsible deployment in healthcare, education, and agriculture. He stressed that while tech companies recognize AI risks, governments lack sufficient expertise and must collaborate internationally. The interview also explored the transformative impact of AI on work and society, the importance of language accessibility, and the ethical considerations of automation. Gates underscored the necessity of proactive discussions on taxation, job preservation, and human value, rather than waiting for catastrophic events to force action. His insights call for a balanced approach that harnesses AI’s benefits while mitigating its dangers, ensuring that technological progress serves all humanity equitably.",
+    "summary_zh": "比尔·盖茨在接受梵蒂冈新闻社采访时提出了一个引人注目的观点：AI比核武器更危险，但可能比核能更有用。他警告，技术风险可能超前于政策反应，强调了治理的紧迫性。盖茨指出，AI既能缩小也能拉大全球不平等，主张在医疗、教育和农业等领域负责任地应用。他批评技术公司虽意识到风险，但政府缺乏专业知识，需加强国际合作。采访还探讨了AI对工作的影响、语言障碍、以及自动化伦理等问题。盖茨呼吁社会提前讨论税收、保留人类工作岗位和人的价值，而非被动应对危机。他的观点引发了对技术普惠与服务分层的深刻反思。",
+    "best_quote_en": "AI is more dangerous than nuclear weapons but could be more beneficial than nuclear energy.",
+    "best_quote_zh": "AI比核武器更危险，但它可能带来的益处，也超过核能。"
+  },
+  {
+    "id": 635,
+    "title": "县城医院里，有太多“再等等”的女性",
+    "title_zh": "县城医院里，有太多‘再等等’的女性",
+    "model_used": "poolside/laguna-xs-2.1:free",
+    "source": "三联生活周刊",
+    "link": "http://weixin.sogou.com/weixin?type=2&query=%E4%B8%89%E8%81%94%E7%94%9F%E6%B4%BB%E5%91%A8%E5%88%8A+%E5%8E%BF%E5%9F%8E%E5%8C%BB%E9%99%A2%E9%87%8C%EF%BC%8C%E6%9C%89%E5%A4%AA%E5%A4%9A%E2%80%9C%E5%86%8D%E7%AD%89%E7%AD%89%E2%80%9D%E7%9A%84%E5%A5%B3%E6%80%A7",
+    "tags": [
+      "analyze",
+      "medicine",
+      "science",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "分析",
+      "医学健康",
+      "科学研究",
+      "数据驱动"
+    ],
+    "date": "2026-10-14",
+    "summary_en": "This powerful narrative reveals the systemic barriers preventing rural Chinese women from accessing timely breast cancer care. The story of Yang Chaoying, a rural artisan who delayed seeking treatment for nearly a year after discovering a painless breast lump, illuminates a crisis that extends far beyond individual oversight. The article exposes how knowledge gaps, geographical isolation, and inadequate local medical infrastructure create a cascade of delays that transform treatable conditions into advanced-stage diagnoses. The investigation reveals that over one-third of breast cancer patients nationwide wait more than 90 days from symptom discovery to first medical consultation, with rural women facing even steeper obstacles. Yang's journey from agricultural laborer to disabled survivor underscores how bodily labor becomes both livelihood and vulnerability. Her transformation of traditional embroidery skills into economic survival represents not just personal resilience but also speaks to broader questions about adaptive capacity in post-disability life. The piece challenges readers to examine how healthcare systems perpetuate inequality through seemingly routine delays that accumulate into life-altering consequences.",
+    "summary_zh": "这篇文字穿透了农村女性健康服务中的深层结构性困境。杨朝英的故事不只是一个个人的健康耽误，更揭示了知识鸿沟、地理孤立和基层医疗资源不足如何形成连锁的延误系统。超过三分之一的患者从发现症状到就医超过90天，而偏远地区的女性所面临的障碍更为复杂。她们的身体劳动既是生计，更是脆弱性的来源。当化疗毁灭了她的劳动能力，她却在刺绣中重建了生活方式，这不仅是个人的坚韧，更是对适应性生存能力的深刻追问。",
+    "best_quote_en": "For rural women, the county town hospital and grassroots medical institutions often stand at the most critical position on this path.",
+    "best_quote_zh": "对于生活在偏远地区的女性来说，县城医院和基层医疗机构往往正处在这条路上最关键的位置。"
+  },
+  {
+    "id": 636,
+    "title": "Book of the month: Ysabelle Cheung",
+    "title_zh": "每月一书：Ysabelle Cheung",
+    "model_used": "cohere/north-mini-code:free",
+    "source": "A year of reading the world",
+    "link": "https://ayearofreadingtheworld.com/2026/03/31/book-of-the-month-ysabelle-cheung/",
+    "tags": [
+      "inspire",
+      "education",
+      "ai-research",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "启发",
+      "教育学习",
+      "AI研究",
+      "未来预测"
+    ],
+    "date": "2026-03-31",
+    "summary_en": "Ysabelle Cheung's debut collection, Patchwork Dolls, offers a haunting exploration of contemporary anxieties through near‑realist dystopias that reflect today's consumerist and technological pressures. The stories, inspired by Jia Tolentino's New Yorker essay on the 'Instagram Face,' follow marginalized young women navigating a believable yet nightmarish world where identity is commodified. Cheung's writing balances bleakness with surprising playfulness, weaving themes of survival, tradition, and futuristic technology. Notably, she challenges reader expectations with an interactive 'choose‑your‑own‑adventure' narrative that invites even reluctant readers to engage. The collection's psychological depth, humanity, and hopeful undercurrents reveal a keen awareness of both personal and societal struggles. Cheung's acknowledgments underscore her motivation to transform adversity into art, making Patchwork Dolls a compelling testament to resilience and creative empowerment.",
+    "summary_zh": "Ysabelle Cheung 的新作《Patchwork Dolls》是一部充满张力的短篇小说集，通过近乎现实主义的反乌托邦视角，深刻揭示了当代年轻人，尤其是年轻女性，在消费主义和科技浪潮下的焦虑与困境。故事以贾·托伦蒂诺的《纽约客》专栏文章《Instagram 面容时代》为灵感，描绘了边缘化女性在纽约被剥削、出售自身形象以满足富人审美需求的场景。Cheung 笔下的世界既荒诞又真实，从“头菌”感染到跨性别匹配公寓，从追踪亡灵的应用到关于生存主义与传统技术的奇思妙想，她的叙事既具有强烈的批判性，又不乏幽默与惊喜。尤其是那篇可选路径的“读者”故事，让即使不擅长互动小说的读者也不得不参与其中，引发对自我决策与文本消费的反思。Cheung 对读者心理的敏锐洞察，以及她在 acknowledgments 中对教育者、出版人、骚扰者和压迫者的回击，共同构成了这部作品的独特力量：她将痛苦转化为艺术，将个人经历升华为对社会结构的深刻反思。",
+    "best_quote_en": "“And finally, to the teacher who said I would never learn to read; the magazine publisher who made me doubt my own words; the men who followed me home from school; and the authoritarian figures who dictate what we can, and cannot, write and say. You gave me a reason to write these stories.”",
+    "best_quote_zh": "“最后，我要感谢那个说我永远学不会阅读的老师，那个让我怀疑自己文字的杂志出版人，那些尾随我放学回家的男人，以及那些 dictate 我们能写什么、不能写什么的独裁者。你们给了我写下这些故事的理由。”"
   }
 ]
