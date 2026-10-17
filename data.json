@@ -1,122 +1,5 @@
 [
   {
-    "id": 542,
-    "title": "Easy Silk Road Tour/Another Bankrupt Airline/Key to Happiness",
-    "title_zh": "轻松丝绸之路之旅/另一家破产航空公司/幸福的关键",
-    "model_used": "nvidia/nemotron-3-super-120b-a12b:free",
-    "source": "Kevin Kelly",
-    "link": "https://kk.org/cooltools/easy-silk-road-tour-another-bankrupt-airline-key-to-happiness/",
-    "tags": [
-      "solve",
-      "lifestyle",
-      "medicine"
-    ],
-    "tags_zh": [
-      "解决",
-      "生活方式",
-      "医学健康"
-    ],
-    "date": "2026-09-24",
-    "summary_en": "This reflective newsletter weaves together personal travel experiences with broader observations about modern nomadism, travel accessibility, and the pursuit of happiness. The author recounts their shift from anti-tour backpacker to appreciating guided tours through a seamless G Adventures trip to Uzbekistan, highlighting how outsourced planning solves real logistical barriers. Parallelly, it examines the fragility of the airline industry post-pandemic and amid geopolitical tensions, citing airBaltic’s bankruptcy as symptomatic of systemic strain. A practical tip emerges with Panama’s free travel insurance for visitors, illustrating how policy can reduce travel friction. Most poignantly, the piece explores the emotional cost of perpetual movement, suggesting that long-term nomads often settle not from fatigue but loneliness—underscoring that social capital, not just freedom, is central to well-being. The writing balances utility with introspection, framing travel not just as logistics but as a lens on human connection.",
-    "summary_zh": "这篇通讯将个人旅行经历与对现代游牧主义、旅行便利性和幸福追求的广泛观察交织在一起。作者讲述了自己从反对团游的背包客转变为欣赏导游旅行的过程，以一次轻松的乌兹别克斯坦G Adventures之旅为例，突显了外包规划如何解决实际后勤问题。同时，它审视了后疫情时代和地缘政治紧张局势下航空业的脆弱性，将airBaltic的破产视为系统性压力的症状。一个实用的建议出现：巴拿马对游客提供免费旅行保险，展示了政策如何减少旅行摩擦。最动人的是，文章探讨了持续移动的情感代价，表明长期游牧者常常因孤独而非疲惫而定居——凸显了社会资本而非仅仅自由才是福祉的核心。文字在实用性与内省之间取得平衡，将旅行不仅视为后勤问题，更视为理解人际关系的窗口。",
-    "best_quote_en": "“Social capital’s importance to well-being cannot be overstated.”",
-    "best_quote_zh": "“社会资本对福祉的重要性不容忽视。”"
-  },
-  {
-    "id": 543,
-    "title": "E Pur Si Muove",
-    "title_zh": "E Pur Si Muove",
-    "model_used": "nvidia/nemotron-3.5-lightning:free",
-    "source": "Sam Altman",
-    "link": "https://blog.samaltman.com/e-pur-si-muove",
-    "tags": [
-      "solve",
-      "tech-trends",
-      "writing-content",
-      "controversial"
-    ],
-    "tags_zh": [
-      "解决",
-      "技术趋势",
-      "写作内容",
-      "争议观点"
-    ],
-    "date": "2017-12-14",
-    "summary_en": "This essay presents a compelling and provocative analysis of the deteriorating intellectual climate in San Francisco, arguing that increasing speech restrictions and political correctness are stifling innovation and driving away critical thinkers. The author contrasts the relative openness of Beijing with the increasingly toxic environment in the Bay Area, suggesting that the inability to tolerate 'wacky' or controversial ideas—regardless of their merit—prevents the emergence of breakthrough thinking. Drawing historical parallels to Galileo and Newton, the piece contends that true innovation requires a culture of radical tolerance, warning that when we move from debating ideas to casting people as heretics, we halt all intellectual progress. It serves as a stark warning that the current trajectory in tech hubs like San Francisco could lead to a 'brain drain' of the very minds needed to solve society's hardest problems.",
-    "summary_zh": "这篇文章对旧金山的智力氛围进行了犀利且富有 provocative 的分析，认为日益严苛的言论限制和政治正确正在扼杀创新并驱走关键思想家。作者将北京相对的开放与旧金山日益有毒的环境进行了对比，认为无论主意多‘蹭’，容忍不被接受的主意都是产生突破性思维的必要条件。引用牛顿和伽利略的历史案例，文章论证真正的创新需要激进的容忍文化，警告一旦从辩论主意转向将人定义为异端，就会扼杀所有智力进步。它是一个鲜明的警告，指出旧金山等科技中心目前的走向可能会导致最需要解决社会难题的头脑外流。",
-    "best_quote_en": "\"If people live a lot longer it will be disastrous for the environment, so people working on this must be really unethical\" was a memorable quote I heard this year.",
-    "best_quote_zh": "\"如果人类活得久了对环境将是灾难，所以从事这项工作的人一定非常不道德\"是今年我听到的一个令人难忘的引语。"
-  },
-  {
-    "id": 544,
-    "title": "Essentials: Optimal Protocols to Build Strength & Grow Muscles | Dr. Andy Galpin",
-    "title_zh": "Essentials: Optimal Protocols to Build Strength & Grow Muscles | Dr. Andy Galpin",
-    "model_used": "nvidia/nemotron-3.5-lightning:free",
-    "source": "Huberman Lab",
-    "link": "https://www.hubermanlab.com/episode/essentials-optimal-protocols-to-build-strength-and-grow-muscles-andy-galpin",
-    "tags": [
-      "guide",
-      "ai-research",
-      "education"
-    ],
-    "tags_zh": [
-      "指导",
-      "AI研究",
-      "教育学习"
-    ],
-    "date": "2026-09-24",
-    "summary_en": "In this Huberman Lab Essentials episode revisiting Dr. Andy Galpin's foundational work, the discussion cuts through fitness noise to establish science-based protocols for strength and hypertrophy. Galpin compellingly distinguishes between strength and muscle growth as distinct adaptive responses, arguing that resistance training is essential not just for aesthetics but for maintaining physical function throughout the aging process. The conversation delivers practical value through the '3 to 5' approach framework and detailed variables like repetition speed and weekly volume. What makes this particularly insightful is Galpin's emphasis on individualization—training must adapt to specific goals, available equipment, and schedule constraints. The episode successfully bridges expert knowledge with actionable guidance, making complex exercise science accessible for novices and practitioners alike.",
-    "summary_zh": "本期Huberman Lab Essentials节目重访了Dr. Andy Galpin关于力量与肌肉增长的核心科学。Galpin清晰区分了力量与肥大作为两种不同的适应性响应，有力论证了抗阻训练对维持老年身体功能的重要性而非仅仅是审美目的。节目提供了实用的‘3到5’方法框架以及重复速度、每周训练量等详细变量。最有价值的是个性化原则——训练必须根据目标、器材和时间表进行调整。该节目成功将专业知识与可操作指南相结合，让复杂的运动科学对新手和从业者 alike 都变得易于理解。",
-    "best_quote_en": "Strength and hypertrophy are two different adaptations... you can train for one, the other, or both depending on your goals.",
-    "best_quote_zh": "力量与肥大是两种不同的适应性响应……取决于你的目标，你可以训练其中一种、另一种或两者兼顾。"
-  },
-  {
-    "id": 545,
-    "title": "Boy From the North Country Paperback Release Party",
-    "title_zh": "《北方之城的男孩》纸版出版庆典",
-    "model_used": "poolside/laguna-xs-2.1:free",
-    "source": "Harper’s Magazine",
-    "link": "https://harpers.org/2026/08/boy-from-the-north-country-paperback-release-party/",
-    "tags": [
-      "update",
-      "ai-research"
-    ],
-    "tags_zh": [
-      "动态",
-      "AI研究"
-    ],
-    "date": "2026-08-25",
-    "summary_en": "Join the paperback release celebration of Boy From the North Country by Sam Sussman, a National Jewish Book Award finalist and USA Today bestseller. The event is hosted by Penguin Press, Harper's Magazine, PEN America, and the Jewish Book Council on September 16, 2026 at 7 pm at T.J. Byrnes Bar & Restaurant in New York. The book was inspired by Sussman's Harper's essay 'The Silent Type' about possibly being Bob Dylan's son.",
-    "summary_zh": "欢迎参加赛姆·苏斯坎的《北方之城的男孩》纸版出版庆典。该书是国家犹太书奖提名奖作品和USA Today畅销书。活动由Penguin Press、Harper's Magazine、PEN America和犹太书坊会议主办，将于2026年9月16日晚上7点在纽约T.J. Byrnes酒吧餐厅举办。这本书灵感来自作者发表于Harper's的论文《The Silent Type》中关于他可能是鲍勃·迪克森之子的探讨。",
-    "best_quote_en": "Celebrate the paperback release of Boy From the North Country, a National Jewish Book Award finalist and USA Today bestseller.",
-    "best_quote_zh": "庆祝《北方之城的男孩》纸版出版，这本书是国家犹太书奖提名奖作品和USA Today畅销书。"
-  },
-  {
-    "id": 546,
-    "title": "What’s in my NOW? — Martynas Sagaitis",
-    "title_zh": "我现在有什么？——Martynas Sagaitis",
-    "model_used": "cohere/north-mini-code:free",
-    "source": "Kevin Kelly",
-    "link": "https://kk.org/cooltools/whats-in-my-now-martynas-sagaitis/",
-    "tags": [
-      "update",
-      "lifestyle",
-      "design",
-      "beginner-friendly"
-    ],
-    "tags_zh": [
-      "动态",
-      "生活方式",
-      "设计创意",
-      "新手友好"
-    ],
-    "date": "2026-09-23",
-    "summary_en": "Martynas Sagaitis offers an intimate glimpse into his current life through a curated collection of interests spanning physical, digital, and spiritual domains. The article showcases his practical exploration of modern technology—highlighting an electric bicycle that redefines urban mobility, Linux Mint as his primary operating system, and Claude Code as an accessible programming gateway. His physical interests include a German-made Raymon electric bike with impressive range, a LEGO Bonsai Tree that combines artistry with playfulness, and \"The Soul of Money,\" a reflective book on philanthropy. This content exemplifies contemporary digital nomadism, the democratization of technology, and the intersection of material and spiritual growth. Sagaitis demonstrates how everyday tools can expand personal horizons while maintaining grounded values, offering readers inspiration for their own personal inventory and potential transformation.\n\nThe piece stands out for its authentic self-documentation approach, blending practical tech reviews with philosophical reflection. It serves as both a tutorial for newcomers to Linux and programming, and a meditation on modern living. The author's transparent sharing of his current interests creates a relatable narrative that encourages readers to contemplate their own \"NOW\" moment, making it valuable for those seeking inspiration, practical guidance, and personal growth insights.",
-    "summary_zh": "Martynas Sagaitis分享了他当前生活的点滴，从物理、数字到精神层面，展示了现代科技与个人成长的交织。他介绍了电动自行车、LEGO Bonsai树、《The Soul of Money》等兴趣爱好，以及Linux Mint和Claude Code等数字工具。这个内容体现了当今数字游民的生活方式，展示了技术民主化与个人价值的结合。通过真实的自我记录，作者激励读者反思自己的“当下”，寻找个人成长与启发的可能性。",
-    "best_quote_en": "The LORD is my shepherd; I shall not want.",
-    "best_quote_zh": "耶和华是我的牧者，我必不致缺乏。"
-  },
-  {
     "id": 547,
     "title": "Oasis’ ‘Live ’27’ tour completely sells out after staggered weekend ticket sales",
     "title_zh": "Oasis' 'Live '27'演唱会全场售罄",
@@ -2346,5 +2229,122 @@
     "summary_zh": "特朗普面临历史性民众不满，却转而拥抱普京，这不再是政治操弄而是真实的忠贞。文章揭示了一个令人不安的事实：美国总统竟将个人忠诚凌驾于民主盟友之上，为俄罗斯的侵略战争背书。",
     "best_quote_en": "Trump has pivoted to Putin so many times before that it should hardly astonish anyone that he did it again.",
     "best_quote_zh": "特朗普已经多次转向普京，他再次这样做也不应该令任何人感到惊讶。"
+  },
+  {
+    "id": 642,
+    "title": "Book Freak #227: The Perfume of Silence",
+    "title_zh": "寂静之香",
+    "model_used": "xingchen-agi/xing4.0-29b-a4b:free",
+    "source": "Kevin Kelly",
+    "link": "https://kk.org/cooltools/book-freak-227-the-perfume-of-silence/",
+    "tags": [
+      "learn",
+      "psychology",
+      "education"
+    ],
+    "tags_zh": [
+      "学习",
+      "心理学",
+      "教育学习"
+    ],
+    "date": "2026-10-16",
+    "summary_en": "The Perfume of Silence offers a luminous, accessible entry into nondual awareness through Lucille's warm dialogue format with students. Its core insight—that psychological suffering dissolves when we recognize the consciousness underlying experience rather than identifying with thoughts and sensations—resonates deeply in an age of anxiety and distraction. The 'Try It Now' exercises provide immediately usable practices for cultivating presence in everyday life, from noticing awareness beneath passing thoughts to welcoming uncomfortable emotions without resistance. The book's greatest strength is its refusal to romanticize meditation; it insists that awakening is not an escape from ordinary life but a deepening of ordinary moments. Lucille's teaching that happiness is our natural state rather than a goal reframes a pervasive cultural assumption in a genuinely liberating way. However, the text can feel repetitive across chapters, and readers seeking empirical or philosophical rigor may find its experiential claims difficult to verify through conventional academic lenses. The closing quote distills the entire project into a single radical claim: freedom exists only at the level of consciousness itself.",
+    "summary_zh": "《寂静之香》以Lucille与学生的对话为形式，将非二元觉知理念自然带入日常语境。其核心洞见——心理痛苦并非源于经验本身，而是源于我们将思维、感受与觉知误认为自我——在焦虑弥漫的时代具有深刻的解放意义。书中提出的三个即时练习极具实操价值：觉察意识本身、对不适情绪说'欢迎你'、以全神贯注完成平凡事务。Lucille最精妙的贡献在于重新定义了幸福：它不是外在追求的目标，而是我们本就拥有的本性。这种重定义消解了现代人对幸福的执念。不过，全书在章节间略显重复，且缺乏实证性论证，对于习惯理性分析的读者而言可能显得不够严谨。最后那句关于自由与意识关系的宣言，堪称全书最精炼的总结。",
+    "best_quote_en": "There is no freedom at the level of the body-mind. There is absolute freedom at the level of consciousness.",
+    "best_quote_zh": "身体-心灵层面没有自由，意识层面才有绝对自由。"
+  },
+  {
+    "id": 643,
+    "title": "Essentials: Neuralink & Technologies to Enhance Human Brains | Dr. Matt MacDougall",
+    "title_zh": "要点：Neuralink 与增强人类大脑的技术 | Matt MacDougall 博士",
+    "model_used": "nvidia/nemotron-3.5-super-vl:free",
+    "source": "Huberman Lab",
+    "link": "https://www.hubermanlab.com/episode/essentials-neuralink-and-technologies-to-enhance-human-brains-matthew-macdougall",
+    "tags": [
+      "inspire",
+      "ai-research",
+      "education",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "启发",
+      "AI研究",
+      "教育学习",
+      "未来预测"
+    ],
+    "date": "2026-10-15",
+    "summary_en": "This Huberman Lab Essentials episode features Dr. Matthew MacDougall, a neurosurgeon at Neuralink, discussing brain-machine interfaces (BMIs) and their potential to transform human capability. The conversation covers how BMIs can enable paralyzed individuals to control computers through intended movement, the precision of robotic surgery for electrode implantation, and advances in brain tumor treatment. Dr. MacDougall explores the bidirectional learning process between brain and software, implant safety, and the ethical considerations of animal research. Looking forward, he envisions applications ranging from restoring movement and treating mental health conditions to expanding human cognition and enabling brain-to-brain communication augmented by AI. The discussion balances technological optimism with medical pragmatism, highlighting both the extraordinary promise and significant challenges of merging human brains with machines.",
+    "summary_zh": "Huberman Lab 采访 Neuralink 神经外科医生 Matt MacDougall，探讨脑机接口如何让瘫痪患者通过意图控制电脑，以及机器人手术如何精准植入微电极。对话涵盖脑肿瘤手术、植入安全性、大脑与软件的协同学习，以及动物研究的伦理问题。MacDougall 展望未来应用：恢复运动功能、治疗精神健康状况、扩展人类认知，甚至实现脑与脑之间的沟通。这是一次在技术乐观主义与医学务实之间取得平衡的讨论，揭示了人脑与机器融合的巨大潜力与重大挑战。",
+    "best_quote_en": "Restoring movement, addressing mental health conditions and expanding human cognition and communication.",
+    "best_quote_zh": "恢复运动功能，解决精神健康问题，扩展人类认知与沟通。"
+  },
+  {
+    "id": 644,
+    "title": "Weekly Review",
+    "title_zh": "Weekly Review",
+    "model_used": "nvidia/nemotron-3-nano-omni-30b-a3b-reasoning:free",
+    "source": "Harper’s Magazine",
+    "link": "https://harpers.org/2026/10/weekly-review-uss-abraham-lincoln-fathers-debark-cattle-semen-explosion-french-protests-hand-grenade-iran-execution-christa-pike-palantir-smoking-kimberly-guilfoyle-hitler-mussolini/",
+    "tags": [
+      "analyze",
+      "politics",
+      "controversial"
+    ],
+    "tags_zh": [
+      "分析",
+      "政治时事",
+      "争议观点"
+    ],
+    "date": "2026-10-14",
+    "summary_en": "This weekly review presents a striking collage of global events that reveal both the brutality of contemporary conflict and the absurdity of human behavior. Military deployments like the USS Abraham Lincoln's historic combat record (3,700 missions, 450 Tomahawks) contrast sharply with bizarre incidents such as exploding cattle semen cryogenic cylinders and a stun grenade maiming a protester in France. The report juxtaposes state violence (Iranian executions, ICE shootings in NYC) with AI ethics crises (Palantir researchers 'curing cancer' via cigarette signaling, Anthropic's safety guardrails), corporate corruption (Guilfoyle's alleged donor bribery), and even satirical political theater (a mayoral candidate named 'Hitler Mussolini'). These fragments expose systemic tensions: the normalization of lethal force abroad, the weaponization of technology, and the surreal intersection of personal tragedy with global power structures. The inclusion of a funeral home displaying the wrong body and 19th-century coffins near a governor's residence adds a haunting layer of institutional failure. Together, these vignettes form a portrait of a world where geopolitical violence, technological hubris, and human folly intersect in increasingly unpredictable ways.",
+    "summary_zh": "这篇周刊汇编呈现了全球事件的强烈反差：USS Abraham Lincoln舰的史诗级战绩（3700次任务、450枚战斧导弹）与牛精液冷冻罐爆炸、法国抗议者手部被击伤等荒诞事件形成鲜明对比。它揭示了系统性张力——海外致命武力的常态化、技术武器化的危险、以及个人悲剧与全球权力结构的扭曲交织。州长将飓风命名为“伊赛亚”显示出荒诞氛围，而丧家乐部错误展示尸体与总统官邸发现19世纪棺材则暴露制度失效。这些片段共同勾勒出一个世界：地缘政治暴力、技术傲慢与人类荒诞在此交织，形成不可预测的现实图景。",
+    "best_quote_en": "I don't know how to pronounce this, because it's not normal, so I'm calling it Isaiah.",
+    "best_quote_zh": "我不知道怎么发音，因为它不正常，所以我称它为伊赛亚。"
+  },
+  {
+    "id": 645,
+    "title": "Free eSIM Data/A to B Options/Uzbekistan Travel Prices",
+    "title_zh": "免费eSIM数据/A到B选项/U兹别克斯坦旅行价格",
+    "model_used": "nvidia/nemotron-3-nano-omni-30b-a3b-reasoning:free",
+    "source": "Kevin Kelly",
+    "link": "https://kk.org/cooltools/free-esim-data-a-to-b-options-uzbekistan-travel-prices/",
+    "tags": [
+      "solve",
+      "writing-content",
+      "science"
+    ],
+    "tags_zh": [
+      "解决",
+      "写作内容",
+      "科学研究"
+    ],
+    "date": "2026-10-15",
+    "summary_en": "This article delivers practical travel intelligence for budget-conscious globetrotters, combining three actionable value propositions: free eSIM data through Visa card promotions (verified through personal use in Malaysia), a comprehensive transportation planning tool (Rome2Rio) that aggregates all travel options including flight and overland routes, and concrete pricing benchmarks for independent travel in Uzbekistan ($140-185/day). The content demonstrates high practical applicability through real-world testing and direct user guidance, with clear pathways to implementation via linked resources. The Uzbekistan section particularly shines as actionable cost intelligence for travelers seeking affordable destinations, while the eSIM and transportation tips address immediate pain points for international travelers. The piece effectively bridges promotional content with genuine utility, making it highly discoverable for users searching for specific travel hacks rather than general advice.",
+    "summary_zh": "这篇实用指南为预算有限的旅行者提供了三项关键价值：通过个人在马来西亚验证的Visa卡免费eSIM数据方案（3-15天不等）、聚合全球交通选项的Rome2Rio工具推荐，以及乌兹别克斯坦独立旅行的具体均日花费参考（$140-185）。内容以真实使用体验为依据，直击旅行者痛点，特别值得一提的是对乌兹别克斯坦的详尽性价比分析，堪称\"世界最便宜目的地\"候选地，为独立旅行者提供了可落地的省钱指南，而非空泛的旅行建议。",
+    "best_quote_en": "My data is about to run out, but I can re-up with a different Visa card or purchase a plan at a hefty discount.",
+    "best_quote_zh": "我的数据即将用完，但我可以用另一张Visa卡续订，或者以折扣购买流量包。"
+  },
+  {
+    "id": 646,
+    "title": "Essentials: How to Assess & Improve All Aspects of Your Fitness | Dr. Andy Galpin",
+    "title_zh": "要点：如何评估与提升你身体素质的各个方面 | 安迪·加尔平博士",
+    "model_used": "dots-studio/dots-3-note-preview:free",
+    "source": "Huberman Lab",
+    "link": "https://www.hubermanlab.com/episode/essentials-how-to-assess-and-improve-all-aspects-of-your-fitness-andy-galpin",
+    "tags": [
+      "solve",
+      "health-wellness",
+      "beginner-friendly"
+    ],
+    "tags_zh": [
+      "解决",
+      "健康养生",
+      "新手友好"
+    ],
+    "date": "2026-09-17",
+    "summary_en": "This episode revisits Dr. Andy Galpin’s foundational insights on physical fitness, breaking it down into nine measurable components—movement quality, power, strength, muscle mass, endurance, and more. What stands out is the emphasis on self-assessment as a tool for long-term health, not just performance optimization. Galpin and Huberman demystify complex physiological metrics like VO2 max and fat-free mass index by offering accessible, at-home testing methods. The conversation is both scientific and practical, bridging lab-grade concepts with everyday applicability. It’s not just about working harder; it’s about working smarter by understanding your body’s baseline. This is a rare case of expert insight that feels immediately actionable, making it invaluable for anyone serious about sustainable fitness.",
+    "summary_zh": "这期节目重新审视了安迪·加尔平博士关于身体素质的九项核心指标，从动作质量到耐力，每一项都配有可操作的自测方法。最打动我的是它把复杂的生理数据（如VO2最大值、无脂体重指数）转化为了普通人也能实践的工具。这不仅是健身指南，更是一种身体认知的启蒙——让你明白“练什么”之前，先搞清楚“我是谁”。在追求效率的时代，这种回归基础、尊重个体差异的科学态度，反而显得尤为珍贵。",
+    "best_quote_en": "Fitness isn't just about how much you can lift or how fast you can run—it's about understanding your body's unique strengths and weaknesses so you can train smarter, not just harder.",
+    "best_quote_zh": "健身不是看你能举多重、跑多快，而是理解你身体的独特强项与短板，从而聪明地训练，而非盲目拼命。"
   }
 ]
