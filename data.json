@@ -1,122 +1,5 @@
 [
   {
-    "id": 547,
-    "title": "Oasis’ ‘Live ’27’ tour completely sells out after staggered weekend ticket sales",
-    "title_zh": "Oasis' 'Live '27'演唱会全场售罄",
-    "model_used": "poolside/laguna-xs-2.1:free",
-    "source": "NME",
-    "link": "https://www.nme.com/news/music/oasis-live-27-tour-completely-sells-out-after-staggered-weekend-ticket-sales-3970994?utm_source=rss&utm_medium=rss&utm_campaign=oasis-live-27-tour-completely-sells-out-after-staggered-weekend-ticket-sales",
-    "tags": [
-      "update",
-      "music-arts",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "动态",
-      "音乐艺术",
-      "未来预测"
-    ],
-    "date": "2026-09-28",
-    "summary_en": "Oasis's highly anticipated 'Live '27' tour has completely sold out across all 42 dates spanning the UK, Europe, and US, following a more streamlined weekend ticket sale process. This marks a significant improvement from the chaotic 2024 reunion tour ticketing experience, which saw website crashes and dynamic pricing complaints. The staggered sales approach, implemented after fan backlash, resulted in a smoother purchasing experience that garnered positive feedback. The tour features multiple Glasgow residencies, Manchester's Etihad Stadium, and iconic venues like Knebworth and Slane Castle. While Noel Gallagher confirmed no new music will accompany the tour, fans continue to request deep cuts and rarities. Liam Gallagher suggested this could be Oasis's final tour, adding emotional weight to the sold-out shows. The announcement coincided with the release of the documentary 'Don't Look Back In Anger,' which received critical acclaim for capturing the band's legacy.",
-    "summary_zh": "劳伦斯·甘勒治父子用更有序的分阶段售票方式，成功将全球42场演唱会全部售罄。相较于2024年重组演唱会的网络拥堵与动态定价争议，此次流程更顺畅获乐迷好评。巴黎圣母院等经典场馆将迎来Oasis历史性演出，甘勒治兄弟透露或为决战之夜，纪录片《别回头怀恨》亦获四星好评，捕捉乐队魂魄。",
-    "best_quote_en": "That's all folks we have officially sold out no more tickets left. Congratulations to everyone who got a ticket and to the people who didn't sneak in fuck it yolo.",
-    "best_quote_zh": "那我们完事了，我们正式售罄，票已经全部售完。恭喜所有买到票的粉丝，也恭喜没抢到的——行就行， YOLO！"
-  },
-  {
-    "id": 548,
-    "title": "NYFF 2026: Opening Night Preview and Early Highlights",
-    "title_zh": "NYFF 2026：开幕夜预览与早期亮点",
-    "model_used": "nvidia/nemotron-3-ultra-550b-a55b:free",
-    "source": "RogerEbert.com",
-    "link": "https://www.rogerebert.com/festivals/nyff-2026-opening-night-preview-and-early-highlights",
-    "tags": [
-      "analyze",
-      "music-arts",
-      "leadership",
-      "controversial"
-    ],
-    "tags_zh": [
-      "分析",
-      "音乐艺术",
-      "领导管理",
-      "争议观点"
-    ],
-    "date": "2026-09-25",
-    "summary_en": "This dispatch from the 64th New York Film Festival reads less like a schedule and more like a critic's vindication. After a lean eight months yielding only three potential top-ten contenders, the festival's early screenings have suddenly delivered five films that could dominate year-end lists. The piece centers on two lightning rods: Cristian Mungiu's 'Fjord,' a Palme d'Or winner about Norwegian child services seizing a Romanian Christian family's children, and 'Naza,' Yuval Abraham and Rachel Szor's clandestine documentary exposing Israeli soldiers' testimony about Gaza. Both films weaponize cinema's capacity to unsettle—'Fjord' by framing state overreach as horror, 'Naza' by forcing complicity onto the viewer. The surrounding slate—Hamaguchi's caregiving drama, Firstman's queer comedy, Zvyagintsev's Russian rot thriller—suggests a festival unafraid of moral complexity. Gray's 'Paper Tiger' opens, DuVernay's '14th' closes, and Guadagnino's Altman biopic 'Artificial' looms as the year's definitive AI film. What emerges is a portrait of cinema reclaiming its urgency: not escapism, but confrontation.",
-    "summary_zh": "影评人年度十佳的焦虑在此得到缓解：前八个月仅三部入选候选，NYFF前三天便贡献五部。蒙吉乌《峡湾》将挪威强夺移民儿童拍成现实版恐怖片，戛纳金棕榈加身却被美式视角误读为右翼立场；《Naza》更炸裂——以色列情报人员亲述加沙屠杀细节，映后全场起立25分钟，内塔尼亚胡政府欲剥夺导演国籍。哈马口《突如其来》、弗斯特曼《Club Kid》、兹维亚金采夫《牛头怪》围绕照护、身份、腐败展开。格雷《纸老虎》开幕，杜威奈《第十四修正案》闭幕，瓜达尼诺《人造》直指奥特曼。这不是电影节，是良知的集体复苏。",
-    "best_quote_en": "Unless I miss my guess, 'Naza' will end up being not just greatly acclaimed but historic, with a greater impact on public perceptions and events than any previous movie.",
-    "best_quote_zh": "除非我判断失误，《Naza》将不仅是备受赞誉，更将成为历史性作品——其对公众认知与现实进程的影响，恐超越任何前作。"
-  },
-  {
-    "id": 549,
-    "title": "The Weasel and the Meaning of It All: Annie Dillard on How to Live",
-    "title_zh": "鼬鼠与存在的意义：安妮·迪拉德论如何生活",
-    "model_used": "inclusionai/ling-3.0-flash-sante:free",
-    "source": "The Marginalian",
-    "link": "https://www.themarginalian.org/2026/09/27/annie-dillard-weasel/",
-    "tags": [
-      "solve",
-      "writing-content",
-      "education",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "解决",
-      "写作内容",
-      "教育学习",
-      "未来预测"
-    ],
-    "date": "2026-09-27",
-    "summary_en": "Annie Dillard's encounter with a wild weasel becomes a profound meditation on how to live authentically in a world of infinite choice. The essay contrasts the weasel's existence—governed by pure necessity—with the human condition, burdened by consciousness, self-reference, and the paralysis of endless options. Dillard argues that we might learn from the weasel not to mimic its behaviors, but to adopt its mindlessness: a purity of being, living without bias or motive, open to time and death. The encounter itself is described as an enchantment—a moment where two creatures lock eyes and the world dismantles into meaning. The deepest insight emerges in Dillard's call to 'grasp your one necessity and not let it go,' suggesting that authentic living requires yielding to a single, fierce purpose rather than fighting against life's current. This is not a self-help manual but a poetic reminder that meaning arises not from overthinking but from embodied presence.",
-    "summary_zh": "迪拉德与鼬鼠的对视成为一则关于如何真实生活的寓言。鼬鼠活在必然性中，而人类被选择的自由所困。真正的智慧不是模仿野兽，而是习得那份无念的纯粹——不偏不倚地活着，向死而生，牢牢抓住唯一必需之物。这不是自助指南，而是一记温柔的当头棒喝：意义不在思虑中诞生，而在全然的临在里。",
-    "best_quote_en": "I think it would be well, and proper, and obedient, and pure, to grasp your one necessity and not let it go, to dangle from it limp wherever it takes you. Then even death, where you're going no matter how you live, cannot you part.",
-    "best_quote_zh": "我想，牢牢抓住你的唯一必需之物，不放手，柔软地悬挂在它无论带你去往何处的地方，这才算端正、纯洁、顺从。于是连死亡也无法将你分离——无论你如何生活，死亡终将到来，但它不能将你带走。"
-  },
-  {
-    "id": 550,
-    "title": "Watch Madonna team up with Charli XCX and Sabrina Carpenter for her first MTV VMAs performance in 23 years",
-    "title_zh": "Madonna首次时隔23年回归MTV VMAs舞台，与Charli XCX和Sabrina Carpenter合作",
-    "model_used": "nvidia/nemotron-3.5-lightning:free",
-    "source": "NME",
-    "link": "https://www.nme.com/news/music/watch-madonna-charli-xcx-sabrina-carpenter-mtv-vmas-performance-3970993?utm_source=rss&utm_medium=rss&utm_campaign=watch-madonna-charli-xcx-sabrina-carpenter-mtv-vmas-performance",
-    "tags": [
-      "update",
-      "music-arts"
-    ],
-    "tags_zh": [
-      "动态",
-      "音乐艺术"
-    ],
-    "date": "2026-09-28",
-    "summary_en": "Madonna's triumphant return to the MTV VMAs after 23 years serves as a masterclass in pop reinvention and legacy preservation. The performance ingeniously woven tracks from 'Confessions II' with surprise collaborations, creating a narrative arc that traced her artistic evolution from 1984's groundbreaking 'Like A Virgin' to present-day genre collaborations with Charli XCX and Sabrina Carpenter. The set design, transitioning from a piano to a Danceteria bathroom recreation, functioned as a visual timeline of dance music history. Beyond nostalgia, the performance signaled Madonna's continued relevance in the current pop landscape, particularly through her productive collaborations with Gen Z artists, suggesting a deliberate strategy to bridge generational gaps while maintaining her status as the 'Queen of Pop.' The seven awards cemented not just a successful performance, but a cultural moment where past and present pop aesthetics converged.",
-    "summary_zh": "Madonna时隔23年重返MTV VMAs，这次表演不仅是对辉煌过去的致敬，更是对当下流行文化的重新定义。从1984年的《Like A Virgin》到如今与Charli XCX、Sabrina Carpenter的跨代合作，整个舞台如同一部流行音乐的时间线。布景的转换——从钢琴到Danceteria浴室，再到白色面纱合唱团，不仅是视觉盛宴，更是对她艺术历程的深度回望。她与新生代艺人的合作，巧妙地跨越了代际鸿沟，证明了“流行天后”依然具备引领潮流的能力，而非仅仅停留在怀旧的边缘。",
-    "best_quote_en": "'Madonna opening the VMAs 2026 (featuring Sabrina Carpenter, Charli XCX)' - Twitter post capturing the magnitude of the reunion.",
-    "best_quote_zh": "'Madonna开场的2026 VMAs（ Sabrina Carpenter，Charli XCX 合作}' - 探捕这一盛况的推文。"
-  },
-  {
-    "id": 551,
-    "title": "I’m Not Going Anywhere: Twiggy and Sadie Frost on “Twiggy”",
-    "title_zh": "我不会消失：Twiggy 和 Sadie Frost 谈《Twiggy》",
-    "model_used": "cohere/north-mini-code:free",
-    "source": "RogerEbert.com",
-    "link": "https://www.rogerebert.com/interviews/im-not-going-anywhere-twiggy-and-sadie-frost-on-twiggy",
-    "tags": [
-      "guide",
-      "general",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "指导",
-      "general",
-      "数据驱动"
-    ],
-    "date": "2026-09-25",
-    "summary_en": "Director Sadie Frost’s documentary “Twiggy” offers a richly layered portrait of Leslie Hornby, the teenage model who became the defining face of the 1960s Mod revolution. Through intimate interviews with both Frost and Twiggy, the film unpacks how Twiggy’s distinctive look—penciled lashes, boyish cut, and the iconic “Twiggies” eye line—redefined fashion while also serving as a blueprint for youthful rebellion. The narrative moves beyond the glossy image to explore Twiggy’s subsequent work in theatre, film, and music, illustrating how she turned early fame into a multifaceted career. Frost’s approach, built on mutual trust and respect, foregrounds the collaborative nature of memory and the ways in which personal agency can reshape cultural legacy. The documentary also draws compelling parallels between the Mod era’s social upheaval and today’s revival of 1960s aesthetics, suggesting that Twiggy’s influence persists as a living, evolving phenomenon. Ultimately, “Twiggy” is both a celebration of an icon’s enduring impact and a thoughtful meditation on how individual stories can illuminate broader cultural shifts.",
-    "summary_zh": "这部纪录片深描传奇模特Twiggy，从时尚ICON到跨领域艺术家，展现60年代Mod革命的影响。导演Frost与Twiggy的信任对话，揭示时代美学与个人力量的共鸣，引发观众反思当今文化重塑与身份认同的意义。",
-    "best_quote_en": "I’m not going anywhere.",
-    "best_quote_zh": "我不会消失。"
-  },
-  {
     "id": 552,
     "title": "Tootle of a Devilish Song",
     "title_zh": "魔性歌曲的土卢",
@@ -2346,5 +2229,126 @@
     "summary_zh": "这期节目重新审视了安迪·加尔平博士关于身体素质的九项核心指标，从动作质量到耐力，每一项都配有可操作的自测方法。最打动我的是它把复杂的生理数据（如VO2最大值、无脂体重指数）转化为了普通人也能实践的工具。这不仅是健身指南，更是一种身体认知的启蒙——让你明白“练什么”之前，先搞清楚“我是谁”。在追求效率的时代，这种回归基础、尊重个体差异的科学态度，反而显得尤为珍贵。",
     "best_quote_en": "Fitness isn't just about how much you can lift or how fast you can run—it's about understanding your body's unique strengths and weaknesses so you can train smarter, not just harder.",
     "best_quote_zh": "健身不是看你能举多重、跑多快，而是理解你身体的独特强项与短板，从而聪明地训练，而非盲目拼命。"
+  },
+  {
+    "id": 647,
+    "title": "Architects’ Sam Carter speaks out on impact “anxiety and constant focus” on his voice after online criticism",
+    "title_zh": "建筑师乐队主唱Sam Carter谈及网络批评对其声音的焦虑影响",
+    "model_used": "nvidia/nemotron-3-super-120b-a12b:free",
+    "source": "NME",
+    "link": "https://www.nme.com/news/music/architects-sam-carter-speaks-out-on-impact-anxiety-and-constant-focus-on-his-voice-after-online-criticism-3973426?utm_source=rss&utm_medium=rss&utm_campaign=architects-sam-carter-speaks-out-on-impact-anxiety-and-constant-focus-on-his-voice-after-online-criticism",
+    "tags": [
+      "inspire",
+      "psychology",
+      "music-arts",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "启发",
+      "心理学",
+      "音乐艺术",
+      "未来预测"
+    ],
+    "date": "2026-10-17",
+    "summary_en": "This deeply personal account reveals the corrosive impact of online criticism on a musician's mental health and artistic expression. Sam Carter of Architects details how relentless scrutiny of his vocal performance triggered severe anxiety, eroding the joy he once found in two decades of screaming on stage. His vulnerability exposes a troubling cycle: the more he tried to improve his technique under pressure, the harsher the criticism became, leading to emotional exhaustion. Crucially, Carter frames this not as weakness but as a human struggle—seeking therapy, taking medication, and leaning on support systems while touring with Korn. His plea for compassion ('Be kind. You never know what someone is truly going through') transforms personal pain into a universal call for empathy in digital discourse, highlighting how online judgment can silence artistic voices and damage livelihoods.",
+    "summary_zh": "萨姆·卡特的坦白揭示了网络暴力如何侵蚀艺术家的身心健康。他描述了对声音的过度关注如何夺走了二十年舞台生涯中的快乐，陷入焦虑与自我怀疑的恶性循环。更令人动容的是，他没有回避脆弱——承认接受治疗、服药，并在巡演中寻求专业帮助，这恰恰展现了面对网络审判时勇敢的自我救赎过程。他的呼吁‘Be kind’超越个人经历，成为对数字时代同理心的深刻反思：当我们轻易发表评论时，是否曾考虑过话语背后的人正在经历什么？这不仅是音乐家的故事，更是关于在表演艺术中重新找回人性与快乐的普遍启示。",
+    "best_quote_en": "My anxiety and constant focus on my voice has gotten me to a place where the joy of performing has been taken away from me.",
+    "best_quote_zh": "我对声音的焦虑和持续关注，让我到了表演的快乐被夺走的地步。"
+  },
+  {
+    "id": 648,
+    "title": "Busan 2026: Zogsool, Full Moon, Beyond Love’s Horizon",
+    "title_zh": "釜山2026：佐格苏尔、满月、超越爱的地平线",
+    "model_used": "nvidia/nemotron-3.5-super-vl:free",
+    "source": "RogerEbert.com",
+    "link": "https://www.rogerebert.com/festivals/busan-international-film-festival-2026-zogsool-full-moon-beyond-loves-horizon",
+    "tags": [
+      "analyze",
+      "music-arts",
+      "case-study"
+    ],
+    "tags_zh": [
+      "分析",
+      "音乐艺术",
+      "案例研究"
+    ],
+    "date": "2026-10-18",
+    "summary_en": "This dispatch from Busan 2026 examines three Vision section films united by marginalized female protagonists navigating oppressive economic systems. \"Zogsool\" blends dark comedy with political critique in pandemic-era Mongolia, using panoramic cinematography to symbolize isolation while satirizing corrupt officials who weaponized public fear. \"Full Moon\" offers a convoluted but sincere coming-of-age story about a teenage caregiver for disabled parents, anchored by a standout performance that captures the tension between adult responsibility and adolescent longing. \"Beyond Love’s Horizon\" employs lo-fi naturalism and grayscale night scenes to document a couple’s descent into gig-economy precarity after business failure, exploring how financial desperation erodes intimacy and forces moral compromise. Together, these films form a compelling triptych on resilience, dignity, and the human cost of systemic neglect, all unified by precise visual languages matched to serious subject matter.",
+    "summary_zh": "这份来自釜山2026的终极报道审视了三部“愿景”单元影片，它们共同聚焦边缘化的女性主角，在压迫性的经济体系中挣扎求存。《佐格苏尔》在疫情期间的蒙古背景下，将黑色幽默与政治批判相结合，用全景 cinematography 象征孤立，同时讽刺利用恐惧巩固权力的腐败官员。《满月》讲述了一个照顾残疾父母的青少年成长故事，虽略显杂乱，但由出色的表演支撑，捕捉了成人责任与少年渴望之间的张力。《超越爱的地平线》则采用低成本写实风格，记录一对夫妻在商业失败后陷入零工经济的困境，探讨经济绝望如何侵蚀亲密关系并迫使道德妥协。三部影片共同构成了一幅关于韧性、尊严与系统性忽视人类代价的引人深思的三联画，统一于精准的视觉语言与严肃主题之中。",
+    "best_quote_en": "Khanda and Sumber’s growing relationship, which begins with texts and a song dedication and transforms into something more existential and meaningful.",
+    "best_quote_zh": "Khanda 和 Sumber 日益增长的关系，始于短信和一首歌曲献词，最终转变为某种更具存在主义意义和更深刻的东西。"
+  },
+  {
+    "id": 649,
+    "title": "Celebrating 20 Years of The Marginalian and the Search for Meaning: Free Livestream This Friday",
+    "title_zh": "庆祝《马沃利安》20周年之旅：寻找意义——本周五免费直播",
+    "model_used": "poolside/laguna-s-2.1:free",
+    "source": "The Marginalian",
+    "link": "https://www.themarginalian.org/2026/10/18/20/",
+    "tags": [
+      "inspire",
+      "music-arts",
+      "writing-content",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "启发",
+      "音乐艺术",
+      "写作内容",
+      "未来预测"
+    ],
+    "date": "2026-10-18",
+    "summary_en": "Maria Popova's The Marginalian represents a unique cultural phenomenon: a 20-year solo endeavor transforming personal philosophical inquiry into a globally archived resource. What began as college-era notes evolved into a digital institution recognized by the Library of Congress, sustained entirely by reader patronage without advertising or AI. The upcoming 20th-anniversary livestream, 'Constellating Wonder,' embodies Popova's core mission—bridging science, poetry, and philosophy through wonder to address fundamental human questions about suffering, beauty, and meaning. Featuring luminaries like Nick Cave, James Gleick, and Krista Tippett, this event crystallizes how one person's relentless curiosity can create communal space for contemplation. The enduring value lies not in individual essays but in the model itself: proof that thoughtful, independent cultural criticism can thrive outside commercial frameworks, sustained by genuine reader connection.",
+    "summary_zh": "马丘的《马沃利安》证明了个人的好奇心如何孕育出文化瑰宝——二十年间，以纯洁的热爱对抗商业逻辑，用读者的爱维系独处的灵魂。",
+    "best_quote_en": "It changed shape (the essays grew longer, the questions deeper) and name (Brain Pickings became The Marginalian) but continued beating with the same heart, reckoning with the ongoing bewilderment of being alive",
+    "best_quote_zh": "它改变了形状（文章变得更长，问题也更深邃）和名字（《大脑拾贝》变成了《马沃利安》），但依然保持着同一个心跳，不断思索生活中那份持续的困惑"
+  },
+  {
+    "id": 650,
+    "title": "‘Star Wars’: Jon Watts & Christopher Ford Developed Secret Western Series For Disney+, But It May Have Been Sidelined [Report]",
+    "title_zh": "《星球大战》：乔·沃茨与克里斯托弗·福特为迪士尼+开发了秘密西部题材剧集，但该项目可能已被搁置",
+    "model_used": "xingchen-agi/xing4.0-29b-a4b:free",
+    "source": "The Playlist",
+    "link": "https://theplaylist.net/star-wars-jon-watts-christopher-ford-secret-western-disney-plus-series-20261016/",
+    "tags": [
+      "analyze",
+      "design",
+      "music-arts",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "分析",
+      "设计创意",
+      "音乐艺术",
+      "未来预测"
+    ],
+    "date": "2026-10-16",
+    "summary_en": "A new report reveals that Jon Watts and Christopher Ford, creators of Disney+'s 'Star Wars: Skeleton Crew,' spent eight months developing a secret Western-inspired series during 2026. The project was envisioned as an eight-episode series with a full writers' room operating from January through August. However, the timing raises serious questions about Lucasfilm's priorities — Watts soon received a much larger theatrical assignment directing the first film in Simon Kinberg's emerging Star Wars trilogy. This raises the critical industry question of how studios allocate creative talent across platforms versus theatrical pipelines. The article also contextualizes this within Star Wars' long history of shelved projects and notes that The Mandalorian already leaned heavily into Western traditions, suggesting Watts and Ford may have intended a genre-specific departure from the franchise's interconnected mythology. The piece ultimately frames this as another fascinating but uncertain chapter in Star Wars' sprawling development pipeline.",
+    "summary_zh": "据最新消息，迪士尼+《星战：骷髅军团》的创作者乔·沃茨与克里斯托弗·福特在2026年花了八个月时间秘密开发了一部西部题材剧集，计划为八集。然而，这一项目似乎已被搁置——沃茨随后接到了一个更大的电影导演任务，即西蒙·金贝格新三部曲的首部电影。文章深刻探讨了影视行业一个普遍困境：当一位创作者同时承担流媒体和院线项目时，工作室如何分配创作资源？这并非孤例，星战系列此前也有大量搁置项目，这提醒我们开发周期漫长的项目并不等于最终能立项。西部题材的选择本身也值得玩味——乔治·卢卡斯最初就深受西部片影响，而《曼加洛里奥》更是将西部传统推向了前所未有的深度。沃茨和福特究竟想在这部作品中做出什么不同的尝试，或许只有等未来有更多消息才能揭晓。",
+    "best_quote_en": "So a full writers' room and eight months of work hardly guarantee a green light.",
+    "best_quote_zh": "拥有完整的编剧团队和八个月的开发时间，并不一定能保证项目获得绿灯批准。"
+  },
+  {
+    "id": 651,
+    "title": "Watch Metallica share pro-shot footage of ‘…And Justice For All’ and ‘The Call Of Ktulu’ at Las Vegas Sphere residency",
+    "title_zh": "观看 Metallica 在拉斯维加斯 Sphere 驻场表演中分享的专业摄影《正义给全人类》和《Ktulu 的召唤》画面",
+    "model_used": "poolside/laguna-s-2.1:free",
+    "source": "NME",
+    "link": "https://www.nme.com/news/music/watch-metallica-share-pro-shot-footage-of-and-justice-for-all-and-the-call-of-ktulu-at-las-vegas-sphere-residency-3973419?utm_source=rss&utm_medium=rss&utm_campaign=watch-metallica-share-pro-shot-footage-of-and-justice-for-all-and-the-call-of-ktulu-at-las-vegas-sphere-residency",
+    "tags": [
+      "analyze",
+      "politics",
+      "controversial"
+    ],
+    "tags_zh": [
+      "分析",
+      "政治时事",
+      "争议观点"
+    ],
+    "date": "2026-10-17",
+    "summary_en": "This piece operates on two frequencies simultaneously: the celebratory spectacle of Metallica's Sphere residency and the escalating cultural warfare surrounding artists' political expression. The band's decision to perform '...And Justice For All' for the first time in over a decade, paired with Hetfield's on-stage declaration that Metallica exists purely for 'love, energy and heavy music,' reads as a deliberate retreat from the political polarization that now defines public discourse. Yet the article's true gravity lies in Roger Waters' vitriolic response—calling Hetfield a 'complete prick'—which illuminates how deeply fractured the cultural landscape has become. What's fascinating is how entertainment journalism now serves as a proxy battlefield; the same article promoting concert footage becomes a referendum on free speech, artistic responsibility, and the weaponization of celebrity platforms. Metallica's apolitical stance, while consistent with their 2017 'politics separates people' philosophy, increasingly reads as itself a political position in an era where neutrality is interpreted as complicity.",
+    "summary_zh": "音乐新闻已成为文化战场的代理人。Metallica 的抛头露面的 '...And Justice For All' 重演，配上赫特菲尔德的 '纯粹为爱与重金属' 宣言，反映了一个时代的政治性沉默背后隐藏的政治立场。",
+    "best_quote_en": "Metallica is not here, like some other entertainers, to influence you with their bullshit, OK. No bullshit. We're here to forget about all the outside shit, OK? Metallica's agenda is love, energy and heavy music, baby!",
+    "best_quote_zh": "我们不是来用那些狗屎般的议程影响你们的。Metallica 的使命就是爱、能量和重金属音乐，宝贝!"
   }
 ]
