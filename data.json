@@ -1,128 +1,5 @@
 [
   {
-    "id": 557,
-    "title": "The Tim Ferriss Show Transcripts: How to Spot 10-Year Trends and Build Billion-Dollar Companies — Kevin Ryan of DoubleClick, MongoDB, Business Insider, and Many More (#884)",
-    "title_zh": "《蒂姆费里斯脱口秀》实录：如何发现10年趋势并打造十亿美元公司 — Kevin Ryan (第884集)",
-    "model_used": "poolside/laguna-s-2.1:free",
-    "source": "Tim Ferriss",
-    "link": "https://tim.blog/2026/09/25/kevin-ryan-transcript/",
-    "tags": [
-      "solve",
-      "startup-strategy",
-      "economics",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "解决",
-      "创业策略",
-      "经济金融",
-      "未来预测"
-    ],
-    "date": "2026-09-25",
-    "summary_en": "Kevin Ryan's trajectory—from DoubleClick's $1.1B exit to co-founding MongoDB, Business Insider, and Gilt Groupe—reveals a consistent thesis: bet on decade-long trends, not quarterly hype. His framework of listing 20 societal shifts and projecting 10-year implications is a masterclass in pattern recognition. What strikes me is his admission of misses (longevity, psychedelics timing) alongside wins (internet ads, unstructured data, nuclear energy, creator economy, value-based care). The insight isn't just about picking winners; it's about patience—building meaningful companies requires 10-year conviction in trends that will outlast market cycles. His current focus on deep tech and AI through AlleyCorp's $335M fund signals he's doubling down on this philosophy as technological convergence accelerates.",
-    "summary_zh": "Ryan的投资哲学启人：十年耐心胜过短期投机。他用20个趋势预测未来十年，抓住互联网广告、非结构化数据等宏大浪潮，同时坦言长寿医疗等领域尚未找到切入点。最深刻的是，伟大公司需要十年定力，而非两三年的热捧。",
-    "best_quote_en": "First of all, 10 years is important because to build an important company, unfortunately you can't do it in two or three years. It does take 10 years. And so you've got to bet on a long-term trend.",
-    "best_quote_zh": "首先，10年很重要，因为要建立一家重要的公司，恋恋不及的是，你无法在两三年内完成。它确实需要10年。因此，你必须押宝于长期趋势。"
-  },
-  {
-    "id": 558,
-    "title": "我遇到一件很惨烈的事，人生第一次坐在警车里爆哭",
-    "title_zh": "我遇到一件很惨烈的事，人生第一次坐在警车里爆哭",
-    "model_used": "dots-studio/dots-3-note-preview:free",
-    "source": "虎嗅",
-    "link": "https://www.huxiu.com/article/4894846.html?f=rss",
-    "tags": [
-      "solve",
-      "science",
-      "psychology",
-      "controversial"
-    ],
-    "tags_zh": [
-      "解决",
-      "科学研究",
-      "心理学",
-      "争议观点"
-    ],
-    "date": "2026-09-30",
-    "summary_en": "This deeply unsettling narrative recounts a harrowing real-life incident where a distinguished 70-year-old Dutch economist has his finger severed by a car window while boarding a ride-share vehicle in Shanghai. The author, present as a witness, describes the visceral horror of the moment—the blood, the severed fingertip stuck to the glass, the collective panic—and the emotional aftermath that led to her breakdown in a police car. Beyond the trauma, the piece evolves into a critical investigation into automotive safety design: the author and others test multiple vehicles and discover that the anti-pinch feature fails when the window switch is held down continuously, a design logic prioritizing user command over safety. The article exposes a widespread, overlooked hazard in modern electric windows, challenging the assumption of inherent safety and calling for industry accountability. It is both a personal trauma account and a public safety warning, blending emotional vulnerability with technical revelation.",
-    "summary_zh": "这是一次令人心碎的真实经历：一位年逾古稀的荷兰经济学家在搭乘网约车时，手指竟被电动车窗生生夹断。作者作为目击者，详细还原了那令人窒息的瞬间——鲜血喷涌、断指黏在玻璃上、在场所有人惊恐尖叫。更令人动容的是，老教授在救护车上仍安慰司机，展现宽厚胸襟。然而，文章并未止步于悲情，而是深入挖掘事故背后的设计漏洞：作者与朋友实测多款车型，发现只要长按关窗键，防夹功能即失效。这一“常识性安全设计”竟普遍存在致命风险，尤其对老人与儿童威胁极大。文章既是对创伤的倾诉，也是对现代汽车安全标准的质问，呼吁行业正视隐患，避免类似悲剧重演。",
-    "best_quote_en": "We all assumed electric windows were safe by default—after all, it’s 2026. But this tragedy revealed that safety features can be overridden by a simple, continuous press, and no one, not even auto industry insiders, knew this.",
-    "best_quote_zh": "我们原本以为电动车窗天然安全，毕竟都2026年了。但这场惨剧告诉我们，只需长按一下，安全机制就会失效——而这一点，连汽车行业内部都鲜有人知。"
-  },
-  {
-    "id": 559,
-    "title": "去旅行，不为追寻远方，是为活好当下",
-    "title_zh": "去旅行，不为追寻远方，是为活好当下",
-    "model_used": "nvidia/nemotron-3.5-lightning:free",
-    "source": "三联生活周刊",
-    "link": "http://weixin.sogou.com/weixin?type=2&query=%E4%B8%89%E8%81%94%E7%94%9F%E6%B4%BB%E5%91%A8%E5%88%8A+%E5%8E%BB%E6%97%85%E8%A1%8C%EF%BC%8C%E4%B8%8D%E4%B8%BA%E8%BF%BD%E5%AF%BB%E8%BF%9C%E6%96%B9%EF%BC%8C%E6%98%AF%E4%B8%BA%E6%B4%BB%E5%A5%BD%E5%BD%93%E4%B8%8B",
-    "tags": [
-      "update",
-      "design",
-      "ai-research",
-      "beginner-friendly"
-    ],
-    "tags_zh": [
-      "动态",
-      "设计创意",
-      "AI研究",
-      "新手友好"
-    ],
-    "date": "2026-09-30",
-    "summary_en": "This article challenges the conventional wisdom of travel as mere destination-checking, reframing it as a practice of present-moment living. Drawing on Alain de Botton's insights, it explores how travelers are shifting from hurried sightseeing to intentional, slower pacing—prioritizing depth over breadth. The piece highlights emerging trends like county-town tourism, staycations, and sportcations, suggesting a move toward travel as personal renewal rather than status display. Ultimately, it argues that the true value of travel lies not in the miles logged, but in the renewed perspective it brings to everyday life back home.",
-    "summary_zh": "这篇文章重新定义了旅行的意义，将其从单纯的「打卡」行为转化为当下生活的修行。引用阿兰·德波顿的观点，文章探讨了旅行者从匆忙打卡转向慢节奏、深体验的转变。报道了县域旅游、Staycation以及Sportcation等新兴趋势，表明人们正将旅行从身份展示转向个人重塑。最终，旅行的真正价值不在于走过的里程，而在于它带回家的全新视角。",
-    "best_quote_en": "\"If the purpose of life is to pursue happiness, then, aside from travel, there are few behaviors that can present the passion and contradiction of this pursuit process\" — Alain de Botton, The Art of Travel",
-    "best_quote_zh": "\"如果生活的要义在于追求幸福，那么，除却旅行，很少有别的行为能呈现这一追求过程中的热情和矛盾\" — 阿兰·德波顿, 《旅行的艺术》"
-  },
-  {
-    "id": 560,
-    "title": "Relearning to Read ebook now available",
-    "title_zh": "重学阅读电子书现已上市",
-    "model_used": "inclusionai/ling-3.0-flash-sante:free",
-    "source": "A year of reading the world",
-    "link": "https://ayearofreadingtheworld.com/2026/05/18/relearning-to-read-ebook-now-available/",
-    "tags": [
-      "update",
-      "society",
-      "controversial"
-    ],
-    "tags_zh": [
-      "动态",
-      "社会议题",
-      "争议观点"
-    ],
-    "date": "2026-05-18",
-    "summary_en": "Ann Morgan's 'Relearning to Read' has now launched its ebook edition eight months after the paperback release, marking a significant milestone for a book that challenges conventional reading habits. The work has garnered impressive critical acclaim—from Prospect calling it 'a genius move' that 'rips up the rules about reading' to the Times Literary Supplement praising its radical invitation to view reading as 'a more active, connected, and connected pastime.' What makes this book genuinely valuable is its philosophical stance: reading not as passive consumption but as an act of deliberate discomfort and intellectual bravery. The endorsements from prominent literary figures like Anton Hur and Maureen Freely underscore its credibility within the international literature community. The near-sold-out paperback entering second printing reveals strong audience demand. Morgan's approach—creating conditions for readers to step outside safe literary spaces—speaks to a deeper cultural need in an era of algorithmic reading habits and filter bubbles. The ebook's unique highlighted-words cover design cleverly mirrors the digital reading experience while maintaining the book's tactile ethos.",
-    "summary_zh": "Ann Morgan的《重学阅读》电子书版问世，恰逢纸质书几近售罄并启动再版之际。这部作品的价值远不止于出版里程碑——它挑战的是一种文化惯性：将阅读从被动消费重新定义为一种主动的、近乎激进的精神冒险。评论界用'天才之举'形容它并非溢美之词，而是精准捕捉了Morgan的核心主张：文学最强大的力量在于让我们走出舒适区，包括安全的文学空间。在算法推荐日益主导阅读选择的时代，这种'故意不懂'的工作坊精神近乎一种抵抗。值得玩味的是电子书封面特意模拟了电子阅读器的高亮显示——数字时代的身体性隐喻。",
-    "best_quote_en": "In 12 short chapters it rips up the rules about reading and reminds us about fiction's greatest strength: that it lets you step out of your life and, if you're brave, out of your safe literary spaces.",
-    "best_quote_zh": "将阅读视为一种更加主动、互联且激进消遣——这恰恰是Morgan最值得称道的追求。"
-  },
-  {
-    "id": 561,
-    "title": "How to Spot 10-Year Trends and Build Billion-Dollar Companies — Kevin Ryan of DoubleClick, MongoDB, Business Insider, and Many More (#884)",
-    "title_zh": "如何发现十年趋势并打造十亿美元公司 —— Kevin Ryan 的创业智慧",
-    "model_used": "dots-studio/dots-3-note-preview:free",
-    "source": "Tim Ferriss",
-    "link": "https://tim.blog/2026/09/24/kevin-ryan/",
-    "tags": [
-      "solve",
-      "startup-strategy",
-      "startup-funding",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "解决",
-      "创业策略",
-      "创业融资",
-      "未来预测"
-    ],
-    "date": "2026-09-25",
-    "summary_en": "Kevin Ryan, the 'Godfather of NYC tech,' shares his insights on identifying long-term trends and building billion-dollar companies. As founder of AlleyCorp and co-founder of MongoDB, Business Insider, and others, he discusses how to spot massive opportunities early. The episode covers his journey from DoubleClick to creating multiple unicorns, offering actionable advice for entrepreneurs seeking to build enduring, high-impact businesses by focusing on foundational shifts rather than short-term fads.",
-    "summary_zh": "被誉为“纽约科技教父”的 Kevin Ryan 分享了如何发现长期趋势并打造十亿美元公司的经验。作为 AlleyCorp 创始人及 MongoDB、Business Insider 等多家明星企业的联合创始人，他探讨了如何早期识别巨大机会。本期节目涵盖他从 DoubleClick 到多次创造独角兽企业的历程，为创业者提供实用建议：聚焦基础性变革而非短期热潮，从而建立持久且高影响力的企业。",
-    "best_quote_en": "Focus on the next decade, not the next quarter — great companies are built on long-term conviction.",
-    "best_quote_zh": "关注下一个十年，而非下一个季度 —— 伟大的公司建立在长期信念之上。"
-  },
-  {
     "id": 562,
     "title": "Surprisingly Complex Waves Reveal the Brain’s Inner Workings",
     "title_zh": "惊人的复杂脑波揭示大脑内部运作机制",
@@ -2352,5 +2229,124 @@
     "summary_zh": "Shuto Okayasu的《无常》是对佛教“无常”概念的深刻视觉沉思。他通过一组精妙构图的照片，捕捉自然侵蚀、风化与变迁的瞬间，引导观者直面构成存在的必然流动。画面中无人迹，聚焦于剥落的表面、变幻的光影与有机的解体，将平凡环境转化为冥想的圣所。这组作品超越了美学记录，成为对接纳、 loss 与无常之美的哲学追问。在一个日益执着于永恒与数字不朽的文化中，Okayasu的艺术悄然成为强有力的反叙事，呼唤人们回归正念，安住于当下。它不仅是观察，更是体验——要求观者放慢脚步，仔细凝视，反思自身与时间、变化的关系。",
     "best_quote_en": "In a world obsessed with permanence, Okayasu reminds us that true beauty often lies in the ephemeral—the crack in the wall, the fading pigment, the rust on metal—all testaments to time's gentle, relentless hand.",
     "best_quote_zh": "在一个执着于永恒的世界里，Okayasu提醒我们，真正的美往往藏于短暂之中——墙上的裂痕、褪色的颜料、金属上的锈迹，皆是时间温柔而 relentless 手笔的见证。"
+  },
+  {
+    "id": 657,
+    "title": "The Two Kinds of Moderate",
+    "title_zh": "两种类型的温和派",
+    "model_used": "poolside/laguna-s-2.1:free",
+    "source": "Paul Graham",
+    "link": "http://www.paulgraham.com/mod.html",
+    "tags": [
+      "inspire",
+      "general",
+      "controversial"
+    ],
+    "tags_zh": [
+      "启发",
+      "general",
+      "争议观点"
+    ],
+    "date": "2026-10-20",
+    "summary_en": "This essay distinguishes between intentional and accidental moderates, arguing that true intellectual rigor lies in the latter. Intentional moderates simply position themselves between extremes, while accidental moderates form independent opinions across a broad spectrum, averaging to the center. The author celebrates accidental moderates as courageous thinkers who resist ideological conformity, suggesting that in idea-driven work, independent-mindedness is essential. The piece critiques ideological thinking across the political spectrum, noting that both extremes and their centrist counterparts often acquire beliefs in bulk. The essay's core insight is that moderation through independent reasoning—not strategic positioning—is the hallmark of genuine intellectual integrity, particularly for those whose work involves complex ideas.",
+    "summary_zh": "这篇文章将温和派分为故意的和意外的两种类型，认为真正的思想严谨在于后者。意外温和派独立思考，勇气可嘉，尤其是在处理复杂思想的工作中，独立思考至关重要。",
+    "best_quote_en": "Nearly all the most impressive people I know are accidental moderates.",
+    "best_quote_zh": "我认识的令人印象最深刻的人几乎都是意外的温和派。"
+  },
+  {
+    "id": 658,
+    "title": "How to Teach a 3-Year-Old to Read and Rethinking Education — Tim Coaches Niels Hoven of Mentava (#882)",
+    "title_zh": "如何教三岁孩子阅读并重新思考教育——Tim 指导 Mentava 的 Niels Hoven（#882）",
+    "model_used": "dots-studio/dots-3-note-preview:free",
+    "source": "Tim Ferriss",
+    "link": "https://tim.blog/2026/09/10/niels-hoven-mentava/",
+    "tags": [
+      "solve",
+      "education",
+      "writing-content",
+      "case-study"
+    ],
+    "tags_zh": [
+      "解决",
+      "教育学习",
+      "写作内容",
+      "案例研究"
+    ],
+    "date": "2026-09-10",
+    "summary_en": "This podcast episode features Tim Ferriss in an unscripted working session with Niels Hoven, founder and CEO of Mentava—a startup building software to support fast learners. The core premise challenges conventional education: eager children are dramatically underserved by today’s system, and Mentava aims to unlock their potential through adaptive learning tools. Niels brings a unique background—electrical engineering from UC Berkeley, experience at Cloudflare, ClassDojo, and Pocket Gems (where he ran the highest-grossing mobile game in 2011)—blending technical rigor with product intuition. The episode likely explores early childhood cognitive development, the myth of standardized learning timelines, and how personalized software can accelerate literacy. It’s not just about teaching reading; it’s a rethinking of pedagogy, intelligence, and the role of technology in nurturing innate curiosity. The conversation is grounded in real-world product design, user behavior, and the psychology of learning—offering actionable insights for parents, educators, and edtech founders alike. It’s a rare blend of founder pragmatism, educational philosophy, and product vision.",
+    "summary_zh": "这期播客是 Tim Ferriss 与 Mentava 创始人 Niels Hoven 的一次即兴深度对话，聚焦于“如何重新定义早期教育”。Niels 认为，当前教育体系严重低估了幼儿的学习潜能，尤其是对充满好奇心的孩子而言。Mentava 的软件旨在通过自适应技术，让儿童以符合自身节奏的方式快速掌握阅读能力。Niels 的跨学科背景——从 UC Berkeley 电子工程到顶级游戏产品经验——赋予其产品设计独特的技术洞察与用户心理理解。本期不仅是“教孩子识字”的技巧分享，更是对教育标准化、认知发展规律和科技赋能学习的深刻反思。它挑战了“年龄决定学习进度”的刻板印象，提出“学习加速器”的新范式，为家长、教育者和创业者提供了可落地的思维框架与实践路径。",
+    "best_quote_en": "Eager kids are dramatically underserved by today’s education system — Niels Hoven",
+    "best_quote_zh": "当今教育体系严重忽视了充满好奇心的孩子——Niels Hoven"
+  },
+  {
+    "id": 659,
+    "title": "市场真慌了？AI相关CDS需求出现“井喷”",
+    "title_zh": "市场真慌了？AI相关CDS需求出现“井喷”",
+    "model_used": "nvidia/nemotron-3-super-120b-a12b:free",
+    "source": "虎嗅",
+    "link": "https://www.huxiu.com/article/4898932.html?f=rss",
+    "tags": [
+      "learn",
+      "economics",
+      "personal-finance"
+    ],
+    "tags_zh": [
+      "学习",
+      "经济金融",
+      "个人理财"
+    ],
+    "date": "2026-10-20",
+    "summary_en": "Global investors are rapidly increasing purchases of credit default swaps (CDS) tied to AI-related debt as a hedge against potential fallout from the AI investment boom. Data from Morgan Stanley shows weekly trading volume in CDS linked to Oracle, SpaceX, Alphabet, Amazon, Meta, Broadcom, and NVIDIA surged from under $2 billion in July to over $9 billion in September. Bloomberg data indicates U.S. corporate CDS trading volume has already surpassed last year’s annual total. Rising CDS spreads—especially for CoreWeave exceeding 1,090 basis points—signal growing fears of an AI bubble, with investors using CDS as a low-cost hedge against tech equity exposure and financing risks tied to data centers and chip infrastructure.",
+    "summary_zh": "全球投资者正争相购买与AI相关债务挂钩的信用违约互换（CDS），以对冲AI投资热潮可能引发的系统性风险。摩根士丹利数据显示，9月份与甲骨文、SpaceX、Alphabet、亚马逊、Meta、博通和英伟达相关的CDS周均交易规模突破90亿美元，而7月份尚不足20亿美元。彭博数据表明，今年美国企业CDS交易量已超过去年全年。CDS利差普遍上升，CoreWeave五年期利差约达1090个基点，买方购买1000万美元保护需预付182万美元。市场担忧AI泡沫，认为CDS不仅是债券投资者的对冲工具，也正成为多资产和股票基金低成本对冲科技敞口的首选。",
+    "best_quote_en": "CDS has become a key barometer of investor sentiment on big-tech financing and AI trade exposure.",
+    "best_quote_zh": "CDS已成为衡量投资者对超大规模云服务商融资以及整体人工智能交易情绪的关键风向标。"
+  },
+  {
+    "id": 660,
+    "title": "价格暴跌超40%，曾经国民秋日顶流跌下神坛？",
+    "title_zh": "价格暴跌超40%，曾经国民秋日顶流跌下神坛？",
+    "model_used": "poolside/laguna-s-2.1:free",
+    "source": "三联生活周刊",
+    "link": "http://weixin.sogou.com/weixin?type=2&query=%E4%B8%89%E8%81%94%E7%94%9F%E6%B4%BB%E5%91%A8%E5%88%8A+%E4%BB%B7%E6%A0%BC%E6%9A%B4%E8%B7%8C%E8%B6%8540%25%EF%BC%8C%E6%9B%BE%E7%BB%8F%E5%9B%BD%E6%B0%91%E7%A7%8B%E6%97%A5%E9%A1%B6%E6%B5%81%E8%B7%8C%E4%B8%8B%E7%A5%9E%E5%9D%9B%EF%BC%9F",
+    "tags": [
+      "inspire",
+      "design",
+      "ai-research",
+      "case-study"
+    ],
+    "tags_zh": [
+      "启发",
+      "设计创意",
+      "AI研究",
+      "案例研究"
+    ],
+    "date": "2026-10-19",
+    "summary_en": "This article examines the dramatic price drop—over 40%—of Chinese hairy crabs (large mitten crabs), once a symbol of autumn affluence and gifting culture. The author traces how rising production from 150,000 tons in 2000 to nearly a million tons today has eroded scarcity value. Driven by K-shaped consumption patterns, the market now splits between premium brands like Yangcheng Lake and mass-market variants. Economic slowdown, younger generations' preference for simplicity, and reduced ritualistic consumption have weakened demand for crab gift cards. The piece insightfully connects this shift to broader trends: consumers increasingly prioritize practicality and value-for-money over symbolic spending. While traditionalists still prize quality, the younger cohort gravitates toward convenient processed products. This signals a fundamental recalibration of consumption logic—from buying status to savoring taste.",
+    "summary_zh": "大闸蟹从‘秋日顶流’到普市，折射消费降级与审美疲劳。产量暴增、稀缺感消退，年轻人拒繁复仪式，买蟹不再是攀比面子，而是品尝味道。",
+    "best_quote_en": "The demand has not disappeared; the logic of demand has completely changed: before, buying hairy crabs was about face; now, it's only about the taste of the crab itself.",
+    "best_quote_zh": "需求不是消失了，需求的逻辑彻底变了：过去买大闸蟹，买的是面子；现在买大闸蟹，买的只是蟹本身的味道。"
+  },
+  {
+    "id": 661,
+    "title": "Fashionable Problems",
+    "title_zh": "时髦的问题",
+    "model_used": "nvidia/nemotron-3-super-120b-a12b:free",
+    "source": "Paul Graham",
+    "link": "http://www.paulgraham.com/fp.html",
+    "tags": [
+      "solve",
+      "general",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "解决",
+      "general",
+      "未来预测"
+    ],
+    "date": "2026-10-20",
+    "summary_en": "This reflective essay explores how intellectual conformity leads even the most creative minds to pursue 'fashionable problems'—trendy topics that drain innovation from underexplored domains. The author argues that true breakthroughs often lie in revisiting seemingly exhausted fields like essays, Lisp, or venture capital, where overlooked assumptions create vast opportunity surfaces. Genuine passion for one's work is presented as the best antidote to trend-chasing, enabling persistence despite external skepticism. The piece challenges readers to question whether their efforts contribute to meaningful exploration or merely replicate existing efforts within narrow intellectual fashions.",
+    "summary_zh": "文章深刻指出，即使是最有想象力的人也容易被时髦的问题所吸引，导致思想资源在狭窄领域内重复探索。真正的突破往往隐藏在被认为已被耗尽的领域中——比如散文、Lisp或创业投资——因为这些看似过时的领域实际上拥有巨大的未被挖掘的表面积。作者认为，对工作的真诚热爱是抵御从众心理的最佳防护，它使人们能够坚持探索被边缘化的想法，即使外界认为其不重要。这不仅是对创新方式的反思，更是对独立思考价值的有力主张。",
+    "best_quote_en": "If you want to try working on unfashionable problems, one of the best places to look is in fields that people think have already been fully explored.",
+    "best_quote_zh": "如果你想尝试研究不时髦的问题，最好的方法之一是看看人们认为已经被完全研究透的领域。"
   }
 ]
