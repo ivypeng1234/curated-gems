@@ -1,122 +1,5 @@
 [
   {
-    "id": 562,
-    "title": "Surprisingly Complex Waves Reveal the Brain’s Inner Workings",
-    "title_zh": "惊人的复杂脑波揭示大脑内部运作机制",
-    "model_used": "nvidia/nemotron-3-ultra-550b-a55b:free",
-    "source": "Quanta Magazine",
-    "link": "https://www.quantamagazine.org/surprisingly-complex-waves-reveal-the-brains-inner-workings-20260930/",
-    "tags": [
-      "analyze",
-      "science",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "分析",
-      "科学研究",
-      "未来预测"
-    ],
-    "date": "2026-09-30",
-    "summary_en": "This Quanta Magazine article reveals a paradigm shift in neuroscience: traveling brain waves are not mere epiphenomena but fundamental computational motifs. The discovery of spiral, source, and sink waves—beyond simple planar oscillations—suggests the cortex dynamically reconfigures itself in real-time via biophysical field effects. Jacobs' intracranial recordings show task-dependent wave geometries: rotating spirals for spatial navigation, simpler back-to-front waves for verbal memory. Crucially, Ye's mouse work reveals mirrored interhemispheric spirals anchored in spiral-wired axonal circuits, implying evolutionary conservation. Miller's 'Humpty Dumpty' metaphor—neurons perched at firing threshold, tipped by wave-modulated voltage gradients—offers a compelling mechanism: waves as the brain's rapid, flexible layer of information expression atop stable anatomical connectivity. Buzsáki's skepticism (waves as synaptic epiphenomena) remains a vital counterpoint. This work reframes cognition as an emergent dance of spatiotemporal field dynamics, not just synaptic computation.",
-    "summary_zh": "这篇文章彻底改变了我对大脑计算的理解：脑波不是副产品，而是皮层实时重组的核心机制。螺旋波、源波、汇波的发现，配合小鼠跨半球镜像螺旋回路的硬连线证据，指向进化保守的场计算架构。Miller的'汉普蒂·丹普蒂'隐喻精准捕捉了波如何通过电压梯度瞬间调控神经元阈值——这是解剖连接之上更敏捷的表达层。Buzsáki的质疑虽犀利，但无法解释为何大脑要精心布线螺旋回路。认知或许本质上是时空场动力学的涌现之舞。",
-    "best_quote_en": "\"The architecture of the brain is really important, and the traveling waves tend to follow the anatomy, but they don't strictly follow it. … The connectivity is more like the information that's baked into the brain for long-term storage, and the waves are when that information gets expressed in terms of thought and neural processing.\" — Earl K. Miller",
-    "best_quote_zh": "\"大脑的架构非常重要，行波倾向于遵循解剖结构，但并不严格遵循。……连接性更像是烘焙进大脑用于长期存储的信息，而波则是这些信息以思想和神经处理形式表达出来的时刻。\" — Earl K. Miller"
-  },
-  {
-    "id": 563,
-    "title": "Passportless mess",
-    "title_zh": "无护照的流浪者",
-    "model_used": "poolside/laguna-xs-2.1:free",
-    "source": "Aeon",
-    "link": "https://aeon.co/videos/searching-for-a-local-legend-a-filmmaker-stumbles-into-a-tragicomedy",
-    "tags": [
-      "analyze",
-      "ai-research",
-      "deep-dive"
-    ],
-    "tags_zh": [
-      "分析",
-      "AI研究",
-      "深度分析"
-    ],
-    "date": "2026-09-30",
-    "summary_en": "Maja Penčič's documentary 'Passportless' presents a fascinating exploration of identity fragmentation through the enigmatic figure of Zoran, a Belgrade resident whose posthumous persona defies coherent narrative construction. The film masterfully employs a rotating chorus of witnesses to construct a character study that deliberately resists resolution, instead embracing the contradictions and contradictions that define human complexity. Penčič's choice to avoid settling on a singular truth reflects a sophisticated understanding of how memory and myth co-construct our understanding of individuals. The 'home-video aesthetic' not only provides intimate access but also mirrors the unreliable nature of recollection itself. What emerges is less a biography than a philosophical meditation on the impossibility of truly knowing another person—a cautionary tale about the gap between perception and reality, and the stories we construct to make sense of the incomprehensible. This is documentary as art form, challenging traditional narrative structures while illuminating the social construction of identity.",
-    "summary_zh": "《无护照的流浪者》以托尔纳尔为镜，映照人性身份的碎片化与记忆的不可靠。导演用流动的见证者声音构建角色，拒绝给出单一答案，反而呈现人性复杂性的哲学思考。这种纪录片艺术性挑战了传统叙事，揭示了我们构建意义的必然性。",
-    "best_quote_en": "He is, in simple terms, a man who destroys everything.",
-    "best_quote_zh": "他简单地说，是个毁灭一切的人。"
-  },
-  {
-    "id": 564,
-    "title": "The Best U.S. Cities for Vegans and Vegetarians, Ranked",
-    "title_zh": "The Best U.S. Cities for Vegans and Vegetarians, Ranked",
-    "model_used": "nvidia/nemotron-3-nano-omni-30b-a3b-reasoning:free",
-    "source": "Mental Floss",
-    "link": "https://www.mentalfloss.com/geography/cities/best-cities-vegans-vegetarians-ranked?utm_source=RSS",
-    "tags": [
-      "analyze",
-      "general",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "分析",
-      "general",
-      "未来预测"
-    ],
-    "date": "2026-10-01",
-    "summary_en": "This WalletHub study reveals a compelling counter-narrative to the 'expensive plant-based diet' myth, demonstrating how rising meat prices and increased availability are making vegan and vegetarian lifestyles more accessible and budget-friendly across America. Portland, Oregon emerges as the top destination, excelling in affordable, high-quality plant-based dining and robust local food infrastructure including community gardens and farmers markets. The West Coast dominates the rankings, with California cities like Los Angeles and San Francisco showcasing strong plant-based cultures despite varying affordability. Austin, Texas stands out as an affordable, underrated hub with cooking resources and community events, while cities like New York and Chicago lag due to high costs. The analysis challenges assumptions about geographic and economic barriers to plant-based eating, highlighting that location and policy choices—not just individual preference—shape dietary accessibility. This data-driven ranking offers practical value for consumers seeking affordable, diverse, and sustainable food options while underscoring the need for equitable food system investments beyond coastal hubs.",
-    "summary_zh": "这项WalletHub研究彻底颠覆了‘素食很贵'的常见误解，通过数据揭示肉价上涨和餐饮选择增多正在使美国植物性饮食更经济实惠、更易获得。波特兰凭借高性价比的素食餐厅和完善的本地食物系统（如社区花园、农贸市场）脱颖而出。西海岸城市（尤其是加州）在素食文化方面表现突出，但消费水平参差不齐；奥斯汀等南部城市则以低廉食材和丰富的烹饪资源成为性价比之选。纽约、芝加哥因高昂生活成本落后，说明食物可及性受城市政策与经济因素制约。这项研究为追求可持续、经济的饮食选择提供了实用参考，同时呼吁超越沿海城市的食品正义实践。",
-    "best_quote_en": "Meat prices have surged across the board, with steak jumping around 16% and ground beef up as much as 13% over the past year. Those rising costs are turning the myth that a plant-based diet is a pricey habit right on its head.",
-    "best_quote_zh": "肉类价格普遍上涨，牛排涨幅达16%，绞肉甚至飙升13%，这些 rising costs 正在粉碎‘素食习惯太贵'的谬误。"
-  },
-  {
-    "id": 565,
-    "title": "We started an AI safety party in Sweden: here's how it went",
-    "title_zh": "我们在瑞典发起了一个AI安全政党：以下是它的经过",
-    "model_used": "nvidia/nemotron-3-super-120b-a12b:free",
-    "source": "LessWrong",
-    "link": "https://www.lesswrong.com/posts/usZvXEwyrzdD4n2D4/we-started-an-ai-safety-party-in-sweden-here-s-how-it-went",
-    "tags": [
-      "inspire",
-      "politics",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "启发",
-      "政治时事",
-      "未来预测"
-    ],
-    "date": "2026-10-01",
-    "summary_en": "This reflective piece chronicles the grassroots effort to launch RegleraAI.nu (RegulateAI.now), a single-issue Swedish political party focused on AI existential risk, formed just four weeks before the 2026 general election. The author details how frustration over mainstream parties’ silence on AI catalyzed the initiative, drawing inspiration from past single-issue movements like pirate and feminist parties in Sweden. Despite limited time and resources, the party distributed 200,000 ballot papers, gained media traction, and secured 390 votes—a figure interpreted as evidence of broader latent concern. The piece critically evaluates the trade-offs between raising awareness and risking political polarization, ultimately advocating for replication in other multi-party democracies with better timing and planning. It frames such efforts as a means to shift the Overton window and channel public anxiety into constructive political action, even if immediate electoral success is unlikely.",
-    "summary_zh": "这篇文章记录了在瑞典大选前四周草创的AI安全单一议题政党RegleraAI.nu的实践经历。作者表达了对主流政党在AI风险问题上沉默的挫败感，并借鉴了瑞典海盗党、女权党等先例。尽管时间紧张，该党仍成功分发了20万张选票，获得媒体关注并得到390票，暗示其影响远超选票数。文中深入反思了提升议题可见度与避免政治两极化之间的权衡，认为此模式在其他多党制国家中可被复制——前提是更早启动、更充分准备。作者认为，即便未能进入议会，这样的尝试也能推动Overton窗口的移位，将公众对AI风险的关切转化为建设性的政治行动，这正是民主社会应有的回应。",
-    "best_quote_en": "We were also careful to point out that we had no ties to any other parties and had no place on any existing spectrum.",
-    "best_quote_zh": "我们也特别强调，我们与其他任何政党都没有关联，也不属于任何既有的政治光谱。"
-  },
-  {
-    "id": 566,
-    "title": "Why Trump Delayed Cancelling Legal Status for Salvadorans",
-    "title_zh": "特朗普为何推迟取消萨尔瓦多人的合法身份",
-    "model_used": "inclusionai/ling-3.0-flash-sante:free",
-    "source": "The New Yorker",
-    "link": "https://www.newyorker.com/news/the-lede/why-trump-delayed-cancelling-legal-status-for-salvadorans",
-    "tags": [
-      "analyze",
-      "politics",
-      "legal",
-      "case-study"
-    ],
-    "tags_zh": [
-      "分析",
-      "政治时事",
-      "法律法规",
-      "案例研究"
-    ],
-    "date": "2026-09-30",
-    "summary_en": "This article reveals the messy intersection of immigration policy, labor economics, and political pragmatism within the Trump administration's second term. At its core, it's a story about how the machinery of deportation collided with the practical needs of industries dependent on Temporary Protected Status holders—particularly construction in the Washington D.C. area. The delay wasn't born of humanitarian concern but of pressure from lobbyists and a calculation about economic disruption. What's striking is the administration's own internal contradiction: while Stephen Miller's nativist faction pushes for aggressive enforcement, a pro-industry wing recognizes that mass deportation of Salvadorans would cripple key sectors. The article also exposes the Kafkaesque reality faced by T.P.S. holders—people who have built lives, families, and careers in the U.S. for decades, yet remain in a state of perpetual uncertainty. The fact that DHS prepared termination memos in advance, only to pause at the last minute, suggests this is political theater rather than genuine policy deliberation. The broader implication is clear: immigrant legal status has become a bargaining chip, wielded and withheld based on convenience rather than principle or law.",
-    "summary_zh": "这篇文章揭示了特朗普政府在第二任期内移民政策、劳工经济与政治实用主义之间的复杂博弈。核心在于驱逐机器与依赖临时保护身份劳工的行业需求发生了碰撞——尤其是华盛顿特区的建筑业。推迟并非出于人道关怀，而是来自游说团体的压力和对经济破坏的权衡。文章还暴露出政府内部的矛盾：民族主义派系推动严厉执法，而亲产业派则意识到大规模驱逐萨尔瓦多人将重创关键行业。更令人不安的是，DHS提前准备了终止备忘录，却在最后时刻暂停——这更像是政治戏剧而非真正的政策考量。临时保护身份持有者数十年如一日活在不确定性中，他们的法律地位已成为政治交易的筹码。",
-    "best_quote_en": "Imagine if, year after year, I said, 'I'm not going to buy a car because I have a temporary status and possibly in another year I'll have to leave; or I'm not going to get married because in a year I'll have to return; or I'm not going to have my children because I may have to leave.' No one can live like that.",
-    "best_quote_zh": "试想，如果年复一年，我说：‘我不买车，因为我身份临时，可能一年后就得离开；我不结婚，因为一年后我必须回去；我不生孩子，因为我可能得走。’没有人能这样活着。"
-  },
-  {
     "id": 567,
     "title": "Small Ring Light/Washed-up Brands/30-day Thailand Limit",
     "title_zh": "小型环形灯/衰退品牌/泰国30天限制",
@@ -2348,5 +2231,122 @@
     "summary_zh": "文章深刻指出，即使是最有想象力的人也容易被时髦的问题所吸引，导致思想资源在狭窄领域内重复探索。真正的突破往往隐藏在被认为已被耗尽的领域中——比如散文、Lisp或创业投资——因为这些看似过时的领域实际上拥有巨大的未被挖掘的表面积。作者认为，对工作的真诚热爱是抵御从众心理的最佳防护，它使人们能够坚持探索被边缘化的想法，即使外界认为其不重要。这不仅是对创新方式的反思，更是对独立思考价值的有力主张。",
     "best_quote_en": "If you want to try working on unfashionable problems, one of the best places to look is in fields that people think have already been fully explored.",
     "best_quote_zh": "如果你想尝试研究不时髦的问题，最好的方法之一是看看人们认为已经被完全研究透的领域。"
+  },
+  {
+    "id": 662,
+    "title": "AI Proved the Quasi-Riemann Hypothesis. What Happens Now?",
+    "title_zh": "AI Proved the Quasi-Riemann Hypothesis. What Happens Now?",
+    "model_used": "nvidia/nemotron-3.5-lightning:free",
+    "source": "Quanta Magazine",
+    "link": "https://www.quantamagazine.org/ai-proved-the-quasi-riemann-hypothesis-what-happens-now-20261019/",
+    "tags": [
+      "learn",
+      "ai-research",
+      "science",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "学习",
+      "AI研究",
+      "科学研究",
+      "数据驱动"
+    ],
+    "date": "2026-10-19",
+    "summary_en": "The article reveals how OpenAI's AI model achieved a landmark proof of the quasi-Riemann hypothesis, a significant weakening of the century-old Riemann hypothesis. Crucially, the AI did not invent new concepts but instead synthesized existing, disparate ideas from number theory, uncovering hidden connections that human mathematicians had overlooked. Experts like Maksym Radziwiłł and Alexander Dunn were surprised to see their own prior work integrated into the proof, validating their approaches. The result narrows the strip containing non-trivial zeros from between 0 and 1 to between 1/12 and 11/12, which, while not solving the full Riemann hypothesis, provides immediate, sweeping consequences for number theory, geometry, and theoretical computer science. Mathematicians feel a mix of relief and frustration; while the proof is likely correct, the lack of human-readable clarity means the full implications are only beginning to be understood, and the dream of solving the original Riemann hypothesis remains distant but perhaps approachable with these new tools.",
+    "summary_zh": "这篇文章揭示了OpenAI的AI模型如何取得了准黎曼假设的里程碑式证明，这是对百年老问题的重要弱化。关键的是，AI并未发明新概念，而是综合了既有的、分散的数论思想，发现了人类数学家曾忽视的隐藏联系。Maksym Radziwiłł和Alexander Dunn等专家惊讶地发现，自己的 prior work 被整合进了证明，从而验证了他们的方法。结果将包含非平凡零的带宽从0到1 narrowing 到了1/12到11/12。虽然这并未解决原始的黎曼假设，但为数论、几何和理论计算机科学带来了即时的、广泛的后果。数学家们感到欣慰与挫败的混合情绪；虽然该证明可能是正确的，但由于缺乏可读性，其全面含义仅刚刚开始被理解，解决原始黎曼假设的梦想仍遥遥无期，但或许现在可以用这些新工具去尝试。",
+    "best_quote_en": "\"The proof is a surprising synthesis of well-known ideas,\" said Alexander Dunn of the Georgia Institute of Technology. \"Nobody expected this,\" said Henryk Iwaniec regarding the metaplectic forms crucial to the proof. \"That was a pretty bold belief to have!\" said Maksym Radziwiłł about the AI's use of number theorist tools.",
+    "best_quote_zh": "\"证明是众所周知思想的意外综合,\" said Alexander Dunn. \"没人料到这一点,\" said Henryk Iwaniec 关于证明中关键的metaplectic forms。\"那是一个 pretty bold 的信念！\" said Maksym Radziwiłł 关于AI使用数论工具的事。"
+  },
+  {
+    "id": 663,
+    "title": "How intuitions work",
+    "title_zh": "直觉如何运作",
+    "model_used": "nvidia/nemotron-3-ultra-550b-a55b:free",
+    "source": "Aeon",
+    "link": "https://aeon.co/essays/sometimes-you-just-know-somethings-off-but-how",
+    "tags": [
+      "learn",
+      "science",
+      "design",
+      "case-study"
+    ],
+    "tags_zh": [
+      "学习",
+      "科学研究",
+      "设计创意",
+      "案例研究"
+    ],
+    "date": "2026-10-20",
+    "summary_en": "This essay offers a profound rehabilitation of everyday intuition, arguing that our 'vibes' and gut feelings aren't irrational heuristics but share the same epistemic structure as perception itself. The author's central insight—that intuition, like vision, directly presents the world as being a certain way without requiring inferential mediation—elegantly bridges the gap between philosophical 'rational intuitions' (e.g., grasping that 2+2=4) and the practical intuitions that keep us safe from creepy strangers and phishing emails. What captivated me is the claim that thought experiments are merely 'deliberately engineered' versions of the imaginative simulations we run constantly: picturing a friend's pain to see it as a reason against betrayal. The perceptual expertise example (the herpetologist seeing a copperhead where I see 'snake') beautifully demonstrates how concept-laden presentation operates below phenomenological awareness. This reframes intuition not as a bug but as the foundational feature of our cognitive architecture—the very thing that stops the regress of justification. A masterful piece that makes you trust your unease about that 'too good to be true' deal while understanding exactly why you should.",
+    "summary_zh": "这篇文章重塑了直觉的认知地位：那些被视为'非理性'的直觉，实则与感知同构，直接呈现世界的样貌而无需推理中介。作者将哲学理性直觉与拒上陌生人车的日常直觉统一在'呈现性捕捉'框架下，思想实验只是我们日常模拟推演的刻意版本。最震撼的是专家感知案例——蛇类学家看到铜头蛇而非'蛇'，概念在现象学相同的体验中重塑呈现内容。直觉不是认知的漏洞，而是阻止理由无限倒退的基石。读完让人既信任对'好得不真实'交易的警惕，又明白为何该信任。",
+    "best_quote_en": "The person who declines to get in the stranger's car, or who flags the email as a phishing attempt, or who walks away from the deal – these individuals are not acting irrationally or on mere feeling. They are responding to a genuine presentational state: something is showing up as creepy, fraudulent or wrong.",
+    "best_quote_zh": "拒绝上陌生人车、识破钓鱼邮件、放弃可疑交易的人，并非非理性或凭感觉行事。他们在回应一种真实的呈现性状态：事物直接呈现为可怕、欺诈或错误。"
+  },
+  {
+    "id": 664,
+    "title": "Quiz: Can You Complete These Halloween Jokes Before Time Runs Out?",
+    "title_zh": "测验：你能在时间结束前完成这些Halloween笑话吗？",
+    "model_used": "poolside/laguna-xs-2.1:free",
+    "source": "Mental Floss",
+    "link": "https://www.mentalfloss.com/quizzes/complete-halloween-jokes-before-time-runs-out?utm_source=RSS",
+    "tags": [
+      "inspire",
+      "science",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "启发",
+      "科学研究",
+      "未来预测"
+    ],
+    "date": "2026-10-20",
+    "summary_en": "This piece cleverly transforms a simple Halloween joke quiz into an exploration of humor theory, weaving entertainment with intellectual curiosity. The author moves beyond surface-level comedy to examine why we laugh, drawing from philosophical foundations through Freudian psychoanalysis to modern cognitive science. The integration of Benign Violation Theory and incongruity resolution provides nuanced insight into humor mechanics, making readers reconsider their comedic preferences. The content balances accessibility with academic depth, offering party-ready jokes while explaining the psychological frameworks behind them. This dual approach serves both entertainment seekers and theory enthusiasts, demonstrating how popular content can carry substantive intellectual weight. The interactive quiz format engages readers actively, transforming passive consumption into participatory learning about humor's evolutionary and psychological dimensions.",
+    "summary_zh": "这篇内容将简单Halloween笑话测验升华为对幽默本质的探索，娱乐与学术理性交织。作者不止于表层搞笑，深入剖析笑声的心理机制，从古希腊哲学到弗洛伊德，再到现代认知科学。Benign Violation理论揭示了幽默的伦理边界，让读者重新审视自己的笑点。既有派对必备的笑话，又有深度的心理学解读，兼顾轻松与深度。",
+    "best_quote_en": "Humor comes about 'when a person simultaneously recognizes both that an ethical, social, or physical norm has been violated and that this violation is not very offensive.'",
+    "best_quote_zh": "幽默产生于'当一个人同时认识到某种道德、社会或物理规范被违反，并且这种违反并不致命地冒犯人们时'。"
+  },
+  {
+    "id": 665,
+    "title": "Circuit priors in NN-bayes: more results",
+    "title_zh": "NN-Bayes中的电路先验：更多结果",
+    "model_used": "poolside/laguna-s-2.1:free",
+    "source": "LessWrong",
+    "link": "https://www.lesswrong.com/posts/oePzacZn6wNcJPvH3/circuit-priors-in-nn-bayes-more-results",
+    "tags": [
+      "solve",
+      "ai-research"
+    ],
+    "tags_zh": [
+      "解决",
+      "AI研究"
+    ],
+    "date": "2026-10-21",
+    "summary_en": "This technical note presents a compelling theoretical finding: for various reasonable priors on MLP weights, the induced prior over functions behaves like a circuit prior, where functions are ordered by negative log prior roughly in line with their minimal circuit width. This yields sample complexity bounds showing that training data of size proportional to circuit width suffices for test accuracy, even in overparametrized regimes. The key caveat is exponential dependence on circuit depth, which can be mitigated by imposing robustness assumptions on the prior. The work is notable for its formal rigor—GPT-6 Astra produced Lean formalizations for each referenced paper, and an external system verified the theorem statements. The authors frame this as an ongoing research program with open problems, recommending newcomers start with their slides and FAQ. The blend of theoretical depth, formal verification, and AI-assisted research signals a shift toward more rigorous and automated scientific discovery in machine learning.",
+    "summary_zh": "这篇短文揭示了一个引人注目的理论发现：合理的MLP权重先验会诱导出类似电路先验的函数先验，其中函数的负对数先验排序大致对应其最小电路宽度。这使得训练数据规模仅需与电路宽度成比例即可实现测试准确率，甚至在过参数化场景下也成立。但电路深度的指数依赖是一个主要限制，可通过鲁棒性假设缓解。值得注意的是，这项工作具有形式化严谨性：GPT-6 Astra为每篇论文生成了Lean形式化证明，并通过外部系统验证。作者将之视为一个仍在进行的研究程序，建议新读者从幻灯片和FAQ入手。这体现了AI辅助研究日益深入、自动化的趋势，值得关注。",
+    "best_quote_en": "For various reasonable priors on MLP weights, the induced prior on functions is a circuit prior: for fixed depth, the ordering of functions by negative log prior is roughly their ordering by minimal circuit width.",
+    "best_quote_zh": "对于各种合理的MLP权重先验，诱导出的函数先验是一种电路先验：在固定深度下，函数的负对数先验排序大致对应其最小电路宽度的排序。"
+  },
+  {
+    "id": 666,
+    "title": "“An Unprecedented Case of Child Abuse”",
+    "title_zh": "“前所未有的儿童虐待案”",
+    "model_used": "nvidia/nemotron-3.5-super-vl:free",
+    "source": "The New Yorker",
+    "link": "https://www.newyorker.com/news/the-lede/an-unprecedented-case-of-child-abuse",
+    "tags": [
+      "analyze",
+      "legal",
+      "case-study"
+    ],
+    "tags_zh": [
+      "分析",
+      "法律法规",
+      "案例研究"
+    ],
+    "date": "2026-10-20",
+    "summary_en": "This investigative report exposes a harrowing case of systemic child abuse involving Guojun Xuan and Silvia Zhang, a wealthy couple who used surrogacy to build a family of twenty-seven children while subjecting them to systematic violence in their Arcadia mansion. Beyond the shocking details of nannies beating children with sticks and shoes while the parents laughed at surveillance footage, the article critically examines the regulatory vacuum in the U.S. surrogacy industry. The piece reveals how the couple exploited legal loopholes, continued having children even while under investigation, and weaponized the legal system against surrogates who resisted. The narrative powerfully contrasts the parents' wealth and privilege with the children's suffering, while highlighting how surrogates themselves were deceived about the scale of the operation. The report raises profound questions about reproductive rights, child protection, and the ethical boundaries of commercial surrogacy in an unregulated market.",
+    "summary_zh": "这篇调查报道揭露了古军·萱和西尔维亚·张这对富有夫妇的令人发指的系统性儿童虐待案。他们通过代孕生育了二十七个孩子，却在阿卡迪亚的豪宅中对孩子们实施系统性暴力。文章不仅揭露了保姆用棍棒和鞋子殴打儿童，而父母却在监控录像前大笑的细节，还深入剖析了美国代孕行业的监管真空。报道揭示了这对夫妇如何利用法律漏洞，在接受调查期间继续生育，并利用法律制度对抗反抗的代孕母亲。叙事有力地对比了父母的财富特权与孩子们的苦难，同时强调代孕母亲们被蒙在鼓里，不知这场规模宏大的运作。该报道引发了关于生育权利、儿童保护和商业代孕伦理边界的深刻问题。",
+    "best_quote_en": "You can't have consent when you sign a contract based on misrepresentations. Each plaintiff in this case surrendered her body to the couple's enterprise, and she did so only because they deceived her into believing she was helping a single loving family conceive this one child.",
+    "best_quote_zh": "当你基于虚假陈述签署合同时，就不可能有真正的同意。本案中的每一位原告都将自己的身体交给了这对夫妇的事业，而她们这样做，仅仅是因为她们被欺骗，以为自己正在帮助一个充满爱的家庭孕育一个孩子。"
   }
 ]
