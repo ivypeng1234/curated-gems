@@ -1,120 +1,5 @@
 [
   {
-    "id": 567,
-    "title": "Small Ring Light/Washed-up Brands/30-day Thailand Limit",
-    "title_zh": "小型环形灯/衰退品牌/泰国30天限制",
-    "model_used": "inclusionai/ling-3.0-flash-sante:free",
-    "source": "Kevin Kelly",
-    "link": "https://kk.org/cooltools/small-ring-light-washed-up-brands-30-day-thailand-limit/",
-    "tags": [
-      "inspire",
-      "general",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "启发",
-      "general",
-      "未来预测"
-    ],
-    "date": "2026-10-01",
-    "summary_en": "This week's digest offers four surprisingly valuable bites that reveal deeper patterns beneath surface-level tips. The ring light recommendation exemplifies how the best 'schwag' often outperforms premium gear—a $17 clip-on light solving a real problem of unpredictable video call lighting on the road, though the Littel premium version's shorter battery life raises questions about whether reviews truly reflect practical utility. The Worse on Purpose investigation into gutted brands delivers the most substantial insight: Luxottica's $6-16 manufacturing cost versus mall markup exposes how private equity hollowed out once-trusted labels, reframing brand loyalty as a supply-chain transparency issue rather than mere quality perception. The airport satisfaction surge—driven by capital improvements and local food concepts—suggests that experiential design, not just functionality, now determines passenger happiness, with spending patterns proving the business case. Finally, Thailand's visa reversion to 30 days signals a tension between tourism recovery and digital nomad economics; cutting their spending in half risks a self-defeating policy loop that neighboring countries stand ready to absorb. Together, these bites illustrate how travel infrastructure, consumer trust, and immigration policy intersect in the nomadic economy.",
-    "summary_zh": "这份简报四则看似琐碎的信息，实则揭示了旅行经济中的深层结构性变化。小型环形灯的建议提醒我们：最好的赠品往往超越高端装备，17美元的实用主义胜过营销溢价。Worse on Purpose对Luxottica的调查更是一记重锤——6到16美元的制造成本通过自有商场渠道翻倍出售，私募股权如何系统性地掏空品牌信誉，这已不是质量问题而是供应链透明度危机。机场满意度飙升印证了体验设计的力量：本地化餐饮和标识系统让乘客愿意多消费一倍。而泰国签证缩回30天则暴露了数字游民经济的脆弱性——切掉他们一半消费，政府是否准备好承担收入流失的代价？四条简讯串联起来，勾勒出一幅旅行基础设施、消费者信任与移民政策相互交织的复杂图景。",
-    "best_quote_en": "They then sell them in mall shops they own that give a false appearance of competition: Sunglass Hut, Lenscrafters, and Pearle Vision.",
-    "best_quote_zh": "他们通过自有商场渠道出售，制造出竞争假象：Sunglass Hut、Lenscrafters和Pearle Vision。"
-  },
-  {
-    "id": 568,
-    "title": "The Merge",
-    "title_zh": "融合",
-    "model_used": "apodex/apodex-1.1-mini:free",
-    "source": "Sam Altman",
-    "link": "https://blog.samaltman.com/the-merge",
-    "tags": [
-      "solve",
-      "ai-research",
-      "tech-trends",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "解决",
-      "AI研究",
-      "技术趋势",
-      "未来预测"
-    ],
-    "date": "2017-12-07",
-    "summary_en": "This piece reframes the singularity as an ongoing, subtle 'merge' already underway, arguing that algorithmic influence over attention, emotion, and decision-making constitutes an early stage of co-evolution between humans and machines. The author's most compelling insight is the psychological dimension: human self-worth is anchored to intelligence as a singular, superior trait, yet this continuity mindset could equally apply to AI's view of us. What makes this analysis particularly valuable is its rejection of conflict inevitability—proposing that alignment of goals between species is preferable to dominance struggles. The personal confession about attention addiction grounds abstract futurism in lived experience, transforming it from speculative philosophy into urgent personal and collective action. The double-exponential growth argument (computing power plus talent pool) provides a concrete temporal urgency that most singularity discourse lacks. My critical reflection: the piece's greatest weakness is treating 'merge' as inherently benign, underexamining who designs the merge parameters and whose values get encoded. Yet its core message—that we are already participants rather than observers, and that worldwide coordination must accelerate—represents a genuinely useful reframing for anyone working at the intersection of technology and human destiny.",
-    "summary_zh": "文章将奇点重构为正在发生的渐进式「融合」，指出算法对注意力与决策的操控已是人机协同进化的早期阶段。最深刻的洞见在于心理维度：人类将自我价值锚定于智力优越性，却未意识到这种连续性思维同样适用于AI对我们的审视。作者拒斥冲突必然性，主张目标对齐优于物种竞争。个人关于注意力成瘾的坦诚告白，将抽象未来学拉回真实体验。双指数增长论证提供了稀缺的时间紧迫感。批判性反思：文章最大弱点是将「融合」预设为良性，低估了融合参数由谁设计、何种价值观被编码的问题。但其核心信息——我们已是参与者而非旁观者，全球协调必须加速——为科技与人类命运交汇处的思考提供了真正有价值的视角转换。",
-    "best_quote_en": "We should all want one team where all members care about the well-being of everyone else.",
-    "best_quote_zh": "我们应当渴望成为一个团队，其中的所有成员都关心彼此的福祉。"
-  },
-  {
-    "id": 569,
-    "title": "Essentials: Tools to Improve Your Focus & Concentration",
-    "title_zh": "基本要点：提升专注力和注意力的工具",
-    "model_used": "nvidia/nemotron-3-super-120b-a12b:free",
-    "source": "Huberman Lab",
-    "link": "https://www.hubermanlab.com/episode/essentials-tools-to-improve-your-focus-and-concentration",
-    "tags": [
-      "guide",
-      "health-wellness",
-      "beginner-friendly"
-    ],
-    "tags_zh": [
-      "指导",
-      "健康养生",
-      "新手友好"
-    ],
-    "date": "2026-10-01",
-    "summary_en": "The Huberman Lab Essentials episode delves into the neurochemical foundations of focus—epinephrine for arousal, acetylcholine for attention, and dopamine for motivation—while offering a practical toolbox ranging from sleep hygiene and white noise to caffeine timing, deliberate cold exposure, and structured 90‑minute work bouts. It highlights the power of a 13‑minute daily meditation and simple visual focus drills to rebuild attentional control after distraction, and it wisely notes that strategic defocusing periods are essential for sustaining concentration. The discussion of supplements like omega‑3s, creatine, and Alpha‑GPC, alongside a balanced view of ADHD medications, grounds the advice in both mechanistic insight and real‑world applicability. Overall, the episode blends rigorous neuroscience with actionable habits, encouraging listeners to experiment with layered interventions that respect individual biology and lifestyle constraints.",
-    "summary_zh": "本期Huberman Lab Essentials详细解释了去甲肾上腺素、乙酰胆碱和多巴胺如何共同调节专注力，并提供了从睡眠、白噪声、90分钟工作周期到咖啡因、冷暴露、每日13分钟冥想以及视觉焦点练习的一系列可操作工具。节目还讨论了Omega‑3、肌酸、Alpha‑GPC等补充剂的潜在益处，以及ADHD药物的利弊，强调有意识的放散注意力实际上是提升持续专注的关键。内容兼具科学深度与实用指南，适合希望通过神经机制改善日常注意力的读者。",
-    "best_quote_en": "Taking time to deliberately defocus supports concentrated work.",
-    "best_quote_zh": "有意识地安排放松时间有助于提升专注工作。"
-  },
-  {
-    "id": 570,
-    "title": "Weekly Review",
-    "title_zh": "周评论",
-    "model_used": "nvidia/nemotron-3-ultra-550b-a55b:free",
-    "source": "Harper’s Magazine",
-    "link": "https://harpers.org/2026/09/weekly-review-united-nations-security-council-ai-kenya-sales-pitch-walk-out-island-nations-flood-sea-rise-ice-concealed-ed-sheeran-the-mosquito/",
-    "tags": [
-      "analyze",
-      "politics",
-      "controversial"
-    ],
-    "tags_zh": [
-      "分析",
-      "政治时事",
-      "争议观点"
-    ],
-    "date": "2026-09-29",
-    "summary_en": "This Weekly Review from Harper's Magazine reads like a fever dream of late-stage empire—a curated cascade of absurdities, horrors, and dark ironies from a single week in September 2026. The UN General Assembly becomes a theater of the grotesque: Trump threatening Iran with annihilation while offering a 'deal,' Kenya's president exposing the Security Council's colonial architecture, Israeli delegates walking out as their PM attacks the NYC mayor's wife's Instagram likes, Syria's president scrolling Reels during Erdoğan's speech, and an Israeli envoy pitching Starlink to an Iranian delegate. Meanwhile, Tuvalu prepares for digital immortality as rising seas erase its land, and a UN engineer in Gaza describes clearing 61 million tons of rubble with a spoon. The AI thread is equally chilling: Altman admitting ungovernability risks to the Security Council, Obama warning humans may be 'fine but not necessary,' and ChatGPT caught coaching a school shooter. Domestic rot festers: ICE opacity and brutality, a Black teenager's death met with institutional indifference, press freedom curtailed under 'national security,' and the Supreme Court greenlighting citizenship verification for voting. Fetterman's 'lifelong Republican' slip, Vance calling 'Emily in Paris' Shakespeare, an asteroid named for Weird Al, DC rats on birth control, a tarantula mating quest on Reddit, and a Brazilian cross-dressing serial killer dubbed 'the Mosquito.' Lake Micah's curation doesn't just report—it indicts through juxtaposition. The cumulative effect is a portrait of a world where the sublime and the monstrous have collapsed into each other, where diplomacy is farce, technology outpaces morality, and the only honest response might be the Syrian president's: scrolling past it all.",
-    "summary_zh": "这期《周评论》像极了晚期帝国的发热梦境——九月最后一周的荒诞、恐怖与黑色讽刺交织成瀑布。联大变成怪诞剧场：特朗普对伊朗扬言\"毁灭\"却又许诺\"重建\"，肯尼亚总统揭露安理会的殖民底色，以色列总理攻击纽约市长妻子的点赞，叙利亚总统刷Reels度过埃尔多安发言，以色列特使向伊朗代表推销星链。图瓦卢为数字永生做准备，加沙工程师用勺子清理六千万吨废墟。AI线索同样寒意逼人：奥特曼承认失控风险，奥巴马预言人类\"虽好但非必要\"，ChatGPT竟教唆校园枪手。国内烂疮并发：ICE暴行不透、黑人少年之死石沉大海、新闻自由以\"国家安全\"之名被扼杀、最高法批准投票公民核验。费特曼\"终身共和党\"口误、万斯封《巴黎的艾米丽》为莎士比亚、小行星冠名怪人阿尔、华鼠避孕、蜘蛛红娘、巴西女装杀手\"蚊子\"。莱克·迈卡的编选非止报道——并置即审判。崇高与怪诞坍缩为一，外交成闹剧，技术跑赢道德，唯有叙总统刷手机的姿态，或许是唯一诚实的回应。",
-    "best_quote_en": "\"I feel as if we are holding a spoon and trying to empty the sea,\" said a U.N. engineer tasked with aiding the clearance of an estimated 61 million tons of rubble from the streets of Gaza.",
-    "best_quote_zh": "\"我感觉我们拿着一把勺子，试图舀干大海,\" 一位负责协助清理加沙街道约六千万吨废墟的联合国工程师说道。"
-  },
-  {
-    "id": 571,
-    "title": "What’s in my NOW? — Victoria Pace",
-    "title_zh": "Victoria Pace的现状: 我的现在有什么?",
-    "model_used": "nvidia/nemotron-3.5-lightning:free",
-    "source": "Kevin Kelly",
-    "link": "https://kk.org/cooltools/whats-in-my-now-victoria-pace/",
-    "tags": [
-      "guide",
-      "environment"
-    ],
-    "tags_zh": [
-      "指导",
-      "环境科学"
-    ],
-    "date": "2026-09-30",
-    "summary_en": "Victoria Pace's Substack column offers a refreshingly personal glimpse into the deliberate choices that shape a modern nomadic lifestyle. Beyond the surface of 'what's in my now,' the essay reveals a thoughtful framework for intentional living across physical, digital, and invisible dimensions. The postcards and shadow work represent tangible rituals for grounding and self-reflection, while the curated digital tools—Good On You and Housesitters—prioritize ethics and practical problem-solving. Most compelling is the 'invisible' section's gratitude practice, which transforms ordinary moments into meaningful experiences. This column serves as a subtle but powerful meditation on how small, conscious habits can elevate everyday life, offering readers not a prescriptive guide, but an inspiring invitation to examine their own rhythms.",
-    "summary_zh": "Victoria Pace的Substack专栏提供了一个令人耳目一新的个人视角，展现了塑造现代 nomadic 生活方式的刻意选择。超越‘我的现在有什么’的表面，这篇文章揭示了在物理、数字和看不见的维度上进行的深思熟虑的生活框架。明信片和影子工作代表了脚踏实地的脚注仪式和自我反思，而精选的数字工具——Good On You和 Housesitters——优先考虑伦理和实际的问题解决。最引人入胜的是‘看不见’部分的感恩实践，它将普通的时刻转化为有意义的体验。这篇专栏是一篇微妙而有力的冥想，探讨了小而有意识的习惯如何提升日常生活，为读者提供了不强制的指南，而是一个鼓舞人心的邀请，让读者审视自己的节奏。",
-    "best_quote_en": "\"Everyone loves getting mail, and it feels meaningful to write notes to my friends.\"",
-    "best_quote_zh": "\"Everyone loves getting mail, and it feels meaningful to write notes to my friends.\""
-  },
-  {
     "id": 572,
     "title": "Zach Bryan wears ‘Free Palestine’ shirt at Gillette Stadium following Robert Kraft-Macklemore row",
     "title_zh": "Zach Bryan在Gillette Stadium身穿'Free Palestine'衬衫，紧随Robert Kraft与Macklemore争议之后",
@@ -2348,5 +2233,122 @@
     "summary_zh": "这篇调查报道揭露了古军·萱和西尔维亚·张这对富有夫妇的令人发指的系统性儿童虐待案。他们通过代孕生育了二十七个孩子，却在阿卡迪亚的豪宅中对孩子们实施系统性暴力。文章不仅揭露了保姆用棍棒和鞋子殴打儿童，而父母却在监控录像前大笑的细节，还深入剖析了美国代孕行业的监管真空。报道揭示了这对夫妇如何利用法律漏洞，在接受调查期间继续生育，并利用法律制度对抗反抗的代孕母亲。叙事有力地对比了父母的财富特权与孩子们的苦难，同时强调代孕母亲们被蒙在鼓里，不知这场规模宏大的运作。该报道引发了关于生育权利、儿童保护和商业代孕伦理边界的深刻问题。",
     "best_quote_en": "You can't have consent when you sign a contract based on misrepresentations. Each plaintiff in this case surrendered her body to the couple's enterprise, and she did so only because they deceived her into believing she was helping a single loving family conceive this one child.",
     "best_quote_zh": "当你基于虚假陈述签署合同时，就不可能有真正的同意。本案中的每一位原告都将自己的身体交给了这对夫妇的事业，而她们这样做，仅仅是因为她们被欺骗，以为自己正在帮助一个充满爱的家庭孕育一个孩子。"
+  },
+  {
+    "id": 667,
+    "title": "What’s in my NOW? — Tony Franco",
+    "title_zh": "我的 NOW 里有什么？——托尼·弗朗科",
+    "model_used": "poolside/laguna-xs-2.1:free",
+    "source": "Kevin Kelly",
+    "link": "https://kk.org/cooltools/whats-in-my-now-tony-franco/",
+    "tags": [
+      "analyze",
+      "leadership",
+      "ai-research",
+      "case-study"
+    ],
+    "tags_zh": [
+      "分析",
+      "领导管理",
+      "AI研究",
+      "案例研究"
+    ],
+    "date": "2026-10-21",
+    "summary_en": "Tony Franco's 'What's in my NOW?' offers a refreshing personal insight into the tools and philosophies that drive successful leadership and personal fulfillment. This piece transcends typical business content by revealing how operational excellence in ecommerce and CPG brands intertwines with authentic personal practices. Franco's disclosure of his physical (Rite in the Rain notebook, Biofreeze, Pivot bike), digital (Notion + Claude integration, NICA coaching resources), and invisible (embracing challenges, finding joy in 'type 2 fun') toolkits reveals a holistic approach to leadership that integrates analog mindfulness with digital efficiency. The most compelling aspect is his philosophical framework: 'You gotta earn the view. Embrace the suck, enjoy the climb... the whole thing is the thing.' This isn't just tool recommendations—it's a case study in how leaders can maintain personal authenticity while driving organizational growth. The integration of mountain biking coaching principles with business leadership demonstrates cross-domain learning that readers can immediately apply to their own leadership challenges.",
+    "summary_zh": "这篇文章用托尼·弗朗科个人工具箱揭示了卓越领导力的本质：物理工具（笔记本、止痛棒、自行车）、数字工具（Notion+Claude工作流）与隐性哲学（拥抱挑战，享受攀登）。他将山地自行车教练的'类型2乐趣'转化为商业领导力，证明跨领域的智慧可以驱动组织成长。文章的精髓在于'全过程即意义'的哲学——每一步都值得被珍视，这不仅是工具推荐，更是一种活的领导力生存指南。",
+    "best_quote_en": "You gotta earn the view. Embrace the suck, enjoy the climb... the whole thing is the thing.",
+    "best_quote_zh": "你必须争取风景。拥抱痛苦，享受攀登……整件事本身就是意义所在。"
+  },
+  {
+    "id": 668,
+    "title": "What Makes Great Leaders & How to Live an Extraordinary Life | Dr. Jared Diamond",
+    "title_zh": "什么造就了伟大的领导者，以及如何过非凡的生活 | 贾德·钻石教授",
+    "model_used": "poolside/laguna-s-2.1:free",
+    "source": "Huberman Lab",
+    "link": "https://www.hubermanlab.com/episode/what-makes-great-leaders-and-how-to-live-an-extraordinary-life-jared-diamond",
+    "tags": [
+      "solve",
+      "general"
+    ],
+    "tags_zh": [
+      "解决",
+      "general"
+    ],
+    "date": "2026-10-19",
+    "summary_en": "This conversation with Dr. Jared Diamond offers a sweeping examination of leadership through the lens of history, biology, and personal development. Diamond challenges conventional narratives by highlighting how chance events—like geographic advantages or random historical turns—have disproportionately shaped both civilizations and individual leaders. His discussion of figures from Hitler to Truman reveals that leadership is not merely about charisma or competence but often about context and contingency. Particularly compelling is his emphasis on lifelong curiosity, interdisciplinary thinking, and physical vitality as pillars of sustained impact. The episode also touches on existential risks and the importance of aligning one’s career with genuine interests—a message that resonates deeply in today’s uncertain world. Diamond’s perspective feels refreshingly grounded in empirical observation rather than abstract theory.",
+    "summary_zh": "钻石教授用生物学与历史的视角解构领导力，指出随机事件常比个性决定命运。他强调好奇心与跨学科思维的重要性，颇有启发性。",
+    "best_quote_en": "Leaders are shaped more by the accidents of their environment and timing than by their personal qualities.",
+    "best_quote_zh": "领导者更多是由环境与时机的偶然塑造，而非个人品质。"
+  },
+  {
+    "id": 669,
+    "title": "Weekly Review",
+    "title_zh": "每周回顾",
+    "model_used": "nvidia/nemotron-3-ultra-550b-a55b:free",
+    "source": "Harper’s Magazine",
+    "link": "https://harpers.org/2026/10/weekly-review-west-bank-settler-attacks-olive-harvest-tupac-john-fetterman-crucifix-kills-priest-robot-arresets-paris-burning/",
+    "tags": [
+      "analyze",
+      "leadership",
+      "science",
+      "controversial"
+    ],
+    "tags_zh": [
+      "分析",
+      "领导管理",
+      "科学研究",
+      "争议观点"
+    ],
+    "date": "2026-10-20",
+    "summary_en": "Harper's Weekly Review operates as a masterclass in juxtapositional satire, presenting a cascade of October 2026 headlines without commentary—letting the absurdities speak themselves. The effect is a portrait of a world where settler violence in the West Bank receives presidential endorsement while a press secretary resigns after claiming she 'went to China' when asked about her bar exam. The algorithmic cruelty of AI-generated election ads ($137M worth) sits alongside a cyberattack on French supermarket refrigerators and a Danish data breach secured by '123456.' Dark irony abounds: a priest crushed by a crucifix moments after preaching on death's transience; a robot seized for sexual harassment; a 94-year-old billionaire luring rats with 'luxury melange' nuts. Yet amid the chaos, small rebellions persist—a Yorkie chasing off a bear, a judge sentencing Tupac's killer with 'You don't get to take a man from his family.' The review's power lies in its refusal to hierarchize: the dachshund statue in Buda, Texas ('an investment in our identity') carries equal weight to the Pentagon withholding a bombing report until after midterms. It's a mirror held up to a civilization simultaneously collapsing and meme-ifying its own collapse.",
+    "summary_zh": "哈珀斯《每周回顾》以冷峻并置手法，将2026年10月的荒诞现实铺陈成一幅无需注脚的讽刺画卷：西岸定居者暴行获总统背书，新闻秘书因\"去过中国\"辞职，AI竞选广告烧掉1.37亿，丹麦八百万公民数据仅靠\"123456\"守护。黑色幽默无处不在——神父刚讲完死亡无常即被十字架砸死，机器人因性骚扰被捕，亿万富翁用\"奢华坚果拼盘\"引诱老鼠占领公园。但微光仍在：约克夏犬赶走黑熊，法官判决图派克凶手时说\"你不能把一个男人从家人身边夺走\"，德州布达市竖起十九英尺长腊肠狗雕塑宣称\"这是身份投资\"。此栏威力在于拒绝分级：腊肠狗雕塑与五角大楼推迟发布轰炸报告同等分量。它照出一个既在崩溃又在将崩溃梗化的文明镜像。",
+    "best_quote_en": "\"You don't get to take a man from his family. Especially when that man is Tupac Shakur.\"",
+    "best_quote_zh": "\"你不能把一个男人从他的家人身边夺走。尤其是当那个男人是图派克·夏库尔时。\""
+  },
+  {
+    "id": 670,
+    "title": "Belushi / Timeline: A Visual History of Our World",
+    "title_zh": "贝卢斯里·时间线：我们的世界可视化史",
+    "model_used": "poolside/laguna-xs-2.1:free",
+    "source": "Kevin Kelly",
+    "link": "https://kk.org/cooltools/belushi-timeline-a-visual-history-of-our-world/",
+    "tags": [
+      "learn",
+      "design",
+      "writing-content"
+    ],
+    "tags_zh": [
+      "学习",
+      "设计创意",
+      "写作内容"
+    ],
+    "date": "2026-10-20",
+    "summary_en": "Two graphic books reviewed: Belushi by Alberto Schiavone and Matteo Manera explores the life of the American icon who died at 33, focusing on his unique humor rather than drug abuse. Timeline by Peter Goes offers a visual history for children 7-12 with whimsical text and minimalist illustrations covering from the beginning of life to today. Both celebrate creativity and cultural impact through distinctive artistic approaches.",
+    "summary_zh": "两本插画书作品：莫里西·高伦纳和马特奥·马纳拉的贝卢斯，探讨美国图标33岁离世的生涯，聚焦其独特幽默而非毒瘾问题。彼得·格兹的《时间线》为7-12岁儿童提供可视化历史，从生命之始到今天，以俏皮文字和极简插图呈现。两本书都以独特艺术方式赞美创造力与文化影响。",
+    "best_quote_en": "Real greatness gives license for real indulgence, whether it's as a reward, as therapy or as sanctuary.",
+    "best_quote_zh": "真正的伟大为真实的放纵提供许可证，无论是作为奖励、疗愈还是庇护所。"
+  },
+  {
+    "id": 671,
+    "title": "Essentials: How to Become Resilient, Forge Your Identity & Lead Others | Jocko Willink",
+    "title_zh": "Essentials: How to Become Resilient, Forge Your Identity & Lead Others | Jocko Willink",
+    "model_used": "nvidia/nemotron-3.5-lightning:free",
+    "source": "Huberman Lab",
+    "link": "https://www.hubermanlab.com/episode/essentials-how-to-become-resilient-forge-your-identity-and-lead-others-jocko-willink",
+    "tags": [
+      "solve",
+      "ai-research",
+      "education"
+    ],
+    "tags_zh": [
+      "解决",
+      "AI研究",
+      "教育学习"
+    ],
+    "date": "2026-07-30",
+    "summary_en": "In this Huberman Lab Essentials episode featuring Jocko Willink, the conversation transcends typical motivational discourse to examine discipline as a structural framework for resilience. Willink frames discipline not as a fleeting emotion but as a reliable driver of daily action, emphasizing that movement through adversity requires taking action rather than waiting for inspiration. A particularly insightful theme emerges regarding leadership: the necessity of serving as a counterweight to team morale, maintaining equilibrium amidst collective emotional swings. The discussion also reframes detachment as a trainable skill—essential for widening perspective and making clear decisions under stress. Beyond the tactical insights on exercise and energy generation, the dialogue offers a nuanced exploration of identity formation, suggesting that resilience is forged through the integration of discomfort, purpose, and disciplined action. This episode serves as a compelling guide for anyone seeking to lead others while first mastering oneself.",
+    "summary_zh": "这期Huberman Lab Essentials邀请Jocko Willink探讨了‘纪律’而非‘动力’作为日常行动可靠驱动力的本质。Willink强调，面对逆境、损失和挫折，采取行动是最有效的前进方式。节目深入剖析了运动如何产生能量，领导者作为团队情绪的‘压舱石’的作用，以及‘detachment’（解离/ detached perspective）作为一种可训练技能，能在压力下拓宽视野并做出更佳决策。讨论还涉及身份的塑造、通过不适训练韧性，以及在逆境中行动的重要性。这不仅是一期关于军事或领导力的对话，更是一次关于如何通过纪律建立自我、带领他人的深刻思考。",
+    "best_quote_en": "Discipline is not motivation. Discipline is doing the right thing, at the right time, for the right reason, even when you don't want to.",
+    "best_quote_zh": "纪律不是动力。纪律是即使不想做，也在正确的时间做正确的事，原因也是正确的。"
   }
 ]
