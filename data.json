@@ -1,120 +1,5 @@
 [
   {
-    "id": 572,
-    "title": "Zach Bryan wears ‘Free Palestine’ shirt at Gillette Stadium following Robert Kraft-Macklemore row",
-    "title_zh": "Zach Bryan在Gillette Stadium身穿'Free Palestine'衬衫，紧随Robert Kraft与Macklemore争议之后",
-    "model_used": "inclusionai/ling-3.0-flash-sante:free",
-    "source": "NME",
-    "link": "https://www.nme.com/news/music/zach-bryan-wears-free-palestine-shirt-at-gillette-stadium-following-robert-kraft-macklemore-row-3972037?utm_source=rss&utm_medium=rss&utm_campaign=zach-bryan-wears-free-palestine-shirt-at-gillette-stadium-following-robert-kraft-macklemore-row",
-    "tags": [
-      "solve",
-      "music-arts",
-      "controversial"
-    ],
-    "tags_zh": [
-      "解决",
-      "音乐艺术",
-      "争议观点"
-    ],
-    "date": "2026-10-03",
-    "summary_en": "This article documents a politically charged moment in live music: Zach Bryan's deliberate choice to wear a 'Free Palestine' shirt at Gillette Stadium — a venue owned by Robert Kraft, the very figure at the center of the Macklemore controversy. The piece traces the escalating chain of events: Macklemore's pro-Palestine speech at Ed Sheeran's tour, his removal from Gillette Stadium, the solidarity withdrawals by FINNEAS and others, the mutual donations between Macklemore and Kraft, and now Bryan's symbolic statement at the same contested venue. What makes this significant is not just the political statement itself, but the theatrical irony — Bryan performing to a sold-out country crowd at the stadium Kraft controls, wearing the exact message that got Macklemore banned. The article raises uncomfortable questions about who gets to speak politically in commercial spaces, and whether solidarity statements carry different weight depending on the artist's genre and audience. The narrative arc suggests that the Kraft-Macklemore row has opened a door that can't be closed: artists are now compelled to take sides, and venues that once seemed neutral are revealed as political actors. The story remains unfolding, with Bryan's second show still ahead.",
-    "summary_zh": "Zach Bryan在Gillette Stadium穿\"Free Palestine\"衬衫的举动，堪称一场精心设计的政治表态——这个场地正是Robert Kraft控制的、此前以Macklemore言论为由将其禁演的同一空间。文章串联起整个争议链条：Macklemore的演讲、被撤、同行声援、双方捐款，直至Bryan的再次挑战。最耐人寻味的是这种\"以场地之矛攻场地之盾\"的戏剧性——当商业空间标榜中立时，艺术家的身体本身就成了政治宣言。这不仅仅是音乐新闻，而是关于谁有权在公共空间发声、谁的声音被允许存在的深层追问。",
-    "best_quote_en": "When those in power try to silence our calls for liberation, art will always be a form of resistance.",
-    "best_quote_zh": "当权者试图让我们的解放呼声沉默时，艺术永远是一种抵抗形式。"
-  },
-  {
-    "id": 573,
-    "title": "NYFF 2026: Bardi, Heil Jupiter!",
-    "title_zh": "NYFF 2026：《巴尔迪》与《赫伊尔·木星》",
-    "model_used": "poolside/laguna-xs-2.1:free",
-    "source": "RogerEbert.com",
-    "link": "https://www.rogerebert.com/festivals/nyff-2026-bardi-heil-jupiter",
-    "tags": [
-      "learn",
-      "music-arts",
-      "beginner-friendly"
-    ],
-    "tags_zh": [
-      "学习",
-      "音乐艺术",
-      "新手友好"
-    ],
-    "date": "2026-10-02",
-    "summary_en": "This New York Film Festival coverage presents two contrasting cinematic approaches through Tala Hadid's 'Bardi' and Carlos Reygadas' 'Heil Jupiter!'. 'Bardi' offers a meditative anthropological exploration of Morocco's Tbourida tradition, immersing viewers in the spiritual connection between riders and horses while examining themes of masculine identity, intergenerational transmission, and cultural resistance to female participation. The film's documentary-fiction hybrid achieves beauty through patient observation, though its leisurely pace occasionally loses narrative momentum. Conversely, 'Heil Jupiter!' represents ambitious but ultimately inscrutable experimental filmmaking that employs shocking imagery and episodic structure to address immigration, sexuality, and oppression, yet fails to coalesce into meaningful artistic statement. While 'Bardi' succeeds in revealing cultural depth and human connection, 'Heil Jupiter!' struggles with thematic coherence despite its provocative intentions, raising questions about the balance between artistic ambition and narrative clarity.",
-    "summary_zh": "《巴尔迪》以温柔的摄影笔触记录摩洛哥骑术传统的精神世界，镜头轻柔地捕捉到 rider 与 horse 之间那份羁绊，也映照出世代间对传统的传承与女性对这一仪式的包容。相比之下，《赫伊尔·木星》以疯狂的画面拼贴尝试讲述抗争与压迫的议题，却因结构松散、概念过重，难以触及观众的心灵。前者静谧见证人情，后者狂放却失去方向。",
-    "best_quote_en": "Hadid plays these dramas out with the intimacy and proximity of narrative film, but keeps her doc moving at a leisurely, meditative pace. It's less sports doc than anthropology, as her ethereal style keeps us locked into the spiritual connection between man and beast.",
-    "best_quote_zh": "哈迪德以叙事电影的亲密感展开这些戏码，却保持纪录片的冷静节奏。她的空灵风格不只是体育纪录片，而是人类与兽的精神联结。"
-  },
-  {
-    "id": 574,
-    "title": "The Dandelion and the Meaning of Life: G.K. Chesterton on How to Live in Wonder",
-    "title_zh": "蒲公英与人生意义：G.K. 切斯顿论如何在惊奇中生活",
-    "model_used": "poolside/laguna-xs-2.1:free",
-    "source": "The Marginalian",
-    "link": "https://www.themarginalian.org/2026/10/03/g-k-chesterton-dandelion/",
-    "tags": [
-      "solve",
-      "design",
-      "writing-content",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "解决",
-      "设计创意",
-      "写作内容",
-      "未来预测"
-    ],
-    "date": "2026-10-03",
-    "summary_en": "This contemplative piece explores the profound philosophical question of how we create meaning in an indifferent universe. Through the lens of a simple dandelion encountered during a morning run, the author draws on G.K. Chesterton's wisdom to argue that meaning isn't discovered but actively created in the brief interlude of conscious existence between chaos and chaos. Chesterton's insight—that childhood wonder represents a 'miraculous world' rather than merely a world full of miracles—challenges our modern numbness to existence's fundamental improbability. The article masterfully connects the mundane (a weed in a garden) to the cosmic (our place in an indifferent universe), suggesting that recognizing our 'astonishment at our own existence' is the true art of living. This isn't escapist optimism but a radical acceptance of existence's gift, demanding we cultivate wonder as both philosophical stance and creative practice. The piece ultimately argues that meaning-making begins with awakening from the myth of predetermined purpose to embrace the responsibility and joy of creating significance in our brief conscious moment.",
-    "summary_zh": "这篇思辨性文章通过清晨跑步时路边一朵蒲公英的思考，探讨了我们如何在冷漠宇宙中创造意义。切斯顿的智慧揭示，意义并非被发现，而是在意识的短暂时刻中主动创造。将寻常景物与宇宙思想巧妙连接，呼吁我们从意义的神话中觉醒，拥抱惊奇作为生活的艺术。",
-    "best_quote_en": "No man knows how much he is an optimist, even when he calls himself a pessimist, because he has not really measured the depths of his debt to whatever created him and enabled him to call himself anything. At the back of our brains... [there is] a forgotten blaze or burst of astonishment at our own existence.",
-    "best_quote_zh": "没有人知道自己有多乐观，即便他自称悲观，因为他从未真正衡量过他对创造他的那些东西的债务，也没有意识到自己竟能成为自己所谓的一切。在我们脑后...有一股被遗忘的光热或惊讶之火，对我们的存在如此惊讶。"
-  },
-  {
-    "id": 575,
-    "title": "‘Behemoth!’ Review: Tony Gilroy & Pedro Pascal Turn Music, Memory & The Burden Of Family Legacy Into A Graceful Crescendo",
-    "title_zh": "《巨兽！》评论：Tony Gilroy与Pedro Pascal将音乐、记忆与家族遗产的重担化为优雅的高潮",
-    "model_used": "inclusionai/ling-3.0-flash-sante:free",
-    "source": "The Playlist",
-    "link": "https://theplaylist.net/behemoth-review-tony-gilroy-pedro-pascal-20261002/",
-    "tags": [
-      "update",
-      "music-arts",
-      "case-study"
-    ],
-    "tags_zh": [
-      "动态",
-      "音乐艺术",
-      "案例研究"
-    ],
-    "date": "2026-10-03",
-    "summary_en": "Tony Gilroy's intimate drama follows Alex Serian, a nomadic cellist and former child prodigy, as he returns to Los Angeles after 20 years to face his dying mother and fractured family. Through music as both refuge and burden, the film explores legacy, longing, and the cost of a lifetime built around extraordinary talent. Pedro Pascal delivers a subtly terrific performance, while Olivia Wilde and Will Arnett add vibrant emotional texture.",
-    "summary_zh": "Tony Gilroy执导的细腻剧情片讲述大提琴手Alex Serian二十年后重返洛杉矶，面对病重的母亲与破碎的家庭。影片以音乐为线索，探讨遗产、渴望与天赋的代价。Pedro Pascal表演克制而动人，Olivia Wilde与Will Arnett亦贡献精彩层次。",
-    "best_quote_en": "Music isn't merely Alex's conduit to painful memory. It is his refuge and the place where he seems most fully alive.",
-    "best_quote_zh": "音乐不仅是Alex通往痛苦记忆的通道，更是他最后的避难所，也是他感到最真实活着的所在。"
-  },
-  {
-    "id": 576,
-    "title": "Every song on the ‘East Of Eden’ soundtrack",
-    "title_zh": "《伊甸园东》配乐中的每一首歌",
-    "model_used": "cohere/north-mini-code:free",
-    "source": "NME",
-    "link": "https://www.nme.com/news/tv/east-of-eden-soundtrack-every-song-3971682?utm_source=rss&utm_medium=rss&utm_campaign=east-of-eden-soundtrack-every-song",
-    "tags": [
-      "update",
-      "general"
-    ],
-    "tags_zh": [
-      "动态",
-      "general"
-    ],
-    "date": "2026-10-02",
-    "summary_en": "This article explores the soundtrack of Netflix's 'East of Eden' TV adaptation, highlighting composer Laura Karpman's score and notable song selections. The piece details how Karpman, known for 'American Fiction' and 'Lovecraft Country', created the show's musical landscape. While the series features only a few curated songs—Scott Joplin's 'The Easy Winners', The Rolling Stones' 'Paint It, Black', and the WWI marching tune 'Pack Up Your Troubles'—these selections serve specific narrative functions across the seven episodes. The content offers insights into contemporary adaptation strategies, bridging literary classic with modern musical tastes, and provides a comprehensive soundtrack guide for viewers interested in the intersection of television drama and curated music selection.",
-    "summary_zh": "这篇文章探讨了Netflix电视剧《伊甸园东》的配乐，重点介绍了作曲家劳拉·卡尔普曼（Laura Karpman）的工作和选曲策略。文章提到，卡尔普曼曾创作过《美国小说》、《惊奇小姐》和《洛夫克拉夫特国度》等作品。该剧仅在七集中插入了少数歌曲，包括斯科特·乔普林（Scott Joplin）的《The Easy Winners》、滚石乐队（The Rolling Stones）的《Paint It, Black》和一首第一次世界大战的进行曲《Pack Up Your Troubles In Your Old Kit-Bag, and Smile, Smile, Smile》。这些歌曲在叙事中起到了特定作用。文章揭示了当代改编如何将文学经典与现代音乐审美相结合，为观众提供了关于电视剧与精心挑选的音乐的见解。",
-    "best_quote_en": "The show’s score is by Laura Karpman, whose previous credits include American Fiction, Ms. Marvel, What If…?, and Lovecraft Country.",
-    "best_quote_zh": "该剧的配乐由劳拉·卡尔普曼（Laura Karpman）创作，她之前曾参与《美国小说》、《惊奇小姐》、《奇异博士》和《洛夫克拉夫特国度》等作品。"
-  },
-  {
     "id": 577,
     "title": "100 Objects #20: AA Sobriety Chip",
     "title_zh": "100个有趣事物 #20：AA戒酒芯片",
@@ -2350,5 +2235,122 @@
     "summary_zh": "这期Huberman Lab Essentials邀请Jocko Willink探讨了‘纪律’而非‘动力’作为日常行动可靠驱动力的本质。Willink强调，面对逆境、损失和挫折，采取行动是最有效的前进方式。节目深入剖析了运动如何产生能量，领导者作为团队情绪的‘压舱石’的作用，以及‘detachment’（解离/ detached perspective）作为一种可训练技能，能在压力下拓宽视野并做出更佳决策。讨论还涉及身份的塑造、通过不适训练韧性，以及在逆境中行动的重要性。这不仅是一期关于军事或领导力的对话，更是一次关于如何通过纪律建立自我、带领他人的深刻思考。",
     "best_quote_en": "Discipline is not motivation. Discipline is doing the right thing, at the right time, for the right reason, even when you don't want to.",
     "best_quote_zh": "纪律不是动力。纪律是即使不想做，也在正确的时间做正确的事，原因也是正确的。"
+  },
+  {
+    "id": 672,
+    "title": "Isle Of Wight Festival 2027 headliners and first wave of line-up announced",
+    "title_zh": "怀特岛音乐节2027年头牌与首波阵容公布",
+    "model_used": "nvidia/nemotron-3.5-super-vl:free",
+    "source": "NME",
+    "link": "https://www.nme.com/news/music/isle-of-wight-festival-2027-headliners-line-up-announced-3973887?utm_source=rss&utm_medium=rss&utm_campaign=isle-of-wight-festival-2027-headliners-line-up-announced",
+    "tags": [
+      "update",
+      "music-arts",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "动态",
+      "音乐艺术",
+      "未来预测"
+    ],
+    "date": "2026-10-23",
+    "summary_en": "Isle Of Wight Festival 2027 will take place at Seaclose Park in Newport from June 17 to 20, marking its 25th edition since the 2002 revival. Fatboy Slim headlines Friday, Robbie Williams closes Saturday, and Kings Of Leon top Sunday. Additional acts include Courteeners, Becky Hill, Myles Smith, Inhaler, The Cardigans, 5 Seconds Of Summer, Kaiser Chiefs, Rudimental, Bastille, and Cruz Beckham & The Breakers. More artists will be announced later. General tickets go on sale October 26 at 8am GMT, with a PayPal presale available for 48 hours from October 23. Festival director Caroline Giddings highlighted the multi-generational lineup and emphasized food, entertainment, and communal spaces as key parts of the experience.",
+    "summary_zh": "怀特岛音乐节2027年将于6月17日至20日在纽波特西克洛斯公园举行，标志着该节自2002年复办以来的第25届。周五由Fatboy Slim压轴，周六由罗比·威廉姆斯收官，周日由Kings Of Leon压轴。其他确认演出的艺人包括Courteeners、Becky Hill、Myles Smith、Inhaler、The Cardigans、5 Seconds Of Summer、Kaiser Chiefs、Rudimental、Bastille和Cruz Beckham & The Breakers。主办方表示未来数周将公布更多艺人。普通门票将于10月26日早上8点（GMT）公开发售，PayPal客户可在10月23日当天早上8点起享受48小时预售。节目总监Caroline Giddings表示，阵容涵盖不同年代和口味，食物、娱乐及社交空间同样是周末体验的重要组成部分。",
+    "best_quote_en": "Fatboy Slim, Robbie Williams and Kings of Leon each bring something different to the weekend.",
+    "best_quote_zh": "Fatboy Slim、罗比·威廉姆斯和Kings Of Leon各自为周末带来不同的精彩。"
+  },
+  {
+    "id": 673,
+    "title": "Seeking Truth: Tom Skerritt (1933-2026)",
+    "title_zh": "寻真之路：汤姆·斯克莱特（1933-2026）",
+    "model_used": "poolside/laguna-xs-2.1:free",
+    "source": "RogerEbert.com",
+    "link": "https://www.rogerebert.com/tributes/seeking-truth-tom-skerritt-1933-2026",
+    "tags": [
+      "analyze",
+      "general",
+      "case-study"
+    ],
+    "tags_zh": [
+      "分析",
+      "general",
+      "案例研究"
+    ],
+    "date": "2026-10-22",
+    "summary_en": "This tribute to the late character actor Tom Skerritt reveals far more than a simple obituary—it offers profound insights into the craft of acting itself. Through meticulous analysis of his career trajectory, we see how Skerritt embodied the ideal of the 'observer' who learned through immersion rather than formal training. His performances in 'Alien,' 'Top Gun,' and 'A River Runs Through It' demonstrate his unique ability to ground extraordinary narratives with authentic humanity. The article illuminates how great character actors function as anthropologists of the human condition, transforming personal observations into universal truths. Most significantly, it challenges the misconception that world-weary character roles are easy, revealing instead the complex history and intentional choices that made Skerritt's gravitas so compelling. His Emmy-winning television work alongside his film legacy shows a consistent dedication to truth-finding in every role, ultimately suggesting that his greatest performance was his commitment to discovering truth in all human experiences.",
+    "summary_zh": "这篇关于汤姆·斯克莱特的致敬之作远超简单的纪念文章，更提供了关于演艺工艺本身的深刻洞见。通过细致考察他的职业轨迹，我们看到斯克莱特如何以沉浸式学习而非正规训练的方式，成为理想的'观察者'。他在《异形》《顶级飞人》等作品中的表现，揭示了如何以真诚的人类性格格umming extraordinary narratives.文章阐明了杰出配角演员如何作为人类状态的人类学家，将个人观察转化为普遍真理。更关键的是，它挑战了'世界倦怕型'角色容易的误解，揭示斯克莱特表演力量的复杂历史与刻意选择。他的电视和电影作品延续着对真理的永恒追寻，这是他人生最伟大的表演。",
+    "best_quote_en": "There's a line that Stanton's Lucky says in the film: 'The truth of the universe is waiting.' Tom Skerritt didn't wait; he found that truth in everything he did.",
+    "best_quote_zh": "斯坦顿叫鲁基在电影中的一句台词：'宇宙的真理正在等着。'汤姆·斯克莱特没有等待；他在一切事物中找到了那真理。"
+  },
+  {
+    "id": 674,
+    "title": "The Wildest Bet Is the Winning Bet",
+    "title_zh": "The Wildest Bet Is the Winning Bet",
+    "model_used": "nvidia/nemotron-3.5-lightning:free",
+    "source": "The Marginalian",
+    "link": "https://www.themarginalian.org/2026/10/22/bet/",
+    "tags": [
+      "analyze",
+      "general",
+      "deep-dive"
+    ],
+    "tags_zh": [
+      "分析",
+      "general",
+      "深度分析"
+    ],
+    "date": "2026-10-23",
+    "summary_en": "Maria Popova's profound reflection explores existence as the universe's grand gamble against staggering odds. Through poetic meditation on life's improbable journey from stardust to consciousness, she reveals how our treasured reality emerges not from necessity but from cosmic risk-taking. The piece masterfully weaves together scientific wonder—from mitochondrial origins to hummingbird wings—with philosophical depth, suggesting that consciousness itself becomes the universe witnessing its own improbable creation. This isn't merely about probability but about embracing the 'wildest bet' that makes existence meaningful precisely because it could have been otherwise.",
+    "summary_zh": "Maria Popova深刻的反思将存在描述为宇宙对 staggering odds（惊人概率）的大胆博弈。通过对生命从尘埃到意识的不太可能的旅程的诗意冥想，她揭示了我们的珍贵现实并非源于必然，而是来自宇宙的风险承担。这篇文章巧妙地交织了从线虫到望远镜的科学奇迹与哲学深度，表明意识本身成为了宇宙见证其自身不太可能创造的媒介。这不仅仅是关于概率，更是关于拥抱‘最疯狂的赌注’，因为正是因为它本可以否则，所以使存在变得有意义。",
+    "best_quote_en": "\"and your eye that took five hundred million years from trilobite to telescope,\" and \"how it hovers over everything, gigantic and unnecessary, like music, like love.\"",
+    "best_quote_zh": "\"你的眼睛从三叶虫到望远镜用了五亿年\"以及\"它像音乐、如爱一样笼罩着万物\""
+  },
+  {
+    "id": 675,
+    "title": "Criterion Channel’s November Lineup Celebrates Nicolas Cage, Music Video Auteurs, Roy Andersson, Gene Tierney & More",
+    "title_zh": "Criterion Channel 11 月片单：尼古拉斯·凯奇、音乐录影带导演、罗伊·安德森、金·蒂尔尼等专题回顾",
+    "model_used": "nvidia/nemotron-3-ultra-550b-a55b:free",
+    "source": "The Playlist",
+    "link": "https://theplaylist.net/criterion-channel-november-lineup-nicolas-cage-roy-andersson-gene-tierney-20261022/",
+    "tags": [
+      "update",
+      "design",
+      "music-arts",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "动态",
+      "设计创意",
+      "音乐艺术",
+      "未来预测"
+    ],
+    "date": "2026-10-22",
+    "summary_en": "The Criterion Channel's November 2026 lineup reads like a masterclass in cinema's porous boundaries. The standout 'From MTV to Hollywood' series traces how music video formalism—Fincher's clinical dread, Gondry's tactile surrealism, Jonze's meta-fiction, Glazer's cold precision, Williams' hyper-saturated maximalism—migrated into 90s/00s features, reshaping American film grammar. Cage's 17-film retrospective reveals an actor who treats each role as a negotiation between control and chaos, from Coen brothers' screwball to Herzog's gonzo madness. Tierney's noir femme fatales complicate the 'beautiful victim' trope with psychological darkness. Andersson's static tableaux and Hamaguchi's elliptical narratives offer two distinct philosophies of cinematic time: one absurdly frozen, the other fluidly unresolved. The Jeremy Thomas tribute reminds us that producers can be auteurs of curation, enabling Skolimowski, Oshima, Roeg, Bertolucci. This isn't just programming; it's an argument for cinema as an ecosystem where commerce, experiment, and obsession cross-pollinate.",
+    "summary_zh": "Criterion 11 月片单像极了一堂关于电影边界渗透性的大师课。「从 MTV 到好莱坞」追溯音乐录影带美学如何重塑 90 年代美式电影语法——芬奇的临床恐惧、贡德利的触觉超现实、琼兹的元叙事、格雷泽的冷峻精准、威廉姆斯的超饱和极大主义。凯奇 17 部片回顾展现一位在控制与混乱间不断博弈的演员。蒂尔尼的黑色电影女性角色打破「美丽受害者」原型。安德森的静止长镜头与滨口龙介的椭圆叙事提供两种截然不同的电影时间哲学：荒诞凝滞与流动未决。杰里米·托马斯致敬提醒我们：制片人也可以是策展型作者。这不仅是排片，更是一个论证：电影生态里，商业、实验与执念永远在异花授粉。",
+    "best_quote_en": "Few actors have built such a fascinating career out of refusing to make the obvious choice.",
+    "best_quote_zh": "鲜有演员能靠拒绝显而易见的选择，建立起如此迷人的职业生涯。"
+  },
+  {
+    "id": 676,
+    "title": "Raye on the “best birthday present” of her Mercury Prize win: “I just feel seriously seen”",
+    "title_zh": "Raye谈她赢得2026年Mercury奖的“最好的生日礼物”：\"我感到被真正看到\"",
+    "model_used": "cohere/north-mini-code:free",
+    "source": "NME",
+    "link": "https://www.nme.com/news/music/raye-mercury-prize-interview-winners-room-music-hope-birthday-royal-albert-hall-3973906?utm_source=rss&utm_medium=rss&utm_campaign=raye-mercury-prize-interview-winners-room-music-hope-birthday-royal-albert-hall",
+    "tags": [
+      "update",
+      "music-arts",
+      "health-wellness"
+    ],
+    "tags_zh": [
+      "动态",
+      "音乐艺术",
+      "健康养生"
+    ],
+    "date": "2026-10-23",
+    "summary_en": "Raye’s Mercury Prize win for 'This Music May Contain Hope' marks a triumphant moment for the independent artist, who described the accolade as the \"best birthday present\" ahead of her 29th birthday. The London singer-songwriter’s emotional victory, after years of struggle with industry challenges and battles over artistic control, highlights her resilience and dedication to music. Her album, featuring orchestral arrangements and introspective tracks like 'I Know You’re Hurting,' showcases her growth as a songwriter and producer. Raye’s journey from battling record label constraints to achieving critical and commercial success—culminating in a UK number one and sold-out Royal Albert Hall performance—exemplifies the power of persistence in the music industry. Her story resonates beyond personal triumph, inspiring aspiring artists, particularly women, to pursue their artistic visions despite obstacles. The Mercury Prize win not only validates her artistic integrity but also underscores the evolving landscape of independent music, where authenticity and emotional depth can triumph over commercial pressures.",
+    "summary_zh": "Raye凭借《This Music May Contain Hope》专辑赢得2026年Mercury奖，将这一荣誉形容为“最好的生日礼物”，恰逢她29岁生日。这位伦敦歌手兼词曲作者的胜利，来自她在音乐事业中的不懈努力和对艺术的执着。她的专辑融合了交响乐般的编曲和 introspective 的歌曲，如《I Know You’re Hurting》，展现了她作为词曲作者和制作人的成长。从与唱片公司的斗争中脱颖而出，她不仅取得了商业上的成功（专辑登顶英国排行榜），还获得了NME的五星评价和Reading & Leeds Festival 2026的主演机会。Raye的故事不仅是个人胜利，更是女性独立艺术家在音乐行业中坚持不懈的典范，她的经历激励着无数梦想者。",
+    "best_quote_en": "\"I just poured so much heart into this album, I really did... I just feel seriously seen, you know?\"",
+    "best_quote_zh": "\"我真的把全部心血都倾注在这张专辑上...我感到被真正看到，你知道吗？\""
   }
 ]
