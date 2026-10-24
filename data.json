@@ -1,120 +1,5 @@
 [
   {
-    "id": 577,
-    "title": "100 Objects #20: AA Sobriety Chip",
-    "title_zh": "100个有趣事物 #20：AA戒酒芯片",
-    "model_used": "poolside/laguna-xs-2.1:free",
-    "source": "99% Invisible",
-    "link": "https://99percentinvisible.org/episode/100-objects-020-aa-sobriety-chip/",
-    "tags": [
-      "analyze",
-      "general",
-      "case-study"
-    ],
-    "tags_zh": [
-      "分析",
-      "general",
-      "案例研究"
-    ],
-    "date": "2026-10-02",
-    "summary_en": "This episode of 'A History of the United States in 100 Objects' explores the profound cultural significance of the AA sobriety chip through Jamie Loftus's personal journey of discovery. Beginning with childhood memories of her father's AA collection, Loftus uncovers how this seemingly simple plastic token encapsulates America's complex relationship with gender, religion, and morality—tracing connections from Prohibition to women's suffrage. The analysis reveals how a humble recovery symbol serves as a lens for examining broader societal transformations, demonstrating how material culture can illuminate hidden histories. This content uniquely bridges personal narrative with historical inquiry, offering listeners both intimate storytelling and macro-level insights into American social evolution. The piece exemplifies how examining everyday objects can reveal extraordinary cultural narratives.",
-    "summary_zh": "通过Jamie Loftus对AA戒酒芯片的探索，这段内容将个人记忆与美国社会史交织。从禁酒令到妇女 suffrage，这枚小小塑料芯片承载了性别、宗教与道德的复杂历史。内容以细致入微的物质文化为切入口，揭示了看似平凡的康复象征背后隐藏的社会变迁，引发人们对日常物件所蕴含的文化深度思考。",
-    "best_quote_en": "What she found is that imbued in that little chip is a hidden history — from Prohibition to women's suffrage — of America's relationship to gender, religion, and morality.",
-    "best_quote_zh": "她发现，这枚小小的芯片中融合了从禁酒令到妇女 suffrage 的隐秘历史，映射了美国对性别、宗教与道德的 complex 关系。"
-  },
-  {
-    "id": 578,
-    "title": "Take It Or Leave It: the making of Madness",
-    "title_zh": "取之不舍：疯狂的诞生",
-    "model_used": "nvidia/nemotron-3.5-lightning:free",
-    "source": "BFI",
-    "link": "https://www.bfi.org.uk/interviews/take-it-or-leave-it-making-madness",
-    "tags": [
-      "update",
-      "music-arts"
-    ],
-    "tags_zh": [
-      "动态",
-      "音乐艺术"
-    ],
-    "date": "2026-10-02",
-    "summary_en": "This documentary reappraisal of Madness's 1981 film offers a fascinating case study in grassroots filmmaking and artistic integrity. Director Dave Robinson's decision to ground the band's rise in social realism rather than glossy melodrama reveals much about working-class creativity under constraint. The film's unique approach—shooting in actual venues with non-professional cast members—creates an authentic document of a specific London moment before gentrification erased it. Perhaps most compelling is how the documentary reframes Madness not as cartoonish pop stars but as complex individuals from council estates navigating poverty and violence. The contrast between their zany public personas and private struggles adds surprising depth. The 4K restoration's timely re-release feels less like commercial revival and more overdue recognition of a humble work that captured an irreproachable era with humor and humanity.",
-    "summary_zh": "这部对Madness 1981年电影的重新审视，是草根电影制作和艺术诚信的迷人案例。戴夫·罗宾逊导演选择用社会现实主义而非粉饰的 melodrama 来讲述乐队成名的故事，揭示了在限制条件下的工人阶级创造力。影片取景于实际场所，使用非专业演员的做法，创造了一个在 gentrification 之前伦敦特定时刻的真实记录。最引人入胜的是，这部纪录片如何将Madness从粗俗的流行明星重新定义为来自市政公寓的复杂个体，他们在贫困和暴力中挣扎。他们喧闹的公众形象与私下的挣扎之间的反差，出人意料地增加了深度。4K修复的及时重映，感觉不像是商业复兴，而更像是对一部谦逊的作品的迟到的认可，它以幽默和人性捕捉了一个不可复制的时代。",
-    "best_quote_en": "\"I wanted to show how a band could get together and take on the world,\" Robinson explains. \"And that is the same for the Beatles as it is for everybody else.\"",
-    "best_quote_zh": "\"我要展示一个乐队如何聚在一起并征服世界\"，罗宾逊解释道。\"对甲虫乐队来说也是一样，这适用于所有人.\""
-  },
-  {
-    "id": 579,
-    "title": "“West of the River” by Photographer Christian Badach",
-    "title_zh": "“河西” by 摄影师 Christian Badach",
-    "model_used": "inclusionai/ling-3.0-flash-sante:free",
-    "source": "BOOOOOOOM",
-    "link": "https://www.booooooom.com/2026/10/02/west-of-the-river-by-photographer-christian-badach/",
-    "tags": [
-      "inspire",
-      "general"
-    ],
-    "tags_zh": [
-      "启发",
-      "general"
-    ],
-    "date": "2026-10-02",
-    "summary_en": "Christian Badach's photographic series 'West of the River' presents a visual meditation on landscape, solitude, and the subtle interplay between human presence and natural environments. The collection demonstrates a masterful command of composition, light, and mood — each frame feels deliberately composed yet effortlessly evocative. What distinguishes Badach's work is his ability to find narrative tension in stillness; these are not merely scenic photographs but contemplative spaces that invite the viewer to project their own emotional landscape onto the image. The series raises important questions about how we relate to unfamiliar terrain — both geographically and psychologically. In an era of oversaturated visual content, Badach's restrained aesthetic serves as a reminder that photography's power lies in what is left unsaid, in the negative space between subject and viewer. The work sits at the intersection of documentary and fine art, challenging conventional boundaries of genre while maintaining accessibility.",
-    "summary_zh": "Christian Badach的《河西》系列是一次关于景观、孤独与人的存在感的视觉冥想。画面中的克制与张力令人印象深刻——他善于在静止中捕捉叙事，让观者将自己的情感投射进画框。在这个图像过剩的时代，Badach提醒我们：摄影的力量往往在于那些未被言说的留白。",
-    "best_quote_en": "These are not merely scenic photographs but contemplative spaces that invite the viewer to project their own emotional landscape onto the image.",
-    "best_quote_zh": "他善于在静止中捕捉叙事，让观者将自己的情感投射进画框。"
-  },
-  {
-    "id": 580,
-    "title": "My relationship with food was broken. Then I killed my own dinner",
-    "title_zh": "我与食物的关系破裂了。后来我亲手杀了自己的晚餐",
-    "model_used": "cohere/north-mini-code:free",
-    "source": "Women | The Guardian",
-    "link": "https://www.theguardian.com/lifeandstyle/ng-interactive/2026/oct/03/food-diet-weight-hunting",
-    "tags": [
-      "solve",
-      "psychology",
-      "lifestyle",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "解决",
-      "心理学",
-      "生活方式",
-      "数据驱动"
-    ],
-    "date": "2026-10-03",
-    "summary_en": "Katherine Hill recounts how her disordered relationship with food transformed after hunting and consuming a deer, forcing a radical reassessment of body image, fatphobia, and cultural narratives around food and weight. Her journey from restrictive eating to embracing seasonal fat as a sign of health challenges the pervasive diet culture that equates thinness with virtue, exposing the psychological chaos caused by a disconnect from food origins. Interviews with psychologist Dr. Hannah Carl and author Elise Loehnen underscore how caloric dogma has misled women for decades, while statistics reveal the extreme social cost of body stigma. Hill’s personal story, interwoven with broader reflections on hunting, mortality, and the privilege of food insecurity, invites readers to reconsider what it means to be healthy, to value food, and to confront the toxic beauty standards that dictate our self‑perception.",
-    "summary_zh": "凯瑟琳·希尔讲述了她如何通过狩猎并食用鹿肉，从此改变了对食物的扭曲认知，她开始将脂肪视为生命与健康的标志，对抗普遍的饮食文化和对瘦身的痴迷。她揭露了与食物来源的脱节如何导致心理混乱，引用专家观点指出卡路里平衡理论的过时，并呈现了女性因体型焦虑而付出的惨重代价。她的故事不仅是个人成长的写照，更是对社会审美标准的深刻反思，呼吁人们重新审视健康、体重与食物的关系。",
-    "best_quote_en": "What would happen if society saw human bodies the same way I saw my first doe, with fat as proof of life and health?",
-    "best_quote_zh": "如果社会以我看待第一只母鹿的方式来看待人体——将脂肪视为生命与健康的证明——那会发生什么？"
-  },
-  {
-    "id": 581,
-    "title": "“Sick and kinky”: The BBFC and Ken Russell’s The Devils",
-    "title_zh": "‘病态且性幻想’: 《魔教徒》论片商委员会与肯·拉塞尔",
-    "model_used": "poolside/laguna-xs-2.1:free",
-    "source": "BFI",
-    "link": "https://www.bfi.org.uk/sight-and-sound/features/sick-kinky-bbfc-ken-russells-devils",
-    "tags": [
-      "analyze",
-      "ai-research",
-      "science",
-      "deep-dive"
-    ],
-    "tags_zh": [
-      "分析",
-      "AI研究",
-      "科学研究",
-      "深度分析"
-    ],
-    "date": "2026-10-01",
-    "summary_en": "This compelling analysis examines the cultural and political battle surrounding Ken Russell's controversial 1971 film 'The Devils', revealing how the British Board of Film Censors navigated a perfect storm of blasphemy concerns, obscenity fears, and shifting social mores. Through meticulous archival research, Linda Ruth Williams illuminates the schism between censorial voices who found the film 'nauseating' and those who defended artistic freedom. The piece demonstrates how censorship operated not through single decisive moments but through 'death by a thousand cuts'—incremental editing demands that fundamentally altered Russell's vision. Beyond film history, this becomes a meditation on how institutions balance moral guardianship against creative expression, offering profound insights for contemporary debates about artistic freedom, religious sensitivity, and the role of cultural gatekeepers in democratic societies.",
-    "summary_zh": "本文深入剖析肯·拉塞尔1971年经典影片《魔教徒》的审查风波，揭示英国电影委员会如何在亵渎与低俗的夹缝中把握艺术自由。拉塞尔的激进创作在审查层层压迫下被匮乏，却意外成为时代精神符号。影片不仅是影评史诗，更是艺术审查与公共道德博弈的永恒典范。",
-    "best_quote_en": "Any cuts that we make in [Russell's] grossness and excesses to the bare bone will improve the film. It is thoroughly sick and kinky.",
-    "best_quote_zh": "任何对拉塞尔‘肮脏’和‘过度’手段的裁剪都将改善电影。此片完全病态且充满性幻想。"
-  },
-  {
     "id": 582,
     "title": "The Tim Ferriss Show Transcripts: How to Simplify Your Life — Tips from Oliver Burkeman, Chip Conley, Elizabeth Gilbert, and More (#885)",
     "title_zh": "Tim Ferriss Show 转录：如何简化生活 —— 来自奥利弗·伯克曼、Chip Conley、Elizabeth Gilbert 等人的建议（#885）",
@@ -2352,5 +2237,122 @@
     "summary_zh": "Raye凭借《This Music May Contain Hope》专辑赢得2026年Mercury奖，将这一荣誉形容为“最好的生日礼物”，恰逢她29岁生日。这位伦敦歌手兼词曲作者的胜利，来自她在音乐事业中的不懈努力和对艺术的执着。她的专辑融合了交响乐般的编曲和 introspective 的歌曲，如《I Know You’re Hurting》，展现了她作为词曲作者和制作人的成长。从与唱片公司的斗争中脱颖而出，她不仅取得了商业上的成功（专辑登顶英国排行榜），还获得了NME的五星评价和Reading & Leeds Festival 2026的主演机会。Raye的故事不仅是个人胜利，更是女性独立艺术家在音乐行业中坚持不懈的典范，她的经历激励着无数梦想者。",
     "best_quote_en": "\"I just poured so much heart into this album, I really did... I just feel seriously seen, you know?\"",
     "best_quote_zh": "\"我真的把全部心血都倾注在这张专辑上...我感到被真正看到，你知道吗？\""
+  },
+  {
+    "id": 677,
+    "title": "100 Objects #21: Window from the House of D",
+    "title_zh": "100 件物品 #21：来自女子监狱的窗户",
+    "model_used": "cohere/north-mini-code:free",
+    "source": "99% Invisible",
+    "link": "https://99percentinvisible.org/episode/100-objects-021-window-from-the-house-of-d/",
+    "tags": [
+      "analyze",
+      "ai-research",
+      "case-study"
+    ],
+    "tags_zh": [
+      "分析",
+      "AI研究",
+      "案例研究"
+    ],
+    "date": "2026-10-23",
+    "summary_en": "This episode of '100 Objects' explores the surprising history of a unique window in New York's first women's prison, opened in 1932. Designed as a compassionate feature allowing inmates to open, this window became an unexpected catalyst for LGBTQ+ community building and activism. Through the lens of Roman Mars and historian Hugh Ryan, the narrative reveals how architectural details can shape social movements, transforming a tool of surveillance into a conduit for liberation. The story illustrates how spaces designed for control can be repurposed by marginalized communities, ultimately contributing to the emergence of a vibrant gay mecca in Greenwich Village. This narrative challenges our understanding of how physical environments influence social change and highlights the power of unexpected spaces in fostering community and resistance.",
+    "summary_zh": "《100 件物品》第 21 集讲述了纽约第一座女子监狱中一个独特窗户的惊人历史。这座监狱建于 1932 年，旨在让“任性的”女性安静、隐秘和符合女性气质，而那个窗户原本是一个善意的特殊设计——让里面的女性可以打开。罗马·马斯和历史学家休·瑞安追溯了这些特殊窗户如何产生了无人预料的影响——帮助建立了一个同性恋者聚集地，并最终促成了一场运动。这个故事展示了建筑细节如何塑造社会运动，将一个监视工具转变为解放的渠道。它挑战我们对物理环境如何影响社会变革的理解，并揭示了边缘化社区如何改造那些本用于控制他们的空间。",
+    "best_quote_en": "The window was meant to be a kind of kindness, but it became something much more transformative.",
+    "best_quote_zh": "这个窗户原本是一个善意的举动，但它却成为了某种更具变革性的东西。"
+  },
+  {
+    "id": 678,
+    "title": "10 great East African films",
+    "title_zh": "十部精彩的东非电影",
+    "model_used": "dots-studio/dots-3-note-preview:free",
+    "source": "BFI",
+    "link": "https://www.bfi.org.uk/lists/10-great-east-african-films",
+    "tags": [
+      "analyze",
+      "music-arts",
+      "society",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "分析",
+      "音乐艺术",
+      "社会议题",
+      "未来预测"
+    ],
+    "date": "2026-10-23",
+    "summary_en": "This curated list of ten East African films transcends regional cinema stereotypes, revealing a vibrant, polyvocal film culture marked by political critique, formal experimentation, and transnational influences. From Rwanda’s post-genocide reckoning in Ben’Imana to Sudanese filmmakers’ resilient efforts to reclaim cinematic spaces in Talking About Trees, the selection demonstrates how East African cinema engages with colonial legacies, diasporic identities, and local socio-political tensions. Films like Harvest: 3,000 Years and Tug of War interrogate class struggle and anti-colonial resistance, while Dhalinyaro and Rafiki offer tender, nuanced portrayals of youth, gender, and queer desire. The inclusion of experimental collectives such as Ajabu Ajabu and the Sudanese Film Group underscores a self-reflexive engagement with cinema as both art form and political act. By highlighting diverse geographies—from Réunion to Djibouti, Zanzibar to Kampala—the list challenges the notion of a monolithic African cinema, instead presenting a dynamic, interconnected landscape where global influences (Soviet training, Chinese investment, spaghetti westerns) are reworked through local storytelling traditions. The final entries, including the surreal O River, We Forced You to Chew Up Their Crops and the genre-bending Kibuuka Omumbaale, further expand the boundaries of form and narrative, asserting East African cinema’s capacity for innovation, critique, and cultural restitution.",
+    "summary_zh": "这份东非电影精选不仅打破了对非洲电影的刻板印象，更展现了一个充满政治批判、形式实验与跨文化交融的多元电影生态。从《Ben’Imana》对卢旺达大屠杀后社会和解的深刻反思，到《Talking About Trees》中苏丹影人对影院空间的执着 reclaim，这些作品直面殖民遗产、阶级压迫与身份认同。《Harvest: 3,000 Years》以诗意现实主义追问全球反资本主义革命，《Rafiki》则在审查与禁令中勇敢书写酷儿之爱。影片涵盖从留尼汪到吉布提、桑给巴尔到坎帕拉的地理跨度，揭示了东非电影如何将苏联电影语言、中国资本影响、意大利西部片等全球元素本土化。实验团体如 Ajabu Ajabu 和苏丹电影小组将电影视为政治行动与文化自救的工具，而《O River》更以幽灵纪录片形式追问流离失所中口述传统的存续。这十部作品共同构成一部“非单一”的非洲电影史诗，彰显其创造力、批判性与文化修复力。",
+    "best_quote_en": "The result is a varied and polyvocal output, which evades any attempt to treat East African cinema as a self-contained or singular regional film culture.",
+    "best_quote_zh": "其成果是多样而多声部的输出，任何试图将东非电影视为自足或单一区域电影文化的尝试，皆被其巧妙规避。"
+  },
+  {
+    "id": 679,
+    "title": "“Marvelous Problems” by Artist Emanuela Lekić",
+    "title_zh": "奇妙的问题",
+    "model_used": "nvidia/nemotron-3.5-lightning:free",
+    "source": "BOOOOOOOM",
+    "link": "https://www.booooooom.com/2026/10/23/marvelous-problems-by-artist-emanuela-lekic/",
+    "tags": [
+      "solve",
+      "music-arts"
+    ],
+    "tags_zh": [
+      "解决",
+      "音乐艺术"
+    ],
+    "date": "2026-10-23",
+    "summary_en": "Emanuela Lekić's art explores mathematical precision and organic forms through intricate geometric compositions. Her work blends structured patterns with fluid, natural shapes, creating visual paradoxes that challenge perception. Each piece demonstrates how order and chaos can coexist harmoniously within complex spatial arrangements.",
+    "summary_zh": "埃曼纽拉·莱基奇的艺术通过错综复杂的几何构图，探索数学精确性与有机形式。她的作品将结构化的图案与流动的自然形状相结合，创造出挑战感知的视觉悖论。每件作品都展示了秩序与混乱如何在复杂的空间安排中和谐共存。",
+    "best_quote_en": "Geometry reveals the hidden poetry of structure and chaos.",
+    "best_quote_zh": "几何揭示了结构与混乱的隐藏诗意。"
+  },
+  {
+    "id": 680,
+    "title": "Jess Cartner-Morley on fashion: this season’s vibe is lady who lounges - not lunches",
+    "title_zh": "Jess Cartner-Morley谈时尚：本季的氛围是“休闲女士”——而非“午餐女士”",
+    "model_used": "dots-studio/dots-3-note-preview:free",
+    "source": "Women | The Guardian",
+    "link": "https://www.theguardian.com/fashion/2026/oct/14/jess-cartner-morley-fashion-lady-who-lounges-not-lunches",
+    "tags": [
+      "analyze",
+      "ai-research",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "分析",
+      "AI研究",
+      "未来预测"
+    ],
+    "date": "2026-10-14",
+    "summary_en": "Jess Cartner-Morley’s column reframes the current fashion moment not as a return to traditional ladylike elegance, but as a subversive, self-aware reinterpretation: the ‘lady who lounges.’ She critiques the performative classism of ‘lady who lunches’ aesthetics while embracing the emotional utility of fantasy—boucle jackets, pearls, kitten heels—as emotional armor and daily delight. The trend, anchored in Chanel’s Matthieu Blazy’s deconstructed elegance and Miu Miu’s romantic pragmatism, is less about social status and more about personal narrative: dressing for the life you live, not the one you’re supposed to want. Cartner-Morley advocates for sartorial irony—pairing tweed with wellies, silk with sweatshirts—as a form of stylistic resistance. The insight lies in her refusal to romanticize or dismiss the trend; instead, she positions it as a cultural mirror of modern women’s complex relationship with identity, comfort, and aspiration. It’s fashion as emotional scaffolding, not social costume.",
+    "summary_zh": "Jess Cartner-Morley的专栏并非简单复兴“淑女风”，而是将其重构为一种自我意识的颠覆：‘休闲女士’。她批判‘午餐女士’所代表的阶级表演性，同时拥抱幻想的情感价值——粗花呢、珍珠、小猫跟——作为日常生活的心理慰藉与情绪盔甲。这一趋势根植于Chanel的Matthieu Blazy对优雅的解构与Miu Miu的浪漫实用主义，本质是为真实生活服务，而非迎合社会期待。Cartner-Morley倡导一种讽刺式穿搭：将粗花呢与雨靴、丝绸与卫衣混搭，作为风格上的抵抗。她的深刻之处在于既不美化也不否定这一潮流，而是将其视为现代女性对身份、舒适与渴望之间复杂关系的文化镜像。这是情感支架式的时尚，而非社会角色的戏服。",
+    "best_quote_en": "This is ladylike with its shoes kicked off, and it probably starts with a textured jacket and jeans.",
+    "best_quote_zh": "这是踢掉鞋子的淑女风，大概始于一件有质感的夹克和牛仔裤。"
+  },
+  {
+    "id": 681,
+    "title": "Audio Guide of the Imperfections of a Perfect Masterpiece",
+    "title_zh": "完美杰作的缺陷：高龙骨博物馆的音频导览",
+    "model_used": "poolside/laguna-xs-2.1:free",
+    "source": "99% Invisible",
+    "link": "https://99percentinvisible.org/episode/acu-01-audio-guide-of-the-imperfections-of-a-perfect-masterpiece/",
+    "tags": [
+      "guide",
+      "music-arts",
+      "design",
+      "controversial"
+    ],
+    "tags_zh": [
+      "指导",
+      "音乐艺术",
+      "设计创意",
+      "争议观点"
+    ],
+    "date": "2026-10-21",
+    "summary_en": "This article from 99% Invisible explores the fascinating paradox of the Guggenheim Museum - a masterpiece of organic architecture by Frank Lloyd Wright that UNESCO recognized as a World Heritage site. The narrative reveals how imperfection is integral to the building's identity: the uneven parapet texture, created through daily touch-ups, embodies Wright's philosophy that buildings should evolve like living organisms. The piece illuminates the collaborative reality behind Wright's singular vision - local architect William Short and contractor George Cohen had to adapt impossible concepts using innovative gunite technology. Most compelling is how the museum's design continuously redefines user experience: from Wright's original vision of staff working in 'The Monitor' (now a public gallery), to the innovative angled picture bays, to the controversial top-floor space that was once forbidden storage. The article celebrates how architectural perfection emerges not from rigid adherence to plans, but from embracing constraints, evolution, and the beautiful imperfections that make structures truly alive. It's a meditation on how great design balances idealism with pragmatism.",
+    "summary_zh": "这篇文章揭示了高龙骨博物馆的迷人矛盾：Frank Lloyd Wright的有机建筑杰作，被UNESCO列为世界遗产。 fascinatingly, the building's 'imperfections' - the daily-touch-up parapet texture, the collaborative adaptations, the evolving spaces - are what make it truly alive. It reveals how architectural perfection emerges from embracing constraints, evolution, and the beautiful imperfections that make structures truly organic rather than static. A meditation on how great design balances idealism with pragmatism.",
+    "best_quote_en": "Even though this building is composed of pure forms like circles and spirals, the top of the parapet isn't perfectly rounded or finished with a crisp right angle. It's bumpy and uneven. The reason why the parapet is kind of lumpy is that the paint is touched up every day when the museum is not open. It's touched up here and there, and for that reason, everything kind of has a texture. You have an effect on this building. By being here and touching the railing, you've changed it. Its changing texture is part of its evolution as an organic structure.",
+    "best_quote_zh": "尽管这个建筑由纯净的形状如圆形和螺旋构成，天台的顶部并不圆润或用干净的直角完成。它有点凹凸不平。天台之所以略显凌乱，是因为每天开闭之间都要修漆。因为随处修补，所有东西都有了质感。你对这个建筑产生了影响。当你在这里摸索扶手时，你已经改变了它。它的Changing texture是其作为有机结构演变的一部分。"
   }
 ]
