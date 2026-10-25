@@ -1,124 +1,5 @@
 [
   {
-    "id": 582,
-    "title": "The Tim Ferriss Show Transcripts: How to Simplify Your Life — Tips from Oliver Burkeman, Chip Conley, Elizabeth Gilbert, and More (#885)",
-    "title_zh": "Tim Ferriss Show 转录：如何简化生活 —— 来自奥利弗·伯克曼、Chip Conley、Elizabeth Gilbert 等人的建议（#885）",
-    "model_used": "poolside/laguna-xs-2.1:free",
-    "source": "Tim Ferriss",
-    "link": "https://tim.blog/2026/10/03/how-to-simplify-your-life-4-transcript/",
-    "tags": [
-      "solve",
-      "writing-content",
-      "case-study"
-    ],
-    "tags_zh": [
-      "解决",
-      "写作内容",
-      "案例研究"
-    ],
-    "date": "2026-10-03",
-    "summary_en": "This transcript compilation from The Tim Ferriss Show features profound insights on life simplification from multiple thought leaders. Chip Conley's narrative reveals a powerful transformation story: his near-death experience at 47 catalyzed a mindful decoupling from his founder identity, leading to a two-year period of exploration across 36 festivals in 16 countries. His concept of 'midlife atrium' - a fertile chrysalis space between caterpillar and butterfly - offers a novel framework for intentional life redesign. Oliver Burkeman's perspective emphasizes psychological freedom through acceptance rather than rigid control, advocating for fluid adaptability over minimalist aesthetics. The content demonstrates that simplification isn't about reducing possessions but about releasing identity attachments that compromise well-being. These insights provide actionable frameworks for midlife transitions, career pivots, and finding meaning beyond professional success metrics. The compilation's strength lies in its diverse perspectives on intentional living, making it valuable for entrepreneurs, professionals at crossroads, and anyone seeking purposeful life design.",
-    "summary_zh": "这段Tim Ferriss Show的转录收录了来自多位思想领袖的深度智慧。Chip Conley的故事揭示了从创始人身份的觉醒式解绑——在47岁近死经历后，他以「人生蜕皮空间」为名，跨越36场国际节庆寻找自我。伯克曼则提出：简化是心理自由，接受现实而非执念控制。这不关乎收拾物品，更是放下身份枷锁。从企业家到处境转折期的求索者，这些人生设计智慧，正是当下对意义的渴求。",
-    "best_quote_en": "Between caterpillar and butterfly, there is a chrysalis. In the chrysalis, the transformation happens. I spent two years from age 50 to 52 in what I would call... the midlife atrium.",
-    "best_quote_zh": "「蝴蝶与毛虫之间，是茧。茧中才发生蜕变。我50到52岁的两年，正是人生蜕皮空间。」——Chip Conley"
-  },
-  {
-    "id": 583,
-    "title": "“谷子经济”，赚钱的逻辑变了吗？",
-    "title_zh": "谷子经济”，赚钱的逻辑变了吗？",
-    "model_used": "cohere/north-mini-code:free",
-    "source": "虎嗅",
-    "link": "https://www.huxiu.com/article/4895437.html?f=rss",
-    "tags": [
-      "update",
-      "science",
-      "business-model",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "动态",
-      "科学研究",
-      "商业模式",
-      "未来预测"
-    ],
-    "date": "2026-10-05",
-    "summary_en": "The ‘Gouzi economy’—the market for character‑licensed goods such as badges and figurines—has been a headline driver of China’s IP sector for more than two decades. Yet 2025‑2026 has brought a noticeable cooling: growth has halved, many small‑scale stores have closed, and the once‑dominant “big IP” model is losing steam. The article traces a shift toward lighter, more flexible licensing arrangements, zero‑fee revenue‑share deals, and a blurring of gender‑based consumer segments. It also highlights how nostalgia‑driven IPs are being re‑engineered for adult audiences through short‑form video and meme‑style merchandise, while AI‑generated content threatens traditional hand‑crafted production. By examining case studies—from exotic‑pet IPs that attract young female collectors to long‑standing cartoon brands that now target multi‑generational markets—the piece offers a nuanced view of the industry’s evolving business logic. It leaves readers pondering whether the next wave of profitability will come from truly differentiated, quality‑focused offerings rather than merely scaling down. The analysis suggests that sustainable growth will require creators and distributors to blend innovative technology with authentic storytelling, ensuring that the ‘lightweight’ approach does not sacrifice the emotional resonance that originally made these IPs beloved.",
-    "summary_zh": "IP授权从高价大IP转向轻量化、性别模糊的细分市场，童年回忆持续造势，但市场降温与AI冲击迫切需要行业重构价值链。如何在保持质感的同时实现轻量创新，是每个从业者必须面对的挑战。",
-    "best_quote_en": "The logic of making money has changed, from ‘high‑priced’ licensing fees to ‘sales‑share’ partnerships.",
-    "best_quote_zh": "赚钱的逻辑变了，从‘高高在上’的授权费到‘按销售分账’的合作。"
-  },
-  {
-    "id": 584,
-    "title": "高能量人都在追求的这件事，正在悄悄毁掉你的前额叶？",
-    "title_zh": "高能量人都在追求的这件事，正在悄悄毁掉你的前额叶？",
-    "model_used": "poolside/laguna-s-2.1:free",
-    "source": "三联生活周刊",
-    "link": "http://weixin.sogou.com/weixin?type=2&query=%E4%B8%89%E8%81%94%E7%94%9F%E6%B4%BB%E5%91%A8%E5%88%8A+%E9%AB%98%E8%83%BD%E9%87%8F%E4%BA%BA%E9%83%BD%E5%9C%A8%E8%BF%BD%E6%B1%82%E7%9A%84%E8%BF%99%E4%BB%B6%E4%BA%8B%EF%BC%8C%E6%AD%A3%E5%9C%A8%E6%82%84%E6%82%84%E6%AF%81%E6%8E%89%E4%BD%A0%E7%9A%84%E5%89%8D%E9%A2%9D%E5%8F%B6%EF%BC%9F",
-    "tags": [
-      "analyze",
-      "science",
-      "beginner-friendly"
-    ],
-    "tags_zh": [
-      "分析",
-      "科学研究",
-      "新手友好"
-    ],
-    "date": "2026-10-04",
-    "summary_en": "This article explores the neuroscience behind multitasking, challenging the popular myth that humans can truly process multiple tasks simultaneously. Drawing on brain imaging studies, it explains how the prefrontal cortex acts as a bottleneck—capable of processing only one complex task at a time. What appears as multitasking is often rapid task-switching. However, recent research from Georgetown University reveals that extensive training can shift task processing from the prefrontal cortex to the temporal cortex, enabling genuine dual-task performance. The key insight: automatization through repetition frees up cognitive resources. Like expert drivers who multitask effortlessly, the brain can rewire itself—but only after thousands of repetitions transform conscious effort into unconscious habit. This has profound implications for productivity culture.",
-    "summary_zh": "多任务处理是幻觉？前额叶瓶颈理论被突破，但代价是苛刻的训练。高效能人的「一心多用」背后，是熟能生巧改造大脑回路的真相。这挑战了我们对「同时处理」的直觉，启发我们重新思考专注与自动化的关系。",
-    "best_quote_en": "The prefrontal cortex is the brain's highest-level control center, responsible for planning and decision-making, and its processing requires 100% of attention—anything less and it won't work.",
-    "best_quote_zh": "前额叶皮质是人脑最高级别的控制中心，专门负责制定计划和做决策，而前额叶皮质的处理过程需要投入100%的注意力，少一点都不行。"
-  },
-  {
-    "id": 585,
-    "title": "Book of the month: Hanna Komar",
-    "title_zh": "书籍之月：Hanna Komar",
-    "model_used": "nvidia/nemotron-3.5-lightning:free",
-    "source": "A year of reading the world",
-    "link": "https://ayearofreadingtheworld.com/2026/09/30/book-of-the-month-hanna-komar/",
-    "tags": [
-      "guide",
-      "politics",
-      "design"
-    ],
-    "tags_zh": [
-      "指导",
-      "政治时事",
-      "设计创意"
-    ],
-    "date": "2026-09-30",
-    "summary_en": "Hanna Komar's 'When I Get Out of Here' is a choric, formally daring work that transforms personal imprisonment into a universal testament to human resilience. The book's most striking feature is its visual language—the blacked-out cover, red-text/black-grey text distinction, and gap-indicated pauses create a disrupted reading experience mirroring the detained world. Beyond form, Komar's generosity shines through: she writes in the second person to include the reader, documents kindness in cruelty, and even extends curiosity to her guards. This isn't merely testimony; it's a survival manual and a warning. As democracies strain, Komar's insight that we may one day need these tools feels prophetic. The book succeeds because it refuses to reduce others to abstractions, finding dignity in the mundane and the extreme alike.",
-    "summary_zh": "汉娜·科马的《我出狱时：在独裁者的监狱里保持人性》是一部将个人监禁转化为对人类韧性普世见证的choric（合唱式/交错式）作品。本书最显著的特征是其视觉语言——黑ed的封面、红字/黑灰字的文本区分以及表示暂停的间距，形成了一种破碎的阅读体验，镜像着被囚禁的世界。除了形式，科马的慷慨无处不在：她以第二人称写作以包含读者，在残酷中记录善良，甚至对看守表现出好奇。这不仅是证言，更是一本生存手册和警示。随着民主受到压力，科马的见解——我们可能迟早需要这些工具——显得先知般。本书之所以成功，是因为它拒绝将他人简化为抽象概念，在平凡和极端中都找到了尊严。",
-    "best_quote_en": "Democracies everywhere are under strain – and we need to be prepared. [This book is] about hope that survives behind bars, and how solidarity can be built anywhere – even if you've never had to before.",
-    "best_quote_zh": "Democracies everywhere are under strain – and we need to be prepared. [这本书是]关于在监狱里存活的希望，以及团结可以在任何地方建立——即使你以前从未这样做过。"
-  },
-  {
-    "id": 586,
-    "title": "How to Simplify Your Life — Tips from Oliver Burkeman, Chip Conley, Elizabeth Gilbert, and More (#885)",
-    "title_zh": "如何简化生活——来自奥利弗·伯克曼、奇普·科尼、伊丽莎白·吉尔伯特等人的建议",
-    "model_used": "cohere/north-mini-code:free",
-    "source": "Tim Ferriss",
-    "link": "https://tim.blog/2026/10/01/how-to-simplify-your-life-4/",
-    "tags": [
-      "solve",
-      "lifestyle",
-      "writing-content",
-      "beginner-friendly"
-    ],
-    "tags_zh": [
-      "解决",
-      "生活方式",
-      "写作内容",
-      "新手友好"
-    ],
-    "date": "2026-10-02",
-    "summary_en": "This episode of Tim Ferriss's show explores practical strategies for simplifying life through insights from renowned thinkers. The discussion centers on identifying 1-3 transformative decisions that can dramatically reduce complexity and enhance well-being. Guests like Chip Conley share how a near-death experience reshaped his approach to life, while Greg McKeown connects stormtrooper costumes to our relationship with clutter. David Allen explains the hidden costs of mental to-do lists, Elizabeth Gilbert offers her philosophy of email management, and Oliver Burkeman critiques conventional simplicity advice. The episode provides actionable frameworks for decluttering, boundary-setting, and finding authentic joy beyond dopamine-driven distractions. With practical applications ranging from productivity techniques to philosophical perspectives on minimalism, this content offers valuable tools for anyone seeking to reduce overwhelm and increase intentional living.",
-    "summary_zh": "这期《蒂姆·费里斯秀》探讨了来自知名思想家的生活简化策略。节目聚焦于找出1-3个能彻底改变生活的关键决策。奇普·科尼分享了舞台上的濒死经历如何重塑他的人生观；格雷格·麦奎恩将风暴兵服饰与现代人的杂物问题相联系；大卫·艾伦揭示了脑海中的待办事项清单所隐含的真实成本；伊丽莎白·吉尔伯特则提出了类似管理房屋的方式来处理电子邮件；奥利弗·伯克曼则批判了传统简化建议的局限性，并分享了他真正行之有效的方法。本期内容提供了从生产力工具到生活哲学等实用框架，帮助人们减少焦虑，过上更加专注和充实的生活。",
-    "best_quote_en": "What are 1–3 decisions that could dramatically simplify my life?",
-    "best_quote_zh": "有哪些1-3个决定可以彻底简化我的生活？"
-  },
-  {
     "id": 587,
     "title": "Is AI the End of Math As We Know It?",
     "title_zh": "AI是否会终结我们所熟知的数学？",
@@ -2354,5 +2235,122 @@
     "summary_zh": "这篇文章揭示了高龙骨博物馆的迷人矛盾：Frank Lloyd Wright的有机建筑杰作，被UNESCO列为世界遗产。 fascinatingly, the building's 'imperfections' - the daily-touch-up parapet texture, the collaborative adaptations, the evolving spaces - are what make it truly alive. It reveals how architectural perfection emerges from embracing constraints, evolution, and the beautiful imperfections that make structures truly organic rather than static. A meditation on how great design balances idealism with pragmatism.",
     "best_quote_en": "Even though this building is composed of pure forms like circles and spirals, the top of the parapet isn't perfectly rounded or finished with a crisp right angle. It's bumpy and uneven. The reason why the parapet is kind of lumpy is that the paint is touched up every day when the museum is not open. It's touched up here and there, and for that reason, everything kind of has a texture. You have an effect on this building. By being here and touching the railing, you've changed it. Its changing texture is part of its evolution as an organic structure.",
     "best_quote_zh": "尽管这个建筑由纯净的形状如圆形和螺旋构成，天台的顶部并不圆润或用干净的直角完成。它有点凹凸不平。天台之所以略显凌乱，是因为每天开闭之间都要修漆。因为随处修补，所有东西都有了质感。你对这个建筑产生了影响。当你在这里摸索扶手时，你已经改变了它。它的Changing texture是其作为有机结构演变的一部分。"
+  },
+  {
+    "id": 682,
+    "title": "Having Kids",
+    "title_zh": " Having Kids",
+    "model_used": "cohere/north-mini-code:free",
+    "source": "Paul Graham",
+    "link": "http://www.paulgraham.com/kids.html",
+    "tags": [
+      "solve",
+      "general",
+      "case-study"
+    ],
+    "tags_zh": [
+      "解决",
+      "general",
+      "案例研究"
+    ],
+    "date": "2026-10-25",
+    "summary_en": "This introspective essay captures the author's transformation from fearing parenthood to embracing it, revealing profound psychological and neurological shifts. The author initially viewed parents as \"uncool\" and children as disruptive, shaped by biased observations during uncomfortable encounters like airplane trips. After having children, he experiences an instant chemical change, feeling protective toward all children and discovering unexpected joy in mundane moments. The essay balances the reality of reduced productivity and altered ambition with the authentic happiness found in simple shared experiences. Through reflections on his mother's love and children's evolving role as friends, the author demonstrates how parenthood reshapes priorities, creates new peace, and demands working within children's schedules. This candid exploration reveals that while children bring challenges and less personal freedom, they provide deeper, more frequent moments of genuine happiness that outweigh pre-parental concerns about ambition and independence.",
+    "summary_zh": "这篇文章讲述了一个从恐惧生育到热爱 parenthood 的转变故事。作者最初认为父母是无趣的，孩子们是麻烦的，但有了孩子后，他经历了化学变化，开始保护所有孩子，发现了生活中简单幸福的时刻。他意识到自己之前对父母和孩子的观察存在选择性偏见，只注意到负面情况。通过回忆和与孩子的互动，他逐渐理解了父母之爱的真谛，意识到孩子们不仅是生命，更是朋友。这种转变改变了他的人生观，让他找到了更深层次的幸福与意义。",
+    "best_quote_en": "What changed, of course, is that I had kids. Something I dreaded turned out to be wonderful.",
+    "best_quote_zh": "当然，改变的是我有了孩子。我曾经惧怕的事情最终变成了美妙的体验。"
+  },
+  {
+    "id": 683,
+    "title": "The Tim Ferriss Show Transcripts: Q&A with Tim — The 4-Hour Workweek in a World of AI, Rebuilding Personal Agency, The 4-Hour Body After 40, and More (#887)",
+    "title_zh": "蒂姆·费里斯秀播客文字稿：问答环节——AI时代下的《每周工作4小时》、重建个人自主权、40岁后的《4小时身体》等（#887）",
+    "model_used": "dots-studio/dots-3-note-preview:free",
+    "source": "Tim Ferriss",
+    "link": "https://tim.blog/2026/10/21/qa-with-tim-ai-4-hour-workweek-transcript/",
+    "tags": [
+      "learn",
+      "writing-content",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "学习",
+      "写作内容",
+      "未来预测"
+    ],
+    "date": "2026-10-21",
+    "summary_en": "In this subscriber Q&A, Tim Ferriss revisits his seminal work *The 4-Hour Workweek* through the lens of AI and agentic automation, arguing that the foundational principles of Definition and Elimination (the first two steps of his DEAL framework) are more critical than ever. He warns that AI, as an accelerant, will simply multiply the scale of whatever one is already doing—whether meaningful or trivial—unless one first rigorously identifies the 'critical few' tasks. Ferriss challenges the utopian narrative that AI will grant infinite leisure, asserting instead that without clear boundaries and prioritization, it will exacerbate stress and digital overwhelm. He also reflects on the temporal context of his past advice, noting how life stages (e.g., becoming a parent or entering retirement) necessitate re-evaluating older frameworks. Additionally, he shares practical, low-cost fitness routines—such as *The Happy Body* and Gymnastic Strength Training (GST)—that remain highly effective for maintaining physical health past age 40, emphasizing minimal equipment and high leverage.",
+    "summary_zh": "在这期粉丝问答中，蒂姆·费里斯（Tim Ferriss）结合AI与智能体自动化的背景，重新审视了其经典著作《每周工作4小时》。他指出，在DEAL框架中，前两个步骤——明确目标（Definition）与精简 Elimination（Elimination）——在AI时代比以往任何时候都更加关键。费里斯警告称，AI作为一种“加速器”，只会无差别地放大人们正在做的事情；如果不在前期识别出那些能产生巨大影响的“极少数关键事务”，AI反而会放大琐碎与无意义的工作，导致更深的数字焦虑与压力。他驳斥了“AI将带来无限闲暇”的虚假承诺，强调技术从未兑现此类诺言。此外，费里斯结合自身从29岁到49岁的生命历程，提醒读者应根据所处的人生阶段（如成家、退休等）动态调整对既有知识的理解。最后，他分享了适合40岁以上人群、仅需极低成本与少量器械（如瑜伽垫、哑铃）的高效身体训练法（如《快乐身体》与体操力量训练），展现了其一贯倡导的“高杠杆、低资源”生活哲学。",
+    "best_quote_en": "AI and so on simply multiplies the useless. It multiplies the unimportant, the trivial, the distracting. And you can end up then trying to automate all of those things.",
+    "best_quote_zh": "AI等技术只是在放大无用之物——那些不重要、琐碎且令人分心的事情。最终，你可能会试图去自动化这些毫无价值的事务。"
+  },
+  {
+    "id": 684,
+    "title": "实习生也能月薪10万了",
+    "title_zh": "实习生也能月薪10万了",
+    "model_used": "xingchen-agi/xing4.0-29b-a4b:free",
+    "source": "虎嗅",
+    "link": "https://www.huxiu.com/article/4900267.html?f=rss",
+    "tags": [
+      "solve",
+      "ai-research",
+      "tech-trends",
+      "case-study"
+    ],
+    "tags_zh": [
+      "解决",
+      "AI研究",
+      "技术趋势",
+      "案例研究"
+    ],
+    "date": "2026-10-25",
+    "summary_en": "With the surge of capital inflows into embodied intelligence, companies are fiercely competing for talent. Even interns now earn monthly salaries close to full-time algorithm engineers. The shortage is stark: new job postings have grown 6-7 times YoY, while talent supply lags far behind. Head companies are offering tens of millions in annual salaries to attract top scientists, and some startups are paying interns full salaries at nearly 100,000 yuan per month. However, this intense competition may lead to industry divergence, with those who focus only on hiring rather than technical excellence being left behind.",
+    "summary_zh": "具身智能赛道融资井喷，企业抢人激烈，连实习生月薪已达10万元。人才缺口巨大，供需比严重失衡。头部公司争抢首席科学家年薪达数亿元，初创企业也开出高薪。但资本扎堆涌入可能埋下隐患，行业分化不可避免，真正沉下心做技术的人才能留下来。",
+    "best_quote_en": "The tide will go where it will, but not everyone can stay on deck.",
+    "best_quote_zh": "潮水会往哪边退，没人知道，但可以确定的是，当分化来临后，不是每一个人都能留在甲板上。"
+  },
+  {
+    "id": 685,
+    "title": "送外卖12年，头部重伤后，一个58岁骑手维权“找不到用人单位”",
+    "title_zh": "送外卖12年，头部重伤后，一个58岁骑手维权“找不到用人单位”",
+    "model_used": "dots-studio/dots-3-note-preview:free",
+    "source": "三联生活周刊",
+    "link": "http://weixin.sogou.com/weixin?type=2&query=%E4%B8%89%E8%81%94%E7%94%9F%E6%B4%BB%E5%91%A8%E5%88%8A+%E9%80%81%E5%A4%96%E5%8D%9612%E5%B9%B4%EF%BC%8C%E5%A4%B4%E9%83%A8%E9%87%8D%E4%BC%A4%E5%90%8E%EF%BC%8C%E4%B8%80%E4%B8%AA58%E5%B2%81%E9%AA%91%E6%89%8B%E7%BB%B4%E6%9D%83%E2%80%9C%E6%89%BE%E4%B8%8D%E5%88%B0%E7%94%A8%E4%BA%BA%E5%8D%95%E4%BD%8D%E2%80%9D",
+    "tags": [
+      "analyze",
+      "science",
+      "controversial"
+    ],
+    "tags_zh": [
+      "分析",
+      "科学研究",
+      "争议观点"
+    ],
+    "date": "2026-10-24",
+    "summary_en": "This investigative report exposes the systemic fragmentation of labor relations in China's gig economy through the tragic case of Wang Fumin, a 58-year-old KFC delivery rider with 12 years of service. After sustaining severe head injuries in a traffic accident while on duty, Wang discovered he could not identify his legal employer to claim work-related injury compensation. The article reveals how corporate supply chains deliberately divide employment responsibilities among brand owners, delivery platforms, station operators, and payroll companies, creating a labyrinthine structure that shields corporations from liability while leaving vulnerable workers without legal recourse. The narrative masterfully illustrates the human cost of algorithmic management and outsourced labor models, highlighting how the gig economy's promise of flexibility masks profound precarity and institutional abandonment of aging workers.",
+    "summary_zh": "这篇深度报道通过58岁肯德基骑手王福民的悲剧遭遇，揭示了中国零工经济中劳动关系碎片化的系统性问题。在送餐12年后遭遇车祸重伤的王福民，发现自己竟然无法找到一家可以为他负责的用人单位来申请工伤赔偿。文章深刻揭示了品牌方、配送平台、站点运营商和发薪公司如何通过复杂的用工链条切割，将劳动关系碎片化，使企业在日常管理中精密运转，却在劳动者受伤需要追责时互相推诿。这不仅是个人悲剧，更是算法管理和外包用工模式下，老龄化劳动者面临制度性抛弃的缩影，暴露了零工经济灵活性背后深重的制度性脆弱与保障缺失。",
+    "best_quote_en": "Every day, this system operates with exquisite precision; but when workers get injured and need accountability, many cannot figure out who they actually work for, or who they should turn to for protection.",
+    "best_quote_zh": "平日里，这套体系精细而严密地运转；但当劳动者受伤、需要追究责任时，很多人却难以说清自己究竟为谁工作，又该向谁寻求保障。"
+  },
+  {
+    "id": 686,
+    "title": "The Lesson to Unlearn",
+    "title_zh": "不可却除的课题",
+    "model_used": "poolside/laguna-xs-2.1:free",
+    "source": "Paul Graham",
+    "link": "http://www.paulgraham.com/lesson.html",
+    "tags": [
+      "inspire",
+      "education",
+      "case-study"
+    ],
+    "tags_zh": [
+      "启发",
+      "教育学习",
+      "案例研究"
+    ],
+    "date": "2026-10-25",
+    "summary_en": "This profound essay challenges the fundamental flaws in educational systems worldwide by exposing how the pursuit of grades has corrupted genuine learning. The author argues that traditional assessment methods are 'hackable' - designed more for measurement than actual comprehension, creating a perverse incentive structure where students optimize for grades rather than knowledge acquisition. Drawing from personal experience and observations from Y Combinator, the piece extends this critique to college admissions and venture capital, revealing a systemic pattern where artificial metrics replace authentic achievement. The core insight is that when tests don't measure what they claim to measure, they train individuals to game systems rather than create genuine value. The author advocates for a radical shift toward meaningful assessment that rewards actual capability, suggesting this transformation could liberate human potential and create more authentic educational and entrepreneurial ecosystems.",
+    "summary_zh": "这篇深刻的随笔揭示了教育体系根本性缺陷，批判了学习被等级化如何腐蚀真正的知识获取。作者指出，传统评估方法是'可被篡改'的——它们为衡量而设计，却非真正的理解。从个人经历到Y Combinator的观察，文章将批判拓展至大学录取和风险投资，揭示了人们为虚假指标而优化，而非创造真实价值的系统性模式。这激发我们对教育改革的思考：当测试不衡量其声称的东西时，如何才能真正培养人的才智？",
+    "best_quote_en": "The most damaging thing you learned in school wasn't something you learned in any specific class. It was learning to get good grades.",
+    "best_quote_zh": "在学校里学到的最有害的东西并不是你在任何具体的课堂上学到的东西。而是学会拿好成绩。"
   }
 ]
