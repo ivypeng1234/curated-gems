@@ -1,120 +1,5 @@
 [
   {
-    "id": 587,
-    "title": "Is AI the End of Math As We Know It?",
-    "title_zh": "AI是否会终结我们所熟知的数学？",
-    "model_used": "poolside/laguna-xs-2.1:free",
-    "source": "Quanta Magazine",
-    "link": "https://www.quantamagazine.org/is-ai-the-end-of-math-as-we-know-it-20261005/",
-    "tags": [
-      "inspire",
-      "ai-research",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "启发",
-      "AI研究",
-      "未来预测"
-    ],
-    "date": "2026-10-05",
-    "summary_en": "This thought-provoking article examines the profound crisis facing mathematics as AI systems rapidly solve long-standing conjectures, fundamentally challenging the discipline's core values and incentive structures. Through interviews with mathematicians, it reveals deep concerns about AI's ability to generate correct but incomprehensible proofs that lack the 'understanding' and collaborative spirit that define mathematical culture. The piece explores how companies like OpenAI are disrupting open science by keeping discoveries secret while mathematicians grapple with existential questions about their profession's future. Yet hope emerges through initiatives like the Association for Human Mathematics, which seeks to preserve mathematics' human-centered values while adapting to technological change. The article ultimately argues that mathematics must evolve to emphasize understanding, communication, and creative exploration over mere theorem-proving, potentially emerging stronger if the community successfully navigates this transformation.",
-    "summary_zh": "AI正在冲击数学学术的核心价值。文章通过数学家的声嘶力竭，揭示了人工智能生成的‘正确但不可读’证明如何瓦解数学文化中关于理解、协作与美的传统。尽管OpenAI等公司以股份为导向地隐藏突破， mathematics community仍在创造新的生存路径。未来或许，数学将从“证明至上”的惯性束缚中解放，重新焕发生人联想、跨域沟通与深度思考的活力——这或许是学术在数字时代逆势成长的另一种可能。",
-    "best_quote_en": "What is missing is understanding, the currency that mathematicians trade in. If there is a journey, humans are not invited along for the ride.",
-    "best_quote_zh": "缺少的正是理解，这是数学家们交易的货币。如果有旅程，人类却没有被邀请参与。"
-  },
-  {
-    "id": 588,
-    "title": "All-around junior male",
-    "title_zh": "全能青年",
-    "model_used": "google/gemma-4-31b-it:free",
-    "source": "Aeon",
-    "link": "https://aeon.co/videos/a-traditional-inuit-game-of-balance-and-strength-stylishly-captured",
-    "tags": [
-      "analyze",
-      "society"
-    ],
-    "tags_zh": [
-      "分析",
-      "社会议题"
-    ],
-    "date": "2026-10-05",
-    "summary_en": "Lindsay McIntyre's 'All-around Junior Male' is more than a sports documentary; it is a meditative exploration of cultural endurance and physical mastery. By focusing on the Inuit 'one-foot high kick,' the piece transforms a traditional hunting skill into a visceral study of human equilibrium and strength. I find the choice of monochrome, hand-processed film particularly poignant—it strips away the distractions of the Arctic landscape to elevate the athlete's body to a sculptural form. The intersection of ancestral utility (hunting) and contemporary athletic expression creates a powerful dialogue on identity. The work challenges the viewer to perceive movement not just as a physical act, but as a living archive of a people's survival and resilience.",
-    "summary_zh": "这部作品将传统的因纽特高踢游戏升华为一场关于身体控制与文化记忆的冥想。导演通过手工处理的黑白胶片，将运动员的躯体抽离出地理环境，使其呈现出一种雕塑般的永恒感。这不仅是对体能的记录，更是对生存本能与文化认同的深情凝视。这种将“狩猎技能”转化为“艺术表达”的处理方式，让观众在梦幻的氛围中感受到一种跨越时空的坚韧与力量。",
-    "best_quote_en": "The game was once used by hunters to indicate a successful hunt and demands extraordinary strength, balance and control.",
-    "best_quote_zh": "这项游戏曾被猎人们用来预示狩猎的成功，它要求极强的力量、平衡感与控制力。"
-  },
-  {
-    "id": 589,
-    "title": "5 Cursed Coastal Towns Straight Out of 'Widow’s Bay'",
-    "title_zh": "五个来自《寡妇湾》的诅咒海滨小镇",
-    "model_used": "inclusionai/ling-3.0-flash-sante:free",
-    "source": "Mental Floss",
-    "link": "https://www.mentalfloss.com/geography/wanderlust/cursed-coastal-towns-widows-bay?utm_source=RSS",
-    "tags": [
-      "analyze",
-      "society"
-    ],
-    "tags_zh": [
-      "分析",
-      "社会议题"
-    ],
-    "date": "2026-10-06",
-    "summary_en": "This article blends travel writing with supernatural folklore, exploring six New England coastal towns that blur the line between scenic charm and eerie legend. Rather than treating ghost stories as mere tourism gimmicks, it positions them as embedded historical narratives—from Rockport's connection to the Salem Witch Trials to Block Island's phantom ship, the Palatine Light. The piece implicitly questions what we seek when we chase the 'cursed': is it thrill, heritage, or a deeper connection to place? What makes these towns compelling is that their haunting is documented, not manufactured—ghost footsteps on museum ships and WWII bunker whispers carry the weight of real experience. The article subtly critiques the commodification of spookiness while acknowledging its appeal, inviting readers to consider whether the supernatural adds meaning or merely distracts from harder histories like the Mystic Massacre. For the curious traveler, it offers a framework for distinguishing authentic lore from performance.",
-    "summary_zh": "这篇文章将旅行写作与超自然传说交织，探索新英格兰六个海滨小镇如何在风景与诡异之间模糊边界。作者巧妙指出这些小镇的\"诅咒\"并非营销噱头，而是有据可查的历史叙事——从塞勒姆女巫审判的逃亡者到波罗的海幽灵船。文中隐含一个值得深思的问题：我们追逐\"被诅咒之地\"时，究竟在追寻刺激、遗产，还是与地方的深层联结？最有趣的是作者对超自然旅游的微妙批判——当鬼魅足迹出现在博物馆船上时，它们承载的是真实体验，而非表演。但文章也留下悬念：这些传说是否在某种程度上分散了我们对更沉重历史（如神秘大屠杀）的注意力？对于旅行者而言，这是一篇教人辨别真伪传说的精彩指南。",
-    "best_quote_en": "In places as old as the country itself, ghost stories are part of the historical record, not a sales pitch.",
-    "best_quote_zh": "在这些和这个国家一样古老的地方，鬼故事是历史记录的一部分，而非销售话术。"
-  },
-  {
-    "id": 590,
-    "title": "What's the Type of an Ontological Mismatch?",
-    "title_zh": "What's the Type of an Ontological Mismatch?",
-    "model_used": "nvidia/nemotron-3-nano-omni-30b-a3b-reasoning:free",
-    "source": "LessWrong",
-    "link": "https://www.lesswrong.com/posts/CJE8csmjWdqLrSjy4/what-s-the-type-of-an-ontological-mismatch",
-    "tags": [
-      "inspire",
-      "ai-research",
-      "lifestyle",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "启发",
-      "AI研究",
-      "生活方式",
-      "未来预测"
-    ],
-    "date": "2026-10-06",
-    "summary_en": "This article explores the ontological mismatch as a fundamental concept where different frameworks for categorizing reality inherently shape actions and outcomes. The author develops a type analysis suggesting that ontological mismatch should be measured as O × O × ΔT → ℝ, accounting for both ontological structures and the actual existence of entities in the world (ΔT). Key insights include: ontologies may be structured as partitions or topologies on a 'thingspace,' with labels being critical even when structures match; mismatch measurement may need to be asymmetric to reflect hierarchical differences (e.g., finer/coarser ontologies); and crucially, ontological conflicts only matter when they manifest in actual existence (ΔT), making witnessed mismatches essential for practical assessment. The work bridges abstract philosophy with algorithmic implications, suggesting information-theoretic approaches to quantifying mismatches while emphasizing that unobserved mismatches in unpopulated spaces are epistemically meaningless. This connects to larger themes in AI alignment and systems design where framework compatibility directly impacts actionability.",
-    "summary_zh": "本文将本体论不匹配视为不同认知框架导致行动差异的根本问题。作者提出测量本体论差异的类型分析：差异应考虑本体结构（O×O）与实际存在实体的分布（ΔT），即O×O×ΔT→ℝ。关键洞见包括：本体可视为事物空间的划分或拓扑结构，标签决定意义；差异测度可能需非对称性以反映细粒/粗粒关系；最重要的，未见于实际存在的差异在形而上学上无意义。文章将哲学概念与算法应用结合，强调在AI对齐与系统设计中，框架兼容性直接影响可操作性，呼应了'不同切割世界的方式决定行动方式'这一核心原理。",
-    "best_quote_en": "different ways of cutting up and understanding the world lead unavoidably to different ways of taking actions in the world",
-    "best_quote_zh": "不同切割和理解世界的方式，必然导致不同的世界行动方式"
-  },
-  {
-    "id": 591,
-    "title": "Year of the Horse",
-    "title_zh": "马年",
-    "model_used": "dots-studio/dots-3-note-preview:free",
-    "source": "The New Yorker",
-    "link": "https://www.newyorker.com/magazine/2026/10/12/year-of-the-horse",
-    "tags": [
-      "solve",
-      "ai-research",
-      "politics",
-      "controversial"
-    ],
-    "tags_zh": [
-      "解决",
-      "AI研究",
-      "政治时事",
-      "争议观点"
-    ],
-    "date": "2026-10-05",
-    "summary_en": "This article provides a deeply reported, emotionally resonant examination of the debate surrounding horse-drawn carriages in Central Park, catalyzed by the tragic death of an 18-year-old tourist, Romanch Mahajan. It juxtaposes the visceral horror of the accident with the complex cultural, economic, and ethical dimensions of the industry. The piece humanizes all stakeholders: the grieving family, the dedicated drivers like Christina Hansen and Ahmet Bilici who view the horses as partners in a centuries-old tradition, and the animal-rights activists pushing for a ban. It critically evaluates the systemic failures—poor infrastructure, lack of hitching posts, and the chaotic modern park environment—that contribute to accidents, while also acknowledging the genuine concerns over animal welfare, highlighted by past incidents of horse collapses and toxic plant ingestion. The article moves beyond a simple binary of tradition versus progress, framing the conflict as a clash between a romanticized past and an unsustainable, high-risk present in a hyper-dense urban space.",
-    "summary_zh": "本文通过一名18岁印度游客在中央公园不幸身亡的悲剧，深入剖析了马车行业存废之争。作者以极具同理心的笔触，既展现了家属的切肤之痛，也呈现了司机们视马匹为“伙伴”的传统情怀，更直指动物权益倡导者对城市生态与动物福利的合理担忧。文章没有简单站队，而是揭示了事故背后的系统性漏洞——混乱的交通、缺失的拴马桩、以及现代公园超负荷的游客量。它本质上是一场关于“传统浪漫”与“现代安全”、“经济生计”与“道德责任”的激烈博弈，折射出纽约在城市化进程中对历史遗产与生命价值的艰难权衡。",
-    "best_quote_en": "Horses have been with us for six thousand years. Civilization as we know it is a partnership, and what you're seeing is an attempt to sever this partnership.",
-    "best_quote_zh": "马与我们同行了六千年。我们所知的文明，是一种 partnership（伙伴关系），而你正在目睹的，是一场试图割裂这种伙伴关系的尝试。"
-  },
-  {
     "id": 592,
     "title": "Shaman Vol. 1 / Adventures with Barefoot Critters",
     "title_zh": "Shaman Vol. 1 / Adventures with Barefoot Critters",
@@ -2352,5 +2237,122 @@
     "summary_zh": "这篇深刻的随笔揭示了教育体系根本性缺陷，批判了学习被等级化如何腐蚀真正的知识获取。作者指出，传统评估方法是'可被篡改'的——它们为衡量而设计，却非真正的理解。从个人经历到Y Combinator的观察，文章将批判拓展至大学录取和风险投资，揭示了人们为虚假指标而优化，而非创造真实价值的系统性模式。这激发我们对教育改革的思考：当测试不衡量其声称的东西时，如何才能真正培养人的才智？",
     "best_quote_en": "The most damaging thing you learned in school wasn't something you learned in any specific class. It was learning to get good grades.",
     "best_quote_zh": "在学校里学到的最有害的东西并不是你在任何具体的课堂上学到的东西。而是学会拿好成绩。"
+  },
+  {
+    "id": 687,
+    "title": "Malaria Parasite Caught in the Act of Breaking and Entering",
+    "title_zh": "疟原虫被抓现行，揭秘其入侵过程",
+    "model_used": "cohere/north-mini-code:free",
+    "source": "Quanta Magazine",
+    "link": "https://www.quantamagazine.org/malaria-parasite-caught-in-the-act-of-breaking-and-entering-20261023/",
+    "tags": [
+      "update",
+      "medicine",
+      "ai-research",
+      "beginner-friendly"
+    ],
+    "tags_zh": [
+      "动态",
+      "医学健康",
+      "AI研究",
+      "新手友好"
+    ],
+    "date": "2026-10-23",
+    "summary_en": "Using cryo‑electron microscopy, researchers have captured the malaria parasite Plasmodium in the act of breaching red blood cells. The parasite forms a ring‑shaped “moving junction” that temporarily remodels the host membrane, creating a portal that opens and closes within seconds. The team visualized four protein anchors that generate electrostatic forces, deforming the lipid bilayer and allowing the parasite to slip through unnoticed. This detailed view of the invasion mechanism could guide new antimalarial drugs and inform treatments for related parasites such as Toxoplasma and Cyclospora.",
+    "summary_zh": "研究团队利用冷冻电镜技术捕捉到疟原虫入侵红细胞的瞬间。寄生虫形成移动接头，暂时重塑宿主细胞膜，创造出一个短暂的穿透通道。该研究详细揭示了四种蛋白质锚点的结构及其产生的静电效应如何变形细胞膜，从而使寄生虫悄无声息地进入细胞。这一发现或为开发新抗疟药物及治疗其他寄生虫病提供新思路。",
+    "best_quote_en": "The parasite’s moving junction is a molecular door we can now see, opening and closing in seconds.",
+    "best_quote_zh": "寄生虫的移动接头是一个分子门，我们终于可以看得清。它在几秒内打开和关闭。"
+  },
+  {
+    "id": 688,
+    "title": "Traction!",
+    "title_zh": "有阻力才有前进",
+    "model_used": "poolside/laguna-xs-2.1:free",
+    "source": "Aeon",
+    "link": "https://aeon.co/essays/why-a-world-without-friction-is-a-world-without-progress",
+    "tags": [
+      "inspire",
+      "science",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "启发",
+      "科学研究",
+      "未来预测"
+    ],
+    "date": "2026-10-23",
+    "summary_en": "This essay presents a profound rethinking of friction not as an obstacle to eliminate, but as a fundamental force enabling progress itself. Drawing on tribology expertise, the author reveals how humanity's relationship with resistance has shaped technological evolution from the wheel to dark matter research. The central insight is that 'resistance is your reward for progress' - every solution generates new challenges, making friction an essential component of advancement. From Roman chariot lubrication to Viking ship design to modern tribometers, the narrative demonstrates how understanding friction has driven innovation across millennia. The piece connects microscopic surface interactions to cosmic phenomena, showing how dynamical friction helps explain dark matter. Ultimately, it argues that a frictionless world would be motion without progress - resistance is what transforms effort into achievement, making friction not our enemy but humanity's indispensable partner in forward movement.",
+    "summary_zh": "这篇随笔深刻重构了我们对摩擦的认知——它不只是要消除的障碍，而是推动进步的根本力量。作者通过摩擦学专长揭示，摩擦从火器到暗物质，塑造了人类文明。核心洞见在于：「进步的回报就是新的阻力」。罗马车轮、维京帆船、再到现代摩擦仪器，都证明摩擦是技术创新的活火苑。更惊人的是，摩擦原理已跨越微观与宇宙尺度，帮助我们理解暗物质。最终论断：无阻力的世界只是轮子 spinning，真正的进步始于与阻力的和解。",
+    "best_quote_en": "When people speak of a frictionless world, they imagine ease. But ease without resistance is a wheel spinning in place, motion without progress.",
+    "best_quote_zh": "当人们谈论无阻力的世界时，他们想象的是轻松。但没有阻力的轻松只是一个原地打转的轮子，没有进步的运动。"
+  },
+  {
+    "id": 689,
+    "title": "6 Slang Words From the 1950s We Still Use Today",
+    "title_zh": "源自1950年代、至今仍在使用的6个俚语词汇",
+    "model_used": "nvidia/nemotron-3-ultra-550b-a55b:free",
+    "source": "Mental Floss",
+    "link": "https://www.mentalfloss.com/language/slang/slang-words-1950s-use-today?utm_source=RSS",
+    "tags": [
+      "analyze",
+      "ai-research",
+      "case-study"
+    ],
+    "tags_zh": [
+      "分析",
+      "AI研究",
+      "案例研究"
+    ],
+    "date": "2026-10-26",
+    "summary_en": "This delightful linguistic time capsule reveals how six 1950s slang terms—rock, big deal, party pooper, nerd, barf, and queen—have not merely survived but thrived across seven decades of cultural upheaval. What strikes me most is the semantic elasticity of these words: 'rock' transformed from geological term to diamond slang to music genre; 'nerd' evolved from Seussian nonsense to pejorative to proud identity badge; 'queen' shifted from monarchy to popularity contest to feminist reclamation. The article subtly illustrates how language democratizes—irony ('big deal') and visceral honesty ('barf') prove more durable than formal terminology. There's a quiet profundity in realizing that when we call someone a 'party pooper' today, we're participating in a 70-year-old social contract about group dynamics. The piece doesn't just catalog words; it maps the emotional architecture of mid-century America that still structures our daily interactions.",
+    "summary_zh": "这篇文章像个语言学时光胶囊，展示六个50年代俚语如何跨越七十年文化巨变不仅存活反而繁荣。最让我着迷的是这些词的语义弹性：rock从地质词变钻石隐喻再成音乐流派；nerd从苏斯博士的无意义词变贬义词再成自我认同勋章；queen从君主制变流行度标尺再被女权重构。文章暗示语言的民主化进程——讽刺（big deal）和直白（barf）比正式术语更持久。意识到我们今日称人party pooper时，实参与着一份70年前关于群体动力的社会契约，有种静谧的深刻感。这不只是词汇目录，更是映射中叶美国情感架构的地图，至今仍构建着我们的日常互动。",
+    "best_quote_en": "We borrow clothes from the past, music, traditions, art, and sometimes, without even realizing it, we borrow words.",
+    "best_quote_zh": "我们从过去借用衣服、音乐、传统、艺术，有时甚至在毫无察觉中，借用了词语。"
+  },
+  {
+    "id": 690,
+    "title": "Hair Thickness of My Friends",
+    "title_zh": "我朋友们的头发粗度",
+    "model_used": "nvidia/nemotron-3.5-super-vl:free",
+    "source": "LessWrong",
+    "link": "https://www.lesswrong.com/posts/q8gnBtqijGsdqWJ5j/hair-thickness-of-my-friends",
+    "tags": [
+      "analyze",
+      "science",
+      "beginner-friendly"
+    ],
+    "tags_zh": [
+      "分析",
+      "科学研究",
+      "新手友好"
+    ],
+    "date": "2026-10-26",
+    "summary_en": "A delightfully absurd yet methodologically curious exploration of human hair thickness among the author's social circle. Using a microscope, ruler fragments, and AI-assisted image analysis, XelaP measures 16 hair samples from friends, finding a mean thickness of 78 microns with a standard deviation of 12. The piece humorously applies rigorous statistical frameworks—Welch's t-test, Brown-Forsythe test, Kolmogorov-Smirnov test—to what is essentially a trivial dataset, concluding that sex differences in hair thickness are negligible within this sample. Beyond the surface silliness lies a genuine celebration of amateur scientific inquiry, the democratization of measurement tools, and the joy of asking 'useless' questions with serious intellectual tools. The author's deadpan humor about clone armies, blood-drawing friends, and 'ceterum autem censeo frequentistae esse delendam' adds layers of academic in-jokes and cultural commentary.",
+    "summary_zh": "这是一篇将显微镜对准朋友头发的荒诞却真诚的业余科学探索。作者测量了16位朋友的头发粗度，得出78微米的平均值，并用Welch t检验、布朗-福赛斯检验和Kolmogorov-Smirnov检验等严谨统计方法分析这个微小数据集，结论是性别差异在该样本中微不足道。文中充满学术内部笑话与死pan幽默，从“克隆军团”到“频谱主义者必须被摧毁”，处处透着对“无用问题”的热爱。这不仅是关于头发的实验，更是对业余科学精神、测量工具民主化以及用严肃智力工具探索琐碎问题之乐的赞美。",
+    "best_quote_en": "Ceterum autem censeo frequentistae esse delendam.",
+    "best_quote_zh": "除此之外，我认为频谱主义者必须被摧毁。"
+  },
+  {
+    "id": 691,
+    "title": "The Republicans’ Remarkably Bad Midterm Campaigns",
+    "title_zh": "共和党糟糕的中期竞选",
+    "model_used": "nvidia/nemotron-3.5-lightning:free",
+    "source": "The New Yorker",
+    "link": "https://www.newyorker.com/magazine/2026/11/02/the-republicans-remarkably-bad-midterm-campaigns",
+    "tags": [
+      "analyze",
+      "politics",
+      "controversial"
+    ],
+    "tags_zh": [
+      "分析",
+      "政治时事",
+      "争议观点"
+    ],
+    "date": "2026-10-25",
+    "summary_en": "The Republican midterm campaigns have been disastrous, with trailing candidates and internal fractures. Trump's unpopularity and his controversial deal with Putin on Russian diesel have alienated even loyal allies. Candidates struggle to defend the Iran war, rising energy costs, and the President's oligarchic alliances, facing voter backlash and primary challenges.",
+    "summary_zh": "共和党的中期竞选灾难，候选人落后且内部分裂。特朗普与普京的俄柴油交易疏远了甚至忠实的盟友。候选人难以辩护伊朗战争、能源成本上升和总统的寡头联盟，面临选民反弹和初选挑战。",
+    "best_quote_en": "The President is not popular, so all messaging should be focused on local politics and needs.",
+    "best_quote_zh": "总统不受欢迎，所以所有信息都应聚焦于地方政治和需求。"
   }
 ]
