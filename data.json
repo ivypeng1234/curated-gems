@@ -1,122 +1,5 @@
 [
   {
-    "id": 592,
-    "title": "Shaman Vol. 1 / Adventures with Barefoot Critters",
-    "title_zh": "Shaman Vol. 1 / Adventures with Barefoot Critters",
-    "model_used": "nvidia/nemotron-3-super-120b-a12b:free",
-    "source": "Kevin Kelly",
-    "link": "https://kk.org/cooltools/shaman-vol-1-adventures-with-barefoot-critters/",
-    "tags": [
-      "learn",
-      "writing-content",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "学习",
-      "写作内容",
-      "未来预测"
-    ],
-    "date": "2026-10-06",
-    "summary_en": "This dual review examines two distinct graphic works: 'Shaman Vol. 1', a darkly comic fantasy about resurrection and moral ambiguity, and 'Adventures with Barefoot Critters', a whimsical alphabet book featuring anthropomorphic woodland animals. The analysis highlights how 'Shaman' balances absurdity with profound themes of life, death, family, and ethics, using its supernatural premise to explore human complexity. Meanwhile, 'Adventures with Barefoot Critters' transcends typical ABC books through seasonal storytelling, nostalgic artwork, and emotional resonance, transforming letter learning into a rich narrative of growth and connection. Both works demonstrate how genre constraints can be creatively expanded—'Shaman' through philosophical depth within a goofy superhero framework, and the critters book through layered meaning in a seemingly simple educational format. The reviewer’s personal engagement shines through in appreciating how both titles offer more than surface-level entertainment, delivering emotional and intellectual value.",
-    "summary_zh": "这篇双重书评探讨了两种截然不同的图形作品：《萨满第一卷》——一部关于复活与道德模糊的黑色奇幻漫画；以及《赤脚Critters的冒险》——一部充满拟人森林动物的奇思妙想字母书。评论指出，《萨满》如何在荒诞与深刻之间取得平衡，利用超自然前提探讨生命、死亡、家庭与伦理等人性主题。《赤脚Critters的冒险》则通过季节性叙事、怀旧风格的插画和情感共鸣，超越了典型的字母书范畴，将字母学习转化为关于成长与连接的丰富叙事。两部作品都展示了如何在类型框架内创造性地拓展深度——《萨满》在荒诞超级英雄框架中注入哲学思考，而Critters书则在看似简单的教育格式中蕴含层次意义。评论者的个人视角令人印象深刻，强调这两部作品都超越了表面娱乐，提供了情感与智慧上的价值。",
-    "best_quote_en": "What is the right thing to do? How do we understand pain and loss in our lives? What does it mean to be a parent, a friend, a hero?",
-    "best_quote_zh": "什么是正确的事？我们如何理解生活中的痛苦与损失？成为父母、朋友、英雄意味着什么？"
-  },
-  {
-    "id": 593,
-    "title": "Bringing Extinct Species Back to Life | Dr. Beth Shapiro",
-    "title_zh": "让灭绝物种重返地球 | 贝丝·沙皮罗博士",
-    "model_used": "cohere/north-mini-code:free",
-    "source": "Huberman Lab",
-    "link": "https://www.hubermanlab.com/episode/bringing-extinct-species-back-to-life-dr-beth-shapiro",
-    "tags": [
-      "analyze",
-      "ai-research"
-    ],
-    "tags_zh": [
-      "分析",
-      "AI研究"
-    ],
-    "date": "2026-10-05",
-    "summary_en": "Dr. Beth Shapiro, evolutionary biologist and Chief Science Officer at Colossal Biosciences, explores de-extinction technologies and their implications for conservation. The discussion delves into ancient DNA techniques, modern embryology, and synthetic biology applications for resurrecting extinct species like woolly mammoths, dodo birds, and dire wolves. Shapiro examines the genetic distinctions among human populations, Neanderthal interbreeding, and the potential of de-extinction to enhance biodiversity and ecosystem resilience. The conversation addresses critical ethical considerations, including ecological modeling, gene drives, and the balance between scientific innovation and environmental responsibility. By integrating genetic rescue strategies with advanced reproductive technologies, the research aims not only to revive lost species but also to strengthen existing conservation efforts for endangered wildlife.",
-    "summary_zh": "沙皮罗博士，进化生物学家兼巨头生物科学公司首席科学官，探讨了克隆灭绝物种技术及其对保护工作的影响。讨论涵盖了古代DNA技术、现代胚胎学和合成生物学在复活猛犸象、渡渡鸟和直齿狼等灭绝物种方面的应用。沙皮罗博士还探讨了人类基因差异、尼安德特人与智人的杂交，以及克隆技术如何能增强生物多样性和生态系统弹性。对话深入探讨了伦理问题，包括生态建模、基因驱动以及在科学创新与环境保护之间的平衡。通过将遗传拯救策略与先进的生殖技术相结合，研究不仅旨在恢复已灭绝的物种，还能加强对濒危野生动物的保护工作。",
-    "best_quote_en": "We have the tools to bring back extinct species, but we must ask ourselves whether we should.",
-    "best_quote_zh": "我们拥有复活灭绝物种的工具，但我们必须问自己，我们是否应该这样做。"
-  },
-  {
-    "id": 594,
-    "title": "Weekly Review",
-    "title_zh": "Chinese translation of title (keep original if already Chinese)",
-    "model_used": "nvidia/nemotron-3.5-lightning:free",
-    "source": "Harper’s Magazine",
-    "link": "https://harpers.org/2026/10/weekly-review-hijacker-foiled-journalists-accused-fraud-botched-execution-pro-life-pop-ai-spark-jesus-sighting-court-forgiveness/",
-    "tags": [
-      "analyze",
-      "legal",
-      "politics",
-      "controversial"
-    ],
-    "tags_zh": [
-      "分析",
-      "法律法规",
-      "政治时事",
-      "争议观点"
-    ],
-    "date": "2026-10-06",
-    "summary_en": "150-200 word English analysis focusing on core insights, implications, and critical evaluation. Write with intellectual curiosity and personal engagement.",
-    "summary_zh": "150-200 character Chinese analysis that reads like thoughtful commentary, not mere summary. Include personal reflection and broader significance.",
-    "best_quote_en": "Most insightful English quote from article (translate if originally Chinese)",
-    "best_quote_zh": "Most insightful Chinese quote from article (translate if originally English)"
-  },
-  {
-    "id": 595,
-    "title": "Tracking Mice",
-    "title_zh": "追踪鼠标",
-    "model_used": "dots-studio/dots-3-note-preview:free",
-    "source": "Kevin Kelly",
-    "link": "https://kk.org/cooltools/tracking-mice/",
-    "tags": [
-      "guide",
-      "lifestyle",
-      "design",
-      "beginner-friendly"
-    ],
-    "tags_zh": [
-      "指导",
-      "生活方式",
-      "设计创意",
-      "新手友好"
-    ],
-    "date": "2026-10-05",
-    "summary_en": "This curated guide presents four distinct input devices, each solving specific ergonomic, productivity, or creative workflow challenges. The SpaceNavigator excels in 3D navigation for CAD and modeling applications, offering intuitive six-axis control that dramatically accelerates design iteration. The Logitech MX series addresses high-volume document navigation through hyper-fast scrolling and precision tracking, ideal for engineers and power users. The Evoluent Mouse stands out as a vertical ergonomic solution, mitigating repetitive strain injuries by maintaining a neutral handshake wrist posture—a critical intervention for professionals experiencing chronic pain. Finally, the Logitech Marble Mouse provides an affordable, ambidextrous trackball alternative emphasizing comfort and portability. Collectively, these tools reflect a deeper shift toward human-centered design, where hardware is optimized not just for performance but for physical well-being and long-term usability. The insights are highly actionable, grounded in real-world user testimonials that validate both functional benefits and health impacts.",
-    "summary_zh": "本文精选四款输入设备，分别针对人体工效、效率提升与创意工作流中的具体痛点。SpaceNavigator 凭借六轴 intuitively 控制，显著加速 3D 建模流程；MX 系列通过极速滚轮与高精度追踪，解决长文档浏览的疲劳问题；Evoluent 鼠标以垂直握手姿态彻底缓解腕部劳损，是职业健康的关键干预；Marble 轨迹球则以低成本、对称设计提供舒适便携的替代方案。这些工具共同体现“以人为本”的设计哲学——硬件不仅追求性能，更关注身体舒适与长期可用性。真实用户证言赋予其高度可信度，尤其在健康改善方面，具有实践指导意义。",
-    "best_quote_en": "I cannot overstate how drastic an improvement this mouse is from all others... If you are fighting soreness or pain from your mouse arm-hand – please give your body a break and give the Evoluent mouse a try.",
-    "best_quote_zh": "我无法 overstated 这款鼠标相比其他产品的改进之大……如果你正饱受鼠标手疼痛困扰，请让身体喘口气，试试 Evoluent 鼠标吧。"
-  },
-  {
-    "id": 596,
-    "title": "What Humans, Animals and Plants Tell Us About Consciousness | Michael Pollan",
-    "title_zh": "什么告诉我们关于意识的人类、动物和植物 | Michael Pollan",
-    "model_used": "nvidia/nemotron-3.5-lightning:free",
-    "source": "Huberman Lab",
-    "link": "https://www.hubermanlab.com/episode/what-humans-animals-and-plants-tell-us-about-consciousness-michael-pollan",
-    "tags": [
-      "analyze",
-      "ai-research",
-      "leadership"
-    ],
-    "tags_zh": [
-      "分析",
-      "AI研究",
-      "领导管理"
-    ],
-    "date": "2026-09-28",
-    "summary_en": "This episode featuring Michael Pollan offers a fascinating interdisciplinary exploration of consciousness that transcends traditional boundaries between humans, animals, and plants. Pollan masterfully weaves together insights from psychedelics research, microbiome science, and our evolutionary relationship with the natural world to challenge anthropocentric views of awareness. The discussion reveals how seemingly mundane elements like caffeine and gardening connect to deeper questions of self-recognition, ego dissolution, and our place in collective consciousness. What emerges is not just a scientific inquiry but a philosophical meditation on how our unconscious dialogue with nature shapes our thoughts, feelings, and capacity for awe. Pollan's hopeful perspective suggests that reimagining our relationship with the living world could unlock richer, more meaningful human experience.",
-    "summary_zh": "这期节目深入探讨了意识的跨学科本质，打破了人类、动物与植物之间的传统界限。Polan巧妙融合了 psychedelics（致幻剂）研究、微生物组科学以及我们与自然的进化关系，挑战了人类中心主义的意识观。讨论揭示了 caffeine（咖啡因）和园艺看似平凡的事物如何关联到自我认知、ego dissolution（ego解体）以及集体意识等更深层问题。浮现出的不仅是科学探究，更是对我们如何与自然的无意识对话塑造思想和感受的哲学沉思。Polan充满希望的视角表明，重新审视我们与生物世界的关系，或许能解锁更丰富、更有意义的人类体验。",
-    "best_quote_en": "The most important thing we learn about consciousness from the study of psychedelics is that it reveals the extent to which our ordinary conscious experience is constructed, that there's a lot of fabricating going on, that our brain is constantly predicting and hallucinating the world.",
-    "best_quote_zh": "从致幻剂研究中我们学到的关于意识最重要的一点是，它揭示了我们普通意识体验的构建程度，我们的大脑不断预测和幻视世界。"
-  },
-  {
     "id": 597,
     "title": "Paul McCartney continues “journey through Dungeon Lane” with four new songs – including ‘flip mix’ of Ringo Starr duet ‘Home To Us’",
     "title_zh": "Paul McCartney 推出《Dungeon Lane》专辑特别版，收录四首新歌包括 Ringo Starr 合唱 'Home To Us' Flip Mix",
@@ -2354,5 +2237,118 @@
     "summary_zh": "共和党的中期竞选灾难，候选人落后且内部分裂。特朗普与普京的俄柴油交易疏远了甚至忠实的盟友。候选人难以辩护伊朗战争、能源成本上升和总统的寡头联盟，面临选民反弹和初选挑战。",
     "best_quote_en": "The President is not popular, so all messaging should be focused on local politics and needs.",
     "best_quote_zh": "总统不受欢迎，所以所有信息都应聚焦于地方政治和需求。"
+  },
+  {
+    "id": 692,
+    "title": "Pest Control",
+    "title_zh": "Pest Control",
+    "model_used": "nvidia/nemotron-3-nano-omni-30b-a3b-reasoning:free",
+    "source": "Kevin Kelly",
+    "link": "https://kk.org/cooltools/pest-control/",
+    "tags": [
+      "learn",
+      "science"
+    ],
+    "tags_zh": [
+      "学习",
+      "科学研究"
+    ],
+    "date": "2026-10-26",
+    "summary_en": "Reading the collection of low‑cost, non‑chemical pest control methods feels like discovering a quiet revolution in everyday gardening. The mosquito trap described by Steven Champeon turns a simple jug, water and a pheromone pack into an effective, species‑specific lure that disrupts the breeding cycle of invasive Asian Tiger mosquitoes, offering a sustainable alternative to expensive chemical sprays. Likewise, Terry Powell’s Bug Blaster demonstrates how a high‑pressure water spray can replace labor‑intensive hosing, protecting delicate foliage while delivering organic, residue‑free pest removal. Beyond these practical tools, the article weaves in broader gardening insights — mulching with cardboard barriers, evaluating underused willows, and even experimental hydrogen‑peroxide irrigation — illustrating a mindset that values experimentation, resourcefulness, and ecological balance. Together, these narratives suggest that effective pest management need not rely on synthetic chemicals; instead, simple, well‑designed interventions can empower gardeners to reclaim their outdoor spaces, reduce environmental impact, and foster a deeper connection to the living ecosystem they tend. It also reminds us that sustainable gardening is as much about observation and adaptation as it is about tools.",
+    "summary_zh": "阅读这些低成本、无化学的园艺防治方法，仿佛目睹了一场静默的小规模革命。自制蚊子陷阱利用水和信息素抑制东南亚老虎蚊的繁殖，提供比昂贵杀虫剂更可持续的选择；而水压喷雾工具则以精准细雾替代劳力清洗，既保护嫩叶又实现无残留的有机防治。文中还涵盖了以纸箱做屏障的覆盖、评估耐寒柳树以及实验性过氧化氢灌溉等更广义园艺技巧，凸显了观察、实验与生态平衡的重要性。整体而言，这些简易且具创意的措施让园丁在不依赖合成化学的前提下，既能维护户外空间，又能降低环境负担，加深与自然生态系统的联系",
+    "best_quote_en": "When I saw this cheap trap at Logan’s Trading Post three years ago, I figured what-the-heck, but we’ve been amazed at how effective they are.",
+    "best_quote_zh": "当我在三年前在Logan’s Trading Post看到这款便宜的陷阱时，我心想，随便试试看，结果我们惊讶于它的有效性。"
+  },
+  {
+    "id": 693,
+    "title": "Unlocking Persistent Motivation & Extreme Resilience | Ross Edgley",
+    "title_zh": "Ross Edgley：解锁持久动力与极端韧性",
+    "model_used": "nvidia/nemotron-3.5-lightning:free",
+    "source": "Huberman Lab",
+    "link": "https://www.hubermanlab.com/episode/unlocking-persistent-motivation-and-extreme-resilience-ross-edgley",
+    "tags": [
+      "inspire",
+      "ai-research"
+    ],
+    "tags_zh": [
+      "启发",
+      "AI研究"
+    ],
+    "date": "2026-10-26",
+    "summary_en": "This Huberman Lab podcast episode features Ross Edgley, a British ultra-endurance athlete, exploring the psychological and biological mechanisms underlying extreme persistence and resilience. The discussion traverses the neuroscience of the anterior midcingulate cortex and dorsolateral prefrontal cortex in relation to tenacity and strategy, alongside the physiological impacts of cold exposure and stress adaptation. Edgley shares personal narratives from grueling swims, emphasizing the role of purpose, shame, and anger as motivational drivers. A central theme is the dynamic updating of one's purpose and narrative to expand adversity tolerance. The episode culminates in a framework for accessing persistent motivation, blending athletic anecdote with cutting-edge neuroscience to illuminate how individuals can cultivate mental fortitude across diverse life challenges.",
+    "summary_zh": "这期Huberman Lab播客邀请英国超长跑运动员Ross Edgley，深入探讨了极端逆境中持久动力和韧性的心理与生物学机制。节目涉及前扣回叶和背外侧前额叶皮层在坚韧与策略中的神经科学作用，以及冷暴露和压力适应的生理影响。Edgley通过个人经历分享了目的、羞耻感和愤怒作为动力驱动的作用。核心主题是通过动态更新目的和个人叙事来扩大逆境容忍度。节目最终提出了一个获取持久动力的框架，将运动轶事与前沿神经科学相结合，揭示了个体如何在各类生活挑战中培养心理韧性。",
+    "best_quote_en": "\"The only way to build a resilient brain is to do things that you don't want to do.\"",
+    "best_quote_zh": "\"唯一构建有韧性大脑的方法是去做你不想做的事。\""
+  },
+  {
+    "id": 694,
+    "title": "Statist Quo",
+    "title_zh": "Statist Quo",
+    "model_used": "nvidia/nemotron-3.5-lightning:free",
+    "source": "Harper’s Magazine",
+    "link": "https://harpers.org/2026/10/general-interest-statist-quo-australia-social-media-ban-oscar-schwartz-jess-bergman/",
+    "tags": [
+      "analyze",
+      "psychology",
+      "ai-research",
+      "controversial"
+    ],
+    "tags_zh": [
+      "分析",
+      "心理学",
+      "AI研究",
+      "争议观点"
+    ],
+    "date": "2026-10-25",
+    "summary_en": "Oscar Schwartz's analysis of Australia's pioneering social media ban reveals a policy driven more by political calculation than scientific consensus. The article exposes how the ban, initially framed as a necessary protection for adolescent mental health, quickly became a political tool for the Albanese government ahead of an election. Schwartz details the fragmented scientific landscape, contrasting Jonathan Haidt's influential but selective framing of Jean Twenge's work against Candice Odgers' more nuanced findings that emphasize pre-existing risk factors. The ban's practical failure—with 85% of children maintaining accounts—has not dampened its political appeal, as similar legislation spreads globally. Critically, Schwartz argues that focusing on bans obscures more productive regulatory approaches, such as Julie Inman Grant's 'duty of care' model, which would hold tech companies accountable for product safety from the outset rather than restricting user access after harm occurs.",
+    "summary_zh": "肖尔的分析揭示了澳大利亚社交媒体禁令背后的政治动机大于科学共识。文章指出，该禁令最初被框架为保护青少年心理健康的必要措施，却迅速沦为阿尔巴尼斯政府在大选前的政治工具。肖尔详述了碎片化的科学格局，对比了乔纳森·海德特对让·滕格韦工作的有选择性框架与坎迪斯·奥德格斯更细致的发现，后者强调现有风险因素。尽管禁令实际失效——85%的儿童仍保持账户活跃——但其政治吸引力未减，类似立法正在全球扩散。批判性地，肖尔认为，将焦点集中在禁令上掩盖了更有成效的监管途径，如朱莉·英曼·格rant的‘关怀责任'模式，该模式将科技公司对产品安全的责任从一开始就成立，而非在伤害发生后限制用户访问。",
+    "best_quote_en": "\"Although the ban has been a failure in terms of getting kids off social media, it has been a success politically,\" Schwartz observes, highlighting how the policy's political utility outweighed its practical efficacy.",
+    "best_quote_zh": "\"尽管在让孩子远离社交媒体方面失败了，但它在政治上取得了成功\"，肖尔观察道，突显了该政策的政治实用性超过了其实际成效。"
+  },
+  {
+    "id": 695,
+    "title": "White noise alarm clock / Dopamine Shop / Inner sound journeys",
+    "title_zh": "白噪音闹钟 / 多巴胺商店 / 内在声音之旅",
+    "model_used": "nvidia/nemotron-3-ultra-550b-a55b:free",
+    "source": "Kevin Kelly",
+    "link": "https://kk.org/cooltools/white-noise-alarm-clock-dopamine-shop-inner-sound-journeys/",
+    "tags": [
+      "analyze",
+      "ai-research",
+      "lifestyle",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "分析",
+      "AI研究",
+      "生活方式",
+      "未来预测"
+    ],
+    "date": "2026-10-25",
+    "summary_en": "This Recomendo Christmas special breaks from tradition by crowdsourcing recommendations from subscribers, revealing a fascinating tapestry of modern coping mechanisms. The five featured recommendations span physical wellness (a 117-sound brown noise machine), digital psychology (fake shopping sites that satisfy consumerist urges without consumption), spiritual nourishment (Alana Fairchild's archetypal meditations), AI creativity (Gossip Goblin's cinematic world-building), and collective imagination (100M+ children's drawings archive). What strikes me is how each recommendation addresses a distinct modern anxiety: sleep disruption, dopamine addiction, spiritual hunger, technological alienation, and loss of wonder. The AI musical debate about whether AI is 'normal technology' perfectly encapsulates our current ontological confusion. These aren't just product recommendations—they're survival tools for navigating 2024's psychic landscape. The fake shopping sites particularly haunt me: they've gamified the therapy of consumption while removing the consequences, a brilliant and terrifying innovation.",
+    "summary_zh": "这期圣诞特辑打破惯例众包推荐，意外勾勒出现代人焦虑的完整图谱：褐噪音机对抗失眠、假购物网站治愈消费冲动、原型冥想填补灵性空虚、AI电影重构创造力边界、亿万童画唤醒丧失的惊奇感。最让我战栗的是「多巴胺商店」——它把消费的仪式感游戏化却抽离了后果，这是精妙的数字安慰剂，也是令人不寒而栗的未来预演。AI音乐剧辩论「AI是否为常态技术」更像是我们集体认知失调的仪式化表演。这些推荐不再是工具清单，而是2024年生存指南。",
+    "best_quote_en": "You consumed nothing, yet you are an ace shopper. If shopping is your comfort scroll, this is very satisfying late at night.",
+    "best_quote_zh": "你什么都没消费，却成了顶级购物达人。如果购物是你的安慰性刷屏，深夜里这能带来极大满足。"
+  },
+  {
+    "id": 696,
+    "title": "Essentials: Developing a Rational Approach to Supplementation for Health & Performance",
+    "title_zh": "要点：为健康与表现制定合理补充剂方案",
+    "model_used": "nvidia/nemotron-3.5-super-vl:free",
+    "source": "Huberman Lab",
+    "link": "https://www.hubermanlab.com/episode/essentials-developing-a-rational-approach-to-supplementation-for-health-and-performance",
+    "tags": [
+      "solve",
+      "health-wellness"
+    ],
+    "tags_zh": [
+      "解决",
+      "健康养生"
+    ],
+    "date": "2026-10-22",
+    "summary_en": "Andrew Huberman outlines a methodical framework for supplementation that prioritizes behavioral tools and nutrition before any pill or powder. He distinguishes foundational vitamins and minerals from single-ingredient compounds targeting sleep, hormone support, and cognitive focus, emphasizing rigorous self-testing, appropriate dosages, and cycling strategies. The episode critically examines popular substances like melatonin, Fadogia Agrestis, Tongkat Ali, and alpha-GPC while cautioning against treating supplements as a substitute for sleep hygiene and whole-food nutrition. Huberman's rational approach balances scientific evidence with individual variability, budget constraints, and safety considerations, offering listeners a practical decision-making process rather than a prescriptive product list.",
+    "summary_zh": "Huberman 提出了一套系统的补充剂决策框架，强调行为工具和营养应优先于任何补剂。他区分了基础维生素矿物质与针对睡眠、激素和认知的单一成分补充剂，主张通过个体测试、适当剂量和周期策略来确定方案。内容批判性地审视了褪黑素、Fadogia Agrestis、Tongkat Ali 等热门物质，并警告不要将补充剂视为睡眠卫生和全食物营养的替代品。这种理性方法兼顾科学证据与个体差异、预算和安全性，为听众提供了可操作的决策流程，而非简单的产品推荐清单。",
+    "best_quote_en": "Behavioral tools and nutrition remain the foundation for mental health, physical health and performance.",
+    "best_quote_zh": "行为工具和营养始终是心理健康、身体健康和表现的基础。"
   }
 ]
