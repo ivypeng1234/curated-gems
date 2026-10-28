@@ -1,124 +1,5 @@
 [
   {
-    "id": 597,
-    "title": "Paul McCartney continues “journey through Dungeon Lane” with four new songs – including ‘flip mix’ of Ringo Starr duet ‘Home To Us’",
-    "title_zh": "Paul McCartney 推出《Dungeon Lane》专辑特别版，收录四首新歌包括 Ringo Starr 合唱 'Home To Us' Flip Mix",
-    "model_used": "nvidia/nemotron-3.5-lightning:free",
-    "source": "NME",
-    "link": "https://www.nme.com/news/music/paul-mccartney-continues-journey-through-dungeon-lane-with-four-new-songs-including-flip-mix-of-ringo-starr-duet-home-to-us-3972594?utm_source=rss&utm_medium=rss&utm_campaign=paul-mccartney-continues-journey-through-dungeon-lane-with-four-new-songs-including-flip-mix-of-ringo-starr-duet-home-to-us",
-    "tags": [
-      "update",
-      "design",
-      "education"
-    ],
-    "tags_zh": [
-      "动态",
-      "设计创意",
-      "教育学习"
-    ],
-    "date": "2026-10-08",
-    "summary_en": "Paul McCartney releases a Special Edition of his 2024 album 'The Boys of Dungeon Lane,' featuring four new tracks written during the original session. The standout is a 'Flip Mix' of 'Home To Us,' where McCartney swaps vocals with Ringo Starr, offering fans a fresh perspective on their duet. The album, already shortlisted for the 2026 Mercury Prize, showcases McCartney's reflective songwriting about his Liverpool childhood and Beatles legacy. This expansion reinforces his ongoing creative vitality at 83, proving songwriting remains a magical, lifelong pursuit. The physical release includes limited edition vinyl with zoetrope etching, appealing to collectors and long-time fans alike.",
-    "summary_zh": "McCartney 发行《Dungeon Lane》专辑特别版，收录四首新歌，其中以 'Home To Us' 的 Flip Mix 最具亮点——麦卡特尼交换 Starr 主唱部分，为听众提供全新视角。专辑已入围 2026 年水星奖，展现了麦卡特尼关于利物浦童年和披头士遗产的反思式创作。83 岁的他依然保持创作活力，证明歌曲创作是终身的神奇体验。实体版限发橙蓝 marbled 双黑胶，带有 zoetrope 刻度，收藏价值高。",
-    "best_quote_en": "\"We just enjoyed it, like a couple of 'Boys of Dungeon Lane'. Little boys in a sandpit, having fun,\" McCartney shared about the album's creation, capturing the playful spirit behind the music.",
-    "best_quote_zh": "\"我们就像《Dungeon Lane》里的两个小男孩，在沙坑里玩得开心，”麦卡特尼谈专辑创作时分享了这种顽皮的精神内核。"
-  },
-  {
-    "id": 598,
-    "title": "Lit from Within: Eva Marie Saint (1924-2026)",
-    "title_zh": "来自内部的光芒：埃娃·玛丽·圣（1924-2026）",
-    "model_used": "cohere/north-mini-code:free",
-    "source": "RogerEbert.com",
-    "link": "https://www.rogerebert.com/tributes/lit-from-within-eva-marie-saint-1924-2026",
-    "tags": [
-      "analyze",
-      "ai-research",
-      "design",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "分析",
-      "AI研究",
-      "设计创意",
-      "未来预测"
-    ],
-    "date": "2026-10-07",
-    "summary_en": "This article celebrates the remarkable career of actress Eva Marie Saint, who passed away at 102. From her groundbreaking role as Edie Doyle in 'On the Waterfront' (1954) to her iconic performance as Eve Kendall in 'North by Northwest' (1959), Saint demonstrated exceptional range and subtlety. The piece highlights her Method-trained yet grounded approach, her ability to convey complex emotions without overt acting, and her evolution from supporting roles to leading parts. Saint's career spanned television, film, and occasional festival appearances, with notable performances in 'Exodus,' 'All Fall Down,' and 'Loving.' Her legacy includes two Academy Award nominations, a Best Supporting Actress win, and enduring influence on acting technique. Even in later years, she remained engaged with cinema, cherishing her classic roles and sharing her experiences with new generations.",
-    "summary_zh": "本文缅怀了传奇女演员埃娃·玛丽·圣，她于2026年逝世，享年102岁。从《码头风云》中 convent-trained Edie Doyle 到《北北西》中性感间谍 Eve Kendall，圣展现了非凡的表演天赋和细腻的演技。她以其方法训练但不过分神经质的独特风格，成为表演艺术中“方法 sanity”的典范。文章回顾了她从电视到电影的演艺生涯，包括《逃亡者》、《坠落的女人》和《恋爱》等作品，尤其赞扬了她在《恋爱》中对 Selma 一角的演绎。尽管有时遭遇不公平的待遇，她依然专注于捕捉真实人物的情感状态。这种对真实性的追求和她对表演的深刻理解，使她成为银幕上永恒的经典。",
-    "best_quote_en": "“I may have the baby right here!” cried a heavily pregnant Saint as she accepted her Oscar for “On the Waterfront” from Frank Sinatra.",
-    "best_quote_zh": "“我可能就在这里生宝宝！”圣怀着身孕，激动地从弗兰克·辛纳屈手中接过《码头风云》的奥斯卡奖。"
-  },
-  {
-    "id": 599,
-    "title": "Vincent van Gogh on Fear, Taking Risks, and How Inspired Mistakes Propel Us Forward",
-    "title_zh": "梵高论恐惧、冒险与灵感之错如何推动我们前行",
-    "model_used": "inclusionai/ling-3.0-flash-sante:free",
-    "source": "The Marginalian",
-    "link": "https://www.themarginalian.org/2026/10/07/van-gogh-fear-risk/",
-    "tags": [
-      "update",
-      "psychology",
-      "case-study"
-    ],
-    "tags_zh": [
-      "动态",
-      "心理学",
-      "案例研究"
-    ],
-    "date": "2026-10-08",
-    "summary_en": "This essay weaves Amanda Palmer's raw reflection on mortality and creative courage with Vincent van Gogh's 1884 letter to Theo, creating a powerful meditation on the necessity of risk in a meaningful life. The core insight is counterintuitive: doing no harm leads not to virtue but to stagnation and mediocrity. Van Gogh's metaphor of the blank canvas is striking—the canvas stares back, paralyzed by the expectation of perfection, yet the passionate painter must 'violate' that silence. Palmer's framing of death as the ultimate reminder that safety is the real folly adds urgency to Van Gogh's century-old words. The essay's deeper implication is that creative and moral courage are inseparable; the 'unsafe place' is precisely where our unique gift resides. However, the piece leans heavily on inspirational framing without grappling with the structural barriers that make risk asymmetric—for some, 'stepping in' carries consequences far beyond artistic mediocrity. Still, as a philosophical provocation, it succeeds in challenging the paralysis of perfectionism and reframing failure as an essential mechanism of growth.",
-    "summary_zh": "这篇文章将阿曼达·帕尔默对死亡与创作勇气的反思与梵高致提奥的书信交织，呈现出关于冒险与完美主义的深刻洞见。核心论点是：不犯错并非美德，而是停滞的温床。梵高关于空白画布的比喻尤为精妙——画布以沉默凝视画家，而真正的热情在于打破这种凝视。然而，文章对结构性风险的回避值得警惕：并非所有人都能平等地承担'冒险'的代价。尽管如此，作为对完美主义瘫痪的哲学挑战，它成功地将失败重新定义为成长的必要机制。",
-    "best_quote_en": "Many painters are afraid of the blank canvas, but the blank canvas IS AFRAID of the truly passionate painter who dares — and who has once broken the spell of 'you can't.'",
-    "best_quote_zh": "许多画家害怕空白的画布，但空白的画布更害怕那位真正热情的画家——他敢于打破'你不行'的魔咒。"
-  },
-  {
-    "id": 600,
-    "title": "FKA Twigs drops Shia LaBeouf lawsuit after being released from “unlawful” NDA",
-    "title_zh": "FKA Twigs终止与Shia LaBeouf的非谕密协议，撤回诉讼",
-    "model_used": "poolside/laguna-xs-2.1:free",
-    "source": "NME",
-    "link": "https://www.nme.com/news/music/fka-twigs-shia-labeouf-lawsuit-unlawful-nda-court-3972593?utm_source=rss&utm_medium=rss&utm_campaign=fka-twigs-shia-labeouf-lawsuit-unlawful-nda-court",
-    "tags": [
-      "update",
-      "society",
-      "legal",
-      "case-study"
-    ],
-    "tags_zh": [
-      "动态",
-      "社会议题",
-      "法律法规",
-      "案例研究"
-    ],
-    "date": "2026-10-08",
-    "summary_en": "This case represents a landmark victory for survivor rights, extending beyond personal vindication to systemic change. FKA Twigs' legal battle against an unlawful NDA reveals the intersection of celebrity culture, power dynamics in relationships, and legislative progress through the STAND Act. The withdrawal of the lawsuit after LaBeouf's agreement to terminate the NDA signifies not just individual justice but a broader movement challenging institutions that silence sexual assault survivors. The case's implications extend to legal precedents, industry accountability, and cultural conversations about consent and power. Notably, Twigs had no financial motive, framing her action as advocacy for less privileged survivors—a perspective that transforms personal trauma into collective empowerment. The legal maneuvering around the 2025 settlement, designed to prevent public trial exposure, underscores how NDAs can be weaponized to protect perpetrators rather than ensure confidentiality.",
-    "summary_zh": "FKA Twigs的诉讼远非个人纠纷，而是针对Silence机制的系统性反抗。她以无偿诉求的理念，为每一个缺乏资源的女性倔强者发声。STAND Act的介入，让NDA从保密工具逆转为压迫工具。这场诉讼的终结，不仅是个人胜利，更是文化界重新审视权力博弈的必然转折。当Star的隐私权与普通人的生存权发生冲突，这场风暴暴露了整个娱乐产业的韧弱脆弱。",
-    "best_quote_en": "She files this action to right a wrong, and also on behalf of other women who are the victims of sexual and domestic violence who do not have the resources to speak out and defend themselves from predators",
-    "best_quote_zh": "她提起此诉讼不仅是纠正错误，更是代表那些无力开口指控性侵犯、家庭暴力受害者的妇女——那些缺乏资源去说出真相、反抗掠夺者的女性"
-  },
-  {
-    "id": 601,
-    "title": "Female Filmmakers in Focus: Paloma Schneideman on “Big Girls Don’t Cry”",
-    "title_zh": "女导演聚焦：Paloma Schneideman 访谈 \"Big Girls Don't Cry\"",
-    "model_used": "nvidia/nemotron-3.5-lightning:free",
-    "source": "RogerEbert.com",
-    "link": "https://www.rogerebert.com/interviews/female-filmmakers-in-focus-paloma-schneideman-on-big-girls-dont-cry",
-    "tags": [
-      "learn",
-      "music-arts",
-      "case-study"
-    ],
-    "tags_zh": [
-      "学习",
-      "音乐艺术",
-      "案例研究"
-    ],
-    "date": "2026-10-07",
-    "summary_en": "Paloma Schneideman's \"Big Girls Don't Cry\" emerges as a nuanced coming-of-age story that captures the quiet agony of growing up queer in rural New Zealand without dramatic violence. The film's power lies in its subtle indication of isolation and confusion, where period details—MSN Messenger, text message costs, LimeWire—serve as visceral time capsules rather than mere pastiche. Schneideman's five-year journey, particularly her mentorship under Jane Campion, allowed her instincts to sharpen into the feature's emotional depth. What makes the film transcendent is its universality; while rooted in specific rural experience, the yearning for connection and fear of judgment resonates globally. The film belongs to everyone who has ever felt \"held\" by something unnamed, offering not just catharsis for the creator but language for audiences to understand themselves. It stands as a testament to the necessity of \"canceled\" queer narratives from the 1990s and 2000s, now recognized as masterpieces.",
-    "summary_zh": "帕洛玛·施奈德曼的 \"Big Girls Don't Cry\" 成为了细腻的成长故事，捕捉了在新西兰乡村长大的酷儿青少年无声的痛苦。电影的力量在于其微妙的孤独与困惑表现，缺乏戏剧化的暴力。时代细节——MSN Messenger、短信费用、LimeWire——作为有生命的时光胶囊而非空洞的模仿。在Jane Campion的指导下历时五年的磨练，让她的直觉转化为影片的情感深度。影片之所以超越，是因为其普世性；虽然根植于特定的乡村经历，但对联系的渴望和被评判的恐惧在全球范围内回响。这部影片属于每一个曾被某种未命名事物 \"托举\" 的人，它为创作者提供了宣泄，也为观众提供了自我理解的语言。它证明了1990年代和2000年代那些被 \"取消\" 的 queer 故事现在被认可为杰作。",
-    "best_quote_en": "\"what really makes this film special is the way Schneideman subtly indicates how painful it was in that era to grow up queer without any real support system, even if you never experienced any actual violence.\"",
-    "best_quote_zh": "\"帕洛玛·施奈德曼微妙地表明在那个时代长大成酷儿是多么痛苦，即使你从未经历过任何实际暴力。\""
-  },
-  {
     "id": 602,
     "title": "(Not Just) Another Brick in the Wall",
     "title_zh": "（非）另一堵砖墙",
@@ -2350,5 +2231,122 @@
     "summary_zh": "Huberman 提出了一套系统的补充剂决策框架，强调行为工具和营养应优先于任何补剂。他区分了基础维生素矿物质与针对睡眠、激素和认知的单一成分补充剂，主张通过个体测试、适当剂量和周期策略来确定方案。内容批判性地审视了褪黑素、Fadogia Agrestis、Tongkat Ali 等热门物质，并警告不要将补充剂视为睡眠卫生和全食物营养的替代品。这种理性方法兼顾科学证据与个体差异、预算和安全性，为听众提供了可操作的决策流程，而非简单的产品推荐清单。",
     "best_quote_en": "Behavioral tools and nutrition remain the foundation for mental health, physical health and performance.",
     "best_quote_zh": "行为工具和营养始终是心理健康、身体健康和表现的基础。"
+  },
+  {
+    "id": 697,
+    "title": "DIIV – ‘ZIRP!’ review: pop meets politics on their most adventurous record yet",
+    "title_zh": "DIIV – ‘ZIRP!’ 专辑评测：流行乐与政治交织的最冒险之作",
+    "model_used": "cohere/north-mini-code:free",
+    "source": "NME",
+    "link": "https://www.nme.com/reviews/album/diiv-zirp-review-3974219?utm_source=rss&utm_medium=rss&utm_campaign=diiv-zirp-review",
+    "tags": [
+      "analyze",
+      "politics",
+      "design"
+    ],
+    "tags_zh": [
+      "分析",
+      "政治时事",
+      "设计创意"
+    ],
+    "date": "2026-10-28",
+    "summary_en": "DIIV's latest album 'ZIRP!' marks a bold sonic and political evolution, blending their signature post-punk intensity with mainstream pop accessibility. Produced by A.G. Cook, the record captures the dystopian American experience through sharp, anti-capitalist lyrics referencing zero interest rate policies and tech monopolies. Tracks like 'The Fountain' and 'Dare Me' showcase newfound melodic hooks while maintaining the band's raw energy. Frontman Zachary Cole Smith's personal resilience after the LA wildfires infuses the album with unexpected optimism, positioning 'ZIRP!' as both a critique of late-stage capitalism and a call for community solidarity.",
+    "summary_zh": "DIIV 的新专辑《ZIRP！》在音乐上大胆突破，将流行元素与政治诉求相结合，呈现出最具冒险精神的作品。A.G. Cook 的制作让乐队从晦涩的氛围感中走向了更直接的旋律表达。歌词中对零利率政策、科技巨头等资本主义现象的批判直白而愤怒，却又不乏建设性的解决方案。面对洛杉矶山火的个人创伤，主唱 Zachary Cole Smith 将对社区的希望寄托于音乐中，使这张专辑既是控诉，也是对未来的乐观宣言。",
+    "best_quote_en": "'ZIRP!' is ambitious, unflinching and, ultimately, optimistic.",
+    "best_quote_zh": "《ZIRP！》大胆、毫不退缩，最终充满希望。"
+  },
+  {
+    "id": 698,
+    "title": "HBO’s “The Gilded Age” Reaches New Heights in Gritty Fourth Season",
+    "title_zh": "《镀金时代》第四季：在粗粝中走向新高",
+    "model_used": "dots-studio/dots-3-note-preview:free",
+    "source": "RogerEbert.com",
+    "link": "https://www.rogerebert.com/streaming/the-gilded-age-season-4-hbo-tv-review-2026",
+    "tags": [
+      "solve",
+      "lifestyle",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "解决",
+      "生活方式",
+      "未来预测"
+    ],
+    "date": "2026-10-27",
+    "summary_en": "HBO’s period drama 'The Gilded Age' enters its fourth season with heightened stakes and darker themes. The season opens with a strategic, loveless wedding, setting the tone for a year of upheaval. Bertha Russell faces a terrifying labor with her daughter Gladys, while Agnes and Ada battle for control of their home. George Russell descends into a bitter, wealth-obsessed shell of his former self after surviving an assassination attempt. Meanwhile, Marianne Brook struggles with her forbidden romance with Larry Russell, forcing the characters to adapt to harsh new realities. The show successfully sheds its predictable fluff, embracing gritty, authentic storytelling that tackles serious historical issues like bodily autonomy and substance abuse, proving to be its most compelling season yet.",
+    "summary_zh": "HBO年代剧《镀金时代》第四季以更高张力与更暗黑主题回归。本季以一场策略性无爱婚礼开场，预示着全年的动荡。伯莎·拉塞尔面临女儿格拉迪斯的恐怖难产，艾格尼丝与阿达为争夺住宅控制权而反目。乔治·拉塞尔在遭遇暗杀未遂后，逐渐沦为被财富与名利驱使的空壳。玛丽安·布鲁克与拉里·拉塞尔的禁忌之恋陷入危机，迫使角色在残酷现实中重塑自我。本季成功摆脱了以往的套路化与冗余情节，转向更粗粝、更真实的叙事，直面身体自主权与药物滥用等历史痛点，成为系列迄今最具深度的一季。",
+    "best_quote_en": "The series has slowly changed not only its structure but also the themes it deems pressing, allowing this often fluffy show to become a grittier, more authentic version of itself.",
+    "best_quote_zh": "该剧不仅悄然改变了自身结构，更刷新了其关注的核心议题，使这部常显轻浮的作品蜕变为更粗粝、更真实的版本。"
+  },
+  {
+    "id": 699,
+    "title": "What It Takes to Be Free",
+    "title_zh": "自由之路",
+    "model_used": "nvidia/nemotron-3-nano-omni-30b-a3b-reasoning:free",
+    "source": "The Marginalian",
+    "link": "https://www.themarginalian.org/2026/10/27/freedom/",
+    "tags": [
+      "inspire",
+      "ai-research",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "启发",
+      "AI研究",
+      "未来预测"
+    ],
+    "date": "2026-10-28",
+    "summary_en": "This essay explores the paradoxical relationship between freedom and selfhood, arguing that true liberation requires radical self-transcendence rather than self-assertion. Drawing on literary and philosophical voices from Baldwin to Murdoch, the piece contends that freedom emerges when we 'unself' - shedding fixed identities and embracing our mutable nature. The core insight is that our freedom is inseparable from our capacity for authentic belonging: we become free not by escaping connection but by recognizing others as equally complex, free agents. This perspective reframes freedom as an active practice of self-knowledge that liberates both individual growth and compassionate relationships. The author's personal commitment to maintaining an ad-free, reader-supported platform underscores the value they place on creating space for contemplative engagement with such challenging ideas.",
+    "summary_zh": "本文深刻剖析了自由与自我之间的辩证关系，指出真正的解放需要超越自我而非强化自我。作者认为，自由源于「去自我」——放下固定身份、拥抱自身的流动性。关键洞见在于自由与真实归属不可分割：我们并非通过切断联系来获得自由，而是通过认识到他人同样是独立的自由主体来实现自我解放。这种视角将自由视为通过自我认知促进个人成长与慈爱的实践。作者坚持维护无广告、由读者支持的平台，彰显了对思考性阅读空间的珍视。",
+    "best_quote_en": "Nothing is more unbearable, once one has it, than freedom.",
+    "best_quote_zh": "自由一旦拥有，便再也难以忍受。"
+  },
+  {
+    "id": 700,
+    "title": "‘Ghost Rider’: ‘Heated Rivalry’ Breakout Connor Storrie In Talks For Co-Lead Opposite Ryan Gosling, Possibly As Villain",
+    "title_zh": "《鬼骑士》选角新动态：瑞恩·高斯林搭档《激烈对抗》新星康纳·斯托里，或饰反派",
+    "model_used": "nvidia/nemotron-3-ultra-550b-a55b:free",
+    "source": "The Playlist",
+    "link": "https://theplaylist.net/connor-storrie-ghost-rider-ryan-gosling-marvel-20261027/",
+    "tags": [
+      "update",
+      "music-arts",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "动态",
+      "音乐艺术",
+      "未来预测"
+    ],
+    "date": "2026-10-27",
+    "summary_en": "Marvel's Ghost Rider reboot takes shape with intriguing casting choices that signal a tonal shift for the MCU's supernatural corner. Ryan Gosling's Johnny Blaze gets a potential foil in Connor Storrie, whose breakout in HBO's gay hockey drama 'Heated Rivalry' and chilling cameo in Joker: Folie à Deux suggest range beyond typical blockbuster fare. The Shawn Levy-Jonathan Tropper reunion (fresh off Deadpool & Wolverine) plus Linus Sandgren shooting on film hints at visual ambition rare for Marvel. What fascinates me is how this positions the Midnight Sons mythology—Mephisto, Werewolf by Night, Blade—all circling a 2028 release that could finally cohere Marvel's horror-adjacent IP. Storrie skipping auditions suggests Marvel sees leading-man potential, not just villain-of-the-week. The Nevada/Oregon/California locations imply practical effects over volume stages. This feels like Marvel attempting something textured rather than templated—whether they stick the landing remains the question.",
+    "summary_zh": "漫威《鬼骑士》重启版选角透露野心：高斯林搭档HBO剧《激烈对抗》新星康纳·斯托里，后者从同性冰球剧到《小丑2》结尾杀手的跨度令人期待。肖恩·李维执导、乔纳森·特珀编剧、林纳斯·桑德格伦胶片拍摄——这组合罕见地指向质感而非流水线。更有趣的是午夜之子团队的铺垫：梅菲斯托、狼人、刀锋战士都在等待。斯托里免试镜直接谈主演，漫威或在培养新一代领衔而非功能性反派。内华达/俄勒冈/加州实景拍摄暗示实拍特效优先。漫威能否驾驭这股超自然黑暗风，2028年见分晓。",
+    "best_quote_en": "The actor is reportedly in talks for a co-leading role opposite Ryan Gosling in 'Ghost Rider,' with Shawn Levy directing. His character remains unknown, though speculation suggests he could play the film's main villain.",
+    "best_quote_zh": "据报道，这位演员正在洽谈在《鬼骑士》中担任瑞恩·高斯林的联合主演，由肖恩·李维执导。他的角色尚不得而知，但有推测认为他可能饰演本片的主要反派。"
+  },
+  {
+    "id": 701,
+    "title": "White House tips Nicki Minaj as next press secretary?",
+    "title_zh": "白宫或提名尼基迷昂为下任新闻秘书？",
+    "model_used": "poolside/laguna-s-2.1:free",
+    "source": "NME",
+    "link": "https://www.nme.com/news/music/white-house-tips-nicki-minaj-as-next-press-secretary-3974384?utm_source=rss&utm_medium=rss&utm_campaign=white-house-tips-nicki-minaj-as-next-press-secretary",
+    "tags": [
+      "update",
+      "politics",
+      "music-arts",
+      "controversial"
+    ],
+    "tags_zh": [
+      "动态",
+      "政治时事",
+      "音乐艺术",
+      "争议观点"
+    ],
+    "date": "2026-10-27",
+    "summary_en": "This article explores the intersection of celebrity culture and political theater, highlighting how Nicki Minaj's public endorsement of Donald Trump has evolved into a satirical White House suggestion that she become press secretary. The piece underscores the increasingly blurred lines between entertainment and governance in the current political climate. Minaj's vocal support for Trump—rooted in admiration for his business acumen and persona—reflects a broader trend of celebrities aligning with populist movements, often at the cost of significant backlash. Her appearances at Trump rallies and conservative media platforms signal a strategic repositioning that challenges traditional industry norms and raises questions about artistic identity versus political allegiance. The White House's tongue-in-cheek response amplifies the spectacle, suggesting that political appointments may now be influenced by cultural visibility rather than institutional experience. This dynamic reveals how modern politics increasingly relies on performative alignment and media-savvy figures to shape public perception.",
+    "summary_zh": "这则消息折射出娱乐与政治日益交融的现象，尼基迷昂公开支持特朗普竟引来白宫玩笑般的提名，彰显政治舞台对明星文化的利用。她的立场转变背后，是个人光圈扩大的同时，也面临舆论风暴，说明当下公众人物的政治表达愈发成为舆论战的焦点。这种“明星背书”是否改变选举生态，值得深思。",
+    "best_quote_en": "“I just love him,” Minaj said. “And I’m not going to ever make excuses for that.”",
+    "best_quote_zh": "“我只是喜欢他，我绝不会为此找借口。”"
   }
 ]
