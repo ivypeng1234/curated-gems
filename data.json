@@ -1,124 +1,5 @@
 [
   {
-    "id": 607,
-    "title": "The Random Show — AI Super Assistants, Boner Pills, Dream Engineering, Wizards, Supplements, Books, and More (#886)",
-    "title_zh": "《随机秀》—— AI 超级助手、阴茎药、梦境工程、巫师、补品、书籍等 (#886)",
-    "model_used": "poolside/laguna-xs-2.1:free",
-    "source": "Tim Ferriss",
-    "link": "https://tim.blog/2026/10/09/the-random-show-ai-super-assistants-boner-pills-dream-engineering-wizards-supplements-books-and-more/",
-    "tags": [
-      "learn",
-      "medicine",
-      "writing-content",
-      "beginner-friendly"
-    ],
-    "tags_zh": [
-      "学习",
-      "医学健康",
-      "写作内容",
-      "新手友好"
-    ],
-    "date": "2026-10-09",
-    "summary_en": "This episode of The Random Show features Tim Ferriss and Kevin Rose discussing a fascinating array of topics spanning cutting-edge AI applications, biohacking, and cultural phenomena. They explore AI super assistants that can run listeners' lives via text messaging and agentic shopping experiences, representing the frontier of personal automation. The conversation delves into biohacking territory with discussions on beta-alanine for climbing endurance, the relationship between walnuts and sperm quality, and dream engineering through anesthesia. Perhaps most provocatively, they examine the normalization of male enhancement products and the emergence of 'man makeup' as a beauty trend. The episode includes references to popular culture like 'The Dark Wizard' and Ferriss's upcoming book, while also featuring a playful Jean-Claude Van Damme splits bet. Throughout, the conversation reflects the intersection of technology, health optimization, and masculine performance culture that defines contemporary self-improvement discourse. The discussion reveals how AI assistants are evolving from simple tools to potential life management systems, while biohacking conversations increasingly blur the lines between legitimate health optimization and consumer culture's approach to masculinity and performance.",
-    "summary_zh": "本期《随机秀》邀请蒂姆·费瑞斯和凯文·罗斯探讨AI超级助手、生物增强和性别性能文化交汇的前沿话题。讨论AI可通过文本消息管理生活、代理式购物等个人自动化前沿应用，涉及β-丙氨酸提升攀岩耐力、核桃与精子质量关系，甚至梦境工程与麻醉梦境。更具争议的是对男性增强药物与'男性化妆'趋势的解构，揭示当代自我提升话语中技术、健康优化与 masculine performance 文化的复杂交织。",
-    "best_quote_en": "AI super assistants that run your life over text message, agentic shopping, beta-alanine for climbing endurance, walnuts and sperm quality, dream engineering and anesthesia dreams, boner pills, man makeup, The Dark Wizard, my upcoming book, a Jean-Claude Van Damme splits bet, and much more.",
-    "best_quote_zh": "AI 超级助手通过文本消息运行你的生活，代理式购物，β-丙氨酸提升攀岩耐力，核桃与精子质量，梦境工程与麻醉梦境，阴茎药，男性化妆，《黑暗巫师》，我的即将出版的书籍，让·克劳斯·范·达姆进行裂开的赌注，以及更多内容。"
-  },
-  {
-    "id": 608,
-    "title": "游戏机，越卖越贵",
-    "title_zh": "游戏机，越卖越贵",
-    "model_used": "apodex/apodex-1.1-mini:free",
-    "source": "虎嗅",
-    "link": "https://www.huxiu.com/article/4896447.html?f=rss",
-    "tags": [
-      "solve",
-      "general",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "解决",
-      "general",
-      "未来预测"
-    ],
-    "date": "2026-10-10",
-    "summary_en": "This report reveals a striking paradox: the gaming console market is simultaneously hitting record-high prices and a 13-year low in sales volume. The root cause lies upstream—AI data centers are monopolizing HBM and DRAM production capacity, forcing console makers to absorb soaring component costs and pass them on to consumers. Sony's PS5 has surged from $399 to $599, while the PS5 Pro now commands $899. The critical insight is timing: this price shock arrives mere weeks before GTA6, the industry's most anticipated release, which is expected to be the catalyst that converts long-observing players into console buyers. Yet analysts warn that the psychological gap between what consumers expected to pay (~$200) versus reality ($600-$900) may extinguish demand precisely when the industry needs it most. This is not merely a pricing story—it's a case study in how AI infrastructure investment is reshaping consumer electronics economics, with supply constraints already triggering sporadic stockouts. The holiday season looms as a decisive test of whether GTA6's pull can overcome consumer resistance.",
-    "summary_zh": "游戏机市场正陷入高价与销量双杀的悖论。AI数据中心对存储芯片产能的挤占，迫使索尼、微软、任天堂集体涨价，PS5 Pro已达899美元。最耐人寻味的是时机——GTA6发售前夕，本应是行业最期待的消费爆发点，但消费者心理价位（约200美元）与现实的巨大落差，可能浇灭观望者的热情。这不仅是价格故事，更是AI基建投资如何重塑消费电子经济学的典型案例。年末旺季将成为决定性试金石：GTA6的拉力能否抗衡消费者的价格抵触？",
-    "best_quote_en": "\"If there are consoles on the shelf, I think consumers are going to feel some of the price shock.\"",
-    "best_quote_zh": "如果货架上还能买得到游戏机的话，我想消费者会感受到一些价格冲击。"
-  },
-  {
-    "id": 609,
-    "title": "这个世界，永远比AI生成的多一点",
-    "title_zh": "这个世界，永远比AI生成的多一点",
-    "model_used": "apodex/apodex-1.1-mini:free",
-    "source": "三联生活周刊",
-    "link": "http://weixin.sogou.com/weixin?type=2&query=%E4%B8%89%E8%81%94%E7%94%9F%E6%B4%BB%E5%91%A8%E5%88%8A+%E8%BF%99%E4%B8%AA%E4%B8%96%E7%95%8C%EF%BC%8C%E6%B0%B8%E8%BF%9C%E6%AF%94AI%E7%94%9F%E6%88%90%E7%9A%84%E5%A4%9A%E4%B8%80%E7%82%B9",
-    "tags": [
-      "solve",
-      "lifestyle",
-      "design",
-      "beginner-friendly"
-    ],
-    "tags_zh": [
-      "解决",
-      "生活方式",
-      "设计创意",
-      "新手友好"
-    ],
-    "date": "2026-10-09",
-    "summary_en": "This piece unfolds a quietly urgent argument: in an era where AI can conjure complete worlds in minutes, the real frontier of creativity is no longer generation but verification. The author anchors this claim in the concrete, often invisible frictions of everyday life—like an 80mm discrepancy in a wheelchair grab bar that looks fine from standing height but fails when someone actually sits. Through the lens of Cornell scholar Steven Jackson's 'broken world thinking,' the article reveals that systems which appear to function perfectly often harbor problems invisible to the designer's eye but glaring to the lived experience of users. What makes this analysis compelling is its refusal to treat AI as the villain; instead, it positions human, embodied experience as the essential counterweight. The true value lies not in rejecting synthetic content but in recognizing that authenticity emerges from the messy, unanticipated details that only real bodies encounter. This is a call to shift our creative energy from producing more to noticing more—the difference between a world that looks complete and one that actually works.",
-    "summary_zh": "在AI几分钟就能生成完整世界的时代，创造的真义正在从「生成」转向「验证」。文章以轮椅扶手80毫米的误差切入——站立时看不出，坐上去才知差别。借「破损世界思维」指出：看似完美的系统，往往藏着设计者看不见、使用者才遭遇的困境。真正的价值不在于拒绝AI，而在于让具身经验成为真实的锚点。创造之后继续发生的事，才是真实所在。",
-    "best_quote_en": "A world that appears to be running well doesn't mean it actually has no problems. Much of what's real hides in the places hard to see: overlooked needs, friction in use, and difficulties only certain people encounter when they truly arrive.",
-    "best_quote_zh": "一个看起来运行良好的世界，并不意味着它真的没有问题。很多真实，恰恰藏在那些不容易被看见的地方：被忽略的需要、不够顺利的使用，以及只有某些人真正走到这里，才会遭遇的困难。"
-  },
-  {
-    "id": 610,
-    "title": "Book of the month: Tsering Döndrup",
-    "title_zh": "本月推荐书籍：才让多吉的《红风呼啸》",
-    "model_used": "nvidia/nemotron-3-ultra-550b-a55b:free",
-    "source": "A year of reading the world",
-    "link": "https://ayearofreadingtheworld.com/2026/04/30/book-of-the-month-tsering-dondrup/",
-    "tags": [
-      "solve",
-      "writing-content",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "解决",
-      "写作内容",
-      "未来预测"
-    ],
-    "date": "2026-04-30",
-    "summary_en": "This review introduces Tsering Döndrup's 'The Red Wind Howls,' a Tibetan novel banned in its homeland that cost its author his party membership, passport, and pension. Translated by Christopher Peacock, the novel unfolds in two parts: first following Alak Drong, a lapsed lama forced into labor camps during the 1958 uprising, Great Leap Forward, and Cultural Revolution; then centering on Lozang Gyatso and Tashi Lhamo navigating survival under oppression. What astonishes is the novel's voice—irreverent, fresh, and deeply humane rather than dense or polemical. Döndrup's structural boldness (no chapters, non-linear time reflecting trauma's disorientation) and moral nuance (no one is purely innocent, blame crosses ethnic lines) elevate this beyond testimony into literature. The review thoughtfully compares it to other recent minority-language translations from China, situating it within a growing but still sparse corpus. Most poignant: a novel that finds hope in books caused its author such suffering, and remains unavailable in Tibetan. Peacock's translation finally lets this voice reach a global readership.",
-    "summary_zh": "这篇书评引领我走进才让多吉的《红风呼啸》——一部在西藏被禁、让作者丧失党籍护照养老金的小说。克里斯托弗·皮科克的译本让这股声音终于跨越语言边界。小说分两部：前半写阿拉·仲在1958年起义、大跃进、文革中沦为「劳动机器」；后半写罗桑嘉措与扎西拉姆在生存边缘的挣扎。最震撼的不是沉重的历史，而是叙事的轻盈与人性的深度：无章节、时空交错的结构模拟创伤如何打乱记忆；讽刺与慈悲并存，不将罪责简单归于民族对立。评论者敏锐地将其置于中国少数民族文学翻译的新浪潮中，并指出一个残酷的讽刺：寄希望于书籍的故事，让作者因书籍而受难。这不仅是见证文学，更是关于如何在毁灭中保持人性的深刻寓言。",
-    "best_quote_en": "For a free person, a forest might be a nice vacation spot, somewhere to get away from it all. But for someone deprived of their freedom it's the very opposite: it feels like a prison cell.",
-    "best_quote_zh": "对自由人来说，森林或许是度假胜地，可以逃离一切；但对被剥夺自由的人，它完全相反：感觉像牢房。"
-  },
-  {
-    "id": 611,
-    "title": "How to Legalize Medical Psychedelics in Your Country — Tania de Jong on The Playbook Behind Australia’s World-First Breakthrough (#883)",
-    "title_zh": "如何在你的国家合法化医疗用迷幻药物——蒂安娜·德容分享澳大利亚的突破经验",
-    "model_used": "cohere/north-mini-code:free",
-    "source": "Tim Ferriss",
-    "link": "https://tim.blog/2026/09/18/how-to-legalize-medical-psychedelics/",
-    "tags": [
-      "solve",
-      "science",
-      "medicine"
-    ],
-    "tags_zh": [
-      "解决",
-      "科学研究",
-      "医学健康"
-    ],
-    "date": "2026-09-18",
-    "summary_en": "This episode explores how Tania de Jong and her organization Mind Medicine Australia led the campaign that made Australia the first country to allow prescribed MDMA and psilocybin for psychiatric conditions in 2023. The conversation covers the strategic playbook behind this breakthrough, including key milestones from Michael Pollan's influential article in 2015 to the final regulatory approval in 2023. De Jong shares insights on navigating complex regulatory landscapes, building public support, and creating a model that other countries can replicate. The episode provides a comprehensive roadmap for advocates seeking to legalize medical psychedelics, emphasizing the importance of scientific evidence, political engagement, and grassroots mobilization.",
-    "summary_zh": "本期节目深入探讨了蒂安娜·德容及其领导的澳大利亚心灵药物协会如何在2023年成功推动澳大利亚成为全球首个批准MDMA和Psilocybin用于精神疾病治疗的国家。对话回顾了从迈克尔·波伦2015年在《纽约客》发表的《致幻治疗》一文开始，到2023年最终监管批准的关键历程。德容分享了制定策略、游说和建立公众支持的宝贵经验，以及为其他国家提供可复制模式的见解。本期节目为希望合法化医疗用迷幻药物的倡导者提供了全面的路线图，强调了科学证据、政治游说和草根动员的重要性。",
-    "best_quote_en": "Making history isn't about being the first; it's about being the ones who make it happen.",
-    "best_quote_zh": "创造历史不是关于成为第一个；而是关于成为那些让它发生的人。"
-  },
-  {
     "id": 612,
     "title": "How Does Life Unfold? A Landscape Metaphor Comes Into Its Own.",
     "title_zh": "生命如何展开？一种景观隐喻终于大显身手",
@@ -2348,5 +2229,122 @@
     "summary_zh": "N.D. Austin 是一位专业创造改变体验的人，他的项目包括秘密下水道酒吧、荒岛成人礼、葬礼棋盘游戏，以及为托尼·霍克设计的沙漠 homemade 列车，以修复破裂的关系。他在阿拉斯加的毁灭主义邪教中成长的经历，塑造了他对仪式、慷慨和在日常生活中加入更多魔法的思考。",
     "best_quote_en": "Designing experiences is like weaving magic into the fabric of everyday life.",
     "best_quote_zh": "设计体验就像在日常生活中编织魔法。"
+  },
+  {
+    "id": 707,
+    "title": "Novelty and Heresy",
+    "title_zh": "新奇与异端",
+    "model_used": "poolside/laguna-xs-2.1:free",
+    "source": "Paul Graham",
+    "link": "http://www.paulgraham.com/nov.html",
+    "tags": [
+      "inspire",
+      "general",
+      "controversial"
+    ],
+    "tags_zh": [
+      "启发",
+      "general",
+      "争议观点"
+    ],
+    "date": "2026-10-30",
+    "summary_en": "This profound piece explores the paradoxical relationship between innovation and resistance, revealing how truly novel discoveries often appear heretical precisely because they challenge deeply held assumptions. The author insightfully argues that valuable ideas are rarely obvious—when something seems self-evidently correct, others have likely already pursued it. Instead, groundbreaking work emerges from questioning the 'mistaken assumptions' that create intellectual blind spots. Historical figures like Galileo and Darwin exemplify this pattern: their revolutionary insights were initially dismissed as dangerous heresies because they undermined established paradigms. The text warns that organizational cultures intolerant of heretical thinking don't just suppress dissent—they eliminate entire territories of unexplored possibility. Yet this same dynamic creates opportunity: by deliberately seeking out 'heresies,' innovators can access vast, untapped mines of new ideas. The piece ultimately suggests that embracing intellectual heresy is essential for genuine progress, transforming what we fear as deviation into our most reliable compass for discovery.",
+    "summary_zh": "这篇文章深刻探讨了创新与抵抗之间的悖论，揭示了多么新奇的发现往往看似异端，恰恰因为它们挑战了深刻持有的假设。作者洞见地指出，真正有价值的想法从来不是显而易见的——当某事看似自证其明时，他人很可能已经在追求。伟大的发现源于质疑那些制造认知盲区的'错误假设'。加拉利和狄亚纳正是这一模式的典型例子：他们的革命性见解最初被视为危险的异端，因为挑战了既定范式。文章警示，容忍异端思想的组织文化不仅压制异议，更消灭了未探索的可能领域。但这一动态同样创造机遇：通过刻意寻找'异端'，创新者能发现广阔的未开发新想法矿藏。这篇文章最终暗示，拥抱思想异端是实现真正进步的关键，使我们将畏惧的偏离转化为发现的指南针。",
+    "best_quote_en": "If you discover something new, there's a significant chance you'll be accused of some form of heresy. To discover new things, you have to work on ideas that are good but non-obvious; if an idea is obviously good, other people are probably already working on it.",
+    "best_quote_zh": "如果你发现了新东西，就有很大的可能被指控某种形式的异端。要发现新的东西，你必须在想要的但不寻常的想法上工作；如果一个想法是显而易见的好想法，其他人可能已经在工作。"
+  },
+  {
+    "id": 708,
+    "title": "The Tim Ferriss Show Transcripts: Legendary Chef Jacques Pépin — The Pursuit of Mastery, Cooking for Presidents, Meeting Julia Child, and More",
+    "title_zh": "蒂姆·费里斯脱口秀字幕：烹饪传奇雅克·佩坎 — 对卓越的追求、为总统烹饪、遇见茉莉·查尔德等",
+    "model_used": "poolside/laguna-s-2.1:free",
+    "source": "Tim Ferriss",
+    "link": "https://tim.blog/2026/10/27/jacques-pepin-transcript/",
+    "tags": [
+      "solve",
+      "writing-content",
+      "design"
+    ],
+    "tags_zh": [
+      "解决",
+      "写作内容",
+      "设计创意"
+    ],
+    "date": "2026-10-27",
+    "summary_en": "This transcript captures a rich conversation between Tim Ferriss and culinary master Jacques Pépin, revealing profound insights about mastery, creativity, and the intersection of different art forms. Pépin's journey—from wartime France to cooking for heads of state—illustrates how necessity breeds innovation, as seen in his mother's resourceful 'fridge soup' philosophy that became a lifelong motto. The dialogue reveals Pépin's unique teaching philosophy: preparation should appear effortless, guided by intuitive workflow rather than rote memory. Perhaps most compelling is his parallel between cooking and painting, where both require iterative testing and adjustment until satisfaction emerges. His unconventional career choices—like choosing Howard Johnson over the White House—demonstrate a consistent prioritization of creative freedom over conventional prestige. The conversation ultimately illuminates how true mastery transcends technical skill, encompassing adaptability, curiosity, and the wisdom to know what matters most.",
+    "summary_zh": "佩坎从战时法国到为国家领导人烹饪，展现了必要如何催生创新——母亲的'冰箱汤'哲学影响终生。这段对话揭示了真正的卓越超越技术，包含适应力、好奇心和判断什么最重要的智慧。",
+    "best_quote_en": "I don't really have any memory. I go in my head, I say, 'I'm going to put that on the stove, and it's going to take a minute or so, so I can open the oven.' I work it out as a cook following the recipe itself rather than the question of memory.",
+    "best_quote_zh": "我其实没有什么记忆力。我在脑子里会说：'我要把这个放在火上，大概需要一分钟，所以我可以打开烤箱。'我作为一个厨师，是按照食谱本身来安排，而不是靠记忆。"
+  },
+  {
+    "id": 709,
+    "title": "中国车主的油费痛感是美国人的6.6倍，油车彻底崩了",
+    "title_zh": "中国车主的油费痛感是美国人的6.6倍，油车彻底崩了",
+    "model_used": "google/gemma-4-26b-a4b-it:free",
+    "source": "虎嗅",
+    "link": "https://www.huxiu.com/article/4901621.html?f=rss",
+    "tags": [
+      "inspire",
+      "business-model",
+      "science",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "启发",
+      "商业模式",
+      "科学研究",
+      "未来预测"
+    ],
+    "date": "2026-10-30",
+    "summary_en": "This article provides a scathing critique of the collapsing internal combustion engine (ICE) market in China, triggered by skyrocketing fuel prices and a fundamental shift in consumer psychology. By analyzing the 'fuel pain index'—revealing that Chinese drivers face a cost-to-income ratio 6.6 times higher than Americans—the author argues that high oil prices are merely the final catalyst for a structural decay. The analysis dissects the failure of three major segments: the mass market (where cost-sensitive users are abandoning car ownership altogether), joint ventures (whose technological edge has been neutralized by domestic NEVs), and luxury brands (whose prestige is being eroded by high-tech Chinese competitors like Li Auto and AITO). Crucially, the piece touches on a profound sociological shift: younger generations are prioritizing financial security and 'instant gratification' over the status-driven, debt-heavy lifestyle of traditional car ownership. It concludes that the ICE era isn't just transitioning; it is being liquidated by a combination of economic reality and changing social values.",
+    "summary_zh": "本文深刻剖析了中国燃油车市场的结构性崩塌。作者指出，高企的油价并非唯一诱因，而是压死燃油车商业模式的最后一根稻草。通过对比中外油费“痛感”指数，揭示了中国车主面临的严峻经济压力。文章不仅拆解了合资品牌产品力过时、豪华品牌溢价崩塌的现状，更敏锐地捕捉到了消费心理的底层变迁：年轻人正从“面子工程”转向追求“财务安全感”，汽车正从身份象征退化为纯粹的成本负担。这不仅是一场能源动力的更迭，更是一场关于消费价值观与社会阶层认同的深刻转型。",
+    "best_quote_en": "The real danger for automakers is not that 92-octane gasoline rises by another twenty cents tomorrow, but that consumers have completed their psychological migration and no longer wish to pay for the old model.",
+    "best_quote_zh": "对车企而言，真正的危险不是92号明天再涨两毛，而是消费者已经完成心理迁移，并不想再为旧模式买单。"
+  },
+  {
+    "id": 710,
+    "title": "高级餐厅里的“稀客”，在这座小城凭什么能爽吃？",
+    "title_zh": "高级餐厅里的“稀客”，在这座小城凭什么能爽吃？",
+    "model_used": "nvidia/nemotron-3-nano-omni-30b-a3b-reasoning:free",
+    "source": "三联生活周刊",
+    "link": "http://weixin.sogou.com/weixin?type=2&query=%E4%B8%89%E8%81%94%E7%94%9F%E6%B4%BB%E5%91%A8%E5%88%8A+%E9%AB%98%E7%BA%A7%E9%A4%90%E5%8E%85%E9%87%8C%E7%9A%84%E2%80%9C%E7%A8%80%E5%AE%A2%E2%80%9D%EF%BC%8C%E5%9C%A8%E8%BF%99%E5%BA%A7%E5%B0%8F%E5%9F%8E%E5%87%AD%E4%BB%80%E4%B9%88%E8%83%BD%E7%88%BD%E5%90%83%EF%BC%9F",
+    "tags": [
+      "analyze",
+      "science",
+      "design"
+    ],
+    "tags_zh": [
+      "分析",
+      "科学研究",
+      "设计创意"
+    ],
+    "date": "2026-10-29",
+    "summary_en": "This article offers a vivid exploration of盐池滩羊, a regional specialty often absent from high-end restaurants. Through the lens of '海清大块羊肉', it reveals how local culinary traditions - particularly the unique salt-alkali environment that produces flavorless, tender meat - create authentic experiences for curious visitors. The piece highlights the cultural practice of '打平伙' where communities share sheep, contrasting it with modern restaurant experiences. The author's journey from Wu Tong to this remote location demonstrates how geographical isolation and specific agricultural conditions create distinctive food identities that transcend typical urban-rural divides. The article's strength lies in its sensory detail and anthropological observation, making a compelling case for experiencing regional food cultures firsthand.",
+    "summary_zh": "这篇关于盐池滩羊的文章以\"海清大块羊肉\"为切入点，揭示了西北荒漠中特殊盐碱地如何孕育出无膻味的羊肉。作者亲身体验了从吴忠到盐池的 journey，通过与老尹的对话和味觉体验，展现了当地人对羊肉的朴素理解 - 打平伙、手抓、简单清汤蘸蒜醋汁。文章深刻剖析了盐池地理环境（盐层、碱土）与羊的饮食习性（食用碱性草料）如何共同抑制膻味，并反思了高端餐厅中稀缺的本土食材体验。这种对味觉、文化与地理的立体观察，让人意识到普通人的生活智慧才是最动人的\"稀客\"之魅。",
+    "best_quote_en": "This soup contains only umami without gaminess, naturally sweet as sun-baked hay.",
+    "best_quote_zh": "这汤里只有鲜味没有膻味，自然清甜得就像太阳底下晒着的麦秸。"
+  },
+  {
+    "id": 711,
+    "title": "The Bus Ticket Theory of Genius",
+    "title_zh": "天才的巴士票理论",
+    "model_used": "poolside/laguna-xs-2.1:free",
+    "source": "Paul Graham",
+    "link": "http://www.paulgraham.com/genius.html",
+    "tags": [
+      "analyze",
+      "general",
+      "case-study"
+    ],
+    "tags_zh": [
+      "分析",
+      "general",
+      "案例研究"
+    ],
+    "date": "2026-10-30",
+    "summary_en": "This article presents the 'Bus Ticket Theory of Genius,' arguing that true innovation requires a third element beyond talent and determination: an obsessive, disinterested passion for seemingly pointless pursuits. Drawing parallels between bus ticket collectors and historical geniuses like Darwin and Ramanujan, it suggests that their infinite curiosity about minutiae enabled breakthrough discoveries. The theory proposes that geniuses follow paths others overlook because they genuinely cannot help but pursue their interests, not because they strategically 'lay groundwork.' While some obsessions matter (especially when creating rather than consuming, or when difficult for others), many must be 'wasted' efforts, following a risk-reward principle where big discoveries require betting on unpromising paths. The author advocates cultivating intellectual curiosity in children by encouraging deep, passionate exploration of whatever captures their interest, rather than prescribing predetermined specializations.",
+    "summary_zh": "文章提出'巴士票天才理论'：真正的创新需要天赋、毅力和对看似无意义事物的执着痴迷。达尔文、拉马努塔等天才之所以能发现他人忽略的路径，正是因为他们无法抗拒自己的兴趣。作者认为许多伟大发明源于'浪费'时间的风险投资，鼓励培养孩子的深度探索欲，让他们按兴趣深耕而非被动接受教学。",
+    "best_quote_en": "If I had to put the recipe for genius into one sentence, that might be it: to have a disinterested obsession with something that matters.",
+    "best_quote_zh": "如果我必须用一句话概括天才的配方，或许就是：对某件真正重要的事物保持无条件的痴迷。"
   }
 ]
