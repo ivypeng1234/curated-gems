@@ -1,120 +1,5 @@
 [
   {
-    "id": 617,
-    "title": "Jurassic sounds / Free Utilities / China travel tip",
-    "title_zh": "侏罗纪之声 / 免费实用工具 / 中国旅行贴士",
-    "model_used": "apodex/apodex-1.1-mini:free",
-    "source": "Kevin Kelly",
-    "link": "https://kk.org/cooltools/jurassic-sounds-free-utilities-china-travel-tip/",
-    "tags": [
-      "update",
-      "general",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "动态",
-      "general",
-      "未来预测"
-    ],
-    "date": "2026-10-11",
-    "summary_en": "This curated digest is a fascinating mosaic of disparate discoveries, yet it reveals a coherent underlying theme: the democratization of experience through accessible tools and technology. The Jurassic forest audio reconstruction is particularly striking—it transforms paleontology from a visual, static discipline into an immersive auditory one, reminding us that our understanding of deep time is constantly being enriched by new methodologies. The practical recommendations, from budget exercise headphones to a 193-tool browser utility suite, demonstrate a pragmatic appreciation for low-cost, high-utility solutions that respect the user's time and privacy. The China travel tip and the book restoration project add layers of cultural and historical context, while the sponsor's question about why smart people miss the future serves as a meta-commentary on the newsletter's very purpose: helping readers anticipate change. The inclusion of AI in translating an out-of-print German classic is a subtle but significant nod to how generative tools are rescuing cultural heritage. Overall, the content feels like a conversation between curious, well-traveled enthusiasts who value both wonder and utility.",
-    "summary_zh": "这份精选辑看似零散，实则贯穿一条主线：技术与工具让体验变得民主。侏罗纪森林的听觉重构尤为动人，它将古生物学从静态视觉转向沉浸式听觉。实用推荐如百元耳机、193 款浏览器工具集，体现对低成本高效解决方案的欣赏。中国旅行贴士与绝版书修复则增添了文化与历史维度。AI 翻译德文经典的细节，更是生成式工具挽救文化遗产的微妙注脚。整篇如同好奇、博学的爱好者之间的对话，既珍视惊奇，也看重实用。",
-    "best_quote_en": "Scientists have reconstructed what a Jurassic forest might have sounded like 165 million years ago, and the one-minute audio is a really cool soundscape to imaginatively step into.",
-    "best_quote_zh": "科学家们重构了 1.65 亿年前侏罗纪森林可能发出的声音，这段一分钟音频是一个可以想象着踏入其中的美妙声景。"
-  },
-  {
-    "id": 618,
-    "title": "How Food Choices Shape Memory, Cognition & Cravings | Dr. Scott Kanoski",
-    "title_zh": "食物选择如何塑造记忆、认知与渴望 | Dr. Scott Kanoski",
-    "model_used": "nvidia/nemotron-3-super-120b-a12b:free",
-    "source": "Huberman Lab",
-    "link": "https://www.hubermanlab.com/episode/how-food-choices-shape-memory-cognition-and-cravings-scott-kanoski",
-    "tags": [
-      "inspire",
-      "health-wellness",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "启发",
-      "健康养生",
-      "未来预测"
-    ],
-    "date": "2026-10-12",
-    "summary_en": "This episode features Dr. Scott Kanoski, a leading researcher in neurobiology and human evolutionary biology, exploring the bidirectional relationship between diet and brain function. The discussion reveals how food choices directly influence memory formation, cognitive performance, and craving mechanisms, while also examining how memory and emotional states feed back into eating behaviors. Key topics include the role of GLP-1 in hunger regulation—both naturally occurring and pharmaceutical forms—the impact of artificial sweeteners on appetite signaling, and the profound effects of Western diets high in sugar and processed foods on hippocampal function and dementia risk. The conversation further examines the gut microbiome’s influence on mood and food preference via the vagus nerve, the dopamine-driven reinforcement of unhealthy eating patterns, and how social factors like oxytocin modulate consumption. Notably, the dialogue connects individual nutrition to broader societal issues, touching on food addiction, highly processed foods, and the influence of political lobbying on dietary environments. The insights are both scientifically rigorous and practically relevant, offering a nuanced understanding of how what we eat shapes not just our bodies, but our minds, memories, and long-term neurological health.",
-    "summary_zh": "此次对话深刻揭示了饮食与大脑功能之间的双向作用：我们吃的东西如何影响记忆和认知，同时我们的记忆和情绪又如何塑造饮食选择。Kanoski博士不仅解释了GLP-1在饥饿调节中的作用（无论是天然还是药物形式），还深入探讨了人工甜味剂如何干扰食欲信号，以及高糖、加工食品如何损害海马体功能、增加痴呆风险。特别值得注意的是，他将肠道微生物群通过迷走神经影响情绪和食欲的机制，与多巴胺驱动的不健康饮食强化形成闭环，并进一步延伸到社会因素如催产素如何调节进食行为。更有深度的是，该讨论跳出个体层面，关联到食物成瘾、超加工食品的泛滥以及政治游说对食物环境的塑造——提醒我们，个人营养选择永远嵌入更大的社会与政治结构中。这不仅是一场关于神经科学的讲座，更是一次对现代饮食文化的反思，让人重新审视每一口食物背后的科学、习惯与系统力量。",
-    "best_quote_en": "Our memory impacts our food choices just as much as our food choices impact our memory.",
-    "best_quote_zh": "我们的记忆影响着我们的食物选择，就像我们的食物选择影响着我们的记忆一样。"
-  },
-  {
-    "id": 619,
-    "title": "Last Cull",
-    "title_zh": "Last Cull",
-    "model_used": "nvidia/nemotron-3.5-lightning:free",
-    "source": "Harper’s Magazine",
-    "link": "https://harpers.org/2026/10/last-cull-ostrich-conspiracy-canada-jb-mackinnon-matthew-sherrill/",
-    "tags": [
-      "analyze",
-      "ai-research",
-      "marketing",
-      "controversial"
-    ],
-    "tags_zh": [
-      "分析",
-      "AI研究",
-      "市场营销",
-      "争议观点"
-    ],
-    "date": "2026-10-11",
-    "summary_en": "This article examines the 'Ostrich Army'—a group of right-wing activists in rural British Columbia who believe the Canadian government's culling of ostriches during an H5N1 bird flu outbreak was actually an attempt to suppress a supposed 'universal cure' for COVID-19 hidden in the birds' genetics. Through J.B. Mackinnon's immersive reporting, the piece explores the intersection of pandemic paranoia, agricultural policy, and far-right conspiracy thinking in Canada. Mackinnon offers a nuanced portrait of the movement, acknowledging legitimate concerns about government transparency and corporate influence while critiquing the leap to secretive, malevolent forces. The article ultimately argues that the cull may have been necessary given the ubiquity of bird flu in wild populations, suggesting that a more 'normie' advocacy focused on biosecurity rather than fascism could have saved the birds. It's a compelling study of how conspiratorial thinking flourishes when ordinary policies lack adequate public explanation, and how the movement's proximity to pro-Trump sentiment reveals deeper tensions around Canadian sovereignty and identity.",
-    "summary_zh": "本文探讨了不列颠哥伦比亚省农村的一群右翼激进分子——'鸵鸟军'——在H5N1禽流感爆发期间，认为加拿大政府屠杀鸵鸟的行动其实是试图压制隐藏在鸟类基因组中某种'万能疫苗'疗法的阴谋。通过J.B. Mackinnon的深度报道，文章探讨了大流行后的阴谋思维、农业政策与加拿大极右翼思维的交叉点。Mackinnon对该运动给出了细致入微的描绘，既承认了政府透明度和企业影响力的合理担忧，又批判了对秘密邪恶势力的过度描绘。文章最终认为，鉴于禽流感在野生鸟类中已普及，屠杀可能是必要的，更'普通化'的倡导者若专注于生物安全而非指责法西主义，或许鸵鸟本可以保全。这是一部精彩的研究，探讨了在普通政策缺乏充分公开解释时，阴谋思维如何滋生，以及该运动与亲特朗普情绪的接近性如何揭示了加拿大主权与认同层面的更深张力。",
-    "best_quote_en": "\"The less likely the theory, the more fiercely it's believed and defended. To the Canadian conspiracy theorist, the fact that the trappings of tyranny mostly cannot be seen is just a sign of how deeply hidden and powerful it must be.\"",
-    "best_quote_zh": "\"理论越不可能，人们越死心塌地地相信和捍卫。对于加拿大阴谋论者来说，暴政的外在标志大多看不见，这只能说明它必须隐藏得有多深、有多有力量。\""
-  },
-  {
-    "id": 620,
-    "title": "Book Freak #221: Ways of the Six-Footed",
-    "title_zh": "书评 #221：六足之道",
-    "model_used": "nvidia/nemotron-3-ultra-550b-a55b:free",
-    "source": "Kevin Kelly",
-    "link": "https://kk.org/cooltools/book-freak-221-ways-of-the-six-footed/",
-    "tags": [
-      "solve",
-      "lifestyle",
-      "design"
-    ],
-    "tags_zh": [
-      "解决",
-      "生活方式",
-      "设计创意"
-    ],
-    "date": "2026-10-09",
-    "summary_en": "This piece introduces Anna Botsford Comstock's 'Ways of the Six-Footed,' a century-old collection of insect essays that transcends natural history to offer profound life philosophy. The author extracts four core principles from Comstock's observations: every life confronts problems and solves them with ingenuity; observing the humble reveals grand truths; the individual serves the collective; and resilience means returning to do your part despite setbacks. What makes this analysis compelling is how it bridges Victorian-era entomology with modern self-help, framing insect behaviors not as biological curiosities but as metaphorical toolkits for human problem-solving. The 'Try It Now' section operationalizes these insights into actionable practices—observing a spider to reframe personal challenges, breaking overwhelming problems into insect-sized steps, building with available materials rather than waiting for perfection. The closing quote captures a stoic optimism: trusting that the 'net proceeds of struggle are greater than the cost.' This is biomimicry for the soul, suggesting that six-legged creatures, in their relentless, unglamorous persistence, may be better life coaches than most bestselling authors.",
-    "summary_zh": "这篇书评引领我重读百年前安娜·康斯托克的昆虫随笔，惊觉那些六足小生竟是最朴素的生命导师。作者提炼四大原则：生命皆在解题、微观见宏大、个体服务整体、挫折后仍回归本分。最动人的是将昆虫行为转化为可操作的生活哲学——观察蜘蛛重构心态、将巨大困境拆解为微小步骤、用手边材料即刻开工。结尾那句\"斗争的净收益大于成本\"，是斯多葛式的乐观，也是对完美主义最有力的反驳。昆虫不讲叙事，只做功课，这或许比任何成功学都更治愈。",
-    "best_quote_en": "\"I felt inspired to go back and serenely do my own little part as well as I could, trusting that somehow, somewhere, and to Some One the net proceeds of struggle are greater than the cost.\"",
-    "best_quote_zh": "\"我感到受鼓舞，要回去平静地、尽我所能地做好自己的那一点微小的份内事，相信不知怎么、在何处、对何人，斗争的净收益大于成本。\""
-  },
-  {
-    "id": 621,
-    "title": "Essentials: Manage Stress & Build Resilience | Dr. Elissa Epel",
-    "title_zh": "Essentials：管理压力与构建韧性 | Dr. Elissa Epel",
-    "model_used": "apodex/apodex-1.1-mini:free",
-    "source": "Huberman Lab",
-    "link": "https://www.hubermanlab.com/episode/essentials-manage-stress-and-build-resilience-elissa-epel",
-    "tags": [
-      "learn",
-      "psychology"
-    ],
-    "tags_zh": [
-      "学习",
-      "心理学"
-    ],
-    "date": "2026-10-08",
-    "summary_en": "Dr. Elissa Epel's conversation with Huberman reframes stress not as an enemy to eliminate but as a physiological signal to be understood and skillfully managed. What makes this content genuinely valuable is its grounding in cellular biology—linking chronic stress to mitochondrial health and accelerated cellular aging—while simultaneously offering concrete, immediately applicable tools. The 'threat vs. challenge' reframe is particularly compelling: it's not about denying stress but about interpreting the body's arousal as readiness rather than danger. Epel's distinction between stressors we can act on versus those requiring radical acceptance cuts through the toxic positivity that dominates self-help. The 'drop the rope' metaphor elegantly captures the exhaustion of fighting the uncontrollable. What I find most intellectually honest is the admission that some stress is unavoidable, which shifts the goal from stress elimination to resilience building. This is science-backed wisdom that respects human complexity rather than promising quick fixes.",
-    "summary_zh": "Epel将压力重新定义为需理解的生理信号而非敌人。最可贵的是将慢性压力与线粒体健康、细胞衰老相连，同时提供即刻可用的工具。'威胁vs挑战'的重构尤为深刻——并非否认压力，而是将身体唤醒解读为准备而非危险。区分可控与不可控压力，直指自助领域泛滥的毒性积极。'松开绳子'的隐喻精准捕捉了与不可控之事搏斗的耗竭。最诚实的是承认压力无法完全消除，目标应从消除转向韧性构建。这是尊重人性复杂而非承诺速效的科学智慧。",
-    "best_quote_en": "The goal isn't to eliminate stress; it's to build resilience so that stress doesn't erode your health and your sense of purpose over time.",
-    "best_quote_zh": "目标不是消除压力，而是建立韧性，让压力不会随时间侵蚀你的健康和使命感。"
-  },
-  {
     "id": 622,
     "title": "Myha’la responds to ‘Celebrity Traitors’ racism claims: “I do have to defend my dear friends”",
     "title_zh": "Myha'la回应《Celebrity Traitors》种族主义指控：“我必须为亲密朋友辩护”",
@@ -2342,5 +2227,118 @@
     "summary_zh": "这篇《新 Yorker》专访塑造了国会议员吉米·拉斯金作为宪法学者 turned  relentless impeachment advocate（ relentless impeachment advocate）的形象，他对民主公平性的 structural flaws（ structural flaws）如 gerrymandering（ gerrymandering）给出了 sobering analysis（ sobering analysis）。拉斯金将弹劾框架定位为对抗行政权力越位的宪法工具，而非政治策略，强调民主党在问责与治理之间的平衡。访谈揭示了一位深关注选举完整性的策略家，特别是对北卡罗来纳和德克萨斯等州共和党 gerrymandering（ gerrymandering）的担忧，同时对特朗普威权倾向的潜在反弹保持乐观。拉斯金的视角提供了对民主党内部动态、弹劾作为政治工具的局限性以及在什么情况下维护民主规范的关键洞察，他将当前政局刻画为与‘ gangster state’（ gangster state）的斗争。",
     "best_quote_en": "\"He thinks in terms of fraud. Everything is a quid-pro-quo transaction for him. And the country is conditioned and ready for that.\"",
     "best_quote_zh": "\"他以欺诈为思考范畴。对他来说一切皆交易交换。而国家已为此做好准备。\""
+  },
+  {
+    "id": 717,
+    "title": "Gar’s Tips & Tools – Issue #216",
+    "title_zh": "Gar的技巧与工具 – 第216期",
+    "model_used": "nvidia/nemotron-3.5-lightning:free",
+    "source": "Kevin Kelly",
+    "link": "https://kk.org/cooltools/gars-tips-tools-issue-216/",
+    "tags": [
+      "solve",
+      "design",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "解决",
+      "设计创意",
+      "未来预测"
+    ],
+    "date": "2026-10-31",
+    "summary_en": "This issue of Gar's Tips & Tools presents a compelling meditation on accessibility, ingenuity, and the invisible intelligence behind everyday objects. The newsletter opens with a practical revelation about hex key T-handles, offering an immediate, actionable solution for anyone with arthritic hands or a frustration with flat-pack assembly. It then expands into a thoughtful exploration of the Infimaker 5-axis CNC, framing rapid prototyping as a 'superpower' for product development. The core of the piece shifts to a deep-dive reflection on cheap flat-pack furniture, marveling at the engineering constraints and global supply chain choreography required to produce a $50 baker's rack. Throughout, Gar balances critical awareness of consumerism's hidden costs with genuine appreciation for clever design. The issue closes with a personal note on enduring LED panel lights and a showcase of creative workshop setups, reinforcing a theme of making do with what works. It is a rich blend of practical advice, engineering admiration, and reflective consumerism.",
+    "summary_zh": "这份Gar的技巧与工具通讯是对可及性、创新以及日常物品背后隐形智能的深刻沉思。通讯从实用的六角扳手T型手柄开始，为患有关节炎手或平装家具组装挫折的人们提供了即时、可操作的解决方案。随后，它转向对Infimaker 5轴CNC的深入探讨，将快速原型制作框架为产品开发的‘超级能力’。核心部分转向对便宜的平装家具的深度反思，赞叹了为生产一张50美元的烘焙架所需的工程限制和全球供应链编舞。贯穿始终，Gar在批判消费主义隐形成本的同时，对巧妙的设计给予了真正的赞赏。问题以个人关于持久LED面板灯的笔记和创意工作站布局的展示作结，强化了‘用现有条件尽力而为’的主题。这是一份实用建议、工程赞叹和反思性消费主义的丰富混合体。",
+    "best_quote_en": "\"I couldn’t help marveling at the amount of mostly invisible intelligence embodied in this mundane under-$50 object.\"",
+    "best_quote_zh": "\"我不禁惊叹于这件不起价五十美元的平凡物品中蕴含的大部分隐形智能。\""
+  },
+  {
+    "id": 718,
+    "title": "Essentials: How Smells Influence Our Hormones, Health & Behavior | Dr. Noam Sobel",
+    "title_zh": "Essentials: 如何气味影响我们的荷尔蒙、健康和行为 | Dr. Noam Sobel",
+    "model_used": "nvidia/nemotron-3-nano-omni-30b-a3b-reasoning:free",
+    "source": "Huberman Lab",
+    "link": "https://www.hubermanlab.com/episode/essentials-how-smells-influence-our-hormones-health-and-behavior-noam-sobel",
+    "tags": [
+      "inspire",
+      "general",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "启发",
+      "general",
+      "未来预测"
+    ],
+    "date": "2026-10-29",
+    "summary_en": "This Huberman Lab Essentials episode features Dr. Noam Sobel, a neurobiology professor at Weizmann Institute, exploring the profound yet underappreciated influence of smell on human physiology and social behavior. Beyond basic olfaction, the discussion reveals how odor perception shapes hormone regulation (testosterone, cortisol), emotional processing, and even complex social dynamics like friendship formation and aggression patterns. A key insight is the emerging field of digitizing smells for noninvasive medical diagnostics through body odor analysis - a future technology with potential for early disease detection. The conversation also examines gender differences in chemosignaling and how infants respond to parental scent profiles. These findings challenge the perception of smell as merely a sensory function, positioning it as a critical regulator of endocrine health and social cognition.",
+    "summary_zh": "这集Huberman Lab精讲揭示了气味对人类健康的深远影响，远超我们想象。Dr. Sobel指出气味不仅调节荷尔蒙和情绪，更塑造社交行为如结伴与攻击性，甚至通过体味可实现非侵入式疾病早期检测。内容颠覆了气味仅是感官功能的常规认知，凸显其作为内分泌调节器和社交信号系统的核心地位，值得重新审视我们与气味的关系。",
+    "best_quote_en": "Smell shapes who we become friends with, how we experience emotions, hormones and aggression - it's a fundamental regulator of our physiology and social behavior that we don't fully appreciate.",
+    "best_quote_zh": "气味塑造我们结交谁的朋友、如何体验情绪、荷尔蒙和攻击性，是塑造我们生理和社交行为的基础调节机制，尽管我们大大低估了它的作用。"
+  },
+  {
+    "id": 719,
+    "title": "Minding the Gap",
+    "title_zh": "Minding the Gap",
+    "model_used": "nvidia/nemotron-3.5-lightning:free",
+    "source": "Harper’s Magazine",
+    "link": "https://harpers.org/2026/09/general-interest-minding-the-gap-belen-fernandez-jasmine-liu/",
+    "tags": [
+      "guide",
+      "design",
+      "writing-content",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "指导",
+      "设计创意",
+      "写作内容",
+      "未来预测"
+    ],
+    "date": "2026-09-27",
+    "summary_en": "Belén Fernández's 'Minding the Gap' offers a piercing examination of the Darién Gap's transformation from a sparsely populated jungle corridor into a critical migration chokepoint. The article masterfully illustrates how U.S. immigration policies, particularly under the Trump administration, actively engineered these deadly routes by rendering homelands uninhabitable while simultaneously criminalizing the desperate journeys they forced. Fernández's reporting reveals the complicity of Panamanian authorities and the profound exploitation of indigenous comarcas, who were permitted to monetize migrant transport while facing criminalization themselves. The piece stands as a powerful critique of the capitalist global governance framework that treats human movement as a tool of control, ultimately exposing the Darién Gap not merely as a geographic feature, but as a deliberate mechanism of punitive inequality designed to keep the dispossessed in their place.",
+    "summary_zh": "贝伦·弗南德斯的《Minding the Gap》对 Darién Gap 进行了深刻的审视，该地区从一个稀疏人口的丛林走廊转变为关键的移民瓶颈。文章巧妙地说明了美国移民政策——特别是在特朗普政府期间——如何主动策划了这些致命的路线，通过使家园无法居住来迫使人们流离失所，同时又将他们被迫的旅程定罪。弗南德斯的报道揭露了巴拿马当局的共谋以及土著自治区的深度剥削，后者被允许通过运输移民来获利，同时自己也面临 criminalization（刑事化）的风险。这篇文章是对将人类流动视为控制工具的资本主义全球治理框架的有力批判，最终将 Darién Gap 揭示为旨在将弱势群体固定在原地的刻意机制，而非单纯的地理特征。",
+    "best_quote_en": "\"In the end, that pattern perpetuates a hierarchy of human life, while xenophobic narratives blame migrants for their own plight.\"",
+    "best_quote_zh": "\"说到底，这种模式延续了人类生命等级制度，而厌移民的叙事则将移民自身的苦难归咎于移民自己。”"
+  },
+  {
+    "id": 720,
+    "title": "Book Freak #229: The Social Construction of Reality",
+    "title_zh": "Book Freak #229: 现实的社会建构",
+    "model_used": "nvidia/nemotron-3-ultra-550b-a55b:free",
+    "source": "Kevin Kelly",
+    "link": "https://kk.org/cooltools/book-freak-229-the-social-construction-of-reality/",
+    "tags": [
+      "solve",
+      "society"
+    ],
+    "tags_zh": [
+      "解决",
+      "社会议题"
+    ],
+    "date": "2026-10-30",
+    "summary_en": "This Book Freak edition distills Berger and Luckmann's 1966 sociological masterpiece into a practical lens for examining the invisible architecture of our daily lives. The core insight—that society is a human product that becomes an objective reality which then shapes humans—is presented through three accessible movements: habitualization creating institutions, language cementing shared reality, and the danger of reification where we forget our own authorship. What makes this piece valuable is its translation of dense theory into immediate experiments: tracing the origin of an unexamined rule, relabeling identity categories, questioning 'that's just how it works.' The Harari comparison to 'imagined orders' bridges classic sociology with contemporary discourse. This isn't just academic summary; it's an invitation to reclaim agency over the social fictions we inhabit. The practical exercises transform philosophical insight into a daily practice of social archaeology.",
+    "summary_zh": "这期 Book Freak 把伯格与卢克曼 1966 年的社会学经典《现实的社会建构》浓缩成一把解剖日常隐形秩序的手术刀。核心洞见——社会是人造产物，却客观化为外在事实，反向塑造人——通过习惯制度化、语言建构世界、再造化风险三个动作层层展开。最有价值的是将晦涩理论转化为即刻可行的实验：追溯一条不假思索遵守的规则源头、给身份标签换个说法、质疑\"本来就这样\"。哈里里\"想象的秩序\"类比让经典社会学对话当下认知。这不只是学术摘要，而是邀请我们夺回对所处社会虚构的主动权。实操练习把哲学洞见变成日常的社会考古练习。",
+    "best_quote_en": "Social order is not part of the 'nature of things,' and it cannot be derived from the 'laws of nature.' Social order exists only as a product of human activity.",
+    "best_quote_zh": "社会秩序不是'事物本性'的一部分，也无法从'自然法则'推导而来。社会秩序仅作为人类活动的产物而存在。"
+  },
+  {
+    "id": 721,
+    "title": "Your Top Health Questions Answered",
+    "title_zh": "你的健康问题解答",
+    "model_used": "nvidia/nemotron-3.5-super-vl:free",
+    "source": "Huberman Lab",
+    "link": "https://www.hubermanlab.com/episode/your-top-health-questions-answered",
+    "tags": [
+      "solve",
+      "health-wellness"
+    ],
+    "tags_zh": [
+      "解决",
+      "健康养生"
+    ],
+    "date": "2026-07-27",
+    "summary_en": "This Huberman Lab Q&A episode addresses listener-submitted health questions spanning sleep optimization, fertility, neuroscience, and life purpose. Dr. Huberman provides evidence-based protocols including Alpha-GPC, garlic consumption, physiological sighs, and sniff training for memory and smell. The content covers gender-specific fertility nutrition, perimenopause mental health links, and surgical recovery through prehabilitation and circadian rhythm management. Particularly noteworthy is the discussion on finding passion through 'no input, no output' principles and the 'chop wood, carry water' methodology. The episode balances practical health optimization with philosophical life guidance, emphasizing consistency over over-optimization and core pillars rather than protocol overwhelm.",
+    "summary_zh": "这期Huberman Lab的Q&A节目回答了听众关于睡眠、生育、神经科学和人生目标的问题。Huberman博士提供了基于证据的方案，包括Alpha-GPC、大蒜、生理叹息和嗅觉训练等。内容涵盖性别特定的生育营养、围绝经期心理健康以及通过术前康复和昼夜节律管理实现手术恢复。特别值得注意的是关于通过“无输入无输出”原则和“劈柴挑水”方法寻找热情的讨论。节目在实用健康优化与哲学人生指导之间取得平衡，强调一致性胜过过度优化，核心支柱胜过方案过载。",
+    "best_quote_en": "No input, no output",
+    "best_quote_zh": "无输入，无输出"
   }
 ]
