@@ -1,122 +1,5 @@
 [
   {
-    "id": 627,
-    "title": "The Problem With Football Helmets",
-    "title_zh": "橄榄球头盔的问题",
-    "model_used": "dots-studio/dots-3-note-preview:free",
-    "source": "99% Invisible",
-    "link": "https://99percentinvisible.org/episode/687-the-problem-with-football-helmets/",
-    "tags": [
-      "solve",
-      "design",
-      "writing-content",
-      "controversial"
-    ],
-    "tags_zh": [
-      "解决",
-      "设计创意",
-      "写作内容",
-      "争议观点"
-    ],
-    "date": "2026-10-13",
-    "summary_en": "The article critically examines the introduction of the Guardian Cap, a novel helmet technology in the NFL aimed at reducing head injuries, and places it within a broader historical context of football helmet evolution. It highlights the tension between technological innovation and scientific skepticism, with experts like Kathleen Bachynski arguing that physical limitations may prevent helmets from fully preventing concussions. This analysis not only explores the practical challenges of sports safety but also delves into cultural and ethical dimensions, questioning whether incremental design changes can truly address the root causes of injuries. The piece invites readers to reflect on the balance between tradition and progress in American football, emphasizing that safety solutions may require a holistic approach beyond helmet technology alone. With insights from multiple disciplines, it underscores the complexity of protecting athletes in a high-contact sport.",
-    "summary_zh": "本文深入探讨了NFL中Guardian Cap这一新型头盔技术的争议，将其置于橄榄球头盔百年演变的历史背景中。文章揭示了技术创新与科学怀疑之间的紧张关系，专家如Kathleen Bachynski指出，物理限制可能使头盔无法完全预防脑震荡。这一分析不仅审视了运动安全的实际挑战，还触及文化与伦理层面，质疑渐进式设计改进能否真正解决伤病根本原因。文章引导读者反思美式足球中传统与进步的平衡，强调安全解决方案可能需要超越头盔技术的整体方法。通过多学科视角，它凸显了在高接触运动中保护运动员的复杂性。",
-    "best_quote_en": "I remember chatting with a doctor who said, unless you strapped the helmet to a player’s shoulders so that your head couldn’t move around on your neck, the helmet really can’t do all that much to prevent a concussion.",
-    "best_quote_zh": "我记得和一位医生聊天，他说除非你把头盔绑在球员的肩膀上，让头部无法在脖子上移动，否则头盔对预防脑震荡的作用 really 有限。"
-  },
-  {
-    "id": 628,
-    "title": "John Malkovich on Wild Horse Nine and “the most terrible line I’ve ever had to give”",
-    "title_zh": "约翰·马尔科维奇谈《野马九号》与“我 ever had to give 的最糟糕的一句台词”",
-    "model_used": "dots-studio/dots-3-note-preview:free",
-    "source": "BFI",
-    "link": "https://www.bfi.org.uk/london-film-festival/interviews/john-malkovich-wild-horse-nine-most-terrible-line-ive-ever-had-give",
-    "tags": [
-      "analyze",
-      "music-arts",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "分析",
-      "音乐艺术",
-      "未来预测"
-    ],
-    "date": "2026-10-13",
-    "summary_en": "In a rare and revealing Screen Talk at the 70th BFI London Film Festival, John Malkovich offered a candid, self-deprecating, and philosophically rich reflection on his four-decade screen career. Far from the menacing persona he often embodies, Malkovich charmed the audience with deadpan humor and intellectual depth, framing acting as a surrender to another’s vision: “When you’re a movie actor, you are a figure in someone else’s dream.” He critiqued his own filmography with brutal honesty, dismissing mediocre work as “a total waste of time,” and recalled early struggles transitioning from theatre’s momentum to film’s fragmented process. His anecdotes—from Stephen Frears’ skepticism to Spike Jonze’s meta-comedy *Being John Malkovich*—reveal a performer deeply aware of artifice and identity. The talk culminated in praise for Martin McDonagh’s *Wild Horse Nine*, where Malkovich calls a line about Patrice Lumumba’s assassination “the most terrible line I’ve ever had to give,” signaling a return to politically charged, emotionally heavy roles. At 72, he embraces change with gallows humor, viewing adaptability as survival. This interview is not just a career retrospective but a meditation on art, aging, and the actor’s role in the director’s dream.",
-    "summary_zh": "在伦敦电影节的深度对谈中，约翰·马尔科维奇以罕见的坦诚与自嘲，回顾了他四十年的银幕生涯。他颠覆了观众对“反派专业户”的刻板印象，以冷幽默和哲学思辨重新定义表演：“电影演员只是他人梦境中的一个角色。”他毫不留情地批判自己的平庸作品，称其为“时间的浪费”，并回忆从舞台到电影的转型之痛。从斯蒂芬·弗雷斯的质疑到斯派克·琼兹的元喜剧，他的故事揭示了表演中的身份自觉与艺术虚幻。在盛赞马丁·麦克唐纳的《野马九号》时，他称其中一句关于卢蒙巴遇刺的台词为“最糟糕的台词”，彰显其对政治与道德重量的回归。72岁的他以黑色幽默面对衰老，主张“适应变化或死亡”，将表演视为在导演梦境中寻找定位的谦卑艺术。这不仅是生涯回顾，更是对艺术、衰老与演员本质的深刻沉思。",
-    "best_quote_en": "When you’re a movie actor, you are a figure in someone else’s dream. It is not your dream… Your job is to find out: what does your figure do in that dream?",
-    "best_quote_zh": "当你是一名电影演员时，你只是他人梦境中的一个角色。那不是你的梦……你的任务是弄清楚：你的角色在那个梦里做了什么？"
-  },
-  {
-    "id": 629,
-    "title": "“America’s Girls, On the Edge of a Dream” by Photographer Eva Verbeeck",
-    "title_zh": "America's Girls, On the Edge of a Dream",
-    "model_used": "nvidia/nemotron-3.5-lightning:free",
-    "source": "BOOOOOOOM",
-    "link": "https://www.booooooom.com/2026/10/13/americas-girls-on-the-edge-of-a-dream-by-photographer-eva-verbeeck/",
-    "tags": [
-      "analyze",
-      "ai-research"
-    ],
-    "tags_zh": [
-      "分析",
-      "AI研究"
-    ],
-    "date": "2026-10-13",
-    "summary_en": "Eva Verbeeck's photographic series presents a haunting meditation on aspiration and disillusionment within contemporary American youth culture. Through intimate portraiture, the work captures girls poised at transitional moments—between childhood innocence and adult expectation, between dreamed futures and grounded realities. The images reveal how societal pressures, economic uncertainty, and visual culture converge to shape young women's relationships with possibility. What emerges is not a celebration of achievement, but a quiet documentation of the weight carried by those 'on the edge of a dream,' where hope and apprehension exist in delicate balance. The series gains urgency in an era when the American dream feels increasingly conditional, suggesting that Verbeeck's lens documents not just individual stories, but a generational condition of suspended anticipation.",
-    "summary_zh": "伊瓦·韦贝克的摄影系列是对当代美国青年文化中抱负与幻灭的深刻思考。通过亲密的肖像，作品捕捉了处于转折点的女孩——在童真纯真与成年期望之间，在梦想的未来与脚踏实地的现实之间。这些图像揭示了社会压力、经济不确定性和视觉文化如何共同塑造年轻女性与可能性的关系。浮现出的并非成就庆典，而是对‘处于梦想边缘’之人的静默记录，在那里希望与 apprehension（ apprehension 这里指一种不安的期待/焦虑）之间保持着微妙的平衡。该系列在一个美国梦日益变得条件化的时代获得了紧迫感，暗示韦贝克的镜头记录的不仅是个体故事，而是一代人悬置的期待状态。",
-    "best_quote_en": "\"We're all just trying to figure out who we're supposed to be when the world already has us figured out,\" one subject reflects, capturing the series' central tension between self-determination and external imposition.",
-    "best_quote_zh": "\"我们每个人都在努力弄清楚自己应该成为谁，当世界已经把我们定义得一清二楚时\", 一位受访者反思道，这捕捉了本系列的核心张力：自我决定与外部强加之间的博弈。"
-  },
-  {
-    "id": 630,
-    "title": "‘There is no secret agenda’: Nara Smith on home-making absolutely everything, raising four kids at 25 – and why she’s definitely not a tradwife",
-    "title_zh": "‘没有秘密议程’：娜拉·史密斯谈关于全方位家务、25岁育四孩的原因——她绝非‘传统妻子’",
-    "model_used": "poolside/laguna-xs-2.1:free",
-    "source": "Women | The Guardian",
-    "link": "https://www.theguardian.com/media/2026/oct/10/nara-aziza-smith-influencer-model-actor-mother-four-not-tradwife",
-    "tags": [
-      "learn",
-      "ai-research",
-      "writing-content",
-      "case-study"
-    ],
-    "tags_zh": [
-      "学习",
-      "AI研究",
-      "写作内容",
-      "案例研究"
-    ],
-    "date": "2026-10-10",
-    "summary_en": "This profile examines Nara Smith, a 24-year-old model and influencer with 12.5 million TikTok followers who creates elaborate homemade food content while defying traditional 'tradwife' labels. Smith challenges internet perceptions through her meticulously produced videos where she crafts luxury grocery items from scratch while wearing designer clothing, rejecting the 1950s housewife archetype despite her domestic focus. Beyond content creation, she navigates motherhood of four young children, recent cancer diagnosis in her daughter, and evolving career ambitions spanning acting roles with major Hollywood stars. Her narrative emphasizes personal agency, rejecting predefined boxes while maintaining boundaries around her children's online presence. The article reveals her complexity as a feminist entrepreneur who views her work as artistic expression rather than political statement, demonstrating how social media personalities must carefully balance authenticity with public perception in an increasingly scrutinized digital landscape.",
-    "summary_zh": "娜拉·史密斯这位24岁的模特/网红以1200万粉丝闻名，她拒绝被贴上‘传统妻子’标签，却在奢华服饰中手作制作食品。面对四个幼年孩子的育儿挑战以及女儿癌症诊断，她坚持个人自主性。文章揭示她如何将家务劳动转化为艺术表达，同时为孩子设立数字边界，展现当代社交媒体时代女性在身份认同与公众期待之间的微妙平衡。",
-    "best_quote_en": "There is no secret agenda. Those that get it, get it. Those that don't, don't. And that's totally fine.",
-    "best_quote_zh": "没有秘密议程。懂的人就懂，不懂的人就不懂。这完全没问题。"
-  },
-  {
-    "id": 631,
-    "title": "“There’s such a sense of helplessness right now in America”: Beth de Araújo on Josephine",
-    "title_zh": "玫瑰：贝斯·德拉乌亚关于塞勒琳的访谈",
-    "model_used": "liquid/lfm-2.5-2.6b:free",
-    "source": "BFI",
-    "link": "https://www.bfi.org.uk/sight-and-sound/interviews/theres-such-sense-helplessness-right-now-america-beth-de-araujo-josephine",
-    "tags": [
-      "solve",
-      "music-arts",
-      "case-study"
-    ],
-    "tags_zh": [
-      "解决",
-      "音乐艺术",
-      "案例研究"
-    ],
-    "date": "2026-10-13",
-    "summary_en": "This interview with director Beth de Araújo offers a profound examination of the film 'Josephine,' which confronts the harrowing reality of sexual violence through the unwitting perspective of an eight-year-old protagonist. De Araújo argues persuasively that avoiding graphic depictions of assault creates a false narrative where victims remain passive and untrained to process their experiences. The conversation delves into ethical filmmaking practices, highlighting the director's deliberate inclusion of explicit violence as a means to foster authentic empathy rather than exploitative spectacle. Through the character of Mason Reeves, the film becomes a case study in how trauma imprints on young minds and how adults must navigate the delicate balance between protection and honesty. The interview reveals that de Araújo's approach stems from her own childhood encounter with a real assault, lending the project moral authority and urgency. Ultimately, the piece suggests that addressing collective helplessness in contemporary America requires facing uncomfortable truths rather than retreating into sanitized representations, making this a timely contribution to discussions on media ethics and social justice.",
-    "summary_zh": "关于《玫瑰》的深度访谈揭示了贝斯·德拉乌加如何从创伤后成长角度探讨性暴力。这种沉浸式叙事方式将焦点置于未成年人眼中的世界，剖析了儿童如何在面对无法理解的暴力时构建意义与支撑。导演坚定认为，只有直面现实而非回避暴力，才能唤醒观众的共情能力和行动力量。影片通过玛莎的视角展现了创伤对成长的深远影响，同时也警示创作者在处理敏感主题时必须保持伦理高度。访谈中提到的儿童心理学原理与社会 collectiv无助感之间的交织，映射出当代美国对创伤教育的迫切需求。这不仅是一部艺术作品，更是一场关于勇气、责任与真相的社会对话。",
-    "best_quote_en": "I think sometimes, especially right now in America, there’s such a sense of helplessness. We can’t take everything on fully, we just do what we can do as people to try to help and resist.",
-    "best_quote_zh": "我想，在现在的美国，确实存在一种无助感。我们无法完全承担一切，只能做作为普通人所能做的一切，为他人提供支持和抵抗。"
-  },
-  {
     "id": 632,
     "title": "Haters",
     "title_zh": "仇恨",
@@ -2340,5 +2223,114 @@
     "summary_zh": "这篇悼文拒绝将韦尔塔神圣化，转而展示一位组织者如何用\"Sí, Se Puede\"重塑国家想象力——从葡萄园罢工到奥巴马竞选口号，再到格雷戈里·纳瓦打破好莱坞种族壁垒的个人见证。作者婚宴上的邂逅细节（\"身材娇小却点亮整个房间\"）让历史人物有了体温。最动人的是2026年她打破沉默揭露查韦斯性侵：这种\"不论政治立场都要追责\"的道德一致性，比总统自由勋章更配得上纪念碑式的意义。歌剧、纪录片、传记片接踵而至，证明一个组织者的声音能跨越媒介和代际回响。读完不觉想问自己：我内化了多少\"是的，我们能\"的勇气？",
     "best_quote_en": "\"Si, Se Puede\"—\"Yes, you can\"—was more than just helping farm workers... it was helping all of us to realize our dreams.",
     "best_quote_zh": "\"Sí, Se Puede\"——\"是的，你能做到\"——不仅帮助了农场工人……它帮助我们所有人实现梦想。"
+  },
+  {
+    "id": 727,
+    "title": "Ashley Walters on his prison-drama directorial debut Animol: “I wanted it to look like how it really is”",
+    "title_zh": "阿什利·沃特尔斯谈监狱剧情片处女作《Animol》：“我想让它看起来像真实的样子”",
+    "model_used": "nvidia/nemotron-3-ultra-550b-a55b:free",
+    "source": "BFI",
+    "link": "https://www.bfi.org.uk/interviews/ashley-walters-animol",
+    "tags": [
+      "analyze",
+      "society",
+      "case-study"
+    ],
+    "tags_zh": [
+      "分析",
+      "社会议题",
+      "案例研究"
+    ],
+    "date": "2026-10-30",
+    "summary_en": "This interview reveals Ashley Walters not merely as an actor-turned-director, but as a craftsman interrogating the very grammar of prison cinema. His 18 months in a young offenders' institute at 19 isn't biography—it's methodology. Walters refuses the comforting distance of stylized violence, instead framing it as 'a language of fear,' a vocabulary born of inarticulacy. The most striking revelation comes when he screens a music-heavy cut and realizes the score was compensating for distrust in his actors' faces. That pivot—to silence, to raw performance—marks a director discovering his own authority. His approach to queer representation, initially cautious then humbled by youth screenings where 'nobody gives a shit anymore,' captures a generational shift in real time. But the interview's beating heart is Walters' mission: not crime stories, but 'stories of Black men being good people.' He names the erasure of Black male tenderness—hugs, the word 'love' as greeting, brotherhood—and makes its restoration his cinematic project. Animol emerges not as a prison film, but as a counter-archive of Black British interiority.",
+    "summary_zh": "沃特尔斯不只是演员转导演，更是监狱电影语法的审视者。19岁入狱18个月非传记，而是方法论。他拒绝风格化暴力的安全距离，将其定义为'恐惧的语言'——源于无法表达的词汇。试映时发现配乐在掩盖对演员表演的不信任，果断去音乐，转向沉默与面部微表情，那是导演权威的觉醒。对酷儿呈现的初谨慎，在青年观众'根本不在乎'的反应中化为对代际变迁的惊喜。但核心在于：他不拍犯罪，而拍'黑人男性的善良与柔软'——拥抱、以爱为礼、兄弟情谊，这些从未进入英国银幕叙事。《Animol》不是监狱片，是黑人英国内心世界的反档案。",
+    "best_quote_en": "I'm not specifically looking for crime. I'm looking for the heart.",
+    "best_quote_zh": "我不是专门在找犯罪题材。我在寻找人性的柔软。"
+  },
+  {
+    "id": 728,
+    "title": "“Clearing” by Illustrator Evan M. Cohen",
+    "title_zh": "Clearing",
+    "model_used": "nvidia/nemotron-3-nano-omni-30b-a3b-reasoning:free",
+    "source": "BOOOOOOOM",
+    "link": "https://www.booooooom.com/2026/11/02/clearing-by-illustrator-evan-m-cohen/",
+    "tags": [
+      "update",
+      "design"
+    ],
+    "tags_zh": [
+      "动态",
+      "设计创意"
+    ],
+    "date": "2026-11-02",
+    "summary_en": "Evan M. Cohen’s 'Clearing' series presents a compelling visual exploration of transition and renewal, using abstract, layered compositions to evoke the psychological and emotional process of clearing mental or creative space. While the content lacks explicit textual analysis, the sequence of images suggests a deliberate narrative arc—each piece building upon the last through evolving textures, color palettes, and spatial dynamics. This work resonates as both an aesthetic and conceptual inquiry into how we clear away the old to make room for the new, reflecting broader themes of impermanence, transformation, and intentional design. For creatives and thinkers, 'Clearing' functions as a visual meditation on the necessity of emptiness before creation, offering rich material for those interested in process, minimalism, and emotional resonance in art. Its subtle complexity invites deep analysis, making it valuable for audiences seeking inspiration or insight into the interplay between simplicity and depth in visual storytelling.",
+    "summary_zh": "《Clearing》系列通过层叠的抽象画作，视觉化了心理或创作空间的清空与更新过程，揭示了放下旧有、迎接新生的必要性。作为设计师与思想者的视觉冥想，它揭示了 emptiness 是创造的前提，以简约之形承载深刻情感与哲思，具有启发意义。",
+    "best_quote_en": "Not answerable",
+    "best_quote_zh": "Not answerable"
+  },
+  {
+    "id": 729,
+    "title": "What does Olivia Colman's hot sex with a basket tell us about heteropessimism? | Emma Beddington",
+    "title_zh": "奥利维亚·科尔曼与篮子的热烈性爱，揭示了异性恋悲观主义的什么真相？",
+    "model_used": "nvidia/nemotron-3-ultra-550b-a55b:free",
+    "source": "Women | The Guardian",
+    "link": "https://www.theguardian.com/commentisfree/2026/nov/01/wicker-olivia-colman-alexander-skarsgard-hot-sex-basket-heteropessimism",
+    "tags": [
+      "update",
+      "society",
+      "controversial"
+    ],
+    "tags_zh": [
+      "动态",
+      "社会议题",
+      "争议观点"
+    ],
+    "date": "2026-11-01",
+    "summary_en": "Beddington's column is a delightful Trojan horse: wrapped in self-deprecating humor about wicker splinters and cake-based lovers, it delivers a sharp interrogation of contemporary gender discourse. The piece refuses the easy narrative that women are 'giving up on men,' instead exposing the gap between performed heteropessimism (collared wives, 'mankeeping' labor) and behavioral reality (93.7% heterosexual identification). What emerges is not rejection but a collective imaginative leap — romantasy and object erotica as pressure valves for structural exhaustion. The genius lies in Beddington's refusal to pathologize desire; she treats the wicker man not as symptom but as speculative fiction: what if partnership were light, equal, maintenance-free? The essay's final pivot to Christmas cake — durable, edible, discipline-able — perfectly encapsulates the yearning: not for the non-human, but for the unburdened. This is cultural criticism at its most humane: funny, unpretentious, and quietly radical in its insistence that women's fantasies deserve curiosity, not diagnosis.",
+    "summary_zh": "贝丁顿用自嘲的幽默包装深刻的性别洞察：柳条人、哥布林情人、回形针克利皮，这些荒诞幻想不是女性厌男的证据，而是对结构性疲惫的想象性泄压。93.7%的异性恋身份认同与网络上盛行的'异性恋致死论'形成张力——女性不是在拒绝男人，而是在幻想一种轻盈、平等、免维护的亲密关系。圣诞果蛋糕做爱人（耐久、可食、咬一口就能管教）这个荒诞收尾，精准捕捉了核心渴望：不想要非人类，想要的是不累的爱。",
+    "best_quote_en": "If anything, I see Wicker-mania and its ilk as indicative of a yearning escapism, a desire for life to be lighter, sexier and sillier. When everything is horrible, why not imagine, and enjoy, a world where – unlike this one – anything's possible, including mutually satisfying relationships, gender equality and sex with macaroni cheese?",
+    "best_quote_zh": "在我看来，'柳条狂热'及其同类作品，折射出的是一种渴望式逃避主义——渴望生活更轻盈、更性感、更荒诞。万事皆糟之际，为何不想象并享受一个万物皆可能的世界？在那里，相互满足的关系、性别平等、甚至与通心粉芝士做爱，都能成真。"
+  },
+  {
+    "id": 730,
+    "title": "100 Objects #22: AOL Disc",
+    "title_zh": "100 Objects #22: AOL光盘",
+    "model_used": "nvidia/nemotron-3.5-lightning:free",
+    "source": "99% Invisible",
+    "link": "https://99percentinvisible.org/episode/100-objects-022-aol-disc/",
+    "tags": [
+      "solve",
+      "marketing"
+    ],
+    "tags_zh": [
+      "解决",
+      "市场营销"
+    ],
+    "date": "2026-10-30",
+    "summary_en": "In 1998, America Online pressed more compact discs than any US record label. This marketing campaign introduced America to the internet, making AOL synonymous with online access, before the brand eventually faded from prominence. The AOL Disc remains a pivotal moment in digital history, bridging the gap between physical media and the internet era.",
+    "summary_zh": "1998年，美国在线公司生产的光盘数量超过了任何唱片公司。这场营销活动向美国介绍了互联网，使得AOL synonymous with online access（在线接入的同义词），但在品牌逐渐淡出之前。AOL光盘仍然是连接实体媒体与互联网时代的关键历史时刻。",
+    "best_quote_en": "The campaign that introduced America to the internet.",
+    "best_quote_zh": "介绍美国人使用互联网的活动。"
+  },
+  {
+    "id": 731,
+    "title": "Imran Perretta on community, collaboration and composing Ish: highlights from a BFI Film Academy masterclass",
+    "title_zh": "Imran Perretta on community, collaboration and composing Ish: highlights from a BFI Film Academy masterclass",
+    "model_used": "nvidia/nemotron-3.5-lightning:free",
+    "source": "BFI",
+    "link": "https://www.bfi.org.uk/news/imran-perretta-community-collaboration-composing-ish-highlights-from-bfi-film-academy-masterclass",
+    "tags": [
+      "solve",
+      "music-arts"
+    ],
+    "tags_zh": [
+      "解决",
+      "音乐艺术"
+    ],
+    "date": "2026-10-30",
+    "summary_en": "This masterclass transcript offers a compelling behind-the-scenes look at the making of Ish, a debut feature rooted in director Imran Perretta's teenage experiences with stop-and-search encounters. The discussion reveals the film's organic genesis in Perretta's bilingual upbringing between south London and Luton, and highlights the critical role of community collaboration—from location manager Aly Ripo's early involvement to the authentic community participation during filming. Perretta's compositional approach, blending contemporary art with English folk aesthetics, demonstrates a sophisticated translation of emotional tone. The conversation ultimately champions creative bravery, urging filmmakers to resist industry gatekeeping. It stands as a masterclass not just in filmmaking technique, but in the power of personal truth and cross-cultural community engagement.",
+    "summary_zh": "本次BFI电影学院大师课透析了影片《Ish》的创作过程，导演Imran Perretta的童年经历与影片的警察遭遇紧密相连。文章生动描绘了导演在南伦敦与 Luton 之间的双语成长背景，以及社区合作在影片诞生中的关键作用。地经理Aly Ripo的早期介入与取景过程中的社区温情互动，为影片赋予了真实的地域气息。Perretta 的音乐创作融合当代艺术与英式民间美学，展现了情感基调的精准转译。大师课的核心价值在于鼓励年轻电影人敢于冒险、抵抗行业门槛，个人认为这种基于真实经验的创作力量具有普遍的励志意义。",
+    "best_quote_en": "\"A lot of it is centred on scenes from my teenage years,\" Perretta revealed, speaking especially of the police stop-and-search at the heart of the film. Having had a similar experience at 13, Perretta said: \"It broke my world open.\"",
+    "best_quote_zh": "\"A lot of it is centred on scenes from my teenage years,\" Perretta revealed, speaking especially of the police stop-and-search at the heart of the film. Having had a similar experience at 13, Perretta said: \"It broke my world open.\""
   }
 ]
