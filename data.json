@@ -1,126 +1,5 @@
 [
   {
-    "id": 632,
-    "title": "Haters",
-    "title_zh": "仇恨",
-    "model_used": "nvidia/nemotron-3.5-lightning:free",
-    "source": "Paul Graham",
-    "link": "http://www.paulgraham.com/fh.html",
-    "tags": [
-      "analyze",
-      "startup-strategy"
-    ],
-    "tags_zh": [
-      "分析",
-      "创业策略"
-    ],
-    "date": "2026-10-15",
-    "summary_en": "This essay offers a profound reframing of the phenomenon of online hatred, positing that haters are essentially fanboys with the sign flipped. The author argues that both obsessive fans and obsessive haters stem from the same psychological root: the inability to maintain a critical, separate identity in relation to a famous person's work. The piece is notable for its sharp observational wit and its dismantling of the 'fraud' narrative often deployed by haters to reconcile their resentment with the subject's undeniable fame. Beyond the psychological analysis, the essay provides a practical and liberating strategy for the famous: by recognizing haters as mirror images of fans, one can dismiss their obsession as irrelevant to one's own work. The author's personal stance—admiring the work of P.G. Wodehouse as a fanboy but rejecting the role of a hater entirely—adds a layer of moral clarity to the analysis. Ultimately, the text serves as a sophisticated meditation on fame, identity, and the asymmetric emotional economies of admiration versus resentment.",
-    "summary_zh": "这篇文章通过一种深刻的重构，重新定义了网络仇恨的现象，认为仇恨者本质上就是粉丝，只是情感符号翻转了。作者论证，无论是痴迷的粉丝还是痴迷的仇恨者，其心理根源都是无法对名人的作品保持批判、独立的身份。文章以其敏锐的观察力和机智著称，尤其是对仇恨者常用‘fraud（骗子）」叙事进行的剖析，展示了他们如何试图调和对名人的憎恨与其既有的名气。除了心理层面的分析，文章还提供了一个实用且解放的策略：通过识别仇恨者与粉丝的镜像关系，名人可以将他们的仇恨视为与自身工作无关的无关紧要的偏执。作者个人的立场——把 P.G. Wodehouse 视为偶像，却绝不愿成为仇恨者——为分析增添了一层道德清晰度。最终，这篇文章是对名望、身份以及钦佩与怨恨之间非对称情感经济学的高级思考。",
-    "best_quote_en": "\"Haters are just fanboys with the sign switched.\"",
-    "best_quote_zh": "\"仇恨者只不过是把符号翻转的粉丝而已。\""
-  },
-  {
-    "id": 633,
-    "title": "The Tim Ferriss Show Transcripts: The Random Show — AI Super Assistants, Boner Pills, Dream Engineering, Wizards, Supplements, Books, and More (#886)",
-    "title_zh": "蒂姆·费瑞斯秀转录：随机秀 — AI超级助手、阴茎头疼药、梦境工程、巫师、补充剂、书籍等更多内容（#886）",
-    "model_used": "poolside/laguna-xs-2.1:free",
-    "source": "Tim Ferriss",
-    "link": "https://tim.blog/2026/10/11/the-random-show-ai-super-assistants-boner-pills-dream-engineering-wizards-supplements-books-and-more-transcript/",
-    "tags": [
-      "inspire",
-      "ai-research",
-      "writing-content",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "启发",
-      "AI研究",
-      "写作内容",
-      "未来预测"
-    ],
-    "date": "2026-10-11",
-    "summary_en": "This transcript from The Tim Ferriss Show reveals a pivotal moment in AI evolution, where personal assistant AI has transcended traditional chatbot functionality to become deeply integrated with personal data ecosystems. Kevin Rose discusses how AI assistants like Instinct operate through iMessage integration, requiring extensive Google account access that raises significant privacy concerns. The conversation spans diverse topics from biohacking supplements like beta-alanine for climbing endurance to psychological insights about dream engineering and anesthesia experiences. The dialogue also touches on societal issues including male enhancement products, cryptocurrency risks, and the emerging landscape of AI-driven personal productivity. What emerges is a fascinating snapshot of early 2020s AI adoption patterns, where users must weigh convenience against data security while navigating an increasingly complex intersection of technology, health, and personal privacy. The casual, humorous tone contrasts sharply with the serious implications of AI systems that can access intimate personal data through seemingly simple text messaging interfaces.",
-    "summary_zh": "这段转录记录了AI助手进入个人生活的关键时刻，从传统聊天机器人演变为深度整合个人数据生态系统。费瑞斯和罗斯讨论了AI助手如Instinct通过iMessage集成，需要广泛Google账户访问的隐私问题。话题涵盖补充剂、梦境工程、阴茎头疼药等多元化内容，展现了AI时代用户在便利性与数据安全之间的抉择挑战。",
-    "best_quote_en": "AI has turned into something that I kind of saw it coming, but I didn't think it would come this rapidly, which is it is replacing... So, when I first thought of AI, I thought, 'Okay, we have this chatbot, we can launch it. We can ask questions of whatever like I got to repair this light switch. How do I do it?' That's typical AI use case over the last, call it two years.",
-    "best_quote_zh": "AI已经发展出我本可以通过预见但没想到会这么快，这就是它正在取代......当我第一次想到AI时，我想'好吧，我们有这个聊天机器人，可以发布它。我们可以问它任何问题，比如我需要修理这盏灯，怎么修？'这过去两年都典型的AI使用案例。"
-  },
-  {
-    "id": 634,
-    "title": "比尔·盖茨最新专访：AI比核武器更危险，也可能比核能更有用",
-    "title_zh": "比尔·盖茨最新专访：AI比核武器更危险，也可能比核能更有用",
-    "model_used": "cohere/north-mini-code:free",
-    "source": "虎嗅",
-    "link": "https://www.huxiu.com/article/4897747.html?f=rss",
-    "tags": [
-      "update",
-      "ai-research",
-      "politics",
-      "beginner-friendly"
-    ],
-    "tags_zh": [
-      "动态",
-      "AI研究",
-      "政治时事",
-      "新手友好"
-    ],
-    "date": "2026-10-15",
-    "summary_en": "In a recent interview with Vatican News, Bill Gates made a striking assertion: AI is more dangerous than nuclear weapons but could be more beneficial than nuclear energy. He emphasized the urgent need for governance, warning that technological risks could outpace policy responses. Gates highlighted AI’s dual potential to either widen or narrow global inequality, advocating for its responsible deployment in healthcare, education, and agriculture. He stressed that while tech companies recognize AI risks, governments lack sufficient expertise and must collaborate internationally. The interview also explored the transformative impact of AI on work and society, the importance of language accessibility, and the ethical considerations of automation. Gates underscored the necessity of proactive discussions on taxation, job preservation, and human value, rather than waiting for catastrophic events to force action. His insights call for a balanced approach that harnesses AI’s benefits while mitigating its dangers, ensuring that technological progress serves all humanity equitably.",
-    "summary_zh": "比尔·盖茨在接受梵蒂冈新闻社采访时提出了一个引人注目的观点：AI比核武器更危险，但可能比核能更有用。他警告，技术风险可能超前于政策反应，强调了治理的紧迫性。盖茨指出，AI既能缩小也能拉大全球不平等，主张在医疗、教育和农业等领域负责任地应用。他批评技术公司虽意识到风险，但政府缺乏专业知识，需加强国际合作。采访还探讨了AI对工作的影响、语言障碍、以及自动化伦理等问题。盖茨呼吁社会提前讨论税收、保留人类工作岗位和人的价值，而非被动应对危机。他的观点引发了对技术普惠与服务分层的深刻反思。",
-    "best_quote_en": "AI is more dangerous than nuclear weapons but could be more beneficial than nuclear energy.",
-    "best_quote_zh": "AI比核武器更危险，但它可能带来的益处，也超过核能。"
-  },
-  {
-    "id": 635,
-    "title": "县城医院里，有太多“再等等”的女性",
-    "title_zh": "县城医院里，有太多‘再等等’的女性",
-    "model_used": "poolside/laguna-xs-2.1:free",
-    "source": "三联生活周刊",
-    "link": "http://weixin.sogou.com/weixin?type=2&query=%E4%B8%89%E8%81%94%E7%94%9F%E6%B4%BB%E5%91%A8%E5%88%8A+%E5%8E%BF%E5%9F%8E%E5%8C%BB%E9%99%A2%E9%87%8C%EF%BC%8C%E6%9C%89%E5%A4%AA%E5%A4%9A%E2%80%9C%E5%86%8D%E7%AD%89%E7%AD%89%E2%80%9D%E7%9A%84%E5%A5%B3%E6%80%A7",
-    "tags": [
-      "analyze",
-      "medicine",
-      "science",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "分析",
-      "医学健康",
-      "科学研究",
-      "数据驱动"
-    ],
-    "date": "2026-10-14",
-    "summary_en": "This powerful narrative reveals the systemic barriers preventing rural Chinese women from accessing timely breast cancer care. The story of Yang Chaoying, a rural artisan who delayed seeking treatment for nearly a year after discovering a painless breast lump, illuminates a crisis that extends far beyond individual oversight. The article exposes how knowledge gaps, geographical isolation, and inadequate local medical infrastructure create a cascade of delays that transform treatable conditions into advanced-stage diagnoses. The investigation reveals that over one-third of breast cancer patients nationwide wait more than 90 days from symptom discovery to first medical consultation, with rural women facing even steeper obstacles. Yang's journey from agricultural laborer to disabled survivor underscores how bodily labor becomes both livelihood and vulnerability. Her transformation of traditional embroidery skills into economic survival represents not just personal resilience but also speaks to broader questions about adaptive capacity in post-disability life. The piece challenges readers to examine how healthcare systems perpetuate inequality through seemingly routine delays that accumulate into life-altering consequences.",
-    "summary_zh": "这篇文字穿透了农村女性健康服务中的深层结构性困境。杨朝英的故事不只是一个个人的健康耽误，更揭示了知识鸿沟、地理孤立和基层医疗资源不足如何形成连锁的延误系统。超过三分之一的患者从发现症状到就医超过90天，而偏远地区的女性所面临的障碍更为复杂。她们的身体劳动既是生计，更是脆弱性的来源。当化疗毁灭了她的劳动能力，她却在刺绣中重建了生活方式，这不仅是个人的坚韧，更是对适应性生存能力的深刻追问。",
-    "best_quote_en": "For rural women, the county town hospital and grassroots medical institutions often stand at the most critical position on this path.",
-    "best_quote_zh": "对于生活在偏远地区的女性来说，县城医院和基层医疗机构往往正处在这条路上最关键的位置。"
-  },
-  {
-    "id": 636,
-    "title": "Book of the month: Ysabelle Cheung",
-    "title_zh": "每月一书：Ysabelle Cheung",
-    "model_used": "cohere/north-mini-code:free",
-    "source": "A year of reading the world",
-    "link": "https://ayearofreadingtheworld.com/2026/03/31/book-of-the-month-ysabelle-cheung/",
-    "tags": [
-      "inspire",
-      "education",
-      "ai-research",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "启发",
-      "教育学习",
-      "AI研究",
-      "未来预测"
-    ],
-    "date": "2026-03-31",
-    "summary_en": "Ysabelle Cheung's debut collection, Patchwork Dolls, offers a haunting exploration of contemporary anxieties through near‑realist dystopias that reflect today's consumerist and technological pressures. The stories, inspired by Jia Tolentino's New Yorker essay on the 'Instagram Face,' follow marginalized young women navigating a believable yet nightmarish world where identity is commodified. Cheung's writing balances bleakness with surprising playfulness, weaving themes of survival, tradition, and futuristic technology. Notably, she challenges reader expectations with an interactive 'choose‑your‑own‑adventure' narrative that invites even reluctant readers to engage. The collection's psychological depth, humanity, and hopeful undercurrents reveal a keen awareness of both personal and societal struggles. Cheung's acknowledgments underscore her motivation to transform adversity into art, making Patchwork Dolls a compelling testament to resilience and creative empowerment.",
-    "summary_zh": "Ysabelle Cheung 的新作《Patchwork Dolls》是一部充满张力的短篇小说集，通过近乎现实主义的反乌托邦视角，深刻揭示了当代年轻人，尤其是年轻女性，在消费主义和科技浪潮下的焦虑与困境。故事以贾·托伦蒂诺的《纽约客》专栏文章《Instagram 面容时代》为灵感，描绘了边缘化女性在纽约被剥削、出售自身形象以满足富人审美需求的场景。Cheung 笔下的世界既荒诞又真实，从“头菌”感染到跨性别匹配公寓，从追踪亡灵的应用到关于生存主义与传统技术的奇思妙想，她的叙事既具有强烈的批判性，又不乏幽默与惊喜。尤其是那篇可选路径的“读者”故事，让即使不擅长互动小说的读者也不得不参与其中，引发对自我决策与文本消费的反思。Cheung 对读者心理的敏锐洞察，以及她在 acknowledgments 中对教育者、出版人、骚扰者和压迫者的回击，共同构成了这部作品的独特力量：她将痛苦转化为艺术，将个人经历升华为对社会结构的深刻反思。",
-    "best_quote_en": "“And finally, to the teacher who said I would never learn to read; the magazine publisher who made me doubt my own words; the men who followed me home from school; and the authoritarian figures who dictate what we can, and cannot, write and say. You gave me a reason to write these stories.”",
-    "best_quote_zh": "“最后，我要感谢那个说我永远学不会阅读的老师，那个让我怀疑自己文字的杂志出版人，那些尾随我放学回家的男人，以及那些 dictate 我们能写什么、不能写什么的独裁者。你们给了我写下这些故事的理由。”"
-  },
-  {
     "id": 637,
     "title": "How Do Fungi Keep the Planet Healthy?",
     "title_zh": "真菌如何保持地球健康？",
@@ -2332,5 +2211,118 @@
     "summary_zh": "本次BFI电影学院大师课透析了影片《Ish》的创作过程，导演Imran Perretta的童年经历与影片的警察遭遇紧密相连。文章生动描绘了导演在南伦敦与 Luton 之间的双语成长背景，以及社区合作在影片诞生中的关键作用。地经理Aly Ripo的早期介入与取景过程中的社区温情互动，为影片赋予了真实的地域气息。Perretta 的音乐创作融合当代艺术与英式民间美学，展现了情感基调的精准转译。大师课的核心价值在于鼓励年轻电影人敢于冒险、抵抗行业门槛，个人认为这种基于真实经验的创作力量具有普遍的励志意义。",
     "best_quote_en": "\"A lot of it is centred on scenes from my teenage years,\" Perretta revealed, speaking especially of the police stop-and-search at the heart of the film. Having had a similar experience at 13, Perretta said: \"It broke my world open.\"",
     "best_quote_zh": "\"A lot of it is centred on scenes from my teenage years,\" Perretta revealed, speaking especially of the police stop-and-search at the heart of the film. Having had a similar experience at 13, Perretta said: \"It broke my world open.\""
+  },
+  {
+    "id": 732,
+    "title": "General and Surprising",
+    "title_zh": "普遍而惊人",
+    "model_used": "nvidia/nemotron-3.5-super-vl:free",
+    "source": "Paul Graham",
+    "link": "http://www.paulgraham.com/sun.html",
+    "tags": [
+      "solve",
+      "general",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "解决",
+      "general",
+      "未来预测"
+    ],
+    "date": "2026-11-05",
+    "summary_en": "Paul Graham's essay explores the elusive intersection of generality and surprise in valuable insights. He argues that the most precious knowledge—like F=ma—is both broadly applicable and unexpectedly novel, yet this territory is quickly exhausted. Most insights settle for one quality without the other: gossip is surprising but not general; platitudes are general but not surprising. Graham's key contribution is the concept of the 'small delta': when starting from highly general ideas, even a tiny addition of novelty produces useful insight. This reframes repetition not as failure but as necessary variation that increases the probability of breakthrough. The essay champions persistence, noting that 'not much new' is a genuine achievement when applied to fundamental ideas. It's a meditation on intellectual productivity that values incremental progress within broad domains over radical disruption.",
+    "summary_zh": "格雷厄姆探讨了最有价值的洞察必须兼具“普遍性”和“惊人性”这一难得组合。绝大多数见解只占其一：八卦惊人但不普遍，陈词滥调普遍但不惊人。他提出的核心概念是“微小增量”——从极其普遍的思想出发，哪怕只有极小的新颖性，也能产生有用的洞察。这重新定义了重复的意义：在处理最一般性的思想时，表面上的重复实则是变体，增加了获得关键增量的机会。文章鼓励创作者在别人说“没有什么新东西”时坚持下去，因为在普遍领域中，“不算太新”本身就是真正的成就。这是一篇关于知识生产力的深刻沉思，推崇在广阔领域内进行渐进式探索，而非追求颠覆性突破。",
+    "best_quote_en": "The most valuable insights are both general and surprising.",
+    "best_quote_zh": "最有价值的洞察既普遍又惊人。"
+  },
+  {
+    "id": 733,
+    "title": "Legendary Chef Jacques Pépin — The Pursuit of Mastery, Cooking for Presidents, Meeting Julia Child, and More",
+    "title_zh": "传奇厨师雅克·佩帕克 — 追求卓越，为总统烹饪，结识Julia Child等",
+    "model_used": "nvidia/nemotron-3-nano-omni-30b-a3b-reasoning:free",
+    "source": "Tim Ferriss",
+    "link": "https://tim.blog/2026/10/27/jacques-pepin/",
+    "tags": [
+      "solve",
+      "education"
+    ],
+    "tags_zh": [
+      "解决",
+      "教育学习"
+    ],
+    "date": "2026-10-27",
+    "summary_en": "This exclusive YouTube interview features legendary chef Jacques Pépin reflecting on his journey from French head chef to American culinary icon. He discusses cooking for presidents, collaborating with Julia Child, and his philosophy that the kitchen is a space of equality and generosity. Pépin emphasizes preparation, teaching home cooks, and adapting recipes creatively. His work spans over 30 books, hundreds of PBS shows, and contributions to food media. The conversation highlights his humble roots, dedication to reducing food waste, and belief that cooking should make life easier and joyful.",
+    "summary_zh": "这期独家YouTube访谈聚焦传奇厨师雅克·佩帕克，回顾其从法国主厨到美国烹饪偶像的成长历程，涉及为总统烹饪、与Julia Child合作及烹饪哲学。他强调厨房平等、教导家庭主妇、重视备料与减少食物浪费，主张烹饪应让生活更轻松愉悦。他已出版30余本食书，主持数百档PBS节目，致力于烹饪普及与分享。",
+    "best_quote_en": "At that time, certainly, the cook was at the bottom of the social scale, quite different than here. … So now we are genius, we are famous.",
+    "best_quote_zh": "那时，厨师处于社会底层，与现在天壤之别……如今我们成了天才，成了名人。"
+  },
+  {
+    "id": 734,
+    "title": "美国企业养老金的退场与晚年危机",
+    "title_zh": "美国企业养老金的退场与晚年危机",
+    "model_used": "nvidia/nemotron-3.5-lightning:free",
+    "source": "虎嗅",
+    "link": "https://www.huxiu.com/article/4903302.html?f=rss",
+    "tags": [
+      "analyze",
+      "science",
+      "economics",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "分析",
+      "科学研究",
+      "经济金融",
+      "未来预测"
+    ],
+    "date": "2026-11-05",
+    "summary_en": "This profound book review examines the evolution and crisis of American retirement systems, tracing the shift from traditional defined-benefit pensions to volatile 401(k) accounts. The author illuminates how policy changes, corporate restructuring, and market forces have transferred retirement risk from institutions to individuals, disproportionately impacting low-income workers. Through historical case studies like Studebek and Sears, the analysis reveals the fragility of pension promises and the inadequacy of market-dependent savings. The review ultimately argues for guaranteed retirement accounts that pool risk across employers and workers, ensuring dignified retirements regardless of market fluctuations or personal financial literacy.",
+    "summary_zh": "这篇书评深刻剖析了美国退休制度的演变与危机，追踪了从传统定额养老金向波动性401(k)账户的转变。作者揭示了政策变动、企业重组和市场力量如何将退休风险从机构转移到个人身上，尤其是对低收入工人产生不成比例的影响。通过斯图德贝克和西尔斯等历史案例，分析揭示了养老金承诺的脆弱性和市场依赖储蓄的不足。评论最终主张建立有保障的退休账户，跨企业和工人汇集风险，确保无论市场波动或个人理财水平如何，都能体面退休。",
+    "best_quote_en": "\"Retirement security cannot only look at how much assets workers have accumulated, but also whether these money can maintain their remaining lives,\" argues Giularduchi. The shift to 401(k) places disproportionate risk on individuals, particularly those with limited income who may be forced to work indefinitely when savings fall short.",
+    "best_quote_zh": "\"退休保障不能只看劳动者积累了多少资产，还要看这些钱能否维持他们的余生。\" 吉拉尔杜奇指出，401(k)将更多责任交给了个人，收入有限的劳动者尤其难以承担其中的风险。"
+  },
+  {
+    "id": 735,
+    "title": "特朗普输掉中期选举，“民主党重掌国会”意味着什么？",
+    "title_zh": "特朗普输掉中期选举，“民主党重掌国会”意味着什么？",
+    "model_used": "nvidia/nemotron-3.5-lightning:free",
+    "source": "三联生活周刊",
+    "link": "http://weixin.sogou.com/weixin?type=2&query=%E4%B8%89%E8%81%94%E7%94%9F%E6%B4%BB%E5%91%A8%E5%88%8A+%E7%89%B9%E6%9C%97%E6%99%AE%E8%BE%93%E6%8E%89%E4%B8%AD%E6%9C%9F%E9%80%89%E4%B8%BE%EF%BC%8C%E2%80%9C%E6%B0%91%E4%B8%BB%E5%85%9A%E9%87%8D%E6%8E%8C%E5%9B%BD%E4%BC%9A%E2%80%9D%E6%84%8F%E5%91%B3%E7%9D%80%E4%BB%80%E4%B9%88%EF%BC%9F",
+    "tags": [
+      "solve",
+      "politics",
+      "controversial"
+    ],
+    "tags_zh": [
+      "解决",
+      "政治时事",
+      "争议观点"
+    ],
+    "date": "2026-11-04",
+    "summary_en": "The US midterm elections resulted in a Democratic wave, with the party gaining control of both the Senate and House. Driven by voter frustration over inflation and living costs, Democrats secured key victories across swing states. Despite Trump's efforts, his policies are seen as exacerbating economic pressures. The shift signals potential gridlock for Trump's remaining term and sets the stage for a competitive 2028 presidential race, highlighting deep internal Democratic divisions on future direction.",
+    "summary_zh": "美国中期选举结果出炉，民主党在参众两院全部逆转占得多数席位。选民对物价、生活成本的怨气是投票的关键因素，特朗普的逆全球化政策被视为加剧了民众负担。民主党的胜利在很大程度上是对手的失败，暴露了其内部的派系分歧。这标志着特朗普后半任期施政可能面临阻碍，并为2028年总统大选的竞争定调。",
+    "best_quote_en": "Affordability became the election's defining issue, highlighting voter frustration with economic conditions.",
+    "best_quote_zh": "“可负担性”成为本次选举的定义性议题，凸显了选民对经济状况的不满。"
+  },
+  {
+    "id": 736,
+    "title": "Can You Help Me Find Dracula?",
+    "title_zh": "你能帮我找到德古拉吗？",
+    "model_used": "google/gemma-4-31b-it:free",
+    "source": "A year of reading the world",
+    "link": "https://ayearofreadingtheworld.com/2026/11/03/can-you-help-me-find-dracula/",
+    "tags": [
+      "analyze",
+      "writing-content"
+    ],
+    "tags_zh": [
+      "分析",
+      "写作内容"
+    ],
+    "date": "2026-11-03",
+    "summary_en": "This piece is a compelling invitation into the fluid nature of cultural translation and literary migration. The author explores the 'shapeshifting' quality of iconic characters, using the fascinating example of Kottayam Pushpanath's Malayalam Dracula novels to illustrate how a Western archetype can be repurposed to critique British colonialism in India. Beyond a simple project announcement, the text raises a profound intellectual question: why do certain narratives possess the elasticity to survive and evolve across disparate linguistic and cultural landscapes? The author's approach is one of genuine curiosity, treating literature not as a static artifact but as a living entity that travels and transforms, inviting a global crowdsourced effort to map the genealogy of a myth.",
+    "summary_zh": "这篇文章不仅是一个项目的招募令，更是一次关于文化翻译与文学迁徙的深刻探讨。作者通过德古拉在印度马拉雅拉姆语文学中的变体，揭示了经典角色如何通过“变形”来承载当地的政治隐喻（如反殖民主义）。这种对文学流动性的好奇心极具启发性，它将文学视为一种活着的、不断演变的有机体。文章引导我们思考：一个文化符号在跨越语言边界时，究竟在丢失什么，又在获得什么？",
+    "best_quote_en": "I want to track the character of Dracula around the globe... what it is that makes certain characters travel and shapeshift between cultures and languages.",
+    "best_quote_zh": "我想追踪德古拉在全世界的足迹……探究究竟是什么让某些角色能够在不同的文化和语言之间旅行并变换形态。"
   }
 ]
