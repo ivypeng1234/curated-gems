@@ -1,122 +1,5 @@
 [
   {
-    "id": 642,
-    "title": "Book Freak #227: The Perfume of Silence",
-    "title_zh": "寂静之香",
-    "model_used": "xingchen-agi/xing4.0-29b-a4b:free",
-    "source": "Kevin Kelly",
-    "link": "https://kk.org/cooltools/book-freak-227-the-perfume-of-silence/",
-    "tags": [
-      "learn",
-      "psychology",
-      "education"
-    ],
-    "tags_zh": [
-      "学习",
-      "心理学",
-      "教育学习"
-    ],
-    "date": "2026-10-16",
-    "summary_en": "The Perfume of Silence offers a luminous, accessible entry into nondual awareness through Lucille's warm dialogue format with students. Its core insight—that psychological suffering dissolves when we recognize the consciousness underlying experience rather than identifying with thoughts and sensations—resonates deeply in an age of anxiety and distraction. The 'Try It Now' exercises provide immediately usable practices for cultivating presence in everyday life, from noticing awareness beneath passing thoughts to welcoming uncomfortable emotions without resistance. The book's greatest strength is its refusal to romanticize meditation; it insists that awakening is not an escape from ordinary life but a deepening of ordinary moments. Lucille's teaching that happiness is our natural state rather than a goal reframes a pervasive cultural assumption in a genuinely liberating way. However, the text can feel repetitive across chapters, and readers seeking empirical or philosophical rigor may find its experiential claims difficult to verify through conventional academic lenses. The closing quote distills the entire project into a single radical claim: freedom exists only at the level of consciousness itself.",
-    "summary_zh": "《寂静之香》以Lucille与学生的对话为形式，将非二元觉知理念自然带入日常语境。其核心洞见——心理痛苦并非源于经验本身，而是源于我们将思维、感受与觉知误认为自我——在焦虑弥漫的时代具有深刻的解放意义。书中提出的三个即时练习极具实操价值：觉察意识本身、对不适情绪说'欢迎你'、以全神贯注完成平凡事务。Lucille最精妙的贡献在于重新定义了幸福：它不是外在追求的目标，而是我们本就拥有的本性。这种重定义消解了现代人对幸福的执念。不过，全书在章节间略显重复，且缺乏实证性论证，对于习惯理性分析的读者而言可能显得不够严谨。最后那句关于自由与意识关系的宣言，堪称全书最精炼的总结。",
-    "best_quote_en": "There is no freedom at the level of the body-mind. There is absolute freedom at the level of consciousness.",
-    "best_quote_zh": "身体-心灵层面没有自由，意识层面才有绝对自由。"
-  },
-  {
-    "id": 643,
-    "title": "Essentials: Neuralink & Technologies to Enhance Human Brains | Dr. Matt MacDougall",
-    "title_zh": "要点：Neuralink 与增强人类大脑的技术 | Matt MacDougall 博士",
-    "model_used": "nvidia/nemotron-3.5-super-vl:free",
-    "source": "Huberman Lab",
-    "link": "https://www.hubermanlab.com/episode/essentials-neuralink-and-technologies-to-enhance-human-brains-matthew-macdougall",
-    "tags": [
-      "inspire",
-      "ai-research",
-      "education",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "启发",
-      "AI研究",
-      "教育学习",
-      "未来预测"
-    ],
-    "date": "2026-10-15",
-    "summary_en": "This Huberman Lab Essentials episode features Dr. Matthew MacDougall, a neurosurgeon at Neuralink, discussing brain-machine interfaces (BMIs) and their potential to transform human capability. The conversation covers how BMIs can enable paralyzed individuals to control computers through intended movement, the precision of robotic surgery for electrode implantation, and advances in brain tumor treatment. Dr. MacDougall explores the bidirectional learning process between brain and software, implant safety, and the ethical considerations of animal research. Looking forward, he envisions applications ranging from restoring movement and treating mental health conditions to expanding human cognition and enabling brain-to-brain communication augmented by AI. The discussion balances technological optimism with medical pragmatism, highlighting both the extraordinary promise and significant challenges of merging human brains with machines.",
-    "summary_zh": "Huberman Lab 采访 Neuralink 神经外科医生 Matt MacDougall，探讨脑机接口如何让瘫痪患者通过意图控制电脑，以及机器人手术如何精准植入微电极。对话涵盖脑肿瘤手术、植入安全性、大脑与软件的协同学习，以及动物研究的伦理问题。MacDougall 展望未来应用：恢复运动功能、治疗精神健康状况、扩展人类认知，甚至实现脑与脑之间的沟通。这是一次在技术乐观主义与医学务实之间取得平衡的讨论，揭示了人脑与机器融合的巨大潜力与重大挑战。",
-    "best_quote_en": "Restoring movement, addressing mental health conditions and expanding human cognition and communication.",
-    "best_quote_zh": "恢复运动功能，解决精神健康问题，扩展人类认知与沟通。"
-  },
-  {
-    "id": 644,
-    "title": "Weekly Review",
-    "title_zh": "Weekly Review",
-    "model_used": "nvidia/nemotron-3-nano-omni-30b-a3b-reasoning:free",
-    "source": "Harper’s Magazine",
-    "link": "https://harpers.org/2026/10/weekly-review-uss-abraham-lincoln-fathers-debark-cattle-semen-explosion-french-protests-hand-grenade-iran-execution-christa-pike-palantir-smoking-kimberly-guilfoyle-hitler-mussolini/",
-    "tags": [
-      "analyze",
-      "politics",
-      "controversial"
-    ],
-    "tags_zh": [
-      "分析",
-      "政治时事",
-      "争议观点"
-    ],
-    "date": "2026-10-14",
-    "summary_en": "This weekly review presents a striking collage of global events that reveal both the brutality of contemporary conflict and the absurdity of human behavior. Military deployments like the USS Abraham Lincoln's historic combat record (3,700 missions, 450 Tomahawks) contrast sharply with bizarre incidents such as exploding cattle semen cryogenic cylinders and a stun grenade maiming a protester in France. The report juxtaposes state violence (Iranian executions, ICE shootings in NYC) with AI ethics crises (Palantir researchers 'curing cancer' via cigarette signaling, Anthropic's safety guardrails), corporate corruption (Guilfoyle's alleged donor bribery), and even satirical political theater (a mayoral candidate named 'Hitler Mussolini'). These fragments expose systemic tensions: the normalization of lethal force abroad, the weaponization of technology, and the surreal intersection of personal tragedy with global power structures. The inclusion of a funeral home displaying the wrong body and 19th-century coffins near a governor's residence adds a haunting layer of institutional failure. Together, these vignettes form a portrait of a world where geopolitical violence, technological hubris, and human folly intersect in increasingly unpredictable ways.",
-    "summary_zh": "这篇周刊汇编呈现了全球事件的强烈反差：USS Abraham Lincoln舰的史诗级战绩（3700次任务、450枚战斧导弹）与牛精液冷冻罐爆炸、法国抗议者手部被击伤等荒诞事件形成鲜明对比。它揭示了系统性张力——海外致命武力的常态化、技术武器化的危险、以及个人悲剧与全球权力结构的扭曲交织。州长将飓风命名为“伊赛亚”显示出荒诞氛围，而丧家乐部错误展示尸体与总统官邸发现19世纪棺材则暴露制度失效。这些片段共同勾勒出一个世界：地缘政治暴力、技术傲慢与人类荒诞在此交织，形成不可预测的现实图景。",
-    "best_quote_en": "I don't know how to pronounce this, because it's not normal, so I'm calling it Isaiah.",
-    "best_quote_zh": "我不知道怎么发音，因为它不正常，所以我称它为伊赛亚。"
-  },
-  {
-    "id": 645,
-    "title": "Free eSIM Data/A to B Options/Uzbekistan Travel Prices",
-    "title_zh": "免费eSIM数据/A到B选项/U兹别克斯坦旅行价格",
-    "model_used": "nvidia/nemotron-3-nano-omni-30b-a3b-reasoning:free",
-    "source": "Kevin Kelly",
-    "link": "https://kk.org/cooltools/free-esim-data-a-to-b-options-uzbekistan-travel-prices/",
-    "tags": [
-      "solve",
-      "writing-content",
-      "science"
-    ],
-    "tags_zh": [
-      "解决",
-      "写作内容",
-      "科学研究"
-    ],
-    "date": "2026-10-15",
-    "summary_en": "This article delivers practical travel intelligence for budget-conscious globetrotters, combining three actionable value propositions: free eSIM data through Visa card promotions (verified through personal use in Malaysia), a comprehensive transportation planning tool (Rome2Rio) that aggregates all travel options including flight and overland routes, and concrete pricing benchmarks for independent travel in Uzbekistan ($140-185/day). The content demonstrates high practical applicability through real-world testing and direct user guidance, with clear pathways to implementation via linked resources. The Uzbekistan section particularly shines as actionable cost intelligence for travelers seeking affordable destinations, while the eSIM and transportation tips address immediate pain points for international travelers. The piece effectively bridges promotional content with genuine utility, making it highly discoverable for users searching for specific travel hacks rather than general advice.",
-    "summary_zh": "这篇实用指南为预算有限的旅行者提供了三项关键价值：通过个人在马来西亚验证的Visa卡免费eSIM数据方案（3-15天不等）、聚合全球交通选项的Rome2Rio工具推荐，以及乌兹别克斯坦独立旅行的具体均日花费参考（$140-185）。内容以真实使用体验为依据，直击旅行者痛点，特别值得一提的是对乌兹别克斯坦的详尽性价比分析，堪称\"世界最便宜目的地\"候选地，为独立旅行者提供了可落地的省钱指南，而非空泛的旅行建议。",
-    "best_quote_en": "My data is about to run out, but I can re-up with a different Visa card or purchase a plan at a hefty discount.",
-    "best_quote_zh": "我的数据即将用完，但我可以用另一张Visa卡续订，或者以折扣购买流量包。"
-  },
-  {
-    "id": 646,
-    "title": "Essentials: How to Assess & Improve All Aspects of Your Fitness | Dr. Andy Galpin",
-    "title_zh": "要点：如何评估与提升你身体素质的各个方面 | 安迪·加尔平博士",
-    "model_used": "dots-studio/dots-3-note-preview:free",
-    "source": "Huberman Lab",
-    "link": "https://www.hubermanlab.com/episode/essentials-how-to-assess-and-improve-all-aspects-of-your-fitness-andy-galpin",
-    "tags": [
-      "solve",
-      "health-wellness",
-      "beginner-friendly"
-    ],
-    "tags_zh": [
-      "解决",
-      "健康养生",
-      "新手友好"
-    ],
-    "date": "2026-09-17",
-    "summary_en": "This episode revisits Dr. Andy Galpin’s foundational insights on physical fitness, breaking it down into nine measurable components—movement quality, power, strength, muscle mass, endurance, and more. What stands out is the emphasis on self-assessment as a tool for long-term health, not just performance optimization. Galpin and Huberman demystify complex physiological metrics like VO2 max and fat-free mass index by offering accessible, at-home testing methods. The conversation is both scientific and practical, bridging lab-grade concepts with everyday applicability. It’s not just about working harder; it’s about working smarter by understanding your body’s baseline. This is a rare case of expert insight that feels immediately actionable, making it invaluable for anyone serious about sustainable fitness.",
-    "summary_zh": "这期节目重新审视了安迪·加尔平博士关于身体素质的九项核心指标，从动作质量到耐力，每一项都配有可操作的自测方法。最打动我的是它把复杂的生理数据（如VO2最大值、无脂体重指数）转化为了普通人也能实践的工具。这不仅是健身指南，更是一种身体认知的启蒙——让你明白“练什么”之前，先搞清楚“我是谁”。在追求效率的时代，这种回归基础、尊重个体差异的科学态度，反而显得尤为珍贵。",
-    "best_quote_en": "Fitness isn't just about how much you can lift or how fast you can run—it's about understanding your body's unique strengths and weaknesses so you can train smarter, not just harder.",
-    "best_quote_zh": "健身不是看你能举多重、跑多快，而是理解你身体的独特强项与短板，从而聪明地训练，而非盲目拼命。"
-  },
-  {
     "id": 647,
     "title": "Architects’ Sam Carter speaks out on impact “anxiety and constant focus” on his voice after online criticism",
     "title_zh": "建筑师乐队主唱Sam Carter谈及网络批评对其声音的焦虑影响",
@@ -2328,5 +2211,114 @@
     "summary_zh": "本文深入分析了2026年中期选举结果，指出这是美国选举动态的关键转折点，特别是在选区重划战争和民主韧性方面。文章揭示了民主党在州和联邦层面的胜利如何从根本上改变了权力平衡，为2028年选举地图的重塑创造了前所未有的机会。关键洞察包括：尽管共和党进行了积极努力，但其选区划分策略的失败；公投措施已成为民主改革的关键战场；以及两党合作立法可能抑制党派性选区重划的潜力。文章认为，尽管民主党现在拥有显著的结构性优势，但他们对这些胜利的回应将决定是升级党派冲突还是寻求制度保障。分析强调，选民投票率——特别是边缘化社区的参与——是对操纵性地图绘制的有力制衡，表明民主参与仍然是纠正选举操纵的有力工具。更广泛的影响超越了党派政治，涉及美国民主制度的根本健康。",
     "best_quote_en": "If this week’s results ultimately help to rein in an odious practice, then Trump’s redistricting push may just have been 'wOrTh iT' after all.",
     "best_quote_zh": "如果本周的结果最终有助于遏制这种令人憎恶的做法，那么特朗普的选区重划推动可能最终是“值得的”。"
+  },
+  {
+    "id": 742,
+    "title": "The South Carolina family that murdered itself out of existence",
+    "title_zh": "那个自相残杀而灭绝的南卡罗来纳家族",
+    "model_used": "nvidia/nemotron-3.5-super-vl:free",
+    "source": "Kevin Kelly",
+    "link": "https://kk.org/cooltools/the-south-carolina-family-that-murdered-itself-out-of-existence/",
+    "tags": [
+      "analyze",
+      "ai-research",
+      "case-study"
+    ],
+    "tags_zh": [
+      "分析",
+      "AI研究",
+      "案例研究"
+    ],
+    "date": "2026-11-06",
+    "summary_en": "This piece explores the dark, multi-generational history of the Bigham family of South Carolina, whose legacy of violence spans from the mid-1800s until their extinction. The narrative focuses on Leonard Smiley Bigham Sr., a violent plantation owner suspected of nine murders who taught his son to succeed through cheating, beating, and killing. The pattern continued through generations, with poisoned milk becoming a family trademark, culminating in nearly 20 confirmed murders. What makes this analysis compelling is not just the catalog of atrocities, but the examination of how violence becomes normalized within a family culture—committed \"as thoughtlessly as most people make their morning coffee.\" The piece also reviews J.A. Zeigler's self-published book \"The Last of the Bighams,\" acknowledging its literary flaws while recognizing its value as a colorful, opinionated account of an evil family that repeatedly escaped justice. The analysis raises profound questions about inherited trauma, the normalization of violence, and how societal structures can enable multigenerational criminality.",
+    "summary_zh": "这篇文章深入探讨了南卡罗来纳州比厄姆家族跨越多代的黑暗历史，其暴力遗产从19世纪中叶延续到家族灭亡。核心人物伦纳德·斯迈利·比厄姆 Sr. 是一名暴力的种植园主，涉嫌谋杀九人，却教导儿子通过欺骗、殴打和杀戮来成功。这种模式在后代中延续，毒牛奶成为家族商标，共计近20起确认谋杀。最引人深思的不仅是暴行清单，而是暴力如何在家族文化中常态化——像煮早咖啡般随意地犯下罪行。文章还评论了J.A.齐格勒自出版的《比厄姆家族的最后一代》，承认其文学缺陷，但认可其作为关于邪恶家族多次逃脱正义的生动、主观叙述的价值。这引发了关于代际创伤、暴力正常化以及社会结构如何助长多代犯罪的深刻问题。",
+    "best_quote_en": "The Bighams committed horrific acts of violence as thoughtlessly as most people make their morning coffee.",
+    "best_quote_zh": "比厄姆家族犯下的可怕暴行，就像大多数人煮早咖啡一样随意。"
+  },
+  {
+    "id": 743,
+    "title": "Essentials: Cold & Heat Exposure for Metabolic Health | Dr. Susanna Søberg",
+    "title_zh": "代谢健康的冷热暴露要点 | 苏珊娜·瑟伯格博士",
+    "model_used": "nvidia/nemotron-3.5-super-vl:free",
+    "source": "Huberman Lab",
+    "link": "https://www.hubermanlab.com/episode/essentials-cold-and-heat-exposure-for-metabolic-health-susanna-soberg",
+    "tags": [
+      "solve",
+      "health-wellness"
+    ],
+    "tags_zh": [
+      "解决",
+      "健康养生"
+    ],
+    "date": "2026-11-05",
+    "summary_en": "This Huberman Lab Essentials episode features Dr. Susanna Søberg, a metabolic scientist from the University of Copenhagen, discussing how deliberate cold and heat exposure can significantly improve metabolic health. The conversation centers on practical protocols for activating brown fat, enhancing insulin sensitivity, and building physiological resilience through controlled environmental stress. Key insights include the 'Søberg Principle' of ending cold exposure on cold to maximize after-drop metabolism, and the synergistic benefits of sequencing sauna with cold immersion. The content bridges cutting-edge metabolic science with actionable wellness practices, offering specific temperature and duration guidelines that users can immediately apply. While the science is promising, the episode maintains a balanced perspective on individual variability and safety considerations. The discussion reveals how brief, intentional stress exposures can trigger adaptive responses that support long-term health, making complex physiological concepts accessible to general audiences interested in evidence-based biohacking and metabolic optimization.",
+    "summary_zh": "本期Huberman Lab Essentials邀请到哥本哈根大学代谢科学家苏珊娜·瑟伯格博士，探讨冷热暴露如何改善代谢健康。核心观点包括通过“瑟伯格原则”（结束于冷暴露）最大化冷后代谢反应，以及冷热交替激活棕色脂肪、提升胰岛素敏感性的具体方案。内容将前沿代谢科学与可操作的健康实践相结合，提供了温度和时长等具体参数。虽然科学前景乐观，但也强调了个体差异和安全性。这期节目揭示了短暂、有意识的环境压力如何触发适应性反应，支持长期健康，将复杂的生理概念转化为普通大众可理解的循证生物黑客指南。",
+    "best_quote_en": "The Søberg Principle: end on cold to maximize the after-drop and metabolic benefits of cold exposure.",
+    "best_quote_zh": "瑟伯格原则：以冷暴露结束，以最大化冷后代谢反应和冷暴露的代谢益处。"
+  },
+  {
+    "id": 744,
+    "title": "Rachel Kushner’s Remarks at the Second Annual Harper’s Magazine Award Ceremony",
+    "title_zh": "Rachel Kushner在《Harper's》第二届年度奖项典礼上的讲话",
+    "model_used": "nvidia/nemotron-3-nano-omni-30b-a3b-reasoning:free",
+    "source": "Harper’s Magazine",
+    "link": "https://harpers.org/2026/11/rachel-kushners-remarks-at-the-second-annual-harpers-magazine-award-ceremony/",
+    "tags": [
+      "analyze",
+      "ai-research"
+    ],
+    "tags_zh": [
+      "分析",
+      "AI研究"
+    ],
+    "date": "2026-11-06",
+    "summary_en": "Rachel Kushner's remarks at Harper's 175th-anniversary award ceremony reveal the magazine's enduring legacy of intellectual independence and literary excellence through its curated archive of iconic works and contributors. She highlights pivotal moments in Harper's history—from publishing Faulkner's overlooked 'Pantaloon in Black' to sending writers like Roy DeCarava and Ben Ehrenreich to capture societal undercurrents—demonstrating how the publication has consistently amplified marginalized voices and complex narratives. Kushner positions Harper's as an antidote to contemporary 'idiocy,' particularly AI-driven oversimplification, advocating reading and writing as essential acts of resistance. The ceremony celebrates not just individual achievement but the magazine's role as a living archive of public good, where intellectual independence and literary excellence converge to shape cultural discourse. This reflection underscores how Harper's continues to serve as a vital platform for truth-telling amid turbulent times.",
+    "summary_zh": "Rachel Kushner在《Harper's》175周年奖项典礼上强调，该杂志通过精选富有启发性的文章和作者，如福克纳的《黑人》或罗伊的写作，持续捍卫知识独立与文学卓越。她将《Harper's》视为对抗人工智能时代肤浅的智慧灯塔，认为阅读与写作是抵抗愚昧的必要手段。这不仅是对过往贡献者的致敬，更是对媒体在公共利益时代坚守独立性的深刻肯定，提醒我们在动荡时代坚持真实叙事的重要性。",
+    "best_quote_en": "The best way I know to protect myself from idiocy is to read and to write. And the longest-running and most ambitious and sophisticated outlet for both is Harper's Magazine.",
+    "best_quote_zh": "我保护自己免于愚昧的最好方式就是阅读和书写。而最长期、最宏大且最精致的媒介正是《Harper's Magazine》。"
+  },
+  {
+    "id": 745,
+    "title": "Easy Travel Coffee/Priciest Destinations/Worldwide Airplane Wi-Fi",
+    "title_zh": "便携手冲咖啡/最贵旅游目的地/达美航空全球Wi-Fi",
+    "model_used": "nvidia/nemotron-3-ultra-550b-a55b:free",
+    "source": "Kevin Kelly",
+    "link": "https://kk.org/cooltools/easy-travel-coffee-priciest-destinations-worldwide-airplane-wi-fi/",
+    "tags": [
+      "analyze",
+      "lifestyle",
+      "writing-content"
+    ],
+    "tags_zh": [
+      "分析",
+      "生活方式",
+      "写作内容"
+    ],
+    "date": "2026-11-05",
+    "summary_en": "This newsletter delivers three practical travel hacks wrapped in a broader meditation on how we experience the world. The disposable pour-over coffee packets solve a genuine nomad pain point: maintaining coffee rituals without hauling gear. The cost analysis reveals how tourism economics distort local realities — Botswana's $1,526 daily average isn't about luxury but conservation pricing that excludes locals. Delta's global Wi-Fi rollout signals the death of 'disconnected travel' as a choice rather than necessity. But the religious history timeline is the intellectual gem: it reframes faith traditions as a 2,000-year game of telephone, where oral transmission gaps of centuries guarantee theological mutation. Together, these pieces ask whether modern travel — optimized, connected, price-transparent — has lost the transformative friction that once made journeys meaningful.",
+    "summary_zh": "这期通讯用三个实用贴士包裹着对旅行本质的深度反思。一次性手冲咖啡包解决了数字游民的真实痛点：不拖装备也能保持咖啡仪式。博茨瓦纳日均$1526的天价揭示了旅游经济如何扭曲当地现实——这不是奢华定价而是保护性排他。达美全球Wi-Fi标志着「断网旅行」从必然变成选择。但宗教演变时间线才是思想亮点：将信仰传承比作两千年的传话游戏，几个世纪的口述断层必然导致神学变异。这些碎片合问：当旅行被优化、连接、透明化，我们是否失去了曾让旅程具有转化力的那些摩擦？",
+    "best_quote_en": "How much changed in the 300+ years of oral storytelling between when Jesus died and the New Testament books were published for the first time? Or in the 500 years between the death of Buddha and the first recorded teachings?",
+    "best_quote_zh": "耶稣去世到新约首次出版的300多年口述传承中，究竟变了多少？佛陀圆寂到首次记录教义的500年间，又发生了多少演变？"
+  },
+  {
+    "id": 746,
+    "title": "Access the Sublime & Live Your Best Life | Robert Greene",
+    "title_zh": "通往崇高：罗伯特·格林谈如何活出生命的极致",
+    "model_used": "nvidia/nemotron-3-ultra-550b-a55b:free",
+    "source": "Huberman Lab",
+    "link": "https://www.hubermanlab.com/episode/access-the-sublime-and-live-your-best-life-robert-greene",
+    "tags": [
+      "solve",
+      "general"
+    ],
+    "tags_zh": [
+      "解决",
+      "general"
+    ],
+    "date": "2026-11-02",
+    "summary_en": "This conversation between Robert Greene and Andrew Huberman transcends the typical self-help interview, evolving into a profound meditation on what it means to be fully alive. Greene's concept of the 'Sublime'—those moments when we transcend our limited ego and touch something vast—serves as a compass for navigating modern fragmentation. What struck me most was the reframing of attention not as a productivity hack but as a spiritual practice: the 'neuro-sublime' accessible through deliberate slowness, handwriting, and musical thinking. Greene's stroke experience adds visceral authenticity; his description of losing language yet gaining a purified perception mirrors the very transcendence he describes. The discussion on love as 'sublime vulnerability'—embracing both masculine and feminine energies within—offers a refreshing antidote to polarized gender discourse. While some practical tools (mountain climbing, observing cuttlefish) may seem esoteric, the underlying message is radical: our humanity is reclaimed not through optimization but through surrender to wonder. This isn't about living your 'best life' in the Instagram sense—it's about living a life that can actually hold the weight of existence.",
+    "summary_zh": "这不是一场普通的访谈，而是一场关于\"活着\"意味着什么的深度冥想。格林将\"崇高\"定义为超越小我、触及浩瀚的时刻——这成为了对抗现代碎片化的指南针。最震撼我的是：注意力不再是生产力工具，而是灵性修行。通过刻意放慢、手写、像音乐家一样思考，我们能触及\"神经性崇高\"。格林中风后失去语言却获得纯净感知的经历，本身就是他所言超越的具象化。关于爱作为\"崇高脆弱性\"的论述——接纳内在的阴阳双能——为两极化的性别话题提供了解药。那些看似玄奥的工具（登山、观察墨鱼）背后，是激进的信息：我们通过臣服于惊奇而非优化效率，才能夺回人性。这关乎活出生命的分量，而非朋友圈里的\"最佳人生\"。",
+    "best_quote_en": "The Sublime is that moment when you transcend your limited self and you touch something that is vast, that is eternal, that is beyond words. It's not about optimizing your life—it's about surrendering to wonder.",
+    "best_quote_zh": "崇高是你超越有限的自我、触及某种浩瀚、永恒、言语无法企及的时刻。这不是优化人生——而是臣服于惊奇。"
   }
 ]
