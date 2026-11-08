@@ -1,126 +1,5 @@
 [
   {
-    "id": 647,
-    "title": "Architects’ Sam Carter speaks out on impact “anxiety and constant focus” on his voice after online criticism",
-    "title_zh": "建筑师乐队主唱Sam Carter谈及网络批评对其声音的焦虑影响",
-    "model_used": "nvidia/nemotron-3-super-120b-a12b:free",
-    "source": "NME",
-    "link": "https://www.nme.com/news/music/architects-sam-carter-speaks-out-on-impact-anxiety-and-constant-focus-on-his-voice-after-online-criticism-3973426?utm_source=rss&utm_medium=rss&utm_campaign=architects-sam-carter-speaks-out-on-impact-anxiety-and-constant-focus-on-his-voice-after-online-criticism",
-    "tags": [
-      "inspire",
-      "psychology",
-      "music-arts",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "启发",
-      "心理学",
-      "音乐艺术",
-      "未来预测"
-    ],
-    "date": "2026-10-17",
-    "summary_en": "This deeply personal account reveals the corrosive impact of online criticism on a musician's mental health and artistic expression. Sam Carter of Architects details how relentless scrutiny of his vocal performance triggered severe anxiety, eroding the joy he once found in two decades of screaming on stage. His vulnerability exposes a troubling cycle: the more he tried to improve his technique under pressure, the harsher the criticism became, leading to emotional exhaustion. Crucially, Carter frames this not as weakness but as a human struggle—seeking therapy, taking medication, and leaning on support systems while touring with Korn. His plea for compassion ('Be kind. You never know what someone is truly going through') transforms personal pain into a universal call for empathy in digital discourse, highlighting how online judgment can silence artistic voices and damage livelihoods.",
-    "summary_zh": "萨姆·卡特的坦白揭示了网络暴力如何侵蚀艺术家的身心健康。他描述了对声音的过度关注如何夺走了二十年舞台生涯中的快乐，陷入焦虑与自我怀疑的恶性循环。更令人动容的是，他没有回避脆弱——承认接受治疗、服药，并在巡演中寻求专业帮助，这恰恰展现了面对网络审判时勇敢的自我救赎过程。他的呼吁‘Be kind’超越个人经历，成为对数字时代同理心的深刻反思：当我们轻易发表评论时，是否曾考虑过话语背后的人正在经历什么？这不仅是音乐家的故事，更是关于在表演艺术中重新找回人性与快乐的普遍启示。",
-    "best_quote_en": "My anxiety and constant focus on my voice has gotten me to a place where the joy of performing has been taken away from me.",
-    "best_quote_zh": "我对声音的焦虑和持续关注，让我到了表演的快乐被夺走的地步。"
-  },
-  {
-    "id": 648,
-    "title": "Busan 2026: Zogsool, Full Moon, Beyond Love’s Horizon",
-    "title_zh": "釜山2026：佐格苏尔、满月、超越爱的地平线",
-    "model_used": "nvidia/nemotron-3.5-super-vl:free",
-    "source": "RogerEbert.com",
-    "link": "https://www.rogerebert.com/festivals/busan-international-film-festival-2026-zogsool-full-moon-beyond-loves-horizon",
-    "tags": [
-      "analyze",
-      "music-arts",
-      "case-study"
-    ],
-    "tags_zh": [
-      "分析",
-      "音乐艺术",
-      "案例研究"
-    ],
-    "date": "2026-10-18",
-    "summary_en": "This dispatch from Busan 2026 examines three Vision section films united by marginalized female protagonists navigating oppressive economic systems. \"Zogsool\" blends dark comedy with political critique in pandemic-era Mongolia, using panoramic cinematography to symbolize isolation while satirizing corrupt officials who weaponized public fear. \"Full Moon\" offers a convoluted but sincere coming-of-age story about a teenage caregiver for disabled parents, anchored by a standout performance that captures the tension between adult responsibility and adolescent longing. \"Beyond Love’s Horizon\" employs lo-fi naturalism and grayscale night scenes to document a couple’s descent into gig-economy precarity after business failure, exploring how financial desperation erodes intimacy and forces moral compromise. Together, these films form a compelling triptych on resilience, dignity, and the human cost of systemic neglect, all unified by precise visual languages matched to serious subject matter.",
-    "summary_zh": "这份来自釜山2026的终极报道审视了三部“愿景”单元影片，它们共同聚焦边缘化的女性主角，在压迫性的经济体系中挣扎求存。《佐格苏尔》在疫情期间的蒙古背景下，将黑色幽默与政治批判相结合，用全景 cinematography 象征孤立，同时讽刺利用恐惧巩固权力的腐败官员。《满月》讲述了一个照顾残疾父母的青少年成长故事，虽略显杂乱，但由出色的表演支撑，捕捉了成人责任与少年渴望之间的张力。《超越爱的地平线》则采用低成本写实风格，记录一对夫妻在商业失败后陷入零工经济的困境，探讨经济绝望如何侵蚀亲密关系并迫使道德妥协。三部影片共同构成了一幅关于韧性、尊严与系统性忽视人类代价的引人深思的三联画，统一于精准的视觉语言与严肃主题之中。",
-    "best_quote_en": "Khanda and Sumber’s growing relationship, which begins with texts and a song dedication and transforms into something more existential and meaningful.",
-    "best_quote_zh": "Khanda 和 Sumber 日益增长的关系，始于短信和一首歌曲献词，最终转变为某种更具存在主义意义和更深刻的东西。"
-  },
-  {
-    "id": 649,
-    "title": "Celebrating 20 Years of The Marginalian and the Search for Meaning: Free Livestream This Friday",
-    "title_zh": "庆祝《马沃利安》20周年之旅：寻找意义——本周五免费直播",
-    "model_used": "poolside/laguna-s-2.1:free",
-    "source": "The Marginalian",
-    "link": "https://www.themarginalian.org/2026/10/18/20/",
-    "tags": [
-      "inspire",
-      "music-arts",
-      "writing-content",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "启发",
-      "音乐艺术",
-      "写作内容",
-      "未来预测"
-    ],
-    "date": "2026-10-18",
-    "summary_en": "Maria Popova's The Marginalian represents a unique cultural phenomenon: a 20-year solo endeavor transforming personal philosophical inquiry into a globally archived resource. What began as college-era notes evolved into a digital institution recognized by the Library of Congress, sustained entirely by reader patronage without advertising or AI. The upcoming 20th-anniversary livestream, 'Constellating Wonder,' embodies Popova's core mission—bridging science, poetry, and philosophy through wonder to address fundamental human questions about suffering, beauty, and meaning. Featuring luminaries like Nick Cave, James Gleick, and Krista Tippett, this event crystallizes how one person's relentless curiosity can create communal space for contemplation. The enduring value lies not in individual essays but in the model itself: proof that thoughtful, independent cultural criticism can thrive outside commercial frameworks, sustained by genuine reader connection.",
-    "summary_zh": "马丘的《马沃利安》证明了个人的好奇心如何孕育出文化瑰宝——二十年间，以纯洁的热爱对抗商业逻辑，用读者的爱维系独处的灵魂。",
-    "best_quote_en": "It changed shape (the essays grew longer, the questions deeper) and name (Brain Pickings became The Marginalian) but continued beating with the same heart, reckoning with the ongoing bewilderment of being alive",
-    "best_quote_zh": "它改变了形状（文章变得更长，问题也更深邃）和名字（《大脑拾贝》变成了《马沃利安》），但依然保持着同一个心跳，不断思索生活中那份持续的困惑"
-  },
-  {
-    "id": 650,
-    "title": "‘Star Wars’: Jon Watts & Christopher Ford Developed Secret Western Series For Disney+, But It May Have Been Sidelined [Report]",
-    "title_zh": "《星球大战》：乔·沃茨与克里斯托弗·福特为迪士尼+开发了秘密西部题材剧集，但该项目可能已被搁置",
-    "model_used": "xingchen-agi/xing4.0-29b-a4b:free",
-    "source": "The Playlist",
-    "link": "https://theplaylist.net/star-wars-jon-watts-christopher-ford-secret-western-disney-plus-series-20261016/",
-    "tags": [
-      "analyze",
-      "design",
-      "music-arts",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "分析",
-      "设计创意",
-      "音乐艺术",
-      "未来预测"
-    ],
-    "date": "2026-10-16",
-    "summary_en": "A new report reveals that Jon Watts and Christopher Ford, creators of Disney+'s 'Star Wars: Skeleton Crew,' spent eight months developing a secret Western-inspired series during 2026. The project was envisioned as an eight-episode series with a full writers' room operating from January through August. However, the timing raises serious questions about Lucasfilm's priorities — Watts soon received a much larger theatrical assignment directing the first film in Simon Kinberg's emerging Star Wars trilogy. This raises the critical industry question of how studios allocate creative talent across platforms versus theatrical pipelines. The article also contextualizes this within Star Wars' long history of shelved projects and notes that The Mandalorian already leaned heavily into Western traditions, suggesting Watts and Ford may have intended a genre-specific departure from the franchise's interconnected mythology. The piece ultimately frames this as another fascinating but uncertain chapter in Star Wars' sprawling development pipeline.",
-    "summary_zh": "据最新消息，迪士尼+《星战：骷髅军团》的创作者乔·沃茨与克里斯托弗·福特在2026年花了八个月时间秘密开发了一部西部题材剧集，计划为八集。然而，这一项目似乎已被搁置——沃茨随后接到了一个更大的电影导演任务，即西蒙·金贝格新三部曲的首部电影。文章深刻探讨了影视行业一个普遍困境：当一位创作者同时承担流媒体和院线项目时，工作室如何分配创作资源？这并非孤例，星战系列此前也有大量搁置项目，这提醒我们开发周期漫长的项目并不等于最终能立项。西部题材的选择本身也值得玩味——乔治·卢卡斯最初就深受西部片影响，而《曼加洛里奥》更是将西部传统推向了前所未有的深度。沃茨和福特究竟想在这部作品中做出什么不同的尝试，或许只有等未来有更多消息才能揭晓。",
-    "best_quote_en": "So a full writers' room and eight months of work hardly guarantee a green light.",
-    "best_quote_zh": "拥有完整的编剧团队和八个月的开发时间，并不一定能保证项目获得绿灯批准。"
-  },
-  {
-    "id": 651,
-    "title": "Watch Metallica share pro-shot footage of ‘…And Justice For All’ and ‘The Call Of Ktulu’ at Las Vegas Sphere residency",
-    "title_zh": "观看 Metallica 在拉斯维加斯 Sphere 驻场表演中分享的专业摄影《正义给全人类》和《Ktulu 的召唤》画面",
-    "model_used": "poolside/laguna-s-2.1:free",
-    "source": "NME",
-    "link": "https://www.nme.com/news/music/watch-metallica-share-pro-shot-footage-of-and-justice-for-all-and-the-call-of-ktulu-at-las-vegas-sphere-residency-3973419?utm_source=rss&utm_medium=rss&utm_campaign=watch-metallica-share-pro-shot-footage-of-and-justice-for-all-and-the-call-of-ktulu-at-las-vegas-sphere-residency",
-    "tags": [
-      "analyze",
-      "politics",
-      "controversial"
-    ],
-    "tags_zh": [
-      "分析",
-      "政治时事",
-      "争议观点"
-    ],
-    "date": "2026-10-17",
-    "summary_en": "This piece operates on two frequencies simultaneously: the celebratory spectacle of Metallica's Sphere residency and the escalating cultural warfare surrounding artists' political expression. The band's decision to perform '...And Justice For All' for the first time in over a decade, paired with Hetfield's on-stage declaration that Metallica exists purely for 'love, energy and heavy music,' reads as a deliberate retreat from the political polarization that now defines public discourse. Yet the article's true gravity lies in Roger Waters' vitriolic response—calling Hetfield a 'complete prick'—which illuminates how deeply fractured the cultural landscape has become. What's fascinating is how entertainment journalism now serves as a proxy battlefield; the same article promoting concert footage becomes a referendum on free speech, artistic responsibility, and the weaponization of celebrity platforms. Metallica's apolitical stance, while consistent with their 2017 'politics separates people' philosophy, increasingly reads as itself a political position in an era where neutrality is interpreted as complicity.",
-    "summary_zh": "音乐新闻已成为文化战场的代理人。Metallica 的抛头露面的 '...And Justice For All' 重演，配上赫特菲尔德的 '纯粹为爱与重金属' 宣言，反映了一个时代的政治性沉默背后隐藏的政治立场。",
-    "best_quote_en": "Metallica is not here, like some other entertainers, to influence you with their bullshit, OK. No bullshit. We're here to forget about all the outside shit, OK? Metallica's agenda is love, energy and heavy music, baby!",
-    "best_quote_zh": "我们不是来用那些狗屎般的议程影响你们的。Metallica 的使命就是爱、能量和重金属音乐，宝贝!"
-  },
-  {
     "id": 652,
     "title": "Competition winners announced at 70th BFI London Film Festival",
     "title_zh": "第70届BFI伦敦电影节获奖名单公布",
@@ -2320,5 +2199,136 @@
     "summary_zh": "这不是一场普通的访谈，而是一场关于\"活着\"意味着什么的深度冥想。格林将\"崇高\"定义为超越小我、触及浩瀚的时刻——这成为了对抗现代碎片化的指南针。最震撼我的是：注意力不再是生产力工具，而是灵性修行。通过刻意放慢、手写、像音乐家一样思考，我们能触及\"神经性崇高\"。格林中风后失去语言却获得纯净感知的经历，本身就是他所言超越的具象化。关于爱作为\"崇高脆弱性\"的论述——接纳内在的阴阳双能——为两极化的性别话题提供了解药。那些看似玄奥的工具（登山、观察墨鱼）背后，是激进的信息：我们通过臣服于惊奇而非优化效率，才能夺回人性。这关乎活出生命的分量，而非朋友圈里的\"最佳人生\"。",
     "best_quote_en": "The Sublime is that moment when you transcend your limited self and you touch something that is vast, that is eternal, that is beyond words. It's not about optimizing your life—it's about surrendering to wonder.",
     "best_quote_zh": "崇高是你超越有限的自我、触及某种浩瀚、永恒、言语无法企及的时刻。这不是优化人生——而是臣服于惊奇。"
+  },
+  {
+    "id": 747,
+    "title": "Tributes paid after death of Television guitarist Richard Lloyd: “A seeker and finder and a true inspiration”",
+    "title_zh": "致敬已故电视频道吉他手理查德·劳埃德：\"一位探索者、发现者和真正的灵感来源\"",
+    "title_en": "Tributes paid after death of Television guitarist Richard Lloyd: \"A seeker and finder and a true inspiration\"",
+    "model_used": "cohere/north-mini-code:free",
+    "translation_model_used": null,
+    "source": "NME",
+    "link": "https://www.nme.com/news/music/tributes-paid-after-death-of-television-guitarist-richard-lloyd-a-seeker-and-finder-and-a-true-inspiration-3975375?utm_source=rss&utm_medium=rss&utm_campaign=tributes-paid-after-death-of-television-guitarist-richard-lloyd-a-seeker-and-finder-and-a-true-inspiration",
+    "tags": [
+      "analyze",
+      "music-arts",
+      "ai-research",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "分析",
+      "音乐艺术",
+      "AI研究",
+      "未来预测"
+    ],
+    "date": "2026-11-08",
+    "summary_en": "The music world mourns the loss of pioneering guitarist Richard Lloyd, co-founder of the legendary post-punk band Television. At 75, Lloyd's journey from Pittsburgh to New York's CBGB scene shaped groundbreaking guitar sounds that influenced icons like Johnny Marr. His battle with cholangiocarcinoma ended at his Chattanooga home, surrounded by family and his dog. Tributes flood in from peers, highlighting his role as both musical innovator and inspiration. The news comes amid recent deaths of fellow Television members, marking the end of an era. Lloyd's legacy lives on through his seminal 1977 album 'Marquee Moon' and its iconic guitar interplay, cementing his place in rock history as a true seeker and creative force.",
+    "summary_zh": "音乐界哀悼传奇吉他手理查德·劳埃德的离世，他是后朋克乐队Television的共同创始人。这位来自匹兹堡的音乐家在纽约的CBGB场景中塑造了开创性的吉他声音，影响了约翰尼·马尔等音乐人。75岁高龄的劳埃德在田纳西州查塔努加的家中与胆管癌斗争后去世，妻子谢拉和爱犬威利·梅斯陪伴左右。来自各界的致敬之词凸显了他不仅是音乐创新者，更是精神的引路人。随着Television其他成员接连离世，这标志着一个摇滚时代的结束，但劳埃德的音乐遗产—particularly1977年专辑《Marquee Moon》中那永恒的吉他对鸣—will永远激励着下一代音乐人。",
+    "best_quote_en": "\"A seeker and finder and a true inspiration with and without the guitar\" - Johnny Marr",
+    "best_quote_zh": "\"一位探索者、发现者和真正的灵感来源\" - 约翰尼·马尔"
+  },
+  {
+    "id": 748,
+    "title": "Tokyo International Film Festival 2026: Weaving Cultural Threads",
+    "title_zh": "2026东京国际电影节：编织文化脉络",
+    "title_en": "Tokyo International Film Festival 2026: Weaving Cultural Threads",
+    "model_used": "nvidia/nemotron-3-ultra-550b-a55b:free",
+    "translation_model_used": null,
+    "source": "RogerEbert.com",
+    "link": "https://www.rogerebert.com/festivals/tokyo-international-film-festival-2026-weaving-cultural-threads",
+    "tags": [
+      "analyze",
+      "design",
+      "music-arts",
+      "case-study"
+    ],
+    "tags_zh": [
+      "分析",
+      "设计创意",
+      "音乐艺术",
+      "案例研究"
+    ],
+    "date": "2026-11-06",
+    "summary_en": "This dispatch from TIFF 2026 reads less like a festival report and more like a cultural anthropology of contemporary Japanese cinema's identity crisis. The author's immersion in 11 new Japanese films reveals a fascinating tension: a domestic industry bifurcated between commercially viable but critically overlooked mainstream works (Sukiyaki, Godzilla Minus Zero) and internationally celebrated arthouse fare (Tsukamoto, Hamaguchi-adjacent directors) that struggles at home. The most penetrating insight comes from Shinya Tsukamoto's masterclass confession—that he owes his career to international festivals yet chooses to remain independent, making anti-war cinema against rising Japanese militarization. This encapsulates the festival's central paradox: Japanese cinema's global relevance depends on the very artistic independence that limits its domestic reach. The standout discovery, 'Cherry and Virgin,' a crowdfunded rotoscoped romance about two virgin illustrators, demonstrates how formal innovation (merging animation styles as emotional intimacy deepens) can transcend niche appeal. Meanwhile, the TIFFCOM market's focus on IP export and co-production suggests industry forces are actively trying to engineer bridges that artists like Tsukamoto refuse to cross. The piece ultimately asks whether a national cinema can serve two masters—domestic audiences and international gatekeepers—without losing its soul.",
+    "summary_zh": "这篇TIFF 2026观察笔记实为日本当代电影身份危机的人类学切片。作者看完11部新片后敏锐捕捉到行业深层撕裂：商业片（如《寿喜烧》《哥斯拉-1.0》续作）在国内叫好叫座却难获国际奖项，艺术片（冢本晋也、滨口龙介系）在海外获奖却国内冷遇。最扎心的是冢本晋也大师班坦言：职业生涯靠国际电影节成就，却甘愿终身独立只为拍反战片对抗日本右倾军国主义。这种「靠国际生存却拒绝迎合」的悖论，正是日本电影的核心张力。惊喜之作《樱桃与处女》用众筹旋转镜像动画，让两个处女画师的笔触随情感融合而合二为一——形式创新如何承载普世亲密感，给出了教科书级回答。TIFFCOM市场端却在热议IP出海与国际合拍，资本试图搭建的桥梁，艺术家们却不愿过。一个国家的电影，能否同时服务本土观众与国际把关人而不迷失灵魂？",
+    "best_quote_en": "\"Filmmaking is the culmination of everything I love,\" he said, adding that it combines acting, visual art, and editing, which he sees as a natural extension of the art of storytelling. And when movies themselves are a kind of co-production that takes different modes of expression and weaves them together into an entirely new and different art form, why shouldn't the threads of cinema be tied together in other ways as well?",
+    "best_quote_zh": "「电影制作是我所热爱一切的集大成者，」他说，「它融合了表演、视觉艺术和剪辑，我认为这是讲故事艺术的自然延伸。既然电影本身就是一种合拍——将不同表达方式编织成全新的艺术形式——那为什么电影的线索不能以其他方式编织在一起呢？」"
+  },
+  {
+    "id": 749,
+    "title": "How to Harness Your Existential Wanderlust",
+    "title_zh": "如何发挥你的存在性漫游欲",
+    "title_en": "How to Harness Your Existential Wanderlust",
+    "model_used": "nvidia/nemotron-3-nano-omni-30b-a3b-reasoning:free",
+    "translation_model_used": null,
+    "source": "The Marginalian",
+    "link": "https://www.themarginalian.org/2026/11/07/rockwell-kent-wilderness-wanderlust/",
+    "tags": [
+      "solve",
+      "ai-research",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "解决",
+      "AI研究",
+      "未来预测"
+    ],
+    "date": "2026-11-08",
+    "summary_en": "This article explores the profound human drive to wander as an existential imperative, weaving together Frederick Douglass's assertion that 'Man is by Nature a migratory animal,' Maya Angelou's insight about belonging to 'every place, no place at all,' and painter-philosopher Rockwell Kent's reflections from his Alaskan wilderness journal. Kent's preface frames wanderlust not as mere tourism but as a fundamental expression of human nature that shapes artistic identity and reveals our place 'as instruments recording... our particular portion of the infinite.' The piece argues that our wanderlust serves a dual purpose: it simultaneously frees us from fixed belonging while anchoring us through the character forged in nature's extremes. As the world emerges from pandemic isolation, Kent's century-old words resonate as urgent guidance for reclaiming freedom of movement and purpose. The article positions this existential wanderlust as essential to creativity, suggesting that the restlessness that drives us to climb 'the last peak on the border of the interminable sea' ultimately gives our lives meaning through the art we create from our absorbed experiences.",
+    "summary_zh": "这篇文章深刻剖析了人类漫游欲作为存在性本能，通过弗雷德里克·道格拉斯关于人是“本性 migratory”的论断、玛雅·安吉罗关于“属于每个地方却不属于任何地方”的洞见，以及画家罗克威尔·肯特在阿拉斯加荒原中的亲身实践，揭示漫游既是打破固定归属的自由，也是通过在自然极端中锻造性格、孕育艺术的必要过程。当世界刚刚解除两年疫情束缚，肯特百年-old的话语具有urgent的指引意义，提醒我们漫游欲是创造力的源泉，是重获自由与意义的关键。文章强调，真正的漫游者最终会站在‘海边的最后一座山峰’，在无限空间的终点处发现自身价值，这种循途而行的漫游精神正是艺术与生命意义的源泉。",
+    "best_quote_en": "We are simply instruments recording in different measure our particular portion of the infinite. And what we absorb of it makes for character, and what we give forth, for [our art].",
+    "best_quote_zh": "我们只是以不同程度记录着无限的一部分。我们吸收的内容构成性格，而我们所给予的，则是[我们的艺术]。"
+  },
+  {
+    "id": 750,
+    "title": "Robert Pattinson and Nicholas Hoult emerge as new James Bond favourites",
+    "title_zh": "罗伯特·帕丁森和尼古拉斯·霍尔特成为新詹姆斯·邦德热门人选",
+    "title_en": "Robert Pattinson and Nicholas Hoult emerge as new James Bond favourites",
+    "model_used": "nvidia/nemotron-3-ultra-550b-a55b:free",
+    "translation_model_used": null,
+    "source": "NME",
+    "link": "https://www.nme.com/news/film/robert-pattinson-nicholas-hoult-emerge-james-bond-favourites-3975366?utm_source=rss&utm_medium=rss&utm_campaign=robert-pattinson-nicholas-hoult-emerge-james-bond-favourites",
+    "tags": [
+      "update",
+      "music-arts",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "动态",
+      "音乐艺术",
+      "未来预测"
+    ],
+    "date": "2026-11-07",
+    "summary_en": "The James Bond casting saga takes another surreal turn as Robert Pattinson and Nicholas Hoult—already established A-listers with major franchise commitments—reportedly screen-tested for 007. This isn't just casting news; it's a window into how Amazon MGM's new creative regime is fundamentally reshaping the franchise's identity. Pattinson's existing collaboration with director Denis Villeneuve on Dune: Part Three creates an unusual insider advantage, while Hoult's prior runner-up status for Batman adds delicious symmetry. The real story here isn't who gets the role, but what this chaotic, public audition process reveals about a franchise in transition. With Callum Turner and Josh O'Connor also in the mix, and producers promising something 'really different,' we're witnessing not just a casting decision but a strategic repositioning of a 60-year-old IP for the streaming era. The methodical approach Amy Pascal describes feels at odds with the leak-driven circus—suggesting either masterful misdirection or genuine uncertainty about what Bond means post-Craig and post-Broccoli/Wilson.",
+    "summary_zh": "邦德选角闹剧再添荒诞色彩：已是一线巨星且绑定多大IP的帕丁森和霍尔特竟去试镜。这不只是选角新闻，更是亚马逊MGM新政权重塑 franchise 身份的窗口。帕丁森与导演维伦纽夫在《沙丘3》的合作成隐形优势，霍尔特曾输给帕丁森争夺蝙蝠侠更添讽刺感。真正看点不在谁得角，而在混乱公开的试镜过程暴露出：一个60岁IP在流媒体时代的战略性重新定位。帕斯卡尔口中的“审慎”与泄露驱动的马戏团形成张力——要么是高明烟雾弹，要么是后克雷格/后布罗利时代的真实迷茫。",
+    "best_quote_en": "\"We are being really, really methodical. I mean, Daniel Craig is a hard act to follow. And it's got to be something really different that is stirring, exciting and different.\" — Amy Pascal",
+    "best_quote_zh": "“我们非常、非常审慎。丹尼尔·克雷格是个难以超越的前任。新邦德必须是真正不同、振奋人心且与众不同的东西。” — 艾米·帕斯卡尔"
+  },
+  {
+    "id": 751,
+    "title": "“Call of Duty: Modern Warfare 4” is the Best in the Series in Years",
+    "title_zh": "《使命召唤：现代战争4》多年来最佳系列作",
+    "title_en": "Call of Duty: Modern Warfare 4 is the Best in the Series in Years",
+    "model_used": "nvidia/nemotron-3.5-super-vl:free",
+    "translation_model_used": null,
+    "source": "RogerEbert.com",
+    "link": "https://www.rogerebert.com/video-games/call-of-duty-modern-warfare-4-video-game-review-2026",
+    "tags": [
+      "inspire",
+      "design",
+      "music-arts",
+      "case-study"
+    ],
+    "tags_zh": [
+      "启发",
+      "设计创意",
+      "音乐艺术",
+      "案例研究"
+    ],
+    "date": "2026-11-06",
+    "summary_en": "Call of Duty: Modern Warfare 4 is praised as the franchise's best entry in years, rebounding from the disappointing Black Ops 7. The campaign delivers cinematic storytelling with strong performances from Young Mazino, Luke Tennie, and Mads Mikkelsen, set in present-day South Korea against North Korean forces. Themes of corruption and the futility of war dominate a bleak, oppressive narrative with varied gameplay including stealth, melee, and an open-world final-act mission. Multiplayer shines with excellent map design, tight physics, and satisfying gunplay across modes like Domination and Kill Confirmed. After years of annual fatigue, MW4 revitalizes the series with thoughtful execution and engaging combat across PS5, Xbox, Windows, and Switch 2.",
+    "summary_zh": "《使命召唤：现代战争4》被誉为该系列多年来最佳作品，在令人失望的《黑色行动7》之后强势回归。战役模式由杨子姗、卢克·坦尼和米克尔森等演员倾力演绎，背景设定在当代韩国，对手为朝鲜军队。腐败与战争徒劳的主题贯穿整个压抑、阴郁的叙事，玩法包含潜行、近战以及最终章的开放世界任务。多人模式地图设计出色，物理反馈精准，枪击手感出色，适合统治模式和击杀确认等模式。经过多年年度化疲劳，MW4以深思熟虑的设计和引人入胜的战斗重振系列，登陆PS5、Xbox、Windows和Switch 2。",
+    "best_quote_en": "This Call of Duty actually gives me hope.",
+    "best_quote_zh": "这款使命召唤竟然让我燃起了希望。"
   }
 ]
