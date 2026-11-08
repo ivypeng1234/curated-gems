@@ -331,8 +331,8 @@ function applyAndRender() {
   const searchTerm = searchEl?.value?.toLowerCase().trim();
   if (searchTerm) {
     filtered = filtered.filter(item => {
-      const title = (item.title || '').toLowerCase();
-      const summary = (item.summary || '').toLowerCase();
+      const title = (lang === 'zh' ? (item.title_zh || item.title) : (item.title_en || item.title)).toLowerCase();
+      const summary = (lang === 'zh' ? (item.summary_zh || '') : (item.summary_en || '')).toLowerCase();
       return title.includes(searchTerm) || summary.includes(searchTerm);
     });
   }
@@ -531,8 +531,8 @@ function showWelcomeGuide() {
   const lang = window.currentLang || 'zh';
   
   // 检查是否是首次访问
-  const hasVisited = localStorage.getItem('v3_visited');
-  if (hasVisited) return;
+  // const hasVisited = localStorage.getItem('v3_visited');
+  // if (hasVisited) return;
   
   const welcomeTexts = {
     zh: {
@@ -730,7 +730,7 @@ function renderWithLanguage(items, lang) {
 function card(item, lang = 'zh') {
   const tagsArray = lang === 'zh' ? (item.tags_zh || item.tags || []) : (item.tags || []);
   const tags = tagsArray.join(' ');
-  const title = lang === 'zh' ? (item.title_zh || item.title) : item.title;
+  const title = lang === 'zh' ? (item.title_zh || item.title) : (item.title_en || item.title);
   const summaryField = lang === 'zh' ? 'summary_zh' : 'summary_en';
   const quoteField = lang === 'zh' ? 'best_quote_zh' : 'best_quote_en';
   const desc = item[summaryField] || '';
