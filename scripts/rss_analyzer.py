@@ -445,10 +445,9 @@ def parse_json_safely(text):
 
 
 def missing_required_analysis_fields(analysis_data):
-    """Return required output fields that are missing or empty."""
+    """Return non-translation fields that are missing or empty."""
     required_text_fields = [
-        'title_zh', 'summary_en', 'summary_zh',
-        'best_quote_en', 'best_quote_zh'
+        'summary_en', 'summary_zh'
     ]
     missing = [
         field for field in required_text_fields
@@ -459,6 +458,42 @@ def missing_required_analysis_fields(analysis_data):
         if not isinstance(tags, list) or not any(isinstance(tag, str) and tag.strip() for tag in tags):
             missing.append(field)
     return missing
+
+
+def contains_cjk(text):
+    return isinstance(text, str) and bool(re.search(r'[\u4e00-\u9fff]', text))
+
+
+def contains_latin(text):
+    return isinstance(text, str) and bool(re.search(r'[A-Za-z]', text))
+
+
+def detect_source_language(title, content):
+    """Classify the source as Chinese only when Chinese is a meaningful share."""
+    sample = f"{title}\n{content[:4000]}"
+    cjk_count = len(re.findall(r'[\u4e00-\u9fff]', sample))
+    latin_count = len(re.findall(r'[A-Za-z]', sample))
+    is_chinese = cjk_count >= 6 and cjk_count / max(cjk_count + latin_count, 1) >= 0.15
+    return 'zh' if is_chinese else 'en'
+
+
+def normalize_native_title(analysis_data, title, source_language):
+    """The original RSS title is the reliable native-language title."""
+    if source_language == 'zh' and not contains_cjk(analysis_data.get('title_zh')):
+        analysis_data['title_zh'] = title
+    elif source_language == 'en' and not contains_latin(analysis_data.get('title_en')):
+        analysis_data['title_en'] = title
+
+
+def missing_translation_fields(analysis_data):
+    """Return bilingual title/quote fields whose contents are in the wrong language."""
+    expected = {
+        'title_zh': contains_cjk,
+        'title_en': contains_latin,
+        'best_quote_zh': contains_cjk,
+        'best_quote_en': contains_latin,
+    }
+    return [field for field, validator in expected.items() if not validator(analysis_data.get(field))]
 
 
 def call_openrouter(model, title, full_content):
@@ -501,6 +536,7 @@ Return a JSON object with exactly these fields:
 ```json
 {{
   "title_zh": "Chinese translation of title (keep original if already Chinese)",
+  "title_en": "English translation of title (keep original if already English)",
   "summary_en": "150-200 word English analysis focusing on core insights, implications, and critical evaluation. Write with intellectual curiosity and personal engagement.",
   "summary_zh": "150-200 character Chinese analysis that reads like thoughtful commentary, not mere summary. Include personal reflection and broader significance.",
   "best_quote_en": "Most insightful English quote from article (translate if originally Chinese)",
@@ -547,6 +583,7 @@ Return ONLY one valid JSON object. Do not use Markdown or code fences.
 Required fields:
 {{
   "title_zh": "Chinese title",
+  "title_en": "English title",
   "summary_en": "80-120 word English summary",
   "summary_zh": "80-120 Chinese character summary",
   "best_quote_en": "short English quote, at most 25 words",
@@ -734,6 +771,60 @@ fences, or extended reasoning. Keep every field concise and valid JSON.
     # Should theoretically never reach here
     return None, "Unknown error"
 
+
+def repair_translations(model, title, analysis_data, missing_fields):
+    """Make one short request to repair only invalid bilingual title/quote fields."""
+    source_quote_en = analysis_data.get('best_quote_en', '')
+    source_quote_zh = analysis_data.get('best_quote_zh', '')
+    requested_fields = ', '.join(f'"{field}"' for field in missing_fields)
+    prompt = f"""
+Return ONLY a valid JSON object with these fields: {requested_fields}.
+
+Translate the title and quote accurately. Do not return Markdown, explanations,
+or any field that was not requested. Preserve names and work titles when useful.
+
+Original RSS title:
+{title}
+
+Current English quote:
+{source_quote_en}
+
+Current Chinese quote:
+{source_quote_zh}
+""".strip()
+    payload = {
+        "model": model,
+        "temperature": 0.2,
+        "max_tokens": min(MAX_TOKENS, 1024),
+        "messages": [
+            {"role": "system", "content": "You are a precise bilingual translator. Output valid JSON only."},
+            {"role": "user", "content": prompt},
+        ],
+    }
+    if FALLBACK_MODELS:
+        payload["models"] = FALLBACK_MODELS
+
+    try:
+        resp = requests.post(OPENROUTER_URL, headers={
+            "Authorization": f"Bearer {OPENROUTER_API_KEY}",
+            "Content-Type": "application/json"
+        }, json=payload, timeout=HTTP_TIMEOUT)
+        print(f"[OpenRouter] Translation repair HTTP {resp.status_code}")
+        if resp.status_code >= 400:
+            return None, f"HTTP {resp.status_code}: {resp.text[:500]}"
+        response_data = resp.json()
+        choices = response_data.get('choices', []) if isinstance(response_data, dict) else []
+        content = choices[0].get('message', {}).get('content') if choices else None
+        if not content:
+            return None, "Response did not contain translation content"
+        repaired = parse_json_safely(content)
+        if not isinstance(repaired, dict):
+            return None, "Translation response was not a JSON object"
+        repaired['_translation_model_used'] = response_data.get('model') or model
+        return repaired, None
+    except Exception as e:
+        return None, str(e)
+
 # ========== Stage 1: Collect candidates by source buckets ==========
 candidates_by_source = {}  # { source_name: [entry, entry, ...] }
 for source in sources_this_run:
@@ -822,6 +913,9 @@ while source_names and new_items_count < MAX_NEW_ITEMS and api_calls < MAX_API_C
     )
     print(f"Content extraction: {extract_msg}")
 
+    source_language = detect_source_language(title, full_content)
+    print(f"Detected source language: {'Chinese' if source_language == 'zh' else 'English'}")
+
     # Skip if content is too short (don't consume model calls)
     if len(full_content.strip()) < 200:
         print("Content too short, skipping this entry (no model call).")
@@ -861,6 +955,32 @@ while source_names and new_items_count < MAX_NEW_ITEMS and api_calls < MAX_API_C
         # with the primary model or a different OpenRouter fallback.
         idx += 1
         continue
+
+    normalize_native_title(analysis_data, title, source_language)
+    translation_fields = missing_translation_fields(analysis_data)
+    if translation_fields:
+        if api_calls >= MAX_API_CALLS:
+            print(f"[Failed] Translation repair needed for {', '.join(translation_fields)}, but API call limit has been reached.")
+            idx += 1
+            continue
+        print(f"[OpenRouter] Repairing bilingual fields: {', '.join(translation_fields)}")
+        api_calls += 1
+        repaired_data, repair_error = repair_translations(MODEL, title, analysis_data, translation_fields)
+        if repaired_data is None:
+            print(f"[Failed] Translation repair failed: {repair_error}. Link will remain eligible for a future retry.")
+            print(f"[Progress] Success {new_items_count}/{MAX_NEW_ITEMS}, Calls {api_calls}/{MAX_API_CALLS}")
+            idx += 1
+            continue
+        for field in translation_fields:
+            if field in repaired_data:
+                analysis_data[field] = repaired_data[field]
+        analysis_data['_translation_model_used'] = repaired_data.get('_translation_model_used', MODEL)
+        translation_fields = missing_translation_fields(analysis_data)
+        if translation_fields:
+            print(f"[Failed] Translation repair returned invalid fields: {', '.join(translation_fields)}. Link will remain eligible for a future retry.")
+            print(f"[Progress] Success {new_items_count}/{MAX_NEW_ITEMS}, Calls {api_calls}/{MAX_API_CALLS}")
+            idx += 1
+            continue
     
     # Use TagOptimizer to optimize tags from AI analysis
     try:
@@ -896,7 +1016,9 @@ while source_names and new_items_count < MAX_NEW_ITEMS and api_calls < MAX_API_C
             "id": counter,
             "title": title,
             "title_zh": analysis_data.get('title_zh', '') if isinstance(analysis_data, dict) else '',
+            "title_en": analysis_data.get('title_en', '') if isinstance(analysis_data, dict) else '',
             "model_used": analysis_data.get('_model_used', MODEL),
+            "translation_model_used": analysis_data.get('_translation_model_used'),
             "source": source_name,
             "link": link,
             "tags": tags_en,
