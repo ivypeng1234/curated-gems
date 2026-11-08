@@ -134,7 +134,7 @@ function applyAndRender() {
     for (const item of raw) {
       const summaryField = (lang === 'zh' ? item.summary_zh : item.summary_en) || '';
       const quoteField   = (lang === 'zh' ? item.best_quote_zh : item.best_quote_en) || '';
-      const titleField   = (lang === 'zh' ? (item.title_zh || item.title) : item.title) || '';
+      const titleField   = (lang === 'zh' ? (item.title_zh || item.title) : (item.title_en || item.title)) || '';
       const tagsArr      = item.tags || [];
     
       const matchesQuery = !query ||
@@ -156,7 +156,7 @@ function applyAndRender() {
         // 根据语言选择对应字段
         const summaryField = lang === 'zh' ? item.summary_zh : item.summary_en;
         const quoteField = lang === 'zh' ? item.best_quote_zh : item.best_quote_en;
-        const titleField = lang === 'zh' ? (item.title_zh || item.title) : item.title;
+        const titleField = lang === 'zh' ? (item.title_zh || item.title) : (item.title_en || item.title);
 
         // 搜索匹配检查
         const matchesQuery = !query ||
@@ -255,7 +255,7 @@ function card(item, lang = 'zh') {
     // 根据语言选择对应字段
     const tagsArray = lang === 'zh' ? (item.tags_zh || item.tags || []) : (item.tags || []);
     const tags = tagsArray.join(', ');
-    const title = lang === 'zh' ? (item.title_zh || item.title) : item.title;
+    const title = lang === 'zh' ? (item.title_zh || item.title) : (item.title_en || item.title);
     const desc = lang === 'zh' ? (item.summary_zh || '') : (item.summary_en || '');
     const quote = lang === 'zh' ? (item.best_quote_zh || '') : (item.best_quote_en || '');
 
