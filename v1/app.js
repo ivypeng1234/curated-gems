@@ -67,7 +67,7 @@ function renderWithLanguage(items, lang) {
 function card(item, lang = 'zh'){
   const tagsArray = lang === 'zh' ? (item.tags_zh || item.tags || []) : (item.tags || []);
   const tags = tagsArray.join(', ');
-  const title = lang === 'zh' ? (item.title_zh || item.title) : item.title;
+  const title = lang === 'zh' ? (item.title_zh || item.title) : (item.title_en || item.title);
   const desc = lang === 'zh' ? (item.summary_zh || '') : (item.summary_en || '');
   const quote = lang === 'zh' ? (item.best_quote_zh || '') : (item.best_quote_en || '');
   const quoteWrapper = lang === 'zh' ? '「」' : '""';
