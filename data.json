@@ -1,124 +1,5 @@
 [
   {
-    "id": 652,
-    "title": "Competition winners announced at 70th BFI London Film Festival",
-    "title_zh": "第70届BFI伦敦电影节获奖名单公布",
-    "model_used": "nvidia/nemotron-3.5-super-vl:free",
-    "source": "BFI",
-    "link": "https://www.bfi.org.uk/london-film-festival/news/competition-winners-announced-70th-bfi-london-film-festival",
-    "tags": [
-      "update",
-      "music-arts",
-      "case-study"
-    ],
-    "tags_zh": [
-      "动态",
-      "音乐艺术",
-      "案例研究"
-    ],
-    "date": "2026-10-18",
-    "summary_en": "The 70th BFI London Film Festival has concluded with its competition winners announced, celebrating global cinematic talent across four categories. Sergei Loznitsa's archival reconstruction 'Imperium' took Best Film, offering a rare glimpse into Soviet life in the early 1970s through Italian cameramen's footage. Sompot Chidgasornpongse's '9 Temples to Heaven' won the Sutherland Award for First Feature, exploring family, faith, and life cycles with gentle humor. Asmahan Bkerat's 'Concrete Land' received the Grierson Award for its intimate portrait of displacement in Jordan, while Rahul Roye's 'Aman' won Best Short Film, tackling identity and masculinity through a trans man's unexpected pregnancy. The festival also highlighted special mentions including Bertil Nilsson's 'Masc' and Theo Rollason's archival tribute to Derek Jarman. Beyond celebrating artistic achievement, the announcement signals ongoing industry support through audience awards and filmmaker initiatives, reflecting cinema's role in cultural dialogue and social reflection.",
-    "summary_zh": "第70届BFI伦敦电影节落幕，四大竞赛单元获奖名单揭晓。谢尔盖·洛兹尼察凭借档案重建影片《帝国》获最佳影片，通过意大利摄影师拍摄的素材，展现了1970年代初苏联鲜为人知的社会文化景观。索姆波特·猜达松蓬的处女作《九座通往天堂的寺庙》获萨瑟兰奖，以温柔幽默探讨家庭、信仰与生命轮回。阿斯马汉·比克拉特的《混凝土地》获格里森奖，讲述约旦混血家庭面对流离失所的坚韧故事。拉胡尔·罗伊的短片《阿曼》探讨跨性别男性在性别确认手术前夕发现怀孕的身份危机。这些获奖作品不仅庆祝电影艺术，更反映了电影在文化对话与社会议题中的重要角色。",
-    "best_quote_en": "In a noisy and often polemical world it was refreshing, humbling and deeply relevant to see the quiet resilience and dignity of this family in the face of the erasure of their culture and traditions.",
-    "best_quote_zh": "在这个喧嚣且常常充满争议的世界里，看到这个家庭在文化与传统被抹除面前所展现出的安静韧性与尊严，令人耳目一新、深感谦卑，也极具现实意义。"
-  },
-  {
-    "id": 653,
-    "title": "“Atlantic Ocean Twilight” by Photographer Patricia Reyes",
-    "title_zh": "《大西洋暮光》摄影师帕特丽夏·雷耶斯",
-    "model_used": "nvidia/nemotron-3.5-super-vl:free",
-    "source": "BOOOOOOOM",
-    "link": "https://www.booooooom.com/2026/10/16/atlantic-ocean-twilight-by-photographer-patricia-reyes/",
-    "tags": [
-      "update",
-      "music-arts",
-      "design",
-      "beginner-friendly"
-    ],
-    "tags_zh": [
-      "动态",
-      "音乐艺术",
-      "设计创意",
-      "新手友好"
-    ],
-    "date": "2026-10-16",
-    "summary_en": "This visual portfolio presents Patricia Reyes's photographic series capturing the Atlantic Ocean at twilight. Through ten carefully composed images, the work explores the liminal space between day and night, where light transforms water into shifting planes of color and shadow. The content functions primarily as aesthetic inspiration rather than informational text, inviting viewers to contemplate the ocean's quiet drama during the golden hour. The series demonstrates strong compositional sensibility and an intuitive grasp of natural lighting conditions. While lacking textual narrative, the images themselves communicate mood, atmosphere, and the sublime beauty of maritime landscapes. The work appeals to photography enthusiasts, art collectors, and anyone seeking visual respite in nature's transient moments. Reyes's consistent aesthetic across the series suggests a deliberate artistic vision focused on capturing fleeting natural phenomena.",
-    "summary_zh": "这组摄影作品通过十张精心构图的图像，捕捉大西洋在暮光时分的瞬间。作品探索了昼夜交替的临界空间，光线将海水转化为色彩与阴影交织的流动平面。这本质上是一组审美启发而非信息性内容，邀请观者沉思海洋在黄金时段的静谧戏剧性。雷耶斯展现了敏锐的构图感和对自然光线的直觉掌控。尽管缺乏文字叙事，图像本身传达了情绪、氛围与海景的崇高之美。该系列适合摄影爱好者、艺术收藏者以及在自然短暂瞬间寻求视觉慰藉的所有人。作品风格的一致性揭示了雷耶斯聚焦于捕捉转瞬即逝自然现象的刻意艺术愿景。",
-    "best_quote_en": "Atlantic Ocean Twilight",
-    "best_quote_zh": "大西洋暮光"
-  },
-  {
-    "id": 654,
-    "title": "Tell us: are you a single woman? We want to know about your relationship to sex",
-    "title_zh": "告诉我们：你是单身女性吗？我们想了解你对性的关系",
-    "model_used": "cohere/north-mini-code:free",
-    "source": "Women | The Guardian",
-    "link": "https://www.theguardian.com/lifeandstyle/2026/oct/14/tell-us-are-you-a-single-woman-we-want-to-know-about-your-relationship-to-sex",
-    "tags": [
-      "solve",
-      "society",
-      "lifestyle",
-      "controversial"
-    ],
-    "tags_zh": [
-      "解决",
-      "社会议题",
-      "生活方式",
-      "争议观点"
-    ],
-    "date": "2026-10-14",
-    "summary_en": "This piece leverages the viral trailer for the film *Wicker*— starring Olivia Colman and Alexander Skarsgård—to launch a broader cultural inquiry into how single women today relate to sex. By framing the article as an open invitation for personal testimony, the Guardian blends journalism with participatory storytelling, turning a cinematic moment into a platform for intimate reflection. The content not only captures the immediate buzz around a high‑profile release but also digs deeper into shifting attitudes toward female sexuality, autonomy, and the ongoing negotiation between personal desire and societal expectation. Readers are prompted to consider whether sex is a ‘need’ or a ‘nice‑to‑have,’ how it fits into their life narratives, and what lessons they’ve learned about their bodies and communication. The piece thus serves as both a sociological snapshot and a catalyst for self‑examination, inviting a diverse audience to engage with a topic that remains both personal and politically charged. Its interactive format underscores the media’s role in amplifying marginalized voices while offering a structured space for nuanced discourse.",
-    "summary_zh": "这篇报道以《Wicker》电影的热潮为切入点，邀请单身女性反思自身性生活态度，揭示了当代社会对女性性自主权的复杂情绪。作者通过开放式问卷收集个人故事，既是文化观察，也是对性别观念的深入探讨，引发读者对性与身份的思考，同时也反映出媒体如何塑造和记录当代女性的性议题，并凸显了个人叙事在改变社会认知方面的力量。报道还探讨了单身女性在性议题上的多样化体验，从个人满足感到社会偏见，从自主选择到文化期待，展现了性别平等进步中的矛盾与希望。通过这种集体发声的方式，文章不仅记录了当前的文化现象，也为未来性别议题的讨论提供了宝贵的参考视角。它提醒我们，个人的性故事不仅是私人的经历，更是构建社会共识的重要组成部分。这样的开放对话有助于打破禁忌，推动更健康的性文化。",
-    "best_quote_en": "The idea of a single woman taking control of her sex life – no matter how fantastically – struck a nerve.",
-    "best_quote_zh": "一个单身女性掌控自己性生活的想法——无论多么奇幻——触动了人们的神经。"
-  },
-  {
-    "id": 655,
-    "title": "Danny Boyle on his tabloid chronicle Ink: “The attention economy, clickbait, the dopamine economy – this is its hatching point”",
-    "title_zh": "Danny Boyle 论他的报纸专著《Ink》：这是注意力经济的孵化点",
-    "model_used": "nvidia/nemotron-3.5-lightning:free",
-    "source": "BFI",
-    "link": "https://www.bfi.org.uk/london-film-festival/interviews/danny-boyle-ink",
-    "tags": [
-      "analyze",
-      "ai-research",
-      "society",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "分析",
-      "AI研究",
-      "社会议题",
-      "未来预测"
-    ],
-    "date": "2026-10-16",
-    "summary_en": "Danny Boyle's film \"Ink\" serves as a fascinating case study in media evolution, tracing the tabloid revolution's origins to today's attention economy. Through Boyle's lens, the film reveals how Larry Lamb's innovative mix of sex, violence, sport, and giveaways at The Sun created a template for modern media manipulation. The discussion brilliantly connects 1969 Fleet Street to contemporary social media dynamics, suggesting that today's clickbait and dopamine-driven engagement strategies are merely evolved forms of tabloid tactics. Boyle's insight that the tabloid's 'daily operating principle of helter-skelter' velocity prevents moral reflection offers a crucial critique of media velocity. The film's use of AI to recreate historical moments adds a layer of authenticity rather than gimmickry. This work stands as both a British character study and a warning about media's power to shape societal values.",
-    "summary_zh": "Boyle的《Ink》是媒体演变的迷人案例，将报纸革命的起源追溯到当下的注意力经济。通过Boyle的视角，影片揭示了Larry Lamb将性、暴力、体育和赠品混合运用于《太阳报》如何创造了现代媒体操纵的模板。讨论巧妙地将1969年的Fleet Street与当代社交媒体动态联系起来，暗示如今的点击诱饵和 dopamine 驱动的参与策略不过是报纸手段的演进形式。Boyle关于报纸‘每日运行原则’的见解——其快节奏阻止了道德反思——提供了对媒体速度的关键批判。影片使用 AI 重现历史时刻增添了真实感而非蹭热度。这部作品既是英国人物研究，也是对媒体塑造社会价值观能力的警示。",
-    "best_quote_en": "\"The attention economy, clickbait, the dopamine economy – this is its hatching point,\" Boyle reflects, identifying Ink as the origin point of modern media dynamics we now inhabit.",
-    "best_quote_zh": "\"注意力经济、点击诱饵、多巴胺经济——这是它的化蛹点,\" Boyle反思，将《Ink》确定为我们现在所处的现代媒体动态的源头。"
-  },
-  {
-    "id": 656,
-    "title": "“Impermanence/無常” by Artist Shuto Okayasu",
-    "title_zh": "《无常》——艺术家Shuto Okayasu作品",
-    "model_used": "dots-studio/dots-3-note-preview:free",
-    "source": "BOOOOOOOM",
-    "link": "https://www.booooooom.com/2026/10/15/impermanence-%e7%84%a1%e5%b8%b8-by-artist-shuto-okayasu/",
-    "tags": [
-      "inspire",
-      "music-arts"
-    ],
-    "tags_zh": [
-      "启发",
-      "音乐艺术"
-    ],
-    "date": "2026-10-15",
-    "summary_en": "Shuto Okayasu's 'Impermanence' is a profound visual meditation on the Buddhist concept of 'Mujo'—the transience of all things. Through a series of meticulously composed photographs, Okayasu captures fleeting moments of natural decay, weathering, and transformation, inviting viewers to confront the inevitable flux that defines existence. The images, devoid of human presence, focus on eroded surfaces, shifting light, and organic disintegration, transforming mundane environments into sacred sites of contemplation. This work transcends aesthetic documentation; it functions as a philosophical inquiry into acceptance, loss, and the beauty found in impermanence. In a culture increasingly obsessed with permanence and digital immortality, Okayasu’s art serves as a quiet yet powerful counter-narrative, urging a return to mindfulness and emotional grounding in the present. The series is not merely observational—it is experiential, demanding that the viewer slow down, observe closely, and reflect on their own relationship with time and change.",
-    "summary_zh": "Shuto Okayasu的《无常》是对佛教“无常”概念的深刻视觉沉思。他通过一组精妙构图的照片，捕捉自然侵蚀、风化与变迁的瞬间，引导观者直面构成存在的必然流动。画面中无人迹，聚焦于剥落的表面、变幻的光影与有机的解体，将平凡环境转化为冥想的圣所。这组作品超越了美学记录，成为对接纳、 loss 与无常之美的哲学追问。在一个日益执着于永恒与数字不朽的文化中，Okayasu的艺术悄然成为强有力的反叙事，呼唤人们回归正念，安住于当下。它不仅是观察，更是体验——要求观者放慢脚步，仔细凝视，反思自身与时间、变化的关系。",
-    "best_quote_en": "In a world obsessed with permanence, Okayasu reminds us that true beauty often lies in the ephemeral—the crack in the wall, the fading pigment, the rust on metal—all testaments to time's gentle, relentless hand.",
-    "best_quote_zh": "在一个执着于永恒的世界里，Okayasu提醒我们，真正的美往往藏于短暂之中——墙上的裂痕、褪色的颜料、金属上的锈迹，皆是时间温柔而 relentless 手笔的见证。"
-  },
-  {
     "id": 657,
     "title": "The Two Kinds of Moderate",
     "title_zh": "两种类型的温和派",
@@ -2330,5 +2211,132 @@
     "summary_zh": "《使命召唤：现代战争4》被誉为该系列多年来最佳作品，在令人失望的《黑色行动7》之后强势回归。战役模式由杨子姗、卢克·坦尼和米克尔森等演员倾力演绎，背景设定在当代韩国，对手为朝鲜军队。腐败与战争徒劳的主题贯穿整个压抑、阴郁的叙事，玩法包含潜行、近战以及最终章的开放世界任务。多人模式地图设计出色，物理反馈精准，枪击手感出色，适合统治模式和击杀确认等模式。经过多年年度化疲劳，MW4以深思熟虑的设计和引人入胜的战斗重振系列，登陆PS5、Xbox、Windows和Switch 2。",
     "best_quote_en": "This Call of Duty actually gives me hope.",
     "best_quote_zh": "这款使命召唤竟然让我燃起了希望。"
+  },
+  {
+    "id": 752,
+    "title": "100 Objects #23: Coin From the Ship of Gold",
+    "title_zh": "100件物品中的美国历史 #23：黄金船上的金币",
+    "title_en": "100 Objects #23: Coin From the Ship of Gold",
+    "model_used": "nvidia/nemotron-3-ultra-550b-a55b:free",
+    "translation_model_used": null,
+    "source": "99% Invisible",
+    "link": "https://99percentinvisible.org/episode/100-objects-023-coin-from-the-ship-of-gold/",
+    "tags": [
+      "inspire",
+      "ai-research",
+      "case-study"
+    ],
+    "tags_zh": [
+      "启发",
+      "AI研究",
+      "案例研究"
+    ],
+    "date": "2026-11-06",
+    "summary_en": "This episode from 99% Invisible's 'A History of the United States in 100 Objects' series examines the sinking of the SS Central America in 1857—a maritime disaster that triggered the Panic of 1857, the first global financial crisis. The ship carried tons of California gold destined for New York banks; its loss shattered confidence in the financial system, causing bank runs and economic contraction that exacerbated sectional tensions preceding the Civil War. The narrative extends to the 1980s recovery by Tommy Thompson, whose discovery of the wreck and its gold led to decades of legal battles, investor lawsuits, and his eventual fugitive status. What makes this object—a single gold coin—profound is how it materializes the fragile trust underpinning financial systems. The gold wasn't just wealth; it was the physical collateral backing paper currency and credit. Its loss revealed that money is fundamentally a shared belief. The episode masterfully connects a single artifact to macro-historical forces: the integration of national markets, the vulnerability of centralized reserves, and the human obsession with buried treasure that can corrupt even the discoverers. It's a reminder that financial panics are not modern inventions but recurring features of systems built on confidence rather than intrinsic value.",
+    "summary_zh": "这枚金币承载的不仅是沉船传奇，更是金融体系脆弱性的具象化见证。1857年‘中美洲号’沉没引发首次全球金融恐慌，揭示了货币本质上是建立在共同信念之上的契约。从加州金矿到纽约金库的物理运输，折射出19世纪国家市场整合的脆弱环节；而汤普森寻获沉船后陷入的法律泥沼与逃亡生涯，更讽刺地印证了‘黄金诅咒’——对财富的执念如何吞噬发现者。单枚硬币串联起宏观历史与微观命运，令人深思：我们引以为傲的现代金融工程，至今仍建立在同一种易碎的信任之上。",
+    "best_quote_en": "The gold wasn't just wealth; it was the physical collateral backing paper currency and credit. Its loss revealed that money is fundamentally a shared belief.",
+    "best_quote_zh": "黄金不仅是财富；它是支撑纸币与信贷的实物抵押。它的消失揭示了货币本质上是一种共同的信念。"
+  },
+  {
+    "id": 753,
+    "title": "Dead Souls: Alex Cox twists Gogol’s classic into a peppery spaghetti western",
+    "title_zh": "Dead Souls: Alex Cox 将高尔基经典改编为辛辣的意大利式西部片",
+    "title_en": "Dead Souls: Alex Cox twists Gogol’s classic into a peppery spaghetti western",
+    "model_used": "nvidia/nemotron-3.5-lightning:free",
+    "translation_model_used": null,
+    "source": "BFI",
+    "link": "https://www.bfi.org.uk/sight-and-sound/reviews/dead-souls-alex-cox-twists-gogols-classic-into-peppery-spaghetti-western",
+    "tags": [
+      "analyze",
+      "music-arts",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "分析",
+      "音乐艺术",
+      "未来预测"
+    ],
+    "date": "2026-11-06",
+    "summary_en": "Alex Cox's final film, Dead Souls, is a daring intertextual mashup that reimagines Gogol's 1842 prose epic as a peppery spaghetti western. Cox filters 19th-century Russian satire through 1960s Italian cinematic tropes, creating a layered narrative that comments on contemporary American politics regarding immigration and the undocumented. By casting the protagonist Strindler as a trickster who collects the names of deceased Mexican workers, the film draws a sharp parallel between Gogol's tax scam and modern demonization of refugees. At 88 minutes, the film remains tight and playful, featuring musical nods to the Coen Brothers, ultimately positioning the 'dishonest' scheme as an honest reflection of a corrupt system.",
+    "summary_zh": "Alex Cox的遗作Dead Souls大胆地将1842年的俄国散文史诗改编为辛辣的意大利式西部片。影片将19世纪的俄国讽刺通过1960年代的意大利电影手法重新包装，构建了层次丰富的叙事，评论了美国当代关于移民和无证人士的政治议题。通过主角Strindler收集已故墨西哥工人姓名的设定，影片将高尔基的税务诈骗与现代对难民的妖魔化划上了等号。尽管时长仅88分钟，影片仍保持紧凑活泼，穿插科恩兄弟的音乐元素，最终将‘不诚实’的诡计定义为对腐败系统的诚实反映。",
+    "best_quote_en": "\"He offers gold coins for something apparently of no value – the names and birthdates of otherwise uncatalogued Mexican workers who have died in America.\"",
+    "best_quote_zh": "\"他为原本无价值的东西提供金币——即在美国死亡的未登记墨西哥工人的姓名和出生日期。\""
+  },
+  {
+    "id": 754,
+    "title": "“God Brought Me to Pittsburgh” by Photographer Jacob Pesci",
+    "title_zh": "《上帝把我带到了匹兹堡》—— 摄影师 Jacob Pesci 的视觉叙事",
+    "title_en": "\"God Brought Me to Pittsburgh\" by Photographer Jacob Pesci",
+    "model_used": "nvidia/nemotron-3-ultra-550b-a55b:free",
+    "translation_model_used": null,
+    "source": "BOOOOOOOM",
+    "link": "https://www.booooooom.com/2026/11/06/god-brought-me-to-pittsburgh-by-photographer-jacob-pesci/",
+    "tags": [
+      "analyze",
+      "ai-research"
+    ],
+    "tags_zh": [
+      "分析",
+      "AI研究"
+    ],
+    "date": "2026-11-06",
+    "summary_en": "This piece is a pure visual essay — nineteen photographs without a single word of caption or context, yet they speak volumes about place, presence, and the quiet poetry of the everyday. Pesci’s lens finds the sacred in the mundane: a cracked sidewalk, the geometry of a fire escape, the way winter light slices through a kitchen window. Pittsburgh emerges not as a backdrop but as a character — rusted, resilient, strangely tender. The sequence feels deliberate, almost musical, moving between intimacy and distance, interior and exterior, stillness and implied motion. What strikes me most is the restraint. No dramatic compositions, no forced narratives. Just a photographer walking, watching, waiting. In an era of performative imagery, this work reminds us that photography’s deepest power lies not in spectacle but in attention. It’s a masterclass in seeing — and in trusting the viewer to complete the story.",
+    "summary_zh": "十九张照片，零文字，却写尽一座城市的灵魂。Pesci 不拍地标，只拍裂缝、光影、消防梯的几何、厨房窗外那刀冬日光。匹兹堡不是背景，是有体温的主角。序列像乐章，远近虚实、动静相生，克制得让人心颤。这个算法推流、标题党横行的年代，他用「看」本身做抵抗：摄影最深的力量，从来不是制造奇观，而是献上纯粹的注意力。看完想走出门，也去认真看看自己脚下的路。",
+    "best_quote_en": "Photography's deepest power lies not in spectacle but in attention.",
+    "best_quote_zh": "摄影最深的力量，从来不是制造奇观，而是献上纯粹的注意力。"
+  },
+  {
+    "id": 755,
+    "title": "From the streets of Lagos to the Chanel catwalk: how a creative’s thrift-shop style took her to Paris",
+    "title_zh": "从拉各斯街头到香奈儿T台：一位创意人如何凭旧货风格走向巴黎",
+    "title_en": "From the streets of Lagos to the Chanel catwalk: how a creative's thrift-shop style took her to Paris",
+    "model_used": "nvidia/nemotron-3-ultra-550b-a55b:free",
+    "translation_model_used": null,
+    "source": "Women | The Guardian",
+    "link": "https://www.theguardian.com/global-development/2026/nov/09/fashion-lagos-chanel-model-rachel-ojuromi-nigeria-thrift-style",
+    "tags": [
+      "analyze",
+      "music-arts",
+      "startup-strategy",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "分析",
+      "音乐艺术",
+      "创业策略",
+      "未来预测"
+    ],
+    "date": "2026-11-09",
+    "summary_en": "Rachel Ojuromi's journey from Lagos markets to Chanel's Grand Palais runway is more than a fairy-tale discovery—it's a masterclass in creative resourcefulness and cultural repositioning. At 22, she and stylist Debby Fasingha turned necessity into methodology: reinterpreting luxury collections through thrifted garments shot amid Lagos's chaotic vitality. Their daily video practice wasn't mimicry but dialogue—interrogating what designers communicate, then answering with local materiality. Chanel's creative director Matthieu Blazy didn't just notice; he validated a practice that refuses the 'African fashion' ghetto. Ojuromi's insistence that creativity needs no geographic qualifier—'It is fashion. It is art.'—strikes at the heart of how the Global South's output is framed. Her platform, the Process Africa, extends this logic: building infrastructure so young African creatives access opportunity without performing ethnicity. The banana-tray-on-head runway walk, the passerby's son cast as tea-drinker—these unscripted moments reveal a deeper truth: authenticity isn't curated; it's witnessed. In an industry obsessed with novelty, Ojuromi offers something rarer: a sustainable model of creativity rooted in constraint, community, and unapologetic presence.",
+    "summary_zh": "从拉各斯市集到香奈儿大皇宫，Ojuromi的故事不只是灰姑娘式的被发现，更是一堂关于创意自主权的课。她与造型师用旧货重解高定，拍摄于街头喧嚣中，不是模仿而是对话——用本地材质回应设计师意图。香奈儿创意总监的认可，验证了她拒绝「非洲时尚」标签的立场：创意无需地域修饰。她创立的Process Africa更进一步，为年轻创作者搭建不必表演族群身份的通道。托着香蕉盘走秀、路人儿子客串饮茶者，这些未经排练的瞬间揭示：真实不是策展出来的，而是被见证的。在痴迷新奇的行业里，她提供了一种更稀缺的可持续模式：扎根于约束、社群与不加歉意的在场。",
+    "best_quote_en": "I don't want people to constantly feel the need to introduce their work as African fashion or African art, as though it belongs to a separate category. It is fashion. It is art. It is music. It is creativity.",
+    "best_quote_zh": "我不希望人们总觉得有必要把自己的作品介绍为非洲时尚或非洲艺术，仿佛它们属于一个单独的类别。这就是时尚。这就是艺术。这就是音乐。这就是创意。"
+  },
+  {
+    "id": 756,
+    "title": "Zone Zero",
+    "title_zh": "零区",
+    "title_en": "Zone Zero",
+    "model_used": "dots-studio/dots-3-note-preview:free",
+    "translation_model_used": null,
+    "source": "99% Invisible",
+    "link": "https://99percentinvisible.org/episode/690-zone-zero/",
+    "tags": [
+      "analyze",
+      "society",
+      "design",
+      "controversial"
+    ],
+    "tags_zh": [
+      "分析",
+      "社会议题",
+      "设计创意",
+      "争议观点"
+    ],
+    "date": "2026-11-03",
+    "summary_en": "Zone Zero from 99% Invisible explores the contentious adaptation of homes to wildfire risks, centering on Berkeley, California's restrictive landscaping rules. The episode delves into the emotional debate fueled by the city's unique architectural heritage dating back to the 1890s, highlighting the tension between safety and cultural preservation. This case study reveals broader implications for climate change adaptation, where communities must balance practical measures with historical identity. Critically, it questions whether top-down regulations can respect local nuances or risk alienating residents. Personally, I find this analysis compelling as it mirrors the universal struggle between progress and tradition. The podcast's nuanced approach invites reflection on how built environments shape our response to environmental threats, emphasizing that adaptation is as social as it is technical.",
+    "summary_zh": "《零区》探讨了家庭适应野火风险的争议，聚焦伯克利限制性绿化规定。节目揭示了情感辩论背后的历史根源，凸显安全与文化保存的平衡难题。这一案例强调气候变化适应的广泛挑战，社区需在实用措施与历史身份间权衡。批判性地看，自上而下的规定是否尊重地方细节，抑或疏远居民？个人而言，这反映了进步与传统的普遍斗争。99% Invisible的细腻方式邀请思考建成环境如何塑造环境回应，提醒适应既是技术问题，也是深层社会议题。",
+    "best_quote_en": "Berkeley, California has put itself at the center of this conversation with a new rule on landscaping that tightly restricts the plants you can grow around your house.",
+    "best_quote_zh": "加利福尼亚州伯克利市通过一项严格限制房屋周围可种植植物的新绿化规定，将自己置于这一对话的中心。"
   }
 ]
