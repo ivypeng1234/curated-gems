@@ -1,122 +1,5 @@
 [
   {
-    "id": 662,
-    "title": "AI Proved the Quasi-Riemann Hypothesis. What Happens Now?",
-    "title_zh": "AI Proved the Quasi-Riemann Hypothesis. What Happens Now?",
-    "model_used": "nvidia/nemotron-3.5-lightning:free",
-    "source": "Quanta Magazine",
-    "link": "https://www.quantamagazine.org/ai-proved-the-quasi-riemann-hypothesis-what-happens-now-20261019/",
-    "tags": [
-      "learn",
-      "ai-research",
-      "science",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "学习",
-      "AI研究",
-      "科学研究",
-      "数据驱动"
-    ],
-    "date": "2026-10-19",
-    "summary_en": "The article reveals how OpenAI's AI model achieved a landmark proof of the quasi-Riemann hypothesis, a significant weakening of the century-old Riemann hypothesis. Crucially, the AI did not invent new concepts but instead synthesized existing, disparate ideas from number theory, uncovering hidden connections that human mathematicians had overlooked. Experts like Maksym Radziwiłł and Alexander Dunn were surprised to see their own prior work integrated into the proof, validating their approaches. The result narrows the strip containing non-trivial zeros from between 0 and 1 to between 1/12 and 11/12, which, while not solving the full Riemann hypothesis, provides immediate, sweeping consequences for number theory, geometry, and theoretical computer science. Mathematicians feel a mix of relief and frustration; while the proof is likely correct, the lack of human-readable clarity means the full implications are only beginning to be understood, and the dream of solving the original Riemann hypothesis remains distant but perhaps approachable with these new tools.",
-    "summary_zh": "这篇文章揭示了OpenAI的AI模型如何取得了准黎曼假设的里程碑式证明，这是对百年老问题的重要弱化。关键的是，AI并未发明新概念，而是综合了既有的、分散的数论思想，发现了人类数学家曾忽视的隐藏联系。Maksym Radziwiłł和Alexander Dunn等专家惊讶地发现，自己的 prior work 被整合进了证明，从而验证了他们的方法。结果将包含非平凡零的带宽从0到1 narrowing 到了1/12到11/12。虽然这并未解决原始的黎曼假设，但为数论、几何和理论计算机科学带来了即时的、广泛的后果。数学家们感到欣慰与挫败的混合情绪；虽然该证明可能是正确的，但由于缺乏可读性，其全面含义仅刚刚开始被理解，解决原始黎曼假设的梦想仍遥遥无期，但或许现在可以用这些新工具去尝试。",
-    "best_quote_en": "\"The proof is a surprising synthesis of well-known ideas,\" said Alexander Dunn of the Georgia Institute of Technology. \"Nobody expected this,\" said Henryk Iwaniec regarding the metaplectic forms crucial to the proof. \"That was a pretty bold belief to have!\" said Maksym Radziwiłł about the AI's use of number theorist tools.",
-    "best_quote_zh": "\"证明是众所周知思想的意外综合,\" said Alexander Dunn. \"没人料到这一点,\" said Henryk Iwaniec 关于证明中关键的metaplectic forms。\"那是一个 pretty bold 的信念！\" said Maksym Radziwiłł 关于AI使用数论工具的事。"
-  },
-  {
-    "id": 663,
-    "title": "How intuitions work",
-    "title_zh": "直觉如何运作",
-    "model_used": "nvidia/nemotron-3-ultra-550b-a55b:free",
-    "source": "Aeon",
-    "link": "https://aeon.co/essays/sometimes-you-just-know-somethings-off-but-how",
-    "tags": [
-      "learn",
-      "science",
-      "design",
-      "case-study"
-    ],
-    "tags_zh": [
-      "学习",
-      "科学研究",
-      "设计创意",
-      "案例研究"
-    ],
-    "date": "2026-10-20",
-    "summary_en": "This essay offers a profound rehabilitation of everyday intuition, arguing that our 'vibes' and gut feelings aren't irrational heuristics but share the same epistemic structure as perception itself. The author's central insight—that intuition, like vision, directly presents the world as being a certain way without requiring inferential mediation—elegantly bridges the gap between philosophical 'rational intuitions' (e.g., grasping that 2+2=4) and the practical intuitions that keep us safe from creepy strangers and phishing emails. What captivated me is the claim that thought experiments are merely 'deliberately engineered' versions of the imaginative simulations we run constantly: picturing a friend's pain to see it as a reason against betrayal. The perceptual expertise example (the herpetologist seeing a copperhead where I see 'snake') beautifully demonstrates how concept-laden presentation operates below phenomenological awareness. This reframes intuition not as a bug but as the foundational feature of our cognitive architecture—the very thing that stops the regress of justification. A masterful piece that makes you trust your unease about that 'too good to be true' deal while understanding exactly why you should.",
-    "summary_zh": "这篇文章重塑了直觉的认知地位：那些被视为'非理性'的直觉，实则与感知同构，直接呈现世界的样貌而无需推理中介。作者将哲学理性直觉与拒上陌生人车的日常直觉统一在'呈现性捕捉'框架下，思想实验只是我们日常模拟推演的刻意版本。最震撼的是专家感知案例——蛇类学家看到铜头蛇而非'蛇'，概念在现象学相同的体验中重塑呈现内容。直觉不是认知的漏洞，而是阻止理由无限倒退的基石。读完让人既信任对'好得不真实'交易的警惕，又明白为何该信任。",
-    "best_quote_en": "The person who declines to get in the stranger's car, or who flags the email as a phishing attempt, or who walks away from the deal – these individuals are not acting irrationally or on mere feeling. They are responding to a genuine presentational state: something is showing up as creepy, fraudulent or wrong.",
-    "best_quote_zh": "拒绝上陌生人车、识破钓鱼邮件、放弃可疑交易的人，并非非理性或凭感觉行事。他们在回应一种真实的呈现性状态：事物直接呈现为可怕、欺诈或错误。"
-  },
-  {
-    "id": 664,
-    "title": "Quiz: Can You Complete These Halloween Jokes Before Time Runs Out?",
-    "title_zh": "测验：你能在时间结束前完成这些Halloween笑话吗？",
-    "model_used": "poolside/laguna-xs-2.1:free",
-    "source": "Mental Floss",
-    "link": "https://www.mentalfloss.com/quizzes/complete-halloween-jokes-before-time-runs-out?utm_source=RSS",
-    "tags": [
-      "inspire",
-      "science",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "启发",
-      "科学研究",
-      "未来预测"
-    ],
-    "date": "2026-10-20",
-    "summary_en": "This piece cleverly transforms a simple Halloween joke quiz into an exploration of humor theory, weaving entertainment with intellectual curiosity. The author moves beyond surface-level comedy to examine why we laugh, drawing from philosophical foundations through Freudian psychoanalysis to modern cognitive science. The integration of Benign Violation Theory and incongruity resolution provides nuanced insight into humor mechanics, making readers reconsider their comedic preferences. The content balances accessibility with academic depth, offering party-ready jokes while explaining the psychological frameworks behind them. This dual approach serves both entertainment seekers and theory enthusiasts, demonstrating how popular content can carry substantive intellectual weight. The interactive quiz format engages readers actively, transforming passive consumption into participatory learning about humor's evolutionary and psychological dimensions.",
-    "summary_zh": "这篇内容将简单Halloween笑话测验升华为对幽默本质的探索，娱乐与学术理性交织。作者不止于表层搞笑，深入剖析笑声的心理机制，从古希腊哲学到弗洛伊德，再到现代认知科学。Benign Violation理论揭示了幽默的伦理边界，让读者重新审视自己的笑点。既有派对必备的笑话，又有深度的心理学解读，兼顾轻松与深度。",
-    "best_quote_en": "Humor comes about 'when a person simultaneously recognizes both that an ethical, social, or physical norm has been violated and that this violation is not very offensive.'",
-    "best_quote_zh": "幽默产生于'当一个人同时认识到某种道德、社会或物理规范被违反，并且这种违反并不致命地冒犯人们时'。"
-  },
-  {
-    "id": 665,
-    "title": "Circuit priors in NN-bayes: more results",
-    "title_zh": "NN-Bayes中的电路先验：更多结果",
-    "model_used": "poolside/laguna-s-2.1:free",
-    "source": "LessWrong",
-    "link": "https://www.lesswrong.com/posts/oePzacZn6wNcJPvH3/circuit-priors-in-nn-bayes-more-results",
-    "tags": [
-      "solve",
-      "ai-research"
-    ],
-    "tags_zh": [
-      "解决",
-      "AI研究"
-    ],
-    "date": "2026-10-21",
-    "summary_en": "This technical note presents a compelling theoretical finding: for various reasonable priors on MLP weights, the induced prior over functions behaves like a circuit prior, where functions are ordered by negative log prior roughly in line with their minimal circuit width. This yields sample complexity bounds showing that training data of size proportional to circuit width suffices for test accuracy, even in overparametrized regimes. The key caveat is exponential dependence on circuit depth, which can be mitigated by imposing robustness assumptions on the prior. The work is notable for its formal rigor—GPT-6 Astra produced Lean formalizations for each referenced paper, and an external system verified the theorem statements. The authors frame this as an ongoing research program with open problems, recommending newcomers start with their slides and FAQ. The blend of theoretical depth, formal verification, and AI-assisted research signals a shift toward more rigorous and automated scientific discovery in machine learning.",
-    "summary_zh": "这篇短文揭示了一个引人注目的理论发现：合理的MLP权重先验会诱导出类似电路先验的函数先验，其中函数的负对数先验排序大致对应其最小电路宽度。这使得训练数据规模仅需与电路宽度成比例即可实现测试准确率，甚至在过参数化场景下也成立。但电路深度的指数依赖是一个主要限制，可通过鲁棒性假设缓解。值得注意的是，这项工作具有形式化严谨性：GPT-6 Astra为每篇论文生成了Lean形式化证明，并通过外部系统验证。作者将之视为一个仍在进行的研究程序，建议新读者从幻灯片和FAQ入手。这体现了AI辅助研究日益深入、自动化的趋势，值得关注。",
-    "best_quote_en": "For various reasonable priors on MLP weights, the induced prior on functions is a circuit prior: for fixed depth, the ordering of functions by negative log prior is roughly their ordering by minimal circuit width.",
-    "best_quote_zh": "对于各种合理的MLP权重先验，诱导出的函数先验是一种电路先验：在固定深度下，函数的负对数先验排序大致对应其最小电路宽度的排序。"
-  },
-  {
-    "id": 666,
-    "title": "“An Unprecedented Case of Child Abuse”",
-    "title_zh": "“前所未有的儿童虐待案”",
-    "model_used": "nvidia/nemotron-3.5-super-vl:free",
-    "source": "The New Yorker",
-    "link": "https://www.newyorker.com/news/the-lede/an-unprecedented-case-of-child-abuse",
-    "tags": [
-      "analyze",
-      "legal",
-      "case-study"
-    ],
-    "tags_zh": [
-      "分析",
-      "法律法规",
-      "案例研究"
-    ],
-    "date": "2026-10-20",
-    "summary_en": "This investigative report exposes a harrowing case of systemic child abuse involving Guojun Xuan and Silvia Zhang, a wealthy couple who used surrogacy to build a family of twenty-seven children while subjecting them to systematic violence in their Arcadia mansion. Beyond the shocking details of nannies beating children with sticks and shoes while the parents laughed at surveillance footage, the article critically examines the regulatory vacuum in the U.S. surrogacy industry. The piece reveals how the couple exploited legal loopholes, continued having children even while under investigation, and weaponized the legal system against surrogates who resisted. The narrative powerfully contrasts the parents' wealth and privilege with the children's suffering, while highlighting how surrogates themselves were deceived about the scale of the operation. The report raises profound questions about reproductive rights, child protection, and the ethical boundaries of commercial surrogacy in an unregulated market.",
-    "summary_zh": "这篇调查报道揭露了古军·萱和西尔维亚·张这对富有夫妇的令人发指的系统性儿童虐待案。他们通过代孕生育了二十七个孩子，却在阿卡迪亚的豪宅中对孩子们实施系统性暴力。文章不仅揭露了保姆用棍棒和鞋子殴打儿童，而父母却在监控录像前大笑的细节，还深入剖析了美国代孕行业的监管真空。报道揭示了这对夫妇如何利用法律漏洞，在接受调查期间继续生育，并利用法律制度对抗反抗的代孕母亲。叙事有力地对比了父母的财富特权与孩子们的苦难，同时强调代孕母亲们被蒙在鼓里，不知这场规模宏大的运作。该报道引发了关于生育权利、儿童保护和商业代孕伦理边界的深刻问题。",
-    "best_quote_en": "You can't have consent when you sign a contract based on misrepresentations. Each plaintiff in this case surrendered her body to the couple's enterprise, and she did so only because they deceived her into believing she was helping a single loving family conceive this one child.",
-    "best_quote_zh": "当你基于虚假陈述签署合同时，就不可能有真正的同意。本案中的每一位原告都将自己的身体交给了这对夫妇的事业，而她们这样做，仅仅是因为她们被欺骗，以为自己正在帮助一个充满爱的家庭孕育一个孩子。"
-  },
-  {
     "id": 667,
     "title": "What’s in my NOW? — Tony Franco",
     "title_zh": "我的 NOW 里有什么？——托尼·弗朗科",
@@ -2344,5 +2227,136 @@
     "summary_zh": "《发现之风险》深刻揭示传记叙事如何扭曲科学创新认知，将天才失败淡化为古怪，而非风险探索。以牛顿为例，指出当时炼金术等与物理同等可行，其多元 bets 实为冒险。这挑战成功学神话，强调不确定性在突破中的核心作用。对现代创业的启示是，美化成功会低估风险本质，可能抑制实验精神。引用‘巨大，如果真实’凸显变革想法的冒险性。最终呼吁更诚实看待创新，拥抱模糊作为发现催化剂。",
     "best_quote_en": "Newton made three bets. One of them worked. But they were all risky.",
     "best_quote_zh": "牛顿下了三个赌注。其中一个奏效了。但它们都是冒险的。"
+  },
+  {
+    "id": 762,
+    "title": "The Case for a Bubble at Life’s Start",
+    "title_zh": "生命起源中的泡沫论",
+    "title_en": "The Case for a Bubble at Life's Start",
+    "model_used": "cohere/north-mini-code:free",
+    "translation_model_used": null,
+    "source": "Quanta Magazine",
+    "link": "https://www.quantamagazine.org/the-case-for-a-bubble-at-lifes-start-20261110/",
+    "tags": [
+      "analyze",
+      "science",
+      "controversial"
+    ],
+    "tags_zh": [
+      "分析",
+      "科学研究",
+      "争议观点"
+    ],
+    "date": "2026-11-10",
+    "summary_en": "Perri Thaler’s explainer delves into the bold “lipid‑first” hypothesis, which posits that life began not with genes but with a simple bubble—a lipid membrane that encapsulated primordial chemistry. By framing early evolution as a chemical loop where mutually catalytic molecules (A and B) sustain each other, the model suggests that compartments themselves could have been the first substrates for heredity and selection, even before RNA or DNA existed. The article traces the hypothesis from its 1990s origins through the seminal 2000 computer simulation by Lancet and Segrè, highlighting how bubbles could split, pass on molecular ratios, and be nudged by “mutational” molecule C to generate diversity. Yet the piece also foregrounds the ongoing debate: critics like Jack Szostak question the feasibility of lipid‑only systems, pointing to scant experimental evidence and the unresolved chemistry of early lipid formation. Thaler balances the intrigue of a container‑centric origin story with the rigorous skepticism that characterizes origins‑of‑life research, reminding us that even the most elegant models must survive empirical scrutiny. This explainer not only clarifies a cutting‑edge scientific idea but also illustrates how competing narratives drive progress in a field where every answer opens new questions.",
+    "summary_zh": "这篇文章探讨了“脂质优先”假说，认为生命可能始于一个简单的泡沫——脂质膜为原始化学反应提供了一个封闭的容器。通过描述A和B等分子的相互催化循环，作者展示了如何在缺乏DNA/RNA的情况下实现遗传和选择。然而，文章也指出了这一观点的争议性，包括实验证据不足和早期脂质形成的化学过程仍不明确。作者既展现了这一大胆思想的魅力，也强调了科学界对生命起源的不同看法，提醒我们在探索生命奥秘的过程中，不断质疑和验证是推动科学进步的关键。",
+    "best_quote_en": "You need a container before you can get the chemistry.",
+    "best_quote_zh": "你需要一个容器，然后才能获得化学反应。"
+  },
+  {
+    "id": 763,
+    "title": "The wholehearted life",
+    "title_zh": "全然的生活",
+    "title_en": "The wholehearted life",
+    "model_used": "dots-studio/dots-3-note-preview:free",
+    "translation_model_used": null,
+    "source": "Aeon",
+    "link": "https://aeon.co/essays/how-does-roshi-joan-halifax-make-sense-of-her-buddhist-life",
+    "tags": [
+      "guide",
+      "medicine",
+      "society",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "指导",
+      "医学健康",
+      "社会议题",
+      "未来预测"
+    ],
+    "date": "2026-11-10",
+    "summary_en": "This profound profile of Roshi Joan Halifax, an 84-year-old Zen Buddhist teacher, medical anthropologist, and caregiver to the dying, explores the intersection of spiritual practice, social activism, and the limits of altruism. Through her near-death experiences during two open-heart surgeries, Halifax reflects on mortality, the nature of death, and the concept of 'charnel grounds'—places of intense suffering where she has practiced her art, from refugee camps to hospitals. The essay traces her journey from a childhood marked by polio and racial inequality in segregated Florida to her activism in the civil rights movement, her anthropological work with the Dogon people in Mali, and her pioneering integration of Buddhism into medical care. Halifax candidly discusses her struggle with 'pathological altruism,' realizing that her desire to help could sometimes overwhelm both herself and those she sought to serve. Her legacy is not one of building institutions, but of serving deeply and intensely, standing with those at the margins, and living a life of radical honesty and presence. The narrative underscores that a 'wholehearted life' is one of continuous engagement with suffering, joy, and the natural cycles of life and death.",
+    "summary_zh": "这篇深度人物特写讲述了84岁的禅宗法师、医学人类学家及临终关怀者琼·哈利法克斯（Joan Halifax）的故事，探讨了灵性实践、社会行动主义与利他主义局限的交汇点。通过她经历的两次心脏手术及濒死体验，哈利法克斯反思了死亡、生命以及“尸陀林”（charnel grounds，指充满痛苦的场所）的概念——从难民营到医院，她一直在这些地方践行她的使命。文章追溯了她从童年因小儿麻痹症和佛罗里达州种族隔离而经历的不平等，到参与民权运动，再到在马里与多贡人共处的人类学经历，以及她将佛教融入医疗实践的开创性工作。哈利法克斯坦诚地谈到了自己曾陷入“病态利他主义”（pathological altruism），意识到过度助人有时反而会伤害自己和他人。她的遗产并非建立宏伟的机构，而是以极致的深度与热忱去服务，坚定地站在边缘人群一边，过一种彻底诚实、全然投入的生活。文章强调，一个“全然的生活”意味着持续地与痛苦、喜悦以及生死的自然循环共处。",
+    "best_quote_en": "I don't think about it. It'll be apparent after I'm dead, if I have any legacy at all. I haven't tried to build one. I've just tried to serve and live my life as deeply and intensely as possible.",
+    "best_quote_zh": "我不去想它。如果我有什么遗产，那在我死后自然会显现。我从未试图去建立什么遗产。我只是尽力去服务，并尽可能深刻、 intensely 地度过我的人生。"
+  },
+  {
+    "id": 764,
+    "title": "Colin Meloy on the Folklore, Forests, and Political Message of 'Wildwood'",
+    "title_zh": "科林·梅洛伊谈《荒野》的传说、森林与政治信息",
+    "title_en": "Colin Meloy on the Folklore, Forests, and Political Message of 'Wildwood'",
+    "model_used": "dots-studio/dots-3-note-preview:free",
+    "translation_model_used": null,
+    "source": "Mental Floss",
+    "link": "https://www.mentalfloss.com/literature/books/colin-meloy-wildwood-interview?utm_source=RSS",
+    "tags": [
+      "learn",
+      "writing-content",
+      "music-arts",
+      "case-study"
+    ],
+    "tags_zh": [
+      "学习",
+      "写作内容",
+      "音乐艺术",
+      "案例研究"
+    ],
+    "date": "2026-11-11",
+    "summary_en": "This interview explores the creative journey of Colin Meloy and Carson Ellis in adapting their beloved book 'Wildwood' into a stop-motion animated film by Laika Studios. Rooted in Portland’s Forest Park, the story blends Irish folklore, mythogeography, and ecological themes to craft a magical yet politically resonant world. Meloy reflects on the 16-year filmmaking process, the tension between AI-driven efficiency and handmade artistry, and how the narrative serves as both a timeless coming-of-age tale and a subtle critique of authoritarianism and environmental neglect. The interview also highlights the symbiotic relationship between songwriting and novel writing, and offers a real-world trail guide for fans to experience the mythic geography of Wildwood firsthand. Ultimately, the film stands as a testament to the enduring power of handcrafted storytelling in an age increasingly dominated by automation.",
+    "summary_zh": "本文深入探讨了科林·梅洛伊与卡森·埃利斯将小说《荒野》改编为莱卡工作室定格动画电影的创作历程。故事以波特兰森林公园为原型，融合爱尔兰民间传说、神话地理学与生态主题，构建了一个既奇幻又具政治隐喻的世界。梅洛伊回顾了长达16年的制作过程，探讨了在AI追求效率的时代背景下，手工艺术所承载的反叛与人文价值。他指出，这部作品既是关于成长与蜕变的永恒童话，也是对威权主义与环境漠视的温和警示。文中还比较了歌词创作与小说写作的异同，并为粉丝提供了一条实地探访“荒野”神话地理的徒步路线。整部电影不仅是对传统手工艺的致敬，更是对自动化时代中人性光辉的深情守护。",
+    "best_quote_en": "In a time of deeply fractured politics and simmering resentment against government ineffectuality and corruption, among other things, some viewers have also read its message as an anti-colonial one, and a warning sign of what happens when leaders attempt to impose their own bottomless emptiness on nature and the people who steward it.",
+    "best_quote_zh": "在一个政治深刻分裂、对政府无能与腐败积怨已久的时代，一些观众将其解读为一部反殖民作品，警示当领导者试图将自己的无尽虚无强加于自然与守护它的人们时，将会发生什么。"
+  },
+  {
+    "id": 765,
+    "title": "Transfinite Procrastination",
+    "title_zh": "超限拖延术",
+    "title_en": "Transfinite Procrastination",
+    "model_used": "nvidia/nemotron-3-ultra-550b-a55b:free",
+    "translation_model_used": null,
+    "source": "LessWrong",
+    "link": "https://www.lesswrong.com/posts/MJDJyi8nSv9yoxFni/transfinite-procrastination",
+    "tags": [
+      "solve",
+      "lifestyle",
+      "case-study"
+    ],
+    "tags_zh": [
+      "解决",
+      "生活方式",
+      "案例研究"
+    ],
+    "date": "2026-11-11",
+    "summary_en": "The article introduces transfinite procrastination, a framework using transfinite ordinals to structure task postponement. Starting from finite deadlines, it escalates through levels like ω (omega), ω+1, ω·2, ω², and ε₀, where each level allows deferring the decision of when to finish a task. While any strictly decreasing ordinal sequence guarantees finite completion, the method incurs administrative overhead from meta-deadlines and offers no deadline relative to external events like the Singularity. The piece blends mathematical rigor with humor to illustrate ordinal arithmetic properties and their procrastinatory applications.",
+    "summary_zh": "文章提出超限拖延术，利用超限序数构建拖延层级。从有限截止日期起步，经ω、ω+1、ω·2、ω²至ε₀等层级，每层允许推迟决定完成任务的时间。虽任意严格递减序数列保证有限时间内完成，但元截止日期产生管理开销，且无法保证在奇点等外部事件前完成。文中融合数学严谨性与幽默感，阐释序数运算性质及其拖延应用。",
+    "best_quote_en": "Any strictly decreasing sequence of ordinals must eventually terminate.",
+    "best_quote_zh": "任何严格递减的序数序列最终都会终止。"
+  },
+  {
+    "id": 766,
+    "title": "Is Jensen Huang’s Affair a Crisis for the A.I. Boom?",
+    "title_zh": "黄仁勋的婚外情会成为AI繁荣的危机吗？",
+    "title_en": "Is Jensen Huang's Affair a Crisis for the A.I. Boom?",
+    "model_used": "nvidia/nemotron-3-ultra-550b-a55b:free",
+    "translation_model_used": null,
+    "source": "The New Yorker",
+    "link": "https://www.newyorker.com/news/the-lede/is-jensen-huangs-affair-a-crisis-for-the-ai-boom",
+    "tags": [
+      "analyze",
+      "politics",
+      "economics",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "分析",
+      "政治时事",
+      "经济金融",
+      "数据驱动"
+    ],
+    "date": "2026-11-10",
+    "summary_en": "This New Yorker piece by John Cassidy examines the intersection of personal scandal, geopolitical espionage, and market dynamics surrounding Nvidia CEO Jensen Huang's alleged relationship with a Chinese businesswoman suspected of being a spy. The article masterfully weaves together multiple threads: the immediate $17 billion paper loss in Huang's stake, the Trump administration's potential prior knowledge via classified intelligence, the suspicious timing of export control relaxations benefiting Nvidia, and the broader question of whether Nvidia's dominance in AI infrastructure is truly unassailable. What makes this analysis compelling is its refusal to reduce the story to mere tabloid fodder. Instead, it exposes the fragile concentration of the entire AI boom in one company and one man—a 'too big to fail' dynamic eerily reminiscent of 2008's financial institutions. The market's reaction—Nvidia down 10% while competitors like AMD and Intel rallied—suggests investors may be pricing in not just scandal risk, but a structural diversification away from Nvidia's monopoly. The circular financing arrangements (Nvidia lending billions to customers who buy its chips) add a layer of systemic risk that deserves far more scrutiny. This isn't just about a CEO's judgment; it's about whether the AI revolution's foundation rests on sound governance or a house of cards.",
+    "summary_zh": "这篇文章不仅是八卦，更是一面照妖镜：整个AI繁荣竟悬于一家公司、一人之手。黄仁勋的丑闻暴露了科技霸权与地缘政治的危险共生——特朗普政府可能知情却放行芯片出口，英伟达自融资模式构建的庞氏式帝国，竞争对手股价上涨暗示市场正在为'去英伟达化'定价。最讽刺的是，'太大而不能倒'的论调竟成了护身符。AI革命的地基，究竟是创新还是权力交易？",
+    "best_quote_en": "The emerging line from Huang's defenders is that A.I. is so vital to America's future, and Huang is so vital to Nvidia, that, like the big banks during the great financial crisis, he's too big to fail.",
+    "best_quote_zh": "黄仁勋的支持者新说辞是：AI对美国未来至关重要，黄仁勋对英伟达至关重要，因此像金融危机时的大银行一样，他'太大而不能倒'。"
   }
 ]
