@@ -1,122 +1,5 @@
 [
   {
-    "id": 667,
-    "title": "What’s in my NOW? — Tony Franco",
-    "title_zh": "我的 NOW 里有什么？——托尼·弗朗科",
-    "model_used": "poolside/laguna-xs-2.1:free",
-    "source": "Kevin Kelly",
-    "link": "https://kk.org/cooltools/whats-in-my-now-tony-franco/",
-    "tags": [
-      "analyze",
-      "leadership",
-      "ai-research",
-      "case-study"
-    ],
-    "tags_zh": [
-      "分析",
-      "领导管理",
-      "AI研究",
-      "案例研究"
-    ],
-    "date": "2026-10-21",
-    "summary_en": "Tony Franco's 'What's in my NOW?' offers a refreshing personal insight into the tools and philosophies that drive successful leadership and personal fulfillment. This piece transcends typical business content by revealing how operational excellence in ecommerce and CPG brands intertwines with authentic personal practices. Franco's disclosure of his physical (Rite in the Rain notebook, Biofreeze, Pivot bike), digital (Notion + Claude integration, NICA coaching resources), and invisible (embracing challenges, finding joy in 'type 2 fun') toolkits reveals a holistic approach to leadership that integrates analog mindfulness with digital efficiency. The most compelling aspect is his philosophical framework: 'You gotta earn the view. Embrace the suck, enjoy the climb... the whole thing is the thing.' This isn't just tool recommendations—it's a case study in how leaders can maintain personal authenticity while driving organizational growth. The integration of mountain biking coaching principles with business leadership demonstrates cross-domain learning that readers can immediately apply to their own leadership challenges.",
-    "summary_zh": "这篇文章用托尼·弗朗科个人工具箱揭示了卓越领导力的本质：物理工具（笔记本、止痛棒、自行车）、数字工具（Notion+Claude工作流）与隐性哲学（拥抱挑战，享受攀登）。他将山地自行车教练的'类型2乐趣'转化为商业领导力，证明跨领域的智慧可以驱动组织成长。文章的精髓在于'全过程即意义'的哲学——每一步都值得被珍视，这不仅是工具推荐，更是一种活的领导力生存指南。",
-    "best_quote_en": "You gotta earn the view. Embrace the suck, enjoy the climb... the whole thing is the thing.",
-    "best_quote_zh": "你必须争取风景。拥抱痛苦，享受攀登……整件事本身就是意义所在。"
-  },
-  {
-    "id": 668,
-    "title": "What Makes Great Leaders & How to Live an Extraordinary Life | Dr. Jared Diamond",
-    "title_zh": "什么造就了伟大的领导者，以及如何过非凡的生活 | 贾德·钻石教授",
-    "model_used": "poolside/laguna-s-2.1:free",
-    "source": "Huberman Lab",
-    "link": "https://www.hubermanlab.com/episode/what-makes-great-leaders-and-how-to-live-an-extraordinary-life-jared-diamond",
-    "tags": [
-      "solve",
-      "general"
-    ],
-    "tags_zh": [
-      "解决",
-      "general"
-    ],
-    "date": "2026-10-19",
-    "summary_en": "This conversation with Dr. Jared Diamond offers a sweeping examination of leadership through the lens of history, biology, and personal development. Diamond challenges conventional narratives by highlighting how chance events—like geographic advantages or random historical turns—have disproportionately shaped both civilizations and individual leaders. His discussion of figures from Hitler to Truman reveals that leadership is not merely about charisma or competence but often about context and contingency. Particularly compelling is his emphasis on lifelong curiosity, interdisciplinary thinking, and physical vitality as pillars of sustained impact. The episode also touches on existential risks and the importance of aligning one’s career with genuine interests—a message that resonates deeply in today’s uncertain world. Diamond’s perspective feels refreshingly grounded in empirical observation rather than abstract theory.",
-    "summary_zh": "钻石教授用生物学与历史的视角解构领导力，指出随机事件常比个性决定命运。他强调好奇心与跨学科思维的重要性，颇有启发性。",
-    "best_quote_en": "Leaders are shaped more by the accidents of their environment and timing than by their personal qualities.",
-    "best_quote_zh": "领导者更多是由环境与时机的偶然塑造，而非个人品质。"
-  },
-  {
-    "id": 669,
-    "title": "Weekly Review",
-    "title_zh": "每周回顾",
-    "model_used": "nvidia/nemotron-3-ultra-550b-a55b:free",
-    "source": "Harper’s Magazine",
-    "link": "https://harpers.org/2026/10/weekly-review-west-bank-settler-attacks-olive-harvest-tupac-john-fetterman-crucifix-kills-priest-robot-arresets-paris-burning/",
-    "tags": [
-      "analyze",
-      "leadership",
-      "science",
-      "controversial"
-    ],
-    "tags_zh": [
-      "分析",
-      "领导管理",
-      "科学研究",
-      "争议观点"
-    ],
-    "date": "2026-10-20",
-    "summary_en": "Harper's Weekly Review operates as a masterclass in juxtapositional satire, presenting a cascade of October 2026 headlines without commentary—letting the absurdities speak themselves. The effect is a portrait of a world where settler violence in the West Bank receives presidential endorsement while a press secretary resigns after claiming she 'went to China' when asked about her bar exam. The algorithmic cruelty of AI-generated election ads ($137M worth) sits alongside a cyberattack on French supermarket refrigerators and a Danish data breach secured by '123456.' Dark irony abounds: a priest crushed by a crucifix moments after preaching on death's transience; a robot seized for sexual harassment; a 94-year-old billionaire luring rats with 'luxury melange' nuts. Yet amid the chaos, small rebellions persist—a Yorkie chasing off a bear, a judge sentencing Tupac's killer with 'You don't get to take a man from his family.' The review's power lies in its refusal to hierarchize: the dachshund statue in Buda, Texas ('an investment in our identity') carries equal weight to the Pentagon withholding a bombing report until after midterms. It's a mirror held up to a civilization simultaneously collapsing and meme-ifying its own collapse.",
-    "summary_zh": "哈珀斯《每周回顾》以冷峻并置手法，将2026年10月的荒诞现实铺陈成一幅无需注脚的讽刺画卷：西岸定居者暴行获总统背书，新闻秘书因\"去过中国\"辞职，AI竞选广告烧掉1.37亿，丹麦八百万公民数据仅靠\"123456\"守护。黑色幽默无处不在——神父刚讲完死亡无常即被十字架砸死，机器人因性骚扰被捕，亿万富翁用\"奢华坚果拼盘\"引诱老鼠占领公园。但微光仍在：约克夏犬赶走黑熊，法官判决图派克凶手时说\"你不能把一个男人从家人身边夺走\"，德州布达市竖起十九英尺长腊肠狗雕塑宣称\"这是身份投资\"。此栏威力在于拒绝分级：腊肠狗雕塑与五角大楼推迟发布轰炸报告同等分量。它照出一个既在崩溃又在将崩溃梗化的文明镜像。",
-    "best_quote_en": "\"You don't get to take a man from his family. Especially when that man is Tupac Shakur.\"",
-    "best_quote_zh": "\"你不能把一个男人从他的家人身边夺走。尤其是当那个男人是图派克·夏库尔时。\""
-  },
-  {
-    "id": 670,
-    "title": "Belushi / Timeline: A Visual History of Our World",
-    "title_zh": "贝卢斯里·时间线：我们的世界可视化史",
-    "model_used": "poolside/laguna-xs-2.1:free",
-    "source": "Kevin Kelly",
-    "link": "https://kk.org/cooltools/belushi-timeline-a-visual-history-of-our-world/",
-    "tags": [
-      "learn",
-      "design",
-      "writing-content"
-    ],
-    "tags_zh": [
-      "学习",
-      "设计创意",
-      "写作内容"
-    ],
-    "date": "2026-10-20",
-    "summary_en": "Two graphic books reviewed: Belushi by Alberto Schiavone and Matteo Manera explores the life of the American icon who died at 33, focusing on his unique humor rather than drug abuse. Timeline by Peter Goes offers a visual history for children 7-12 with whimsical text and minimalist illustrations covering from the beginning of life to today. Both celebrate creativity and cultural impact through distinctive artistic approaches.",
-    "summary_zh": "两本插画书作品：莫里西·高伦纳和马特奥·马纳拉的贝卢斯，探讨美国图标33岁离世的生涯，聚焦其独特幽默而非毒瘾问题。彼得·格兹的《时间线》为7-12岁儿童提供可视化历史，从生命之始到今天，以俏皮文字和极简插图呈现。两本书都以独特艺术方式赞美创造力与文化影响。",
-    "best_quote_en": "Real greatness gives license for real indulgence, whether it's as a reward, as therapy or as sanctuary.",
-    "best_quote_zh": "真正的伟大为真实的放纵提供许可证，无论是作为奖励、疗愈还是庇护所。"
-  },
-  {
-    "id": 671,
-    "title": "Essentials: How to Become Resilient, Forge Your Identity & Lead Others | Jocko Willink",
-    "title_zh": "Essentials: How to Become Resilient, Forge Your Identity & Lead Others | Jocko Willink",
-    "model_used": "nvidia/nemotron-3.5-lightning:free",
-    "source": "Huberman Lab",
-    "link": "https://www.hubermanlab.com/episode/essentials-how-to-become-resilient-forge-your-identity-and-lead-others-jocko-willink",
-    "tags": [
-      "solve",
-      "ai-research",
-      "education"
-    ],
-    "tags_zh": [
-      "解决",
-      "AI研究",
-      "教育学习"
-    ],
-    "date": "2026-07-30",
-    "summary_en": "In this Huberman Lab Essentials episode featuring Jocko Willink, the conversation transcends typical motivational discourse to examine discipline as a structural framework for resilience. Willink frames discipline not as a fleeting emotion but as a reliable driver of daily action, emphasizing that movement through adversity requires taking action rather than waiting for inspiration. A particularly insightful theme emerges regarding leadership: the necessity of serving as a counterweight to team morale, maintaining equilibrium amidst collective emotional swings. The discussion also reframes detachment as a trainable skill—essential for widening perspective and making clear decisions under stress. Beyond the tactical insights on exercise and energy generation, the dialogue offers a nuanced exploration of identity formation, suggesting that resilience is forged through the integration of discomfort, purpose, and disciplined action. This episode serves as a compelling guide for anyone seeking to lead others while first mastering oneself.",
-    "summary_zh": "这期Huberman Lab Essentials邀请Jocko Willink探讨了‘纪律’而非‘动力’作为日常行动可靠驱动力的本质。Willink强调，面对逆境、损失和挫折，采取行动是最有效的前进方式。节目深入剖析了运动如何产生能量，领导者作为团队情绪的‘压舱石’的作用，以及‘detachment’（解离/ detached perspective）作为一种可训练技能，能在压力下拓宽视野并做出更佳决策。讨论还涉及身份的塑造、通过不适训练韧性，以及在逆境中行动的重要性。这不仅是一期关于军事或领导力的对话，更是一次关于如何通过纪律建立自我、带领他人的深刻思考。",
-    "best_quote_en": "Discipline is not motivation. Discipline is doing the right thing, at the right time, for the right reason, even when you don't want to.",
-    "best_quote_zh": "纪律不是动力。纪律是即使不想做，也在正确的时间做正确的事，原因也是正确的。"
-  },
-  {
     "id": 672,
     "title": "Isle Of Wight Festival 2027 headliners and first wave of line-up announced",
     "title_zh": "怀特岛音乐节2027年头牌与首波阵容公布",
@@ -2358,5 +2241,132 @@
     "summary_zh": "这篇文章不仅是八卦，更是一面照妖镜：整个AI繁荣竟悬于一家公司、一人之手。黄仁勋的丑闻暴露了科技霸权与地缘政治的危险共生——特朗普政府可能知情却放行芯片出口，英伟达自融资模式构建的庞氏式帝国，竞争对手股价上涨暗示市场正在为'去英伟达化'定价。最讽刺的是，'太大而不能倒'的论调竟成了护身符。AI革命的地基，究竟是创新还是权力交易？",
     "best_quote_en": "The emerging line from Huang's defenders is that A.I. is so vital to America's future, and Huang is so vital to Nvidia, that, like the big banks during the great financial crisis, he's too big to fail.",
     "best_quote_zh": "黄仁勋的支持者新说辞是：AI对美国未来至关重要，黄仁勋对英伟达至关重要，因此像金融危机时的大银行一样，他'太大而不能倒'。"
+  },
+  {
+    "id": 767,
+    "title": "What’s in my NOW? — Bill Mize",
+    "title_zh": "我的现在有什么？——Bill Mize",
+    "title_en": "What's in my NOW? — Bill Mize",
+    "model_used": "nvidia/nemotron-3.5-lightning:free",
+    "translation_model_used": null,
+    "source": "Kevin Kelly",
+    "link": "https://kk.org/cooltools/whats-in-my-now-bill-mize/",
+    "tags": [
+      "solve",
+      "ai-research",
+      "writing-content"
+    ],
+    "tags_zh": [
+      "解决",
+      "AI研究",
+      "写作内容"
+    ],
+    "date": "2026-11-11",
+    "summary_en": "Bill Mize's 'What's in my NOW?' is a delightful meditation on the objects that compose a meaningful retirement. Moving beyond typical tech reviews, Mize curates a deeply personal collection spanning physical artifacts—John Kennedy Toole's Pulitzer-winning novel, a vintage Call of Cthulhu RPG set, and iridescent Chessex dice—to digital tools like FocusWriter and Owlbear Rodeo, and invisible spiritual touchstones like Christian Larson's Optimist's Creed. The essay reveals how objects accumulate layered significance over time, serving as touchstones for memory, identity, and personal evolution. What emerges is not a showcase of cool gadgets, but a thoughtful exploration of how we curate our environments to navigate life's transitions, suggesting that our possessions often map our internal journeys as much as they reflect our tastes.",
+    "summary_zh": "Bill Mize的《我的现在有什么？》是对构成有意义退休的物品的美好沉思。超越典型的科技评测，Mize策划了一个深度个人化的收藏，涵盖实体文物——约翰·肯尼迪·图勒的普利策奖小说《独行者联盟》、经典的《呼叫克苏鲁》桌游套装以及发光的Chessex骰子——以及FocusWriter和Owlbear Rodeo等数字工具，以及Christian Larson的《乐观主义者之 Creed》等看不见的精神锚点。这篇文章揭示了物品随时间积累分层意义的方式，作为记忆、身份和个人演变的锚点。浮现出的不是酷炫小工具的展示，而是对我们如何策划环境来应对生活过渡的深思，表明我们的财产往往像映射我们的内在旅程一样映射我们的品味。",
+    "best_quote_en": "\"I try to read it at least a few times a week, and use it as a counterweight and something to remember as I now make my way back to Christ.\"",
+    "best_quote_zh": "\"我每周至少阅读几次，并将其作为一种抵抗力量，提醒 myself 我现在重返基督的路途上.\""
+  },
+  {
+    "id": 768,
+    "title": "Weekly Review",
+    "title_zh": "每周回顾",
+    "title_en": "Weekly Review",
+    "model_used": "nvidia/nemotron-3-ultra-550b-a55b:free",
+    "translation_model_used": null,
+    "source": "Harper’s Magazine",
+    "link": "https://harpers.org/2026/11/weekly-review-democratic-party-flip-iowa-governor-prada-bank-failure-wiretap-un-candidates-palantir-antiwar-billboard-correctional-facility/",
+    "tags": [
+      "analyze",
+      "politics"
+    ],
+    "tags_zh": [
+      "分析",
+      "政治时事"
+    ],
+    "date": "2026-11-10",
+    "summary_en": "Harper's Weekly Review presents a kaleidoscopic portrait of a world unmoored from conventional logic. The 2026 U.S. midterms delivered a historic Democratic wave—yet the victors include a Prada model governing Iowa, a Dragon Ball Z composer as Texas AG, and a 19-year-old court clerk in Arizona. Democracy's absurdity deepens: coin-flip victories, candidates winning after suspending campaigns or exiting due to convictions. Globally, Paraguay's president tries to resign into immunity after a digital bank collapse freezes three million accounts; an Estonian delivery robot commits hit-and-run; a German far-right leader demands recognition as \"Peter I, head of state\"; Indonesian generals wiretap their own president. The geopolitical theater darkens: the U.S. backs Viktor Orbán for UN Secretary-General while Emirati mercenaries slaughter thousands in Sudan. Palantir's CEO declares his kill-chain-enabling company \"pioneers of a genuine antiwar movement\"—Orwell would blush. Meanwhile, a man pulls a car with his penis dressed as Michael Myers, a police helicopter draws a phallus in the sky, and billboards across three continents flash porn. A Canadian labor board rules that flipping off a building is \"puerile but not worthy of discipline.\" This isn't news curation; it's a diagnostic of civilizational delirium. The satire writes itself, which is precisely the problem.",
+    "summary_zh": "哈珀斯周评像极了一面扭曲的镜子，映照出失去重力的世界。2026中期选举：普拉达模特当爱荷华州长，《龙珠Z》作曲家任德州检察长，19岁大二学生成亚利桑那法院书记员。民主荒诞至极：抛硬币决胜、退选者当选、洗钱犯入议会。全球同此凉热：巴拉圭总统想辞职躲豁免权，数字银行倒闭冻结三百万账户；爱沙尼亚送餐机器人闯红灯撞车逃逸；德国极右头目要求法庭称其\"彼得一世，国家元首\"; 印尼三警监窃听总统。地缘政治更黑色幽默：美国推奥尔班任联合国秘书长，阿联酋雇佣兵在苏丹屠杀六千人。Palantir CEO宣称提供杀伤链软件的公司是\"真正反战运动先锋\"——奥威尔会脸红。其间穿插：男子扮迈克尔·迈尔斯用阴茎拉车，警用直升机航迹画阴茎，三大洲广告牌被黑播黄片，加拿大劳工仲裁庭判竖中指给楼房\"幼稚但不予惩处\"。这不是新闻摘要，是文明谵妄的诊断书。讽刺自我书写，这才是最可怕的。",
+    "best_quote_en": "\"We see ourselves as the pioneers of a genuine and viable antiwar movement,\" wrote the CEO of Palantir, a company that has provided Ukraine with software to inform its battlefield \"kill chain,\" established a \"strategic partnership\" with Israel to support \"war-related missions\" in 2024, and whose technology the U.S. government used to kill at least 123 Iranian children in February.",
+    "best_quote_zh": "\"我们视自己为真正且可行的反战运动的先锋，\"Palantir首席执行官写道，这家公司曾为乌克兰提供软件以指引战场\"杀伤链\"，2024年与以色列建立\"战略伙伴关系\"支持\"战争相关任务\"，其技术被美国政府用于在2月杀死至少123名伊朗儿童。"
+  },
+  {
+    "id": 769,
+    "title": "Darth Vader and Son / White Heat 25",
+    "title_zh": "达斯·维德与儿子 / 白热25",
+    "title_en": "Darth Vader and Son / White Heat 25",
+    "model_used": "nvidia/nemotron-3-nano-omni-30b-a3b-reasoning:free",
+    "translation_model_used": null,
+    "source": "Kevin Kelly",
+    "link": "https://kk.org/cooltools/darth-vader-and-son-white-heat-25/",
+    "tags": [
+      "solve",
+      "design",
+      "music-arts",
+      "beginner-friendly"
+    ],
+    "tags_zh": [
+      "解决",
+      "设计创意",
+      "音乐艺术",
+      "新手友好"
+    ],
+    "date": "2026-11-10",
+    "summary_en": "This analysis examines two distinct yet culturally significant works: Jeffrey Brown's 'Darth Vader and Son' (2012), a playful parenting-themed graphic novel that reimagines Darth Vader as a domestic figure through minimalist comics and illustrations. The book offers accessible humor for children learning to read while providing nostalgic value for adult Star Wars fans. Its educational value lies in fostering visual literacy and narrative comprehension through single-image storytelling. Complementing this is Marco Pierre White's 'White Heat 25' (2015), a provocative culinary artifact that transcends conventional cookbook norms. Through stark black-and-white photography and intense prose, White presents food as art, documenting the grueling, nicotine-fueled reality of high-end kitchen culture. This work challenges readers to reconsider culinary creation as an expressive medium rather than mere instruction. Both books exemplify how niche content can achieve broad cultural resonance by transforming specialized subjects into universally relatable experiences. The Star Wars book serves as both child development tool and adult humor piece, while White's work offers chefs and food enthusiasts a philosophical lens on culinary artistry. Together, they demonstrate the power of recontextualization - taking established icons (Vader, fine dining) and revealing hidden human dimensions through creative framing.",
+    "summary_zh": "这两本看似迥异的著作实则展现了内容重构的艺术魅力：杰弗里·布朗用简约漫画将达斯·维德转化为家庭父亲形象，既促进儿童识字又让成年粉丝会心一笑，通过图像叙事降低阅读门槛。马可·皮尔·怀特的《白热25》则颠覆料理书传统认知，以黑白摄影与尖锐文本将烹饪呈现为艺术表达，揭示高端厨房的疲惫与激情。两者共同证明，当专业领域（星际战警、三星厨艺）被注入生活化视角时，便能产生跨越年龄与身份的普适共鸣。布朗作品通过视觉谐音让孩子自然抓住故事脉络，而怀特则用「可口可乐杯般的速食感」 cookbook 反衬出真正的烹饪是艺术创作。这种重构不仅满足特定兴趣群体需求，更在潜移默化中拓展了读者的认知边界，堪称当代大众文化的智慧典范。",
+    "best_quote_en": "This book isn't so much a story as it is a peek into the hypothetical everyday life of Vader and Luke.",
+    "best_quote_zh": "这本书更像是对达斯·维德与卢克假想日常生活的窥探，而非一个完整的故事。"
+  },
+  {
+    "id": 770,
+    "title": "Overcome Addictions & Obsessions of All Kinds | Dr. Anna Lembke",
+    "title_zh": "克服各种成瘾与沉迷 | Dr. Anna Lembke",
+    "title_en": "Overcome Addictions & Obsessions of All Kinds | Dr. Anna Lembke",
+    "model_used": "nvidia/nemotron-3-nano-omni-30b-a3b-reasoning:free",
+    "translation_model_used": null,
+    "source": "Huberman Lab",
+    "link": "https://www.hubermanlab.com/episode/overcome-addictions-and-obsessions-of-all-kinds-anna-lembke",
+    "tags": [
+      "guide",
+      "psychology",
+      "health-wellness"
+    ],
+    "tags_zh": [
+      "指导",
+      "心理学",
+      "健康养生"
+    ],
+    "date": "2026-11-09",
+    "summary_en": "In this episode, Dr. Anna Lembke, Stanford psychiatrist and addiction specialist, explains how dopamine drives compulsive behaviors and why people become addicted to control. She discusses the neurobiology of surrender, spiritual practices as neural rewiring tools, and practical strategies like prayer, radical surrender, and open curiosity to overcome codependency and modern addictions.",
+    "summary_zh": "Dr. Anna Lembke 解释多巴胺如何驱动成瘾行为，指出人们沉迷于控制，并揭示通过祈祷和精神实践重塑大脑，克服代际依赖与现代成瘾。提供实用策略，如完全投降与开放式好奇，帮助恢复平衡。",
+    "best_quote_en": "Radical surrender is the antidote to the addiction to control.",
+    "best_quote_zh": "完全投降是对控制成瘾的解药。"
+  },
+  {
+    "id": 771,
+    "title": "Tonal Incongruities",
+    "title_zh": "基调的不协调",
+    "title_en": "Tonal Incongruities",
+    "model_used": "nvidia/nemotron-3-ultra-550b-a55b:free",
+    "translation_model_used": null,
+    "source": "Harper’s Magazine",
+    "link": "https://harpers.org/2026/11/tonal-incongruities-lisa-borst-maya-perry-eurovision-israel/",
+    "tags": [
+      "analyze",
+      "politics",
+      "society",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "分析",
+      "政治时事",
+      "社会议题",
+      "未来预测"
+    ],
+    "date": "2026-11-08",
+    "summary_en": "This Harper's Magazine interview with Lisa Borst dissects the Eurovision Song Contest as a site where kitsch, geopolitics, and cultural identity collide. Borst's reporting from the 2026 contest in Vienna reveals how Israel's participation amid the Gaza assault shattered Eurovision's apolitical facade, triggering mass boycotts and withdrawals. The conversation moves fluidly from the contest's absurd musical aesthetics—nonsense lyrics, genre-hopping 'Instagram reel' songs—to profound questions about art's complicity in statecraft. Borst's struggle to calibrate her tone—between irony and earnestness, detachment and moral clarity—mirrors Eurovision's own 'tonal incongruity.' The piece ultimately argues that when political reality becomes blunt enough (as with the NYT's exposure of Israeli vote-buying), aesthetic analysis collapses, leaving only the raw ethics of witness. A compelling meditation on how pop culture becomes a battlefield for national reputation, and what it means to engage with a 'unifying' institution that excludes by design.",
+    "summary_zh": "这篇访谈剖析了欧洲歌唱大赛如何成为廉价美学、地缘政治与民族认同的碰撞场。波斯特在维也纳的采访揭示：以色列在加沙军事行动期间仍参赛，击碎了大赛‘非政治’的假象，引发大规模抵制。对话从荒诞的音乐美学——无意义歌词、像刷短视频般拼贴的曲风——延伸至艺术对国家机器的共谋。波斯特在讽刺与真诚、超脱与道德清醒间的挣扎，折射出大赛本身的‘基调不协调’。当政治现实赤裸到无需解读（如纽约时报曝光以色列买票），美学分析便失效，只剩见证的伦理。这是一篇关于流行文化如何沦为国家声誉战场、以及‘团结’机制如何通过排除来运作的深刻沉思。",
+    "best_quote_en": "The entire Eurovision experience—from watching it to writing about it—was defined by a crazy tonal incongruity and confusion.",
+    "best_quote_zh": "整个欧洲歌唱大赛的体验——从观看到写作——都被一种疯狂的基调不协调和困惑所定义。"
   }
 ]
