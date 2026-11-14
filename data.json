@@ -1,122 +1,5 @@
 [
   {
-    "id": 677,
-    "title": "100 Objects #21: Window from the House of D",
-    "title_zh": "100 件物品 #21：来自女子监狱的窗户",
-    "model_used": "cohere/north-mini-code:free",
-    "source": "99% Invisible",
-    "link": "https://99percentinvisible.org/episode/100-objects-021-window-from-the-house-of-d/",
-    "tags": [
-      "analyze",
-      "ai-research",
-      "case-study"
-    ],
-    "tags_zh": [
-      "分析",
-      "AI研究",
-      "案例研究"
-    ],
-    "date": "2026-10-23",
-    "summary_en": "This episode of '100 Objects' explores the surprising history of a unique window in New York's first women's prison, opened in 1932. Designed as a compassionate feature allowing inmates to open, this window became an unexpected catalyst for LGBTQ+ community building and activism. Through the lens of Roman Mars and historian Hugh Ryan, the narrative reveals how architectural details can shape social movements, transforming a tool of surveillance into a conduit for liberation. The story illustrates how spaces designed for control can be repurposed by marginalized communities, ultimately contributing to the emergence of a vibrant gay mecca in Greenwich Village. This narrative challenges our understanding of how physical environments influence social change and highlights the power of unexpected spaces in fostering community and resistance.",
-    "summary_zh": "《100 件物品》第 21 集讲述了纽约第一座女子监狱中一个独特窗户的惊人历史。这座监狱建于 1932 年，旨在让“任性的”女性安静、隐秘和符合女性气质，而那个窗户原本是一个善意的特殊设计——让里面的女性可以打开。罗马·马斯和历史学家休·瑞安追溯了这些特殊窗户如何产生了无人预料的影响——帮助建立了一个同性恋者聚集地，并最终促成了一场运动。这个故事展示了建筑细节如何塑造社会运动，将一个监视工具转变为解放的渠道。它挑战我们对物理环境如何影响社会变革的理解，并揭示了边缘化社区如何改造那些本用于控制他们的空间。",
-    "best_quote_en": "The window was meant to be a kind of kindness, but it became something much more transformative.",
-    "best_quote_zh": "这个窗户原本是一个善意的举动，但它却成为了某种更具变革性的东西。"
-  },
-  {
-    "id": 678,
-    "title": "10 great East African films",
-    "title_zh": "十部精彩的东非电影",
-    "model_used": "dots-studio/dots-3-note-preview:free",
-    "source": "BFI",
-    "link": "https://www.bfi.org.uk/lists/10-great-east-african-films",
-    "tags": [
-      "analyze",
-      "music-arts",
-      "society",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "分析",
-      "音乐艺术",
-      "社会议题",
-      "未来预测"
-    ],
-    "date": "2026-10-23",
-    "summary_en": "This curated list of ten East African films transcends regional cinema stereotypes, revealing a vibrant, polyvocal film culture marked by political critique, formal experimentation, and transnational influences. From Rwanda’s post-genocide reckoning in Ben’Imana to Sudanese filmmakers’ resilient efforts to reclaim cinematic spaces in Talking About Trees, the selection demonstrates how East African cinema engages with colonial legacies, diasporic identities, and local socio-political tensions. Films like Harvest: 3,000 Years and Tug of War interrogate class struggle and anti-colonial resistance, while Dhalinyaro and Rafiki offer tender, nuanced portrayals of youth, gender, and queer desire. The inclusion of experimental collectives such as Ajabu Ajabu and the Sudanese Film Group underscores a self-reflexive engagement with cinema as both art form and political act. By highlighting diverse geographies—from Réunion to Djibouti, Zanzibar to Kampala—the list challenges the notion of a monolithic African cinema, instead presenting a dynamic, interconnected landscape where global influences (Soviet training, Chinese investment, spaghetti westerns) are reworked through local storytelling traditions. The final entries, including the surreal O River, We Forced You to Chew Up Their Crops and the genre-bending Kibuuka Omumbaale, further expand the boundaries of form and narrative, asserting East African cinema’s capacity for innovation, critique, and cultural restitution.",
-    "summary_zh": "这份东非电影精选不仅打破了对非洲电影的刻板印象，更展现了一个充满政治批判、形式实验与跨文化交融的多元电影生态。从《Ben’Imana》对卢旺达大屠杀后社会和解的深刻反思，到《Talking About Trees》中苏丹影人对影院空间的执着 reclaim，这些作品直面殖民遗产、阶级压迫与身份认同。《Harvest: 3,000 Years》以诗意现实主义追问全球反资本主义革命，《Rafiki》则在审查与禁令中勇敢书写酷儿之爱。影片涵盖从留尼汪到吉布提、桑给巴尔到坎帕拉的地理跨度，揭示了东非电影如何将苏联电影语言、中国资本影响、意大利西部片等全球元素本土化。实验团体如 Ajabu Ajabu 和苏丹电影小组将电影视为政治行动与文化自救的工具，而《O River》更以幽灵纪录片形式追问流离失所中口述传统的存续。这十部作品共同构成一部“非单一”的非洲电影史诗，彰显其创造力、批判性与文化修复力。",
-    "best_quote_en": "The result is a varied and polyvocal output, which evades any attempt to treat East African cinema as a self-contained or singular regional film culture.",
-    "best_quote_zh": "其成果是多样而多声部的输出，任何试图将东非电影视为自足或单一区域电影文化的尝试，皆被其巧妙规避。"
-  },
-  {
-    "id": 679,
-    "title": "“Marvelous Problems” by Artist Emanuela Lekić",
-    "title_zh": "奇妙的问题",
-    "model_used": "nvidia/nemotron-3.5-lightning:free",
-    "source": "BOOOOOOOM",
-    "link": "https://www.booooooom.com/2026/10/23/marvelous-problems-by-artist-emanuela-lekic/",
-    "tags": [
-      "solve",
-      "music-arts"
-    ],
-    "tags_zh": [
-      "解决",
-      "音乐艺术"
-    ],
-    "date": "2026-10-23",
-    "summary_en": "Emanuela Lekić's art explores mathematical precision and organic forms through intricate geometric compositions. Her work blends structured patterns with fluid, natural shapes, creating visual paradoxes that challenge perception. Each piece demonstrates how order and chaos can coexist harmoniously within complex spatial arrangements.",
-    "summary_zh": "埃曼纽拉·莱基奇的艺术通过错综复杂的几何构图，探索数学精确性与有机形式。她的作品将结构化的图案与流动的自然形状相结合，创造出挑战感知的视觉悖论。每件作品都展示了秩序与混乱如何在复杂的空间安排中和谐共存。",
-    "best_quote_en": "Geometry reveals the hidden poetry of structure and chaos.",
-    "best_quote_zh": "几何揭示了结构与混乱的隐藏诗意。"
-  },
-  {
-    "id": 680,
-    "title": "Jess Cartner-Morley on fashion: this season’s vibe is lady who lounges - not lunches",
-    "title_zh": "Jess Cartner-Morley谈时尚：本季的氛围是“休闲女士”——而非“午餐女士”",
-    "model_used": "dots-studio/dots-3-note-preview:free",
-    "source": "Women | The Guardian",
-    "link": "https://www.theguardian.com/fashion/2026/oct/14/jess-cartner-morley-fashion-lady-who-lounges-not-lunches",
-    "tags": [
-      "analyze",
-      "ai-research",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "分析",
-      "AI研究",
-      "未来预测"
-    ],
-    "date": "2026-10-14",
-    "summary_en": "Jess Cartner-Morley’s column reframes the current fashion moment not as a return to traditional ladylike elegance, but as a subversive, self-aware reinterpretation: the ‘lady who lounges.’ She critiques the performative classism of ‘lady who lunches’ aesthetics while embracing the emotional utility of fantasy—boucle jackets, pearls, kitten heels—as emotional armor and daily delight. The trend, anchored in Chanel’s Matthieu Blazy’s deconstructed elegance and Miu Miu’s romantic pragmatism, is less about social status and more about personal narrative: dressing for the life you live, not the one you’re supposed to want. Cartner-Morley advocates for sartorial irony—pairing tweed with wellies, silk with sweatshirts—as a form of stylistic resistance. The insight lies in her refusal to romanticize or dismiss the trend; instead, she positions it as a cultural mirror of modern women’s complex relationship with identity, comfort, and aspiration. It’s fashion as emotional scaffolding, not social costume.",
-    "summary_zh": "Jess Cartner-Morley的专栏并非简单复兴“淑女风”，而是将其重构为一种自我意识的颠覆：‘休闲女士’。她批判‘午餐女士’所代表的阶级表演性，同时拥抱幻想的情感价值——粗花呢、珍珠、小猫跟——作为日常生活的心理慰藉与情绪盔甲。这一趋势根植于Chanel的Matthieu Blazy对优雅的解构与Miu Miu的浪漫实用主义，本质是为真实生活服务，而非迎合社会期待。Cartner-Morley倡导一种讽刺式穿搭：将粗花呢与雨靴、丝绸与卫衣混搭，作为风格上的抵抗。她的深刻之处在于既不美化也不否定这一潮流，而是将其视为现代女性对身份、舒适与渴望之间复杂关系的文化镜像。这是情感支架式的时尚，而非社会角色的戏服。",
-    "best_quote_en": "This is ladylike with its shoes kicked off, and it probably starts with a textured jacket and jeans.",
-    "best_quote_zh": "这是踢掉鞋子的淑女风，大概始于一件有质感的夹克和牛仔裤。"
-  },
-  {
-    "id": 681,
-    "title": "Audio Guide of the Imperfections of a Perfect Masterpiece",
-    "title_zh": "完美杰作的缺陷：高龙骨博物馆的音频导览",
-    "model_used": "poolside/laguna-xs-2.1:free",
-    "source": "99% Invisible",
-    "link": "https://99percentinvisible.org/episode/acu-01-audio-guide-of-the-imperfections-of-a-perfect-masterpiece/",
-    "tags": [
-      "guide",
-      "music-arts",
-      "design",
-      "controversial"
-    ],
-    "tags_zh": [
-      "指导",
-      "音乐艺术",
-      "设计创意",
-      "争议观点"
-    ],
-    "date": "2026-10-21",
-    "summary_en": "This article from 99% Invisible explores the fascinating paradox of the Guggenheim Museum - a masterpiece of organic architecture by Frank Lloyd Wright that UNESCO recognized as a World Heritage site. The narrative reveals how imperfection is integral to the building's identity: the uneven parapet texture, created through daily touch-ups, embodies Wright's philosophy that buildings should evolve like living organisms. The piece illuminates the collaborative reality behind Wright's singular vision - local architect William Short and contractor George Cohen had to adapt impossible concepts using innovative gunite technology. Most compelling is how the museum's design continuously redefines user experience: from Wright's original vision of staff working in 'The Monitor' (now a public gallery), to the innovative angled picture bays, to the controversial top-floor space that was once forbidden storage. The article celebrates how architectural perfection emerges not from rigid adherence to plans, but from embracing constraints, evolution, and the beautiful imperfections that make structures truly alive. It's a meditation on how great design balances idealism with pragmatism.",
-    "summary_zh": "这篇文章揭示了高龙骨博物馆的迷人矛盾：Frank Lloyd Wright的有机建筑杰作，被UNESCO列为世界遗产。 fascinatingly, the building's 'imperfections' - the daily-touch-up parapet texture, the collaborative adaptations, the evolving spaces - are what make it truly alive. It reveals how architectural perfection emerges from embracing constraints, evolution, and the beautiful imperfections that make structures truly organic rather than static. A meditation on how great design balances idealism with pragmatism.",
-    "best_quote_en": "Even though this building is composed of pure forms like circles and spirals, the top of the parapet isn't perfectly rounded or finished with a crisp right angle. It's bumpy and uneven. The reason why the parapet is kind of lumpy is that the paint is touched up every day when the museum is not open. It's touched up here and there, and for that reason, everything kind of has a texture. You have an effect on this building. By being here and touching the railing, you've changed it. Its changing texture is part of its evolution as an organic structure.",
-    "best_quote_zh": "尽管这个建筑由纯净的形状如圆形和螺旋构成，天台的顶部并不圆润或用干净的直角完成。它有点凹凸不平。天台之所以略显凌乱，是因为每天开闭之间都要修漆。因为随处修补，所有东西都有了质感。你对这个建筑产生了影响。当你在这里摸索扶手时，你已经改变了它。它的Changing texture是其作为有机结构演变的一部分。"
-  },
-  {
     "id": 682,
     "title": "Having Kids",
     "title_zh": " Having Kids",
@@ -2380,5 +2263,126 @@
     "summary_zh": "第三季虽视觉盛宴仍困于叙事混沌：宏大的第二纪史诗因篇幅过大、节奏断裂而稀释角色深度，虽改善早期叙事缺陷且 Gandalf、Galadriel等角色获得更多聚焦，但政治线索（如努门or政治）拖累节奏，多条主线缺乏连贯动力。尽管 Vickers、Clark等演员有亮点，但庞大阵容导致优秀演员发挥受限，整体感觉像是「用爱建世界却无力说清核心」的矛盾状态，终究未能实现叙事自信与宏大愿景的平衡。",
     "best_quote_en": "The Rings of Power has always excelled at depicting the scope and majesty of Tolkien's world, and it continues to do so here.",
     "best_quote_zh": "《指环王：权力的再造》始终擅长展现托尔金世界的辽阔与壮丽，第三季亦是如此。"
+  },
+  {
+    "id": 777,
+    "title": "100 Objects #24: White House Solar Panels",
+    "title_zh": "100件物品 #24：白宫太阳能板",
+    "title_en": "100 Objects #24: White House Solar Panels",
+    "model_used": "dots-studio/dots-3-note-preview:free",
+    "translation_model_used": null,
+    "source": "99% Invisible",
+    "link": "https://99percentinvisible.org/episode/100-objects-024-white-house-solar-panels/",
+    "tags": [
+      "analyze",
+      "ai-research",
+      "case-study"
+    ],
+    "tags_zh": [
+      "分析",
+      "AI研究",
+      "案例研究"
+    ],
+    "date": "2026-11-13",
+    "summary_en": "This episode of 99% Invisible’s 'A History of the United States in 100 Objects' revisits a pivotal moment in 1979 when President Jimmy Carter installed solar panels on the White House roof—a symbolic act of faith in renewable energy. Bill McKibben, a leading environmental voice, guides Roman Mars through the political and cultural currents that allowed this forward-looking gesture to be eclipsed by fossil fuel dominance. The panels, once a beacon of innovation, became relics of a path not taken. McKibben’s narrative reveals how national identity, economic priorities, and political will shaped America’s energy trajectory, turning a hopeful experiment into a cautionary tale. The episode is not just about technology, but about the power of symbolism in policy and the cost of short-term thinking. It invites reflection on how today’s climate choices may be judged by future generations.",
+    "summary_zh": "1979年，卡特总统在白宫屋顶安装太阳能板，象征对清洁能源的信念。然而，这一前瞻之举最终沦为‘未走之路’的纪念碑。比尔·麦克基本在节目中揭示，美国能源政策的转向并非技术失败，而是政治意志与文化偏好的产物。太阳能板从希望的象征变为历史的注脚，折射出国家在短期利益与长期可持续之间的抉择困境。这不仅是技术史，更是关于象征力量与集体选择的深刻寓言——今日的气候决策，终将接受未来的审判。",
+    "best_quote_en": "They would become all but the last of those things… but why?",
+    "best_quote_zh": "它们几乎成了除最后一种之外的所有东西……但为什么？"
+  },
+  {
+    "id": 778,
+    "title": "A world with no strangers: Sebastián Lelio remembered by screenwriter Gonzalo Maza",
+    "title_zh": "无陌生人之世界：塞巴斯蒂安·利奥被编剧古斯兰托·马萨铭记",
+    "title_en": "A world with no strangers: Sebastián Lelio remembered by screenwriter Gonzalo Maza",
+    "model_used": "nvidia/nemotron-3-nano-omni-30b-a3b-reasoning:free",
+    "translation_model_used": null,
+    "source": "BFI",
+    "link": "https://www.bfi.org.uk/sight-and-sound/features/world-with-no-strangers-sebastian-lelio-remembered-screenwriter-gonzalo-maza",
+    "tags": [
+      "inspire",
+      "music-arts"
+    ],
+    "tags_zh": [
+      "启发",
+      "音乐艺术"
+    ],
+    "date": "2026-11-13",
+    "summary_en": "Screenwriter Gonzalo Maza pays tribute to the late Chilean director Sebastián Lelio, recalling their decade-long collaboration since 2005. Maza reflects on Lelio's artistic generosity, humility, and unique approach to filmmaking, where scripts served as maps rather than rigid rules. Their partnership birthed four films, including Gloria and A Fantastic Woman, characterized by deep empathy and rule-bound creativity. Maza describes Lelio as a charming, intelligent, and self-aware artist who treated cinema as a live, mysterious game of human connection, leaving a legacy of universal empathy.",
+    "summary_zh": "编剧古斯兰托·马萨回忆与已故智利导演塞巴斯蒂安·利奥十年的合作。他们从2005年开始，共创作了《圣诞夜》至《完美女人》等四部影片。利奥以谦逊、慈爱的艺术家身份著称，他视剧本为地图，而非固定规则，强调电影是摄像机前的即兴奥秘。他教会马萨，电影是发现人性的旅程，建立普遍同理心，让无陌生人。",
+    "best_quote_en": "Screenplays are the map, but filming is the territory.",
+    "best_quote_zh": "剧本是地图，而拍摄是领地。"
+  },
+  {
+    "id": 779,
+    "title": "Artist Spotlight: Tomi Pomo",
+    "title_zh": "艺术家聚焦：Tomi Pomo",
+    "title_en": "Artist Spotlight: Tomi Pomo",
+    "model_used": "nvidia/nemotron-3-ultra-550b-a55b:free",
+    "translation_model_used": null,
+    "source": "BOOOOOOOM",
+    "link": "https://www.booooooom.com/2026/11/12/artist-spotlight-tomi-pomo/",
+    "tags": [
+      "analyze",
+      "design"
+    ],
+    "tags_zh": [
+      "分析",
+      "设计创意"
+    ],
+    "date": "2026-11-12",
+    "summary_en": "This Booooooom feature presents a visual portfolio of Tomi Pomo's work without accompanying text, interview, or critical context. The six images reveal a photographer with a distinct eye for composition, light, and the quiet poetry of everyday moments. Pomo's aesthetic leans toward muted palettes, geometric framing, and a contemplative stillness that recalls both New Topographics and contemporary Japanese photography. There's a deliberate absence of spectacle — no dramatic landscapes, no decisive moments in the Cartier-Bresson sense. Instead, we find power lines against pale skies, architectural fragments, solitary figures in vast negative space. The work invites slow looking. What's compelling is what's withheld: no artist statement, no biography, no curatorial framing. This forces the viewer into direct visual engagement, but also raises questions about platform responsibility. Booooooom's 'Artist Spotlight' format here functions more as image dump than spotlight. Without context, we cannot trace influences, understand process, or situate Pomo within contemporary discourse. The images are strong enough to stand alone, yet they deserve the scaffolding that transforms documentation into insight. A missed opportunity for both artist and audience.",
+    "summary_zh": "Booooooom 以纯图像形式呈现 Tomi Pomo 作品，六张照片展现其对构图、光线与日常诗意的敏锐捕捉。风格偏向柔和色调、几何构图与沉静感，兼具 New Topographics 与日本当代摄影气质。无壮观景观，无决定性瞬间，唯有电线、建筑碎片、留白中的孤影——引人慢看。然而全文缺失艺术家声明、生平、策展语境，迫使观众直面影像却也切断深度理解路径。'Artist Spotlight' 此处沦为图片堆砌而非聚光。影像虽强，却值得将记录转化为洞见的脚手架。对艺术家与观众皆是遗憾。",
+    "best_quote_en": "The images are strong enough to stand alone, yet they deserve the scaffolding that transforms documentation into insight.",
+    "best_quote_zh": "影像虽强，却值得将记录转化为洞见的脚手架。"
+  },
+  {
+    "id": 780,
+    "title": "Tradwifery may be in retreat but the damage these influencers wrought is here to stay | Van Badham",
+    "title_zh": "传统妻子潮流或许正在退潮，但这些网红造成的伤害将长久存在 | 范·巴德姆",
+    "title_en": "Tradwifery may be in retreat but the damage these influencers wrought is here to stay | Van Badham",
+    "model_used": "inclusionai/ling-3.2-flash:free",
+    "translation_model_used": null,
+    "source": "Women | The Guardian",
+    "link": "https://www.theguardian.com/commentisfree/2026/nov/12/tradwife-influencers-in-retreat-lasting-damage-feminism",
+    "tags": [
+      "analyze",
+      "society",
+      "controversial"
+    ],
+    "tags_zh": [
+      "分析",
+      "社会议题",
+      "争议观点"
+    ],
+    "date": "2026-11-11",
+    "summary_en": "This analysis examines the 'de-tradding' phenomenon where influencers abandon tradwife aesthetics, revealing the movement's deep entanglement with far-right politics and commercial exploitation. Badham navigates a fraught tension: genuine solidarity with women escaping coercive religious communities versus skepticism toward influencers who profited from submissive imagery while claiming feminist credentials. The core insight is that aesthetics carry ideological weight; replicating tradwife visuals amplified white supremacist symbolism regardless of individual intent. The piece exposes how 'pronatalism' and domestic performance became vehicles for political radicalization, then discarded when association with Trump's fracturing movement threatened brand viability. Ultimately, the damage persists because these influencers normalized regressive gender roles under the guise of lifestyle content, leaving audiences to grapple with cultural fallout that commercial rebranding cannot erase.",
+    "summary_zh": "本文剖析了'去传统化'现象——网红们抛弃传统妻子美学，揭示该运动与极右翼政治及商业剥削的深度纠缠。巴德姆在复杂张力中游走：对逃离胁迫性宗教社区的女性表达真诚团结，却质疑那些从顺从形象中获利却自称女权主义的网红。核心洞见在于美学承载意识形态重量；复制传统妻子视觉符号无论个人意图如何，都放大了白人至上主义象征。文章揭露'生育主义'与家庭表演如何成为政治激进化工具，随后因特朗普运动破碎威胁品牌生存而被抛弃。最终伤害持续存在，因为这些网红在生活方式内容幌子下将倒退性别角色正常化，留下商业重塑无法抹去的文化余波。",
+    "best_quote_en": "Not everyone calling themselves a tradwife is a white supremacist, but everyone who has replicated the instantly recognisable aesthetics of its performance in this moment has helped amplify its symbolic language.",
+    "best_quote_zh": "并非每个自称传统妻子的人都是白人至上主义者，但每个在此刻复制其表演中 instantly recognizable 美学的人，都帮助放大了其象征语言。"
+  },
+  {
+    "id": 781,
+    "title": "Perfectly Leveraged for the Squat",
+    "title_zh": "完美发挥深蹲优势",
+    "title_en": "Perfectly Leveraged for the Squat",
+    "model_used": "dots-studio/dots-3-note-preview:free",
+    "translation_model_used": null,
+    "source": "99% Invisible",
+    "link": "https://99percentinvisible.org/episode/691-perfectly-leveraged-for-the-squat/",
+    "tags": [
+      "solve",
+      "ai-research",
+      "case-study"
+    ],
+    "tags_zh": [
+      "解决",
+      "AI研究",
+      "案例研究"
+    ],
+    "date": "2026-11-10",
+    "summary_en": "This compelling narrative chronicles Jan Todd’s groundbreaking journey as a pioneer in women’s powerlifting, focusing on her historic 1979 lift of the legendary Dinnie Stones—700-pound granite boulders that had resisted all female attempts for over a century. Beyond the physical feat, the piece reveals how Todd challenged deeply ingrained societal myths about women and strength, transforming herself from an perceived outlier into a foundational figure who literally wrote the rulebooks and organized the first competitions for women in powerlifting. The story serves as a powerful lens through which to examine the intersection of gender, physical capability, and historical erasure, illustrating how individual courage can dismantle systemic biases and pave the way for collective empowerment. It is not merely a sports anecdote but a profound cultural commentary on how strength has been historically gendered and how one woman’s defiance reshaped the landscape of athletic possibility for generations.",
+    "summary_zh": "这篇引人入胜的叙述记录了扬·托德（Jan Todd）作为女子力量举先驱的开创性旅程，重点讲述了她在1979年举起传奇的“丁尼石”（Dinnie Stones）的历史性时刻——这两块重达700磅的花岗岩巨石，一个世纪以来几乎无人能举起，更不用说女性了。然而，这不仅仅是关于一次身体上的壮举，更是对深植于社会中的性别刻板印象的挑战。托德不仅在力量上突破了极限，更在制度上填补了空白：她亲自撰写规则、组织比赛，为女子力量举奠定了基础。这个故事深刻揭示了“女性不应强壮”这一观念的历史根源，并展现了个人勇气如何颠覆系统性偏见，为后来者开辟了全新的可能性。它不仅是一个体育传奇，更是一次关于性别、力量与历史记忆的文化反思。",
+    "best_quote_en": "She’d hold the record as the only woman to lift them for the next 39 years.",
+    "best_quote_zh": "她将保持这一纪录，成为未来39年内唯一一位举起这些石头的女性。"
   }
 ]
