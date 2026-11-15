@@ -1,122 +1,5 @@
 [
   {
-    "id": 682,
-    "title": "Having Kids",
-    "title_zh": " Having Kids",
-    "model_used": "cohere/north-mini-code:free",
-    "source": "Paul Graham",
-    "link": "http://www.paulgraham.com/kids.html",
-    "tags": [
-      "solve",
-      "general",
-      "case-study"
-    ],
-    "tags_zh": [
-      "解决",
-      "general",
-      "案例研究"
-    ],
-    "date": "2026-10-25",
-    "summary_en": "This introspective essay captures the author's transformation from fearing parenthood to embracing it, revealing profound psychological and neurological shifts. The author initially viewed parents as \"uncool\" and children as disruptive, shaped by biased observations during uncomfortable encounters like airplane trips. After having children, he experiences an instant chemical change, feeling protective toward all children and discovering unexpected joy in mundane moments. The essay balances the reality of reduced productivity and altered ambition with the authentic happiness found in simple shared experiences. Through reflections on his mother's love and children's evolving role as friends, the author demonstrates how parenthood reshapes priorities, creates new peace, and demands working within children's schedules. This candid exploration reveals that while children bring challenges and less personal freedom, they provide deeper, more frequent moments of genuine happiness that outweigh pre-parental concerns about ambition and independence.",
-    "summary_zh": "这篇文章讲述了一个从恐惧生育到热爱 parenthood 的转变故事。作者最初认为父母是无趣的，孩子们是麻烦的，但有了孩子后，他经历了化学变化，开始保护所有孩子，发现了生活中简单幸福的时刻。他意识到自己之前对父母和孩子的观察存在选择性偏见，只注意到负面情况。通过回忆和与孩子的互动，他逐渐理解了父母之爱的真谛，意识到孩子们不仅是生命，更是朋友。这种转变改变了他的人生观，让他找到了更深层次的幸福与意义。",
-    "best_quote_en": "What changed, of course, is that I had kids. Something I dreaded turned out to be wonderful.",
-    "best_quote_zh": "当然，改变的是我有了孩子。我曾经惧怕的事情最终变成了美妙的体验。"
-  },
-  {
-    "id": 683,
-    "title": "The Tim Ferriss Show Transcripts: Q&A with Tim — The 4-Hour Workweek in a World of AI, Rebuilding Personal Agency, The 4-Hour Body After 40, and More (#887)",
-    "title_zh": "蒂姆·费里斯秀播客文字稿：问答环节——AI时代下的《每周工作4小时》、重建个人自主权、40岁后的《4小时身体》等（#887）",
-    "model_used": "dots-studio/dots-3-note-preview:free",
-    "source": "Tim Ferriss",
-    "link": "https://tim.blog/2026/10/21/qa-with-tim-ai-4-hour-workweek-transcript/",
-    "tags": [
-      "learn",
-      "writing-content",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "学习",
-      "写作内容",
-      "未来预测"
-    ],
-    "date": "2026-10-21",
-    "summary_en": "In this subscriber Q&A, Tim Ferriss revisits his seminal work *The 4-Hour Workweek* through the lens of AI and agentic automation, arguing that the foundational principles of Definition and Elimination (the first two steps of his DEAL framework) are more critical than ever. He warns that AI, as an accelerant, will simply multiply the scale of whatever one is already doing—whether meaningful or trivial—unless one first rigorously identifies the 'critical few' tasks. Ferriss challenges the utopian narrative that AI will grant infinite leisure, asserting instead that without clear boundaries and prioritization, it will exacerbate stress and digital overwhelm. He also reflects on the temporal context of his past advice, noting how life stages (e.g., becoming a parent or entering retirement) necessitate re-evaluating older frameworks. Additionally, he shares practical, low-cost fitness routines—such as *The Happy Body* and Gymnastic Strength Training (GST)—that remain highly effective for maintaining physical health past age 40, emphasizing minimal equipment and high leverage.",
-    "summary_zh": "在这期粉丝问答中，蒂姆·费里斯（Tim Ferriss）结合AI与智能体自动化的背景，重新审视了其经典著作《每周工作4小时》。他指出，在DEAL框架中，前两个步骤——明确目标（Definition）与精简 Elimination（Elimination）——在AI时代比以往任何时候都更加关键。费里斯警告称，AI作为一种“加速器”，只会无差别地放大人们正在做的事情；如果不在前期识别出那些能产生巨大影响的“极少数关键事务”，AI反而会放大琐碎与无意义的工作，导致更深的数字焦虑与压力。他驳斥了“AI将带来无限闲暇”的虚假承诺，强调技术从未兑现此类诺言。此外，费里斯结合自身从29岁到49岁的生命历程，提醒读者应根据所处的人生阶段（如成家、退休等）动态调整对既有知识的理解。最后，他分享了适合40岁以上人群、仅需极低成本与少量器械（如瑜伽垫、哑铃）的高效身体训练法（如《快乐身体》与体操力量训练），展现了其一贯倡导的“高杠杆、低资源”生活哲学。",
-    "best_quote_en": "AI and so on simply multiplies the useless. It multiplies the unimportant, the trivial, the distracting. And you can end up then trying to automate all of those things.",
-    "best_quote_zh": "AI等技术只是在放大无用之物——那些不重要、琐碎且令人分心的事情。最终，你可能会试图去自动化这些毫无价值的事务。"
-  },
-  {
-    "id": 684,
-    "title": "实习生也能月薪10万了",
-    "title_zh": "实习生也能月薪10万了",
-    "model_used": "xingchen-agi/xing4.0-29b-a4b:free",
-    "source": "虎嗅",
-    "link": "https://www.huxiu.com/article/4900267.html?f=rss",
-    "tags": [
-      "solve",
-      "ai-research",
-      "tech-trends",
-      "case-study"
-    ],
-    "tags_zh": [
-      "解决",
-      "AI研究",
-      "技术趋势",
-      "案例研究"
-    ],
-    "date": "2026-10-25",
-    "summary_en": "With the surge of capital inflows into embodied intelligence, companies are fiercely competing for talent. Even interns now earn monthly salaries close to full-time algorithm engineers. The shortage is stark: new job postings have grown 6-7 times YoY, while talent supply lags far behind. Head companies are offering tens of millions in annual salaries to attract top scientists, and some startups are paying interns full salaries at nearly 100,000 yuan per month. However, this intense competition may lead to industry divergence, with those who focus only on hiring rather than technical excellence being left behind.",
-    "summary_zh": "具身智能赛道融资井喷，企业抢人激烈，连实习生月薪已达10万元。人才缺口巨大，供需比严重失衡。头部公司争抢首席科学家年薪达数亿元，初创企业也开出高薪。但资本扎堆涌入可能埋下隐患，行业分化不可避免，真正沉下心做技术的人才能留下来。",
-    "best_quote_en": "The tide will go where it will, but not everyone can stay on deck.",
-    "best_quote_zh": "潮水会往哪边退，没人知道，但可以确定的是，当分化来临后，不是每一个人都能留在甲板上。"
-  },
-  {
-    "id": 685,
-    "title": "送外卖12年，头部重伤后，一个58岁骑手维权“找不到用人单位”",
-    "title_zh": "送外卖12年，头部重伤后，一个58岁骑手维权“找不到用人单位”",
-    "model_used": "dots-studio/dots-3-note-preview:free",
-    "source": "三联生活周刊",
-    "link": "http://weixin.sogou.com/weixin?type=2&query=%E4%B8%89%E8%81%94%E7%94%9F%E6%B4%BB%E5%91%A8%E5%88%8A+%E9%80%81%E5%A4%96%E5%8D%9612%E5%B9%B4%EF%BC%8C%E5%A4%B4%E9%83%A8%E9%87%8D%E4%BC%A4%E5%90%8E%EF%BC%8C%E4%B8%80%E4%B8%AA58%E5%B2%81%E9%AA%91%E6%89%8B%E7%BB%B4%E6%9D%83%E2%80%9C%E6%89%BE%E4%B8%8D%E5%88%B0%E7%94%A8%E4%BA%BA%E5%8D%95%E4%BD%8D%E2%80%9D",
-    "tags": [
-      "analyze",
-      "science",
-      "controversial"
-    ],
-    "tags_zh": [
-      "分析",
-      "科学研究",
-      "争议观点"
-    ],
-    "date": "2026-10-24",
-    "summary_en": "This investigative report exposes the systemic fragmentation of labor relations in China's gig economy through the tragic case of Wang Fumin, a 58-year-old KFC delivery rider with 12 years of service. After sustaining severe head injuries in a traffic accident while on duty, Wang discovered he could not identify his legal employer to claim work-related injury compensation. The article reveals how corporate supply chains deliberately divide employment responsibilities among brand owners, delivery platforms, station operators, and payroll companies, creating a labyrinthine structure that shields corporations from liability while leaving vulnerable workers without legal recourse. The narrative masterfully illustrates the human cost of algorithmic management and outsourced labor models, highlighting how the gig economy's promise of flexibility masks profound precarity and institutional abandonment of aging workers.",
-    "summary_zh": "这篇深度报道通过58岁肯德基骑手王福民的悲剧遭遇，揭示了中国零工经济中劳动关系碎片化的系统性问题。在送餐12年后遭遇车祸重伤的王福民，发现自己竟然无法找到一家可以为他负责的用人单位来申请工伤赔偿。文章深刻揭示了品牌方、配送平台、站点运营商和发薪公司如何通过复杂的用工链条切割，将劳动关系碎片化，使企业在日常管理中精密运转，却在劳动者受伤需要追责时互相推诿。这不仅是个人悲剧，更是算法管理和外包用工模式下，老龄化劳动者面临制度性抛弃的缩影，暴露了零工经济灵活性背后深重的制度性脆弱与保障缺失。",
-    "best_quote_en": "Every day, this system operates with exquisite precision; but when workers get injured and need accountability, many cannot figure out who they actually work for, or who they should turn to for protection.",
-    "best_quote_zh": "平日里，这套体系精细而严密地运转；但当劳动者受伤、需要追究责任时，很多人却难以说清自己究竟为谁工作，又该向谁寻求保障。"
-  },
-  {
-    "id": 686,
-    "title": "The Lesson to Unlearn",
-    "title_zh": "不可却除的课题",
-    "model_used": "poolside/laguna-xs-2.1:free",
-    "source": "Paul Graham",
-    "link": "http://www.paulgraham.com/lesson.html",
-    "tags": [
-      "inspire",
-      "education",
-      "case-study"
-    ],
-    "tags_zh": [
-      "启发",
-      "教育学习",
-      "案例研究"
-    ],
-    "date": "2026-10-25",
-    "summary_en": "This profound essay challenges the fundamental flaws in educational systems worldwide by exposing how the pursuit of grades has corrupted genuine learning. The author argues that traditional assessment methods are 'hackable' - designed more for measurement than actual comprehension, creating a perverse incentive structure where students optimize for grades rather than knowledge acquisition. Drawing from personal experience and observations from Y Combinator, the piece extends this critique to college admissions and venture capital, revealing a systemic pattern where artificial metrics replace authentic achievement. The core insight is that when tests don't measure what they claim to measure, they train individuals to game systems rather than create genuine value. The author advocates for a radical shift toward meaningful assessment that rewards actual capability, suggesting this transformation could liberate human potential and create more authentic educational and entrepreneurial ecosystems.",
-    "summary_zh": "这篇深刻的随笔揭示了教育体系根本性缺陷，批判了学习被等级化如何腐蚀真正的知识获取。作者指出，传统评估方法是'可被篡改'的——它们为衡量而设计，却非真正的理解。从个人经历到Y Combinator的观察，文章将批判拓展至大学录取和风险投资，揭示了人们为虚假指标而优化，而非创造真实价值的系统性模式。这激发我们对教育改革的思考：当测试不衡量其声称的东西时，如何才能真正培养人的才智？",
-    "best_quote_en": "The most damaging thing you learned in school wasn't something you learned in any specific class. It was learning to get good grades.",
-    "best_quote_zh": "在学校里学到的最有害的东西并不是你在任何具体的课堂上学到的东西。而是学会拿好成绩。"
-  },
-  {
     "id": 687,
     "title": "Malaria Parasite Caught in the Act of Breaking and Entering",
     "title_zh": "疟原虫被抓现行，揭秘其入侵过程",
@@ -2384,5 +2267,136 @@
     "summary_zh": "这篇引人入胜的叙述记录了扬·托德（Jan Todd）作为女子力量举先驱的开创性旅程，重点讲述了她在1979年举起传奇的“丁尼石”（Dinnie Stones）的历史性时刻——这两块重达700磅的花岗岩巨石，一个世纪以来几乎无人能举起，更不用说女性了。然而，这不仅仅是关于一次身体上的壮举，更是对深植于社会中的性别刻板印象的挑战。托德不仅在力量上突破了极限，更在制度上填补了空白：她亲自撰写规则、组织比赛，为女子力量举奠定了基础。这个故事深刻揭示了“女性不应强壮”这一观念的历史根源，并展现了个人勇气如何颠覆系统性偏见，为后来者开辟了全新的可能性。它不仅是一个体育传奇，更是一次关于性别、力量与历史记忆的文化反思。",
     "best_quote_en": "She’d hold the record as the only woman to lift them for the next 39 years.",
     "best_quote_zh": "她将保持这一纪录，成为未来39年内唯一一位举起这些石头的女性。"
+  },
+  {
+    "id": 782,
+    "title": "How to Make Pittsburgh a Startup Hub",
+    "title_zh": "如何将匹兹堡打造成创业中心",
+    "title_en": "How to Make Pittsburgh a Startup Hub",
+    "model_used": "particle-ai/particle-1:free",
+    "translation_model_used": null,
+    "source": "Paul Graham",
+    "link": "http://www.paulgraham.com/pgh.html",
+    "tags": [
+      "solve",
+      "startup-strategy",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "解决",
+      "创业策略",
+      "未来预测"
+    ],
+    "date": "2026-11-15",
+    "summary_en": "In this talk, Paul Graham explores how Pittsburgh can become a startup hub like Silicon Valley. He highlights Pittsburgh's strengths: a growing young population, affordable housing, historic buildings, walkable neighborhoods, and a top research university (CMU). He advises encouraging local restaurants, preserving old buildings, promoting tolerance, and making CMU the best. While investors are lacking, trends like cheaper startups and programs like Y Combinator reduce the need. The path is to be more itself, which gives Pittsburgh a good chance of success.",
+    "summary_zh": "在本次演讲中，Paul Graham探讨了如何将匹兹堡打造成像硅谷一样的创业中心。他强调了匹兹堡的优势：年轻人口增长、负担得起的住房、历史建筑、适合步行的社区和顶尖研究型大学（CMU）。他建议鼓励本地餐馆、保护老建筑、促进宽容，并使CMU成为最好的大学。尽管缺乏投资者，但创业成本降低和Y Combinator等项目减少了对外部资金的需求。匹兹堡的成功之路就是更加成为自己，这使其有很好的成功机会。",
+    "best_quote_en": "If Pittsburgh's path to becoming a startup hub is to be even more itself, then it has a good chance of succeeding.",
+    "best_quote_zh": "如果匹兹堡成为创业中心的道路是更加成为自己，那么它就有很好的成功机会。"
+  },
+  {
+    "id": 783,
+    "title": "The Tim Ferriss Show Transcripts: Q&A with Tim — How to Get Unstuck, Resilience in Hard Times, Tools for Brain Health, Finding Inner Peace, Optimism as a Learnable Skill, and More (#889)",
+    "title_zh": "蒂姆·费里斯秀转录：与蒂姆的问答——如何摆脱困境、逆境中的韧性、大脑健康工具、寻找内心平静、乐观作为一项可学习的技能，以及更多（#889）",
+    "title_en": "The Tim Ferriss Show Transcripts: Q&A with Tim — How to Get Unstuck, Resilience in Hard Times, Tools for Brain Health, Finding Inner Peace, Optimism as a Learnable Skill, and More (#889)",
+    "model_used": "nvidia/nemotron-3.5-super-vl:free",
+    "translation_model_used": null,
+    "source": "Tim Ferriss",
+    "link": "https://tim.blog/2026/11/12/qa-with-tim-how-to-get-unstuck-transcript/",
+    "tags": [
+      "solve",
+      "medicine",
+      "writing-content",
+      "beginner-friendly"
+    ],
+    "tags_zh": [
+      "解决",
+      "医学健康",
+      "写作内容",
+      "新手友好"
+    ],
+    "date": "2026-11-13",
+    "summary_en": "This subscriber Q&A transcript captures Tim Ferriss at his most vulnerable and practical, addressing listener questions on Alzheimer's prevention, emotional resilience, and psychological stuckness. What makes this episode compelling is Ferriss's intellectual honesty—he openly admits we remain in the 'Dark Ages' regarding neurodegenerative disease treatment, rejecting the biohacking certainty that often characterizes his work. His recommended interventions—sauna, Norwegian 4×4 interval training, Urolithin A, lithium orotate—reflect his signature 'kitchen sink' approach to APOE3/4 genetic risk, yet he consistently caveats that nothing is proven. The psychological segment is equally insightful: he references Internal Family Systems, CBT's Stoic roots, and psychedelics as tools for observing one's own mental patterns from a distance. The episode concludes with a characteristically human reminder to be kinder to oneself and a recommendation of Anthony de Mello's 'Awareness.' This is less a tutorial than a curated glimpse into one thinker's evolving personal operating system.",
+    "summary_zh": "这期订阅者问答转录展现了费里斯最脆弱且务实的一面，他回答了关于阿尔茨海默症预防、情绪韧性和心理卡顿的问题。最引人入胜的是他的智识诚实：他坦言在神经退行性疾病治疗方面我们仍处于“黑暗时代”，拒绝了生物黑客文化中常见的确定性。他推荐的干预措施——桑拿、挪威4×4间歇训练、尿石素A、锂orotate——体现了他针对APOE3/4基因风险的“厨房水槽”式方法，但他始终强调没有任何东西被证实。心理学部分同样深刻，他提及内部家庭系统、CBT的斯多葛根源以及迷幻剂作为从旁观者角度观察自身心理模式的工具。节目以他一贯的人性化提醒结束：对自己更宽容，并推荐安东尼·德·梅洛的《觉察》。这更像是一位思想家个人操作系统的精选窥视，而非教程。",
+    "best_quote_en": "We are in the Dark Ages still with Alzheimer's and many neurodegenerative diseases... prevention is the name of the game.",
+    "best_quote_zh": "在阿尔茨海默症和许多神经退行性疾病方面，我们仍处于黑暗时代……预防才是关键。"
+  },
+  {
+    "id": 784,
+    "title": "外国游客涌入深圳看“赛博之城”，当导游的年轻人日入上千",
+    "title_zh": "外国游客涌入深圳看“赛博之城”，当导游的年轻人日入上千",
+    "title_en": "Foreign tourists flood into Shenzhen to see 'Cyber City', young guides earn thousands per day",
+    "model_used": "nvidia/nemotron-3-nano-omni-30b-a3b-reasoning:free",
+    "translation_model_used": null,
+    "source": "虎嗅",
+    "link": "https://www.huxiu.com/article/4905711.html?f=rss",
+    "tags": [
+      "learn",
+      "leadership",
+      "startup-strategy",
+      "case-study"
+    ],
+    "tags_zh": [
+      "学习",
+      "领导管理",
+      "创业策略",
+      "案例研究"
+    ],
+    "date": "2026-11-15",
+    "summary_en": "This article reveals the booming demand for foreign language tour guides in Shenzhen, where young professionals earn substantial incomes guiding international visitors through the city's futuristic attractions like drone deliveries and AI showcases. The narrative highlights how Shenzhen's visa facilitation policies and its identity as a 'city living in the future' attract global tourists, particularly from Europe and the Americas, shifting from traditional sightseeing to tech-focused experiences. Interviews with guides Tia and Loria illustrate the profession's evolution from a niche role to a high-earning opportunity, with daily incomes exceeding 1,000 yuan through base pay, tips, and bonuses. The piece also examines changing tourist expectations, including requests for personalized tech tours and concerns about AI-generated content, while noting improvements in Shenzhen's infrastructure like bilingual services. Ultimately, these guides serve as cultural interpreters who help reshape global perceptions of Shenzhen while experiencing the city's transformation through visitors' eyes.",
+    "summary_zh": "这篇报道揭示了深圳外语导游行业的繁荣：随着便利政策和城市科技魅力提升，年轻导游日收入超1000元，从兼职起步走向职业发展。游客从传统印象转向追求'赛博之城'体验，如无人机外卖、AI展览等高科技行程，导游需灵活应对个性化需求。文章通过导游Tia和资深导游Vivian的采访，展现外语导游作为文化桥梁的独特价值——他们让世界看到真实的深圳，也让自身对城市有了新认知。尽管面临AI虚假内容等挑战，但深圳便捷高效的服务正在重塑全球游客认知，证明本地便利对国际游客具有超越时空的价值。",
+    "best_quote_en": "Foreign tourists' imagination of Shenzhen was already formed before arrival, with many expecting drone deliveries and AI videos, but the reality often surprises them.",
+    "best_quote_zh": "许多外国游客对深圳的想象，在来之前就已经成型。"
+  },
+  {
+    "id": 785,
+    "title": "“要是早点读到这些书就好了！”",
+    "title_zh": "“要是早点读到这些书就好了！”",
+    "title_en": "\"I Wish I Had Read These Books Sooner!\"",
+    "model_used": "nvidia/nemotron-3-ultra-550b-a55b:free",
+    "translation_model_used": null,
+    "source": "三联生活周刊",
+    "link": "http://weixin.sogou.com/weixin?type=2&query=%E4%B8%89%E8%81%94%E7%94%9F%E6%B4%BB%E5%91%A8%E5%88%8A+%E2%80%9C%E8%A6%81%E6%98%AF%E6%97%A9%E7%82%B9%E8%AF%BB%E5%88%B0%E8%BF%99%E4%BA%9B%E4%B9%A6%E5%B0%B1%E5%A5%BD%E4%BA%86%EF%BC%81%E2%80%9D",
+    "tags": [
+      "solve",
+      "education",
+      "writing-content",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "解决",
+      "教育学习",
+      "写作内容",
+      "未来预测"
+    ],
+    "date": "2026-11-15",
+    "summary_en": "This piece transcends a mere book recommendation list to become a philosophical defense of deep reading in the AI era. Anchored by Peking University professor Xia Xiaohong's assertion that reading is an irreducible human act—'you are a human, not a machine'—the article argues that the friction of reading *is* the value. AI can summarize Dante, Proust, or Shakespeare, but it cannot replicate the neurological and emotional rewiring that occurs when a reader wrestles with the 'dark wood' of the *Divine Comedy* or the sensory minutiae of *In Search of Lost Time*. The curated syllabus (Dante → Proust → Greek Tragedy/Shakespeare/Camus → Eliot) forms a deliberate architecture for 'rebuilding perception and focus.' The most striking insight is the reframing of classics not as cultural trophies, but as calibrated instruments: some books slow you down, others sharpen perception, others decode the present. In a landscape optimized for efficiency, this is a manifesto for the glorious inefficiency of letting a book change your 'tactile and perceptual faculties.'",
+    "summary_zh": "这不只是书单推荐，而是AI时代对深度阅读的一份哲学辩护。夏晓虹教授那句‘你是一个人，而不是机器’，精准击中痛点：阅读的阻力即价值。AI能总结《神曲》的情节，却无法替你体验但丁在幽暗森林里的迷茫与救赎；能提炼普鲁斯特的主题，却无法让你在玛德琳蛋糕的气味里重构自己的时间感知。马凌教授精心编排的阅读路径——从但丁启程，经普鲁斯特探究亲密关系，至希腊悲剧与加缪破解自我困境，终于艾略特——像是一套为现代人定制的‘知觉复健操’。经典不是摆设，而是坐标：有的让你慢下来，有的让你清醒，有的陪你读懂当下。在效率至上的时代，这是一份为‘光荣的低效’发声的宣言：让书改变你的触觉与知觉，这事无人能代替。",
+    "best_quote_en": "\"I feel that in the AI era, reading personally is important precisely because you are a human being, not a machine. It's not like installing a chip where everything is inside. That's not something that grows out of your own flesh and blood. Whether reading or accumulating knowledge, relative to the result, the process is more important.\" — Professor Xia Xiaohong",
+    "best_quote_zh": "“我觉得AI时代，亲自读书之所以重要，就是因为你是一个人，而不是机器。不是装个芯片，所有东西就都在里面了。那不是你的血肉之躯里长出来的东西。读书也好，知识的积累也好，相较于结果，是过程更重要。” —— 夏晓虹教授"
+  },
+  {
+    "id": 786,
+    "title": "In Other Words: Stories from Life",
+    "title_zh": "《用别的话说：生活中的故事》",
+    "title_en": "In Other Words: Stories from Life",
+    "model_used": "nvidia/nemotron-3-ultra-550b-a55b:free",
+    "translation_model_used": null,
+    "source": "A year of reading the world",
+    "link": "https://ayearofreadingtheworld.com/2026/11/11/in-other-words-stories-from-life/",
+    "tags": [
+      "analyze",
+      "writing-content",
+      "case-study"
+    ],
+    "tags_zh": [
+      "分析",
+      "写作内容",
+      "案例研究"
+    ],
+    "date": "2026-11-11",
+    "summary_en": "Ann Morgan's fifth book announcement reveals a delightfully meta-fictional project fifteen years in the making. The collection's conceit—stories written in a fictional language (Serĉi, Esperanto for 'to search') and translated by an inexperienced kettle-manual translator who documents his liberties in footnotes—creates a brilliant hall of mirrors examining translation ethics, authorial intent, and the publishing industry's pretensions. The framing devices (a hostile celebrity author preface, the translator's confessional afterword) transform the book into a playful critique of how stories survive cultural transit. Morgan's evolution from blogger to published author mirrors her thematic preoccupations: stories as living things that mutate across borders. The collector's edition strategy (signed, numbered, £10) reflects savvy indie publishing economics. This isn't just a story collection; it's a performance piece about the violence and creativity inherent in translation.",
+    "summary_zh": "安·摩根第五部作品的诞生，是博主到作家十五年蜕变的见证。虚构语言Serĉi（世界语'寻找'）与只会翻译水壶说明书的译者，构建出精妙的元小说镜厅：序言作者痛恨正文，译者后记供认擅作主张。这不只是短篇集，更是对翻译暴力与创造力的表演性批判。签名限量版十英镑的定价策略，折射出独立出版的生存智慧。故事在跨文化迁徙中如何存活、变异、被误读、被重生——摩根用玩笑包裹着最严肃的文学伦理追问。",
+    "best_quote_en": "I hope In Other Words shows up some of the problems and contradictions in the way we move stories between language cultures in a playful way, as well as taking a few tongue-in-cheek potshots at the publishing industry.",
+    "best_quote_zh": "希望《用别的话说》能以轻松的方式揭示我们在语言文化间移动故事时的种种问题与矛盾，同时也能对出版业开几个善意的玩笑。"
   }
 ]
