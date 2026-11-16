@@ -1,122 +1,5 @@
 [
   {
-    "id": 687,
-    "title": "Malaria Parasite Caught in the Act of Breaking and Entering",
-    "title_zh": "疟原虫被抓现行，揭秘其入侵过程",
-    "model_used": "cohere/north-mini-code:free",
-    "source": "Quanta Magazine",
-    "link": "https://www.quantamagazine.org/malaria-parasite-caught-in-the-act-of-breaking-and-entering-20261023/",
-    "tags": [
-      "update",
-      "medicine",
-      "ai-research",
-      "beginner-friendly"
-    ],
-    "tags_zh": [
-      "动态",
-      "医学健康",
-      "AI研究",
-      "新手友好"
-    ],
-    "date": "2026-10-23",
-    "summary_en": "Using cryo‑electron microscopy, researchers have captured the malaria parasite Plasmodium in the act of breaching red blood cells. The parasite forms a ring‑shaped “moving junction” that temporarily remodels the host membrane, creating a portal that opens and closes within seconds. The team visualized four protein anchors that generate electrostatic forces, deforming the lipid bilayer and allowing the parasite to slip through unnoticed. This detailed view of the invasion mechanism could guide new antimalarial drugs and inform treatments for related parasites such as Toxoplasma and Cyclospora.",
-    "summary_zh": "研究团队利用冷冻电镜技术捕捉到疟原虫入侵红细胞的瞬间。寄生虫形成移动接头，暂时重塑宿主细胞膜，创造出一个短暂的穿透通道。该研究详细揭示了四种蛋白质锚点的结构及其产生的静电效应如何变形细胞膜，从而使寄生虫悄无声息地进入细胞。这一发现或为开发新抗疟药物及治疗其他寄生虫病提供新思路。",
-    "best_quote_en": "The parasite’s moving junction is a molecular door we can now see, opening and closing in seconds.",
-    "best_quote_zh": "寄生虫的移动接头是一个分子门，我们终于可以看得清。它在几秒内打开和关闭。"
-  },
-  {
-    "id": 688,
-    "title": "Traction!",
-    "title_zh": "有阻力才有前进",
-    "model_used": "poolside/laguna-xs-2.1:free",
-    "source": "Aeon",
-    "link": "https://aeon.co/essays/why-a-world-without-friction-is-a-world-without-progress",
-    "tags": [
-      "inspire",
-      "science",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "启发",
-      "科学研究",
-      "未来预测"
-    ],
-    "date": "2026-10-23",
-    "summary_en": "This essay presents a profound rethinking of friction not as an obstacle to eliminate, but as a fundamental force enabling progress itself. Drawing on tribology expertise, the author reveals how humanity's relationship with resistance has shaped technological evolution from the wheel to dark matter research. The central insight is that 'resistance is your reward for progress' - every solution generates new challenges, making friction an essential component of advancement. From Roman chariot lubrication to Viking ship design to modern tribometers, the narrative demonstrates how understanding friction has driven innovation across millennia. The piece connects microscopic surface interactions to cosmic phenomena, showing how dynamical friction helps explain dark matter. Ultimately, it argues that a frictionless world would be motion without progress - resistance is what transforms effort into achievement, making friction not our enemy but humanity's indispensable partner in forward movement.",
-    "summary_zh": "这篇随笔深刻重构了我们对摩擦的认知——它不只是要消除的障碍，而是推动进步的根本力量。作者通过摩擦学专长揭示，摩擦从火器到暗物质，塑造了人类文明。核心洞见在于：「进步的回报就是新的阻力」。罗马车轮、维京帆船、再到现代摩擦仪器，都证明摩擦是技术创新的活火苑。更惊人的是，摩擦原理已跨越微观与宇宙尺度，帮助我们理解暗物质。最终论断：无阻力的世界只是轮子 spinning，真正的进步始于与阻力的和解。",
-    "best_quote_en": "When people speak of a frictionless world, they imagine ease. But ease without resistance is a wheel spinning in place, motion without progress.",
-    "best_quote_zh": "当人们谈论无阻力的世界时，他们想象的是轻松。但没有阻力的轻松只是一个原地打转的轮子，没有进步的运动。"
-  },
-  {
-    "id": 689,
-    "title": "6 Slang Words From the 1950s We Still Use Today",
-    "title_zh": "源自1950年代、至今仍在使用的6个俚语词汇",
-    "model_used": "nvidia/nemotron-3-ultra-550b-a55b:free",
-    "source": "Mental Floss",
-    "link": "https://www.mentalfloss.com/language/slang/slang-words-1950s-use-today?utm_source=RSS",
-    "tags": [
-      "analyze",
-      "ai-research",
-      "case-study"
-    ],
-    "tags_zh": [
-      "分析",
-      "AI研究",
-      "案例研究"
-    ],
-    "date": "2026-10-26",
-    "summary_en": "This delightful linguistic time capsule reveals how six 1950s slang terms—rock, big deal, party pooper, nerd, barf, and queen—have not merely survived but thrived across seven decades of cultural upheaval. What strikes me most is the semantic elasticity of these words: 'rock' transformed from geological term to diamond slang to music genre; 'nerd' evolved from Seussian nonsense to pejorative to proud identity badge; 'queen' shifted from monarchy to popularity contest to feminist reclamation. The article subtly illustrates how language democratizes—irony ('big deal') and visceral honesty ('barf') prove more durable than formal terminology. There's a quiet profundity in realizing that when we call someone a 'party pooper' today, we're participating in a 70-year-old social contract about group dynamics. The piece doesn't just catalog words; it maps the emotional architecture of mid-century America that still structures our daily interactions.",
-    "summary_zh": "这篇文章像个语言学时光胶囊，展示六个50年代俚语如何跨越七十年文化巨变不仅存活反而繁荣。最让我着迷的是这些词的语义弹性：rock从地质词变钻石隐喻再成音乐流派；nerd从苏斯博士的无意义词变贬义词再成自我认同勋章；queen从君主制变流行度标尺再被女权重构。文章暗示语言的民主化进程——讽刺（big deal）和直白（barf）比正式术语更持久。意识到我们今日称人party pooper时，实参与着一份70年前关于群体动力的社会契约，有种静谧的深刻感。这不只是词汇目录，更是映射中叶美国情感架构的地图，至今仍构建着我们的日常互动。",
-    "best_quote_en": "We borrow clothes from the past, music, traditions, art, and sometimes, without even realizing it, we borrow words.",
-    "best_quote_zh": "我们从过去借用衣服、音乐、传统、艺术，有时甚至在毫无察觉中，借用了词语。"
-  },
-  {
-    "id": 690,
-    "title": "Hair Thickness of My Friends",
-    "title_zh": "我朋友们的头发粗度",
-    "model_used": "nvidia/nemotron-3.5-super-vl:free",
-    "source": "LessWrong",
-    "link": "https://www.lesswrong.com/posts/q8gnBtqijGsdqWJ5j/hair-thickness-of-my-friends",
-    "tags": [
-      "analyze",
-      "science",
-      "beginner-friendly"
-    ],
-    "tags_zh": [
-      "分析",
-      "科学研究",
-      "新手友好"
-    ],
-    "date": "2026-10-26",
-    "summary_en": "A delightfully absurd yet methodologically curious exploration of human hair thickness among the author's social circle. Using a microscope, ruler fragments, and AI-assisted image analysis, XelaP measures 16 hair samples from friends, finding a mean thickness of 78 microns with a standard deviation of 12. The piece humorously applies rigorous statistical frameworks—Welch's t-test, Brown-Forsythe test, Kolmogorov-Smirnov test—to what is essentially a trivial dataset, concluding that sex differences in hair thickness are negligible within this sample. Beyond the surface silliness lies a genuine celebration of amateur scientific inquiry, the democratization of measurement tools, and the joy of asking 'useless' questions with serious intellectual tools. The author's deadpan humor about clone armies, blood-drawing friends, and 'ceterum autem censeo frequentistae esse delendam' adds layers of academic in-jokes and cultural commentary.",
-    "summary_zh": "这是一篇将显微镜对准朋友头发的荒诞却真诚的业余科学探索。作者测量了16位朋友的头发粗度，得出78微米的平均值，并用Welch t检验、布朗-福赛斯检验和Kolmogorov-Smirnov检验等严谨统计方法分析这个微小数据集，结论是性别差异在该样本中微不足道。文中充满学术内部笑话与死pan幽默，从“克隆军团”到“频谱主义者必须被摧毁”，处处透着对“无用问题”的热爱。这不仅是关于头发的实验，更是对业余科学精神、测量工具民主化以及用严肃智力工具探索琐碎问题之乐的赞美。",
-    "best_quote_en": "Ceterum autem censeo frequentistae esse delendam.",
-    "best_quote_zh": "除此之外，我认为频谱主义者必须被摧毁。"
-  },
-  {
-    "id": 691,
-    "title": "The Republicans’ Remarkably Bad Midterm Campaigns",
-    "title_zh": "共和党糟糕的中期竞选",
-    "model_used": "nvidia/nemotron-3.5-lightning:free",
-    "source": "The New Yorker",
-    "link": "https://www.newyorker.com/magazine/2026/11/02/the-republicans-remarkably-bad-midterm-campaigns",
-    "tags": [
-      "analyze",
-      "politics",
-      "controversial"
-    ],
-    "tags_zh": [
-      "分析",
-      "政治时事",
-      "争议观点"
-    ],
-    "date": "2026-10-25",
-    "summary_en": "The Republican midterm campaigns have been disastrous, with trailing candidates and internal fractures. Trump's unpopularity and his controversial deal with Putin on Russian diesel have alienated even loyal allies. Candidates struggle to defend the Iran war, rising energy costs, and the President's oligarchic alliances, facing voter backlash and primary challenges.",
-    "summary_zh": "共和党的中期竞选灾难，候选人落后且内部分裂。特朗普与普京的俄柴油交易疏远了甚至忠实的盟友。候选人难以辩护伊朗战争、能源成本上升和总统的寡头联盟，面临选民反弹和初选挑战。",
-    "best_quote_en": "The President is not popular, so all messaging should be focused on local politics and needs.",
-    "best_quote_zh": "总统不受欢迎，所以所有信息都应聚焦于地方政治和需求。"
-  },
-  {
     "id": 692,
     "title": "Pest Control",
     "title_zh": "Pest Control",
@@ -2398,5 +2281,134 @@
     "summary_zh": "安·摩根第五部作品的诞生，是博主到作家十五年蜕变的见证。虚构语言Serĉi（世界语'寻找'）与只会翻译水壶说明书的译者，构建出精妙的元小说镜厅：序言作者痛恨正文，译者后记供认擅作主张。这不只是短篇集，更是对翻译暴力与创造力的表演性批判。签名限量版十英镑的定价策略，折射出独立出版的生存智慧。故事在跨文化迁徙中如何存活、变异、被误读、被重生——摩根用玩笑包裹着最严肃的文学伦理追问。",
     "best_quote_en": "I hope In Other Words shows up some of the problems and contradictions in the way we move stories between language cultures in a playful way, as well as taking a few tongue-in-cheek potshots at the publishing industry.",
     "best_quote_zh": "希望《用别的话说》能以轻松的方式揭示我们在语言文化间移动故事时的种种问题与矛盾，同时也能对出版业开几个善意的玩笑。"
+  },
+  {
+    "id": 787,
+    "title": "Can Network Science Transform Health and Nutrition?",
+    "title_zh": "网络科学能改变健康与营养吗？",
+    "title_en": "Can Network Science Transform Health and Nutrition?",
+    "model_used": "dots-studio/dots-3-note-preview:free",
+    "translation_model_used": null,
+    "source": "Quanta Magazine",
+    "link": "https://www.quantamagazine.org/can-network-science-transform-health-and-nutrition-20261112/",
+    "tags": [
+      "learn",
+      "science",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "学习",
+      "科学研究",
+      "未来预测"
+    ],
+    "date": "2026-11-12",
+    "summary_en": "In this episode of *The Joy of Why*, hosts Steven Strogatz and Janna Levin interview network science pioneer Albert-László Barabási about the transformative potential of network thinking in biology, medicine, and nutrition. The conversation traces the origins of network science from the 1990s—when researchers discovered that vastly different systems (the internet, Hollywood, cells) share common architectural principles like hubs and scale-free structures—to its current applications in health. Barabási explains how disease-related genes cluster in \"network neighborhoods,\" enabling better drug target identification and personalized treatment predictions. He introduces the \"Foodome\" project, which maps the 135,000+ food compounds outside conventional nutrition—what he calls the \"dark matter of nutrition.\" The discussion challenges reductionist science by emphasizing relational thinking: consciousness, life, and society emerge from connections, not isolated parts. While network science is not a panacea, it offers a powerful lens to understand complexity, from neural wiring to metabolic pathways. The episode underscores that mapping networks is just the beginning; understanding their dynamics is the next frontier.",
+    "summary_zh": "在《为什么之乐》播客中，主持人史蒂文·斯特罗加茨与珍娜·莱文专访了网络科学先驱阿尔伯特-拉斯洛·巴拉巴西，探讨网络思维如何重塑生物学、医学与营养学。对话回溯了1990年代网络科学的起源——当时研究者发现，从互联网到好莱坞再到细胞，看似迥异的系统竟共享“枢纽”与“无标度”等架构原则。巴拉巴西指出，疾病相关基因常聚集于“网络社区”，这有助于识别药物靶点并预测个体疗效。他进一步介绍“食物组”（Foodome）项目，旨在绘制传统营养学之外的13.5万种食物化合物——他称之为“营养学的暗物质”。该对话批判了传统还原论，强调关系性思维：意识、生命与社会皆源于连接，而非孤立个体。尽管网络科学并非万能钥匙，但它为理解复杂性提供了全新透镜，从神经网络到代谢通路皆适用。巴拉巴西最后强调：绘制网络只是起点，理解其动态机制才是未来方向。",
+    "best_quote_en": "A gene, a neuron, a human doesn’t make sense at all to think about them in isolation. They all start making sense when they connect to other things.",
+    "best_quote_zh": "一个基因、一个神经元、一个人，若被孤立地看待，毫无意义。只有当它们与其他事物相连时，才开始具备意义。"
+  },
+  {
+    "id": 788,
+    "title": "Fugitive imagination",
+    "title_zh": "越界想象",
+    "title_en": "Fugitive imagination",
+    "model_used": "nvidia/nemotron-3-nano-omni-30b-a3b-reasoning:free",
+    "translation_model_used": null,
+    "source": "Aeon",
+    "link": "https://aeon.co/essays/those-forced-to-cross-borders-are-imagining-a-radical-new-world",
+    "tags": [
+      "inspire",
+      "education",
+      "society",
+      "case-study"
+    ],
+    "tags_zh": [
+      "启发",
+      "教育学习",
+      "社会议题",
+      "案例研究"
+    ],
+    "date": "2026-11-13",
+    "summary_en": "This powerful essay transforms a prison experience into a profound meditation on imagination as resistance. The author, a border scholar, recounts being incarcerated in a multi-ethnic prison on the Iran-Pakistan border in 1986, where diverse individuals united by their refusal to accept state-imposed borders forged a shared 'fugitive imagination.' This concept, he argues, is the irreducible capacity to envision and enact life beyond oppressive structures. Drawing parallels between human smugglers as 'architects' designing impossible routes and historical figures like Frederick Douglass who used literacy as a tool for emancipation, the essay establishes imagination as the core mechanism of liberation. It critically examines how states, from the US to Israel and Iran, criminalize education and imagination to maintain control, citing contemporary examples like ICE raids disrupting schools and proposed laws requiring reporting of undocumented migrants. The essay powerfully asserts that fugitive imagination, born from violence and confinement, is the essential force for creating alternative futures and challenging the very foundations of state power and colonial imaginaries.",
+    "summary_zh": "这篇震撼人心的散文将一次在伊朗帕キ斯坦边境监狱的经历转化为对想象力作为抵抗的深刻论述。作者回忆1986年被关押的经历，揭示了那些因拒绝承认国家强加的边界而被囚禁的多元群体——走私者、贩毒者、移工、难民——在狭小空间中共同发展出一种‘越界想象’。这种想象力是超越压迫性结构、为解放而生的不可磨灭的能力。文章将走私者比作‘建筑师’，将其与弗雷德·道格拉斯等历史人物的斗争相连，强调想象是解放的核心机制。批判性地剖析了从美国到以色列、伊朗等国家如何通过镇压教育和想象力来维持控制，引用ICE突袭扰乱学校、提议要求报告 undocumented migrants 的法律等当代例子。散文有力地论证了，越界想象在暴力与 confinement 中萌芽，是创造替代未来、挑战国家权力和殖民想象的必要力量。",
+    "best_quote_en": "A smuggler speculates on possibilities in seemingly impossible situations. Seen this way, the smuggler's 'architecture' is an enactment of an imagination that refuses the state imaginary expressed through borders.",
+    "best_quote_zh": "走私者在看似不可能的境遇中推测可能性。这样看来，走私者的‘建筑学’正是一种拒绝国家通过边界所表达的国界想象的想象力。"
+  },
+  {
+    "id": 789,
+    "title": "The Most Popular Fast-Food Chain the Year You Were Born",
+    "title_zh": "你出生那年最受欢迎的快餐连锁店",
+    "title_en": "The Most Popular Fast-Food Chain the Year You Were Born",
+    "model_used": "particle-ai/particle-1:free",
+    "translation_model_used": null,
+    "source": "Mental Floss",
+    "link": "https://www.mentalfloss.com/food/fast-food/most-popular-fast-food-chain-year-you-were-born?utm_source=RSS",
+    "tags": [
+      "learn",
+      "lifestyle",
+      "design"
+    ],
+    "tags_zh": [
+      "学习",
+      "生活方式",
+      "设计创意"
+    ],
+    "date": "2026-11-16",
+    "summary_en": "This article explores the history of America's fast-food chains and identifies the most popular one each year from 1950 to 2005. It traces the evolution from early chains like A&W and White Castle to the rise of McDonald's, KFC, Taco Bell, and others, highlighting how American car culture and lifestyle shaped the industry. The piece also notes the cultural significance of fast food as a unifying space for diverse demographics.",
+    "summary_zh": "本文回顾了美国快餐连锁店的历史，并列出了1950年至2005年间每年最受欢迎的快餐品牌。从早期的A&W和White Castle，到麦当劳、肯德基、塔可钟等巨头的崛起，文章揭示了美国汽车文化如何塑造快餐业，并指出快餐店作为多元人群聚集地的文化意义。",
+    "best_quote_en": "You can go into a McDonald's, you can go into a Taco Bell, and you will see literally every demographic group there.",
+    "best_quote_zh": "你可以走进麦当劳，也可以走进塔可钟，你会看到 literally 每一个群体都在那里。"
+  },
+  {
+    "id": 790,
+    "title": "David Duvenaud on Post-AGI Futures",
+    "title_zh": "David Duvenaud 论后AGI未来图景",
+    "title_en": "David Duvenaud on Post-AGI Futures",
+    "model_used": "dots-studio/dots-3-note-preview:free",
+    "translation_model_used": null,
+    "source": "LessWrong",
+    "link": "https://www.lesswrong.com/posts/imSaXjysZuAbNuLya/david-duvenaud-on-post-agi-futures",
+    "tags": [
+      "inspire",
+      "ai-research",
+      "science",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "启发",
+      "AI研究",
+      "科学研究",
+      "未来预测"
+    ],
+    "date": "2026-11-16",
+    "summary_en": "David Duvenaud’s talk critically dissects prevailing post-AGI futures, categorizing them into three archetypes: unstable but desirable (post-scarcity), stable but undesirable (locusts, totalitarian stasis), and stable/desirable but implausible (benevolent singleton). He argues that no current vision satisfies all three criteria—plausibility, stability, and desirability—simultaneously. The analysis exposes deep tensions: economic collapse under abundance, the dominance of power over goodness in competitive systems, and the near-impossibility of value alignment without authoritarian control. Duvenaud’s intellectual honesty and refusal to romanticize either utopia or dystopia make this a rare, grounded contribution to AI futures thinking. The talk is not a prediction but a diagnostic framework—inviting us to design futures that are not just imagined, but structurally coherent. It challenges technooptimists and pessimists alike to confront the hard trade-offs embedded in any post-AGI civilization.",
+    "summary_zh": "杜文纳德的演讲系统拆解了主流后AGI未来模型，指出三类愿景均无法同时满足可行性、稳定性与理想性。他揭示了“后稀缺社会”的内在矛盾、竞争机制对善的碾压，以及价值对齐所需的专制代价。这种不美化、不妥协的分析框架，为AI未来学注入了罕见的结构性思维。他不是在预测，而是在诊断——迫使我们直面任何文明形态背后的权力、经济与伦理张力。这是一场对技术乌托邦与反乌托邦的双重祛魅，邀请我们在想象未来前，先理解其底层逻辑。",
+    "best_quote_en": "Post-scarcity sounds appealing, but is incoherent upon inspection.",
+    "best_quote_zh": "后稀缺听起来诱人，但细究之下逻辑不通。"
+  },
+  {
+    "id": 791,
+    "title": "Scott Colom’s Senate Win Is a Mississippi Miracle",
+    "title_zh": "斯科特·科洛姆的参议院胜利是密西西比奇迹",
+    "title_en": "Scott Colom’s Senate Win Is a Mississippi Miracle",
+    "model_used": "baidu/ernie-5.5-flash-preview:free",
+    "translation_model_used": null,
+    "source": "The New Yorker",
+    "link": "https://www.newyorker.com/news/us-journal/scott-coloms-mississippi-miracle",
+    "tags": [
+      "analyze",
+      "politics",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "分析",
+      "政治时事",
+      "未来预测"
+    ],
+    "date": "2026-11-15",
+    "summary_en": "Scott Colom’s upset Senate victory in Mississippi is less a sudden miracle than the product of disciplined messaging, deep local organizing, and a campaign that treated a supposedly unwinnable state as a problem to be solved. The article captures how Colom turned a narrow, almost invisible candidacy into a historic win by grounding his argument in everyday stakes—health care, tariffs, infrastructure, and dignity—rather than abstract partisan loyalty. His slogan, “Mississippi Matters,” reframed the race as a moral contrast: an incumbent who neglected the state versus a challenger who insisted it deserved better. What strikes me most is the article’s insistence that political miracles are usually built from unglamorous work: county-by-county visits, viral low-budget ads, family involvement, and relationships that predate the campaign. The piece also situates Colom’s win within Mississippi’s long history of voter suppression and civil-rights struggle, making the result feel both contemporary and deeply historical. It suggests that representation is not merely symbolic; it changes what becomes politically imaginable.",
+    "summary_zh": "科洛姆在密西西比的胜利看似奇迹，实则是长期社区组织、清晰叙事与草根动员的结果。文章揭示，政治突破往往来自看似笨拙的坚持：走访各县、回应日常民生、把“密西西比值得被重视”变成道德对比。它也让这场胜利放回该州种族压迫与投票权斗争的历史脉络中，提醒我们：代表权不只是象征，它会改变政治想象的可能。这种改变，正是民主叙事中最动人的部分。",
+    "best_quote_en": "All I did was have the courage to imagine a night like this. I had the courage to believe in Mississippi.",
+    "best_quote_zh": "我所做的，只是有勇气想象这样一个夜晚。我有勇气相信密西西比。"
   }
 ]
