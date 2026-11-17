@@ -1,118 +1,5 @@
 [
   {
-    "id": 692,
-    "title": "Pest Control",
-    "title_zh": "Pest Control",
-    "model_used": "nvidia/nemotron-3-nano-omni-30b-a3b-reasoning:free",
-    "source": "Kevin Kelly",
-    "link": "https://kk.org/cooltools/pest-control/",
-    "tags": [
-      "learn",
-      "science"
-    ],
-    "tags_zh": [
-      "学习",
-      "科学研究"
-    ],
-    "date": "2026-10-26",
-    "summary_en": "Reading the collection of low‑cost, non‑chemical pest control methods feels like discovering a quiet revolution in everyday gardening. The mosquito trap described by Steven Champeon turns a simple jug, water and a pheromone pack into an effective, species‑specific lure that disrupts the breeding cycle of invasive Asian Tiger mosquitoes, offering a sustainable alternative to expensive chemical sprays. Likewise, Terry Powell’s Bug Blaster demonstrates how a high‑pressure water spray can replace labor‑intensive hosing, protecting delicate foliage while delivering organic, residue‑free pest removal. Beyond these practical tools, the article weaves in broader gardening insights — mulching with cardboard barriers, evaluating underused willows, and even experimental hydrogen‑peroxide irrigation — illustrating a mindset that values experimentation, resourcefulness, and ecological balance. Together, these narratives suggest that effective pest management need not rely on synthetic chemicals; instead, simple, well‑designed interventions can empower gardeners to reclaim their outdoor spaces, reduce environmental impact, and foster a deeper connection to the living ecosystem they tend. It also reminds us that sustainable gardening is as much about observation and adaptation as it is about tools.",
-    "summary_zh": "阅读这些低成本、无化学的园艺防治方法，仿佛目睹了一场静默的小规模革命。自制蚊子陷阱利用水和信息素抑制东南亚老虎蚊的繁殖，提供比昂贵杀虫剂更可持续的选择；而水压喷雾工具则以精准细雾替代劳力清洗，既保护嫩叶又实现无残留的有机防治。文中还涵盖了以纸箱做屏障的覆盖、评估耐寒柳树以及实验性过氧化氢灌溉等更广义园艺技巧，凸显了观察、实验与生态平衡的重要性。整体而言，这些简易且具创意的措施让园丁在不依赖合成化学的前提下，既能维护户外空间，又能降低环境负担，加深与自然生态系统的联系",
-    "best_quote_en": "When I saw this cheap trap at Logan’s Trading Post three years ago, I figured what-the-heck, but we’ve been amazed at how effective they are.",
-    "best_quote_zh": "当我在三年前在Logan’s Trading Post看到这款便宜的陷阱时，我心想，随便试试看，结果我们惊讶于它的有效性。"
-  },
-  {
-    "id": 693,
-    "title": "Unlocking Persistent Motivation & Extreme Resilience | Ross Edgley",
-    "title_zh": "Ross Edgley：解锁持久动力与极端韧性",
-    "model_used": "nvidia/nemotron-3.5-lightning:free",
-    "source": "Huberman Lab",
-    "link": "https://www.hubermanlab.com/episode/unlocking-persistent-motivation-and-extreme-resilience-ross-edgley",
-    "tags": [
-      "inspire",
-      "ai-research"
-    ],
-    "tags_zh": [
-      "启发",
-      "AI研究"
-    ],
-    "date": "2026-10-26",
-    "summary_en": "This Huberman Lab podcast episode features Ross Edgley, a British ultra-endurance athlete, exploring the psychological and biological mechanisms underlying extreme persistence and resilience. The discussion traverses the neuroscience of the anterior midcingulate cortex and dorsolateral prefrontal cortex in relation to tenacity and strategy, alongside the physiological impacts of cold exposure and stress adaptation. Edgley shares personal narratives from grueling swims, emphasizing the role of purpose, shame, and anger as motivational drivers. A central theme is the dynamic updating of one's purpose and narrative to expand adversity tolerance. The episode culminates in a framework for accessing persistent motivation, blending athletic anecdote with cutting-edge neuroscience to illuminate how individuals can cultivate mental fortitude across diverse life challenges.",
-    "summary_zh": "这期Huberman Lab播客邀请英国超长跑运动员Ross Edgley，深入探讨了极端逆境中持久动力和韧性的心理与生物学机制。节目涉及前扣回叶和背外侧前额叶皮层在坚韧与策略中的神经科学作用，以及冷暴露和压力适应的生理影响。Edgley通过个人经历分享了目的、羞耻感和愤怒作为动力驱动的作用。核心主题是通过动态更新目的和个人叙事来扩大逆境容忍度。节目最终提出了一个获取持久动力的框架，将运动轶事与前沿神经科学相结合，揭示了个体如何在各类生活挑战中培养心理韧性。",
-    "best_quote_en": "\"The only way to build a resilient brain is to do things that you don't want to do.\"",
-    "best_quote_zh": "\"唯一构建有韧性大脑的方法是去做你不想做的事。\""
-  },
-  {
-    "id": 694,
-    "title": "Statist Quo",
-    "title_zh": "Statist Quo",
-    "model_used": "nvidia/nemotron-3.5-lightning:free",
-    "source": "Harper’s Magazine",
-    "link": "https://harpers.org/2026/10/general-interest-statist-quo-australia-social-media-ban-oscar-schwartz-jess-bergman/",
-    "tags": [
-      "analyze",
-      "psychology",
-      "ai-research",
-      "controversial"
-    ],
-    "tags_zh": [
-      "分析",
-      "心理学",
-      "AI研究",
-      "争议观点"
-    ],
-    "date": "2026-10-25",
-    "summary_en": "Oscar Schwartz's analysis of Australia's pioneering social media ban reveals a policy driven more by political calculation than scientific consensus. The article exposes how the ban, initially framed as a necessary protection for adolescent mental health, quickly became a political tool for the Albanese government ahead of an election. Schwartz details the fragmented scientific landscape, contrasting Jonathan Haidt's influential but selective framing of Jean Twenge's work against Candice Odgers' more nuanced findings that emphasize pre-existing risk factors. The ban's practical failure—with 85% of children maintaining accounts—has not dampened its political appeal, as similar legislation spreads globally. Critically, Schwartz argues that focusing on bans obscures more productive regulatory approaches, such as Julie Inman Grant's 'duty of care' model, which would hold tech companies accountable for product safety from the outset rather than restricting user access after harm occurs.",
-    "summary_zh": "肖尔的分析揭示了澳大利亚社交媒体禁令背后的政治动机大于科学共识。文章指出，该禁令最初被框架为保护青少年心理健康的必要措施，却迅速沦为阿尔巴尼斯政府在大选前的政治工具。肖尔详述了碎片化的科学格局，对比了乔纳森·海德特对让·滕格韦工作的有选择性框架与坎迪斯·奥德格斯更细致的发现，后者强调现有风险因素。尽管禁令实际失效——85%的儿童仍保持账户活跃——但其政治吸引力未减，类似立法正在全球扩散。批判性地，肖尔认为，将焦点集中在禁令上掩盖了更有成效的监管途径，如朱莉·英曼·格rant的‘关怀责任'模式，该模式将科技公司对产品安全的责任从一开始就成立，而非在伤害发生后限制用户访问。",
-    "best_quote_en": "\"Although the ban has been a failure in terms of getting kids off social media, it has been a success politically,\" Schwartz observes, highlighting how the policy's political utility outweighed its practical efficacy.",
-    "best_quote_zh": "\"尽管在让孩子远离社交媒体方面失败了，但它在政治上取得了成功\"，肖尔观察道，突显了该政策的政治实用性超过了其实际成效。"
-  },
-  {
-    "id": 695,
-    "title": "White noise alarm clock / Dopamine Shop / Inner sound journeys",
-    "title_zh": "白噪音闹钟 / 多巴胺商店 / 内在声音之旅",
-    "model_used": "nvidia/nemotron-3-ultra-550b-a55b:free",
-    "source": "Kevin Kelly",
-    "link": "https://kk.org/cooltools/white-noise-alarm-clock-dopamine-shop-inner-sound-journeys/",
-    "tags": [
-      "analyze",
-      "ai-research",
-      "lifestyle",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "分析",
-      "AI研究",
-      "生活方式",
-      "未来预测"
-    ],
-    "date": "2026-10-25",
-    "summary_en": "This Recomendo Christmas special breaks from tradition by crowdsourcing recommendations from subscribers, revealing a fascinating tapestry of modern coping mechanisms. The five featured recommendations span physical wellness (a 117-sound brown noise machine), digital psychology (fake shopping sites that satisfy consumerist urges without consumption), spiritual nourishment (Alana Fairchild's archetypal meditations), AI creativity (Gossip Goblin's cinematic world-building), and collective imagination (100M+ children's drawings archive). What strikes me is how each recommendation addresses a distinct modern anxiety: sleep disruption, dopamine addiction, spiritual hunger, technological alienation, and loss of wonder. The AI musical debate about whether AI is 'normal technology' perfectly encapsulates our current ontological confusion. These aren't just product recommendations—they're survival tools for navigating 2024's psychic landscape. The fake shopping sites particularly haunt me: they've gamified the therapy of consumption while removing the consequences, a brilliant and terrifying innovation.",
-    "summary_zh": "这期圣诞特辑打破惯例众包推荐，意外勾勒出现代人焦虑的完整图谱：褐噪音机对抗失眠、假购物网站治愈消费冲动、原型冥想填补灵性空虚、AI电影重构创造力边界、亿万童画唤醒丧失的惊奇感。最让我战栗的是「多巴胺商店」——它把消费的仪式感游戏化却抽离了后果，这是精妙的数字安慰剂，也是令人不寒而栗的未来预演。AI音乐剧辩论「AI是否为常态技术」更像是我们集体认知失调的仪式化表演。这些推荐不再是工具清单，而是2024年生存指南。",
-    "best_quote_en": "You consumed nothing, yet you are an ace shopper. If shopping is your comfort scroll, this is very satisfying late at night.",
-    "best_quote_zh": "你什么都没消费，却成了顶级购物达人。如果购物是你的安慰性刷屏，深夜里这能带来极大满足。"
-  },
-  {
-    "id": 696,
-    "title": "Essentials: Developing a Rational Approach to Supplementation for Health & Performance",
-    "title_zh": "要点：为健康与表现制定合理补充剂方案",
-    "model_used": "nvidia/nemotron-3.5-super-vl:free",
-    "source": "Huberman Lab",
-    "link": "https://www.hubermanlab.com/episode/essentials-developing-a-rational-approach-to-supplementation-for-health-and-performance",
-    "tags": [
-      "solve",
-      "health-wellness"
-    ],
-    "tags_zh": [
-      "解决",
-      "健康养生"
-    ],
-    "date": "2026-10-22",
-    "summary_en": "Andrew Huberman outlines a methodical framework for supplementation that prioritizes behavioral tools and nutrition before any pill or powder. He distinguishes foundational vitamins and minerals from single-ingredient compounds targeting sleep, hormone support, and cognitive focus, emphasizing rigorous self-testing, appropriate dosages, and cycling strategies. The episode critically examines popular substances like melatonin, Fadogia Agrestis, Tongkat Ali, and alpha-GPC while cautioning against treating supplements as a substitute for sleep hygiene and whole-food nutrition. Huberman's rational approach balances scientific evidence with individual variability, budget constraints, and safety considerations, offering listeners a practical decision-making process rather than a prescriptive product list.",
-    "summary_zh": "Huberman 提出了一套系统的补充剂决策框架，强调行为工具和营养应优先于任何补剂。他区分了基础维生素矿物质与针对睡眠、激素和认知的单一成分补充剂，主张通过个体测试、适当剂量和周期策略来确定方案。内容批判性地审视了褪黑素、Fadogia Agrestis、Tongkat Ali 等热门物质，并警告不要将补充剂视为睡眠卫生和全食物营养的替代品。这种理性方法兼顾科学证据与个体差异、预算和安全性，为听众提供了可操作的决策流程，而非简单的产品推荐清单。",
-    "best_quote_en": "Behavioral tools and nutrition remain the foundation for mental health, physical health and performance.",
-    "best_quote_zh": "行为工具和营养始终是心理健康、身体健康和表现的基础。"
-  },
-  {
     "id": 697,
     "title": "DIIV – ‘ZIRP!’ review: pop meets politics on their most adventurous record yet",
     "title_zh": "DIIV – ‘ZIRP!’ 专辑评测：流行乐与政治交织的最冒险之作",
@@ -2410,5 +2297,134 @@
     "summary_zh": "科洛姆在密西西比的胜利看似奇迹，实则是长期社区组织、清晰叙事与草根动员的结果。文章揭示，政治突破往往来自看似笨拙的坚持：走访各县、回应日常民生、把“密西西比值得被重视”变成道德对比。它也让这场胜利放回该州种族压迫与投票权斗争的历史脉络中，提醒我们：代表权不只是象征，它会改变政治想象的可能。这种改变，正是民主叙事中最动人的部分。",
     "best_quote_en": "All I did was have the courage to imagine a night like this. I had the courage to believe in Mississippi.",
     "best_quote_zh": "我所做的，只是有勇气想象这样一个夜晚。我有勇气相信密西西比。"
+  },
+  {
+    "id": 792,
+    "title": "Radio",
+    "title_zh": "收音机",
+    "title_en": "Radio",
+    "model_used": "nvidia/nemotron-3-nano-omni-30b-a3b-reasoning:free",
+    "translation_model_used": null,
+    "source": "Kevin Kelly",
+    "link": "https://kk.org/cooltools/radio/",
+    "tags": [
+      "analyze",
+      "music-arts",
+      "beginner-friendly"
+    ],
+    "tags_zh": [
+      "分析",
+      "音乐艺术",
+      "新手友好"
+    ],
+    "date": "2026-11-16",
+    "summary_en": "This comprehensive analysis showcases four distinct portable radio categories, each representing a specialized niche in audio technology. The article demonstrates exceptional technical insight through detailed comparisons of shortwave receivers (Sony ICF-SW7600GR vs Grundig G5), highlighting how synchronous detection technology provides superior interference rejection - a feature typically found in much more expensive radios. The review reveals how this technology directly solves real-world problems for ham radio enthusiasts and global listeners, while also emphasizing practical benefits like improved English comprehension and portability. Satellite radio solutions (XM/SiriusXM) address geographic limitations for rural and mobile users, while AM-focused pocket radios (Sangean) and hybrid stereo systems (Tecsun) demonstrate continued relevance of traditional radio technologies. The piece consistently emphasizes user-centric value: solving specific listening problems through thoughtful engineering rather than chasing commercial trends.",
+    "summary_zh": "本文通过四类便携收音机的深度对比，揭示了短波接收技术的突破性价值——索尼7600GR的同步检波电路虽成本亲民，却实现了专业级干扰消除，为业余无线电爱好者和全球收音人提供了显著优势。文章巧妙展现了收音机的多重价值：从解决偏远地区通讯需求（卫星收音机），到增强语言理解（收听BBC等国际电台），再到平衡便携性与信号质量（袖珍AM收音机与立体声短波收音机）。这些看似复古的工具在数字时代反而展现出独特的生命力，印证了专业工具为特定场景精准设计的永恒价值。",
+    "best_quote_en": "A synchronous detector like the one on the Sony 7600GR eliminates the distorted sideband and uses the cleaner sideband (the one not affected by interference) and mixes it up with a new strong carrier signal, which it generates by itself. Thus, the 7600GR eliminates two problems: weak carrier signal and distortion of the sidebands due to adjacent channel interference.",
+    "best_quote_zh": "同步检波器像索尼7600GR上的那样，消除了失真侧带，使用未受干扰的较清洁的侧带（上或下）与自生成的强载波混合，从而解决两个问题：弱载波信号和因相邻频道干扰导致的侧带畸变。"
+  },
+  {
+    "id": 793,
+    "title": "Mushrooms for the Mind & Immune System | Paul Stamets",
+    "title_zh": "保罗·斯坦梅茨：蘑菇助力大脑与免疫系统",
+    "title_en": "Mushrooms for the Mind & Immune System | Paul Stamets",
+    "model_used": "nvidia/nemotron-3-ultra-550b-a55b:free",
+    "translation_model_used": null,
+    "source": "Huberman Lab",
+    "link": "https://www.hubermanlab.com/episode/mushrooms-for-the-mind-and-immune-system-paul-stamets",
+    "tags": [
+      "analyze",
+      "psychology",
+      "health-wellness"
+    ],
+    "tags_zh": [
+      "分析",
+      "心理学",
+      "健康养生"
+    ],
+    "date": "2026-11-16",
+    "summary_en": "Mycologist Paul Stamets explores how fungi enhance immune function and cognition. He discusses medicinal mushrooms like turkey tail, agarikon, lion's mane, and cordyceps for antiviral properties, vaccine enhancement, and neuroplasticity. The conversation covers psilocybin's therapeutic potential for depression and anxiety, safety considerations, microdosing protocols including the \"Stamets Stack,\" and fungi's ecological roles in mycoremediation. Stamets emphasizes biodiversity preservation and the entourage effect of whole mushroom extracts over isolated compounds.",
+    "summary_zh": "真菌学家保罗·斯坦梅茨探讨真菌如何增强免疫功能与认知。他详述云芝、赤芝、猴头菇、虫草等药用菌的抗病毒特性、疫苗佐剂作用及神经可塑性促进。对话涵盖裸盖菇素治疗抑郁焦虑的潜力、安全性考量、微量服用方案（含“斯坦梅茨组合”），以及真菌在菌物修复中的生态作用。斯坦梅茨强调生物多样性保护，主张全菌提取物的协同效应优于单一成分。",
+    "best_quote_en": "Mushrooms are nature's pharmaceutical factories, offering immune support and cognitive enhancement through complex synergistic compounds.",
+    "best_quote_zh": "蘑菇是大自然的制药厂，通过复杂的协同化合物提供免疫支持和认知增强。"
+  },
+  {
+    "id": 794,
+    "title": "Weekly Review",
+    "title_zh": "每周回顾",
+    "title_en": "Weekly Review",
+    "model_used": "particle-ai/particle-1:free",
+    "translation_model_used": null,
+    "source": "Harper’s Magazine",
+    "link": "https://harpers.org/2026/11/weekly-review-jensen-huang-nvidia-spy-faa-ground-stop-shadow-uss-united-states-rodeo-club-r-shakers/",
+    "tags": [
+      "analyze",
+      "leadership",
+      "politics",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "分析",
+      "领导管理",
+      "政治时事",
+      "未来预测"
+    ],
+    "date": "2026-11-17",
+    "summary_en": "Harper’s “Weekly Review” is a deadpan satirical compendium that treats the news as a cascade of absurdities rather than a coherent narrative. The opening item—a fictionalized scandal around Nvidia’s Jensen Huang, complete with flowers, missing hardware, fried chicken, and an alleged spy—sets the tone: corporate power, national security, and tabloid melodrama collapse into farce. From there, the review moves through a global communications outage, the loss of measles-elimination status, a Brooklyn building collapse, a dead candidate apparently winning, a shadow puppet on a sinking ship, and a father leaving his six-year-old in line for Pokémon cards. The effect is less a summary of events than an argument about our information environment: when everything is reported with the same flat affect, the outrageous becomes normalized. The piece is funny, but its humor is diagnostic. It invites us to ask what kind of society produces such juxtapositions—and whether our capacity for outrage has been exhausted. The cited sources add a mock-authoritative texture, making the satire sting.",
+    "summary_zh": "哈珀的《每周回顾》以冷面幽默把新闻拼贴成荒诞剧：英伟达高管的丑闻、全球通信瘫痪、麻疹消除地位丧失、布鲁克林坍塌、死去候选人仍可能胜选，以及父亲把六岁女儿留在Target门口排队买宝可梦卡。它看似罗列奇闻，实则在质问信息环境——当灾难、丑闻与滑稽琐事被同样平静地陈述，荒诞便被正常化。戏仿的引用格式制造出伪权威感，让讽刺更锋利。读后不禁反思：我们究竟生活在一个怎样的社会，才会让这些并置显得可信？",
+    "best_quote_en": "But as de Gaulle said, ‘The graveyards are filled with indispensable men.’",
+    "best_quote_zh": "但正如戴高乐所说：‘墓地里挤满了不可或缺的人。’"
+  },
+  {
+    "id": 795,
+    "title": "Design Prompts / RetroCodex / Sunshine Atlas",
+    "title_zh": "设计提示 / 复古代码库 / 阳光图谱",
+    "title_en": "Design Prompts / RetroCodex / Sunshine Atlas",
+    "model_used": "nvidia/nemotron-3.5-super-vl:free",
+    "translation_model_used": null,
+    "source": "Kevin Kelly",
+    "link": "https://kk.org/cooltools/design-prompts-retrocodex-sunshine-atlas/",
+    "tags": [
+      "guide",
+      "design",
+      "lifestyle",
+      "beginner-friendly"
+    ],
+    "tags_zh": [
+      "指导",
+      "设计创意",
+      "生活方式",
+      "新手友好"
+    ],
+    "date": "2026-11-15",
+    "summary_en": "This content is a curated collection of six diverse recommendations spanning creativity tools, knowledge updating, travel planning, art supplies, adventure content, and guided imagery practices. The unifying theme is practical value—each recommendation solves a specific problem or enhances daily life. Design Prompts offers creative obstruction techniques inspired by Oblique Strategies, while RetroCodex helps users update outdated factual knowledge. Sunshine Atlas provides weather-based travel planning, Posca pens enable versatile rock painting, Matt Spears delivers optimistic adventure vlogging, and the Pearl Dive offers guided imagery for emotional processing. Together, these recommendations reflect a philosophy of intentional living through carefully selected tools and experiences that support creativity, learning, and wellbeing.",
+    "summary_zh": "这是一份跨越创意工具、知识更新、旅行规划、美术用品、冒险内容和引导意象练习的六项多样化推荐精选集。统一的主题是实用价值——每项推荐都解决特定问题或提升日常生活。设计提示提供受“迂回策略”启发的创意阻碍技巧，复古代码库帮助用户更新过时的事实知识，阳光图谱提供基于天气的旅行规划，波斯卡笔使多功能石头绘画成为可能，马特·斯皮尔斯传递乐观的冒险视频博客，珍珠潜水提供情感处理的引导意象练习。这些推荐共同体现了一种通过精心选择的工具和体验来支持创造力、学习和福祉的有意识生活哲学。",
+    "best_quote_en": "Draw a card at random and try what it suggests: “Find the third side” or “Change what you’re optimizing.”",
+    "best_quote_zh": "随机抽一张卡片，尝试它所建议的内容：“寻找第三面”或“改变你正在优化的东西。”"
+  },
+  {
+    "id": 796,
+    "title": "Essentials: How Emotions & Social Factors Impact Learning | Dr. Mary Helen Immordino-Yang",
+    "title_zh": "情感与社会因素如何影响学习：Immordino-Yang博士的见解",
+    "title_en": "Essentials: How Emotions & Social Factors Impact Learning | Dr. Mary Helen Immordino-Yang",
+    "model_used": "cohere/north-mini-code:free",
+    "translation_model_used": null,
+    "source": "Huberman Lab",
+    "link": "https://www.hubermanlab.com/episode/essentials-how-emotions-and-social-factors-impact-learning-mary-helen-immordino-yang",
+    "tags": [
+      "analyze",
+      "education",
+      "case-study"
+    ],
+    "tags_zh": [
+      "分析",
+      "教育学习",
+      "案例研究"
+    ],
+    "date": "2026-11-12",
+    "summary_en": "This Huberman Lab Essentials episode explores how emotions, stories, and culture shape perception, learning, and self-identity. Dr. Mary Helen Immordino-Yang reveals that emotional experiences are fundamental to cognitive development, challenging traditional education models that separate feelings from learning. The discussion highlights how narratives can either foster empathy or dehumanization, and offers practical tools for educators to engage students' curiosity and meaning-making. Key insights include the importance of brain-body dialogue, social interdependence, and the integration of affective neuroscience into educational design. The episode suggests that reimagining education to incorporate emotional intelligence and holistic development can lead to more effective learning outcomes and more compassionate societies.",
+    "summary_zh": "本期哈勃实验室精要节目探讨了情感、故事与文化如何塑造我们的感知、学习和自我认知。Immordino-Yang博士指出，情感体验是认知发展的基础，这挑战了传统将情感与学习分离的教育模式。讨论强调了叙事如何能培养同理心或导致去人性化，并提供了实用的教育工具，帮助教师激发学生的好奇心和意义感。关键见解包括脑身对话、社会依存性以及将情感神经科学融入教育设计的必要性。节目建议重新设计教育系统，以培养情感智能和全面发展，从而实现更有效的学习成果和更和谐的社会。",
+    "best_quote_en": "Emotions are not just something that happen to us; they are a fundamental part of how we think, learn, and develop a sense of who we are.",
+    "best_quote_zh": "情感不仅仅是我们经历的东西；它们是我们思考、学习和建立自我认同感的基本组成部分。"
   }
 ]
