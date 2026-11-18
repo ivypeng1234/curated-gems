@@ -1,122 +1,5 @@
 [
   {
-    "id": 697,
-    "title": "DIIV – ‘ZIRP!’ review: pop meets politics on their most adventurous record yet",
-    "title_zh": "DIIV – ‘ZIRP!’ 专辑评测：流行乐与政治交织的最冒险之作",
-    "model_used": "cohere/north-mini-code:free",
-    "source": "NME",
-    "link": "https://www.nme.com/reviews/album/diiv-zirp-review-3974219?utm_source=rss&utm_medium=rss&utm_campaign=diiv-zirp-review",
-    "tags": [
-      "analyze",
-      "politics",
-      "design"
-    ],
-    "tags_zh": [
-      "分析",
-      "政治时事",
-      "设计创意"
-    ],
-    "date": "2026-10-28",
-    "summary_en": "DIIV's latest album 'ZIRP!' marks a bold sonic and political evolution, blending their signature post-punk intensity with mainstream pop accessibility. Produced by A.G. Cook, the record captures the dystopian American experience through sharp, anti-capitalist lyrics referencing zero interest rate policies and tech monopolies. Tracks like 'The Fountain' and 'Dare Me' showcase newfound melodic hooks while maintaining the band's raw energy. Frontman Zachary Cole Smith's personal resilience after the LA wildfires infuses the album with unexpected optimism, positioning 'ZIRP!' as both a critique of late-stage capitalism and a call for community solidarity.",
-    "summary_zh": "DIIV 的新专辑《ZIRP！》在音乐上大胆突破，将流行元素与政治诉求相结合，呈现出最具冒险精神的作品。A.G. Cook 的制作让乐队从晦涩的氛围感中走向了更直接的旋律表达。歌词中对零利率政策、科技巨头等资本主义现象的批判直白而愤怒，却又不乏建设性的解决方案。面对洛杉矶山火的个人创伤，主唱 Zachary Cole Smith 将对社区的希望寄托于音乐中，使这张专辑既是控诉，也是对未来的乐观宣言。",
-    "best_quote_en": "'ZIRP!' is ambitious, unflinching and, ultimately, optimistic.",
-    "best_quote_zh": "《ZIRP！》大胆、毫不退缩，最终充满希望。"
-  },
-  {
-    "id": 698,
-    "title": "HBO’s “The Gilded Age” Reaches New Heights in Gritty Fourth Season",
-    "title_zh": "《镀金时代》第四季：在粗粝中走向新高",
-    "model_used": "dots-studio/dots-3-note-preview:free",
-    "source": "RogerEbert.com",
-    "link": "https://www.rogerebert.com/streaming/the-gilded-age-season-4-hbo-tv-review-2026",
-    "tags": [
-      "solve",
-      "lifestyle",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "解决",
-      "生活方式",
-      "未来预测"
-    ],
-    "date": "2026-10-27",
-    "summary_en": "HBO’s period drama 'The Gilded Age' enters its fourth season with heightened stakes and darker themes. The season opens with a strategic, loveless wedding, setting the tone for a year of upheaval. Bertha Russell faces a terrifying labor with her daughter Gladys, while Agnes and Ada battle for control of their home. George Russell descends into a bitter, wealth-obsessed shell of his former self after surviving an assassination attempt. Meanwhile, Marianne Brook struggles with her forbidden romance with Larry Russell, forcing the characters to adapt to harsh new realities. The show successfully sheds its predictable fluff, embracing gritty, authentic storytelling that tackles serious historical issues like bodily autonomy and substance abuse, proving to be its most compelling season yet.",
-    "summary_zh": "HBO年代剧《镀金时代》第四季以更高张力与更暗黑主题回归。本季以一场策略性无爱婚礼开场，预示着全年的动荡。伯莎·拉塞尔面临女儿格拉迪斯的恐怖难产，艾格尼丝与阿达为争夺住宅控制权而反目。乔治·拉塞尔在遭遇暗杀未遂后，逐渐沦为被财富与名利驱使的空壳。玛丽安·布鲁克与拉里·拉塞尔的禁忌之恋陷入危机，迫使角色在残酷现实中重塑自我。本季成功摆脱了以往的套路化与冗余情节，转向更粗粝、更真实的叙事，直面身体自主权与药物滥用等历史痛点，成为系列迄今最具深度的一季。",
-    "best_quote_en": "The series has slowly changed not only its structure but also the themes it deems pressing, allowing this often fluffy show to become a grittier, more authentic version of itself.",
-    "best_quote_zh": "该剧不仅悄然改变了自身结构，更刷新了其关注的核心议题，使这部常显轻浮的作品蜕变为更粗粝、更真实的版本。"
-  },
-  {
-    "id": 699,
-    "title": "What It Takes to Be Free",
-    "title_zh": "自由之路",
-    "model_used": "nvidia/nemotron-3-nano-omni-30b-a3b-reasoning:free",
-    "source": "The Marginalian",
-    "link": "https://www.themarginalian.org/2026/10/27/freedom/",
-    "tags": [
-      "inspire",
-      "ai-research",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "启发",
-      "AI研究",
-      "未来预测"
-    ],
-    "date": "2026-10-28",
-    "summary_en": "This essay explores the paradoxical relationship between freedom and selfhood, arguing that true liberation requires radical self-transcendence rather than self-assertion. Drawing on literary and philosophical voices from Baldwin to Murdoch, the piece contends that freedom emerges when we 'unself' - shedding fixed identities and embracing our mutable nature. The core insight is that our freedom is inseparable from our capacity for authentic belonging: we become free not by escaping connection but by recognizing others as equally complex, free agents. This perspective reframes freedom as an active practice of self-knowledge that liberates both individual growth and compassionate relationships. The author's personal commitment to maintaining an ad-free, reader-supported platform underscores the value they place on creating space for contemplative engagement with such challenging ideas.",
-    "summary_zh": "本文深刻剖析了自由与自我之间的辩证关系，指出真正的解放需要超越自我而非强化自我。作者认为，自由源于「去自我」——放下固定身份、拥抱自身的流动性。关键洞见在于自由与真实归属不可分割：我们并非通过切断联系来获得自由，而是通过认识到他人同样是独立的自由主体来实现自我解放。这种视角将自由视为通过自我认知促进个人成长与慈爱的实践。作者坚持维护无广告、由读者支持的平台，彰显了对思考性阅读空间的珍视。",
-    "best_quote_en": "Nothing is more unbearable, once one has it, than freedom.",
-    "best_quote_zh": "自由一旦拥有，便再也难以忍受。"
-  },
-  {
-    "id": 700,
-    "title": "‘Ghost Rider’: ‘Heated Rivalry’ Breakout Connor Storrie In Talks For Co-Lead Opposite Ryan Gosling, Possibly As Villain",
-    "title_zh": "《鬼骑士》选角新动态：瑞恩·高斯林搭档《激烈对抗》新星康纳·斯托里，或饰反派",
-    "model_used": "nvidia/nemotron-3-ultra-550b-a55b:free",
-    "source": "The Playlist",
-    "link": "https://theplaylist.net/connor-storrie-ghost-rider-ryan-gosling-marvel-20261027/",
-    "tags": [
-      "update",
-      "music-arts",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "动态",
-      "音乐艺术",
-      "未来预测"
-    ],
-    "date": "2026-10-27",
-    "summary_en": "Marvel's Ghost Rider reboot takes shape with intriguing casting choices that signal a tonal shift for the MCU's supernatural corner. Ryan Gosling's Johnny Blaze gets a potential foil in Connor Storrie, whose breakout in HBO's gay hockey drama 'Heated Rivalry' and chilling cameo in Joker: Folie à Deux suggest range beyond typical blockbuster fare. The Shawn Levy-Jonathan Tropper reunion (fresh off Deadpool & Wolverine) plus Linus Sandgren shooting on film hints at visual ambition rare for Marvel. What fascinates me is how this positions the Midnight Sons mythology—Mephisto, Werewolf by Night, Blade—all circling a 2028 release that could finally cohere Marvel's horror-adjacent IP. Storrie skipping auditions suggests Marvel sees leading-man potential, not just villain-of-the-week. The Nevada/Oregon/California locations imply practical effects over volume stages. This feels like Marvel attempting something textured rather than templated—whether they stick the landing remains the question.",
-    "summary_zh": "漫威《鬼骑士》重启版选角透露野心：高斯林搭档HBO剧《激烈对抗》新星康纳·斯托里，后者从同性冰球剧到《小丑2》结尾杀手的跨度令人期待。肖恩·李维执导、乔纳森·特珀编剧、林纳斯·桑德格伦胶片拍摄——这组合罕见地指向质感而非流水线。更有趣的是午夜之子团队的铺垫：梅菲斯托、狼人、刀锋战士都在等待。斯托里免试镜直接谈主演，漫威或在培养新一代领衔而非功能性反派。内华达/俄勒冈/加州实景拍摄暗示实拍特效优先。漫威能否驾驭这股超自然黑暗风，2028年见分晓。",
-    "best_quote_en": "The actor is reportedly in talks for a co-leading role opposite Ryan Gosling in 'Ghost Rider,' with Shawn Levy directing. His character remains unknown, though speculation suggests he could play the film's main villain.",
-    "best_quote_zh": "据报道，这位演员正在洽谈在《鬼骑士》中担任瑞恩·高斯林的联合主演，由肖恩·李维执导。他的角色尚不得而知，但有推测认为他可能饰演本片的主要反派。"
-  },
-  {
-    "id": 701,
-    "title": "White House tips Nicki Minaj as next press secretary?",
-    "title_zh": "白宫或提名尼基迷昂为下任新闻秘书？",
-    "model_used": "poolside/laguna-s-2.1:free",
-    "source": "NME",
-    "link": "https://www.nme.com/news/music/white-house-tips-nicki-minaj-as-next-press-secretary-3974384?utm_source=rss&utm_medium=rss&utm_campaign=white-house-tips-nicki-minaj-as-next-press-secretary",
-    "tags": [
-      "update",
-      "politics",
-      "music-arts",
-      "controversial"
-    ],
-    "tags_zh": [
-      "动态",
-      "政治时事",
-      "音乐艺术",
-      "争议观点"
-    ],
-    "date": "2026-10-27",
-    "summary_en": "This article explores the intersection of celebrity culture and political theater, highlighting how Nicki Minaj's public endorsement of Donald Trump has evolved into a satirical White House suggestion that she become press secretary. The piece underscores the increasingly blurred lines between entertainment and governance in the current political climate. Minaj's vocal support for Trump—rooted in admiration for his business acumen and persona—reflects a broader trend of celebrities aligning with populist movements, often at the cost of significant backlash. Her appearances at Trump rallies and conservative media platforms signal a strategic repositioning that challenges traditional industry norms and raises questions about artistic identity versus political allegiance. The White House's tongue-in-cheek response amplifies the spectacle, suggesting that political appointments may now be influenced by cultural visibility rather than institutional experience. This dynamic reveals how modern politics increasingly relies on performative alignment and media-savvy figures to shape public perception.",
-    "summary_zh": "这则消息折射出娱乐与政治日益交融的现象，尼基迷昂公开支持特朗普竟引来白宫玩笑般的提名，彰显政治舞台对明星文化的利用。她的立场转变背后，是个人光圈扩大的同时，也面临舆论风暴，说明当下公众人物的政治表达愈发成为舆论战的焦点。这种“明星背书”是否改变选举生态，值得深思。",
-    "best_quote_en": "“I just love him,” Minaj said. “And I’m not going to ever make excuses for that.”",
-    "best_quote_zh": "“我只是喜欢他，我绝不会为此找借口。”"
-  },
-  {
     "id": 702,
     "title": "Doktoro Esperanto",
     "title_zh": "Doktoro Esperanto",
@@ -2426,5 +2309,138 @@
     "summary_zh": "本期哈勃实验室精要节目探讨了情感、故事与文化如何塑造我们的感知、学习和自我认知。Immordino-Yang博士指出，情感体验是认知发展的基础，这挑战了传统将情感与学习分离的教育模式。讨论强调了叙事如何能培养同理心或导致去人性化，并提供了实用的教育工具，帮助教师激发学生的好奇心和意义感。关键见解包括脑身对话、社会依存性以及将情感神经科学融入教育设计的必要性。节目建议重新设计教育系统，以培养情感智能和全面发展，从而实现更有效的学习成果和更和谐的社会。",
     "best_quote_en": "Emotions are not just something that happen to us; they are a fundamental part of how we think, learn, and develop a sense of who we are.",
     "best_quote_zh": "情感不仅仅是我们经历的东西；它们是我们思考、学习和建立自我认同感的基本组成部分。"
+  },
+  {
+    "id": 797,
+    "title": "Manics tell about playing ‘Generation Terrorists’ in full: “This album feels like it’s from a different universe”",
+    "title_zh": "曼尼克街传道士谈完整演奏《Generation Terrorists》：「这张专辑仿佛来自另一个宇宙」",
+    "title_en": "Manics tell about playing ‘Generation Terrorists’ in full: “This album feels like it’s from a different universe”",
+    "model_used": "nvidia/nemotron-3.5-super-vl:free",
+    "translation_model_used": null,
+    "source": "NME",
+    "link": "https://www.nme.com/news/music/manic-street-preachers-interview-generation-terrorists-35th-anniversary-gig-cardiff-blackweir-fields-tickets-new-album-3976211",
+    "tags": [
+      "solve",
+      "music-arts",
+      "writing-content",
+      "case-study"
+    ],
+    "tags_zh": [
+      "解决",
+      "音乐艺术",
+      "写作内容",
+      "案例研究"
+    ],
+    "date": "2026-11-18",
+    "summary_en": "This NME feature captures Manic Street Preachers frontman James Dean Bradfield reflecting on their 1992 debut 'Generation Terrorists' ahead of a 35th-anniversary performance in Cardiff. The article explores the tension between nostalgia and present relevance, as Bradfield questions whether the album's punk-meets-metal manifesto—with its republican spirit, banking crisis critiques, and generational anxieties—will still land in 2027. Beyond the concert announcement, the piece offers a meditation on artistic continuity, the passage of time, and how a band in their 16th album cycle reconnects with the raw energy of their youth. The inclusion of never-before-performed live tracks and the absence of late lyricist Richey Edwards add layers of poignancy to this cultural moment.",
+    "summary_zh": "这篇NME专访记录了曼尼克街传道士主唱詹姆斯·迪恩·布拉德菲尔德对1992年首张专辑《Generation Terrorists》的回顾，专辑将于2027年在卡迪夫迎来35周年纪念演出。文章探讨了怀旧与当下 relevance 的张力：这张朋克与金属交织的宣言，其共和精神、对银行危机的批判以及代际焦虑，在2027年是否仍能引起共鸣？这不仅是一场音乐会预告，更是对艺术延续性、时间流逝以及一支正在创作第16张专辑的乐队如何重拾青春原始能量的思考。从未现场演奏过的曲目以及已故作词人里奇·爱德华兹的缺席，为这一文化时刻增添了深刻的意味。",
+    "best_quote_en": "This album feels like it's from a different universe, let alone from nearly four decades ago.",
+    "best_quote_zh": "这张专辑仿佛来自另一个宇宙，更不用说是将近四十年前的事了。"
+  },
+  {
+    "id": 798,
+    "title": "All the Time in the World: Robert Pattinson Takes on James Bond",
+    "title_zh": "罗伯特·帕丁森接替丹尼尔·克雷格成为007",
+    "title_en": "All the Time in the World: Robert Pattinson Takes on James Bond",
+    "model_used": "nvidia/nemotron-3-nano-omni-30b-a3b-reasoning:free",
+    "translation_model_used": null,
+    "source": "RogerEbert.com",
+    "link": "https://www.rogerebert.com/features/all-the-time-in-the-world-robert-pattinson-takes-on-james-bond",
+    "tags": [
+      "update",
+      "design",
+      "music-arts",
+      "controversial"
+    ],
+    "tags_zh": [
+      "动态",
+      "设计创意",
+      "音乐艺术",
+      "争议观点"
+    ],
+    "date": "2026-11-17",
+    "summary_en": "This analysis examines the intense public reaction to Robert Pattinson's casting as the next James Bond, revealing how Hollywood's 'Gilded Age of Casting Controversies' reveals deeper patterns of resistance to change. The author methodically deconstructs criticisms—ranging from perceived youth and fame to subjective notions of 'handsomeness'—only to show how these same arguments once condemned now-iconic performances (Keaton as Batman, Ledger as Joker, Craig as Bond). What makes this piece particularly valuable is its reframing of Pattinson's age (40) as an asset aligning with Bond's literary age range, and its emphasis on his demonstrated versatility through transformative roles in 'The Batman,' 'Dune: Part Three,' and 'Mickey 17.' The article transcends fanboy outrage to offer a compelling case that this represents not a departure but a thoughtful evolution of the franchise under Denis Villeneuve's direction and Steven Knight's script.",
+    "summary_zh": "这篇深度剖析揭示了好莱坞选角争议的本质——观众对罗伯特·帕丁森接替丹尼尔·克雷格担任007的强烈反对，实则是对演员突破传统形象的叛逆所引发的本能抵触。作者清晰梳理了从凯伊·巴顿到小休·格拉夫顿的 casting 历史，展现出这些批评本质上是对演员突破类型框架的不适应。帕丁森40岁的年龄与007小说设定相符，而他通过《蝙蝠侠》《沙丘》等作品证明的变身能力，使其成为振兴007的理想人选。这不仅是选角争议，更是对演员艺术可能性的深刻认可，预示着007将在丹尼斯·维尔纽瓦执导和斯蒂文·纳特编剧下迎来新篇章。",
+    "best_quote_en": "We never learn from Hollywood history.",
+    "best_quote_zh": "我们从未从好莱坞的选角历史中学习。"
+  },
+  {
+    "id": 799,
+    "title": "Your Brain on Grief, Your Heart on Healing",
+    "title_zh": "你的大脑在悲伤，你的心在疗愈",
+    "title_en": "Your Brain on Grief, Your Heart on Healing",
+    "model_used": "nvidia/nemotron-3.5-lightning:free",
+    "translation_model_used": null,
+    "source": "The Marginalian",
+    "link": "https://www.themarginalian.org/2026/11/16/the-grieving-brain-mary-frances-o-connor/",
+    "tags": [
+      "learn",
+      "psychology",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "学习",
+      "心理学",
+      "未来预测"
+    ],
+    "date": "2026-11-17",
+    "summary_en": "This work explores the neuroscience of grief, explaining how the brain maps loved ones and struggles to adapt to their absence. It frames grieving as a learning process, showing that while grief never fully ends, our relationship to it transforms over time. Drawing on fMRI research, it reveals how neural connections sustain an ongoing internal bond with the departed, allowing us to carry love forward as an attribute of self rather than dependence on another.",
+    "summary_zh": "本书探索悲伤的神经科学，解释大脑如何映射挚爱并适应其缺失。它将哀悼框架化为一种学习过程，表明虽然悲伤从未真正结束，但我们与它的关系会随时间转变。基于fMRI研究，它揭示了神经连接如何维持与逝去者的内在联系，让我们能够将爱作为自我属性而非对他人的依赖来承载前行。",
+    "best_quote_en": "Grief is a heart-wrenchingly painful problem for the brain to solve, and grieving necessitates learning to live in the world with the absence of someone you love deeply, who is ingrained in your understanding of the world.",
+    "best_quote_zh": "悲伤是大脑必须解决的令人心碎的难题，而哀悼则需要学会在心中深爱之人的缺席中生活，他们嵌入于你对世界的理解之中。"
+  },
+  {
+    "id": 800,
+    "title": "A Demon That Lived in the Air: “The Right Stuff” Joins the Criterion Collection",
+    "title_zh": "空中的恶魔：'The Right Stuff' 加入克里泰恩收藏",
+    "title_en": "A Demon That Lived in the Air: “The Right Stuff” Joins the Criterion Collection",
+    "model_used": "nvidia/nemotron-3-nano-omni-30b-a3b-reasoning:free",
+    "translation_model_used": null,
+    "source": "RogerEbert.com",
+    "link": "https://www.rogerebert.com/dvd-blu-ray/a-demon-that-lived-in-the-air-the-right-stuff-joins-the-criterion-collection",
+    "tags": [
+      "learn",
+      "music-arts",
+      "design",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "学习",
+      "音乐艺术",
+      "设计创意",
+      "未来预测"
+    ],
+    "date": "2026-11-17",
+    "summary_en": "The Right Stuff, hailed as a quintessential American myth, joins Criterion’s 4K Blu-ray collection. The film chronicles test pilot Chuck Yeager breaking the sound barrier and the Mercury Seven’s journey into space, blending epic drama, comedy, and deep humanity. Director Caleb Deschanel calls it a Western confronting the future, while the score and visuals amplify its emotional power. It explores courage, idealism, and the tension between progress and loss, honoring the brave men who pushed the limits of human exploration.",
+    "summary_zh": "《The Right Stuff》被誉为美国精神的典范，现加入克里泰恩4K Blu-ray收藏。影片讲述试飞员钱德勒·叶根突破音障及水星七号宇航员的太空之旅，融合史诗戏剧、喜剧与深刻人性。导演凯尔·德尚奈尔将其视为面对未来的西部片，音乐与画面增强其情感力度，探讨勇气、理想主义以及进步与失落的张力，致敬那些冒险突破人类极限的勇士。",
+    "best_quote_en": "It’s almost like, you know, some kind of subconscious understanding of this is someone.",
+    "best_quote_zh": "好像，你知道，有一种 subconscious 的理解，这正是某个人。"
+  },
+  {
+    "id": 801,
+    "title": "J.R.R. Tolkien on Fairy Tales, Language, the Psychology of Fantasy, and Why There’s No Such Thing as Writing “For Children”",
+    "title_zh": "托尔金论童话、语言、奇幻心理学及为何不存在\"为儿童写作\"",
+    "title_en": "J.R.R. Tolkien on Fairy Tales, Language, the Psychology of Fantasy, and Why There's No Such Thing as Writing \"For Children\"",
+    "model_used": "nvidia/nemotron-3-ultra-550b-a55b:free",
+    "translation_model_used": null,
+    "source": "The Marginalian",
+    "link": "https://www.themarginalian.org/2026/11/16/j-r-r-tolkien-on-fairy-stories/",
+    "tags": [
+      "learn",
+      "design",
+      "writing-content",
+      "case-study"
+    ],
+    "tags_zh": [
+      "学习",
+      "设计创意",
+      "写作内容",
+      "案例研究"
+    ],
+    "date": "2026-11-16",
+    "summary_en": "Tolkien's 1939 lecture \"On Fairy-Stories\" argues that fairy tales are not inherently for children but are relegated to the nursery by adults. He defines fairy stories as works touching on Faerie — a serious magic distinct from vulgar trickery — and explores the deep connection between language and fantasy, rejecting Max Müller's view of mythology as a \"disease of language.\" Tolkien contends that the association of fairy tales with childhood is an accident of domestic history, not a natural affinity. He introduces the concept of \"sub-creation\" — the artist's power to make a Secondary World with inner consistency — and identifies Recovery, Escape, and Consolation as the psychological functions of fairy stories. Creative fantasy, he writes, can \"open your hoard and let all the locked things fly away like cage-birds,\" renewing our perception of reality.",
+    "summary_zh": "托尔金1939年演讲《论童话故事》指出，童话并非天然属于儿童，而是被成人任意归入儿童室。他将童话定义为涉及\"仙境\"的作品——一种严肃的魔法，区别于低俗把戏。托尔金探讨语言与奇幻的深层联系，反对米勒将神话视为\"语言的疾病\"。他认为童话与童年关联只是家庭史的偶然。他提出\"副创造\"概念：艺术家创造具有内在一致性的次级世界。童话的心理功能包括恢复、逃避和慰藉。创造性奇幻能\"打开你的宝藏，让所有被锁住的事物像笼中鸟一样飞走\"，更新我们对现实的感知。",
+    "best_quote_en": "Creative fantasy may open your hoard and let all the locked things fly away like cage-birds.",
+    "best_quote_zh": "创造性奇幻能打开你的宝藏，让所有被锁住的事物像笼中鸟一样飞走。"
   }
 ]
