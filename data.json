@@ -1,122 +1,5 @@
 [
   {
-    "id": 702,
-    "title": "Doktoro Esperanto",
-    "title_zh": "Doktoro Esperanto",
-    "model_used": "nvidia/nemotron-3.5-super-vl:free",
-    "source": "99% Invisible",
-    "link": "https://99percentinvisible.org/episode/689-doktoro-esperanto/",
-    "tags": [
-      "inspire",
-      "design",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "启发",
-      "设计创意",
-      "未来预测"
-    ],
-    "date": "2026-10-27",
-    "summary_en": "This piece explores L.L. Zamenhof's creation of Esperanto, a constructed language designed nearly 150 years ago to unite humanity through a shared, easy-to-learn tongue. Growing up in multilingual Białystok under the Russian Empire, Zamenhof envisioned a neutral global second language that could transcend national and regional divisions. Though Esperanto never achieved its ultimate goal of universal adoption, it endures as the most widely spoken constructed language, with an active community that still gathers annually for the World Esperanto Congress. Reporter Katie Thornton's attendance at the 2025 congress raises compelling questions about the persistence of idealistic projects in a world dominated by English linguistic hegemony. The content invites reflection on constructed languages as deliberate social engineering, the tension between organic language evolution and intentional design, and what it means to keep a utopian linguistic vision alive long after its original promise has faded.",
-    "summary_zh": "这篇文章探讨了L.L.扎门霍夫近150年前创建的构造语言世界语，旨在通过一种容易学习的共同语言团结人类。扎门霍夫在俄罗斯帝国时期的多语言城市比亚韦斯托克长大，构想了一种超越国家和地区分歧的中立全球第二语言。尽管世界语未能实现成为人人第二语言的终极目标，但它仍然是使用最广泛的构造语言，活跃的社区每年仍举办世界语大会。记者凯蒂·桑顿参加2025年大会的经历引发了深刻思考：在英语语言霸权主导的世界里，理想主义项目如何持续存在？内容邀请我们反思构造语言作为 deliberate 社会工程，有机语言演变与有意设计之间的张力，以及在原始承诺褪色后，保持乌托邦式语言愿景活力意味着什么。",
-    "best_quote_en": "Esperanto is what linguists call a 'constructed language.' It isn't attached to a nation or a region, and it didn't evolve from another language over time.",
-    "best_quote_zh": "世界语是语言学家所说的“构造语言”。它不附属于任何国家或地区，也不是随时间从另一种语言演变而来。"
-  },
-  {
-    "id": 703,
-    "title": "The world moves on: Billy Wilder’s cinema of ageing and obsolescence",
-    "title_zh": "世界在前行：比利·怀尔德关于衰老与过时的电影",
-    "model_used": "dots-studio/dots-3-note-preview:free",
-    "source": "BFI",
-    "link": "https://www.bfi.org.uk/features/world-moves-billy-wilder-cinema-ageing-obsolescence",
-    "tags": [
-      "analyze",
-      "music-arts",
-      "case-study"
-    ],
-    "tags_zh": [
-      "分析",
-      "音乐艺术",
-      "案例研究"
-    ],
-    "date": "2026-10-28",
-    "summary_en": "This article offers a profound and witty exploration of Billy Wilder’s cinematic preoccupation with ageing, obsolescence, and the existential dread of being left behind. Through a rich analysis of films like Sunset Blvd., The Apartment, and Fedora, the author reveals how Wilder consistently portrayed characters grappling with diminished relevance, missed opportunities, and the painful transition from youth-centric idealism to marginalization. The piece is particularly insightful in drawing parallels between Wilder’s own career trajectory—especially his later struggles to secure financing for Fedora—and the themes of his films, suggesting a deep self-awareness of artistic obsolescence. By casting aging Hollywood legends in their final major roles, Wilder not only paid homage but also underscored the cruelty of an industry that discards its icons. The article’s strength lies in its nuanced character studies, especially Norma Desmond and Max, and its ability to frame Wilder’s work as both a critique of Hollywood and a universal meditation on time, regret, and resilience. It is a masterclass in how cinema can reflect the vulnerabilities of ageing with both satire and sympathy.",
-    "summary_zh": "本文以犀利而深情的笔触，深入剖析比利·怀尔德电影中对衰老、过时与被时代抛弃的持续关注。通过分析《日落大道》《公寓》与《费多拉》等作品，作者揭示了怀尔德如何反复描绘人物在错过机遇、失去重要性后面对的幻灭与挣扎。尤为精彩的是，文章将怀尔德晚年难以融资拍摄《费多拉》的现实困境，与其电影中主角的处境形成互文，暗示他对艺术生命衰退的敏锐自觉。他启用好莱坞传奇演员出演最后一部重要作品，既是对经典的致敬，也是对行业无情淘汰机制的尖锐批判。文中对诺玛·德斯蒙德与麦克斯等角色的解读，展现出怀尔德式讽刺与悲悯的完美平衡。这不仅是一次对电影史的回顾，更是一场关于时间、遗憾与尊严的永恒对话，令人回味无穷。",
-    "best_quote_en": "Fears that you missed the boat or that the world has moved on without you are both universal and eternal. That Wilder could illustrate those fears with such acutely wry warmth is among the reasons why so many of his films have endured for so long.",
-    "best_quote_zh": "害怕错过机会，或担心世界已抛下你独自前行——这些恐惧既普遍又永恒。怀尔德能以如此机智而温暖的方式呈现这些焦虑，正是他的电影历久弥新的重要原因。"
-  },
-  {
-    "id": 704,
-    "title": "Artist Spotlight: Alina-Ondine Slimovschi",
-    "title_zh": "艺术家聚焦：Alina-Ondine Slimovschi",
-    "model_used": "nvidia/nemotron-3-ultra-550b-a55b:free",
-    "source": "BOOOOOOOM",
-    "link": "https://www.booooooom.com/2026/10/28/artist-spotlight-alina-ondine-slimovschi-5/",
-    "tags": [
-      "analyze",
-      "design",
-      "music-arts"
-    ],
-    "tags_zh": [
-      "分析",
-      "设计创意",
-      "音乐艺术"
-    ],
-    "date": "2026-10-28",
-    "summary_en": "This Booooooom spotlight on Alina-Ondine Slimovschi functions as a pure visual essay — fifteen images presented without curatorial text, artist statement, or critical framing. The silence is deliberate. By withholding explanation, the platform forces viewers into direct confrontation with the work's formal language: muted palettes, domestic intimacy, and a peculiar tension between staged composition and candid vulnerability. What emerges isn't a portfolio but a mood architecture — each image a room in an unseen narrative. The value here isn't informational but phenomenological: it reminds us that contemporary art discovery still thrives on unmediated looking. In an era of algorithmic feeds and SEO-optimized captions, this refusal to explain feels almost radical. The images linger precisely because they resist summary.",
-    "summary_zh": "Booooooom 这组聚焦 Alina-Ondine Slimovschi 的作品集拒绝了一切文字介绍——十五张图片裸露在白底上，无策展语、无艺术家自述、无解读框架。这种沉默是策略：它迫使观者直面作品的形式语言——克制的色调、家居般的亲密感、布景感与脆弱真实的张力。这不是作品集，而是情绪建筑，每张图都是未讲故事的一间房。价值不在资讯而在现象：提醒我们当代艺术发现仍依赖非中介的凝视。在算法流与 SEO 标题盛行的当下，拒绝解释本身成了激进姿态。图像之所以驻留，正是因为它们抗拒被总结。",
-    "best_quote_en": "The silence is deliberate. By withholding explanation, the platform forces viewers into direct confrontation with the work's formal language.",
-    "best_quote_zh": "这种沉默是策略：它迫使观者直面作品的形式语言——克制的色调、家居般的亲密感、布景感与脆弱真实的张力。"
-  },
-  {
-    "id": 705,
-    "title": "Women: was your autoimmune condition misdiagnosed?",
-    "title_zh": "女性：你的自身免疫性疾病被误诊了吗？",
-    "model_used": "nvidia/nemotron-3.5-super-vl:free",
-    "source": "Women | The Guardian",
-    "link": "https://www.theguardian.com/wellness/2026/oct/27/woman-autoimmune-condition-community-readers",
-    "tags": [
-      "solve",
-      "general",
-      "case-study"
-    ],
-    "tags_zh": [
-      "解决",
-      "general",
-      "案例研究"
-    ],
-    "date": "2026-10-27",
-    "summary_en": "This Guardian callout highlights a critical gender disparity in autoimmune disease diagnosis, citing research from Cambridge University and the University of East Anglia. Women are 43% more likely to receive psychiatric misdiagnoses and 74% more likely to receive psychosomatic misdiagnoses than men. The diagnostic delay is equally stark: women wait one to two years compared to less than three months for men. Beyond statistics, the piece invites lived experiences to document the physical, mental, and financial toll of diagnostic bias. It exposes how medical gender bias trivializes women's symptoms as psychological rather than physiological, representing a systemic failure in healthcare that demands both clinical reform and patient advocacy.",
-    "summary_zh": "这篇卫报征稿揭示了自身免疫性疾病诊断中的性别差距。剑桥大学和东英吉利大学的研究显示，女性被误诊为精神疾病的可能性比男性高43%，被误诊为心身疾病的可能性高74%。诊断延迟同样显著：女性等待一到两年，而男性不到三个月。文章邀请女性分享被误诊的经历，记录诊断偏见带来的生理、心理和经济代价。它揭示了医疗领域的性别偏见如何将女性的生理症状轻率地归结为心理问题，暴露出医疗体系的系统性失败，亟需临床改革和患者倡导。",
-    "best_quote_en": "Women are 43% more likely than men to receive a psychiatric misdiagnosis, meaning an autoimmune issue is misdiagnosed as a psychiatric problem, and 74% more likely to receive a psychosomatic misdiagnosis, meaning symptoms are considered psychological or stress-induced rather than physical.",
-    "best_quote_zh": "女性比男性更有可能被精神误诊43%，即自身免疫问题被误诊为精神问题；更有可能被心身误诊74%，即症状被视为心理或压力诱发，而非生理性的。"
-  },
-  {
-    "id": 706,
-    "title": "Tony Hawk’s Real-Life Willy Wonka",
-    "title_zh": "托尼·霍克的真实生活威利·旺卡",
-    "model_used": "cohere/north-mini-code:free",
-    "source": "99% Invisible",
-    "link": "https://99percentinvisible.org/episode/688-tony-hawks-real-life-willy-wonka/",
-    "tags": [
-      "analyze",
-      "design",
-      "writing-content",
-      "case-study"
-    ],
-    "tags_zh": [
-      "分析",
-      "设计创意",
-      "写作内容",
-      "案例研究"
-    ],
-    "date": "2026-10-20",
-    "summary_en": "N.D. Austin creates transformative experiences, from secret sewer speakeasies to desert train rides, blending ritual, generosity, and magic. Growing up in an Alaskan doomsday cult, he designs immersive worlds that mend relationships and challenge everyday life, offering a unique blend of adventure and introspection.",
-    "summary_zh": "N.D. Austin 是一位专业创造改变体验的人，他的项目包括秘密下水道酒吧、荒岛成人礼、葬礼棋盘游戏，以及为托尼·霍克设计的沙漠 homemade 列车，以修复破裂的关系。他在阿拉斯加的毁灭主义邪教中成长的经历，塑造了他对仪式、慷慨和在日常生活中加入更多魔法的思考。",
-    "best_quote_en": "Designing experiences is like weaving magic into the fabric of everyday life.",
-    "best_quote_zh": "设计体验就像在日常生活中编织魔法。"
-  },
-  {
     "id": 707,
     "title": "Novelty and Heresy",
     "title_zh": "新奇与异端",
@@ -2442,5 +2325,130 @@
     "summary_zh": "托尔金1939年演讲《论童话故事》指出，童话并非天然属于儿童，而是被成人任意归入儿童室。他将童话定义为涉及\"仙境\"的作品——一种严肃的魔法，区别于低俗把戏。托尔金探讨语言与奇幻的深层联系，反对米勒将神话视为\"语言的疾病\"。他认为童话与童年关联只是家庭史的偶然。他提出\"副创造\"概念：艺术家创造具有内在一致性的次级世界。童话的心理功能包括恢复、逃避和慰藉。创造性奇幻能\"打开你的宝藏，让所有被锁住的事物像笼中鸟一样飞走\"，更新我们对现实的感知。",
     "best_quote_en": "Creative fantasy may open your hoard and let all the locked things fly away like cage-birds.",
     "best_quote_zh": "创造性奇幻能打开你的宝藏，让所有被锁住的事物像笼中鸟一样飞走。"
+  },
+  {
+    "id": 802,
+    "title": "Know the Score",
+    "title_zh": "知晓分数",
+    "title_en": "Know the Score",
+    "model_used": "nvidia/nemotron-3-ultra-550b-a55b:free",
+    "translation_model_used": null,
+    "source": "99% Invisible",
+    "link": "https://99percentinvisible.org/episode/692-know-the-score/",
+    "tags": [
+      "solve",
+      "science"
+    ],
+    "tags_zh": [
+      "解决",
+      "科学研究"
+    ],
+    "date": "2026-11-17",
+    "summary_en": "This piece exposes the credit score as a powerful yet opaque algorithm that governs American life far beyond lending decisions. What began as a risk-assessment tool for banks has metastasized into a universal gatekeeper for housing, employment, and mobility—yet its calculations remain proprietary, its data often erroneous, and its outcomes deeply entangled with historical bias. The article traces how a system marketed as objective neutrality actually launders structural inequality through mathematical legitimacy. Most striking is the asymmetry: individuals bear the burden of monitoring and disputing errors in a system they never consented to, while the scoring models themselves face minimal accountability. This isn't just a financial infrastructure problem; it's a governance failure where private corporations wield public authority without democratic oversight.",
+    "summary_zh": "信用评分本是银行风控工具，却悄然成为统治美国人生的隐形权杖——住房、就业、流动皆系于此三位数。它披着客观中立的外衣，实则将结构性不平等洗白为数学真理。最讽刺的是责任倒置：个人需自费监控并修正从未同意参与的系统错误，而评分模型本身却免于问责。这不只是金融基建缺陷，更是私人公司行使公权力却无民主监管的治理失灵。",
+    "best_quote_en": "What started as a simple tool for lenders ended up embedding itself in the lives of most Americans, and feeding the same bias it claimed to solve.",
+    "best_quote_zh": "始作借贷风控简易工具，终嵌入大多数美国人生，反哺其声称要解决的偏见。"
+  },
+  {
+    "id": 803,
+    "title": "Your Mother Your Mother Your Mother: A widowed hit man is on a mission to find breast milk for his baby in this eccentric action thriller",
+    "title_zh": "你的母亲你的母亲你的母亲",
+    "title_en": "Your Mother Your Mother Your Mother",
+    "model_used": "inclusionai/ling-3.2-flash:free",
+    "translation_model_used": null,
+    "source": "BFI",
+    "link": "https://www.bfi.org.uk/sight-and-sound/reviews/your-mother-your-mother-your-mother-widowed-hit-man-mission-find-breast-milk-his-baby-this-eccentric-action-thriller",
+    "tags": [
+      "solve",
+      "music-arts",
+      "legal",
+      "case-study"
+    ],
+    "tags_zh": [
+      "解决",
+      "音乐艺术",
+      "法律法规",
+      "案例研究"
+    ],
+    "date": "2026-11-18",
+    "summary_en": "In Bassam Tariq's eccentric action thriller, Mahershala Ali plays Latif, a devout Muslim hitman and widowed father of three. Struggling with a crisis of faith, he must find breast milk for his formula-refusing infant while taking on one final contract: eliminating a fundamentalist Christian cult leader. Set in Houston during Ramadan, the film blends lurid violence with sly comedy, exploring the pressures of fatherhood and the imperfect realities of a self-contained community. Ali delivers a performance of remarkable range, balancing brutal capability with tender anxiety.",
+    "summary_zh": "巴萨姆·塔里克执导的古怪动作惊悚片中，马赫沙拉·阿里饰演虔诚的穆斯林杀手拉蒂夫。这位丧偶的父亲在信仰危机中，既要为拒绝奶粉的婴儿寻找母乳，又要完成刺杀邪教领袖的最后任务。影片将暴力与喜剧融合，探讨父职压力与社区的真实面貌。",
+    "best_quote_en": "Tariq finds crafty humour, but crucially, not judgement, in the tension between fallible characters and their attempts to uphold their faith.",
+    "best_quote_zh": "塔里克在有缺陷的角色与坚守信仰的张力中找到了巧妙的幽默，而非评判。"
+  },
+  {
+    "id": 804,
+    "title": "“Between Hands” by Photographer Tristan Martinez",
+    "title_zh": "双手之间",
+    "title_en": "Between Hands",
+    "model_used": "inclusionai/ling-3.2-flash:free",
+    "translation_model_used": null,
+    "source": "BOOOOOOOM",
+    "link": "https://www.booooooom.com/2026/11/18/between-hands-by-photographer-tristan-martinez/",
+    "tags": [
+      "update",
+      "music-arts"
+    ],
+    "tags_zh": [
+      "动态",
+      "音乐艺术"
+    ],
+    "date": "2026-11-18",
+    "summary_en": "In 'Between Hands,' photographer Tristan Martinez explores the intimate language of touch and human connection. The series captures fleeting moments where hands meet, intertwine, and communicate emotions beyond words. Through careful composition and soft lighting, Martinez transforms simple gestures into profound visual poetry. The images invite viewers to contemplate the warmth, vulnerability, and silent dialogue shared between individuals, celebrating the quiet beauty found in physical closeness and the unspoken bonds that define our shared humanity.",
+    "summary_zh": "在《双手之间》中，摄影师特里斯坦·马丁内斯探索了触觉与人类连接的亲密语言。该系列捕捉了双手相遇、交织并传递无言情感的瞬间。通过精心构图与柔和光影，马丁内斯将简单的肢体动作转化为深刻的视觉诗意，邀请观者沉思人与人之间共享的温暖、脆弱与无声对话。",
+    "best_quote_en": "Hands speak a silent language, weaving invisible threads of intimacy between souls.",
+    "best_quote_zh": "双手诉说无声的语言，在灵魂之间编织无形的亲密纽带。"
+  },
+  {
+    "id": 805,
+    "title": "Florence Pugh speaks out against ‘disturbing’ cosmetic surgery speculation",
+    "title_zh": "弗洛伦丝·皮尤公开反对“令人不安的”整容猜测",
+    "title_en": "Florence Pugh speaks out against ‘disturbing’ cosmetic surgery speculation",
+    "model_used": "particle-ai/particle-1:free",
+    "translation_model_used": null,
+    "source": "Women | The Guardian",
+    "link": "https://www.theguardian.com/culture/2026/nov/19/florence-pugh-responds-cosmetic-plastic-surgery-speculation-governors-awards",
+    "tags": [
+      "inspire",
+      "design",
+      "society",
+      "controversial"
+    ],
+    "tags_zh": [
+      "启发",
+      "设计创意",
+      "社会议题",
+      "争议观点"
+    ],
+    "date": "2026-11-18",
+    "summary_en": "Florence Pugh’s forceful response to viral speculation about her appearance is more than a celebrity denial—it’s a searing critique of how social media dissects women’s bodies. Pugh, known for body-positive advocacy, rejects claims of Ozempic use and cosmetic procedures, framing the gossip as symptomatic of a culture that punishes confident women. Her statement is striking for its raw vulnerability: she describes waking up to thousands dissecting her face and body, and contrasts images from a time of self-neglect with her current health. The revelation that she sued over AI-generated fake images adds a chilling dimension—technology now fabricates evidence of the very procedures she denies. Pugh’s call for mindfulness is both personal and political, urging followers to consider the real humans behind viral photos. This is a masterclass in using platform and privilege to challenge harmful norms, though it also underscores the relentless scrutiny public figures face. Her anger is directed not at individuals but at the systemic pressure to conform to impossible standards—a pressure that, as she notes, feels inescapable.",
+    "summary_zh": "弗洛伦丝·皮尤对整容猜测的强硬回应，远不止是明星辟谣，更是对社交媒体如何解剖女性身体的尖锐批判。她否认使用Ozempic或整容，将流言视为惩罚自信女性的文化症状。声明中，她坦承醒来面对成千上万条对她身体的剖析，并对比自我忽视时期与如今健康的照片。更令人心惊的是，她曾起诉发布AI生成假照片的媒体——技术竟能伪造她否认的手术证据。皮尤呼吁同理心，既是个人宣泄也是政治发声，提醒我们病毒照片背后是真实的人。这展现了名人利用平台挑战有害规范的范例，也凸显公众人物承受的无情审视。她的愤怒指向系统性的 conformity 压力，而非个体——这种压力正如她所言，令人窒息。",
+    "best_quote_en": "I’ve always been aware that seeing a confident woman be happy in her skin is triggering to a lot of people and for a long time just accepted that I will receive commentary like that. But now this…? I’m asking us all to just be mindful. We are real people, living real lives.",
+    "best_quote_zh": "我一直意识到，看到一个自信的女人快乐地做自己会触发很多人，很长一段时间里我接受了自己会收到这样的评论。但现在这样……？我请求大家保持善意。我们是真实的人，过着真实的生活。"
+  },
+  {
+    "id": 806,
+    "title": "Dalí for the drive-ins: how Roger Corman’s The Trip brought psychedelia to the big screen",
+    "title_zh": "给汽车影院的达利：罗杰·科曼的《迷幻之旅》如何将迷幻文化带上大银幕",
+    "title_en": "Dalí for the drive-ins: how Roger Corman's The Trip brought psychedelia to the big screen",
+    "model_used": "nvidia/nemotron-3-ultra-550b-a55b:free",
+    "translation_model_used": null,
+    "source": "BFI",
+    "link": "https://www.bfi.org.uk/features/dali-drive-ins-how-roger-cormans-trip-brought-psychedelia-big-screen",
+    "tags": [
+      "analyze",
+      "music-arts",
+      "case-study"
+    ],
+    "tags_zh": [
+      "分析",
+      "音乐艺术",
+      "案例研究"
+    ],
+    "date": "2026-11-18",
+    "summary_en": "This piece is a masterclass in cultural archaeology. Sophia Satchell-Baeza doesn't just recount the making of a 1967 exploitation film; she excavates the precise friction point where Hollywood commerce, Stanford-bred calculation, and genuine countercultural danger collided. The central irony is delicious: Roger Corman, a self-described 'square' who needed a stenographer to document his own supervised acid trip at Big Sur, somehow channeled the authentic texture of the Los Angeles underground more faithfully than the hippies themselves might have managed with a studio budget. The article reveals how authenticity was engineered—hiring Peter Gardiner and Bob Beck for light shows, shooting in Arthur Lee's house and the real San Souci Culture Temple, dosing extras with amyl nitrite. Yet the film's true subject isn't LSD, but the commodification of transcendence. AIP's panic—slapping on a moralizing disclaimer and a shattering-face freeze-frame—exposes the industry's terror at having accidentally funded a genuine artifact of the thing they only meant to exploit. The BBFC's 37-year ban confirms the film's power: it wasn't the 'bad trip' warning that scared censors, but the unmistakable beauty of the 'good trip' Corman captured. A essential study of how the mainstream digests the avant-garde, neutralizing it into product while occasionally, accidentally, preserving its soul.",
+    "summary_zh": "这不是部电影史，是场文化考古。科曼这个斯坦福毕业的「方正人」，带着速记员去大苏尔监督服药，却比嬉皮士更精准地捕获了迷幻体验的质感。真实感是堆砌出来的：真光秀、真嬉皮士聚落、真吸入剂让群演嗨、真亚瑟·李的房子。AIP惊恐地加免责声明、加碎裂定格，反而暴露了主流对超验体验的商品化恐惧。英国禁映37年，禁的不是「坏旅程」警示，是那不可否认的「好旅程」之美。主流吞噬前卫，通常将其中和为商品，偶尔却误把灵魂保存了下来。",
+    "best_quote_en": "\"Ingmar Bergman for the teenyboppers, Dalí for the drive-ins.\" — Los Angeles Times review of The Trip (1967)",
+    "best_quote_zh": "「给青少年的伯格曼，给汽车影院的达利。」——《洛杉矶时报》对《迷幻之旅》（1967）的评价"
   }
 ]
