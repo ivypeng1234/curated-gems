@@ -1,122 +1,5 @@
 [
   {
-    "id": 707,
-    "title": "Novelty and Heresy",
-    "title_zh": "新奇与异端",
-    "model_used": "poolside/laguna-xs-2.1:free",
-    "source": "Paul Graham",
-    "link": "http://www.paulgraham.com/nov.html",
-    "tags": [
-      "inspire",
-      "general",
-      "controversial"
-    ],
-    "tags_zh": [
-      "启发",
-      "general",
-      "争议观点"
-    ],
-    "date": "2026-10-30",
-    "summary_en": "This profound piece explores the paradoxical relationship between innovation and resistance, revealing how truly novel discoveries often appear heretical precisely because they challenge deeply held assumptions. The author insightfully argues that valuable ideas are rarely obvious—when something seems self-evidently correct, others have likely already pursued it. Instead, groundbreaking work emerges from questioning the 'mistaken assumptions' that create intellectual blind spots. Historical figures like Galileo and Darwin exemplify this pattern: their revolutionary insights were initially dismissed as dangerous heresies because they undermined established paradigms. The text warns that organizational cultures intolerant of heretical thinking don't just suppress dissent—they eliminate entire territories of unexplored possibility. Yet this same dynamic creates opportunity: by deliberately seeking out 'heresies,' innovators can access vast, untapped mines of new ideas. The piece ultimately suggests that embracing intellectual heresy is essential for genuine progress, transforming what we fear as deviation into our most reliable compass for discovery.",
-    "summary_zh": "这篇文章深刻探讨了创新与抵抗之间的悖论，揭示了多么新奇的发现往往看似异端，恰恰因为它们挑战了深刻持有的假设。作者洞见地指出，真正有价值的想法从来不是显而易见的——当某事看似自证其明时，他人很可能已经在追求。伟大的发现源于质疑那些制造认知盲区的'错误假设'。加拉利和狄亚纳正是这一模式的典型例子：他们的革命性见解最初被视为危险的异端，因为挑战了既定范式。文章警示，容忍异端思想的组织文化不仅压制异议，更消灭了未探索的可能领域。但这一动态同样创造机遇：通过刻意寻找'异端'，创新者能发现广阔的未开发新想法矿藏。这篇文章最终暗示，拥抱思想异端是实现真正进步的关键，使我们将畏惧的偏离转化为发现的指南针。",
-    "best_quote_en": "If you discover something new, there's a significant chance you'll be accused of some form of heresy. To discover new things, you have to work on ideas that are good but non-obvious; if an idea is obviously good, other people are probably already working on it.",
-    "best_quote_zh": "如果你发现了新东西，就有很大的可能被指控某种形式的异端。要发现新的东西，你必须在想要的但不寻常的想法上工作；如果一个想法是显而易见的好想法，其他人可能已经在工作。"
-  },
-  {
-    "id": 708,
-    "title": "The Tim Ferriss Show Transcripts: Legendary Chef Jacques Pépin — The Pursuit of Mastery, Cooking for Presidents, Meeting Julia Child, and More",
-    "title_zh": "蒂姆·费里斯脱口秀字幕：烹饪传奇雅克·佩坎 — 对卓越的追求、为总统烹饪、遇见茉莉·查尔德等",
-    "model_used": "poolside/laguna-s-2.1:free",
-    "source": "Tim Ferriss",
-    "link": "https://tim.blog/2026/10/27/jacques-pepin-transcript/",
-    "tags": [
-      "solve",
-      "writing-content",
-      "design"
-    ],
-    "tags_zh": [
-      "解决",
-      "写作内容",
-      "设计创意"
-    ],
-    "date": "2026-10-27",
-    "summary_en": "This transcript captures a rich conversation between Tim Ferriss and culinary master Jacques Pépin, revealing profound insights about mastery, creativity, and the intersection of different art forms. Pépin's journey—from wartime France to cooking for heads of state—illustrates how necessity breeds innovation, as seen in his mother's resourceful 'fridge soup' philosophy that became a lifelong motto. The dialogue reveals Pépin's unique teaching philosophy: preparation should appear effortless, guided by intuitive workflow rather than rote memory. Perhaps most compelling is his parallel between cooking and painting, where both require iterative testing and adjustment until satisfaction emerges. His unconventional career choices—like choosing Howard Johnson over the White House—demonstrate a consistent prioritization of creative freedom over conventional prestige. The conversation ultimately illuminates how true mastery transcends technical skill, encompassing adaptability, curiosity, and the wisdom to know what matters most.",
-    "summary_zh": "佩坎从战时法国到为国家领导人烹饪，展现了必要如何催生创新——母亲的'冰箱汤'哲学影响终生。这段对话揭示了真正的卓越超越技术，包含适应力、好奇心和判断什么最重要的智慧。",
-    "best_quote_en": "I don't really have any memory. I go in my head, I say, 'I'm going to put that on the stove, and it's going to take a minute or so, so I can open the oven.' I work it out as a cook following the recipe itself rather than the question of memory.",
-    "best_quote_zh": "我其实没有什么记忆力。我在脑子里会说：'我要把这个放在火上，大概需要一分钟，所以我可以打开烤箱。'我作为一个厨师，是按照食谱本身来安排，而不是靠记忆。"
-  },
-  {
-    "id": 709,
-    "title": "中国车主的油费痛感是美国人的6.6倍，油车彻底崩了",
-    "title_zh": "中国车主的油费痛感是美国人的6.6倍，油车彻底崩了",
-    "model_used": "google/gemma-4-26b-a4b-it:free",
-    "source": "虎嗅",
-    "link": "https://www.huxiu.com/article/4901621.html?f=rss",
-    "tags": [
-      "inspire",
-      "business-model",
-      "science",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "启发",
-      "商业模式",
-      "科学研究",
-      "未来预测"
-    ],
-    "date": "2026-10-30",
-    "summary_en": "This article provides a scathing critique of the collapsing internal combustion engine (ICE) market in China, triggered by skyrocketing fuel prices and a fundamental shift in consumer psychology. By analyzing the 'fuel pain index'—revealing that Chinese drivers face a cost-to-income ratio 6.6 times higher than Americans—the author argues that high oil prices are merely the final catalyst for a structural decay. The analysis dissects the failure of three major segments: the mass market (where cost-sensitive users are abandoning car ownership altogether), joint ventures (whose technological edge has been neutralized by domestic NEVs), and luxury brands (whose prestige is being eroded by high-tech Chinese competitors like Li Auto and AITO). Crucially, the piece touches on a profound sociological shift: younger generations are prioritizing financial security and 'instant gratification' over the status-driven, debt-heavy lifestyle of traditional car ownership. It concludes that the ICE era isn't just transitioning; it is being liquidated by a combination of economic reality and changing social values.",
-    "summary_zh": "本文深刻剖析了中国燃油车市场的结构性崩塌。作者指出，高企的油价并非唯一诱因，而是压死燃油车商业模式的最后一根稻草。通过对比中外油费“痛感”指数，揭示了中国车主面临的严峻经济压力。文章不仅拆解了合资品牌产品力过时、豪华品牌溢价崩塌的现状，更敏锐地捕捉到了消费心理的底层变迁：年轻人正从“面子工程”转向追求“财务安全感”，汽车正从身份象征退化为纯粹的成本负担。这不仅是一场能源动力的更迭，更是一场关于消费价值观与社会阶层认同的深刻转型。",
-    "best_quote_en": "The real danger for automakers is not that 92-octane gasoline rises by another twenty cents tomorrow, but that consumers have completed their psychological migration and no longer wish to pay for the old model.",
-    "best_quote_zh": "对车企而言，真正的危险不是92号明天再涨两毛，而是消费者已经完成心理迁移，并不想再为旧模式买单。"
-  },
-  {
-    "id": 710,
-    "title": "高级餐厅里的“稀客”，在这座小城凭什么能爽吃？",
-    "title_zh": "高级餐厅里的“稀客”，在这座小城凭什么能爽吃？",
-    "model_used": "nvidia/nemotron-3-nano-omni-30b-a3b-reasoning:free",
-    "source": "三联生活周刊",
-    "link": "http://weixin.sogou.com/weixin?type=2&query=%E4%B8%89%E8%81%94%E7%94%9F%E6%B4%BB%E5%91%A8%E5%88%8A+%E9%AB%98%E7%BA%A7%E9%A4%90%E5%8E%85%E9%87%8C%E7%9A%84%E2%80%9C%E7%A8%80%E5%AE%A2%E2%80%9D%EF%BC%8C%E5%9C%A8%E8%BF%99%E5%BA%A7%E5%B0%8F%E5%9F%8E%E5%87%AD%E4%BB%80%E4%B9%88%E8%83%BD%E7%88%BD%E5%90%83%EF%BC%9F",
-    "tags": [
-      "analyze",
-      "science",
-      "design"
-    ],
-    "tags_zh": [
-      "分析",
-      "科学研究",
-      "设计创意"
-    ],
-    "date": "2026-10-29",
-    "summary_en": "This article offers a vivid exploration of盐池滩羊, a regional specialty often absent from high-end restaurants. Through the lens of '海清大块羊肉', it reveals how local culinary traditions - particularly the unique salt-alkali environment that produces flavorless, tender meat - create authentic experiences for curious visitors. The piece highlights the cultural practice of '打平伙' where communities share sheep, contrasting it with modern restaurant experiences. The author's journey from Wu Tong to this remote location demonstrates how geographical isolation and specific agricultural conditions create distinctive food identities that transcend typical urban-rural divides. The article's strength lies in its sensory detail and anthropological observation, making a compelling case for experiencing regional food cultures firsthand.",
-    "summary_zh": "这篇关于盐池滩羊的文章以\"海清大块羊肉\"为切入点，揭示了西北荒漠中特殊盐碱地如何孕育出无膻味的羊肉。作者亲身体验了从吴忠到盐池的 journey，通过与老尹的对话和味觉体验，展现了当地人对羊肉的朴素理解 - 打平伙、手抓、简单清汤蘸蒜醋汁。文章深刻剖析了盐池地理环境（盐层、碱土）与羊的饮食习性（食用碱性草料）如何共同抑制膻味，并反思了高端餐厅中稀缺的本土食材体验。这种对味觉、文化与地理的立体观察，让人意识到普通人的生活智慧才是最动人的\"稀客\"之魅。",
-    "best_quote_en": "This soup contains only umami without gaminess, naturally sweet as sun-baked hay.",
-    "best_quote_zh": "这汤里只有鲜味没有膻味，自然清甜得就像太阳底下晒着的麦秸。"
-  },
-  {
-    "id": 711,
-    "title": "The Bus Ticket Theory of Genius",
-    "title_zh": "天才的巴士票理论",
-    "model_used": "poolside/laguna-xs-2.1:free",
-    "source": "Paul Graham",
-    "link": "http://www.paulgraham.com/genius.html",
-    "tags": [
-      "analyze",
-      "general",
-      "case-study"
-    ],
-    "tags_zh": [
-      "分析",
-      "general",
-      "案例研究"
-    ],
-    "date": "2026-10-30",
-    "summary_en": "This article presents the 'Bus Ticket Theory of Genius,' arguing that true innovation requires a third element beyond talent and determination: an obsessive, disinterested passion for seemingly pointless pursuits. Drawing parallels between bus ticket collectors and historical geniuses like Darwin and Ramanujan, it suggests that their infinite curiosity about minutiae enabled breakthrough discoveries. The theory proposes that geniuses follow paths others overlook because they genuinely cannot help but pursue their interests, not because they strategically 'lay groundwork.' While some obsessions matter (especially when creating rather than consuming, or when difficult for others), many must be 'wasted' efforts, following a risk-reward principle where big discoveries require betting on unpromising paths. The author advocates cultivating intellectual curiosity in children by encouraging deep, passionate exploration of whatever captures their interest, rather than prescribing predetermined specializations.",
-    "summary_zh": "文章提出'巴士票天才理论'：真正的创新需要天赋、毅力和对看似无意义事物的执着痴迷。达尔文、拉马努塔等天才之所以能发现他人忽略的路径，正是因为他们无法抗拒自己的兴趣。作者认为许多伟大发明源于'浪费'时间的风险投资，鼓励培养孩子的深度探索欲，让他们按兴趣深耕而非被动接受教学。",
-    "best_quote_en": "If I had to put the recipe for genius into one sentence, that might be it: to have a disinterested obsession with something that matters.",
-    "best_quote_zh": "如果我必须用一句话概括天才的配方，或许就是：对某件真正重要的事物保持无条件的痴迷。"
-  },
-  {
     "id": 712,
     "title": "A New Map of ‘Empty’ Space Challenges a Tranquil Picture of the Galaxy",
     "title_zh": "新的星际介质图谱挑战宇宙星系的宁静形象",
@@ -2450,5 +2333,134 @@
     "summary_zh": "这不是部电影史，是场文化考古。科曼这个斯坦福毕业的「方正人」，带着速记员去大苏尔监督服药，却比嬉皮士更精准地捕获了迷幻体验的质感。真实感是堆砌出来的：真光秀、真嬉皮士聚落、真吸入剂让群演嗨、真亚瑟·李的房子。AIP惊恐地加免责声明、加碎裂定格，反而暴露了主流对超验体验的商品化恐惧。英国禁映37年，禁的不是「坏旅程」警示，是那不可否认的「好旅程」之美。主流吞噬前卫，通常将其中和为商品，偶尔却误把灵魂保存了下来。",
     "best_quote_en": "\"Ingmar Bergman for the teenyboppers, Dalí for the drive-ins.\" — Los Angeles Times review of The Trip (1967)",
     "best_quote_zh": "「给青少年的伯格曼，给汽车影院的达利。」——《洛杉矶时报》对《迷幻之旅》（1967）的评价"
+  },
+  {
+    "id": 807,
+    "title": "Q&A with Tim — How to Get Unstuck, Resilience in Hard Times, Tools for Brain Health, Finding Inner Peace, Optimism as a Learnable Skill, and More (#889)",
+    "title_zh": "与特伦斯的问答 — 如何摆脱困境、在艰难时保持韧性、提升大脑健康、寻找内心平静、将乐观视为可学习的技能等更多 (#889)",
+    "title_en": "Q&A with Tim — How to Get Unstuck, Resilience in Hard Times, Tools for Brain Health, Finding Inner Peace, Optimism as a Learnable Skill, and More (#889)",
+    "model_used": "nvidia/nemotron-3-nano-omni-30b-a3b-reasoning:free",
+    "translation_model_used": null,
+    "source": "Tim Ferriss",
+    "link": "https://tim.blog/2026/11/12/qa-with-tim-how-to-get-unstuck/",
+    "tags": [
+      "solve",
+      "lifestyle",
+      "health-wellness",
+      "beginner-friendly"
+    ],
+    "tags_zh": [
+      "解决",
+      "生活方式",
+      "健康养生",
+      "新手友好"
+    ],
+    "date": "2026-11-12",
+    "summary_en": "In this episode of his live Q&A series, Tim Ferriss addresses strategies to prevent Alzheimer's, methods to identify and break through personal stagnation, maintaining hope amid worsening global events, requirements for Quantified Self 2.0, his current perspective on psychedelics, and the balance between natural and synthetic health options. He also shares insights on resilience, brain health tools, inner peace, and optimism as a learnable skill.",
+    "summary_zh": "在这期现场问答节目中，特伦斯讨论了防止阿尔茨海默病的方法、如何识别并打破个人停滞、在全球局势变暗时保持希望、Quantified Self 2.0 的必要条件、他对迷幻剂的看法以及自然与合成产品的平衡，同时分享了关于韧性、大脑健康工具、内心平静以及乐观作为可学习技能的见解。",
+    "best_quote_en": "Optimism is not a feeling; it's a skill you can learn and practice daily to navigate hard times with resilience.",
+    "best_quote_zh": "乐观不是一种感觉，而是你可以每天学习并实践的技能，让你在艰难时保持韧性。"
+  },
+  {
+    "id": 808,
+    "title": "一个70岁农村女性的意外走红：被写作改变的家庭与婚姻生活",
+    "title_zh": "一个70岁农村女性的意外走红：被写作改变的家庭与婚姻生活",
+    "title_en": "The Unexpected Rise of a 70-Year-Old Rural Woman: A Family and Marriage Transformed by Writing",
+    "model_used": "particle-ai/particle-1:free",
+    "translation_model_used": null,
+    "source": "三联生活周刊",
+    "link": "http://weixin.sogou.com/weixin?type=2&query=%E4%B8%89%E8%81%94%E7%94%9F%E6%B4%BB%E5%91%A8%E5%88%8A+%E4%B8%80%E4%B8%AA70%E5%B2%81%E5%86%9C%E6%9D%91%E5%A5%B3%E6%80%A7%E7%9A%84%E6%84%8F%E5%A4%96%E8%B5%B0%E7%BA%A2%EF%BC%9A%E8%A2%AB%E5%86%99%E4%BD%9C%E6%94%B9%E5%8F%98%E7%9A%84%E5%AE%B6%E5%BA%AD%E4%B8%8E%E5%A9%9A%E5%A7%BB%E7%94%9F%E6%B4%BB",
+    "tags": [
+      "inspire",
+      "writing-content",
+      "case-study"
+    ],
+    "tags_zh": [
+      "启发",
+      "写作内容",
+      "案例研究"
+    ],
+    "date": "2026-11-20",
+    "summary_en": "This article profiles Xiao Damei, a 70-year-old rural woman from Guangxi who, after a lifetime of farming and making tofu, has become a literary sensation. Encouraged by her daughter Wang Ping, she began painting and writing to cope with depression after her brother's death. Her raw, vivid stories of rural life won a writing contest and led to a book deal. The piece explores how creativity can heal and transform not just individuals but entire families, challenging stereotypes about age and rural life. It's a testament to the power of storytelling and the unexpected ways in which art can emerge from the most unlikely places.",
+    "summary_zh": "这篇文章讲述了70岁农村女性肖大妹的意外走红。她种了一辈子地、磨了二十年豆腐，在女儿王坪的推动下开始绘画和写作，用质朴的文字和画笔记录自己的人生经历。她的作品因真实的力量打动无数网友，获得写作大赛大奖并即将出书。故事展现了文学如何治愈创伤、改变家庭关系，也打破了人们对农村老年女性的刻板印象。肖大妹的经历证明，无论年龄和背景，每个人都有可能通过创作找到生命的意义。",
+    "best_quote_en": "Even a crooked tree can bloom. Life's scars, when torn open, are pus and blood; kept inside, they become an illness. But spread out under the sun, they can shine.",
+    "best_quote_zh": "就算是一棵歪脖子树，也能开出花来。……人生的伤疤，撕开了是脓血，闷在心里头就是病，但把它摊在阳光下，没想到能闪光。"
+  },
+  {
+    "id": 809,
+    "title": "Economic Inequality",
+    "title_zh": "经济不平等",
+    "title_en": "Economic Inequality",
+    "model_used": "particle-ai/particle-1:free",
+    "translation_model_used": null,
+    "source": "Paul Graham",
+    "link": "http://www.paulgraham.com/ineq.html",
+    "tags": [
+      "solve",
+      "startup-strategy",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "解决",
+      "创业策略",
+      "数据驱动"
+    ],
+    "date": "2026-11-20",
+    "summary_en": "Paul Graham’s essay is a provocation against the reflex that treats “economic inequality” as one thing to be reduced. He separates bad causes—rent-seeking, tax loopholes, zero-sum games—from wealth creation, exemplified by startups and technological progress. The central error he names is the “pie fallacy”: the assumption that the rich get richer only by taking from others. In reality, a woodworker who makes chairs creates wealth, while a high-frequency trader may merely redistribute it. Graham concedes that inequality has multiple causes and that some are unjust, but he argues that eliminating great wealth variation would require suppressing startups—and ambitious people would simply move elsewhere. His most valuable move is to reframe the target: the real problem is poverty and specific abuses, not inequality as such. The essay is strongest when it forces readers to disaggregate causes; it is weaker when it risks underplaying structural advantages. Still, it is a useful challenge to lazy policy thinking.",
+    "summary_zh": "保罗·格雷厄姆把经济不平等拆成多种成因：既有寻租、税收漏洞等恶因，也有创业与技术创新带来的财富创造。他批评“馅饼谬误”，提醒我们别把不平等本身当成唯一敌人；真正要解决的是贫困与具体不公。文章最有张力之处在于，它承认技术加速会持续拉大生产力差异，却仍主张以更精细的政策而非压制创业来回应。读来既像辩护，也像警告：只盯基尼系数可能误伤创造财富的机制，只赞美创新又容易忽略结构性不公。",
+    "best_quote_en": "The real problem is poverty, not economic inequality. And if you conflate them you're aiming at the wrong target.",
+    "best_quote_zh": "真正的问题是贫困，而不是经济不平等。如果把两者混为一谈，你瞄准的就是错误的目标。"
+  },
+  {
+    "id": 810,
+    "title": "Lucky #888 — My Tour of Designing Luck in China, Japan, and Korea",
+    "title_zh": "Lucky #888 — 我的中国、日本和韩国设计运气之旅",
+    "title_en": "Lucky #888 — My Tour of Designing Luck in China, Japan, and Korea",
+    "model_used": "nvidia/nemotron-3.5-lightning:free",
+    "translation_model_used": null,
+    "source": "Tim Ferriss",
+    "link": "https://tim.blog/2026/11/05/lucky-888-my-tour-of-designing-luck-in-china-japan-and-korea/",
+    "tags": [
+      "update",
+      "education",
+      "writing-content",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "动态",
+      "教育学习",
+      "写作内容",
+      "未来预测"
+    ],
+    "date": "2026-11-05",
+    "summary_en": "Tim Ferriss embarks on a fascinating cultural expedition exploring the multifaceted symbolism of the number eight across East Asia. Beyond mere superstition, this episode reveals how numerical beliefs shape real-world economics, architecture, and design—from million-dollar license plates and disappearing hotel floors to Toyota's etymological evolution. Ferriss masterfully bridges ancient numerology with modern business strategy, demonstrating how cultural patterns around 'luck' inform global branding and consumer behavior. The discussion transcends trivial trivia, offering insights into cross-cultural psychology, the economics of scarcity, and how design consciously—or unconsciously—internalizes cultural values. This episode stands as a compelling case study in how seemingly arbitrary cultural symbols drive tangible economic and design decisions.",
+    "summary_zh": "蒂姆·费里斯踏上了一场跨文化探索之旅，深入剖析了数字八在东亚的多重象征意义。超越单纯的迷信，本集揭示了数字信仰如何塑造现实经济、建筑与设计——从百万美元的车牌和消失的酒店楼层，到丰田的词源演变。费里斯巧妙地将古老的数理学与现代商业战略相结合，展示了文化模式如何影响全球品牌与消费行为。此集超越了琐碎的冷知识，提供了关于跨文化心理学、稀缺性经济学以及设计如何内化文化价值的深刻见解。",
+    "best_quote_en": "\"Eight is not just a number; it's a economic driver,\" Ferriss remarks, highlighting how cultural numerology directly impacts financial markets and design decisions across Asia.",
+    "best_quote_zh": "\"八不仅仅是一个数字；它是经济驱动力,\" 费里斯指出，强调文化数理学如何直接影响亚洲的金融市场和设计决策。"
+  },
+  {
+    "id": 811,
+    "title": "“奶茶第一股”的翻红账本",
+    "title_zh": "“奶茶第一股”的翻红账本",
+    "title_en": "The Turnaround Ledger of the 'First Milk Tea Stock'",
+    "model_used": "particle-ai/particle-1:free",
+    "translation_model_used": null,
+    "source": "虎嗅",
+    "link": "https://www.huxiu.com/article/4907224.html?f=rss",
+    "tags": [
+      "update",
+      "general",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "动态",
+      "general",
+      "数据驱动"
+    ],
+    "date": "2026-11-20",
+    "summary_en": "What makes Xiangpiaopiao's comeback worth studying isn't the viral moment—it's the sequence. The founder's daughter's 'milk tea heiress goes to work' stunt drew 25 million views, but the financials had already turned positive half a year earlier. The real work came first: a two-year, 90-iteration reformulation into whole-leaf brewed tea that crossed 100 million yuan in its first year, a period-care product co-developed with a university that hit a 37% repurchase rate, and a painful 2025 channel cleanup that cost nearly 90 million yuan in losses but stopped the practice of stuffing inventory into distributors. Only then did the traffic arrive—and find something to land on. Yet the article is refreshingly honest about what remains unresolved: Q3 net profit collapsed 88%, and the ready-to-drink 'second curve' has never once carried the company through its off-season. The question isn't whether Xiangpiaopiao can go viral again, but whether a shrinking category leader can convert attention into durable earnings before the next quiet quarter arrives.",
+    "summary_zh": "这篇文章最耐人寻味的地方，是它把“翻红”的顺序讲清楚了：先有产品、渠道、报表，最后才是热搜。原叶现泡打磨两年、破亿验证，古方五红跑出37%复购，2025年主动清渠道亏了近九千万——流量到来时，底下已经有东西接着。但作者没有替它唱赞歌：三季度净利暴跌88%，即饮这条“第二曲线”至今没在淡季接过一次班。一门老生意可以被重做一遍，香飘飘证明了一半；从翻红到站稳，是更难的另一半。真正值得追问的，不是它还能不能再上一次热搜，而是当喧嚣退去，下一次被讨论的理由能不能换成业绩。",
+    "best_quote_en": "Traffic only magnifies a company's true face—volume is one thing, whether it can hold up is another. The hardest part of a comeback is changing the reason you get discussed next time from traffic to earnings.",
+    "best_quote_zh": "流量只会放大一家公司的本来面目，声量是一回事，撑不撑得住是另一回事。翻红最难的一环，是让下一次被讨论的理由，从流量换成业绩。"
   }
 ]
