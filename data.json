@@ -1,118 +1,5 @@
 [
   {
-    "id": 717,
-    "title": "Gar’s Tips & Tools – Issue #216",
-    "title_zh": "Gar的技巧与工具 – 第216期",
-    "model_used": "nvidia/nemotron-3.5-lightning:free",
-    "source": "Kevin Kelly",
-    "link": "https://kk.org/cooltools/gars-tips-tools-issue-216/",
-    "tags": [
-      "solve",
-      "design",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "解决",
-      "设计创意",
-      "未来预测"
-    ],
-    "date": "2026-10-31",
-    "summary_en": "This issue of Gar's Tips & Tools presents a compelling meditation on accessibility, ingenuity, and the invisible intelligence behind everyday objects. The newsletter opens with a practical revelation about hex key T-handles, offering an immediate, actionable solution for anyone with arthritic hands or a frustration with flat-pack assembly. It then expands into a thoughtful exploration of the Infimaker 5-axis CNC, framing rapid prototyping as a 'superpower' for product development. The core of the piece shifts to a deep-dive reflection on cheap flat-pack furniture, marveling at the engineering constraints and global supply chain choreography required to produce a $50 baker's rack. Throughout, Gar balances critical awareness of consumerism's hidden costs with genuine appreciation for clever design. The issue closes with a personal note on enduring LED panel lights and a showcase of creative workshop setups, reinforcing a theme of making do with what works. It is a rich blend of practical advice, engineering admiration, and reflective consumerism.",
-    "summary_zh": "这份Gar的技巧与工具通讯是对可及性、创新以及日常物品背后隐形智能的深刻沉思。通讯从实用的六角扳手T型手柄开始，为患有关节炎手或平装家具组装挫折的人们提供了即时、可操作的解决方案。随后，它转向对Infimaker 5轴CNC的深入探讨，将快速原型制作框架为产品开发的‘超级能力’。核心部分转向对便宜的平装家具的深度反思，赞叹了为生产一张50美元的烘焙架所需的工程限制和全球供应链编舞。贯穿始终，Gar在批判消费主义隐形成本的同时，对巧妙的设计给予了真正的赞赏。问题以个人关于持久LED面板灯的笔记和创意工作站布局的展示作结，强化了‘用现有条件尽力而为’的主题。这是一份实用建议、工程赞叹和反思性消费主义的丰富混合体。",
-    "best_quote_en": "\"I couldn’t help marveling at the amount of mostly invisible intelligence embodied in this mundane under-$50 object.\"",
-    "best_quote_zh": "\"我不禁惊叹于这件不起价五十美元的平凡物品中蕴含的大部分隐形智能。\""
-  },
-  {
-    "id": 718,
-    "title": "Essentials: How Smells Influence Our Hormones, Health & Behavior | Dr. Noam Sobel",
-    "title_zh": "Essentials: 如何气味影响我们的荷尔蒙、健康和行为 | Dr. Noam Sobel",
-    "model_used": "nvidia/nemotron-3-nano-omni-30b-a3b-reasoning:free",
-    "source": "Huberman Lab",
-    "link": "https://www.hubermanlab.com/episode/essentials-how-smells-influence-our-hormones-health-and-behavior-noam-sobel",
-    "tags": [
-      "inspire",
-      "general",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "启发",
-      "general",
-      "未来预测"
-    ],
-    "date": "2026-10-29",
-    "summary_en": "This Huberman Lab Essentials episode features Dr. Noam Sobel, a neurobiology professor at Weizmann Institute, exploring the profound yet underappreciated influence of smell on human physiology and social behavior. Beyond basic olfaction, the discussion reveals how odor perception shapes hormone regulation (testosterone, cortisol), emotional processing, and even complex social dynamics like friendship formation and aggression patterns. A key insight is the emerging field of digitizing smells for noninvasive medical diagnostics through body odor analysis - a future technology with potential for early disease detection. The conversation also examines gender differences in chemosignaling and how infants respond to parental scent profiles. These findings challenge the perception of smell as merely a sensory function, positioning it as a critical regulator of endocrine health and social cognition.",
-    "summary_zh": "这集Huberman Lab精讲揭示了气味对人类健康的深远影响，远超我们想象。Dr. Sobel指出气味不仅调节荷尔蒙和情绪，更塑造社交行为如结伴与攻击性，甚至通过体味可实现非侵入式疾病早期检测。内容颠覆了气味仅是感官功能的常规认知，凸显其作为内分泌调节器和社交信号系统的核心地位，值得重新审视我们与气味的关系。",
-    "best_quote_en": "Smell shapes who we become friends with, how we experience emotions, hormones and aggression - it's a fundamental regulator of our physiology and social behavior that we don't fully appreciate.",
-    "best_quote_zh": "气味塑造我们结交谁的朋友、如何体验情绪、荷尔蒙和攻击性，是塑造我们生理和社交行为的基础调节机制，尽管我们大大低估了它的作用。"
-  },
-  {
-    "id": 719,
-    "title": "Minding the Gap",
-    "title_zh": "Minding the Gap",
-    "model_used": "nvidia/nemotron-3.5-lightning:free",
-    "source": "Harper’s Magazine",
-    "link": "https://harpers.org/2026/09/general-interest-minding-the-gap-belen-fernandez-jasmine-liu/",
-    "tags": [
-      "guide",
-      "design",
-      "writing-content",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "指导",
-      "设计创意",
-      "写作内容",
-      "未来预测"
-    ],
-    "date": "2026-09-27",
-    "summary_en": "Belén Fernández's 'Minding the Gap' offers a piercing examination of the Darién Gap's transformation from a sparsely populated jungle corridor into a critical migration chokepoint. The article masterfully illustrates how U.S. immigration policies, particularly under the Trump administration, actively engineered these deadly routes by rendering homelands uninhabitable while simultaneously criminalizing the desperate journeys they forced. Fernández's reporting reveals the complicity of Panamanian authorities and the profound exploitation of indigenous comarcas, who were permitted to monetize migrant transport while facing criminalization themselves. The piece stands as a powerful critique of the capitalist global governance framework that treats human movement as a tool of control, ultimately exposing the Darién Gap not merely as a geographic feature, but as a deliberate mechanism of punitive inequality designed to keep the dispossessed in their place.",
-    "summary_zh": "贝伦·弗南德斯的《Minding the Gap》对 Darién Gap 进行了深刻的审视，该地区从一个稀疏人口的丛林走廊转变为关键的移民瓶颈。文章巧妙地说明了美国移民政策——特别是在特朗普政府期间——如何主动策划了这些致命的路线，通过使家园无法居住来迫使人们流离失所，同时又将他们被迫的旅程定罪。弗南德斯的报道揭露了巴拿马当局的共谋以及土著自治区的深度剥削，后者被允许通过运输移民来获利，同时自己也面临 criminalization（刑事化）的风险。这篇文章是对将人类流动视为控制工具的资本主义全球治理框架的有力批判，最终将 Darién Gap 揭示为旨在将弱势群体固定在原地的刻意机制，而非单纯的地理特征。",
-    "best_quote_en": "\"In the end, that pattern perpetuates a hierarchy of human life, while xenophobic narratives blame migrants for their own plight.\"",
-    "best_quote_zh": "\"说到底，这种模式延续了人类生命等级制度，而厌移民的叙事则将移民自身的苦难归咎于移民自己。”"
-  },
-  {
-    "id": 720,
-    "title": "Book Freak #229: The Social Construction of Reality",
-    "title_zh": "Book Freak #229: 现实的社会建构",
-    "model_used": "nvidia/nemotron-3-ultra-550b-a55b:free",
-    "source": "Kevin Kelly",
-    "link": "https://kk.org/cooltools/book-freak-229-the-social-construction-of-reality/",
-    "tags": [
-      "solve",
-      "society"
-    ],
-    "tags_zh": [
-      "解决",
-      "社会议题"
-    ],
-    "date": "2026-10-30",
-    "summary_en": "This Book Freak edition distills Berger and Luckmann's 1966 sociological masterpiece into a practical lens for examining the invisible architecture of our daily lives. The core insight—that society is a human product that becomes an objective reality which then shapes humans—is presented through three accessible movements: habitualization creating institutions, language cementing shared reality, and the danger of reification where we forget our own authorship. What makes this piece valuable is its translation of dense theory into immediate experiments: tracing the origin of an unexamined rule, relabeling identity categories, questioning 'that's just how it works.' The Harari comparison to 'imagined orders' bridges classic sociology with contemporary discourse. This isn't just academic summary; it's an invitation to reclaim agency over the social fictions we inhabit. The practical exercises transform philosophical insight into a daily practice of social archaeology.",
-    "summary_zh": "这期 Book Freak 把伯格与卢克曼 1966 年的社会学经典《现实的社会建构》浓缩成一把解剖日常隐形秩序的手术刀。核心洞见——社会是人造产物，却客观化为外在事实，反向塑造人——通过习惯制度化、语言建构世界、再造化风险三个动作层层展开。最有价值的是将晦涩理论转化为即刻可行的实验：追溯一条不假思索遵守的规则源头、给身份标签换个说法、质疑\"本来就这样\"。哈里里\"想象的秩序\"类比让经典社会学对话当下认知。这不只是学术摘要，而是邀请我们夺回对所处社会虚构的主动权。实操练习把哲学洞见变成日常的社会考古练习。",
-    "best_quote_en": "Social order is not part of the 'nature of things,' and it cannot be derived from the 'laws of nature.' Social order exists only as a product of human activity.",
-    "best_quote_zh": "社会秩序不是'事物本性'的一部分，也无法从'自然法则'推导而来。社会秩序仅作为人类活动的产物而存在。"
-  },
-  {
-    "id": 721,
-    "title": "Your Top Health Questions Answered",
-    "title_zh": "你的健康问题解答",
-    "model_used": "nvidia/nemotron-3.5-super-vl:free",
-    "source": "Huberman Lab",
-    "link": "https://www.hubermanlab.com/episode/your-top-health-questions-answered",
-    "tags": [
-      "solve",
-      "health-wellness"
-    ],
-    "tags_zh": [
-      "解决",
-      "健康养生"
-    ],
-    "date": "2026-07-27",
-    "summary_en": "This Huberman Lab Q&A episode addresses listener-submitted health questions spanning sleep optimization, fertility, neuroscience, and life purpose. Dr. Huberman provides evidence-based protocols including Alpha-GPC, garlic consumption, physiological sighs, and sniff training for memory and smell. The content covers gender-specific fertility nutrition, perimenopause mental health links, and surgical recovery through prehabilitation and circadian rhythm management. Particularly noteworthy is the discussion on finding passion through 'no input, no output' principles and the 'chop wood, carry water' methodology. The episode balances practical health optimization with philosophical life guidance, emphasizing consistency over over-optimization and core pillars rather than protocol overwhelm.",
-    "summary_zh": "这期Huberman Lab的Q&A节目回答了听众关于睡眠、生育、神经科学和人生目标的问题。Huberman博士提供了基于证据的方案，包括Alpha-GPC、大蒜、生理叹息和嗅觉训练等。内容涵盖性别特定的生育营养、围绝经期心理健康以及通过术前康复和昼夜节律管理实现手术恢复。特别值得注意的是关于通过“无输入无输出”原则和“劈柴挑水”方法寻找热情的讨论。节目在实用健康优化与哲学人生指导之间取得平衡，强调一致性胜过过度优化，核心支柱胜过方案过载。",
-    "best_quote_en": "No input, no output",
-    "best_quote_zh": "无输入，无输出"
-  },
-  {
     "id": 722,
     "title": "‘Heat’ director Michael Mann accidentally shoots himself in leg on gun range",
     "title_zh": "导演迈克尔·曼在枪场意外射自己腿",
@@ -2476,5 +2363,128 @@
     "summary_zh": "约翰·乌利奥特的新书指出，特朗普第二任期因幕僚失误，尤其是国防部长皮特·黑格斯的管理失误而受挫，呼吁其辞职。乌利奥特认为，特朗普本人也需更审视团队，摒弃仅凭媒体形象的选人标准，引入真正有管理经验的忠诚顾问。若他阅读更深入的分析并听取真相而非顺从者的建议，可能重获治理效能，为未来总统提供警示。",
     "best_quote_en": "The President deserves better.",
     "best_quote_zh": "总统配得上更好的领导。"
+  },
+  {
+    "id": 817,
+    "title": "Great Travel Shorts/Last-minute Upgrades/Ski in Norway",
+    "title_zh": "超棒的旅行短裤/临时升级/挪威滑雪",
+    "title_en": "Great Travel Shorts/Last-minute Upgrades/Ski in Norway",
+    "model_used": "inclusionai/ling-3.2-flash:free",
+    "translation_model_used": null,
+    "source": "Kevin Kelly",
+    "link": "https://kk.org/cooltools/great-travel-shorts-last-minute-upgrades-ski-in-norway/",
+    "tags": [
+      "solve",
+      "lifestyle",
+      "design"
+    ],
+    "tags_zh": [
+      "解决",
+      "生活方式",
+      "设计创意"
+    ],
+    "date": "2026-11-19",
+    "summary_en": "This practical travel digest delivers four actionable insights that challenge conventional wisdom about travel costs and comfort. The Kuhl Suppressor Short recommendation emphasizes durability over novelty—100+ wears still looking new speaks to value-per-use economics. The airline credit card analysis reveals how fee structures have shifted the math: a $99 annual fee now pays for itself with just two checked bags, making these cards essential rather than optional. The Bangkok train upgrade story ($33 for first class) illustrates a broader principle: in-person flexibility often beats online convenience, a counterintuitive truth in our app-obsessed age. Most provocative is the Norway ski comparison—when Colorado lift tickets exceed $300/day, even Scandinavia becomes 'cheap.' This isn't just about skiing; it's about how domestic inflation has fundamentally altered the value proposition of international travel. The author's voice carries the authority of lived experience, not theoretical advice.",
+    "summary_zh": "这篇旅行实用指南颠覆了关于旅行成本和舒适度的传统认知。Kuhl短裤的推荐强调耐用性而非新鲜感——穿100多次仍如新，体现了单次使用价值的经济学。航空公司信用卡分析揭示了费用结构的转变：99美元年费只需两次托运就能回本。曼谷火车升级故事（33美元升头等舱）揭示了一个更广泛的原则：现场灵活性往往胜过在线便利。最引人深思的是挪威滑雪对比——当科罗拉多缆车票超过300美元/天时，连斯堪的纳维亚都变得'便宜'了。这不仅是滑雪问题，更是国内通胀如何根本改变国际旅行价值的深刻洞察。作者的声音带着亲身体验的权威性。",
+    "best_quote_en": "As airlines have cranked up fees and devalued the points earning potential of flying, a U.S. airline credit card has gone from a 'nice to have' item to something that's a no-brainer if you ever check a bag.",
+    "best_quote_zh": "随着航空公司不断提高费用并降低飞行积分赚取潜力，美国航空公司信用卡已从'可有可无'的东西变成了如果你要托运行李就显而易见的选择。"
+  },
+  {
+    "id": 818,
+    "title": "Essentials: Nicotine's Effects on the Brain & Body & How to Quit Smoking or Vaping",
+    "title_zh": "尼古丁对大脑与身体的影响及戒烟戒电子烟方法",
+    "title_en": "Nicotine's Effects on the Brain & Body & How to Quit Smoking or Vaping",
+    "model_used": "particle-ai/particle-1:free",
+    "translation_model_used": null,
+    "source": "Huberman Lab",
+    "link": "https://www.hubermanlab.com/episode/essentials-nicotines-effects-on-the-brain-and-body-and-how-to-quit-smoking-or-vaping",
+    "tags": [
+      "solve",
+      "psychology"
+    ],
+    "tags_zh": [
+      "解决",
+      "心理学"
+    ],
+    "date": "2026-11-19",
+    "summary_en": "This Huberman Lab Essentials episode explains how nicotine boosts dopamine, acetylcholine, and norepinephrine to enhance motivation, focus, and alertness while suppressing appetite and raising heart rate and blood pressure. It distinguishes nicotine from delivery methods like smoking, vaping, dipping, and snuffing, detailing their health risks and why vaping is especially addictive. The episode also covers science-based quitting tools, including clinical hypnosis, bupropion, and nicotine replacement therapy, plus strategies for surviving the critical first week of withdrawal.",
+    "summary_zh": "本期节目讲解尼古丁如何提升多巴胺、乙酰胆碱和去甲肾上腺素，从而增强动力、专注与警觉，同时抑制食欲并升高心率和血压。节目区分尼古丁与吸烟、电子烟等摄入方式，说明其健康风险及电子烟为何更易成瘾，并介绍临床催眠、安非他酮和尼古丁替代疗法等科学戒烟工具，以及度过戒断第一周的策略。",
+    "best_quote_en": "Nicotine boosts dopamine, acetylcholine and norepinephrine to enhance motivation, focus and alertness.",
+    "best_quote_zh": "尼古丁提升多巴胺、乙酰胆碱和去甲肾上腺素，从而增强动力、专注与警觉。"
+  },
+  {
+    "id": 819,
+    "title": "Leila Fadel’s Remarks at the Second Annual Harper’s Magazine Awards Ceremony",
+    "title_zh": "利拉·法德在《哈珀斯》杂志第二届颁奖典礼上的讲话",
+    "title_en": "Leila Fadel’s Remarks at the Second Annual Harper’s Magazine Awards Ceremony",
+    "model_used": "nvidia/nemotron-3-nano-omni-30b-a3b-reasoning:free",
+    "translation_model_used": null,
+    "source": "Harper’s Magazine",
+    "link": "https://harpers.org/2026/11/leila-fadels-remarks-at-the-second-annual-harpers-magazine-awards-ceremony/",
+    "tags": [
+      "analyze",
+      "politics",
+      "controversial"
+    ],
+    "tags_zh": [
+      "分析",
+      "政治时事",
+      "争议观点"
+    ],
+    "date": "2026-11-04",
+    "summary_en": "Leila Fadel’s address at Harper’s 175th-anniversary awards ceremony powerfully framed Katherine Maher’s First Amendment award as a defense of intellectual independence and public media against rising authoritarian threats. Drawing from global experiences in Hungary, Egypt, Iraq, Syria, and Palestine, Fadel underscored how information control enables autocratic consolidation of power, while highlighting Maher’s legal victory against federal defunding of NPR as a critical precedent. The speech positioned journalism not merely as reporting but as democratic infrastructure requiring resources, courage, and resistance to bad-faith attacks. By linking Maher’s work to Harper’s legacy of intellectual independence and public good, Fadel elevated press freedom from professional concern to existential civic necessity—particularly poignant as the award coincides with NPR’s recent legal triumph affirming that journalism cannot be silenced through funding withdrawal alone.",
+    "summary_zh": "法德在哈珀斯175周年庆典上将马哈尔的言论自由奖定位为公共媒体在信息控制日益加剧的威胁中坚持独立性的象征。她从全球视角阐述信息垄断如何助长独裁，并强调马哈尔诉联邦政府争取NPR资金胜诉的胜利意义——证明即使经费被剥夺，新闻自由仍可通过法律斗争存续。此讲话将新闻业提升至民主基础设施层面，强调资源与勇气是维护公共利益的必要条件。面对政府对记者的攻击与法律压力，法德将马哈尔的作为与哈珀斯传统的智识独立精神相连接，凸显新闻作为公共良知的不可替代性。",
+    "best_quote_en": "We were defunded but not defeated. And we were not defeated in large part because of Katherine’s leadership, because when this all started with an executive order to end our federal funding, she chose to fight, to sue, challenging the government’s use of funding to retaliate against journalism it didn’t like.",
+    "best_quote_zh": "我们虽被削减经费，但并未溃败。而这主要得益于 Katherine 的领导——当联邦资金被削减的行政命令提出时，她选择抗争、提起诉讼，挑战政府利用经费报复讨厌的新闻报道。"
+  },
+  {
+    "id": 820,
+    "title": "What’s in my NOW? — Michael Downs",
+    "title_zh": "我的现在是什么？ — Michael Downs",
+    "title_en": "What’s in my NOW? — Michael Downs",
+    "model_used": "nvidia/nemotron-3.5-lightning:free",
+    "translation_model_used": null,
+    "source": "Kevin Kelly",
+    "link": "https://kk.org/cooltools/whats-in-my-now-michael-downs/",
+    "tags": [
+      "guide",
+      "design",
+      "ai-research",
+      "beginner-friendly"
+    ],
+    "tags_zh": [
+      "指导",
+      "设计创意",
+      "AI研究",
+      "新手友好"
+    ],
+    "date": "2026-11-18",
+    "summary_en": "Michael Downs, a retired architect in the Berkeley Hills, presents a thoughtful curation of tools and practices that enhance his daily life across physical, digital, and invisible domains. From a CPAP machine that transformed his sleep health to an electronic flosser solving a lifelong dental hygiene struggle, and Anytime Fitness accommodating his insomnia schedule, the physical selections prioritize practical wellbeing. Digitally, his embrace of Apple Keynote for creating custom postcards reveals a creative application of AI-assisted design. The Plane Finder App satisfies a retiree's curiosity about overhead traffic, while a 50-year meditation practice offers a profound 'pure peace' as his invisible daily practice. What emerges is not merely a list of recommendations, but a philosophy of intentional living where technology and habit serve to enrich rather than complicate the later chapters of life, emphasizing that meaningful improvement often comes from simple, well-chosen interventions.",
+    "summary_zh": "迈克尔·唐斯是一位退休建筑师，居住在伯克利山丘。他精心挑选了跨物理、数字和隐形三个领域的工具和实践，以提升日常生活质量。从改善睡眠健康的CPAP机器，到解决终身牙线困扰的电动冲牙器，再适配失眠作息的健身房，物理选择都优先考虑实际的福祉。在数字领域，他对使用Apple Keynote制作贺卡的拥抱展示了AI辅助设计的创造性应用。Plane Finder App满足了退休人对上空飞机的好奇，而每天两次的50年冥想实践则带来了深刻的「纯粹平静」。这不仅仅是一份推荐清单，更是一种有意识的生活哲学，其中技术和习惯服务于丰富生命的后章，强调有意义的改进往往来自简单、精心挑选的干预。",
+    "best_quote_en": "\"I get nocturnal free flow breathing through my nasal cavities plus an added bonus of the cessation of my loud snoring in exchange for complete visual humiliation. Fair trade.\"",
+    "best_quote_zh": "\"我通过鼻腔获得夜间自由流通的呼吸，额外的奖励是彻底停止了大声打呼噜，以换取完全的视觉羞耻。这笔交易很公平。\""
+  },
+  {
+    "id": 821,
+    "title": "Essentials: Using Meditation to Focus, View Consciousness & Expand Your Mind | Dr. Sam Harris",
+    "title_zh": "Essentials：通过冥想专注、观察意识并拓展心智 | Dr. Sam Harris",
+    "title_en": "Essentials: Using Meditation to Focus, View Consciousness & Expand Your Mind | Dr. Sam Harris",
+    "model_used": "nvidia/nemotron-3.5-lightning:free",
+    "translation_model_used": "baidu/ernie-5.5-flash-preview:free",
+    "source": "Huberman Lab",
+    "link": "https://www.hubermanlab.com/episode/essentials-using-meditation-to-focus-view-consciousness-and-expand-your-mind-sam-harris",
+    "tags": [
+      "learn",
+      "ai-research"
+    ],
+    "tags_zh": [
+      "学习",
+      "AI研究"
+    ],
+    "date": "2026-07-23",
+    "summary_en": "This episode featuring Dr. Sam Harris bridges the gap between contemplative practice and neuroscience, offering a rigorous examination of how meditation functions as a tool for understanding consciousness. Rather than presenting meditation as mere relaxation, Harris frames it as a methodological approach to examining the nature of self, directly addressing universal struggles with distractibility and mental chatter. A key insight is the distinction between pursuing goals and finding fulfillment in the present moment, suggesting that true transformation comes from altering one's relationship to experience rather than achieving specific states. The discussion is particularly valuable for its practical framing of meditation techniques like the 'sky-like mind' as means to cultivate freedom and observational distance from thought patterns.",
+    "summary_zh": "这期节目将冥想框架与脑科学结构相结合，将冥想定位为探究意识本质的方法论工具，而非单纯的放松手段。哈里斯深刻阐释了从目标导向转向当下体验的转变，认为真正的转化源于重塑与经验的关系而非追求特定状态。'如空一样的心'等技巧被框定为培养自由与思维观察距离的手段，对于面对普遍的注意力分散和内心杂念具有极高的实践价值，提供了重新审视自我与当下的切入点。",
+    "best_quote_en": "The purpose of meditation is not to achieve a particular state, but to see the mechanisms of the mind clearly enough that we can choose how to respond rather than react.",
+    "best_quote_zh": "冥想的目的不是达到某种状态，而是清晰地看到心的机制，从而选择如何回应而不是本能反应。"
   }
 ]
