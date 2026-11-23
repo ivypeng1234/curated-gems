@@ -1,122 +1,5 @@
 [
   {
-    "id": 722,
-    "title": "‘Heat’ director Michael Mann accidentally shoots himself in leg on gun range",
-    "title_zh": "导演迈克尔·曼在枪场意外射自己腿",
-    "model_used": "nvidia/nemotron-3-nano-omni-30b-a3b-reasoning:free",
-    "source": "NME",
-    "link": "https://www.nme.com/news/film/heat-director-michael-mann-accidentally-shoots-himself-in-leg-on-gun-range-3974778?utm_source=rss&utm_medium=rss&utm_campaign=heat-director-michael-mann-accidentally-shoots-himself-in-leg-on-gun-range",
-    "tags": [
-      "update",
-      "music-arts",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "动态",
-      "音乐艺术",
-      "未来预测"
-    ],
-    "date": "2026-11-02",
-    "summary_en": "Oscar‑nominated director Michael Mann, 83, was taken to a hospital after accidentally shooting himself in the leg at a Los Angeles gun range on Saturday. A representative told The Hollywood Reporter that the weapon discharged while holstered, causing a superficial injury, and Mann was treated and released. He is currently developing a sequel to his 1995 crime classic Heat, based on his 2022 novel, and remains active in filmmaking despite the incident. The Los Angeles Police confirmed the shooting was accidental and that Mann was in stable condition.",
-    "summary_zh": "83岁的奥斯卡提名导演迈克尔·曼在洛杉矶枪场意外射中自己腿，当天被送医后经治疗出院。警方确认事故属意外，他正准备 filming《Heat》续作，仍在继续创作，并且他仍在积极工作。",
-    "best_quote_en": "a weapon accidentally discharged while holstered resulting in a superficial injury",
-    "best_quote_zh": "枪在腰带内意外发射，导致轻微伤害"
-  },
-  {
-    "id": 723,
-    "title": "But I’ve Seen Everything: Patrick Stewart (1940-2026)",
-    "title_zh": "但我已见识一切：帕特里克·斯图尔特（1940-2026）",
-    "model_used": "nvidia/nemotron-3.5-super-vl:free",
-    "source": "RogerEbert.com",
-    "link": "https://www.rogerebert.com/tributes/patrick-stewart-star-trek-x-men-tribute",
-    "tags": [
-      "analyze",
-      "music-arts",
-      "case-study"
-    ],
-    "tags_zh": [
-      "分析",
-      "音乐艺术",
-      "案例研究"
-    ],
-    "date": "2026-10-30",
-    "summary_en": "This obituary for Patrick Stewart transcends a simple career retrospective, offering a meditation on legacy and the unexpected paths to cultural impact. The author argues that Stewart's true value lay in elevating the material around him, transforming 'Star Trek: The Next Generation' from a campy sci-fi show into something resembling Shakespeare through sheer presence and gravitas. His portrayal of Captain Picard and Professor X provided a model of masculinity rooted in diplomacy, intellect, and paternal wisdom rather than physical dominance. The piece insightfully notes Stewart's advocacy against domestic violence and his willingness to embrace self-parody later in life, suggesting a man who understood that how one lives matters more than what one leaves behind. It is a tribute to an artist who lifted popular culture to artistic heights simply by refusing to phone it in.",
-    "summary_zh": "这篇讣告超越了简单的职业生涯回顾，成为一篇关于遗产与意外文化影响的冥想。作者认为斯图尔特的真正价值在于他提升了周围的素材，仅凭气场与庄重感，就将《星际迷航：下一代》从一部俗气的科幻剧提升到了近似莎士比亚的高度。他对皮卡德舰长和X教授的诠释，提供了一种根植于外交、智慧与父爱，而非身体支配的男性气质典范。文中洞察地提到了他反对家庭暴力的倡导，以及晚年愿意接受自我戏仿的态度，暗示了一个深知“如何生活”比“留下什么”更重要的人。这是一篇对一位艺术家的致敬，他凭借不敷衍的态度，将大众文化提升到了艺术高度。",
-    "best_quote_en": "\"What we leave behind, is not as important as how we lived.\"",
-    "best_quote_zh": "“我们留下的东西，不如我们生活的方式重要。”"
-  },
-  {
-    "id": 724,
-    "title": "The Art of Being Alone: May Sarton’s Stunning 1938 Ode to Solitude",
-    "title_zh": "独处的艺术：玛莎·萨顿1938年关于孤独的精彩颂歌",
-    "model_used": "nvidia/nemotron-3.5-super-vl:free",
-    "source": "The Marginalian",
-    "link": "https://www.themarginalian.org/2026/11/01/may-sarton-canticle-6-considerations/",
-    "tags": [
-      "analyze",
-      "psychology",
-      "case-study"
-    ],
-    "tags_zh": [
-      "分析",
-      "心理学",
-      "案例研究"
-    ],
-    "date": "2026-11-01",
-    "summary_en": "This piece explores May Sarton's 1938 poem 'Canticle 6' as a profound meditation on solitude, drawing on reflections from Agnes Martin, Santiago Ramón y Cajal, Elizabeth Bishop, and Wendell Berry to frame aloneness as fertile ground for original thought and inner clarity. The author thoughtfully distinguishes between solitude—a chosen, enriching state—and loneliness, its painful counterpart, suggesting that true solitude allows one's inner voices to become audible and fosters clearer responses to others. The poem itself portrays solitude as intimate adventure, where the spirit finds 'a lovely certainty' even in the presence of love, which paradoxically 'always burns alone.' The analysis invites readers to reframe solitude not as isolation but as essential to creativity, self-knowledge, and meaningful connection.",
-    "summary_zh": "这篇文章将玛莎·萨顿1938年的诗《颂歌6》视为对孤独的深沉冥想，引用阿格尼丝·马丁、卡哈尔、伊丽莎白·毕肖普和温德尔·贝里的反思，将独处描绘为原创思想与内在清晰的肥沃土壤。作者巧妙区分了被选择的、丰富的孤独与痛苦的孤独，认为真正的孤独让内在之声可闻，从而更清晰地回应他人。诗歌将孤独描述为亲密的冒险，精神在其中找到“可爱的确定”，即使爱情也“始终独自燃烧”。这篇分析邀请我们重新审视独处，将其视为创造力、自我认知与有意义连接的必需，而非孤立。",
-    "best_quote_en": "There is no place more intimate than the spirit alone.",
-    "best_quote_zh": "没有比精神独处更亲密的地方了。"
-  },
-  {
-    "id": 725,
-    "title": "Queens Of The Stone Age announce European leg of 2027 ‘Perfecth’ world tour",
-    "title_zh": "石器时代女王乐队宣布2027年《Perfecth》世界巡演欧洲站",
-    "model_used": "nvidia/nemotron-3.5-super-vl:free",
-    "source": "NME",
-    "link": "https://www.nme.com/news/music/queens-of-the-stone-age-announce-european-2027-perfecth-tour-buy-tickets-3974781?utm_source=rss&utm_medium=rss&utm_campaign=queens-of-the-stone-age-announce-european-2027-perfecth-tour-buy-tickets",
-    "tags": [
-      "update",
-      "music-arts",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "动态",
-      "音乐艺术",
-      "未来预测"
-    ],
-    "date": "2026-11-02",
-    "summary_en": "Queens Of The Stone Age have announced the European leg of their 2027 world tour in support of their ninth studio album, Perfecth, released October 30 via Matador Records. Following North American dates with Pixies in May, the band will perform across Europe starting June 13 in Hannover, Germany, with additional shows in Bordeaux, Bilbao, Sevilla, Valencia, Nimes, Pordenone, Munich, and Pula through June 30. UK dates are expected soon. Tickets go on sale November 6 at 10am local time. Frontman Josh Homme described the upcoming shows as building on lessons from their stripped-back Catacombs tour, promising something beyond anything they have done before. The album received a four-star NME review as their most intimate and adventurous work yet.",
-    "summary_zh": "石器时代女王乐队宣布2027年世界巡演欧洲站，宣传其第九张录音室专辑《Perfecth》。专辑于10月30日通过Matador唱片发行。北美与Pixies的演出在5月举行后，乐队将于6月13日在德国汉诺威开启欧洲巡演，随后前往波尔多、毕尔巴鄂、塞维利亚、瓦伦西亚、尼姆、波尔代诺内、慕尼黑和普拉，至6月30日结束。英国站预计很快公布。门票将于11月6日当地时间上午10点开售。主唱Josh Homme表示，新场次将延续“地下墓穴”巡演的经验，带来前所未有的表演。NME给予专辑四星评价，称其为乐队最亲密、最具冒险精神的作品。",
-    "best_quote_en": "There's no going back - there's only forward.",
-    "best_quote_zh": "没有回头路，只有向前。"
-  },
-  {
-    "id": 726,
-    "title": "Yes She Did: A Tribute to the Legendary Dolores Huerta",
-    "title_zh": "她做到了：致敬传奇的德洛雷斯·韦尔塔",
-    "model_used": "nvidia/nemotron-3-ultra-550b-a55b:free",
-    "source": "RogerEbert.com",
-    "link": "https://www.rogerebert.com/chazs-blog/yes-she-did-a-tribute-to-the-legendary-dolores-huerta",
-    "tags": [
-      "analyze",
-      "society",
-      "politics",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "分析",
-      "社会议题",
-      "政治时事",
-      "未来预测"
-    ],
-    "date": "2026-10-30",
-    "summary_en": "This tribute to Dolores Huerta (1930-2026) transcends standard obituary conventions by framing her legacy through the lens of 'Sí, Se Puede'—a phrase that migrated from farmworker organizing to a presidential campaign slogan, revealing how grassroots movements can reshape national consciousness. The author's personal encounter with Huerta at a wedding dinner grounds the historical narrative in intimate observation: her small stature belied a magnetic presence that 'lit up the room.' The piece doesn't sanitize complexity; it confronts Huerta's 2026 revelation about sexual abuse by César Chávez, illustrating her lifelong commitment to accountability 'regardless of sociopolitical persuasion.' This honesty elevates the tribute from hagiography to something more valuable: a portrait of moral consistency. The cultural footprint—documentary, feature film, opera, and a forthcoming Gregory Nava project—testifies to how one organizer's voice can echo across artistic mediums and generations. Nava's reflection that Huerta's slogan helped him overcome industry gatekeeping ('There's no Latinos in the film business') connects labor rights to representation in creative industries. The article ultimately argues that Huerta's true monument isn't the Presidential Medal of Freedom but the internalized belief in collective agency she instilled in countless strangers.",
-    "summary_zh": "这篇悼文拒绝将韦尔塔神圣化，转而展示一位组织者如何用\"Sí, Se Puede\"重塑国家想象力——从葡萄园罢工到奥巴马竞选口号，再到格雷戈里·纳瓦打破好莱坞种族壁垒的个人见证。作者婚宴上的邂逅细节（\"身材娇小却点亮整个房间\"）让历史人物有了体温。最动人的是2026年她打破沉默揭露查韦斯性侵：这种\"不论政治立场都要追责\"的道德一致性，比总统自由勋章更配得上纪念碑式的意义。歌剧、纪录片、传记片接踵而至，证明一个组织者的声音能跨越媒介和代际回响。读完不觉想问自己：我内化了多少\"是的，我们能\"的勇气？",
-    "best_quote_en": "\"Si, Se Puede\"—\"Yes, you can\"—was more than just helping farm workers... it was helping all of us to realize our dreams.",
-    "best_quote_zh": "\"Sí, Se Puede\"——\"是的，你能做到\"——不仅帮助了农场工人……它帮助我们所有人实现梦想。"
-  },
-  {
     "id": 727,
     "title": "Ashley Walters on his prison-drama directorial debut Animol: “I wanted it to look like how it really is”",
     "title_zh": "阿什利·沃特尔斯谈监狱剧情片处女作《Animol》：“我想让它看起来像真实的样子”",
@@ -2486,5 +2369,134 @@
     "summary_zh": "这期节目将冥想框架与脑科学结构相结合，将冥想定位为探究意识本质的方法论工具，而非单纯的放松手段。哈里斯深刻阐释了从目标导向转向当下体验的转变，认为真正的转化源于重塑与经验的关系而非追求特定状态。'如空一样的心'等技巧被框定为培养自由与思维观察距离的手段，对于面对普遍的注意力分散和内心杂念具有极高的实践价值，提供了重新审视自我与当下的切入点。",
     "best_quote_en": "The purpose of meditation is not to achieve a particular state, but to see the mechanisms of the mind clearly enough that we can choose how to respond rather than react.",
     "best_quote_zh": "冥想的目的不是达到某种状态，而是清晰地看到心的机制，从而选择如何回应而不是本能反应。"
+  },
+  {
+    "id": 822,
+    "title": "Justice, Cardi B and Travis Scott give ‘Grand Theft Auto 6’ anthems their live debut at festival launch event",
+    "title_zh": "Justice、Cardi B 和 Travis Scott 首次现场演绎《侠盗猎车手 6》主题曲",
+    "title_en": "Justice, Cardi B and Travis Scott give ‘Grand Theft Auto 6’ anthems their live debut at festival launch event",
+    "model_used": "nvidia/nemotron-3-nano-omni-30b-a3b-reasoning:free",
+    "translation_model_used": null,
+    "source": "NME",
+    "link": "https://www.nme.com/news/gaming-news/justice-cardi-b-travis-scott-grand-theft-auto-6-the-festival-footage-3976701",
+    "tags": [
+      "update",
+      "music-arts"
+    ],
+    "tags_zh": [
+      "动态",
+      "音乐艺术"
+    ],
+    "date": "2026-11-23",
+    "summary_en": "At the Grand Theft Auto 6 Festival in Miami, Justice performed new tracks from the game’s soundtrack, including ‘Flower In A Hurricane’ and ‘Starting From Zero’, alongside Cardi B’s debut of ‘Don’t Chart’ and Travis Scott’s live debut of ‘RHYNO’, ‘Ya Hit’ and ‘GASS’, celebrating the game and its 34‑track companion album.",
+    "summary_zh": "在迈阿密的《侠盗猎车手 6》节日中，Justice 首次现场演绎《Flower In A Hurricane》和《Starting From Zero》，Cardi B 首次表演《Don’t Chart》，Travis Scott 首次演绎《RHYNO》、《Ya Hit》和《GASS》，庆祝游戏及其 34 首专辑。",
+    "best_quote_en": "Justice just played “Flower In A Hurricane” live for the first time ever at GTA 6: The Festival in Miami tonight.",
+    "best_quote_zh": "Justice 首次在迈阿密的 GTA 6 节日现场演绎了《Flower In A Hurricane》。"
+  },
+  {
+    "id": 823,
+    "title": "CIFF 2026: In “Once Upon a Time in Harlem,” a Documentary’s Multigenerational Co-Creation Opens Meaningful Dialogue",
+    "title_zh": "CIFF 2026：在《从前在哈莱姆》中，一部纪录片的跨世代共创开启了有意义的对话",
+    "title_en": "CIFF 2026: In “Once Upon a Time in Harlem,” a Documentary’s Multigenerational Co-Creation Opens Meaningful Dialogue",
+    "model_used": "dots-studio/dots-3-note-preview:free",
+    "translation_model_used": null,
+    "source": "RogerEbert.com",
+    "link": "https://www.rogerebert.com/festivals/ciff-2026-in-once-upon-a-time-in-harlem-a-documentarys-multigenerational-co-creation-opens-meaningful-dialogue",
+    "tags": [
+      "learn",
+      "education",
+      "music-arts",
+      "case-study"
+    ],
+    "tags_zh": [
+      "学习",
+      "教育学习",
+      "音乐艺术",
+      "案例研究"
+    ],
+    "date": "2026-11-20",
+    "summary_en": "This dispatch from the Chicago International Film Festival, authored by Roger Ebert Fellow Ciel Baptiste, offers a deeply reflective analysis of William Greaves’ long-awaited documentary *Once Upon a Time in Harlem*. The film captures a rare 1972 gathering of Harlem Renaissance luminaries—artists, writers, and intellectuals—preserved through Greaves’ lens as both historical record and living dialogue. Baptiste frames the documentary not merely as archival footage, but as a multigenerational act of cultural preservation and co-creation, completed decades later by Greaves’ son David and granddaughter Liani. The analysis highlights the film’s emphasis on listening, collaboration, and intergenerational continuity, drawing parallels to Greaves’ earlier experimental work *Symbiopsychotaxiplasm* and other underappreciated documentaries like *Say Amen, Somebody*. Baptiste’s personal engagement—her emotional response to the screening, the Q&A with the Greaves family, and the audience’s collective awe—underscores the film’s power to bridge past and present. She argues that the documentary resists passive consumption, instead inviting viewers to become participants in an ongoing cultural conversation. The film’s closing poem, “I live,” serves as a defiant affirmation of Black artistic existence and a call to action: to preserve, amplify, and build upon the legacy of the Harlem Renaissance. This is not just a review—it is a meditation on how art, memory, and community can be reclaimed and reimagined across time.",
+    "summary_zh": "这篇由罗伯特·埃伯特研究员Ciel Baptiste撰写的影评，深刻剖析了威廉·格里夫斯（William Greaves）尘封数十年的纪录片《从前在哈莱姆》。影片记录了1972年哈莱姆文艺复兴时期巨匠们的罕见聚会，不仅是历史影像的保存，更是一场跨越世代的文化对话与共创实践。Baptiste指出，这部作品由格里夫斯的儿子David与孙女Liani历经数十年精心修复与剪辑完成，其核心精神是“倾听”与“协作”——它拒绝被动观看，邀请观众成为文化记忆的共同建构者。影片通过诗性独白、互动式镜头语言与现场Q&A的沉浸式体验，将1972年的沙龙与2026年的影院空间缝合，使观众在笑声、泪水与沉思中感受到“我活着”的艺术宣言。Baptiste以个人情感为切入点，强调影片不仅是对文艺复兴的致敬，更是对当代文化责任的召唤：我们有义务延续、传播并创新这份属于全人类的精神遗产。这不仅是一篇影评，更是一次关于记忆、身份与集体创造力的哲学沉思。",
+    "best_quote_en": "The treasured prize of our survival is the joy of self-expression; in all those unique thoughts and actions that each person has to tell himself and all the world: I live.",
+    "best_quote_zh": "我们生存的珍贵奖赏，是自我表达的喜悦；在每个人向自己与世界诉说的独特思想与行动中：我活着。"
+  },
+  {
+    "id": 824,
+    "title": "The Most Powerful Attitude You Can Take Toward Your Life and the Life of the World",
+    "title_zh": "你能对待自己生命和世界生命的最有力态度",
+    "title_en": "The Most Powerful Attitude You Can Take Toward Your Life and the Life of the World",
+    "model_used": "nvidia/nemotron-3-nano-omni-30b-a3b-reasoning:free",
+    "translation_model_used": null,
+    "source": "The Marginalian",
+    "link": "https://www.themarginalian.org/2026/11/22/richard-powers-advice/",
+    "tags": [
+      "solve",
+      "education",
+      "writing-content",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "解决",
+      "教育学习",
+      "写作内容",
+      "未来预测"
+    ],
+    "date": "2026-11-22",
+    "summary_en": "This essay argues that true courage lies in rejecting the illusion of a fixed world and embracing the radical belief that even small, purposeful actions can reshape reality. Drawing on James Baldwin, Hannah Arendt, and Richard Powers, it frames life as a 'thermodynamic experiment' still in its embryonic stage, demanding active participation rather than passive acceptance. The author critiques how the internet, by optimizing for algorithmic convenience, has dulled our curiosity and made discovery passive, sacrificing the 'wondrous encyclopedic feeling' of learning for the comfort of predictable content. Powers' call to 'take in more, consume less' and 'jump in' at the smallest scale presents a practical ethic of resistance: lucid acknowledgment of global crises followed by immediate, tangible action. This is not mere inspiration but a call for sustained, vulnerable engagement as the only viable response to an unstable world.",
+    "summary_zh": "这篇文章揭示了敢于相信世界并非定固、敢于认为微小行动能改变现实的深刻勇气。它引用鲍尔德温、阿伦特与理查德·帕金斯，将生命比作仍在胚胎阶段的热力学实验，批判互联网算法削弱了真正的好奇心，使探索变得被动。帕金斯提出的\"多看更多，少消费，立即投入\"的实践伦理，是面对生态危机与社会动荡时，以清醒承认现实并采取微小但坚定行动的唯一出路。",
+    "best_quote_en": "Never forget what you were born knowing. That this fluke, single, huge, cross-indexed, thermodynamic experiment of a story that the world has been inventing to tell itself at bedtime is still in embryo. It's not even the outline of a synopsis of notes toward a rough draft yet. Buy the plot some time.",
+    "best_quote_zh": "别忘了你出生时就知道的事。这个被世界在讲睡觉时编织的、单一巨大、交叉索引的热力学实验故事，至今仍在胚胎状态，甚至还不是写提纲或粗稿的轮廓。多花点时间买下这个故事吧。"
+  },
+  {
+    "id": 825,
+    "title": "Manchester Co-op Live arena evacuated with more than 50 hurt after “unknown substance” was released at Don Toliver show as police declare major incident",
+    "title_zh": "曼彻斯特Co-op Live竞技场因“不明物质”释放疏散，50余人受伤，警方宣布重大事件",
+    "title_en": "Manchester Co-op Live arena evacuated with more than 50 hurt after “unknown substance” was released at Don Toliver show as police declare major incident",
+    "model_used": "particle-ai/particle-1:free",
+    "translation_model_used": null,
+    "source": "NME",
+    "link": "https://www.nme.com/news/music/manchester-co-op-live-arena-evacuated-with-more-than-50-hurt-after-unknown-substance-was-released-at-don-toliver-show-as-police-declare-major-incident-3976684",
+    "tags": [
+      "update",
+      "medicine",
+      "society",
+      "controversial"
+    ],
+    "tags_zh": [
+      "动态",
+      "医学健康",
+      "社会议题",
+      "争议观点"
+    ],
+    "date": "2026-11-23",
+    "summary_en": "This incident at Manchester's Co-op Live arena, during a Don Toliver concert, raises urgent questions about crowd safety and emergency preparedness at large-scale events. The release of an unknown substance, initially suspected to be tear gas, led to over 50 people requiring treatment and a full evacuation of 12,000 attendees. While authorities acted swiftly, the lack of immediate clarity on the substance's origin—whether accidental or deliberate—underscores vulnerabilities in venue security protocols. The event also highlights the psychological impact on concertgoers and the logistical challenges of managing mass evacuations. As investigations begin, the focus must shift to preventive measures and transparent communication to restore public confidence in live entertainment safety. This case serves as a critical reminder that even in spaces of joy, vigilance is paramount.",
+    "summary_zh": "曼彻斯特Co-op Live竞技场在Don Toliver演唱会期间发生不明物质释放事件，导致50余人受伤、1.2万人疏散，警方宣布重大事件。初步怀疑为催泪瓦斯，但具体来源仍在调查。此次事件不仅暴露了大型场馆安全管理的潜在漏洞，也引发了对公共活动应急响应机制的审视。尽管当局迅速采取行动，但物质性质不明、疏散过程中的混乱以及后续心理影响，都值得深思。在享受现场娱乐的同时，如何平衡安全与体验，成为主办方和监管部门亟待解决的课题。此事件提醒我们，人群密集场所的安保措施需更加严密，而透明的信息发布对安抚公众情绪至关重要。",
+    "best_quote_en": "We will now begin to fully understand what this substance was and how this incident came about.",
+    "best_quote_zh": "我们现在将开始全面了解这种物质是什么以及这起事件是如何发生的。"
+  },
+  {
+    "id": 826,
+    "title": "CIFF 2026: With “The Man I Love,” Ira Sachs Plumbs the Pleasure and Anguish of Queer Existence",
+    "title_zh": "《我所爱的人》",
+    "title_en": "The Man I Love",
+    "model_used": "recursive/flint-v1.0:free",
+    "translation_model_used": null,
+    "source": "RogerEbert.com",
+    "link": "https://www.rogerebert.com/festivals/ciff-2026-with-the-man-i-love-ira-sachs-plumbs-the-pleasure-and-anguish-of-queer-existence",
+    "tags": [
+      "learn",
+      "music-arts",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "学习",
+      "音乐艺术",
+      "未来预测"
+    ],
+    "date": "2026-11-20",
+    "summary_en": "At the 62nd Chicago International Film Festival, Ira Sachs presented his latest film, The Man I Love, which follows cabaret performer Jimmy George after an AIDS diagnosis. Returning to his New York apartment with partner Dennis, Jimmy reenters hedonistic theatrical life while confronting illness. Rami Malek gives a transformative performance, complicating victimhood with lust, artistry, and selfishness. The film explores queer love, mortality, performance, and memory during the AIDS epidemic. Sachs discussed inspirations from The Man I Love, Van Gogh, Beau Travail, and archival gay cinema. The story balances raw emotion, restraint, and musical confession, examining love, art, and pain.",
+    "summary_zh": "伊拉·萨克斯携新作《我所爱的人》登上芝加哥电影节，讲述男伎回应艾滋病诊断、重返舞台与欲望生活。拉米·马利克演技突破，影片探讨同性恋、死亡、表演与记忆，融合《泰》《星夜》等灵感，在痛苦与美好中展现人性。",
+    "best_quote_en": "A concentration in making the film on all the things I would miss when I was dead: light, cinema, sex, skin, emotion, and pain.",
+    "best_quote_zh": "一种专注，把电影放在我死前会错过的所有事物上：光、电影、性、皮肤、情感和痛苦。"
   }
 ]
