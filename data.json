@@ -1,114 +1,5 @@
 [
   {
-    "id": 727,
-    "title": "Ashley Walters on his prison-drama directorial debut Animol: “I wanted it to look like how it really is”",
-    "title_zh": "阿什利·沃特尔斯谈监狱剧情片处女作《Animol》：“我想让它看起来像真实的样子”",
-    "model_used": "nvidia/nemotron-3-ultra-550b-a55b:free",
-    "source": "BFI",
-    "link": "https://www.bfi.org.uk/interviews/ashley-walters-animol",
-    "tags": [
-      "analyze",
-      "society",
-      "case-study"
-    ],
-    "tags_zh": [
-      "分析",
-      "社会议题",
-      "案例研究"
-    ],
-    "date": "2026-10-30",
-    "summary_en": "This interview reveals Ashley Walters not merely as an actor-turned-director, but as a craftsman interrogating the very grammar of prison cinema. His 18 months in a young offenders' institute at 19 isn't biography—it's methodology. Walters refuses the comforting distance of stylized violence, instead framing it as 'a language of fear,' a vocabulary born of inarticulacy. The most striking revelation comes when he screens a music-heavy cut and realizes the score was compensating for distrust in his actors' faces. That pivot—to silence, to raw performance—marks a director discovering his own authority. His approach to queer representation, initially cautious then humbled by youth screenings where 'nobody gives a shit anymore,' captures a generational shift in real time. But the interview's beating heart is Walters' mission: not crime stories, but 'stories of Black men being good people.' He names the erasure of Black male tenderness—hugs, the word 'love' as greeting, brotherhood—and makes its restoration his cinematic project. Animol emerges not as a prison film, but as a counter-archive of Black British interiority.",
-    "summary_zh": "沃特尔斯不只是演员转导演，更是监狱电影语法的审视者。19岁入狱18个月非传记，而是方法论。他拒绝风格化暴力的安全距离，将其定义为'恐惧的语言'——源于无法表达的词汇。试映时发现配乐在掩盖对演员表演的不信任，果断去音乐，转向沉默与面部微表情，那是导演权威的觉醒。对酷儿呈现的初谨慎，在青年观众'根本不在乎'的反应中化为对代际变迁的惊喜。但核心在于：他不拍犯罪，而拍'黑人男性的善良与柔软'——拥抱、以爱为礼、兄弟情谊，这些从未进入英国银幕叙事。《Animol》不是监狱片，是黑人英国内心世界的反档案。",
-    "best_quote_en": "I'm not specifically looking for crime. I'm looking for the heart.",
-    "best_quote_zh": "我不是专门在找犯罪题材。我在寻找人性的柔软。"
-  },
-  {
-    "id": 728,
-    "title": "“Clearing” by Illustrator Evan M. Cohen",
-    "title_zh": "Clearing",
-    "model_used": "nvidia/nemotron-3-nano-omni-30b-a3b-reasoning:free",
-    "source": "BOOOOOOOM",
-    "link": "https://www.booooooom.com/2026/11/02/clearing-by-illustrator-evan-m-cohen/",
-    "tags": [
-      "update",
-      "design"
-    ],
-    "tags_zh": [
-      "动态",
-      "设计创意"
-    ],
-    "date": "2026-11-02",
-    "summary_en": "Evan M. Cohen’s 'Clearing' series presents a compelling visual exploration of transition and renewal, using abstract, layered compositions to evoke the psychological and emotional process of clearing mental or creative space. While the content lacks explicit textual analysis, the sequence of images suggests a deliberate narrative arc—each piece building upon the last through evolving textures, color palettes, and spatial dynamics. This work resonates as both an aesthetic and conceptual inquiry into how we clear away the old to make room for the new, reflecting broader themes of impermanence, transformation, and intentional design. For creatives and thinkers, 'Clearing' functions as a visual meditation on the necessity of emptiness before creation, offering rich material for those interested in process, minimalism, and emotional resonance in art. Its subtle complexity invites deep analysis, making it valuable for audiences seeking inspiration or insight into the interplay between simplicity and depth in visual storytelling.",
-    "summary_zh": "《Clearing》系列通过层叠的抽象画作，视觉化了心理或创作空间的清空与更新过程，揭示了放下旧有、迎接新生的必要性。作为设计师与思想者的视觉冥想，它揭示了 emptiness 是创造的前提，以简约之形承载深刻情感与哲思，具有启发意义。",
-    "best_quote_en": "Not answerable",
-    "best_quote_zh": "Not answerable"
-  },
-  {
-    "id": 729,
-    "title": "What does Olivia Colman's hot sex with a basket tell us about heteropessimism? | Emma Beddington",
-    "title_zh": "奥利维亚·科尔曼与篮子的热烈性爱，揭示了异性恋悲观主义的什么真相？",
-    "model_used": "nvidia/nemotron-3-ultra-550b-a55b:free",
-    "source": "Women | The Guardian",
-    "link": "https://www.theguardian.com/commentisfree/2026/nov/01/wicker-olivia-colman-alexander-skarsgard-hot-sex-basket-heteropessimism",
-    "tags": [
-      "update",
-      "society",
-      "controversial"
-    ],
-    "tags_zh": [
-      "动态",
-      "社会议题",
-      "争议观点"
-    ],
-    "date": "2026-11-01",
-    "summary_en": "Beddington's column is a delightful Trojan horse: wrapped in self-deprecating humor about wicker splinters and cake-based lovers, it delivers a sharp interrogation of contemporary gender discourse. The piece refuses the easy narrative that women are 'giving up on men,' instead exposing the gap between performed heteropessimism (collared wives, 'mankeeping' labor) and behavioral reality (93.7% heterosexual identification). What emerges is not rejection but a collective imaginative leap — romantasy and object erotica as pressure valves for structural exhaustion. The genius lies in Beddington's refusal to pathologize desire; she treats the wicker man not as symptom but as speculative fiction: what if partnership were light, equal, maintenance-free? The essay's final pivot to Christmas cake — durable, edible, discipline-able — perfectly encapsulates the yearning: not for the non-human, but for the unburdened. This is cultural criticism at its most humane: funny, unpretentious, and quietly radical in its insistence that women's fantasies deserve curiosity, not diagnosis.",
-    "summary_zh": "贝丁顿用自嘲的幽默包装深刻的性别洞察：柳条人、哥布林情人、回形针克利皮，这些荒诞幻想不是女性厌男的证据，而是对结构性疲惫的想象性泄压。93.7%的异性恋身份认同与网络上盛行的'异性恋致死论'形成张力——女性不是在拒绝男人，而是在幻想一种轻盈、平等、免维护的亲密关系。圣诞果蛋糕做爱人（耐久、可食、咬一口就能管教）这个荒诞收尾，精准捕捉了核心渴望：不想要非人类，想要的是不累的爱。",
-    "best_quote_en": "If anything, I see Wicker-mania and its ilk as indicative of a yearning escapism, a desire for life to be lighter, sexier and sillier. When everything is horrible, why not imagine, and enjoy, a world where – unlike this one – anything's possible, including mutually satisfying relationships, gender equality and sex with macaroni cheese?",
-    "best_quote_zh": "在我看来，'柳条狂热'及其同类作品，折射出的是一种渴望式逃避主义——渴望生活更轻盈、更性感、更荒诞。万事皆糟之际，为何不想象并享受一个万物皆可能的世界？在那里，相互满足的关系、性别平等、甚至与通心粉芝士做爱，都能成真。"
-  },
-  {
-    "id": 730,
-    "title": "100 Objects #22: AOL Disc",
-    "title_zh": "100 Objects #22: AOL光盘",
-    "model_used": "nvidia/nemotron-3.5-lightning:free",
-    "source": "99% Invisible",
-    "link": "https://99percentinvisible.org/episode/100-objects-022-aol-disc/",
-    "tags": [
-      "solve",
-      "marketing"
-    ],
-    "tags_zh": [
-      "解决",
-      "市场营销"
-    ],
-    "date": "2026-10-30",
-    "summary_en": "In 1998, America Online pressed more compact discs than any US record label. This marketing campaign introduced America to the internet, making AOL synonymous with online access, before the brand eventually faded from prominence. The AOL Disc remains a pivotal moment in digital history, bridging the gap between physical media and the internet era.",
-    "summary_zh": "1998年，美国在线公司生产的光盘数量超过了任何唱片公司。这场营销活动向美国介绍了互联网，使得AOL synonymous with online access（在线接入的同义词），但在品牌逐渐淡出之前。AOL光盘仍然是连接实体媒体与互联网时代的关键历史时刻。",
-    "best_quote_en": "The campaign that introduced America to the internet.",
-    "best_quote_zh": "介绍美国人使用互联网的活动。"
-  },
-  {
-    "id": 731,
-    "title": "Imran Perretta on community, collaboration and composing Ish: highlights from a BFI Film Academy masterclass",
-    "title_zh": "Imran Perretta on community, collaboration and composing Ish: highlights from a BFI Film Academy masterclass",
-    "model_used": "nvidia/nemotron-3.5-lightning:free",
-    "source": "BFI",
-    "link": "https://www.bfi.org.uk/news/imran-perretta-community-collaboration-composing-ish-highlights-from-bfi-film-academy-masterclass",
-    "tags": [
-      "solve",
-      "music-arts"
-    ],
-    "tags_zh": [
-      "解决",
-      "音乐艺术"
-    ],
-    "date": "2026-10-30",
-    "summary_en": "This masterclass transcript offers a compelling behind-the-scenes look at the making of Ish, a debut feature rooted in director Imran Perretta's teenage experiences with stop-and-search encounters. The discussion reveals the film's organic genesis in Perretta's bilingual upbringing between south London and Luton, and highlights the critical role of community collaboration—from location manager Aly Ripo's early involvement to the authentic community participation during filming. Perretta's compositional approach, blending contemporary art with English folk aesthetics, demonstrates a sophisticated translation of emotional tone. The conversation ultimately champions creative bravery, urging filmmakers to resist industry gatekeeping. It stands as a masterclass not just in filmmaking technique, but in the power of personal truth and cross-cultural community engagement.",
-    "summary_zh": "本次BFI电影学院大师课透析了影片《Ish》的创作过程，导演Imran Perretta的童年经历与影片的警察遭遇紧密相连。文章生动描绘了导演在南伦敦与 Luton 之间的双语成长背景，以及社区合作在影片诞生中的关键作用。地经理Aly Ripo的早期介入与取景过程中的社区温情互动，为影片赋予了真实的地域气息。Perretta 的音乐创作融合当代艺术与英式民间美学，展现了情感基调的精准转译。大师课的核心价值在于鼓励年轻电影人敢于冒险、抵抗行业门槛，个人认为这种基于真实经验的创作力量具有普遍的励志意义。",
-    "best_quote_en": "\"A lot of it is centred on scenes from my teenage years,\" Perretta revealed, speaking especially of the police stop-and-search at the heart of the film. Having had a similar experience at 13, Perretta said: \"It broke my world open.\"",
-    "best_quote_zh": "\"A lot of it is centred on scenes from my teenage years,\" Perretta revealed, speaking especially of the police stop-and-search at the heart of the film. Having had a similar experience at 13, Perretta said: \"It broke my world open.\""
-  },
-  {
     "id": 732,
     "title": "General and Surprising",
     "title_zh": "普遍而惊人",
@@ -2498,5 +2389,126 @@
     "summary_zh": "伊拉·萨克斯携新作《我所爱的人》登上芝加哥电影节，讲述男伎回应艾滋病诊断、重返舞台与欲望生活。拉米·马利克演技突破，影片探讨同性恋、死亡、表演与记忆，融合《泰》《星夜》等灵感，在痛苦与美好中展现人性。",
     "best_quote_en": "A concentration in making the film on all the things I would miss when I was dead: light, cinema, sex, skin, emotion, and pain.",
     "best_quote_zh": "一种专注，把电影放在我死前会错过的所有事物上：光、电影、性、皮肤、情感和痛苦。"
+  },
+  {
+    "id": 827,
+    "title": "The Giant Thanksgiving Balloons",
+    "title_zh": "巨型感恩节气球",
+    "title_en": "The Giant Thanksgiving Balloons",
+    "model_used": "nvidia/nemotron-3.5-lightning:free",
+    "translation_model_used": null,
+    "source": "99% Invisible",
+    "link": "https://99percentinvisible.org/episode/693-the-giant-thanksgiving-balloons/",
+    "tags": [
+      "guide",
+      "design",
+      "case-study"
+    ],
+    "tags_zh": [
+      "指导",
+      "设计创意",
+      "案例研究"
+    ],
+    "date": "2026-11-24",
+    "summary_en": "This story explores the history of Macy's Thanksgiving Day Parade balloons, from their origins as live zoo animals to the iconic helium-filled rubber balloons seen today. It details the logistical challenges, safety incidents like the 1997 accident, and the volunteer experience of guiding these massive structures through New York City streets, highlighting their evolution into a cherished holiday tradition.",
+    "summary_zh": "本故事探索麦西感恩节大游行气球的历史，从最初的真实动物起源到如今标志性的氦气充填橡胶气球。它详述了后勤挑战、如1997年事故等安全事件，以及志愿者引导这些巨型结构穿越纽约街道的体验，突显它们如何演变为珍贵的节日传统。",
+    "best_quote_en": "It was more like I do not want to screw this up for everybody else.",
+    "best_quote_zh": "更多的是我不想把事情搞砸给大家"
+  },
+  {
+    "id": 828,
+    "title": "Where to begin with Fritz Lang",
+    "title_zh": "如何开始了解弗里茨·朗",
+    "title_en": "Where to begin with Fritz Lang",
+    "model_used": "nvidia/nemotron-3-nano-omni-30b-a3b-reasoning:free",
+    "translation_model_used": null,
+    "source": "BFI",
+    "link": "https://www.bfi.org.uk/features/where-begin-with-fritz-lang",
+    "tags": [
+      "analyze",
+      "music-arts",
+      "deep-dive"
+    ],
+    "tags_zh": [
+      "分析",
+      "音乐艺术",
+      "深度分析"
+    ],
+    "date": "2026-11-23",
+    "summary_en": "This article provides a thoughtful guide for newcomers to Fritz Lang's filmography, emphasizing his distinctive approach to socially conscious cinema that prioritizes intellectual engagement over moralizing. The author highlights Lang's signature style—using ambiguous moral frameworks, psychological depth, and stylized violence—to explore 'social evils' and 'eternal problems' rather than deliver didactic messages. Key insights include Lang's Berlin period (particularly M) establishing his realist technique and thematic concerns, followed by his Hollywood era where he continued social critique through films like Fury and Hangmen Also Die. The piece argues that Scarlet Street represents an ideal entry point, demonstrating his mastery of noir's exploration of guilt, victimhood, and moral ambiguity through its portrayal of a photographer's descent into paranoia and self-destruction. Lang's work consistently challenges binary thinking by blurring lines between criminal/cop, good/evil, and victim/perpetrator, making his films particularly relevant for examining complex ethical questions like capital punishment. The article positions Lang as a filmmaker whose work remains powerfully relevant for understanding how individuals navigate systems of power and moral compromise.",
+    "summary_zh": "这篇文章为弗里茨·朗的电影新手提供了极具启发性的入门指南，突出了他超越简单道德说教的创作风格——通过含糊的道德框架、心理深度和风格化暴力来探讨社会恶和永恒课题。文章指出《M》奠定了其柏林时期的写实主义美学与主题基础，而好莱坞阶段则延续了社会批判传统，如《Fury》批判集体暴力。《斯卡ار莱特街》被推荐为最佳起点，展现了他精湛的侘寂美学与对罪恶、偏执、德国浪漫主义与心理分析的融合，其暴力呈隐晦形式迫使观众主动想象恐怖。朗作品的核心价值在于不断模糊善恶边界，将个体命运与制度性权力联系起来，使其影片对当代伦理困境（如死刑正当性）具有深刻现实意义。",
+    "best_quote_en": "messages should be conveyed by telegrams, rather than by films",
+    "best_quote_zh": "信息应通过电报传递，而非通过电影"
+  },
+  {
+    "id": 829,
+    "title": "“Rural Veterinarian” by Photographer Timur Mansurov",
+    "title_zh": "乡村兽医",
+    "title_en": "Rural Veterinarian",
+    "model_used": "nvidia/nemotron-3.5-lightning:free",
+    "translation_model_used": null,
+    "source": "BOOOOOOOM",
+    "link": "https://www.booooooom.com/2026/11/23/rural-veterinarian-by-photographer-timur-mansurov/",
+    "tags": [
+      "analyze",
+      "ai-research"
+    ],
+    "tags_zh": [
+      "分析",
+      "AI研究"
+    ],
+    "date": "2026-11-23",
+    "summary_en": "Timur Mansurov's photographic series offers a profound visual meditation on the often-invisible labor of rural veterinarians. Through 24 striking black-and-white and color images, the project documents the intimate, challenging, and deeply human connection between practitioners and the animals they serve in remote communities. Beyond mere documentation, Mansurov captures the quiet dignity of this profession, revealing how these individuals navigate vast landscapes and limited resources to provide care. The work serves as a compelling testament to the unsung heroes of agricultural health, prompting viewers to reconsider the spatial and emotional geography of veterinary medicine. It is a powerful exploration of stewardship, isolation, and the quiet resilience found in the periphery of professional care.",
+    "summary_zh": "Timur Mansurov的摄影系列对乡村兽医这一常被忽视的劳动进行了深刻的视觉沉思。通过24张 striking 的黑白和彩色图像，该项目记录了执业者与服务的动物之间亲密、艰难且深刻的人文连接。在Mansurov的镜头下，我们看到了这些从业者在偏远社区中如何在广阔的景观和有限的资源中穿行，提供护理。这项作品是对农业健康默默无闻的英雄的有力见证，促使观众重新考虑兽医医学的空间和情感地理。它是对责任感、孤立感以及专业护理边缘地区发现的安静韧性的有力探索。",
+    "best_quote_en": "\"The camera allows me to honor the quiet work that often goes unnoticed,\" Mansurov reflects on his approach to documenting rural veterinary life.",
+    "best_quote_zh": "\"相机让我能够荣耀那些常被忽视的安静工作。\" Mansurov 对记录乡村兽医生活的态度这样反思。"
+  },
+  {
+    "id": 830,
+    "title": "100 Objects #25: Beaded Moccasin",
+    "title_zh": "100件物品中的美国历史 #25：珠饰软靴",
+    "title_en": "100 Objects #25: Beaded Moccasin",
+    "model_used": "nvidia/nemotron-3-ultra-550b-a55b:free",
+    "translation_model_used": null,
+    "source": "99% Invisible",
+    "link": "https://99percentinvisible.org/episode/100-objects-025-beaded-moccasin/",
+    "tags": [
+      "update",
+      "education"
+    ],
+    "tags_zh": [
+      "动态",
+      "教育学习"
+    ],
+    "date": "2026-11-20",
+    "summary_en": "Poet Sarah Kay investigates a pair of beaded moccasins gifted to her grandmother June Suzuki, who taught at a Native American boarding school after her release from a Japanese-American internment camp during WWII. The object reveals a hidden connection between two marginalized communities and exposes a surprising family secret, illustrating how personal artifacts can illuminate broader historical injustices.",
+    "summary_zh": "诗人莎拉·凯调查了一双珠饰软靴，这是送给她祖母铃木纯的礼物。纯在二战日裔集中营获释后，在美洲原住民寄宿学校任教。这件物品揭示了两个边缘群体间隐秘的历史关联，并暴露了一个惊人的家族秘密，展示了个人文物如何照亮更广泛的历史不公。",
+    "best_quote_en": "Objects carry stories that history books often silence.",
+    "best_quote_zh": "物品承载着历史书往往沉默的故事。"
+  },
+  {
+    "id": 831,
+    "title": "“Stravaig” by Photographer James Parker",
+    "title_zh": "《Stravaig》——摄影师詹姆斯·帕克",
+    "title_en": "Stravaig by James Parker",
+    "model_used": "nvidia/nemotron-3-nano-omni-30b-a3b-reasoning:free",
+    "translation_model_used": "nvidia/nemotron-3-ultra-550b-a55b:free",
+    "source": "BOOOOOOOM",
+    "link": "https://www.booooooom.com/2026/11/20/stravaig-by-photographer-james-parker/",
+    "tags": [
+      "analyze",
+      "music-arts",
+      "design"
+    ],
+    "tags_zh": [
+      "分析",
+      "音乐艺术",
+      "设计创意"
+    ],
+    "date": "2026-11-20",
+    "summary_en": "This portfolio piece 'Stravaig' by photographer James Parker represents a curated collection of striking visual narratives rather than a traditional article with explicit textual content. The work showcases Parker's artistic vision through a series of 18 professionally captured photographs, each presented with consistent high-quality composition and aesthetic sensibility. The images appear to explore themes of human presence, spatial relationships, and environmental interaction through carefully framed perspectives. As a visual portfolio rather than analytical content, its primary value lies in inspiring creative thought and demonstrating technical mastery in photography. The work invites viewers to engage in visual analysis and emotional interpretation, making it particularly valuable for photography enthusiasts, art students, and creative professionals seeking inspiration. The consistent aesthetic across the collection suggests a deliberate exploration of visual storytelling techniques and compositional strategies.",
+    "summary_zh": "「Stravaig」是摄影师詹姆斯·帕克的一个视觉作品集，而非文章。通过18张精心构图的高质量照片，它展现了人与环境的关系、空间感知和视觉叙事。这套作品对摄影爱好者、艺术学生和创意专业人士极具启发价值，强调通过构图和光影进行视觉表达的探索。其价值在于激发观众的视觉分析与情感共鸣，而非提供文字叙事。",
+    "best_quote_en": "This work is about creating moments that feel both intimate and universal, capturing the quiet poetry of everyday existence through the lens.",
+    "best_quote_zh": "这些作品旨在捕捉既亲密又普遍的时刻，通过镜头展现日常存在的静谧诗意。"
   }
 ]
