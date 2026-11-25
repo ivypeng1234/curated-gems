@@ -1,118 +1,5 @@
 [
   {
-    "id": 732,
-    "title": "General and Surprising",
-    "title_zh": "普遍而惊人",
-    "model_used": "nvidia/nemotron-3.5-super-vl:free",
-    "source": "Paul Graham",
-    "link": "http://www.paulgraham.com/sun.html",
-    "tags": [
-      "solve",
-      "general",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "解决",
-      "general",
-      "未来预测"
-    ],
-    "date": "2026-11-05",
-    "summary_en": "Paul Graham's essay explores the elusive intersection of generality and surprise in valuable insights. He argues that the most precious knowledge—like F=ma—is both broadly applicable and unexpectedly novel, yet this territory is quickly exhausted. Most insights settle for one quality without the other: gossip is surprising but not general; platitudes are general but not surprising. Graham's key contribution is the concept of the 'small delta': when starting from highly general ideas, even a tiny addition of novelty produces useful insight. This reframes repetition not as failure but as necessary variation that increases the probability of breakthrough. The essay champions persistence, noting that 'not much new' is a genuine achievement when applied to fundamental ideas. It's a meditation on intellectual productivity that values incremental progress within broad domains over radical disruption.",
-    "summary_zh": "格雷厄姆探讨了最有价值的洞察必须兼具“普遍性”和“惊人性”这一难得组合。绝大多数见解只占其一：八卦惊人但不普遍，陈词滥调普遍但不惊人。他提出的核心概念是“微小增量”——从极其普遍的思想出发，哪怕只有极小的新颖性，也能产生有用的洞察。这重新定义了重复的意义：在处理最一般性的思想时，表面上的重复实则是变体，增加了获得关键增量的机会。文章鼓励创作者在别人说“没有什么新东西”时坚持下去，因为在普遍领域中，“不算太新”本身就是真正的成就。这是一篇关于知识生产力的深刻沉思，推崇在广阔领域内进行渐进式探索，而非追求颠覆性突破。",
-    "best_quote_en": "The most valuable insights are both general and surprising.",
-    "best_quote_zh": "最有价值的洞察既普遍又惊人。"
-  },
-  {
-    "id": 733,
-    "title": "Legendary Chef Jacques Pépin — The Pursuit of Mastery, Cooking for Presidents, Meeting Julia Child, and More",
-    "title_zh": "传奇厨师雅克·佩帕克 — 追求卓越，为总统烹饪，结识Julia Child等",
-    "model_used": "nvidia/nemotron-3-nano-omni-30b-a3b-reasoning:free",
-    "source": "Tim Ferriss",
-    "link": "https://tim.blog/2026/10/27/jacques-pepin/",
-    "tags": [
-      "solve",
-      "education"
-    ],
-    "tags_zh": [
-      "解决",
-      "教育学习"
-    ],
-    "date": "2026-10-27",
-    "summary_en": "This exclusive YouTube interview features legendary chef Jacques Pépin reflecting on his journey from French head chef to American culinary icon. He discusses cooking for presidents, collaborating with Julia Child, and his philosophy that the kitchen is a space of equality and generosity. Pépin emphasizes preparation, teaching home cooks, and adapting recipes creatively. His work spans over 30 books, hundreds of PBS shows, and contributions to food media. The conversation highlights his humble roots, dedication to reducing food waste, and belief that cooking should make life easier and joyful.",
-    "summary_zh": "这期独家YouTube访谈聚焦传奇厨师雅克·佩帕克，回顾其从法国主厨到美国烹饪偶像的成长历程，涉及为总统烹饪、与Julia Child合作及烹饪哲学。他强调厨房平等、教导家庭主妇、重视备料与减少食物浪费，主张烹饪应让生活更轻松愉悦。他已出版30余本食书，主持数百档PBS节目，致力于烹饪普及与分享。",
-    "best_quote_en": "At that time, certainly, the cook was at the bottom of the social scale, quite different than here. … So now we are genius, we are famous.",
-    "best_quote_zh": "那时，厨师处于社会底层，与现在天壤之别……如今我们成了天才，成了名人。"
-  },
-  {
-    "id": 734,
-    "title": "美国企业养老金的退场与晚年危机",
-    "title_zh": "美国企业养老金的退场与晚年危机",
-    "model_used": "nvidia/nemotron-3.5-lightning:free",
-    "source": "虎嗅",
-    "link": "https://www.huxiu.com/article/4903302.html?f=rss",
-    "tags": [
-      "analyze",
-      "science",
-      "economics",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "分析",
-      "科学研究",
-      "经济金融",
-      "未来预测"
-    ],
-    "date": "2026-11-05",
-    "summary_en": "This profound book review examines the evolution and crisis of American retirement systems, tracing the shift from traditional defined-benefit pensions to volatile 401(k) accounts. The author illuminates how policy changes, corporate restructuring, and market forces have transferred retirement risk from institutions to individuals, disproportionately impacting low-income workers. Through historical case studies like Studebek and Sears, the analysis reveals the fragility of pension promises and the inadequacy of market-dependent savings. The review ultimately argues for guaranteed retirement accounts that pool risk across employers and workers, ensuring dignified retirements regardless of market fluctuations or personal financial literacy.",
-    "summary_zh": "这篇书评深刻剖析了美国退休制度的演变与危机，追踪了从传统定额养老金向波动性401(k)账户的转变。作者揭示了政策变动、企业重组和市场力量如何将退休风险从机构转移到个人身上，尤其是对低收入工人产生不成比例的影响。通过斯图德贝克和西尔斯等历史案例，分析揭示了养老金承诺的脆弱性和市场依赖储蓄的不足。评论最终主张建立有保障的退休账户，跨企业和工人汇集风险，确保无论市场波动或个人理财水平如何，都能体面退休。",
-    "best_quote_en": "\"Retirement security cannot only look at how much assets workers have accumulated, but also whether these money can maintain their remaining lives,\" argues Giularduchi. The shift to 401(k) places disproportionate risk on individuals, particularly those with limited income who may be forced to work indefinitely when savings fall short.",
-    "best_quote_zh": "\"退休保障不能只看劳动者积累了多少资产，还要看这些钱能否维持他们的余生。\" 吉拉尔杜奇指出，401(k)将更多责任交给了个人，收入有限的劳动者尤其难以承担其中的风险。"
-  },
-  {
-    "id": 735,
-    "title": "特朗普输掉中期选举，“民主党重掌国会”意味着什么？",
-    "title_zh": "特朗普输掉中期选举，“民主党重掌国会”意味着什么？",
-    "model_used": "nvidia/nemotron-3.5-lightning:free",
-    "source": "三联生活周刊",
-    "link": "http://weixin.sogou.com/weixin?type=2&query=%E4%B8%89%E8%81%94%E7%94%9F%E6%B4%BB%E5%91%A8%E5%88%8A+%E7%89%B9%E6%9C%97%E6%99%AE%E8%BE%93%E6%8E%89%E4%B8%AD%E6%9C%9F%E9%80%89%E4%B8%BE%EF%BC%8C%E2%80%9C%E6%B0%91%E4%B8%BB%E5%85%9A%E9%87%8D%E6%8E%8C%E5%9B%BD%E4%BC%9A%E2%80%9D%E6%84%8F%E5%91%B3%E7%9D%80%E4%BB%80%E4%B9%88%EF%BC%9F",
-    "tags": [
-      "solve",
-      "politics",
-      "controversial"
-    ],
-    "tags_zh": [
-      "解决",
-      "政治时事",
-      "争议观点"
-    ],
-    "date": "2026-11-04",
-    "summary_en": "The US midterm elections resulted in a Democratic wave, with the party gaining control of both the Senate and House. Driven by voter frustration over inflation and living costs, Democrats secured key victories across swing states. Despite Trump's efforts, his policies are seen as exacerbating economic pressures. The shift signals potential gridlock for Trump's remaining term and sets the stage for a competitive 2028 presidential race, highlighting deep internal Democratic divisions on future direction.",
-    "summary_zh": "美国中期选举结果出炉，民主党在参众两院全部逆转占得多数席位。选民对物价、生活成本的怨气是投票的关键因素，特朗普的逆全球化政策被视为加剧了民众负担。民主党的胜利在很大程度上是对手的失败，暴露了其内部的派系分歧。这标志着特朗普后半任期施政可能面临阻碍，并为2028年总统大选的竞争定调。",
-    "best_quote_en": "Affordability became the election's defining issue, highlighting voter frustration with economic conditions.",
-    "best_quote_zh": "“可负担性”成为本次选举的定义性议题，凸显了选民对经济状况的不满。"
-  },
-  {
-    "id": 736,
-    "title": "Can You Help Me Find Dracula?",
-    "title_zh": "你能帮我找到德古拉吗？",
-    "model_used": "google/gemma-4-31b-it:free",
-    "source": "A year of reading the world",
-    "link": "https://ayearofreadingtheworld.com/2026/11/03/can-you-help-me-find-dracula/",
-    "tags": [
-      "analyze",
-      "writing-content"
-    ],
-    "tags_zh": [
-      "分析",
-      "写作内容"
-    ],
-    "date": "2026-11-03",
-    "summary_en": "This piece is a compelling invitation into the fluid nature of cultural translation and literary migration. The author explores the 'shapeshifting' quality of iconic characters, using the fascinating example of Kottayam Pushpanath's Malayalam Dracula novels to illustrate how a Western archetype can be repurposed to critique British colonialism in India. Beyond a simple project announcement, the text raises a profound intellectual question: why do certain narratives possess the elasticity to survive and evolve across disparate linguistic and cultural landscapes? The author's approach is one of genuine curiosity, treating literature not as a static artifact but as a living entity that travels and transforms, inviting a global crowdsourced effort to map the genealogy of a myth.",
-    "summary_zh": "这篇文章不仅是一个项目的招募令，更是一次关于文化翻译与文学迁徙的深刻探讨。作者通过德古拉在印度马拉雅拉姆语文学中的变体，揭示了经典角色如何通过“变形”来承载当地的政治隐喻（如反殖民主义）。这种对文学流动性的好奇心极具启发性，它将文学视为一种活着的、不断演变的有机体。文章引导我们思考：一个文化符号在跨越语言边界时，究竟在丢失什么，又在获得什么？",
-    "best_quote_en": "I want to track the character of Dracula around the globe... what it is that makes certain characters travel and shapeshift between cultures and languages.",
-    "best_quote_zh": "我想追踪德古拉在全世界的足迹……探究究竟是什么让某些角色能够在不同的文化和语言之间旅行并变换形态。"
-  },
-  {
     "id": 737,
     "title": "New Research Tests Whether AI Models Know Their Own Thoughts",
     "title_zh": "新研究测试人工智能模型是否知晓自己的思想",
@@ -2510,5 +2397,130 @@
     "summary_zh": "「Stravaig」是摄影师詹姆斯·帕克的一个视觉作品集，而非文章。通过18张精心构图的高质量照片，它展现了人与环境的关系、空间感知和视觉叙事。这套作品对摄影爱好者、艺术学生和创意专业人士极具启发价值，强调通过构图和光影进行视觉表达的探索。其价值在于激发观众的视觉分析与情感共鸣，而非提供文字叙事。",
     "best_quote_en": "This work is about creating moments that feel both intimate and universal, capturing the quiet poetry of everyday existence through the lens.",
     "best_quote_zh": "这些作品旨在捕捉既亲密又普遍的时刻，通过镜头展现日常存在的静谧诗意。"
+  },
+  {
+    "id": 832,
+    "title": "Life is Short",
+    "title_zh": "人生苦短",
+    "title_en": "Life is Short",
+    "model_used": "baidu/ernie-5.5-flash-preview:free",
+    "translation_model_used": null,
+    "source": "Paul Graham",
+    "link": "http://www.paulgraham.com/vb.html",
+    "tags": [
+      "solve",
+      "general",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "解决",
+      "general",
+      "未来预测"
+    ],
+    "date": "2026-11-25",
+    "summary_en": "Paul Graham’s essay turns a familiar cliché into a practical ethic. By using his children to convert time into countable units—fifty-two weekends, eight Christmases—he makes finitude feel concrete rather than abstract. The insight is not merely that life is short, but that shortness becomes actionable when we identify what is “bullshit”: meetings, status games, online fights, and addictive distractions that trick us into surrendering attention. What impresses me is the essay’s refusal to moralize; it treats avoidance as a design problem, requiring conscious choices about employers, customers, and habits. The most moving section links regret to unlived possibilities, especially after his mother’s death, suggesting that presence is not passive but a form of respect. Ultimately, the piece is a compact philosophy of attention: prune the fake, do not postpone what matters, and savor ordinary moments before they disappear. It also warns that technological progress will make distraction more potent, demanding deliberate resistance.",
+    "summary_zh": "这篇文章把“人生苦短”从感慨变成一种生活策略。作者用孩子的周末和圣诞节把时间量化，让人意识到真正有限的是可经历的次数。他主张无情剔除无意义的会议、争执和网络消耗，并把注意力投向值得的人和事。最打动我的是，他把遗憾理解为未充分活过的可能，提醒我们不要等待。生命的意义不在宏大，而在专注与珍惜。这种清醒让人更主动地选择生活，并珍惜当下。",
+    "best_quote_en": "Relentlessly prune bullshit, don't wait to do things that matter, and savor the time you have.",
+    "best_quote_zh": "无情地清除无意义之事，不要拖延真正重要的事，珍惜所拥有的时间。"
+  },
+  {
+    "id": 833,
+    "title": "The Tim Ferriss Show Transcripts: Timeless Principles for Fast-Changing Times — Asymmetric Bets, Effectiveness Over Efficiency, Identity Diversification, and The Books I Keep Rereading (#890)",
+    "title_zh": "特伦特·费尔里斯秀转录稿：在快速变革时代，非对称投注、效率优于效率、身份多元化以及我最常重读的书籍（第890期）",
+    "title_en": "The Tim Ferriss Show Transcripts: Timeless Principles for Fast-Changing Times — Asymmetric Bets, Effectiveness Over Efficiency, Identity Diversification, and The Books I Keep Rereading (#890)",
+    "model_used": "nvidia/nemotron-3-nano-omni-30b-a3b-reasoning:free",
+    "translation_model_used": null,
+    "source": "Tim Ferriss",
+    "link": "https://tim.blog/2026/11/21/timeless-principles-transcript/",
+    "tags": [
+      "solve",
+      "writing-content"
+    ],
+    "tags_zh": [
+      "解决",
+      "写作内容"
+    ],
+    "date": "2026-11-21",
+    "summary_en": "This episode of The Tim Ferriss Show features Tim Ferriss in conversation with Zuhairah Washington, offering timeless principles for navigating rapid societal and technological change. Ferriss applies the 80/20 framework from The 4-Hour Workweek to business strategy, emphasizing definition, elimination, and automation to achieve liberation. Key insights include focusing on high-impact customers (the 'critical few'), automating supply chain processes, and using tools like Dreamlining to define target monthly income. He stresses that AI amplifies both productivity and meaningless work, requiring deliberate focus on enduring values. The discussion highlights identity diversification, rereading foundational books like The Effective Executive, and the importance of building robust systems through mini-retirements. While the content is broadly applicable beyond real estate, its core value lies in actionable systems thinking for personal and professional resilience in volatile times.",
+    "summary_zh": "特伦特·费尔里斯在与扎胡拉·华盛顿的对话中强调，在快速变革时代，通过定义人生目标、消除低价值任务、自动化供应链流程，实现系统性解放。他以80/20原则为核心，指出应专注于高价值客户而非低效工作，借助'Dreamlining'明确财务目标，并警惕AI放大无意义劳动的风险。节目提供身份多元化、重读经典管理著作等永恒原则，为跨领域用户提供构建韧性系统的实用框架，超越了房地产话题的局限性。",
+    "best_quote_en": "Doing the right things matters a lot more than doing things well.",
+    "best_quote_zh": "做对的事比做得好更重要。"
+  },
+  {
+    "id": 834,
+    "title": "实测豆包小豆：眼里有活儿，还得心里有数",
+    "title_zh": "实测豆包小豆：眼里有活儿，还得心里有数",
+    "title_en": "Field Test of ByteDance's Dou Bao Xiaodou: Eyes Have Life, But Mind Must Keep Count",
+    "model_used": "nvidia/nemotron-3-nano-omni-30b-a3b-reasoning:free",
+    "translation_model_used": null,
+    "source": "虎嗅",
+    "link": "https://www.huxiu.com/article/4908449.html?f=rss",
+    "tags": [
+      "update",
+      "writing-content",
+      "design"
+    ],
+    "tags_zh": [
+      "动态",
+      "写作内容",
+      "设计创意"
+    ],
+    "date": "2026-11-25",
+    "summary_en": "This field test of ByteDance's new Personal Agent 'Xiaodou' reveals significant potential alongside notable limitations. While Xiaodou demonstrates impressive cross-platform task automation through its extensive plugin ecosystem (including third-party services like Alipay, DingTalk, and GitHub) and proactive 'active vision' capabilities, its core challenge lies in information overload and lack of contextual judgment. The review shows Xiaodou excels at simple, well-defined tasks like price monitoring and automated reminders, but struggles with complex, multi-step processes requiring human-like adaptability (e.g., restaurant reservations when phone lines are busy). Crucially, Xiaodou's strength in gathering user context from Dou Bao creates a privacy paradox - it knows more than users intend. The analysis concludes that while Xiaodou represents a significant leap in AI agent functionality, its current implementation makes it less convenient than dedicated apps for most daily tasks, suggesting Personal Agents remain more viable in markets with weaker digital service ecosystems than China's highly developed internet landscape.",
+    "summary_zh": "这篇实测豆包小豆的文章揭示了AI个人助理的巨大潜力与现实局限。小豆凭借跨平台插件生态（覆盖阿里、腾讯、字节系等）和主动式「眼里有活儿」的特性，在价格监测、任务提醒等场景表现不俗，但核心痛点在于信息过载和缺乏情境判断——比如在餐厅电话无法接通时仍尝试代拨，或直接推送高价商品导致用户损失。更关键的是隐私争议：小豆通过豆包账号同步用户数据，甚至发现了用户极度私密的出行计划。文章指出，中国用户已习惯用美团、抖音等专业App解决此类场景，小豆的便捷性被其信息混乱和逻辑局限所抵消。尽管字节给予充足资源扶持，但小豆距离成为「非用不可」仍有较大距离，Personal Agent赛道在中国市场的适配性受多重挑战限制。",
+    "best_quote_en": "It's like a capable, enthusiastic but boundary-less junior colleague who needs human understanding and tolerance.",
+    "best_quote_zh": "它就像一个有能力、有热情、却又缺乏边界感的职场新人，格外需要人类的理解和包容。"
+  },
+  {
+    "id": 835,
+    "title": "父辈之外的人生",
+    "title_zh": "父辈之外的人生",
+    "title_en": "Life Beyond the Generations",
+    "model_used": "nvidia/nemotron-3.5-lightning:free",
+    "translation_model_used": null,
+    "source": "三联生活周刊",
+    "link": "http://weixin.sogou.com/weixin?type=2&query=%E4%B8%89%E8%81%94%E7%94%9F%E6%B4%BB%E5%91%A8%E5%88%8A+%E7%88%B6%E8%BE%88%E4%B9%8B%E5%A4%96%E7%9A%84%E4%BA%BA%E7%94%9F",
+    "tags": [
+      "inspire",
+      "education",
+      "case-study"
+    ],
+    "tags_zh": [
+      "启发",
+      "教育学习",
+      "案例研究"
+    ],
+    "date": "2026-11-25",
+    "summary_en": "This article explores the lives of two educators in rural Guizhou, Pan Deming and Principal Yang Suibo, who returned home after working in Guangdong. It examines how economic shifts, improved transportation, and educational reforms are reshaping rural youth's aspirations, challenging the traditional path of leaving home to work, and advocating for expanded horizons beyond parental expectations.",
+    "summary_zh": "文章探讨了贵州两位教育工作者潘德标和阳速波的经历，他们返回家乡后见证了交通便利与教育改革如何改变农村青年的职业选择，打破传父辈留工的固定模式，拓宽了留守儿童和乡村学生的未来可能性。",
+    "best_quote_en": "The railway opened, but children's imagination remained stuck in old patterns.",
+    "best_quote_zh": "路修通了，孩子们对未来的想象仍在旧模式里打转。"
+  },
+  {
+    "id": 836,
+    "title": "The Refragmentation",
+    "title_zh": "碎片化现象",
+    "title_en": "The Refragmentation",
+    "model_used": "nvidia/nemotron-3-nano-omni-30b-a3b-reasoning:free",
+    "translation_model_used": null,
+    "source": "Paul Graham",
+    "link": "http://www.paulgraham.com/re.html",
+    "tags": [
+      "solve",
+      "leadership",
+      "startup-strategy",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "解决",
+      "领导管理",
+      "创业策略",
+      "未来预测"
+    ],
+    "date": "2026-11-25",
+    "summary_en": "The article argues that recent societal fragmentation—political polarization, cultural homogeneity in 'happy cities,' and rising inequality—is not driven by forces pulling people apart but by the erosion of unifying forces from mid-20th century America, particularly World War II and large national corporations. WWII created temporary economic and social cohesion through wage controls, high taxes on top earners, and mass mobilization, while large corporations fostered uniformity in work culture and consumer choices. The author suggests this era of 'the big, national corporation' created an artificial middle ground that is now collapsing, with modern fragmentation emerging as the system reverts to pre-war diversity. The piece frames contemporary trends as a re-fragmentation rather than new fragmentation, noting global trends toward less fragmentation while the US experiences unique disintegration.",
+    "summary_zh": "文章认为当代碎片化（政治极化、城市同质化、经济不平等）并非由外部力量导致，而是因消解了二战及大企业带来的短暂统一力量。二战通过 wage controls、高税率及大规模动员实现经济与社会均等化，而大企业则通过标准化工作文化与消费选择维持统一。作者指出当代碎片化是系统回归多元化而非新碎片化，全球趋势更趋向融合，而美国因特殊历史背景正经历独特解体。",
+    "best_quote_en": "The forces that pushed us together were an anomaly, a one-time combination of circumstances unlikely to be repeated.",
+    "best_quote_zh": "推动我们走向一致的力量是罕见的偶然现象，不太可能重复出现。"
   }
 ]
