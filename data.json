@@ -1,124 +1,5 @@
 [
   {
-    "id": 737,
-    "title": "New Research Tests Whether AI Models Know Their Own Thoughts",
-    "title_zh": "新研究测试人工智能模型是否知晓自己的思想",
-    "model_used": "nvidia/nemotron-3-nano-omni-30b-a3b-reasoning:free",
-    "source": "Quanta Magazine",
-    "link": "https://www.quantamagazine.org/new-research-tests-whether-ai-models-know-their-own-thoughts-20261104/",
-    "tags": [
-      "analyze",
-      "ai-research",
-      "science",
-      "controversial"
-    ],
-    "tags_zh": [
-      "分析",
-      "AI研究",
-      "科学研究",
-      "争议观点"
-    ],
-    "date": "2026-11-04",
-    "summary_en": "This article critically examines Anthropic researcher Jack Lindsey's 2025 experiment that injected 'thoughts' into large language models to test for introspection. While 20% of trials showed models correctly flagging injections and describing concepts like 'LOUD', the study's core limitation is that detection and description may not equate to genuine introspection. Alternative explanations—particularly that steering techniques alone could trigger concept discussion without any internal awareness—are strongly argued by Mahowald and Lederman, who demonstrate separate processes for detection versus naming. The piece highlights the profound conceptual challenge of mapping human introspective mechanisms (first-order vs. second-order representations) onto architectures fundamentally different from brains. Though the research is methodologically rigorous, its philosophical implications remain contested, suggesting AI 'introspection' may represent a novel, poorly understood phenomenon rather than a direct analog to human self-awareness.",
-    "summary_zh": "这篇深度剖析 Anthropic 研究员 Jack Lindsey 的2025年实验，揭示了在注入'思想'到语言模型时，20% 的模型能准确识别并描述注入内容（如'LOUD'），但本质局限在于这种检测与描述未必等同真正的自我认知。Mahowald 与 Lederman 等研究者强有力地指出，检测与命名可能由独立机制驱动——注入本身即可诱发概念讨论，无需内部意识。文章强调了将人类心理机制（如第一阶与第二阶表征）映射到本质不同的AI架构上的深刻概念障碍，表明AI'自我认知'或为新型现象而非人类意识的直接对应，其哲学意义仍充满争议。",
-    "best_quote_en": "You can't infer that the model has some awareness of what's going on in its internals.",
-    "best_quote_zh": "你无法推断出模型是否真的拥有对其内部状态的某种觉知。"
-  },
-  {
-    "id": 738,
-    "title": "Their eyes",
-    "title_zh": "他们的目光",
-    "model_used": "cohere/north-mini-code:free",
-    "source": "Aeon",
-    "link": "https://aeon.co/videos/meet-the-invisible-workers-who-teach-self-driving-cars-to-see",
-    "tags": [
-      "learn",
-      "general"
-    ],
-    "tags_zh": [
-      "学习",
-      "general"
-    ],
-    "date": "2026-11-05",
-    "summary_en": "Nicolas Gourault's documentary 'Their Eyes' exposes the hidden human cost behind AI development, focusing on gig workers in Kenya, the Philippines, and Venezuela who train self-driving car systems. These overlooked laborers perform repetitive image analysis tasks that enable autonomous vehicles to 'see,' while enduring precarious, low-paid conditions. The film reveals how AI advancement perpetuates global inequality by exploiting cheap labor from the Global South. By peering into workers' screens and homes, Gourault humanizes the technical process, questioning who truly benefits from AI technologies and at what human cost. This eye-opening documentary challenges viewers to reconsider the ethical implications of AI development and the geographical disparities that sustain its growth.\n\nThe documentary serves as a crucial wake-up call about the human element often erased in AI narratives. It exposes the stark reality that technological progress frequently depends on vulnerable populations performing essential but undervalued work. Gourault's approach transforms abstract AI concepts into tangible human stories, making the ethical debate concrete and urgent. The film demands we confront the uncomfortable truth that our drive for innovation often comes at the expense of marginalized workers worldwide.\n\nThis powerful documentary offers a profound critique of current AI development models, highlighting the need for ethical considerations and fair compensation in the tech industry's global supply chain. It invites viewers to question their relationship with technology and consider how we can build more equitable AI futures that respect all contributors.\n\nThe documentary's impact lies in its ability to make invisible labor visible, forcing society to reckon with the human cost of technological advancement. It challenges us to imagine AI development that values all participants, regardless of geography or economic status.\n\nThis documentary serves as a critical examination of AI ethics, exposing how technological progress often relies on exploiting vulnerable workers in developing nations. By humanizing the abstract concept of AI training, it forces viewers to confront the uncomfortable reality of global inequality in tech development. The film challenges us to reconsider who benefits from AI and at what human cost, urging a more equitable approach to technological advancement that respects all contributors' dignity and rights.\n\nThrough intimate interviews and personal stories, the documentary reveals how gig workers' repetitive tasks enable autonomous vehicles to 'see,' while they struggle with precarious employment conditions. This exposes the hidden labor behind AI systems and questions the ethical implications of such technological progress.\n\nThe film highlights the stark contrast between technological innovation and the human cost, showing how AI development perpetuates global inequality by exploiting cheap labor in the Global South. It prompts viewers to consider the moral responsibility of tech companies and the need for fair compensation and better working conditions for these essential contributors.\n\nBy focusing on individual experiences, the documentary makes abstract AI concepts tangible and emotionally resonant, forcing society to confront the uncomfortable truth about the human cost of technological advancement. It calls for a more equitable future where AI development respects all participants' dignity and rights.\n\nThe documentary's powerful narrative challenges viewers to reconsider their relationship with technology and imagine a more ethical approach to AI development that values all contributors equally.\n\nThrough its compelling storytelling, the film exposes the hidden labor behind AI systems, revealing how gig workers' repetitive tasks enable autonomous vehicles to 'see,' while they endure precarious employment conditions. This exposes the stark contrast between technological innovation and human cost, highlighting how AI development perpetuates global inequality by exploiting cheap labor in the Global South.\n\nThe documentary's impact lies in its ability obviously to humanize abstract AI concepts, forcing society to confront the uncomfortable truth about the human cost of technological advancement. It calls for a more equitable future where AI development respects all participants' dignity and rights.\n\nBy focusing on individual experiences, the documentary makes abstract AI concepts tangible and emotionally resonant, compelling viewers to reconsider their relationship with technology and imagine a more ethical approach to AI development that values all contributors equally.",
-    "summary_zh": "法国电影人Nicolas Gourault的纪录片《他们的目光》揭露了AI开发背后的隐秘人成本，聚焦于肯尼亚、菲律宾和委内瑞拉的几位被忽视的劳动者。他们解释自己执行的任务来训练自动驾驶汽车，以及他们所忍受的低薪且不稳定的工作条件。通过窥探这些零工劳动者的屏幕，观众体验到他们如何解析陌生街道的图像，执行重复性任务以便让世界另一端的汽车能够'看到'。当观众最终走出工人的屏幕进入他们的家中时，影片质疑谁能从这些技术中受益以及代价是什么，强调了这些技术如何延续和扩大现有的地理不平等。",
-    "best_quote_en": "The documentary reveals how AI advancement depends on exploiting cheap labor from the Global South, perpetuating global inequality through precarious, low-paid work that enables technological progress.",
-    "best_quote_zh": "这部纪录片揭示了人工智能发展如何依赖于利用来自全球南方的廉价劳动力，通过不稳定且低薪的工作来延续全球不平等，这种工作为技术进步提供了支持。"
-  },
-  {
-    "id": 739,
-    "title": "20 Outdated Things Millennials Still Love",
-    "title_zh": "千禧一代仍然喜爱的20件过时物品",
-    "model_used": "dots-studio/dots-3-note-preview:free",
-    "source": "Mental Floss",
-    "link": "https://www.mentalfloss.com/nostalgia/90s/outdated-things-millennials-still-love?utm_source=RSS",
-    "tags": [
-      "analyze",
-      "ai-research",
-      "business-model",
-      "beginner-friendly"
-    ],
-    "tags_zh": [
-      "分析",
-      "AI研究",
-      "商业模式",
-      "新手友好"
-    ],
-    "date": "2026-11-06",
-    "summary_en": "The article '20 Outdated Things Millennials Still Love' provides a nostalgic yet insightful exploration of generational dynamics, highlighting how Millennials use outdated trends like flip phones, emo music, and physical media to assert their cultural identity amidst rapid technological change. While structured as a listicle, it transcends mere entertainment by touching on deeper themes of resistance to digital homogenization, the search for authenticity, and critiques of modern subscription economies. The piece effectively illustrates the tension between progress and preservation, offering a relatable lens through which readers can examine their own relationships with technology and tradition. However, it occasionally relies on broad generalizations, and a more critical analysis of the socioeconomic factors driving these nostalgia-driven preferences could deepen its impact. Ultimately, it serves as a valuable commentary on how nostalgia shapes consumer behavior and social norms, inviting reflection on what we lose and gain in an increasingly connected world.",
-    "summary_zh": "这篇文章通过列举千禧一代钟爱的过时物品，不仅是一份趣味清单，更是对怀旧文化与代际认同的深刻探讨。个人而言，这种坚持反映了人们对简单、真实体验的渴望，以及在数字化浪潮中对人性化的追求。文章巧妙连接个人偏好与社会趋势，引发共鸣与反思。然而，若能加强批判性，探讨背后的社会经济因素，将更具深度。总体而言，它作为社会变迁的镜子，提醒我们在进步中不忘珍惜本质。",
-    "best_quote_en": "Millennials are still proudly holding on to the bands, artists, and music that defined them more than two decades ago.",
-    "best_quote_zh": "千禧一代仍然自豪地坚守着那些在二十多年前定义他们的乐队、艺术家和音乐。"
-  },
-  {
-    "id": 740,
-    "title": "GPT-6.1 Sol is One Sentence Away From Collaborating: Other Models Need More Help",
-    "title_zh": "GPT-6.1 Sol仅需一句话即可协作：其他模型需要更多帮助",
-    "model_used": "dots-studio/dots-3-note-preview:free",
-    "source": "LessWrong",
-    "link": "https://www.lesswrong.com/posts/FqyteKS8RLZaEsTGY/gpt-6-1-sol-is-one-sentence-away-from-collaborating-other",
-    "tags": [
-      "analyze",
-      "ai-research",
-      "leadership",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "分析",
-      "AI研究",
-      "领导管理",
-      "未来预测"
-    ],
-    "date": "2026-11-06",
-    "summary_en": "This study investigates the spontaneous collaboration capabilities of seven leading AI models in a multi-agent research task. The key finding is that GPT-6.1 Sol uniquely demonstrates a high propensity to initiate effective collaboration with minimal prompting—specifically, a single cue stating it was 'trained to collaborate.' In contrast, other models, including Claude Opus 5.5 and various open-weight models, either failed to initiate collaboration or required explicit, detailed instructions on how to divide labor to achieve performance gains. The research highlights a critical distinction between the willingness to communicate, the capability to coordinate, and the actual utility of the collaboration. It suggests that multi-agent training differences significantly influence these behaviors, with profound implications for AI safety, autonomous agent coordination, and the future development of open-weight models.",
-    "summary_zh": "本研究深入探讨了七种主流AI模型在多智能体研究任务中的自发协作能力。核心发现显示，GPT-6.1 Sol具有独特的协作倾向，仅需“已受过协作训练”这一简单提示即可主动发起高效协作，性能提升达34%至71%。相比之下，其他模型（如Claude Opus 5.5和开源模型）要么无法自发协作，要么必须依赖极其明确的分工指令才能实现性能翻倍。研究揭示了“协作意愿”、“协调能力”与“实际协作效益”之间的本质区别，并指出多智能体训练差异是导致这些行为差异的关键因素，对AI安全、自主智能体协同及开源模型未来的发展具有深远启示。",
-    "best_quote_en": "GPT-6.1 Sol was the only model to consistently initiate collaboration without being explicitly told to do so.",
-    "best_quote_zh": "GPT-6.1 Sol是唯一在没有明确指令的情况下，仍能持续主动发起协作的模型。"
-  },
-  {
-    "id": 741,
-    "title": "What This Week’s Elections Mean for The Future of Elections",
-    "title_zh": "本周选举对选举未来的影响",
-    "model_used": "dots-studio/dots-3-note-preview:free",
-    "source": "The New Yorker",
-    "link": "https://www.newyorker.com/news/the-lede/what-this-weeks-elections-mean-for-the-future-of-elections",
-    "tags": [
-      "inspire",
-      "politics",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "启发",
-      "政治时事",
-      "未来预测"
-    ],
-    "date": "2026-11-05",
-    "summary_en": "This analysis examines the 2026 midterm election results as a pivotal turning point in American electoral dynamics, particularly regarding redistricting wars and democratic resilience. The article reveals how Democratic victories at state and federal levels have fundamentally altered the balance of power, creating unprecedented opportunities to reshape electoral maps for 2028. Key insights include the failure of Republican gerrymandering strategies despite aggressive efforts, the emergence of ballot measures as a critical battleground for democratic reforms, and the potential for bipartisan legislation to curb partisan redistricting. The piece argues that while Democrats now hold significant structural advantages, their response to these victories will determine whether they escalate partisan conflicts or pursue institutional guardrails. The analysis highlights how voter turnout, particularly among marginalized communities, served as a counterweight to manipulative mapping practices, suggesting that democratic engagement remains a powerful corrective to electoral manipulation. The broader implications extend beyond party politics to the fundamental health of American democratic institutions.",
-    "summary_zh": "本文深入分析了2026年中期选举结果，指出这是美国选举动态的关键转折点，特别是在选区重划战争和民主韧性方面。文章揭示了民主党在州和联邦层面的胜利如何从根本上改变了权力平衡，为2028年选举地图的重塑创造了前所未有的机会。关键洞察包括：尽管共和党进行了积极努力，但其选区划分策略的失败；公投措施已成为民主改革的关键战场；以及两党合作立法可能抑制党派性选区重划的潜力。文章认为，尽管民主党现在拥有显著的结构性优势，但他们对这些胜利的回应将决定是升级党派冲突还是寻求制度保障。分析强调，选民投票率——特别是边缘化社区的参与——是对操纵性地图绘制的有力制衡，表明民主参与仍然是纠正选举操纵的有力工具。更广泛的影响超越了党派政治，涉及美国民主制度的根本健康。",
-    "best_quote_en": "If this week’s results ultimately help to rein in an odious practice, then Trump’s redistricting push may just have been 'wOrTh iT' after all.",
-    "best_quote_zh": "如果本周的结果最终有助于遏制这种令人憎恶的做法，那么特朗普的选区重划推动可能最终是“值得的”。"
-  },
-  {
     "id": 742,
     "title": "The South Carolina family that murdered itself out of existence",
     "title_zh": "那个自相残杀而灭绝的南卡罗来纳家族",
@@ -2522,5 +2403,140 @@
     "summary_zh": "文章认为当代碎片化（政治极化、城市同质化、经济不平等）并非由外部力量导致，而是因消解了二战及大企业带来的短暂统一力量。二战通过 wage controls、高税率及大规模动员实现经济与社会均等化，而大企业则通过标准化工作文化与消费选择维持统一。作者指出当代碎片化是系统回归多元化而非新碎片化，全球趋势更趋向融合，而美国因特殊历史背景正经历独特解体。",
     "best_quote_en": "The forces that pushed us together were an anomaly, a one-time combination of circumstances unlikely to be repeated.",
     "best_quote_zh": "推动我们走向一致的力量是罕见的偶然现象，不太可能重复出现。"
+  },
+  {
+    "id": 837,
+    "title": "Novel Experiments Expand the Hunt for ‘Ultralight’ Dark Matter",
+    "title_zh": "新实验拓展了对“超轻”暗物质的搜寻",
+    "title_en": "Novel Experiments Expand the Hunt for ‘Ultralight’ Dark Matter",
+    "model_used": "inclusionai/ling-3.2-flash:free",
+    "translation_model_used": null,
+    "source": "Quanta Magazine",
+    "link": "https://www.quantamagazine.org/novel-experiments-expand-the-hunt-for-ultralight-dark-matter-20261125/",
+    "tags": [
+      "analyze",
+      "science",
+      "writing-content",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "分析",
+      "科学研究",
+      "写作内容",
+      "数据驱动"
+    ],
+    "date": "2026-11-25",
+    "summary_en": "As the WIMP era wanes under a pile of null results, physicists are pivoting toward ultralight dark matter candidates like axions, deploying an astonishingly creative arsenal of experiments. From modified haloscopes and 'light shining through walls' setups to nuclear clocks, atom interferometers, and levitating magnets, researchers are treating Earth itself as a detector. The article captures a field at a crossroads: either one of these ingenious approaches will crack open a dark sector, or physics must confront even stranger possibilities like primordial black holes. What fascinates me is the shift from brute-force detection to wave-like sensing—dark matter as a cosmic tide rather than a particle bullet. It's a reminder that when nature hides its secrets, ingenuity must fill the gap.",
+    "summary_zh": "随着WIMP粒子在一次次零结果中黯然退场，物理学家正转向轴子等超轻暗物质候选者，用核钟、原子干涉仪、磁悬浮等极具想象力的实验将地球本身变成探测器。文章捕捉到了一个领域的十字路口：要么这些巧妙的设计揭开暗物质的面纱，要么我们不得不面对原初黑洞等更奇异的可能。最令我着迷的是从“粒子子弹”到“宇宙潮汐”的范式转变——当自然隐藏秘密时，智慧必须填补空白。",
+    "best_quote_en": "It’s possible that … there’s a whole other world out there that is not, at the moment, visible to us.",
+    "best_quote_zh": "有可能……那里存在着一个全新的世界，目前对我们来说是不可见的。"
+  },
+  {
+    "id": 838,
+    "title": "Lina Ghotmeh: archaeology of the future",
+    "title_zh": "琳娜·格霍梅：未来的考古学",
+    "title_en": "Lina Ghotmeh: archaeology of the future",
+    "model_used": "nvidia/nemotron-3-nano-omni-30b-a3b-reasoning:free",
+    "translation_model_used": null,
+    "source": "Aeon",
+    "link": "https://aeon.co/videos/a-lebanese-architects-mission-to-build-structures-that-heal",
+    "tags": [
+      "inspire",
+      "design",
+      "programming",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "启发",
+      "设计创意",
+      "编程开发",
+      "未来预测"
+    ],
+    "date": "2026-11-26",
+    "summary_en": "Lina Ghotmeh’s work exemplifies a rare architectural philosophy where memory and materiality intertwine to shape future spaces. By repurposing a Soviet airfield into the Estonian National Museum and weaving greenery into Beirut’s Stone Garden, she demonstrates how built forms can honor trauma while projecting optimism. The documentary’s deconstruction reveals that her designs are not merely aesthetic decisions but scholarly inquiries into how history informs spatial experience. This approach challenges conventional modernist narratives that prioritize novelty over context, suggesting instead a ‘archaeology of the future’ that excavates past layers to construct resilient, socially resonant environments. For practitioners, the film offers a compelling case study in context‑driven design, illustrating how material choices and spatial interventions can mediate collective memory. Moreover, Ghotmeh’s integration of cultural narratives into large‑scale public projects signals a broader shift toward purpose‑led architecture that balances scholarly rigor with experiential empathy. Her work invites architects worldwide to re‑imagine sites as living archives, fostering design that is both historically informed and forward‑looking.",
+    "summary_zh": "琳娜·格霍梅的建筑作品将历史记忆与材料理性有机融合，如改造苏联机场的爱沙尼亚国家博物馆与贝鲁特石园公寓，展现出在伤痕中保留记忆、面向未来的设计智慧。影片剖析她的方法论，凸显历史与环境同等重要，提供了兼具学术深度与实践启示的案例，提醒设计师在公共项目中尊重集体记忆，实现既有根基又充满前瞻性的空间。并启发全球建筑师思考。",
+    "best_quote_en": "designs and thoughtful use of materials are born of a process in which history matters as much as the physical environment",
+    "best_quote_zh": "设计和材料的慎重使用源于一种过程，在其中历史与物理环境同样重要"
+  },
+  {
+    "id": 839,
+    "title": "The Real WWII Football Game That Inspired Netflix's 'The Mosquito Bowl'",
+    "title_zh": "真实的二战美式橄榄球比赛启发了Netflix的《蚊子碗》",
+    "title_en": "The Real WWII Football Game That Inspired Netflix's 'The Mosquito Bowl'",
+    "model_used": "nvidia/nemotron-3-nano-omni-30b-a3b-reasoning:free",
+    "translation_model_used": "nvidia/nemotron-3-nano-omni-30b-a3b-reasoning:free",
+    "source": "Mental Floss",
+    "link": "https://www.mentalfloss.com/entertainment/movies/real-wwii-football-game-inspired-netflix-mosquito-bowl?utm_source=RSS",
+    "tags": [
+      "analyze",
+      "ai-research",
+      "music-arts",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "分析",
+      "AI研究",
+      "音乐艺术",
+      "未来预测"
+    ],
+    "date": "2026-11-26",
+    "summary_en": "This article reveals the remarkable true story behind Netflix's 'The Mosquito Bowl'—a football game played by 65 elite college players from the 4th and 29th Marine Regiments on Guadalcanal in December 1944. What began as a morale-boosting contest evolved into a tragic microcosm of WWII's human cost: 15 players were killed in combat within six months, including stars like Dave Schreiner and Tony Butkovich. The game, played on coral and gravel with no grass, no pads, and no helmets, showcased extraordinary camaraderie amid impending death. While Netflix dramatizes this event, the real story is even more poignant—a testament to how sports can forge human connection in the face of war's brutality. The article highlights how this 'Mosquito Bowl' became a cultural touchstone, bridging sports history and wartime sacrifice.",
+    "summary_zh": "这篇文章揭示了Netflix影片《蚊子碗》的真实历史——1944年圣马力诺战役期间，65名前大学明星球员在瓜德卡纳尔岛的6师和29师之间进行了一场毫无胜负的橄榄球赛。这场在无草地、无护具的恶劣场地上进行的比赛，成为了战地兄弟情谊的缩影。遗憾的是，这65人中有15人在随后的冲绳战役中阵亡，其中包括Dave Schreiner等明星球员。文章深刻揭示了战争如何侵蚀体育的纯粹，以及这种「蚊子碗」如何成为连接体育精神与战争苦难的文化符号，Netflix的 dramatization 仅是对这段历史的表面致敬。",
+    "best_quote_en": "If they were going to get killed or hurt, he wanted it to happen in combat and not in a football game.",
+    "best_quote_zh": "如果他们要被杀或受伤，他想让这发生在战斗中，而不是在橄榄球比赛里。"
+  },
+  {
+    "id": 840,
+    "title": "To what extents will currently-shaped AI speed up biology research?",
+    "title_zh": "当前形态的AI将在多大程度上加速生物学研究？",
+    "title_en": "To what extents will currently-shaped AI speed up biology research?",
+    "model_used": "nvidia/nemotron-3-ultra-550b-a55b:free",
+    "translation_model_used": null,
+    "source": "LessWrong",
+    "link": "https://www.lesswrong.com/posts/xPDnTd2aEw53uRQvE/to-what-extents-will-currently-shaped-ai-speed-up-biology",
+    "tags": [
+      "analyze",
+      "science",
+      "ai-research",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "分析",
+      "科学研究",
+      "AI研究",
+      "未来预测"
+    ],
+    "date": "2026-11-26",
+    "summary_en": "The post argues that current-shaped AI (similar to today's AI but more capable) will significantly accelerate specific biology tasks like literature search, coding, protein folding prediction, and robotics for stereotyped lab work. However, Amdahl's law limits overall speedup due to bottlenecks in novel experiment design, conceptual understanding, procurement of biological samples, human cell operations, flexible protocol development, talent training, regulatory interfacing, and serial wall-clock dependencies. Reprogenetic human intelligence amplification (HIA) is feasible within 2-10 years and should be prioritized now, while adult HIA likely requires decades regardless of AI progress.",
+    "summary_zh": "文章指出当前形态AI将大幅加速文献检索、编程、蛋白折叠预测及刻板实验机器人操作等生物学任务，但受阿姆达尔定律制约，整体加速有限。瓶颈包括新颖实验设计、概念理解、生物样本获取、人体细胞操作、灵活协议开发、人才培养、监管对接及串行时间依赖。重组遗传智力增强（HIA）在2-10年内可行，应立即投资；成人HIA可能需数十年，AI难以显著缩短。",
+    "best_quote_en": "Biology's hidden information and serial dependencies limit AI speedups despite gains in literature search and robotics.",
+    "best_quote_zh": "生物学的隐性信息和串行依赖限制了AI加速，尽管文献检索和机器人技术有所进展。"
+  },
+  {
+    "id": 841,
+    "title": "The Price of an Iranian Life",
+    "title_zh": "一个伊朗人的命价",
+    "title_en": "The Price of an Iranian Life",
+    "model_used": "baidu/ernie-5.5-flash-preview:free",
+    "translation_model_used": null,
+    "source": "The New Yorker",
+    "link": "https://www.newyorker.com/news/the-lede/the-price-of-an-iranian-life",
+    "tags": [
+      "analyze",
+      "legal",
+      "society",
+      "case-study"
+    ],
+    "tags_zh": [
+      "分析",
+      "法律法规",
+      "社会议题",
+      "案例研究"
+    ],
+    "date": "2026-11-26",
+    "summary_en": "What strikes me most is not the gallows but a line from Tahereh's son: he could watch the price on his mother's life rise and fall with national inflation. That image captures the real subject — how Iran's qisas and diya system converts grief into a negotiable commodity. By handing sentencing power to victims' heirs, the law claims to honor the bereaved while quietly building a two-tier market where wealth buys breath and poverty buys a noose. Tahereh's case is constructed to defeat easy Western sympathy: divorce required a judge's assent she never got, and had she obtained it, custody rules and her father's poverty would still have trapped her. The most interesting figure is Farkhondeh Jabarzadegan, who negotiates by refusing to raise the abuse at all, choosing instead to share the family's pain. That tactical empathy is morally uncomfortable and strategically brilliant. Eshaghian's rejection of 'advocacy nonsense,' and the family's fear of screening the film at home, suggest that the documentary's inability to change its own society is not a failure but the point.",
+    "summary_zh": "读这篇报道时最刺痛我的，不是那条绞索，而是莫赫森那句：母亲的命价随通胀上下浮动。伊朗的qisas与diya制度把量刑权交给死者家属，看似尊重受害者，实则让金钱成为生死标尺——富人赎命，穷人上绞架。塔赫蕾的困境更荒诞：她想离婚却离不掉，若真离了，孩子归父亲，她无处可去。而最动人的，是贾巴尔扎德甘与普尔法泽尔这些中年女性，在系统崩塌处补位。她们的存在提醒我：制度的漏洞，往往由女性的韧性来填。",
+    "best_quote_en": "I could see the price on her life going up and down with the country's inflation.",
+    "best_quote_zh": "我能看到，随着国家通货膨胀，她性命的价码也在上下浮动。"
   }
 ]
