@@ -1,114 +1,5 @@
 [
   {
-    "id": 742,
-    "title": "The South Carolina family that murdered itself out of existence",
-    "title_zh": "那个自相残杀而灭绝的南卡罗来纳家族",
-    "model_used": "nvidia/nemotron-3.5-super-vl:free",
-    "source": "Kevin Kelly",
-    "link": "https://kk.org/cooltools/the-south-carolina-family-that-murdered-itself-out-of-existence/",
-    "tags": [
-      "analyze",
-      "ai-research",
-      "case-study"
-    ],
-    "tags_zh": [
-      "分析",
-      "AI研究",
-      "案例研究"
-    ],
-    "date": "2026-11-06",
-    "summary_en": "This piece explores the dark, multi-generational history of the Bigham family of South Carolina, whose legacy of violence spans from the mid-1800s until their extinction. The narrative focuses on Leonard Smiley Bigham Sr., a violent plantation owner suspected of nine murders who taught his son to succeed through cheating, beating, and killing. The pattern continued through generations, with poisoned milk becoming a family trademark, culminating in nearly 20 confirmed murders. What makes this analysis compelling is not just the catalog of atrocities, but the examination of how violence becomes normalized within a family culture—committed \"as thoughtlessly as most people make their morning coffee.\" The piece also reviews J.A. Zeigler's self-published book \"The Last of the Bighams,\" acknowledging its literary flaws while recognizing its value as a colorful, opinionated account of an evil family that repeatedly escaped justice. The analysis raises profound questions about inherited trauma, the normalization of violence, and how societal structures can enable multigenerational criminality.",
-    "summary_zh": "这篇文章深入探讨了南卡罗来纳州比厄姆家族跨越多代的黑暗历史，其暴力遗产从19世纪中叶延续到家族灭亡。核心人物伦纳德·斯迈利·比厄姆 Sr. 是一名暴力的种植园主，涉嫌谋杀九人，却教导儿子通过欺骗、殴打和杀戮来成功。这种模式在后代中延续，毒牛奶成为家族商标，共计近20起确认谋杀。最引人深思的不仅是暴行清单，而是暴力如何在家族文化中常态化——像煮早咖啡般随意地犯下罪行。文章还评论了J.A.齐格勒自出版的《比厄姆家族的最后一代》，承认其文学缺陷，但认可其作为关于邪恶家族多次逃脱正义的生动、主观叙述的价值。这引发了关于代际创伤、暴力正常化以及社会结构如何助长多代犯罪的深刻问题。",
-    "best_quote_en": "The Bighams committed horrific acts of violence as thoughtlessly as most people make their morning coffee.",
-    "best_quote_zh": "比厄姆家族犯下的可怕暴行，就像大多数人煮早咖啡一样随意。"
-  },
-  {
-    "id": 743,
-    "title": "Essentials: Cold & Heat Exposure for Metabolic Health | Dr. Susanna Søberg",
-    "title_zh": "代谢健康的冷热暴露要点 | 苏珊娜·瑟伯格博士",
-    "model_used": "nvidia/nemotron-3.5-super-vl:free",
-    "source": "Huberman Lab",
-    "link": "https://www.hubermanlab.com/episode/essentials-cold-and-heat-exposure-for-metabolic-health-susanna-soberg",
-    "tags": [
-      "solve",
-      "health-wellness"
-    ],
-    "tags_zh": [
-      "解决",
-      "健康养生"
-    ],
-    "date": "2026-11-05",
-    "summary_en": "This Huberman Lab Essentials episode features Dr. Susanna Søberg, a metabolic scientist from the University of Copenhagen, discussing how deliberate cold and heat exposure can significantly improve metabolic health. The conversation centers on practical protocols for activating brown fat, enhancing insulin sensitivity, and building physiological resilience through controlled environmental stress. Key insights include the 'Søberg Principle' of ending cold exposure on cold to maximize after-drop metabolism, and the synergistic benefits of sequencing sauna with cold immersion. The content bridges cutting-edge metabolic science with actionable wellness practices, offering specific temperature and duration guidelines that users can immediately apply. While the science is promising, the episode maintains a balanced perspective on individual variability and safety considerations. The discussion reveals how brief, intentional stress exposures can trigger adaptive responses that support long-term health, making complex physiological concepts accessible to general audiences interested in evidence-based biohacking and metabolic optimization.",
-    "summary_zh": "本期Huberman Lab Essentials邀请到哥本哈根大学代谢科学家苏珊娜·瑟伯格博士，探讨冷热暴露如何改善代谢健康。核心观点包括通过“瑟伯格原则”（结束于冷暴露）最大化冷后代谢反应，以及冷热交替激活棕色脂肪、提升胰岛素敏感性的具体方案。内容将前沿代谢科学与可操作的健康实践相结合，提供了温度和时长等具体参数。虽然科学前景乐观，但也强调了个体差异和安全性。这期节目揭示了短暂、有意识的环境压力如何触发适应性反应，支持长期健康，将复杂的生理概念转化为普通大众可理解的循证生物黑客指南。",
-    "best_quote_en": "The Søberg Principle: end on cold to maximize the after-drop and metabolic benefits of cold exposure.",
-    "best_quote_zh": "瑟伯格原则：以冷暴露结束，以最大化冷后代谢反应和冷暴露的代谢益处。"
-  },
-  {
-    "id": 744,
-    "title": "Rachel Kushner’s Remarks at the Second Annual Harper’s Magazine Award Ceremony",
-    "title_zh": "Rachel Kushner在《Harper's》第二届年度奖项典礼上的讲话",
-    "model_used": "nvidia/nemotron-3-nano-omni-30b-a3b-reasoning:free",
-    "source": "Harper’s Magazine",
-    "link": "https://harpers.org/2026/11/rachel-kushners-remarks-at-the-second-annual-harpers-magazine-award-ceremony/",
-    "tags": [
-      "analyze",
-      "ai-research"
-    ],
-    "tags_zh": [
-      "分析",
-      "AI研究"
-    ],
-    "date": "2026-11-06",
-    "summary_en": "Rachel Kushner's remarks at Harper's 175th-anniversary award ceremony reveal the magazine's enduring legacy of intellectual independence and literary excellence through its curated archive of iconic works and contributors. She highlights pivotal moments in Harper's history—from publishing Faulkner's overlooked 'Pantaloon in Black' to sending writers like Roy DeCarava and Ben Ehrenreich to capture societal undercurrents—demonstrating how the publication has consistently amplified marginalized voices and complex narratives. Kushner positions Harper's as an antidote to contemporary 'idiocy,' particularly AI-driven oversimplification, advocating reading and writing as essential acts of resistance. The ceremony celebrates not just individual achievement but the magazine's role as a living archive of public good, where intellectual independence and literary excellence converge to shape cultural discourse. This reflection underscores how Harper's continues to serve as a vital platform for truth-telling amid turbulent times.",
-    "summary_zh": "Rachel Kushner在《Harper's》175周年奖项典礼上强调，该杂志通过精选富有启发性的文章和作者，如福克纳的《黑人》或罗伊的写作，持续捍卫知识独立与文学卓越。她将《Harper's》视为对抗人工智能时代肤浅的智慧灯塔，认为阅读与写作是抵抗愚昧的必要手段。这不仅是对过往贡献者的致敬，更是对媒体在公共利益时代坚守独立性的深刻肯定，提醒我们在动荡时代坚持真实叙事的重要性。",
-    "best_quote_en": "The best way I know to protect myself from idiocy is to read and to write. And the longest-running and most ambitious and sophisticated outlet for both is Harper's Magazine.",
-    "best_quote_zh": "我保护自己免于愚昧的最好方式就是阅读和书写。而最长期、最宏大且最精致的媒介正是《Harper's Magazine》。"
-  },
-  {
-    "id": 745,
-    "title": "Easy Travel Coffee/Priciest Destinations/Worldwide Airplane Wi-Fi",
-    "title_zh": "便携手冲咖啡/最贵旅游目的地/达美航空全球Wi-Fi",
-    "model_used": "nvidia/nemotron-3-ultra-550b-a55b:free",
-    "source": "Kevin Kelly",
-    "link": "https://kk.org/cooltools/easy-travel-coffee-priciest-destinations-worldwide-airplane-wi-fi/",
-    "tags": [
-      "analyze",
-      "lifestyle",
-      "writing-content"
-    ],
-    "tags_zh": [
-      "分析",
-      "生活方式",
-      "写作内容"
-    ],
-    "date": "2026-11-05",
-    "summary_en": "This newsletter delivers three practical travel hacks wrapped in a broader meditation on how we experience the world. The disposable pour-over coffee packets solve a genuine nomad pain point: maintaining coffee rituals without hauling gear. The cost analysis reveals how tourism economics distort local realities — Botswana's $1,526 daily average isn't about luxury but conservation pricing that excludes locals. Delta's global Wi-Fi rollout signals the death of 'disconnected travel' as a choice rather than necessity. But the religious history timeline is the intellectual gem: it reframes faith traditions as a 2,000-year game of telephone, where oral transmission gaps of centuries guarantee theological mutation. Together, these pieces ask whether modern travel — optimized, connected, price-transparent — has lost the transformative friction that once made journeys meaningful.",
-    "summary_zh": "这期通讯用三个实用贴士包裹着对旅行本质的深度反思。一次性手冲咖啡包解决了数字游民的真实痛点：不拖装备也能保持咖啡仪式。博茨瓦纳日均$1526的天价揭示了旅游经济如何扭曲当地现实——这不是奢华定价而是保护性排他。达美全球Wi-Fi标志着「断网旅行」从必然变成选择。但宗教演变时间线才是思想亮点：将信仰传承比作两千年的传话游戏，几个世纪的口述断层必然导致神学变异。这些碎片合问：当旅行被优化、连接、透明化，我们是否失去了曾让旅程具有转化力的那些摩擦？",
-    "best_quote_en": "How much changed in the 300+ years of oral storytelling between when Jesus died and the New Testament books were published for the first time? Or in the 500 years between the death of Buddha and the first recorded teachings?",
-    "best_quote_zh": "耶稣去世到新约首次出版的300多年口述传承中，究竟变了多少？佛陀圆寂到首次记录教义的500年间，又发生了多少演变？"
-  },
-  {
-    "id": 746,
-    "title": "Access the Sublime & Live Your Best Life | Robert Greene",
-    "title_zh": "通往崇高：罗伯特·格林谈如何活出生命的极致",
-    "model_used": "nvidia/nemotron-3-ultra-550b-a55b:free",
-    "source": "Huberman Lab",
-    "link": "https://www.hubermanlab.com/episode/access-the-sublime-and-live-your-best-life-robert-greene",
-    "tags": [
-      "solve",
-      "general"
-    ],
-    "tags_zh": [
-      "解决",
-      "general"
-    ],
-    "date": "2026-11-02",
-    "summary_en": "This conversation between Robert Greene and Andrew Huberman transcends the typical self-help interview, evolving into a profound meditation on what it means to be fully alive. Greene's concept of the 'Sublime'—those moments when we transcend our limited ego and touch something vast—serves as a compass for navigating modern fragmentation. What struck me most was the reframing of attention not as a productivity hack but as a spiritual practice: the 'neuro-sublime' accessible through deliberate slowness, handwriting, and musical thinking. Greene's stroke experience adds visceral authenticity; his description of losing language yet gaining a purified perception mirrors the very transcendence he describes. The discussion on love as 'sublime vulnerability'—embracing both masculine and feminine energies within—offers a refreshing antidote to polarized gender discourse. While some practical tools (mountain climbing, observing cuttlefish) may seem esoteric, the underlying message is radical: our humanity is reclaimed not through optimization but through surrender to wonder. This isn't about living your 'best life' in the Instagram sense—it's about living a life that can actually hold the weight of existence.",
-    "summary_zh": "这不是一场普通的访谈，而是一场关于\"活着\"意味着什么的深度冥想。格林将\"崇高\"定义为超越小我、触及浩瀚的时刻——这成为了对抗现代碎片化的指南针。最震撼我的是：注意力不再是生产力工具，而是灵性修行。通过刻意放慢、手写、像音乐家一样思考，我们能触及\"神经性崇高\"。格林中风后失去语言却获得纯净感知的经历，本身就是他所言超越的具象化。关于爱作为\"崇高脆弱性\"的论述——接纳内在的阴阳双能——为两极化的性别话题提供了解药。那些看似玄奥的工具（登山、观察墨鱼）背后，是激进的信息：我们通过臣服于惊奇而非优化效率，才能夺回人性。这关乎活出生命的分量，而非朋友圈里的\"最佳人生\"。",
-    "best_quote_en": "The Sublime is that moment when you transcend your limited self and you touch something that is vast, that is eternal, that is beyond words. It's not about optimizing your life—it's about surrendering to wonder.",
-    "best_quote_zh": "崇高是你超越有限的自我、触及某种浩瀚、永恒、言语无法企及的时刻。这不是优化人生——而是臣服于惊奇。"
-  },
-  {
     "id": 747,
     "title": "Tributes paid after death of Television guitarist Richard Lloyd: “A seeker and finder and a true inspiration”",
     "title_zh": "致敬已故电视频道吉他手理查德·劳埃德：\"一位探索者、发现者和真正的灵感来源\"",
@@ -2538,5 +2429,128 @@
     "summary_zh": "读这篇报道时最刺痛我的，不是那条绞索，而是莫赫森那句：母亲的命价随通胀上下浮动。伊朗的qisas与diya制度把量刑权交给死者家属，看似尊重受害者，实则让金钱成为生死标尺——富人赎命，穷人上绞架。塔赫蕾的困境更荒诞：她想离婚却离不掉，若真离了，孩子归父亲，她无处可去。而最动人的，是贾巴尔扎德甘与普尔法泽尔这些中年女性，在系统崩塌处补位。她们的存在提醒我：制度的漏洞，往往由女性的韧性来填。",
     "best_quote_en": "I could see the price on her life going up and down with the country's inflation.",
     "best_quote_zh": "我能看到，随着国家通货膨胀，她性命的价码也在上下浮动。"
+  },
+  {
+    "id": 842,
+    "title": "Bye to Kindle Fire/3 eSIM Options/Australia Working Holiday",
+    "title_zh": "告别 Kindle Fire / 3 个 eSIM 选项实测 / 澳洲打工度假签证新政",
+    "title_en": "Bye to Kindle Fire / 3 eSIM Options Tested / Australia Working Holiday Visa Changes",
+    "model_used": "nvidia/nemotron-3-ultra-550b-a55b:free",
+    "translation_model_used": null,
+    "source": "Kevin Kelly",
+    "link": "https://kk.org/cooltools/bye-to-kindle-fire-3-esim-options-australia-working-holiday/",
+    "tags": [
+      "solve",
+      "lifestyle",
+      "case-study"
+    ],
+    "tags_zh": [
+      "解决",
+      "生活方式",
+      "案例研究"
+    ],
+    "date": "2026-11-26",
+    "summary_en": "This edition of Nomadico delivers four practical travel-tech dispatches from the road. The Kindle Fire's discontinuation signals Amazon's pivot from affordable multi-function tablets to pricier Alexa-locked hardware — a loss for budget travelers who valued its hackability. The eSIM field test (Holafly, GigSky, Saily) reads like a rare honest comparison: each has trade-offs, and the author's willingness to name specific providers after 3.5 months in Asia carries more weight than most sponsored reviews. The backup-planning section is the sleeper hit — a checklist mindset that separates seasoned nomads from anxious tourists. Australia's visa tweaks reveal how immigration policy bends to labor shortages: rural work requirements for visa extensions are a clever nudge, but the added bureaucracy may deter the very youth they need. Collectively, these pieces form a compact masterclass in travel resilience: buy the right gear while it exists, test connectivity before you depend on it, plan for failure, and read the fine print on visas.",
+    "summary_zh": "这期 Nomadico 像个精简的旅行生存包：Kindle Fire 退市折射出大厂为利润牺牲性价比的常态；三款 eSIM 实测难得没掺水，Holafly 贵但无上限、GigSky 稳、Saily 省心，作者敢在 3.5 个月亚洲行后点名推荐，比广告可信得多；备份清单看似琐碎，实则是老手与新手的分水岭；澳洲工签新政则暴露移民政策如何向劳动力短缺妥协 —— 要求去偏远地区干四个月活才能续签，既是诱饵也是门槛。四件小事拼出一堂隐形课：趁早买对装备、落地前测网、预案想得越详细越从容、签证条款得盯着读。",
+    "best_quote_en": "Setting up backups in advance beats the stress of putting the pieces back together later.",
+    "best_quote_zh": "提前建好备选方案，远比事后拼凑碎片来得从容。"
+  },
+  {
+    "id": 843,
+    "title": "Essentials: How to Learn Better & Create Your Best Future | Tim Ferriss",
+    "title_zh": " essentials：如何学得更好并创造你最好的未来 | 蒂姆·费里斯",
+    "title_en": "Essentials: How to Learn Better & Create Your Best Future | Tim Ferriss",
+    "model_used": "baidu/ernie-5.5-flash-preview:free",
+    "translation_model_used": null,
+    "source": "Huberman Lab",
+    "link": "https://www.hubermanlab.com/episode/essentials-how-to-learn-better-and-create-your-best-future-tim-ferriss",
+    "tags": [
+      "solve",
+      "psychology",
+      "writing-content"
+    ],
+    "tags_zh": [
+      "解决",
+      "心理学",
+      "写作内容"
+    ],
+    "date": "2026-11-26",
+    "summary_en": "This Essentials episode compresses Tim Ferriss's operating system for learning and living into a tight arc: generate ideas through deliberate location shifts, structure thinking via writing, and treat attention as the scarcest resource to be allocated rather than spent. The most striking move is his Past Year Review, a ritual that converts memory into data and interrupts the autopilot most of us mistake for progress. What gives the episode unusual weight is the tonal shift when Ferriss discusses depression, suicidal ideation, and childhood abuse. He refuses to frame suffering as a branding asset, instead treating it as raw material that requires active meaning-making. The mentorship and volunteering segment is quietly subversive: networks are built by offering value first, not by asking. My honest reservation is that Ferriss's self-experimentation model presumes a degree of autonomy and risk tolerance that many listeners simply do not have. Still, the underlying claim holds up: mastery is less about intensity than about designing environments that make the desired behavior the path of least resistance.",
+    "summary_zh": "费里斯把学习与生活的方法论压缩成一条清晰的线索：靠变换环境激发想法，靠写作整理思维，把注意力当作最稀缺的资源来配置而非消耗。年度回顾这一工具尤其精彩，它把记忆转化为数据，打断我们误当作进步的自动驾驶。真正让这期节目有分量的是他谈及抑郁、自杀念头与童年创伤时的坦诚——他拒绝把痛苦包装成个人品牌资产，而强调必须主动赋予其意义。我对自我实验模式持保留态度，因为它默认听众拥有相当的自主权与风险承受力。但核心洞见站得住脚：精通的关键不在强度，而在于设计出让正确行为成为最省力路径的环境。",
+    "best_quote_en": "Networks are built by offering value first, not by asking — and attention is the scarcest resource you will ever allocate.",
+    "best_quote_zh": "网络的建立靠的是先提供价值，而不是索取——而注意力是你 ever 要配置的、最稀缺的资源。"
+  },
+  {
+    "id": 844,
+    "title": "John Edgar Wideman’s Remarks at the Second Annual Harper’s Magazine Awards Ceremony",
+    "title_zh": "John Edgar Wideman 在第二届哈泽杂志颁奖典礼上的致辞",
+    "title_en": "John Edgar Wideman’s Remarks at the Second Annual Harper’s Magazine Awards Ceremony",
+    "model_used": "nvidia/nemotron-3.5-lightning:free",
+    "translation_model_used": null,
+    "source": "Harper’s Magazine",
+    "link": "https://harpers.org/2026/11/john-edgar-widemans-remarks-at-the-second-annual-harpers-magazine-awards-ceremony/",
+    "tags": [
+      "analyze",
+      "education",
+      "controversial"
+    ],
+    "tags_zh": [
+      "分析",
+      "教育学习",
+      "争议观点"
+    ],
+    "date": "2026-11-04",
+    "summary_en": "John Edgar Wideman's acceptance remarks at Harper's Magazine's 175th anniversary awards ceremony transcend typical acceptance speech conventions, weaving personal meditation with linguistic playfulness. Rather than conventional gratitude, Wideman explores the philosophical weight of self-esteem as a survival mechanism against aging and societal deterioration. His prose moves fluidly between observations of water's 'luminous rippling' and meditations on Scotland's elusive identity, creating a tapestry where personal memory, linguistic curiosity, and existential questioning intertwine. The speech's most compelling moments emerge when Wideman connects his friend's name 'Scotland Calvin Payne' to broader questions about naming, identity, and the stories we construct to endure loss. This address stands as a remarkable testament to literature's capacity to find profound meaning in seemingly mundane moments of linguistic and existential uncertainty.",
+    "summary_zh": "威德曼在哈泽杂志175周年庆典上的获奖感言，超越了典型的致谢惯例，将个人沉思与语言的玩fulness相结合。与其传统感谢，不如他探讨了自尊作为对抗衰老和社会衰退生存机制的哲学重量。他的文风在观察水的‘发光的波纹’与对苏格兰转瞬即逝身份的沉思之间流畅移动，创造了个人记忆、语言好奇心和存在主义疑问的挂毯。最引人入胜的时刻出现于威德曼将朋友的名字‘Scotland Calvin Payne’与关于命名、身份和我们为承受损失而构建的故事的更广泛问题联系起来时。这篇致辞是文学寻找深刻意义于看似平凡的语言和存在不确定性时刻的非凡证明。",
+    "best_quote_en": "\"Esteem that matters most is self-esteem. What others may think or say about me, their estimates of my worth, my value do matter, of course, but only if I possess self-esteem. This simple truth frees and sustains me as age consumes me, as the world around me deteriorates.\"",
+    "best_quote_zh": "\"最重要的尊重是自尊。别人对我的看法、他们对我价值的评估当然很重要，但前提是我拥有自尊。这个简单的真理在衰老吞噬我、周围世界恶化时，让我自由并维持下去。\""
+  },
+  {
+    "id": 845,
+    "title": "What’s in my NOW? — Joana Vieira",
+    "title_zh": "我的现状：Joana Vieira",
+    "title_en": "What’s in my NOW? — Joana Vieira",
+    "model_used": "google/gemma-4-31b-it:free",
+    "translation_model_used": null,
+    "source": "Kevin Kelly",
+    "link": "https://kk.org/cooltools/whats-in-my-now-joana-vieira/",
+    "tags": [
+      "analyze",
+      "ai-research",
+      "design"
+    ],
+    "tags_zh": [
+      "分析",
+      "AI研究",
+      "设计创意"
+    ],
+    "date": "2026-11-25",
+    "summary_en": "Joana Vieira, a researcher based in northern Portugal, shares the tools and habits that shape her current life. Her physical essentials include La Sportiva hiking boots for mountain adventures, Uniball pens for smooth writing, and a Zoom H1n recorder for capturing soundscapes. Digitally, she relies on BiblioLED for flexible reading and explores the Public Domain Review for artistic inspiration. Beyond material things, she emphasizes the 'invisible' power of silence and active listening, which she finds transformative both in her personal life and her professional work as a UX researcher.",
+    "summary_zh": "居住在葡萄牙北部的研究员 Joana Vieira 分享了她目前生活中的核心工具与习惯。在物质层面，她推荐用于登山的 La Sportiva 靴子、流畅的 Uniball 签字笔以及用于记录环境音的 Zoom H1n 录音机；在数字领域，她利用 BiblioLED 增加阅读量并关注 Public Domain Review。此外，她特别强调了“沉默”这一无形资产，认为学会倾听和留白对她的个人生活及 UX 研究工作具有深远的变革意义。",
+    "best_quote_en": "the skill of being quiet and giving space to others is truly transformative.",
+    "best_quote_zh": "保持安静并给他人留出空间的技巧，真正具有变革力量。"
+  },
+  {
+    "id": 846,
+    "title": "Access the Power of Now to Experience Life More Fully | Eckhart Tolle",
+    "title_zh": "运用当下的力量，更充分地体验生活 | 埃克哈特·托利",
+    "title_en": "Access the Power of Now to Experience Life More Fully | Eckhart Tolle",
+    "model_used": "baidu/ernie-5.5-flash-preview:free",
+    "translation_model_used": null,
+    "source": "Huberman Lab",
+    "link": "https://www.hubermanlab.com/episode/access-the-power-of-now-to-experience-life-more-fully-eckhart-tolle",
+    "tags": [
+      "solve",
+      "general"
+    ],
+    "tags_zh": [
+      "解决",
+      "general"
+    ],
+    "date": "2026-11-23",
+    "summary_en": "What strikes me most is how Tolle reframes presence not as mystical escape but as a trainable perceptual skill. His opening tool, sensory awareness without labeling, is essentially attention stripped of commentary, and it lands with unusual precision in a podcast otherwise built on mechanisms and metrics. The dialogue's real tension sits between conceptual knowing and nonconceptual knowing: we mistake our mental maps for reality, then suffer when life refuses to match them. His triangle analogy for balancing striving and being feels genuinely useful rather than merely poetic, especially alongside his warning that challenges are structurally necessary for consciousness to deepen. I remain somewhat skeptical of 'channeling' and the guru-adjacent framing he himself critiques, yet the practical core holds up: quiet compulsive thinking, acknowledge the silence, act without over-identifying with outcomes. The most provocative implication is that goals and spiritual growth need not compete, provided ego does not annex either.",
+    "summary_zh": "托利把「当下」从玄学拉回可训练的感知技能，这一点耐人寻味：不加标签地觉察感官，本质是剥离内心评论的注意力。对话真正的张力在概念性认知与非概念性认知之间——我们把思维地图误认成现实，于是痛苦。三角类比与「挑战是意识深化的必要条件」颇具实操性。我对「传导」和偶像化叙事存疑，但核心方法站得住：止息强迫性思考、觉察静默、行动而不被结果绑架。最 provocative 的启示是，目标与灵性成长不必互斥，只要小我不去吞并任何一方。",
+    "best_quote_en": "The most provocative implication is that goals and spiritual growth need not compete, provided ego does not annex either.",
+    "best_quote_zh": "最具挑衅意味的启示在于：目标与灵性成长本不必彼此对立，只要小我不将任何一方据为己有。"
   }
 ]
